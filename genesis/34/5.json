@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 34:5",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 34,
+  "translation": "Mpe Yaakov amwaki nsoso ete abebisaki ⟨את⟩ Dina mwana na ye ya mwasi, mpe bana na ye bazalaki ⟨את⟩ banyama na ye na esanga, mpe Yaakov atikaki kimya kino bakaki.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "Mpe Yaakov"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "amwaki nsoso"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "abebisaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dina"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dina"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "mwana na ye ya mwasi"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "mpe bana na ye"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bazalaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "banyama na ye"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "banyama na ye"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "na esanga"
+    },
+    {
+      "surface": "והחרש",
+      "gloss": "mpe atikaki kimya"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "באם",
+      "gloss": "bakaki"
+    }
+  ],
+  "timestamp": "2026-09-03T16:04:07.065734231Z",
+  "model": "glm-5.3"
+}

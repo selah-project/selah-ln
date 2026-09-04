@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 7:15",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Talá, amekeli mabe, mpe amemi mokembo, mpe abotaki lokuta.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Talá"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "amekeli"
+    },
+    {
+      "surface": "און",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "והרה",
+      "gloss": "mpe amemi"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "mokembo"
+    },
+    {
+      "surface": "וילד",
+      "gloss": "mpe abotaki"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lokuta"
+    }
+  ],
+  "timestamp": "2026-09-03T23:34:09.892277527Z",
+  "model": "glm-5.3"
+}

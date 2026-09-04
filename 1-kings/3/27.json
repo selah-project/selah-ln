@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 3:27",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mokonzi ayanaki mpe alobaki: Bopela ye ⟨את⟩ mwana oyo azali na bomoi, mpe bokomua yango te; ye nde mama na yango.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ayanaki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Mokonzi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "bopela"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwana"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "החי",
+      "gloss": "oyo azali na bomoi"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "mpe bokomua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תמיתהו",
+      "gloss": "yango"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ye nde"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mama na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T23:23:02.200669843Z",
+  "model": "glm-5.3"
+}

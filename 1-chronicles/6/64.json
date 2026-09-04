@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "1-chronicles 6:64",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpe ⟨את⟩ Kedemot mpe ⟨את⟩ mabelé ya pembeni na yango, mpe ⟨את⟩ Mefaat mpe ⟨את⟩ mabelé ya pembeni na yango.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Kedemot"
+    },
+    {
+      "surface": "קדמות",
+      "gloss": "Kedemot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mabelé ya pembeni na yango"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "mabelé ya pembeni na yango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Mefaat"
+    },
+    {
+      "surface": "מיפעת",
+      "gloss": "Mefaat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mabelé ya pembeni na yango"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "mabelé ya pembeni na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T22:43:25.328313114Z",
+  "model": "glm-5.3"
+}

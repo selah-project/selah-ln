@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 1:9",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe libumu na yango mpe makolo na yango akolava na mai; mpe kohen akotumbisa ⟨את⟩ nyonso epai ya auteli, ola, mbeka ya moto, elamba ya esengo epai ya Yawe.",
+  "tokens": [
+    {
+      "surface": "וקרבו",
+      "gloss": "mpe libumu na yango"
+    },
+    {
+      "surface": "וכרעיו",
+      "gloss": "mpe makolo na yango"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "akolava"
+    },
+    {
+      "surface": "במים",
+      "gloss": "na mai"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "mpe akotumbisa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyonso"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "epai ya auteli"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ola"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mbeka ya moto"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "elamba"
+    },
+    {
+      "surface": "ניחוח",
+      "gloss": "ya esengo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "epai ya Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T16:40:15.507302086Z",
+  "model": "glm-5.3"
+}

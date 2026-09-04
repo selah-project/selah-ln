@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 35:15",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 35,
+  "translation": "Mpe Yaakov abengaki ⟨את⟩ kombo ya esika oyo Elohim alobaki ⟨את⟩ ye kuna: Bet-El.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "abengaki"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kombo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kombo"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "esika"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ye",
+      "marks": "ye"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-03T16:04:05.658915379Z",
+  "model": "glm-5.3"
+}

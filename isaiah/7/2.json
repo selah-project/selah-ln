@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 7:2",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mpe bayebisaki na ndako ya David, na koloba: Aram efandaki na Efrajim; mpe motema na ye etukisaki, mpe motema ya bato na ye, lokola botuki ya banzete ya ala liboso ya mpema.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Mpe bayebisaki"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "na ndako"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ya David"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na koloba"
+    },
+    {
+      "surface": "נחה",
+      "gloss": "efandaki"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajim"
+    },
+    {
+      "surface": "וינע",
+      "gloss": "mpe etukisaki"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "motema na ye"
+    },
+    {
+      "surface": "ולבב",
+      "gloss": "mpe motema"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ya bato na ye"
+    },
+    {
+      "surface": "כנוע",
+      "gloss": "lokola botuki"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ya banzete"
+    },
+    {
+      "surface": "יער",
+      "gloss": "ya ala"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mpema"
+    }
+  ],
+  "timestamp": "2026-09-03T19:16:24.483140962Z",
+  "model": "glm-5.3"
+}

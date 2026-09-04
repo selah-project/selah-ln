@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 106:44",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 106,
+  "translation": "Mpe amonaki mpasi na bango ⟨ntango⟩ ayokaki ⟨את⟩ mongongo na bango.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Mpe amonaki"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "mpasi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "⟨ntango⟩ ayokaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mongongo na bango"
+    },
+    {
+      "surface": "רנתם",
+      "gloss": "mongongo na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:28:45.728792558Z",
+  "model": "glm-5.3"
+}

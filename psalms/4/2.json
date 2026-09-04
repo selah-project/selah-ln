@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 4:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Na kobenga na ngai, yanganima ngai, Elohim ya bondemi na ngai; na etumba otandaki ngai; pesa ngai ngolu, mpe yangela losambo na ngai.",
+  "tokens": [
+    {
+      "surface": "בקראי",
+      "gloss": "Na kobenga na ngai"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "yanganima ngai"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "ya bondemi na ngai"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "na etumba"
+    },
+    {
+      "surface": "הרחבת",
+      "gloss": "otandaki"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "pesa ngai ngolu"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "mpe yangela"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "losambo na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:00:27.175009993Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 14:20",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Mpe Shaul babengaki, mpe bato nyonso oyo bazalaki ⟨את⟩ elongo na ye, mpe bayaki kino na etumba; mpe talá, esepi ya moto moko azalaki na moninga na ye, bolukuluku monene mpenza.",
+  "tokens": [
+    {
+      "surface": "ויזעק",
+      "gloss": "Mpe babengaki"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe bato nyonso"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ elongo na ye",
+      "marks": "elongo na ye"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "mpe bayaki"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "na etumba"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mpe talá"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ezalaki"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "esepi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ya moto moko"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "na moninga na ye"
+    },
+    {
+      "surface": "מהומה",
+      "gloss": "bolukuluku"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "monene"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mpenza"
+    }
+  ],
+  "timestamp": "2026-09-03T18:16:40.469074759Z",
+  "model": "glm-5.3"
+}

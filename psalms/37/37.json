@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 37:37",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 37,
+  "translation": "Talá moto ya bomoko, mpe talá moto ya bosembo, mpo suka ya moto wa kimya ⟨ezali⟩.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Talá"
+    },
+    {
+      "surface": "תם",
+      "gloss": "moto ya bomoko"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "mpe talá"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "moto ya bosembo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "suka"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ya moto"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "wa kimya"
+    }
+  ],
+  "timestamp": "2026-09-03T21:09:31.651160933Z",
+  "model": "glm-5.3"
+}

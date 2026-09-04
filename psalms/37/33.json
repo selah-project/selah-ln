@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 37:33",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 37,
+  "translation": "Yawe akotika ye te na loboko na ye, mpe te akoloba ye mabe na kosambela ⟨na ye⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יעזבנו",
+      "gloss": "akotika ye"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "na loboko na ye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "ירשיענו",
+      "gloss": "akoloba ye mabe"
+    },
+    {
+      "surface": "בהשפטו",
+      "gloss": "na kosambela ⟨na ye⟩"
+    }
+  ],
+  "timestamp": "2026-09-03T21:09:28.934243258Z",
+  "model": "glm-5.3"
+}

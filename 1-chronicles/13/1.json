@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 13:1",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Mpe David akabolaki makanisi elongo na bakonzi ya nkoto mpe ya nkama, na bakonzi nyonso.",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "akabolaki makanisi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עם",
+      "gloss": "elongo na"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "bakonzi"
+    },
+    {
+      "surface": "האלפים",
+      "gloss": "ya nkoto"
+    },
+    {
+      "surface": "והמאות",
+      "gloss": "mpe ya nkama"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "na nyonso"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "bakonzi"
+    }
+  ],
+  "timestamp": "2026-09-03T22:47:19.929025760Z",
+  "model": "glm-5.3"
+}

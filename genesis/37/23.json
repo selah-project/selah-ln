@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 37:23",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 37,
+  "translation": "Mpe esalaki, ntango Yosef ayeaki epai ya bandeko na ye, babundolaki ⟨את⟩ Yosef ⟨את⟩ kangeto na ye, ⟨את⟩ kangeto ya mipasi oyo azalaki na yango.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mpe esalaki"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ntango"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ayeaki"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "bandeko na ye"
+    },
+    {
+      "surface": "ויפשיטו",
+      "gloss": "babundolaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kangeto na ye"
+    },
+    {
+      "surface": "כתנתו",
+      "gloss": "kangeto na ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kangeto ya mipasi"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "kangeto"
+    },
+    {
+      "surface": "הפסים",
+      "gloss": "ya mipasi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "azalaki na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:05:29.695172496Z",
+  "model": "glm-5.3"
+}

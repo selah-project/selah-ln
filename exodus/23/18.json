@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 23:18",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Okopesa te dama ya mbeka na ngai elongo na chamets (maloba ya komela); mpe matuta ya fete na ngai ekotikala te kino tongo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תזבח",
+      "gloss": "okopesa"
+    },
+    {
+      "surface": "על",
+      "gloss": "elongo na"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "chamets"
+    },
+    {
+      "surface": "דם",
+      "gloss": "dama"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "ya mbeka na ngai"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "ekotikala"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "matuta"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "ya fete na ngai"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "tongo"
+    }
+  ],
+  "timestamp": "2026-09-03T23:13:47.484714130Z",
+  "model": "glm-5.3"
+}

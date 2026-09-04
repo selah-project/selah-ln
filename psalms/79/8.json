@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 79:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 79,
+  "translation": "Kanisa mabe ya kala te na biso; noki mawa nayo eyangeli biso, mpo tondiminiki makasi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "Kanisa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "na biso"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "ראשנים",
+      "gloss": "ya kala"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "noki"
+    },
+    {
+      "surface": "יקדמונו",
+      "gloss": "eyangeli biso"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "mawa nayo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "דלונו",
+      "gloss": "tondiminiki"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "makasi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:21:30.491315582Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 14:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Lilenge ya moto ya mawa eboyei nkombo, mpo Yawe azali esika naye ya libateli.",
+  "tokens": [
+    {
+      "surface": "עֲצַ֥ת",
+      "gloss": "lilenge"
+    },
+    {
+      "surface": "עָנִ֑י",
+      "gloss": "ya moto ya mawa"
+    },
+    {
+      "surface": "תָ֝בִ֗ישׁוּ",
+      "gloss": "eboyei nkombo"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מַחְסֵֽהוּ",
+      "gloss": "esika naye ya libateli"
+    }
+  ],
+  "timestamp": "2026-09-03T21:02:17.139539409Z",
+  "model": "glm-5.3"
+}

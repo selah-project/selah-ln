@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 22:20",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Mpe Yawe alobaki: Nani akolakisela ⟨את⟩ Ahab, mpe anyokolé mpe akwe na Ramot ya Gilad? Mpe oyo alobaki ndenge moko, mpe oyo alobaki ndenge mosusu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nani"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "akolakisela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ahab"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "mpe anyokolé"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "mpe akwe"
+    },
+    {
+      "surface": "ברמת",
+      "gloss": "na Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ya Gilad"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "זה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "ndenge moko"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "mpe oyo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "ndenge mosusu"
+    }
+  ],
+  "timestamp": "2026-09-03T18:58:22.489408875Z",
+  "model": "glm-5.3"
+}

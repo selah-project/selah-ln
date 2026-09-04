@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 31:10",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 31,
+  "translation": "Mpe ⟨את⟩ nyonso mboka na bango, na bisika bazalaki kofanda, mpe ⟨את⟩ nyonso bibwaka na bango, babomaki na moto.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "nyonso mboka na bango"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "mboka na bango"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "na bisika bazalaki kofanda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "nyonso bibwaka na bango"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "bibwaka na bango"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "babomaki na moto"
+    },
+    {
+      "surface": "באש",
+      "gloss": "na moto"
+    }
+  ],
+  "timestamp": "2026-09-03T17:19:51.036577167Z",
+  "model": "glm-5.3"
+}

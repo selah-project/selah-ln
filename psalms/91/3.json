@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 91:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 91,
+  "translation": "Mpo ye akokima yo na moku ya mokomi-nsoso, mpe na maladi ya bobomi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ye"
+    },
+    {
+      "surface": "יצילך",
+      "gloss": "akokima yo"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "na moku"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "ya mokomi-nsoso"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "mpe na maladi"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "ya bobomi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:25:12.540373917Z",
+  "model": "glm-5.3"
+}

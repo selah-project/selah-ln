@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "2-kings 17:31",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 17,
+  "translation": "Mpe ba-Avim basalaki Nivhaz mpe ⟨את⟩ Tartak, mpe ba-Sefarvaim batyaka ⟨את⟩ bana na bango na moto mpo na Adrammeleh mpe Anammeleh, banzambe ya Sefarvaim.",
+  "tokens": [
+    {
+      "surface": "והעוים",
+      "gloss": "mpe ba-Avim"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "basalaki"
+    },
+    {
+      "surface": "נבחז",
+      "gloss": "Nivhaz"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Tartak"
+    },
+    {
+      "surface": "תרתק",
+      "gloss": "Tartak"
+    },
+    {
+      "surface": "והספרוים",
+      "gloss": "mpe ba-Sefarvaim"
+    },
+    {
+      "surface": "שרפים",
+      "gloss": "batyaka na moto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bana na bango"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "bana na bango"
+    },
+    {
+      "surface": "באש",
+      "gloss": "na moto"
+    },
+    {
+      "surface": "לאדרמלך",
+      "gloss": "mpo na Adrammeleh"
+    },
+    {
+      "surface": "וענמלך",
+      "gloss": "mpe Anammeleh"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "banzambe"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "ya Sefarvaim"
+    }
+  ],
+  "timestamp": "2026-09-03T19:07:47.960161287Z",
+  "model": "glm-5.3"
+}

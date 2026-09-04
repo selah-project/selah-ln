@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 116:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 116,
+  "translation": "Nandiki, mpo nazali koloba; ngai nasembwamaki mingi.",
+  "tokens": [
+    {
+      "surface": "האמנתי",
+      "gloss": "Nandiki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "nazali koloba"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "nasembwamaki"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mingi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:30:01.615129561Z",
+  "model": "glm-5.3"
+}

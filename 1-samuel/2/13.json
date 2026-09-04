@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 2:13",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe mibeko ya bakoheni na ⟨את⟩ bato ezalaki: moto nyonso asakrifiaki sacrifice, mosaleli ya koheni ayeaki tango nyama ebumbaki, mpe forke na bino misato na mokono na ye.",
+  "tokens": [
+    {
+      "surface": "ומשפט",
+      "gloss": "mpe mibeko"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ya bakoheni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bato"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "asakrifiaki"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sacrifice"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "mpe ayeaki"
+    },
+    {
+      "surface": "נער",
+      "gloss": "mosaleli"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ya koheni"
+    },
+    {
+      "surface": "כבשל",
+      "gloss": "tango ebumbaki"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "והמזלג",
+      "gloss": "mpe forke"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "misato"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "bino"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "na mokono na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T18:10:16.295881718Z",
+  "model": "glm-5.3"
+}

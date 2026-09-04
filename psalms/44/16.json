@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 44:16",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 44,
+  "translation": "Mokolo nyonso manyanga na ngai ezali liboso na ngai, mpe soni ya elongi na ngai ezipi ngai.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "היום",
+      "gloss": "Mokolo"
+    },
+    {
+      "surface": "כלמתי",
+      "gloss": "manyanga na ngai"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "liboso na ngai"
+    },
+    {
+      "surface": "ובשת",
+      "gloss": "mpe soni"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ya elongi na ngai"
+    },
+    {
+      "surface": "כסתני",
+      "gloss": "ezipi ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:11:12.220514711Z",
+  "model": "glm-5.3"
+}

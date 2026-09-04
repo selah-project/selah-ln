@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 16:20",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Mpe Ahaz alalaki elongo na batata na ye, mpe akundwaki elongo na batata na ye na mboka ya David; mpe Hizkiya mwana na ye akomaki mokonzi na esika na ye.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "mpe alalaki"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahaz"
+    },
+    {
+      "surface": "עם",
+      "gloss": "elongo na"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "batata na ye"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "mpe akundwaki"
+    },
+    {
+      "surface": "עם",
+      "gloss": "elongo na"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "batata na ye"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "na mboka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "mpe akomaki mokonzi"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkiya"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana na ye"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "na esika na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T19:08:10.214822395Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 19:25",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Mpe na mbula ya mitano bokolia ⟨את⟩ mbota na yango, mpo na kobakisa epai na bino mboto na yango; ngai Yawe Elohim na bino.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "mpe na mbula"
+    },
+    {
+      "surface": "החמישת",
+      "gloss": "ya mitano"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "bokolia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbota na yango"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "mbota na yango"
+    },
+    {
+      "surface": "להוסיף",
+      "gloss": "mpo na kobakisa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "epai na bino"
+    },
+    {
+      "surface": "תבואתו",
+      "gloss": "mboto na yango"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim na bino"
+    }
+  ],
+  "timestamp": "2026-09-03T23:15:31.022292310Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 3:12",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe sikoyo, boyaka bino moto moko kati ya mabota ya Israel, moto mibale na zomi, moto moko, moto moko mpo na mabota.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Mpe sikoyo"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "boyaka"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bino"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "na zomi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "משבטי",
+      "gloss": "kati ya mabota"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "moko"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "moko"
+    },
+    {
+      "surface": "לשבט",
+      "gloss": "mpo na mabota"
+    }
+  ],
+  "timestamp": "2026-09-03T23:19:43.982577880Z",
+  "model": "glm-5.3"
+}

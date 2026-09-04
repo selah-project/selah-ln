@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 25:2",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Loba epai ya bana ya Israel ete bakanga ngai teruma; na moto nyonso oyo motema na ye ememaka yango, bokanga ⟨את⟩ teruma na ngai.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Loba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "יִשׂראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "mpe bakanga"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "teruma"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "na ⟨את⟩ moto nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ידבנו",
+      "gloss": "ememaka ye"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "motema na ye"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "bokanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "teruma na ngai"
+    },
+    {
+      "surface": "תרומתי",
+      "gloss": "teruma na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T16:28:33.176167400Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 149,
+  "ref": "psalms 119:149",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Koyoka elongi na ngai na kolanda hesed na yo, Yawe; na kolanda makambo na yo pesa ngai bomoi.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "elongi na ngai"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "koyoka"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "na kolanda hesed na yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כמשפטך",
+      "gloss": "na kolanda makambo na yo"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "pesa ngai bomoi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:31:23.634768084Z",
+  "model": "glm-5.3"
+}

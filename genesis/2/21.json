@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 2:21",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe Yawe Elohim abwakaki butu monene epai ya moto, mpe alalaki; mpe azwaki ⟨את⟩ cote moko ya cote na ye, mpe akangaki busara na esika na yango.",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "mpe abwakaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "butu monene"
+    },
+    {
+      "surface": "על",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "moto"
+    },
+    {
+      "surface": "ויישן",
+      "gloss": "mpe alalaki"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "mpe azwaki"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "moko"
+    },
+    {
+      "surface": "מצלעתיו",
+      "gloss": "ya cote na ye"
+    },
+    {
+      "surface": "ויסגר",
+      "gloss": "mpe akangaki"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "busara"
+    },
+    {
+      "surface": "תחתנה",
+      "gloss": "na esika na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T15:44:57.284946058Z",
+  "model": "glm-5.3"
+}

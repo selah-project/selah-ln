@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 11:1",
+  "book": "hosea",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpo Israel azalaki mwana, mpe nalingaki ye, mpe na Mitsraim nabengaki mwana na ngai.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "נער",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ואהבהו",
+      "gloss": "mpe nalingaki ye"
+    },
+    {
+      "surface": "וממצרים",
+      "gloss": "mpe na Mitsraim"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "nabengaki"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "mwana na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T20:39:39.364099257Z",
+  "model": "glm-5.3"
+}

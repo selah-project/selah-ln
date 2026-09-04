@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 2:16",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe kohen ya Midian azalaki na bana mwasi sambo; mpe bayaki, mpe basololaki mai, mpe bakotosaki ⟨את⟩ mahulu ya mai mpo na komelisa banyama ya tata na bango.",
+  "tokens": [
+    {
+      "surface": "ולכהן",
+      "gloss": "mpe kohen"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "ya Midian"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sambo"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "bana mwasi"
+    },
+    {
+      "surface": "ותבאנה",
+      "gloss": "mpe bayaki"
+    },
+    {
+      "surface": "ותדלנה",
+      "gloss": "mpe basololaki mai"
+    },
+    {
+      "surface": "ותמלאנה",
+      "gloss": "mpe bakotosaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mahulu ya mai"
+    },
+    {
+      "surface": "הרהטים",
+      "gloss": "mahulu ya mai"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "mpo na komelisa"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "banyama"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "ya tata na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:13:58.514901658Z",
+  "model": "glm-5.3"
+}

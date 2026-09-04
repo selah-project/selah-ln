@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 21:26",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Bakundaki ⟨את⟩ ye na lilita na ye na lilanga ya Uza, mpe Yoshiyahu mwana na ye akomaki mokonzi na esika na ye.",
+  "tokens": [
+    {
+      "surface": "ויקבר",
+      "gloss": "Bakundaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ye"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "na lilita na ye"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "na lilanga ya"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Uza"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "akomaki mokonzi"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoshiyahu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana na ye"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "na esika na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T19:09:14.213663393Z",
+  "model": "glm-5.3"
+}

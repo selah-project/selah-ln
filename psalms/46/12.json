@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 46:12",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 46,
+  "translation": "Yawe Tsebaot azali elongo na biso; Elohim ya Yaakov azali bobateli mpo na biso. Selah.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "azali elongo na biso"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "bobateli"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mpo na biso"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-03T21:11:38.099094901Z",
+  "model": "glm-5.3"
+}

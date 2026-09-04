@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 1:2",
+  "book": "esther",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Na mikolo yango, ntango mokonzi Achashverosh azalaki kofanda na kiti ya bokonzi na ye, oyo ezali na Shushan bira ⟨esika ya bokengi⟩.",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "Na mikolo"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "yango"
+    },
+    {
+      "surface": "כשבת",
+      "gloss": "ntango azalaki kofanda"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "kiti"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "ya bokonzi na ye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "na Shushan"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "bira ⟨esika ya bokengi⟩"
+    }
+  ],
+  "timestamp": "2026-09-03T22:18:29.788978387Z",
+  "model": "glm-5.3"
+}

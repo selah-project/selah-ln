@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 11:10",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpe ayebisaki ye likolo ya liloba oyo, ete akolanda te banzambe mosusu; kasi abatelaki te ⟨את⟩ oyo Yawe ayebisaki.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "ayebisaki"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "epai na ye"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "liloba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ete ... te"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "akolanda"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "simba ya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "banzambe"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "mosusu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kasi ... te"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "abatelaki te"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ayebisaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T18:50:15.577800Z",
+  "model": "glm-5.3"
+}

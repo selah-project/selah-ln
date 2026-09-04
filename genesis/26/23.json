@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 26:23",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "Mpe atolaki na esika wana, na Beer Sheba.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "mpe atolaki"
+    },
+    {
+      "surface": "משם",
+      "gloss": "na esika wana"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheba"
+    }
+  ],
+  "timestamp": "2026-09-03T15:57:32.718618068Z",
+  "model": "glm-5.3"
+}

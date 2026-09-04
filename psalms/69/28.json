@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 69:28",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 69,
+  "translation": "Bakisa makama na makama na bango, mpe bakota te kati ya bosolo na yo.",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "Bakisa"
+    },
+    {
+      "surface": "עון",
+      "gloss": "makama"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "makama na bango"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "bakota te"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "kati ya bosolo na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:17:17.211235137Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 119:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Nasengi ete nzela na ngai ezala ya semba, mpo na kobatela mibeko na yo!",
+  "tokens": [
+    {
+      "surface": "אחלי",
+      "gloss": "nasengi ete"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "ezala ya semba"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "nzela na ngai"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "mpo na kobatela"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "mibeko na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:30:32.303578127Z",
+  "model": "glm-5.3"
+}

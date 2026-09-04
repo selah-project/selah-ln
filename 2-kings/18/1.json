@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 18:1",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Mpe na mbula ya misato ya Hoshea mwana Ela mokonzi ya Israel, Hizkiya mwana Ahaz mokonzi ya Yuda akokaki bokonzi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mpe"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "na mbula ya"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "misato"
+    },
+    {
+      "surface": "להושע",
+      "gloss": "ya Hoshea"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ela"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "akokaki bokonzi"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Hizkiya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahaz"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ya Yuda"
+    }
+  ],
+  "timestamp": "2026-09-03T19:08:29.683337958Z",
+  "model": "glm-5.3"
+}

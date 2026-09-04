@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 78:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 78,
+  "translation": "Baana ya Efrajim, bamatami ya kobwaka nya, babongwaki na mokolo ya etumba.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Baana"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajim"
+    },
+    {
+      "surface": "נושקי",
+      "gloss": "bamatami"
+    },
+    {
+      "surface": "רומי",
+      "gloss": "kobwaka"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "nya"
+    },
+    {
+      "surface": "הפכו",
+      "gloss": "babongwaki"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na mokolo"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "ya etumba"
+    }
+  ],
+  "timestamp": "2026-09-03T21:19:30.301604313Z",
+  "model": "glm-5.3"
+}

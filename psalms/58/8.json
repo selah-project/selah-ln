@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 58:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 58,
+  "translation": "Bayebana te lokola mai oyo etambolaka, etambola na bango; ntango moto abongisi saga, ekatama.",
+  "tokens": [
+    {
+      "surface": "ימאסו",
+      "gloss": "bayebana te"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "lokola"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mai"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "etambolaka"
+    },
+    {
+      "surface": "למו",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "abongisi"
+    },
+    {
+      "surface": "חצו",
+      "gloss": "saga"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "lokola"
+    },
+    {
+      "surface": "יתמללו",
+      "gloss": "ekatama"
+    }
+  ],
+  "timestamp": "2026-09-03T21:14:24.203428389Z",
+  "model": "glm-5.3"
+}

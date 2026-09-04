@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 18:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Mopeti mokwaki na pembe naye, mpe liyo na monoko naye liali; maalite balatakaki na yango.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "mokwaki"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "mopeti"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "na pembe naye"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "mpe liyo"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "na monoko naye"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "liali"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "maalite"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "balatakaki"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:04:10.584298984Z",
+  "model": "glm-5.3"
+}

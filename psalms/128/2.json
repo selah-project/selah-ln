@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 128:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 128,
+  "translation": "Mosala ya maboko na yo okolia mpo; ikoki yo, mpe malamu ezali mpo na yo.",
+  "tokens": [
+    {
+      "surface": "יגיע",
+      "gloss": "Mosala"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "ya maboko na yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "okolia"
+    },
+    {
+      "surface": "אשריך",
+      "gloss": "ikoki yo"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "mpe malamu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ezali mpo na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:33:04.244867707Z",
+  "model": "glm-5.3"
+}

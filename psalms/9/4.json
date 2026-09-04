@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 9:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Ntango banguna na ngai bazongi sima, bakotumba mpe bakobungwa liboso ya elongi na yo.",
+  "tokens": [
+    {
+      "surface": "בשוב",
+      "gloss": "Ntango bazongi"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "banguna na ngai"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "sima"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "bakotumba"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "mpe bakobungwa"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "liboso ya elongi na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:02:33.397789453Z",
+  "model": "glm-5.3"
+}

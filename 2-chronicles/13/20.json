@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 13:20",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Mpe Yaraveamu azwaki nguya te lisusu na mikolo ya Aviyahu; mpe Yawe atumbelaki ye, mpe akufaki.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "עצר",
+      "gloss": "azwaki"
+    },
+    {
+      "surface": "כח",
+      "gloss": "nguya"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yaraveamu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lisusu"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "na mikolo ya"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "Aviyahu"
+    },
+    {
+      "surface": "ויגפהו",
+      "gloss": "atumbelaki ye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "akufaki"
+    }
+  ],
+  "timestamp": "2026-09-03T23:00:24.585600161Z",
+  "model": "glm-5.3"
+}

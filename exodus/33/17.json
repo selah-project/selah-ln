@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 33:17",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 33,
+  "translation": "Mpe Yawe alobaki epai ya Moshe: Liloba oyo olobaki, nakosala yango mpe, mpo omoni ngolu na miso na ngai, mpe nayebi yo na kombo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "liloba"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "liloba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "olobaki"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "nakosala"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "omoni"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ngolu"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "na miso na ngai"
+    },
+    {
+      "surface": "ואדעך",
+      "gloss": "mpe nayebi yo"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "na kombo"
+    }
+  ],
+  "timestamp": "2026-09-03T16:34:26.809009953Z",
+  "model": "glm-5.3"
+}

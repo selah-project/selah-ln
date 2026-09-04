@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 19:14",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Yawe asangisaki na kati na yango molimo ya bokosi, mpe babungisaki ⟨את⟩ Mitsraim na misala na yango nyonso, lokola bobungi ya moto oyo amelaki na kometa na yango.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "asangisaki"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "na kati na yango"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "molimo"
+    },
+    {
+      "surface": "עועים",
+      "gloss": "ya bokosi"
+    },
+    {
+      "surface": "והתעו",
+      "gloss": "mpe babungisaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsraim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "na misala na yango"
+    },
+    {
+      "surface": "כהתעות",
+      "gloss": "lokola bobungi"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "ya moto oyo amelaki"
+    },
+    {
+      "surface": "בקיאו",
+      "gloss": "na kometa na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T19:20:18.942624719Z",
+  "model": "glm-5.3"
+}

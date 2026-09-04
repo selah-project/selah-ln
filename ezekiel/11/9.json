@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 11:9",
+  "book": "ezekiel",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Nabimisi ⟨את⟩ bino na kati na yango, mpe natiyi ⟨את⟩ bino na loboko ya bangenga, mpe nasali na bino mapasu.",
+  "tokens": [
+    {
+      "surface": "והוצאתי",
+      "gloss": "nabimisi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ bino",
+      "marks": "bino"
+    },
+    {
+      "surface": "מתוכה",
+      "gloss": "na kati na yango"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "mpe natiyi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ bino",
+      "marks": "bino"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "na loboko"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "ya bangenga"
+    },
+    {
+      "surface": "ועשיתי",
+      "gloss": "mpe nasali"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "na bino"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "mapasu"
+    }
+  ],
+  "timestamp": "2026-09-03T20:13:42.050669250Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 55:9",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 55,
+  "translation": "Mpo ndenge likolo ezali likolo ya mabele, ndenge wana banzela na ngai ezali likolo ya banzela na bino, mpe makanisi na ngai likolo ya makanisi na bino.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "ezali likolo"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "likolo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ya mabele"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ndenge wana"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "ezali likolo"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "banzela na ngai"
+    },
+    {
+      "surface": "מדרכיכם",
+      "gloss": "likolo ya banzela na bino"
+    },
+    {
+      "surface": "ומחשבתי",
+      "gloss": "mpe makanisi na ngai"
+    },
+    {
+      "surface": "ממחשבתיכם",
+      "gloss": "likolo ya makanisi na bino"
+    }
+  ],
+  "timestamp": "2026-09-03T23:26:18.012858002Z",
+  "model": "glm-5.3"
+}

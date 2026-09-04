@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 8:10",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe ⟨את⟩ Yeuts, mpe ⟨את⟩ Shekhya, mpe ⟨את⟩ Mirmah. Banga oyo bazali bana na ye, mitozo ya bandeko ya libota.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Yeuts"
+    },
+    {
+      "surface": "יעוץ",
+      "gloss": "Yeuts"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Shekhya"
+    },
+    {
+      "surface": "שכיה",
+      "gloss": "Shekhya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Mirmah"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "Mirmah"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Banga oyo"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bana na ye"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mitozo ya"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "bandeko ya libota"
+    }
+  ],
+  "timestamp": "2026-09-03T22:42:37.277303317Z",
+  "model": "glm-5.3"
+}

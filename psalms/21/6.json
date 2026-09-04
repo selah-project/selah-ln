@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 21:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Nkembo na ye ezali monene na bokengeli nawe; lokumu mpe kitoko otyaki likolo na ye.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "ezali monene"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "nkembo na ye"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "na bokengeli nawe"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "lokumu"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "mpe kitoko"
+    },
+    {
+      "surface": "תשוה",
+      "gloss": "otyaki"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "likolo na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:04:58.632305163Z",
+  "model": "glm-5.3"
+}

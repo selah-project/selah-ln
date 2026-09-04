@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 9:2",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Mpe bana ya Israel basala ⟨את⟩ Paka na ntango na yango.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Mpe basala"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paka"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Paka"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "na ntango na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T17:05:54.359863821Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 106:38",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 106,
+  "translation": "Mpe bakundaki makila ya mabe, makila ya mibala na bango mpe ya basi na bango, oyo basakrifikaki epai ya bikeko ya Kenaan, mpe mabele emekaki na makila.",
+  "tokens": [
+    {
+      "surface": "וישפכו",
+      "gloss": "Mpe bakundaki"
+    },
+    {
+      "surface": "דם",
+      "gloss": "makila"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "ya mabe te"
+    },
+    {
+      "surface": "דם",
+      "gloss": "makila"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "ya mibala na bango"
+    },
+    {
+      "surface": "ובנותיהם",
+      "gloss": "mpe ya basi na bango"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "basakrifikaki"
+    },
+    {
+      "surface": "לעצבי",
+      "gloss": "epai ya bikeko"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "ותחנף",
+      "gloss": "mpe emekaki"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "na makila"
+    }
+  ],
+  "timestamp": "2026-09-03T21:27:14.529345804Z",
+  "model": "glm-5.3"
+}

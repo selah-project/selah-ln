@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 19:10",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Mpe ligomba na yo bokangola mobimba te, mpe oyo ekweyi ya ligomba na yo bokuna te; botika ⟨את⟩ bango mpo na mokembu mpe mpo na mopaya; ngai nazali Yawe Elohim na bino.",
+  "tokens": [
+    {
+      "surface": "וכרמך",
+      "gloss": "mpe ligomba na yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תעולל",
+      "gloss": "bokangola mobimba"
+    },
+    {
+      "surface": "ופרט",
+      "gloss": "mpe oyo ekweyi"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "ya ligomba na yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "bokuna"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "mpo na mokembu"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "mpe mpo na mopaya"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "botika"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bango (mokembu mpe mopaya)"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim na bino"
+    }
+  ],
+  "timestamp": "2026-09-03T16:49:56.570950624Z",
+  "model": "glm-5.3"
+}

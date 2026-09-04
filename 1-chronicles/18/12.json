@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 18:12",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Mpe Abishai, mwana ya Tseruia, akubaki ⟨את⟩ Edom na libulu ya mungwa — nkoto zomi na mwambe.",
+  "tokens": [
+    {
+      "surface": "ואבשי",
+      "gloss": "mpe Abishai"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Tseruia"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "akubaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "na libulu"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "ya mungwa"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "mwambe"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "na zomi"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "nkoto"
+    }
+  ],
+  "timestamp": "2026-09-03T22:49:11.963119349Z",
+  "model": "glm-5.3"
+}

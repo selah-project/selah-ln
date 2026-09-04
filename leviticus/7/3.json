@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 7:3",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mpe ⟨את⟩ mavuta na yango nyonso amemaka kati na yango: ⟨את⟩ likau ya mavuta, mpe ⟨את⟩ mavuta oyo ezipaka ⟨את⟩ libumu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mavuta na yango nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "mavuta na yango"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "amemaka"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kati na yango"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "likau ya mavuta"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "likau ya mavuta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mavuta oyo ezipaka"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "mavuta"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "oyo ezipaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "libumu"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "libumu"
+    }
+  ],
+  "timestamp": "2026-09-03T16:42:03.072227560Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 145:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 145,
+  "translation": "Bokoko na bokoko ekotoba misala na yo, mpe bukasi na yo bakoyebisa.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "Bokoko"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "na bokoko"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "ekotoba"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "misala na yo"
+    },
+    {
+      "surface": "וגבורתיך",
+      "gloss": "mpe bukasi na yo"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "bakoyebisa"
+    }
+  ],
+  "timestamp": "2026-09-03T21:36:51.717943382Z",
+  "model": "glm-5.3"
+}

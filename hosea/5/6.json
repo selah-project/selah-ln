@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 5:6",
+  "book": "hosea",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Na bibalye na bango mpe na bamboye na bango bakokende koluka ⟨את⟩ Yawe, mpe bakomona ye te; amilongolaki na bango.",
+  "tokens": [
+    {
+      "surface": "בצאנם",
+      "gloss": "na bibalye na bango"
+    },
+    {
+      "surface": "ובבקרם",
+      "gloss": "mpe na bamboye na bango"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "bakokende"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "koluka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "bakomona ye"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "amilongolaki"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T20:37:50.995157711Z",
+  "model": "glm-5.3"
+}

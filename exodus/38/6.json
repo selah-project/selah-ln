@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 38:6",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 38,
+  "translation": "Mpe asalaki ⟨את⟩ basa na mbanda ya shitim, mpe abundaki ⟨את⟩ ⟨bango⟩ na nkasa.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Mpe asalaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "basa"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "basa"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "na mbanda ya"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitim"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "mpe abundaki"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ⟨bango⟩",
+      "marks": "basa"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "na nkasa"
+    }
+  ],
+  "timestamp": "2026-09-03T16:35:41.041383104Z",
+  "model": "glm-5.3"
+}

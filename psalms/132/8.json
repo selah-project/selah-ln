@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 132:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 132,
+  "translation": "Telama, Yawe, na botonui na yo, yo mpe sanduku ya nguya na yo.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Telama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "למנוחתך",
+      "gloss": "na botonui na yo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "וארון",
+      "gloss": "mpe sanduku"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "ya nguya na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:33:59.524874470Z",
+  "model": "glm-5.3"
+}

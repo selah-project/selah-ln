@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 136:24",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 136,
+  "translation": "Mpe alongolaki biso na banguna na biso, mpo na ntango nyonso hesed na ye.",
+  "tokens": [
+    {
+      "surface": "ויפרקנו",
+      "gloss": "Mpe alongolaki biso"
+    },
+    {
+      "surface": "מצרינו",
+      "gloss": "na banguna na biso"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na ntango nyonso"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:34:25.561314658Z",
+  "model": "glm-5.3"
+}

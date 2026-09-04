@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 2:12",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe atolaki lado na lado, mpe amonaki ete moto azalaki te; mpe akubaki ⟨את⟩ Mitsri, mpe abombaki ye na sabu.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "Mpe atolaki"
+    },
+    {
+      "surface": "כה",
+      "gloss": "lado"
+    },
+    {
+      "surface": "ווכה",
+      "gloss": "na lado"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "mpe amonaki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "אין",
+      "gloss": "azalaki te"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "akubaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsri"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "Mitsri"
+    },
+    {
+      "surface": "ויטמנהו",
+      "gloss": "mpe abombaki ye"
+    },
+    {
+      "surface": "בחול",
+      "gloss": "na sabu"
+    }
+  ],
+  "timestamp": "2026-09-03T23:13:26.130701842Z",
+  "model": "glm-5.3"
+}

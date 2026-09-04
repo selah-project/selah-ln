@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 27:8",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 27,
+  "translation": "Na bolinganingi, na kotinda ye, osɔngɔnaka na ye; alongaki na mpema na ye ya makasi, na mokolo ya mpema ya monyole.",
+  "tokens": [
+    {
+      "surface": "בְּסַאסְּאָה",
+      "gloss": "Na bolinganingi"
+    },
+    {
+      "surface": "בְּשַׁלְחָהּ",
+      "gloss": "na kotinda ye"
+    },
+    {
+      "surface": "תְּרִיבֶנָּה",
+      "gloss": "osɔngɔnaka na ye"
+    },
+    {
+      "surface": "הֱגָה",
+      "gloss": "alongaki"
+    },
+    {
+      "surface": "בְּרוּחוֹ",
+      "gloss": "na mpema na ye"
+    },
+    {
+      "surface": "הַקָּשָׁה",
+      "gloss": "ya makasi"
+    },
+    {
+      "surface": "בְּיוֹם",
+      "gloss": "na mokolo"
+    },
+    {
+      "surface": "קָדִים",
+      "gloss": "ya monyole"
+    }
+  ],
+  "timestamp": "2026-09-03T19:22:38.270768111Z",
+  "model": "glm-5.3"
+}

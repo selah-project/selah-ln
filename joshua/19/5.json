@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 19:5",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "mpe Tsiklag, mpe Bet Markabot, mpe Hatsar Susa.",
+  "tokens": [
+    {
+      "surface": "וצקלג",
+      "gloss": "mpe Tsiklag"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "mpe Bet"
+    },
+    {
+      "surface": "המרכבות",
+      "gloss": "Markabot"
+    },
+    {
+      "surface": "וחצר",
+      "gloss": "mpe Hatsar"
+    },
+    {
+      "surface": "סוסה",
+      "gloss": "Susa"
+    }
+  ],
+  "timestamp": "2026-09-03T17:52:01.484141873Z",
+  "model": "glm-5.3"
+}

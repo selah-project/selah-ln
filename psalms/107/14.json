@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 107:14",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 107,
+  "translation": "Abimisaki bango na molili mpe na lilemba lya liwa, mpe makangwama na bango akitolaki.",
+  "tokens": [
+    {
+      "surface": "יוציאם",
+      "gloss": "abimisaki bango"
+    },
+    {
+      "surface": "מחשך",
+      "gloss": "na molili"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "mpe na lilemba lya liwa"
+    },
+    {
+      "surface": "ומוסרותיהם",
+      "gloss": "mpe makangwama na bango"
+    },
+    {
+      "surface": "ינתק",
+      "gloss": "akitolaki"
+    }
+  ],
+  "timestamp": "2026-09-03T21:28:15.535184249Z",
+  "model": "glm-5.3"
+}

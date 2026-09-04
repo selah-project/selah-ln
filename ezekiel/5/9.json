@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 5:9",
+  "book": "ezekiel",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Mpe nakosala na yo ⟨את⟩ oyo nasalaki te, mpe ⟨את⟩ oyo nakosala te lokola yango lisusu, mpo na mabe na yo nyonso.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "Mpe nakosala"
+    },
+    {
+      "surface": "בך",
+      "gloss": "na yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oyo nasalaki te"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "nasalaki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "oyo nakosala te lokola yango lisusu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "nakosala"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "lokola yango"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lisusu"
+    },
+    {
+      "surface": "יען",
+      "gloss": "mpo na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "תועבתיך",
+      "gloss": "mabe na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T20:11:18.296001530Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 4:9",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mwana ya Deker, na Makats, mpe na Shaalabim, mpe na Bet-Shemesh, mpe Elon Bet-Hanan.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "דקר",
+      "gloss": "Deker"
+    },
+    {
+      "surface": "במקץ",
+      "gloss": "na Makats"
+    },
+    {
+      "surface": "ובשעלבים",
+      "gloss": "mpe na Shaalabim"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "mpe na Bet"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Shemesh"
+    },
+    {
+      "surface": "ואילון",
+      "gloss": "mpe Elon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "Hanan"
+    }
+  ],
+  "timestamp": "2026-09-03T18:42:40.509879431Z",
+  "model": "glm-5.3"
+}

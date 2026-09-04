@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 4:15",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe Eli azalaki mwana ya bambula ntuku libwa na mwambe, mpe miso na ye ekangamaki, mpe abongaki komona te.",
+  "tokens": [
+    {
+      "surface": "ועלי",
+      "gloss": "Mpe Eli"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana ya"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "ntuku libwa"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "na mwambe"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "bambula"
+    },
+    {
+      "surface": "ועיניו",
+      "gloss": "mpe miso na ye"
+    },
+    {
+      "surface": "קמה",
+      "gloss": "ekangamaki"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "יכול",
+      "gloss": "abongaki"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "komona"
+    }
+  ],
+  "timestamp": "2026-09-03T18:11:53.460226614Z",
+  "model": "glm-5.3"
+}

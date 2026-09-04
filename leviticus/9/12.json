@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 9:12",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Mpe abomaki ⟨את⟩ mbeka ya motumba, mpe bana ya Aharon bamemaki epai ye ⟨את⟩ makila, mpe azakaki yango likolo ya autel na ngambo nyonso.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "abomaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbeka ya motumba"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "mbeka ya motumba"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "mpe bamemaki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ya"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "epai ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makila"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "makila"
+    },
+    {
+      "surface": "ויזרקהו",
+      "gloss": "mpe azakaki yango"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "autel"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "na ngambo nyonso"
+    }
+  ],
+  "timestamp": "2026-09-03T16:43:48.760924649Z",
+  "model": "glm-5.3"
+}

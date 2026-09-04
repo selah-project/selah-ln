@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 62:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 62,
+  "translation": "Kaka mpamba bana ya bamoto, lokoso bana ya bato minene; na bizale mpo ya kolika, bango elongo moko liki koleka mpamba.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Kaka"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "mpamba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ya"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "bamoto"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "lokoso"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bato minene"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "na bizale"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "mpo ya kolika"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bango"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "koleka mpamba"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "elongo moko"
+    }
+  ],
+  "timestamp": "2026-09-03T21:15:31.551698940Z",
+  "model": "glm-5.3"
+}

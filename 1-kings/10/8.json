@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 10:8",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Bolamu ya bato na yo, bolamu ya basulumi na yo oyo — bazali kotelema liboso na yo ntango nyonso, bayokaka ⟨את⟩ bwanya na yo",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "bolamu"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "ya bato na yo"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "bolamu"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "ya basulumi na yo"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "bazali kotelema"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "liboso na yo"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ntango nyonso"
+    },
+    {
+      "surface": "השמעים",
+      "gloss": "bayokaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bwanya na yo"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "bwanya na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T18:48:09.576322085Z",
+  "model": "glm-5.3"
+}

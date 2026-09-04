@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 79:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 79,
+  "translation": "Bapesaki ⟨את⟩ minyama ya basaleli na yo bilei ya ndeke ya likolo, ebale ya basantu na yo na nyama ya mabele.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "Bapesaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minyama ya basaleli na yo"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "minyama"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "ya basaleli na yo"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "bilei"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "ya ndeke"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ya likolo"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ebale"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "ya basantu na yo"
+    },
+    {
+      "surface": "לחיתו",
+      "gloss": "na nyama"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ya mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T21:21:37.482318386Z",
+  "model": "glm-5.3"
+}

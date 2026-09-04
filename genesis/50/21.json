@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 50:21",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 50,
+  "translation": "Sikoyo bobanga te: ngai nakolabela ⟨את⟩ bino mpe ⟨את⟩ bana na bino. Mpe a kondimaki ⟨את⟩ bango mpe alobaki na motema na bango.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Sikoyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "bobanga"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "אכלכל",
+      "gloss": "nakolabela"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ bino",
+      "marks": "bino"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bana na bino"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "bana na bino"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "Mpe a kondimaki"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ bango",
+      "marks": "bango"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "motema na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T23:12:31.304821098Z",
+  "model": "glm-5.3"
+}

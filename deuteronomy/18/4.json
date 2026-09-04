@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 18:4",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Liboso ya masango na yo, vindu na yo, mpe mafuta na yo, mpe liboso ya lifata ya bampolo na yo, opesa ye.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "liboso"
+    },
+    {
+      "surface": "דגנך",
+      "gloss": "ya masango na yo"
+    },
+    {
+      "surface": "תירשך",
+      "gloss": "vindu na yo"
+    },
+    {
+      "surface": "ויצהרך",
+      "gloss": "mpe mafuta na yo"
+    },
+    {
+      "surface": "וראשית",
+      "gloss": "mpe liboso"
+    },
+    {
+      "surface": "גז",
+      "gloss": "ya lifata"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "ya bampolo na yo"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "opesa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ye"
+    }
+  ],
+  "timestamp": "2026-09-03T17:34:19.351177110Z",
+  "model": "glm-5.3"
+}

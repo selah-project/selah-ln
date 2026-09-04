@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 25:7",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "mpe na banyama na yo mpe na banyama ya zamba oyo ezali na mabele na yo; bokiti na yango bonye ekozala bilia.",
+  "tokens": [
+    {
+      "surface": "ולבהמתך",
+      "gloss": "mpe na banyama na yo"
+    },
+    {
+      "surface": "ולחיה",
+      "gloss": "mpe na banyama ya zamba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "ezali na mabele na yo"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ekozala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonye"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "bokiti na yango"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "bilia"
+    }
+  ],
+  "timestamp": "2026-09-03T16:55:00.360184259Z",
+  "model": "glm-5.3"
+}

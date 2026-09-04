@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 31:33",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 31,
+  "translation": "mpe ndombe nkoto ntuku sambo na mibale",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "mpe ndombe"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "mpe ntuku sambo"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "nkoto"
+    }
+  ],
+  "timestamp": "2026-09-03T17:19:36.446805289Z",
+  "model": "glm-5.3"
+}

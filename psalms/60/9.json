@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 60:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 60,
+  "translation": "Na ngai Gilada, mpe na ngai Menashhe, mpe Efraim nguya ya motó na ngai, Yehuda mokomi-mibeko na ngai.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilada"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "mpe na ngai"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashhe"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "mpe Efraim"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "nguya"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ya motó na ngai"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "mokomi-mibeko na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:15:01.788129444Z",
+  "model": "glm-5.3"
+}

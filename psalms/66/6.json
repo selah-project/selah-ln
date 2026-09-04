@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 66:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 66,
+  "translation": "Abongolaki mai ekomi mabele ya moke; na ebale balalaka na makolo; kuna tozakisamaki na yango.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "Abongolaki"
+    },
+    {
+      "surface": "ים",
+      "gloss": "mai"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "ekomi mabele ya moke"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "na ebale"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "balalaka"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "na makolo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "נשמחה",
+      "gloss": "tozakisamaki"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:15:59.743447873Z",
+  "model": "glm-5.3"
+}

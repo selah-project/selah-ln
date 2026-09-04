@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 4:4",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe Benayahu mwana wa Yehoyada ⟨azalaki⟩ likolo ya mampinga; mpe Tsadok mpe Evyatar ⟨bazalaki⟩ bakohen.",
+  "tokens": [
+    {
+      "surface": "וּבְנָיָ֥הוּ",
+      "gloss": "Mpe Benayahu"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "יְהוֹיָדָ֖ע",
+      "gloss": "Yehoyada"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "הַצָּבָ֑א",
+      "gloss": "mampinga"
+    },
+    {
+      "surface": "וְצָד֥וֹק",
+      "gloss": "mpe Tsadok"
+    },
+    {
+      "surface": "וְאֶבְיָתָ֖ר",
+      "gloss": "mpe Evyatar"
+    },
+    {
+      "surface": "כֹּהֲנִֽים",
+      "gloss": "bakohen"
+    }
+  ],
+  "timestamp": "2026-09-03T18:44:07.087614764Z",
+  "model": "glm-5.3"
+}

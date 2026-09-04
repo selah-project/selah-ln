@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 3:4",
+  "book": "lamentations",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Abomisaki nzoto na ngai mpe likau na ngai; abukaki mabanga na ngai.",
+  "tokens": [
+    {
+      "surface": "בלה",
+      "gloss": "abomisaki"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "nzoto na ngai"
+    },
+    {
+      "surface": "ועורי",
+      "gloss": "mpe likau na ngai"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "abukaki"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "mabanga na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T22:10:50.194631812Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 7:11",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mpe Yawe alobaki epai ya Moshe: mokonzi moko na mokolo moko, mokonzi moko na mokolo moko, bakobimisa ⟨את⟩ atorna na bango mpo na bokangisi ya mizbeah.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "moko"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "na mokolo"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "moko"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "na mokolo"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "bakobimisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atorna na bango"
+    },
+    {
+      "surface": "קרבנם",
+      "gloss": "atorna na bango"
+    },
+    {
+      "surface": "לחנכת",
+      "gloss": "mpo na bokangisi"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ya mizbeah"
+    }
+  ],
+  "timestamp": "2026-09-03T17:03:03.733210566Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 1:1",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Yawe abengaki Moshe, mpe alobaki na ye uta na edenge ya bokutani, ⟨koloba⟩.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "abengaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "uta na edenge"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya bokutani"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "koloba"
+    }
+  ],
+  "timestamp": "2026-09-03T16:40:23.627486961Z",
+  "model": "glm-5.3"
+}

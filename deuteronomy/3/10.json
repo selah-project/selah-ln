@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 3:10",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Bingumba nyonso ya esika ya pete, mpe Giligada mobimba, mpe Bashan mobimba, kino Salhaha mpe Edrei, bingumba ya bokonzi ya Og na Bashan.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "bingumba"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "esika ya pete"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe mobimba"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Giligada"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe mobimba"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "סלכה",
+      "gloss": "Salhaha"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "mpe Edrei"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "bingumba"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "bokonzi"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "na Bashan"
+    }
+  ],
+  "timestamp": "2026-09-03T17:24:08.283506803Z",
+  "model": "glm-5.3"
+}

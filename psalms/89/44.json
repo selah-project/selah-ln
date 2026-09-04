@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 89:44",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 89,
+  "translation": "Mpe, Ovingelaki sekele ya lilanga na ye, mpe Otyaki ye te na etumba.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Mpe"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "Ovingelaki"
+    },
+    {
+      "surface": "צור",
+      "gloss": "sekele"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "ya lilanga na ye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe ... te"
+    },
+    {
+      "surface": "הקימותו",
+      "gloss": "Otyaki ye"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "na etumba"
+    }
+  ],
+  "timestamp": "2026-09-03T21:22:30.457240393Z",
+  "model": "glm-5.3"
+}

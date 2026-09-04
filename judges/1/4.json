@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 1:4",
+  "book": "judges",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe Yehuda akweyaki, mpe Yawe apesaki ⟨את⟩ Bakenaani mpe Baperizi na maboku na bango; mpe babundaki bango na Bezek — nkoto zomi ya bato.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "akweyaki"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "apesaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bakenaani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Bakenaani"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "mpe Baperizi"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "na maboku na bango"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "babundaki bango"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "na Bezek"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "zomi"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "nkoto"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bato"
+    }
+  ],
+  "timestamp": "2026-09-03T17:56:07.394122269Z",
+  "model": "glm-5.3"
+}

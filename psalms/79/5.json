@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 79:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 79,
+  "translation": "Kino tango nini, Yawe, ozali na mungwa na libela? Yanzí nayo ebela lokola moto.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Kino"
+    },
+    {
+      "surface": "מה",
+      "gloss": "tango nini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "ozali na mungwa"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "na libela"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "ebela"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "lokola"
+    },
+    {
+      "surface": "אש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "קנאתך",
+      "gloss": "yanzí nayo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:21:30.490610339Z",
+  "model": "glm-5.3"
+}

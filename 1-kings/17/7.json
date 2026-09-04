@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 17:7",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 17,
+  "translation": "Mpe ekweyaki, na nsuka ya mikolo, libulu yangawaki, mpo mbula ezalaki te na mabele.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mpe ekweyaki"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "na nsuka"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ya mikolo"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "mpe yangawaki"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "libulu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ezalaki"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "mbula"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T18:52:40.213635677Z",
+  "model": "glm-5.3"
+}

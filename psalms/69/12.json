@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 69:12",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 69,
+  "translation": "Mpe natyaki sanda lokola elambu na ngai, mpe nazalaki ndakisa na bango.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "mpe natyaki"
+    },
+    {
+      "surface": "לבושי",
+      "gloss": "elambu na ngai"
+    },
+    {
+      "surface": "שק",
+      "gloss": "sanda"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "mpe nazalaki"
+    },
+    {
+      "surface": "להם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "ndakisa"
+    }
+  ],
+  "timestamp": "2026-09-03T21:16:24.884958862Z",
+  "model": "glm-5.3"
+}

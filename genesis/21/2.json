@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 21:2",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Sarah azwaki mbuma mpe abotaki na Avraham mwana na zimba na ye, na ntango oyo Elohim alobelaki ⟨את⟩ ye.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "mpe azwaki mbuma"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "mpe abotaki"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "na Avraham"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "לזקניו",
+      "gloss": "na zimba na ye"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "na ntango oyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "alobelaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ye"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-03T23:12:14.977743700Z",
+  "model": "glm-5.3"
+}

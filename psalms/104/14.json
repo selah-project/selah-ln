@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 104:14",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 104,
+  "translation": "Abimisaka matete mpo na banyama, mpe bansese mpo na mosala ya moto, mpo na kobimisa pan uta na mabele.",
+  "tokens": [
+    {
+      "surface": "מצמיח",
+      "gloss": "Abimisaka"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "matete"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "mpo na banyama"
+    },
+    {
+      "surface": "ועשב",
+      "gloss": "mpe bansese"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "mpo na mosala ya"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "moto"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "mpo na kobimisa"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "na mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T21:26:50.925226490Z",
+  "model": "glm-5.3"
+}

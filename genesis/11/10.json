@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 11:10",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Oyo nde bakoki ya Shem: Shem azalaki mwana ya bambula nkoto moko, mpe abotaki ⟨את⟩ Arpakshad, mbula mibale na nsima ya mabul.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "bakoki"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ya Shem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana ya"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "nkoto moko"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "bambula"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "abotaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arpakshad"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arpakshad"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "mbula mibale"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "na nsima ya"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "mabul"
+    }
+  ],
+  "timestamp": "2026-09-03T15:49:17.251693830Z",
+  "model": "glm-5.3"
+}

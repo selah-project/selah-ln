@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 1:5",
+  "book": "ezra",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Batombwaki bakomi ya mabota ya Yehudah mpe Binyamin, mpe bakoheni, mpe balevi — banso oyo Elohim asekwisaki ⟨את⟩ elimo na bango — mpo na kolongwa kotonga ⟨את⟩ ndako ya Yawe oyo ⟨ezali⟩ na Yerushalaim.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "batombwaki"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "bakomi"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "ya mabota"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "ya Yehudah"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "mpe Binyamin"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "mpe bakoheni"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "mpe balevi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "banso"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "asekwisaki"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elimo na bango"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "elimo na bango"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "mpo na kolongwa"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "kotonga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndako"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "na Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-09-03T23:39:21.993440926Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 22:24",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Babangi ya Yawe, botombola ye; banso mbuta ya Yaakov, bopesa ye nkembo; mpe bobanga ye, banso mbuta ya Israel.",
+  "tokens": [
+    {
+      "surface": "יראי",
+      "gloss": "Babangi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "botombola ye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "banso"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mbuta"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "כבדוהו",
+      "gloss": "bopesa ye nkembo"
+    },
+    {
+      "surface": "וגורו",
+      "gloss": "mpe bobanga"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "banso"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mbuta"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-03T21:04:30.962580288Z",
+  "model": "glm-5.3"
+}

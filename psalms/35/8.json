@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 35:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 35,
+  "translation": "Bobebisi ekoya epai na ye, mpe ayebaki te; mpe lia na ye oyo abombaki ekangaka ye; na bobebisi akwe na yango.",
+  "tokens": [
+    {
+      "surface": "תבואהו",
+      "gloss": "ekoya epai na ye"
+    },
+    {
+      "surface": "שואה",
+      "gloss": "bobebisi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ayebaki"
+    },
+    {
+      "surface": "ורשתו",
+      "gloss": "mpe lia na ye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "טמן",
+      "gloss": "abombaki"
+    },
+    {
+      "surface": "תלכדו",
+      "gloss": "ekangaka ye"
+    },
+    {
+      "surface": "בשואה",
+      "gloss": "na bobebisi"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "akwe"
+    },
+    {
+      "surface": "בה",
+      "gloss": "na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:08:29.106043842Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 49:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 49,
+  "translation": "Epai ya mokambi; ya bana ya Korach; mizmor.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Epai ya mokambi"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ya bana"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    }
+  ],
+  "timestamp": "2026-09-03T21:12:13.246299007Z",
+  "model": "glm-5.3"
+}

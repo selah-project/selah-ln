@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 11:32",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpe mikolo ya Terah ezalaki mbula mitano mpe nkama mibale, mpe Terah akufaki na Haran.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ezalaki"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mikolo ya"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terah"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "mitano"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mbula"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "mpe nkama mibale"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mbula"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "mpe akufaki"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terah"
+    },
+    {
+      "surface": "בחרן",
+      "gloss": "na Haran"
+    }
+  ],
+  "timestamp": "2026-09-03T15:50:22.946326099Z",
+  "model": "glm-5.3"
+}

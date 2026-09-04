@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 35:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 35,
+  "translation": "Nzela na bango ezala moindo mpe boswele, mpe malaku ya Yawe azali kolanda bango.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ezala"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "nzela na bango"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "moindo"
+    },
+    {
+      "surface": "וחלקלקות",
+      "gloss": "mpe boswele"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "mpe malaku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "רדפם",
+      "gloss": "azali kolanda bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:08:29.105765292Z",
+  "model": "glm-5.3"
+}

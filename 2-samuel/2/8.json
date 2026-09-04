@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 2:8",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe Avner mwana ya Ner, mokambi ya mampinga ya Shaul, azwaki ⟨את⟩ Ish-Boshet mwana ya Shaul, mpe amemaki ye na Mahanaim.",
+  "tokens": [
+    {
+      "surface": "ואבנר",
+      "gloss": "Mpe Avner"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana ya"
+    },
+    {
+      "surface": "נר",
+      "gloss": "Ner"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mokambi ya"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "mampinga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo ezalaki"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ya Shaul"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "azwaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ish-Boshet"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Ish-"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "Boshet"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana ya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ויעברהו",
+      "gloss": "mpe amemaki ye"
+    },
+    {
+      "surface": "מחנים",
+      "gloss": "na Mahanaim"
+    }
+  ],
+  "timestamp": "2026-09-03T18:26:37.881316348Z",
+  "model": "glm-5.3"
+}

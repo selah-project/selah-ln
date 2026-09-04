@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 126:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 126,
+  "translation": "Lokasa ya mindelo. Ntango Yawe azongisaki ⟨את⟩ bozongi ya Tsion, tozalaki lokola bato ya lileko.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "lokasa"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ya mindelo"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "ntango azongisaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bozongi ya Tsion"
+    },
+    {
+      "surface": "שיבת",
+      "gloss": "bozongi"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ya Tsion"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "tozalaki"
+    },
+    {
+      "surface": "כחלמים",
+      "gloss": "lokola bato ya lileko"
+    }
+  ],
+  "timestamp": "2026-09-03T21:33:56.657332736Z",
+  "model": "glm-5.3"
+}

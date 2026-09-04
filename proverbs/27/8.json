@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 27:8",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 27,
+  "translation": "Lokola ndeke oyo azali kolongwa na bokengeli na yango, ndenge moko moto azali kolongwa na esika na ye.",
+  "tokens": [
+    {
+      "surface": "כצפור",
+      "gloss": "Lokola ndeke"
+    },
+    {
+      "surface": "נודדת",
+      "gloss": "oyo azali kolongwa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "na"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "bokengeli na yango"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ndenge moko"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "נודד",
+      "gloss": "azali kolongwa"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "na esika na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:49:16.189113605Z",
+  "model": "glm-5.3"
+}

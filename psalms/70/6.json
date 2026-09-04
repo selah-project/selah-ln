@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 70:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 70,
+  "translation": "Mpe ngai nazali mawa mpe molangi; Elohim, yaka noki epai na ngai; mosungi na ngai mpe mobikisi na ngai yo nde; Yawe, kanga kutama.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "mpe ngai"
+    },
+    {
+      "surface": "עני",
+      "gloss": "nazali mawa"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "mpe molangi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "yaka noki"
+    },
+    {
+      "surface": "לי",
+      "gloss": "epai na ngai"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "mosungi na ngai"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "mpe mobikisi na ngai"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo nde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kanga"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "kutama"
+    }
+  ],
+  "timestamp": "2026-09-03T21:16:29.867085042Z",
+  "model": "glm-5.3"
+}

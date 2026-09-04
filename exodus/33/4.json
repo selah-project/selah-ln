@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 33:4",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 33,
+  "translation": "Mpe ekolo yayoki ⟨את⟩ liloba mabe oyo, mpe bamawanaki, mpe moto moko te atyaki bilebo bye na nzoto na ye.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "mpe yayoki"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ekolo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "liloba mabe oyo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "liloba"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ויתאבלו",
+      "gloss": "mpe bamawanaki"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe moto moko te"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "atyaki"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "bilebo bye"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na nzoto na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T16:34:39.911196757Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 104:31",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 104,
+  "translation": "Nkembo ya Yawe ezala libela; Yawe asekanaka na misala na ye.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ezala"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "nkembo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "libela"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "asekanaka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "במעשיו",
+      "gloss": "na misala na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:27:12.908416968Z",
+  "model": "glm-5.3"
+}

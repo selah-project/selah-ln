@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 4:3",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpo nazalaki mwana na tata na ngai, moke mpe nde liboso ya mama na ngai.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "nazalaki"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "na tata na ngai"
+    },
+    {
+      "surface": "רך",
+      "gloss": "moke"
+    },
+    {
+      "surface": "ויחיד",
+      "gloss": "mpe nde"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mama na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:38:37.494748327Z",
+  "model": "glm-5.3"
+}

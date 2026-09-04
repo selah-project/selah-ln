@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 83:12",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 83,
+  "translation": "Tiya bato ya nkembo na bango lokola Orev mpe lokola Zeev, mpe lokola Zevah mpe lokola Tsalmuna — bakonzi na bango nyonso.",
+  "tokens": [
+    {
+      "surface": "שיתמו",
+      "gloss": "Tiya"
+    },
+    {
+      "surface": "נדיבמו",
+      "gloss": "bato ya nkembo na bango"
+    },
+    {
+      "surface": "כערב",
+      "gloss": "lokola Orev"
+    },
+    {
+      "surface": "וכזאב",
+      "gloss": "mpe lokola Zeev"
+    },
+    {
+      "surface": "וכזבח",
+      "gloss": "mpe lokola Zevah"
+    },
+    {
+      "surface": "וכצלמנע",
+      "gloss": "mpe lokola Tsalmuna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "נסיכמו",
+      "gloss": "bakonzi na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:20:34.311783722Z",
+  "model": "glm-5.3"
+}

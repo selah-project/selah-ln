@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 5:5",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Mpe sikoyo nakolakisa ⟨את⟩ bino ⟨na bolomi⟩ ⟨את⟩ oyo ngai nakosala na ebimbeli na ngai: longola loleme na yango, mpe ekokoka bokolia; buka lopango na yango, mpe ekokoka bokakesa.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "mpe sikoyo"
+    },
+    {
+      "surface": "אודיעה",
+      "gloss": "nakolakisa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "na bolomi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ bino"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oyo (oyo ngai nakosala)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nakosala"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "na ebimbeli na ngai"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "longola"
+    },
+    {
+      "surface": "משוכתו",
+      "gloss": "loleme na yango"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "mpe ekokoka"
+    },
+    {
+      "surface": "לבער",
+      "gloss": "bokolia"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "buka"
+    },
+    {
+      "surface": "גדרו",
+      "gloss": "lopango na yango"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "mpe ekokoka"
+    },
+    {
+      "surface": "למרמס",
+      "gloss": "bokakesa"
+    }
+  ],
+  "timestamp": "2026-09-03T19:15:58.587830690Z",
+  "model": "glm-5.3"
+}

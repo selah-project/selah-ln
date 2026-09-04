@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 85:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 85,
+  "translation": "Ya solo, boyokolisi na ye ezali pene ya babangi na ye, mpo nkembo efanda na mabele na biso.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Ya solo"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "pene"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "ya babangi na ye"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "boyokolisi na ye"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "mpo efanda"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "nkembo"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "na mabele na biso"
+    }
+  ],
+  "timestamp": "2026-09-03T21:22:15.164203565Z",
+  "model": "glm-5.3"
+}

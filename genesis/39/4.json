@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 39:4",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 39,
+  "translation": "Mpe Yosefu azwaki boboto miso na ye, mpe azalaki kosalela ye; mpe andimaki ye likolo ya ndako na ye, mpe nyonso oyo azalaki na yango atyaki yango na maboko na ye.",
+  "tokens": [
+    {
+      "surface": "וימצא",
+      "gloss": "Mpe ... azwaki"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "חן",
+      "gloss": "boboto"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "miso na ye"
+    },
+    {
+      "surface": "וישרת",
+      "gloss": "mpe azalaki kosalela"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ye",
+      "marks": "ye (Yosefu)"
+    },
+    {
+      "surface": "ויפקדהו",
+      "gloss": "mpe andimaki ye"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ndako na ye"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe nyonso"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ozo azalaki na yango"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨na ye⟩"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "atyaki"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "na maboko na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T16:06:23.338852848Z",
+  "model": "glm-5.3"
+}

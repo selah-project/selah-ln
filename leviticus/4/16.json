@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 4:16",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe kohen oyo apakolamaki ayingisaki mwa makasi ya ngombe na ndako ya bokutani.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "mpe ayingisaki"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "oyo apakolamaki"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "mwa makasi"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ya ngombe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya bokutani"
+    }
+  ],
+  "timestamp": "2026-09-03T23:16:10.534620052Z",
+  "model": "glm-5.3"
+}

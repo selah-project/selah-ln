@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 14:22",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Mpe Yehuda asalaki mabe na miso ya Yawe, mpe basalakaki ⟨את⟩ ye kane na nyonso oyo bawaye na bango basalaki, na masumu na bango oyo basalaki.",
+  "tokens": [
+    {
+      "surface": "וַיַּעַשׂ",
+      "gloss": "Mpe asalaki"
+    },
+    {
+      "surface": "יְהוּדָה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "הָרַע",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "בְּעֵינֵי",
+      "gloss": "na miso ya"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וַיְקַנְאוּ",
+      "gloss": "mpe basalakaki"
+    },
+    {
+      "surface": "אֹתוֹ",
+      "gloss": "⟨את⟩ ye",
+      "marks": "ye (Yawe)"
+    },
+    {
+      "surface": "מִכֹּל",
+      "gloss": "kane na nyonso ya"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "עָשׂוּ",
+      "gloss": "basalaki"
+    },
+    {
+      "surface": "אֲבֹתָם",
+      "gloss": "bawaye na bango"
+    },
+    {
+      "surface": "בְּחַטֹּאתָם",
+      "gloss": "na masumu na bango"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "חָטָאוּ",
+      "gloss": "basalaki (masumu)"
+    }
+  ],
+  "timestamp": "2026-09-03T18:53:25.987688275Z",
+  "model": "glm-5.3"
+}

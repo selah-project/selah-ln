@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zephaniah 1:7",
+  "book": "zephaniah",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Boka monoko na liboso ya Adonai Yawe, mpo mokolo ya Yawe ezali pene; mpo Yawe abongisi mbela, asantu baye abengaki",
+  "tokens": [
+    {
+      "surface": "הס",
+      "gloss": "Boka monoko"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "na liboso ya"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "ezali pene"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mokolo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "abongisi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "mbela"
+    },
+    {
+      "surface": "הקדיש",
+      "gloss": "asantu"
+    },
+    {
+      "surface": "קראיו",
+      "gloss": "baye abengaki"
+    }
+  ],
+  "timestamp": "2026-09-03T20:53:47.534105298Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 18:25",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Yawe azongisaki na ngai lokola bolongo na ngai, lokola bolekile ya maboko na ngai liboso ya miso na ye.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "azongisaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "lokola bolongo na ngai"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "lokola bolekile"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ya maboko na ngai"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "miso na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:04:32.439631948Z",
+  "model": "glm-5.3"
+}

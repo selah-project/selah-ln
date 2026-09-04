@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 9:20",
+  "book": "judges",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "mpe soki te, moto ebima uta na Avimelek mpe ekolia ⟨את⟩ bakonzi ya Shekhem mpe ⟨את⟩ ndako ya Millo, mpe moto ebima utaka na bakonzi ya Shekhem mpe utaka na ndako ya Millo, mpe ekolia ⟨את⟩ Avimelek.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "mpe soki"
+    },
+    {
+      "surface": "אין",
+      "gloss": "te"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "ebima"
+    },
+    {
+      "surface": "אש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "מאבימלך",
+      "gloss": "uta na Avimelek"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "mpe ekolia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bakonzi ya Shekhem"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "bakonzi"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "ya Shekhem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "ndako ya Millo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "ya Millo"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "mpe ebima"
+    },
+    {
+      "surface": "אש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "מבעלי",
+      "gloss": "utaka na bakonzi ya"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "mpe utaka na ndako ya"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "Millo"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "mpe ekolia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimelek"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelek"
+    }
+  ],
+  "timestamp": "2026-09-03T18:02:05.693282581Z",
+  "model": "glm-5.3"
+}

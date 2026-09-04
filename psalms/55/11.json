@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 55:11",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 55,
+  "translation": "Na moyemokolo mpe na butu bapetolaka likolo ya mbanga na yango, mpe mabe mpe mpasi ezali kati na yango.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "Na moyemokolo"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "mpe na butu"
+    },
+    {
+      "surface": "יסובבה",
+      "gloss": "bapetolaka"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "חומתיה",
+      "gloss": "mbanga na yango"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "mpe mabe"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "mpe mpasi"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "kati na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:13:46.968284327Z",
+  "model": "glm-5.3"
+}

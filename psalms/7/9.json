@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 7:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Yawe asanzolaka bato: sanzola ngai, Yawe, na ndenge ya boloki na ngai mpe na ndenge ya bosolo na ngai oyo ezali na ngai.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "asanzolaka"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "bato"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "sanzola ngai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "na ndenge ya boloki na ngai"
+    },
+    {
+      "surface": "וכתמי",
+      "gloss": "mpe na ndenge ya bosolo na ngai"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T20:59:29.334089110Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 89:21",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 89,
+  "translation": "Namonaki David mosungi na ngai; na mafuta na ngai ya mosantu namipakolaki ⟨ye⟩.",
+  "tokens": [
+    {
+      "surface": "מצאתי",
+      "gloss": "Namonaki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mosungi na ngai"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "na mafuta"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "ya mosantu na ngai"
+    },
+    {
+      "surface": "משחתיו",
+      "gloss": "namipakolaki ⟨ye⟩"
+    }
+  ],
+  "timestamp": "2026-09-03T21:23:23.025451493Z",
+  "model": "glm-5.3"
+}

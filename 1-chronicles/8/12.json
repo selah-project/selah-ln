@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 8:12",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe bana ya Elpaal: Ever, mpe Misham, mpe Shemed; yango nde akangaki ⟨את⟩ Ono mpe ⟨את⟩ Lod na bana-baville na yango.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Mpe bana ya"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Elpaal"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever"
+    },
+    {
+      "surface": "ומשעם",
+      "gloss": "mpe Misham"
+    },
+    {
+      "surface": "ושמד",
+      "gloss": "mpe Shemed"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yango nde"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "akangaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ono"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "Ono"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Lod"
+    },
+    {
+      "surface": "לד",
+      "gloss": "Lod"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "na bana-baville na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T22:42:37.277655413Z",
+  "model": "glm-5.3"
+}

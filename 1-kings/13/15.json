@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 13:15",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Mpe alobaki epai ya ye: Kende ⟨את⟩ ngai na ndako, mpe lia pan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "epai ya ye"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kende"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ngai",
+      "marks": "ngai"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "na ndako"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "mpe lia"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pan"
+    }
+  ],
+  "timestamp": "2026-09-03T18:50:28.159557048Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 68:20",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 68,
+  "translation": "Etombwelami Adonai, mokolo na mokolo atikatela biso; El wa lobiko na biso. Selah.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Etombwelami"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mokolo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "na mokolo"
+    },
+    {
+      "surface": "יעמס",
+      "gloss": "atikatela biso"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "biso"
+    },
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "wa lobiko na biso"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-03T21:17:25.687288074Z",
+  "model": "glm-5.3"
+}

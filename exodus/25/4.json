@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 25:4",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Mpe buluu, mpe violet, mpe toleso ya mbala, mpe lini, mpe suki ya mbusi.",
+  "tokens": [
+    {
+      "surface": "ותכלת",
+      "gloss": "mpe buluu"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "mpe violet"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "mpe toleso"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ya mbala"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "mpe lini"
+    },
+    {
+      "surface": "ועזים",
+      "gloss": "mpe suki ya mbusi"
+    }
+  ],
+  "timestamp": "2026-09-03T16:28:33.176435892Z",
+  "model": "glm-5.3"
+}

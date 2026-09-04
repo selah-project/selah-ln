@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 5:10",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Mpe asalaka hesed (bolingo ya solo) epai ya bankoto, epai ya balingaka ye, mpe epai ya batikali mibeko na ye.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "mpe asalaka"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "epai ya bankoto"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "epai ya balingaka ye"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "mpe epai ya batikali"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "mibeko na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T17:24:55.065653247Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 37:15",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 37,
+  "translation": "Seke na bango ekokota na motema na bango, mpe balakaka na bango ekobukama.",
+  "tokens": [
+    {
+      "surface": "חרבם",
+      "gloss": "seke na bango"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ekokota"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "na motema na bango"
+    },
+    {
+      "surface": "וקשתותם",
+      "gloss": "mpe balakaka na bango"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "ekobukama"
+    }
+  ],
+  "timestamp": "2026-09-03T21:09:07.578608375Z",
+  "model": "glm-5.3"
+}

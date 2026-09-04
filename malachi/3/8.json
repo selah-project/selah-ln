@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "malachi 3:8",
+  "book": "malachi",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Moto akoki kokomba Elohim? Kasi bino bokombaki ⟨את⟩ ngai. Mpe bolobaki: Na nini tokombaki yo? Na mokabo ya zomi mpe na ofrande.",
+  "tokens": [
+    {
+      "surface": "היקבע",
+      "gloss": "akoki kokomba"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moto"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kasi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "bino"
+    },
+    {
+      "surface": "קבעים",
+      "gloss": "bokombaka"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ngai",
+      "marks": "ngai"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "mpe bolobaki"
+    },
+    {
+      "surface": "במה",
+      "gloss": "na nini"
+    },
+    {
+      "surface": "קבענוך",
+      "gloss": "tokombaki yo"
+    },
+    {
+      "surface": "המעשר",
+      "gloss": "mokabo ya zomi"
+    },
+    {
+      "surface": "והתרומה",
+      "gloss": "mpe na ofrande"
+    }
+  ],
+  "timestamp": "2026-09-03T21:00:20.831528328Z",
+  "model": "glm-5.3"
+}

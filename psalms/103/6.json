@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 103:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 103,
+  "translation": "Yawe asali bolobongi mpe bakatiki mpo na bapimi nyonso.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "asali"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "bolobongi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "mpe bakatiki"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "mpo na nyonso"
+    },
+    {
+      "surface": "עשוקים",
+      "gloss": "bapimi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:25:46.132662489Z",
+  "model": "glm-5.3"
+}

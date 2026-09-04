@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 4:3",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "mpe bato ya Beerot bakimaki na Gitaim, mpe bazalaki bapaya kuna ti lelo oyo.",
+  "tokens": [
+    {
+      "surface": "ויברחו",
+      "gloss": "mpe bakimaki"
+    },
+    {
+      "surface": "הבארתים",
+      "gloss": "bato ya Beerot"
+    },
+    {
+      "surface": "גתימה",
+      "gloss": "na Gitaim"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "mpe bazalaki"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "bapaya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ti"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lelo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    }
+  ],
+  "timestamp": "2026-09-03T18:27:30.338880666Z",
+  "model": "glm-5.3"
+}

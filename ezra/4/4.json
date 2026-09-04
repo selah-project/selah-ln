@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 4:4",
+  "book": "ezra",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe ekotaki ete bato ya mabele basalaki maboko malembu ya bato ya Yehuda, mpe bazalaki kobebisa ⟨את⟩ bango na kotonga.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ekotaki ete"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ya mabele"
+    },
+    {
+      "surface": "מרפים",
+      "gloss": "basalaki maboko malembu"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ya maboko"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ya bato"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ומבלהים",
+      "gloss": "mpe bazalaki kobebisa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ bango"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "na kotonga"
+    }
+  ],
+  "timestamp": "2026-09-03T22:30:15.553266007Z",
+  "model": "glm-5.3"
+}

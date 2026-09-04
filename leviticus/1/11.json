@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 1:11",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe aboma ⟨את⟩ yango epai ya mboku ya auteli, lya nordi, maso ya Yawe; mpe bana ya Aharon, bakohen, bakopulupusa ⟨את⟩ maki na yango epai ya auteli na zingazinga.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "mpe aboma"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yango"
+    },
+    {
+      "surface": "על",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "mboku"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "auteli"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "lya nordi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "maso ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "mpe bakopulupusa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "bakohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maki na yango"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "maki na yango"
+    },
+    {
+      "surface": "על",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "auteli"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "na zingazinga"
+    }
+  ],
+  "timestamp": "2026-09-03T16:40:15.507708037Z",
+  "model": "glm-5.3"
+}

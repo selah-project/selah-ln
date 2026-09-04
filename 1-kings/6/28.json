@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 6:28",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpe akundolaki ⟨את⟩ bakerube na waure.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "mpe akundolaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bakerube"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "bakerube"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "waure"
+    }
+  ],
+  "timestamp": "2026-09-03T18:46:44.153187815Z",
+  "model": "glm-5.3"
+}

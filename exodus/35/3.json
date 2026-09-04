@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 35:3",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 35,
+  "translation": "Bobota moto te na bandako na bino nyonso na mokolo ya Shabat.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תבערו",
+      "gloss": "bobota"
+    },
+    {
+      "surface": "אש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na ... nyonso"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "bandako na bino"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na mokolo"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "ya Shabat"
+    }
+  ],
+  "timestamp": "2026-09-03T16:34:54.725941724Z",
+  "model": "glm-5.3"
+}

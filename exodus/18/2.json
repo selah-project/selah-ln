@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 18:2",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Yitro, tata-mwasi ya Moshe, azwaki ⟨את⟩ Tsipora, mwasi ya Moshe, nsima ya kotindama na ye.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "azwaki"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitro"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "tata-mwasi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsipora"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Tsipora"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mwasi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "nsima"
+    },
+    {
+      "surface": "שלוחיה",
+      "gloss": "ya kotindama na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T16:23:56.140438258Z",
+  "model": "glm-5.3"
+}

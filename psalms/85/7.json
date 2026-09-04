@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 85:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 85,
+  "translation": "Boye okozonga te? Okobikisá biso, mpe bato na ba okosepela na yo.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Boye"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ozonga te"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "okozonga"
+    },
+    {
+      "surface": "תחינו",
+      "gloss": "Okobikisá biso"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "mpe bato na ba"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "okosepela"
+    },
+    {
+      "surface": "בך",
+      "gloss": "na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:22:08.591756151Z",
+  "model": "glm-5.3"
+}

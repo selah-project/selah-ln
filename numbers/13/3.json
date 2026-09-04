@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 13:3",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Mpe Moshe atindaki ⟨את⟩ bango uta na dezere ya Paran, na monoko ya Yawe; bango nyonso bato, bamitwi ya bana ya Israel bango.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Mpe atindaki"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bango",
+      "marks": "bango (bato oyo atindaki)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "uta na dezere"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "ya Paran"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "פי",
+      "gloss": "monoko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "bango nyonso"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "bato"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "bamitwi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ya bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bango"
+    }
+  ],
+  "timestamp": "2026-09-03T17:07:12.249857419Z",
+  "model": "glm-5.3"
+}

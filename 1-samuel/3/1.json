@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 3:1",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe mwana Shemuel azalaki kosomba ⟨את⟩ Yawe liboso ya Eli, mpe liloba ya Yawe ezalaki ya munene na mokolo yango — elilingi ezalaki te, ebimaki te.",
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "Mpe mwana"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "azalaki kosomba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "mpe liloba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yawe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ezalaki"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "ya munene"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "na mokolo"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "yango"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ezalaki te"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "elilingi"
+    },
+    {
+      "surface": "נפרץ",
+      "gloss": "ebimaki te"
+    }
+  ],
+  "timestamp": "2026-09-03T18:09:53.342907147Z",
+  "model": "glm-5.3"
+}

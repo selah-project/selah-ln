@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 78:68",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 78,
+  "translation": "Mpe aponaki ⟨את⟩ libota ya Yehuda, ⟨את⟩ monsolo ya Tsion, oyo alingaki.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "aponaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "libota ya Yehuda"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "libota"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ya Yehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "monsolo ya Tsion"
+    },
+    {
+      "surface": "הר",
+      "gloss": "monsolo"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ya Tsion"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "alingaki"
+    }
+  ],
+  "timestamp": "2026-09-03T21:19:59.188315752Z",
+  "model": "glm-5.3"
+}

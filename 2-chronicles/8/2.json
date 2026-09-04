@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 8:2",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe bibengi oyo Huram apekaki na Shelomo, Shelomo atongaki ⟨את⟩ yango, mpe atiyaki ⟨את⟩ bana ya Israel kofanda kuna.",
+  "tokens": [
+    {
+      "surface": "והערים",
+      "gloss": "mpe bibengi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "apekaki"
+    },
+    {
+      "surface": "חורם",
+      "gloss": "Huram"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "na Shelomo"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "atongaki"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ yango",
+      "marks": "bibengi oyo Huram apekaki"
+    },
+    {
+      "surface": "ויושב",
+      "gloss": "mpe atiyaki kofanda"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bana ya Israel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    }
+  ],
+  "timestamp": "2026-09-03T22:57:07.766999546Z",
+  "model": "glm-5.3"
+}

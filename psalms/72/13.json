@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 72:13",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 72,
+  "translation": "Amasiwa na mokene mpe oyo azali na eloko te; mpe milimo ya bayo bazali na eloko te akolokola.",
+  "tokens": [
+    {
+      "surface": "יחס",
+      "gloss": "amasiwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "דל",
+      "gloss": "mokene"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "mpe oyo azali na eloko te"
+    },
+    {
+      "surface": "ונפשות",
+      "gloss": "mpe milimo"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "ya bayo bazali na eloko te"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "akolokola"
+    }
+  ],
+  "timestamp": "2026-09-03T21:18:02.189769149Z",
+  "model": "glm-5.3"
+}

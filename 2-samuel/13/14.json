@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 13:14",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Kasi andimaki te koyoka liloba na yango, mpe akangi makasi koleka yango, mpe abebisaki yango, mpe alalaki ⟨את⟩ yango.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "te"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "andimaki"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "koyoka"
+    },
+    {
+      "surface": "בקולה",
+      "gloss": "liloba na yango"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "akangi makasi"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "koleka yango"
+    },
+    {
+      "surface": "ויענה",
+      "gloss": "abebisaki yango"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "alalaki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "yango"
+    }
+  ],
+  "timestamp": "2026-09-03T18:32:54.213346149Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 19:15",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Bokoki kosala mabe te na bosodi; okoki kolembisa elongi ya moto ya mawa te, mpe okoki kolama elongi ya moto monene te; na bosembo osodi moninga na yo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "bokoki kosala"
+    },
+    {
+      "surface": "עול",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "na bosodi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "kolembisa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "elongi"
+    },
+    {
+      "surface": "דל",
+      "gloss": "ya moto ya mawa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe ... te"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "kolama"
+    },
+    {
+      "surface": "פני",
+      "gloss": "elongi"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ya moto monene"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "na bosembo"
+    },
+    {
+      "surface": "תשפט",
+      "gloss": "osodi"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "moninga na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T16:51:48.991485445Z",
+  "model": "glm-5.3"
+}

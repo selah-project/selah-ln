@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 28:10",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 28,
+  "translation": "Mpo ete talaku likolo ya talaku, talaku likolo ya talaku, molongo likolo ya molongo, molongo likolo ya molongo, moke kuna, moke kuna.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "צו",
+      "gloss": "talaku"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "likolo ya talaku"
+    },
+    {
+      "surface": "צו",
+      "gloss": "talaku"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "likolo ya talaku"
+    },
+    {
+      "surface": "קו",
+      "gloss": "molongo"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "likolo ya molongo"
+    },
+    {
+      "surface": "קו",
+      "gloss": "molongo"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "likolo ya molongo"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "moke"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "moke"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuna"
+    }
+  ],
+  "timestamp": "2026-09-03T23:25:36.080835460Z",
+  "model": "glm-5.3"
+}

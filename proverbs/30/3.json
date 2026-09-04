@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 30:3",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 30,
+  "translation": "Mpe natangaki bobangi te, mpe boyebi ya mosantu, nayebi yango te.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Mpe ... te"
+    },
+    {
+      "surface": "למדתי",
+      "gloss": "natangaki"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "bobangi"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "mpe boyebi"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ya mosantu"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "nayebi yango te"
+    }
+  ],
+  "timestamp": "2026-09-03T21:49:31.335990063Z",
+  "model": "glm-5.3"
+}

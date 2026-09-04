@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 29:29",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 29,
+  "translation": "Mpe kohen Tsefanya atangaki ⟨את⟩ buku oyo na matoyi ya Yirmeyahu navi.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Mpe atangaki"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "Tsefanya"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "buku oyo"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "buku"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "na matoyi ya"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "navi"
+    }
+  ],
+  "timestamp": "2026-09-03T19:57:04.372385578Z",
+  "model": "glm-5.3"
+}

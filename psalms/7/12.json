@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 7:12",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Elohim azali mowanzwi ya bosembo, mpe El azali na mawa na mokolo nyonso.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "mowanzwi"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ya bosembo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mpe El"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "na mawa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na nyonso"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mokolo"
+    }
+  ],
+  "timestamp": "2026-09-03T20:59:29.334581672Z",
+  "model": "glm-5.3"
+}

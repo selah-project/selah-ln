@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 8:18",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe Noa abimaki, mpe bankumu na ye, mpe mwasi na ye, mpe basi ya bankumu na ye, elongo na ⟨את⟩ ye.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "abimaki"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "mpe bankumu na ye"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "mpe mwasi na ye"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "mpe basi"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ya bankumu na ye"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "elongo na ⟨את⟩ ye",
+      "marks": "Noa mpe ndako na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T15:47:43.156103649Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 115:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 115,
+  "translation": "Monoko na bango ⟨ezali⟩, kasi balobaka te; miso na bango ⟨ezali⟩, kasi bamonaka te.",
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "monoko"
+    },
+    {
+      "surface": "להם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "balobaka"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "miso"
+    },
+    {
+      "surface": "להם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "bamonaka"
+    }
+  ],
+  "timestamp": "2026-09-03T21:30:04.265879560Z",
+  "model": "glm-5.3"
+}

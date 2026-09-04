@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 56:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 56,
+  "translation": "Na Elohim natambolaka liloba na ye, na Elohim namipesaki; nakobanga te, elobo ekosala nini ngai?",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Na Elohim"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "natambolaka"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "liloba na ye"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "na Elohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "namipesaki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "nakobanga"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ekosala"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "elobo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:14:28.471012938Z",
+  "model": "glm-5.3"
+}

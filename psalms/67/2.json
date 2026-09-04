@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 67:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 67,
+  "translation": "Elohim atonda biso ngolu mpe abatela biso; asanzola elongi na ye ⟨את⟩ elongo na biso. Selah.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "atonda biso ngolu"
+    },
+    {
+      "surface": "ויברכנו",
+      "gloss": "mpe abatela biso"
+    },
+    {
+      "surface": "יאר",
+      "gloss": "asanzola"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "elongi na ye"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ elongo na biso",
+      "marks": "elongo na biso"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-03T21:15:56.205424777Z",
+  "model": "glm-5.3"
+}

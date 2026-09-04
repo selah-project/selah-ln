@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 23:3",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Bato ya David balobaki epai na ye: Tala, biso awa na Yehuda tozali na bobange, mpe soki tokende Kela, epai ya mampinga ya Bapelisiti?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "balobaki"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "bato ya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "epai na ye"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Tala"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "biso"
+    },
+    {
+      "surface": "פה",
+      "gloss": "awa"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "na Yehuda"
+    },
+    {
+      "surface": "יראים",
+      "gloss": "tozali na bobange"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "mpe ata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "soki"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "tokende"
+    },
+    {
+      "surface": "קעלה",
+      "gloss": "Kela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "mampinga"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ya Bapelisiti"
+    }
+  ],
+  "timestamp": "2026-09-03T18:21:34.171657968Z",
+  "model": "glm-5.3"
+}

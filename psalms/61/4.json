@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 61:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 61,
+  "translation": "Mpo ozalaki efako na ngai, toli ya nguya, liboso ya mopinganzo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ozalaki"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "efako"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "toli"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ya nguya"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "mopinganzo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:15:35.041185948Z",
+  "model": "glm-5.3"
+}

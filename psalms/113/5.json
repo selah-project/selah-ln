@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 113:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 113,
+  "translation": "Nani azali lokola Yawe Elohim na biso, oyo azali kolimwa likolo mpo na kofanda?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Nani"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "lokola Yawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim na biso"
+    },
+    {
+      "surface": "המגביהי",
+      "gloss": "oyo azali kolimwa"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "mpo na kofanda"
+    }
+  ],
+  "timestamp": "2026-09-03T21:29:12.460621794Z",
+  "model": "glm-5.3"
+}

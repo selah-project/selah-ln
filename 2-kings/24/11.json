@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 24:11",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "Mpe Nevukadnetsar, mokonzi ya Bavel, ayeaki na mboka, nzoka nde bakumbi na ye bazalaki kokanga yango.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ayeaki"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nevukadnetsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi ya"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mboka"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "nzoka nde bakumbi na ye"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "bazalaki kokanga"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "yango"
+    }
+  ],
+  "timestamp": "2026-09-03T19:11:33.623654121Z",
+  "model": "glm-5.3"
+}

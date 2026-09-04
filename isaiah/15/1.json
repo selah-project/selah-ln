@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 15:1",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 15,
+  "translation": "Masa ya Moab: mpo na butu Ar ya Moab ebomamaki, ebungamaki; mpo na butu Kir ya Moab ebomamaki, ebungamaki.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Masa"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ya Moab"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "na butu"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "ebomamaki"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ar"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ya Moab"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "ebungamaki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "na butu"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "ebomamaki"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "Kir"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ya Moab"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "ebungamaki"
+    }
+  ],
+  "timestamp": "2026-09-03T19:20:10.806601357Z",
+  "model": "glm-5.3"
+}

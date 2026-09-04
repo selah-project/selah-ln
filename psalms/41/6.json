@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 41:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 41,
+  "translation": "Bangonzi na ngai balobaka mabe epai na ngai: Akufa tango nini, mpe nkombo na ye ebungaka?",
+  "tokens": [
+    {
+      "surface": "אויבי",
+      "gloss": "Bangonzi na ngai"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "balobaka"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "epai na ngai"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "tango nini"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "akufa"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "mpe ebungaka"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nkombo na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:10:28.472222466Z",
+  "model": "glm-5.3"
+}

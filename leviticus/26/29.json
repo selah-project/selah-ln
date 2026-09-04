@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 26:29",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "Bokolia mokili ya bana mibali na bino, mpe mokili ya bana basi na bino bokolia.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "bokolia"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "mokili"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "ya bana mibali na bino"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "mpe mokili"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "ya bana basi na bino"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "bokolia"
+    }
+  ],
+  "timestamp": "2026-09-03T16:56:58.309283478Z",
+  "model": "glm-5.3"
+}

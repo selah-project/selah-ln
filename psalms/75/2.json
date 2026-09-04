@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 75:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 75,
+  "translation": "Tosambeli yo, Elohim, tosambeli yo, mpe nkombo na yo ezali pene; balobi makambo ya makasi na yo.",
+  "tokens": [
+    {
+      "surface": "הודינו",
+      "gloss": "tosambeli"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הודינו",
+      "gloss": "tosambeli"
+    },
+    {
+      "surface": "ווקרוב",
+      "gloss": "mpe ezali pene"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nkombo na yo"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "balobi"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "makambo ya makasi na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:19:06.891843895Z",
+  "model": "glm-5.3"
+}

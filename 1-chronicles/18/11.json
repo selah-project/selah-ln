@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 18:11",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Ata ⟨את⟩ bisaleli yango mokonzi David atiiaki na bosantu epai ya Yawe, elongo na mbongo mpe wolo oyo azwaki uta bikolo nyonso — uta Edom, mpe uta Moab, mpe uta bana ya Amon, mpe uta Bafilisti, mpe uta Amaleki.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ata"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bisaleli yango"
+    },
+    {
+      "surface": "הקדיש",
+      "gloss": "atiiaki na bosantu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "epai ya Yawe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "elongo na"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "mbongo"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "mpe wolo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "azwaki"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "uta ... nyonso"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bikolo"
+    },
+    {
+      "surface": "מאדום",
+      "gloss": "uta Edom"
+    },
+    {
+      "surface": "וממואב",
+      "gloss": "mpe uta Moab"
+    },
+    {
+      "surface": "ומבני",
+      "gloss": "mpe uta bana"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "ומפלשתים",
+      "gloss": "mpe uta Bafilisti"
+    },
+    {
+      "surface": "ומעמלק",
+      "gloss": "mpe uta Amaleki"
+    }
+  ],
+  "timestamp": "2026-09-03T22:49:11.962908412Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 41:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 41,
+  "translation": "Yawe akobatela ye mpe akosisa ye bomoi; akozala malamu na mabele; mpe kotika ye te na mokpo ya banguna na ye.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ישמרהו",
+      "gloss": "akobatela ye"
+    },
+    {
+      "surface": "ויחיהו",
+      "gloss": "mpe akosisa ye bomoi"
+    },
+    {
+      "surface": "יאשר",
+      "gloss": "akozala malamu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mpe kotika ye te"
+    },
+    {
+      "surface": "תתנהו",
+      "gloss": "kotika ye"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "na mokpo"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "ya banguna na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:10:15.078772049Z",
+  "model": "glm-5.3"
+}

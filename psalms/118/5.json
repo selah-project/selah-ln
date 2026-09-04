@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 118:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 118,
+  "translation": "Na mokakatano nabengaki Ya; Ya ayanolaki ngai na oyo eleki monene.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Na"
+    },
+    {
+      "surface": "המצר",
+      "gloss": "mokakatano"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "nabengaki"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "ayanolaki ngai"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "na oyo eleki monene"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    }
+  ],
+  "timestamp": "2026-09-03T21:30:13.382757850Z",
+  "model": "glm-5.3"
+}

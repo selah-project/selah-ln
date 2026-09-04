@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 26:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "Pesa ngai ekoki, Yawe, mpe meka ngai; lukanisi makila na ngai mpe motema na ngai.",
+  "tokens": [
+    {
+      "surface": "בחנני",
+      "gloss": "Pesa ngai ekoki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ונסני",
+      "gloss": "mpe meka ngai"
+    },
+    {
+      "surface": "צרופה",
+      "gloss": "lukanisi"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "makila na ngai"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "mpe motema na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:06:50.823741888Z",
+  "model": "glm-5.3"
+}

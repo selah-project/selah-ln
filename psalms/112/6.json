@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 112:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 112,
+  "translation": "Ya solo, seko te akokangama te; mokumbi ya seko mosembo akozala.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ya solo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "seko te"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "akokangama"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "mokumbi ya seko"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "seko"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "akozala"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "mosembo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:29:30.902055481Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 81:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 81,
+  "translation": "Na mpasi obengaki, mpe nakangaki yo; nayanaki yo na bobombi ya nkubi; namekaki yo na mai ya Meriba. Selah.",
+  "tokens": [
+    {
+      "surface": "בצרה",
+      "gloss": "Na mpasi"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "obengaki"
+    },
+    {
+      "surface": "ואחלצך",
+      "gloss": "mpe nakangaki yo"
+    },
+    {
+      "surface": "אענך",
+      "gloss": "nayanaki yo"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "na bobombi"
+    },
+    {
+      "surface": "רעם",
+      "gloss": "ya nkubi"
+    },
+    {
+      "surface": "אבחנך",
+      "gloss": "namekaki yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mai"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "ya Meriba"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-03T21:21:13.720049109Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 21:12",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Akubi moto mpe afi — na liwa akufa.",
+  "tokens": [
+    {
+      "surface": "מכה",
+      "gloss": "Akubi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "mpe afi"
+    },
+    {
+      "surface": "מות",
+      "gloss": "liwa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "akufa"
+    }
+  ],
+  "timestamp": "2026-09-03T16:24:43.141682568Z",
+  "model": "glm-5.3"
+}

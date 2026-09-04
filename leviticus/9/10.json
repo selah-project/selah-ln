@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 9:10",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Mpe ⟨את⟩ mafuta mpe ⟨את⟩ mapema mpe ⟨את⟩ eteni ya foie, ya mbeka ya libanga, atumbisaki na autel, ndenge Yawe atindaki ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mafuta"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mapema"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "mapema"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "eteni"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "eteni"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ya"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "foie"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ya"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "mbeka ya libanga"
+    },
+    {
+      "surface": "הקטיר",
+      "gloss": "atumbisaki"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "na autel"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ndenge"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "atindaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-03T16:43:48.760618302Z",
+  "model": "glm-5.3"
+}

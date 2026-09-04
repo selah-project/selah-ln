@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-kings 11:39",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpe nakopesa mabe ⟨את⟩ mbeka ya David mpo na oyo, kaka mikolo nyonso te.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "mpe nakopesa mabe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbeka ya David"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mbeka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "למען",
+      "gloss": "mpo na"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אך",
+      "gloss": "kaka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "mikolo"
+    }
+  ],
+  "timestamp": "2026-09-03T18:50:57.404112619Z",
+  "model": "glm-5.3"
+}

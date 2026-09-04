@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 10:5",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Bayebisaki David, mpe atindaki kosangana na bango, mpo bato bazalaki na mawa mingi; mpe mokonzi alobaki: Bofanda na Yeriho ti ntango minzui na bino ekoli, mpe bozonga.",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "bayebisaki"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "na David"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "mpe atindaki"
+    },
+    {
+      "surface": "לקראתם",
+      "gloss": "kosangana na bango"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bazalaki"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "bato"
+    },
+    {
+      "surface": "נכלמים",
+      "gloss": "na mawa monene"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mingi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "bofanda"
+    },
+    {
+      "surface": "בירחו",
+      "gloss": "na Yeriho"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ti"
+    },
+    {
+      "surface": "יצמח",
+      "gloss": "ekoli"
+    },
+    {
+      "surface": "זקנכם",
+      "gloss": "minzui na bino"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "mpe bozonga"
+    }
+  ],
+  "timestamp": "2026-09-03T18:31:59.188522615Z",
+  "model": "glm-5.3"
+}

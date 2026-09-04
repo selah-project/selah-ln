@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 6:7",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpe oyo nde Tora ya mincha: bana ya Aharon bayekisaka ⟨את⟩ yango liboso ya Yawe, kobanda liboso ya autela.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "mpe oyo"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "ya mincha"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "bayekisaka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "yango (mincha)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ya Aharon"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kobanda"
+    },
+    {
+      "surface": "פני",
+      "gloss": "liboso"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ya autela"
+    }
+  ],
+  "timestamp": "2026-09-03T16:40:53.307282504Z",
+  "model": "glm-5.3"
+}

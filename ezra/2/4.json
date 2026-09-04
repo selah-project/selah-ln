@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 2:4",
+  "book": "ezra",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Bana ya Shefatya: nkama misato, ntuku sambo mpe mibale.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "ya Shefatya"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "misato"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "nkama"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ntuku sambo"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "mpe mibale"
+    }
+  ],
+  "timestamp": "2026-09-03T22:29:06.910569749Z",
+  "model": "glm-5.3"
+}

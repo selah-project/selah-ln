@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 12:16",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "David alukaki ⟨את⟩ Elohim mpo na mwana; David akangaki boilo, mpe akotaki, mpe afandaki butu, mpe alalaki na mabele.",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "alukaki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "mpo na"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "ויצם",
+      "gloss": "akangaki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "צום",
+      "gloss": "boilo"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "akotaki"
+    },
+    {
+      "surface": "ולן",
+      "gloss": "afandaki butu"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "alalaki"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "na mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T18:32:43.702394441Z",
+  "model": "glm-5.3"
+}

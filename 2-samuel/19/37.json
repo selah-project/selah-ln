@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-samuel 19:37",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Moke kaka motindo na yo akatisa Yarden ⟨את⟩ elongo na mokonzi, mpe mpo na nini mokonzi akofuta ngai lifuta lokola oyo?",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "moke kaka"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "akatisa"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "motindo na yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mokonzi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "mpe mpo na nini"
+    },
+    {
+      "surface": "יגמלני",
+      "gloss": "akofuta ngai"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "הגמולה",
+      "gloss": "lifuta"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "lokola oyo"
+    }
+  ],
+  "timestamp": "2026-09-03T18:37:54.867986698Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 4:1",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe Yawe alobaki na Moshe mpe na Aharon, alobi:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mpe na"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "alobi"
+    }
+  ],
+  "timestamp": "2026-09-03T17:00:22.392533764Z",
+  "model": "glm-5.3"
+}

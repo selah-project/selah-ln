@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 14:26",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Mpe Yawe alobaki epai ya Moshe: Tanda ⟨את⟩ maboko na yo likolo ya mbu, mpe mai ezongelama epai ya Mitsraim, epai ya bakumbu na bango mpe epai ya bapalesi na bango.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "Tanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maboko na yo"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "maboko na yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "הים",
+      "gloss": "mbu"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "mpe ezongelama"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mai"
+    },
+    {
+      "surface": "על",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "על",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "bakumbu na bango"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "mpe epai ya"
+    },
+    {
+      "surface": "פרשיו",
+      "gloss": "bapalesi na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:20:31.921624075Z",
+  "model": "glm-5.3"
+}

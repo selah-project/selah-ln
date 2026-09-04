@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 30:3",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 30,
+  "translation": "Mpe okolata ⟨את⟩ yango na dahabu ya peto: ⟨את⟩ likolo na yango, mpe ⟨את⟩ mabanga na yango penepe, mpe ⟨את⟩ bapanga na yango; mpe okosala na yango lilingo ya dahabu penepe.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "Mpe okolata"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yango",
+      "marks": "dahabu ya peto"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dahabu"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ya peto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "likolo na yango"
+    },
+    {
+      "surface": "גגו",
+      "gloss": "likolo na yango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mabanga na yango"
+    },
+    {
+      "surface": "קירתיו",
+      "gloss": "mabanga na yango"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "penepe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bapanga na yango"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "bapanga na yango"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "mpe okosala"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "זר",
+      "gloss": "lilingo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "dahabu"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "penepe"
+    }
+  ],
+  "timestamp": "2026-09-03T16:32:05.777075683Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 35:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 35,
+  "translation": "Bazala lokola mputsu liboso ya mpema, mpe malaku ya Yawe azali kokaka bango.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "bazala"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "lokola mputsu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mpema"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "mpe malaku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "דוחה",
+      "gloss": "azali kokaka bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:08:29.105556658Z",
+  "model": "glm-5.3"
+}

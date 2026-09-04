@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "amos 3:8",
+  "book": "amos",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Nkosi asakuraki — nani akobanga te? Adonai Yawe alobaki — nani akopakola te?",
+  "tokens": [
+    {
+      "surface": "אריה",
+      "gloss": "Nkosi"
+    },
+    {
+      "surface": "שאג",
+      "gloss": "asakuraki"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "akobanga"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ינבא",
+      "gloss": "akopakola"
+    }
+  ],
+  "timestamp": "2026-09-03T20:42:27.858305771Z",
+  "model": "glm-5.3"
+}

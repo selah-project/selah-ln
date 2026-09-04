@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 3:9",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Nini nde lituya oyo mosali azwaka, na oyo yè azali kozua?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Nini nde"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "lituya"
+    },
+    {
+      "surface": "העושה",
+      "gloss": "mosali"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "na oyo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yè"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "kozua"
+    }
+  ],
+  "timestamp": "2026-09-03T22:12:53.100324655Z",
+  "model": "glm-5.3"
+}

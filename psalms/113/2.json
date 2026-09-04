@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 113,
+  "translation": "Nkombo ya Yawe ezala esanzama, uta sikoyo mpe kino seko.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ezala"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nkombo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "esanzama"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "uta sikoyo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "mpe kino"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "seko"
+    }
+  ],
+  "timestamp": "2026-09-03T21:29:09.507457089Z",
+  "model": "glm-5.3"
+}

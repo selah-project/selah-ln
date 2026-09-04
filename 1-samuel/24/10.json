@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 24:10",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "David alobaki na Shaul: mpo na nini oyaka ⟨את⟩ maloba ya bato, koloba: Talá, David alukaka mabe na yo?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "na Shaul"
+    },
+    {
+      "surface": "למה",
+      "gloss": "mpo na nini"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "oyaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maloba"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "maloba"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ya bato"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "koloba"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Talá"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "alukaka"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "mabe na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T18:22:09.149908202Z",
+  "model": "glm-5.3"
+}

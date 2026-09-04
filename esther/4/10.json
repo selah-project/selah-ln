@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 4:10",
+  "book": "esther",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe Ester alobaki na Hataki, mpe atindaki ye na Mordekai ⟨ete aloba na ye⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "להתך",
+      "gloss": "na Hataki"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "mpe atindaki ye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekai"
+    }
+  ],
+  "timestamp": "2026-09-03T22:16:23.946159123Z",
+  "model": "glm-5.3"
+}

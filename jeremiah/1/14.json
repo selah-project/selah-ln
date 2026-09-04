@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 1:14",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe Yawe alobaki epai ngai: Utaka nord, mabe ekofungwama likolo ya bati banso ya mabele.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "epai ngai"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "utaka nord"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "ekofungwama"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "banso"
+    },
+    {
+      "surface": "יֹשְבֵי",
+      "gloss": "bati"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ya mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T19:41:27.074371383Z",
+  "model": "glm-5.3"
+}

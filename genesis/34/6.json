@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 34:6",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 34,
+  "translation": "Mpe Hamor tata ya Shekem abimaki epai ya Yaakov mpo na koloba ⟨את⟩ ye.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Mpe abimaki"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamor"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tata ya"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "mpo na koloba"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ye"
+    }
+  ],
+  "timestamp": "2026-09-03T16:04:07.066017251Z",
+  "model": "glm-5.3"
+}

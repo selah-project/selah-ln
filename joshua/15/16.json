@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 15:16",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 15,
+  "translation": "Mpe Kalev abimisaki wana bana ⟨את⟩ misato ya Anak: ⟨את⟩ Sheshai, mpe ⟨את⟩ Ahiman, mpe ⟨את⟩ Talmai, bana oyo babotamaki na Anak.",
+  "tokens": [
+    {
+      "surface": "וירש",
+      "gloss": "mpe abimisaki"
+    },
+    {
+      "surface": "משם",
+      "gloss": "wana"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalev"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bana misato ya Anak"
+    },
+    {
+      "surface": "שלושה",
+      "gloss": "⟨את⟩ misato"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "הענק",
+      "gloss": "ya Anak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheshai"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "Sheshai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Ahiman"
+    },
+    {
+      "surface": "אחימן",
+      "gloss": "⟨את⟩ Ahiman"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Talmai"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "Talmai"
+    },
+    {
+      "surface": "ילידי",
+      "gloss": "bana oyo babotamaki"
+    },
+    {
+      "surface": "הענק",
+      "gloss": "na Anak"
+    }
+  ],
+  "timestamp": "2026-09-03T17:51:00.413604628Z",
+  "model": "glm-5.3"
+}

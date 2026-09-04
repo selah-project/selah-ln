@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 33:20",
+  "book": "ezekiel",
+  "lang": "ln",
+  "chapter": 33,
+  "translation": "Mpe bolobi: Nzela ya Adonai ezali ya bosembo te. Moto na motuya ya nzela na yango nakosambisa ⟨את⟩ bino, ndako ya Israel.",
+  "tokens": [
+    {
+      "surface": "ואמרתם",
+      "gloss": "Mpe bolobi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יתכן",
+      "gloss": "ezali ya bosembo"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "nzela"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Moto"
+    },
+    {
+      "surface": "כדרכיו",
+      "gloss": "na motuya ya nzela na yango"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "nakosambisa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ bino",
+      "marks": "bino (bino moko, oyo etiyami na nse: ndako ya Israel)"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-03T20:27:02.343341405Z",
+  "model": "glm-5.3"
+}

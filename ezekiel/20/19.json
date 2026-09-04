@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 20:19",
+  "book": "ezekiel",
+  "lang": "ln",
+  "chapter": 20,
+  "translation": "Ngai nazali Yawe Elohim na bino: na mibeko na ngai bokende, mpe ⟨את⟩ mibeko na ngai ya bosolo bobatela, mpe bosala ⟨את⟩ bango.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim na bino"
+    },
+    {
+      "surface": "בחקותי",
+      "gloss": "na mibeko na ngai"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "bokende"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mibeko na ngai ya bosolo"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "mibeko na ngai ya bosolo"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "bobatela"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "mpe bosala"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ bango",
+      "marks": "mibeko na ngai ya bosolo"
+    }
+  ],
+  "timestamp": "2026-09-03T20:20:40.475026868Z",
+  "model": "glm-5.3"
+}

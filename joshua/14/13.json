@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 14:13",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Mpe Yehoshua amatisaki ye, mpe apekaki ⟨את⟩ Chevron na Kalebe mwana ya Yefune lokola bofungwami.",
+  "tokens": [
+    {
+      "surface": "ויברכהו",
+      "gloss": "mpe amatisaki ye"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "mpe apekaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chevron"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "na Kalebe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Yefune"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "lokola bofungwami"
+    }
+  ],
+  "timestamp": "2026-09-03T17:48:23.553842657Z",
+  "model": "glm-5.3"
+}

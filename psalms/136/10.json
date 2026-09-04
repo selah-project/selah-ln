@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 136:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 136,
+  "translation": "Mpo na koutela Mitsraim na bombokoti na bango ya liboso, kiteka hesed na ye ezali libela.",
+  "tokens": [
+    {
+      "surface": "למכה",
+      "gloss": "mpo na koutela"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "בבכוריהם",
+      "gloss": "na bombokoti na bango ya liboso"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kiteka"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "libela"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:34:19.974209483Z",
+  "model": "glm-5.3"
+}

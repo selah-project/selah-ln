@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 12:9",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Mpe bakoheni bananisaki mpo bazwa nkoso te epai ya ⟨את⟩ bato, mpe mpo babongisa ⟨את⟩ bizui ya ndako te.",
+  "tokens": [
+    {
+      "surface": "ויאתו",
+      "gloss": "bananisaki"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "bakoheni"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "mpo ... te"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "kozwa"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "nkoso"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "epai ya ⟨את⟩"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "mpe mpo ... te"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "kobongisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bizui"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "bizui"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ya ndako"
+    }
+  ],
+  "timestamp": "2026-09-03T19:06:06.358485237Z",
+  "model": "glm-5.3"
+}

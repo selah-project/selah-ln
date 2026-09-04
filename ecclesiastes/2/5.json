@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 2:5",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Nasalaki na ngai mabonga mpe bilanga ya mikolia, mpe natiemaki kati na yango bansete nyonso ya bibumela.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "nasalaki"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "mabonga"
+    },
+    {
+      "surface": "ופרדסים",
+      "gloss": "mpe bilanga ya mikolia"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "mpe natiemaki"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kati na yango"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "bansete"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ya bibumela"
+    }
+  ],
+  "timestamp": "2026-09-03T22:13:36.804958176Z",
+  "model": "glm-5.3"
+}

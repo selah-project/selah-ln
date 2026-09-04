@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 24:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "Nani akopanda na ngomba ya Yawe, mpe nani akotelema na esika santu na yango?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Nani"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "akopanda"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "na ngomba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yawe"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "mpe nani"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "akotelema"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "na esika"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "santu na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:06:25.506398941Z",
+  "model": "glm-5.3"
+}

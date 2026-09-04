@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 96:13",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 96,
+  "translation": "Liboso ya Yawe, mpo azali koya, mpo azali koya kobonda mabele; akobonda tele na bosemi, mpe bikolo na bondimi na ye.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "בא",
+      "gloss": "azali koya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "בא",
+      "gloss": "azali koya"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "kobonda"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "akobonda"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "tele"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "na bosemi"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "mpe bikolo"
+    },
+    {
+      "surface": "באמונתו",
+      "gloss": "na bondimi na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:23:37.757082073Z",
+  "model": "glm-5.3"
+}

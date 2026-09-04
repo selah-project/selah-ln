@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 25:13",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Mpe okosala bakiti ya makolo ya nzete ya shitim, mpe okozipa ⟨את⟩ bango na zahabu.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "mpe okosala"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "bakiti"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ya makolo ya nzete"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ya shitim"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "mpe okozipa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bango (na zahabu)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "na zahabu"
+    }
+  ],
+  "timestamp": "2026-09-04T00:18:17.533184429Z",
+  "model": "glm-5.3"
+}

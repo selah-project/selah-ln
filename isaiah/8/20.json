@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 8:20",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Na Tora mpe na litatolo! Soki bakoloba te lokola liloba oyo, oyo ezali na tongo te.",
+  "tokens": [
+    {
+      "surface": "לתורה",
+      "gloss": "Na Tora"
+    },
+    {
+      "surface": "ולתעודה",
+      "gloss": "mpe na litatolo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Soki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "bakoloba"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "lokola liloba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ezali na ... te"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "tongo"
+    }
+  ],
+  "timestamp": "2026-09-03T19:15:11.851274723Z",
+  "model": "glm-5.3"
+}

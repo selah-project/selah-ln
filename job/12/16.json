@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 12:16",
+  "book": "job",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Na Yawe ezali nguya mpe bwanya ya solo; na Yawe ezali oyo akweyi na mbeba mpe oyo apesaka mbeba.",
+  "tokens": [
+    {
+      "surface": "עמו",
+      "gloss": "Na Yawe"
+    },
+    {
+      "surface": "עז",
+      "gloss": "nguya"
+    },
+    {
+      "surface": "ותושיה",
+      "gloss": "mpe bwanya ya solo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na Yawe"
+    },
+    {
+      "surface": "שגג",
+      "gloss": "oyo akweyi na mbeba"
+    },
+    {
+      "surface": "ומשגה",
+      "gloss": "mpe oyo apesaka mbeba"
+    }
+  ],
+  "timestamp": "2026-09-03T21:54:39.094382504Z",
+  "model": "glm-5.3"
+}

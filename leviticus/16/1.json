@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 16:1",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Yawe alobaki na Moshe, sima ya liwa ya bankulu mibale ya Aharon, tango basalaki kokota liboso ya Yawe mpe bakufaki.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sima ya"
+    },
+    {
+      "surface": "מות",
+      "gloss": "liwa"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bankulu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "בקרבתם",
+      "gloss": "tango basalaki kokota"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "mpe bakufaki"
+    }
+  ],
+  "timestamp": "2026-09-03T16:51:09.578134680Z",
+  "model": "glm-5.3"
+}

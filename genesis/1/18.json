@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 1:18",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "mpe na koyangata na moyo mpe na butu, mpe na kokabola kati na bongengi mpe kati na moke; mpe Elohim amonaki ete ⟨ezali⟩ malamu.",
+  "tokens": [
+    {
+      "surface": "ולמשל",
+      "gloss": "mpe na koyangata"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na moyo"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "mpe na butu"
+    },
+    {
+      "surface": "ולהבדיל",
+      "gloss": "mpe na kokabola"
+    },
+    {
+      "surface": "בין",
+      "gloss": "kati na"
+    },
+    {
+      "surface": "האור",
+      "gloss": "bongengi"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "mpe kati na"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "moke"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "Mpe amonaki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "malamu"
+    }
+  ],
+  "timestamp": "2026-09-03T15:44:11.125866661Z",
+  "model": "glm-5.3"
+}

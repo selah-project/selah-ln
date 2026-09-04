@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 2:3",
+  "book": "hosea",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Boloba na bandeko na bino: Bato-na-ngai; mpe na bandeko na bino basi: Abundelami.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Boloba"
+    },
+    {
+      "surface": "לאחיכם",
+      "gloss": "na bandeko na bino"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Bato-na-ngai"
+    },
+    {
+      "surface": "ולאחותיכם",
+      "gloss": "mpe na bandeko na bino basi"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Abundelami"
+    }
+  ],
+  "timestamp": "2026-09-03T20:38:27.685506089Z",
+  "model": "glm-5.3"
+}

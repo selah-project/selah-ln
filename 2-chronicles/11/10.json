@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 11:10",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "mpe ⟨את⟩ Tsorah, mpe ⟨את⟩ Ayalon, mpe ⟨את⟩ Hevron, oyo ezali na Yehuda mpe na Binyamin, mboka ya bizenga.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Tsorah"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "Tsorah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Ayalon"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ayalon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Hevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevron"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "na Yehuda"
+    },
+    {
+      "surface": "ובבנימן",
+      "gloss": "mpe na Binyamin"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "mboka"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "ya bizenga"
+    }
+  ],
+  "timestamp": "2026-09-03T22:56:44.843372953Z",
+  "model": "glm-5.3"
+}

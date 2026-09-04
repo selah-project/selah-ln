@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 13:13",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Mpe kohen amonaki, mpe talá, soki tsaraat ekangaki ⟨את⟩ nzoto naye mobimba, mpe alobaki ⟨את⟩ bokono: mopete — ezali mobimba ekotaki na pembe; yango nde mopete.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "mpe amonaki"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mpe talá"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "ekangaki"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "tsaraat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nzoto naye mobimba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mobimba ya"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "nzoto naye"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "mpe alobaki: mopete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bokono"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "bokono"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "mobimba na yango"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "ekotaki"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "na pembe"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "mopete"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yango nde"
+    }
+  ],
+  "timestamp": "2026-09-03T16:46:08.738920868Z",
+  "model": "glm-5.3"
+}

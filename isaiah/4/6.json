@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 4:6",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe suka ekozala mpo na etiya na moyi na ngoya, mpe mpo na esika ya bobombi mpe mpo na ebombami, na mpuya makasi mpe na mbula.",
+  "tokens": [
+    {
+      "surface": "וסכה",
+      "gloss": "mpe suka"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ekozala"
+    },
+    {
+      "surface": "לצל",
+      "gloss": "mpo na etiya"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "na moyi"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "na ngoya"
+    },
+    {
+      "surface": "ולמחסה",
+      "gloss": "mpe mpo na esika ya bobombi"
+    },
+    {
+      "surface": "ולמסתור",
+      "gloss": "mpe mpo na ebombami"
+    },
+    {
+      "surface": "מזרם",
+      "gloss": "na mpuya makasi"
+    },
+    {
+      "surface": "וממטר",
+      "gloss": "mpe na mbula"
+    }
+  ],
+  "timestamp": "2026-09-03T19:14:17.322146069Z",
+  "model": "glm-5.3"
+}

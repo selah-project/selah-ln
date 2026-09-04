@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 2:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Bokobukisa bango na lakeke ya simende; lokola bileko bya mosali ya mabele bokobwakisa bango biteni.",
+  "tokens": [
+    {
+      "surface": "תרעם",
+      "gloss": "bokobukisa bango"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "na lakeke"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "ya simende"
+    },
+    {
+      "surface": "ככלי",
+      "gloss": "lokola bileko"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "ya mosali ya mabele"
+    },
+    {
+      "surface": "תנפצם",
+      "gloss": "bokobwakisa bango biteni"
+    }
+  ],
+  "timestamp": "2026-09-03T20:59:47.375328426Z",
+  "model": "glm-5.3"
+}

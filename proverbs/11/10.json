@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 11:10",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Na bolamu ya bato ya sembo mboka esanganaka, mpe na bobungi ya babe ekolaka lololu.",
+  "tokens": [
+    {
+      "surface": "בטוב",
+      "gloss": "na bolamu"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "bato ya sembo"
+    },
+    {
+      "surface": "תעלץ",
+      "gloss": "esanganaka"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "mboka"
+    },
+    {
+      "surface": "ובאבד",
+      "gloss": "mpe na bobungi"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "babe"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "lololu"
+    }
+  ],
+  "timestamp": "2026-09-03T21:41:17.960065186Z",
+  "model": "glm-5.3"
+}

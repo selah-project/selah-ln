@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 20:26",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 20,
+  "translation": "Mpe esalemaki na bozongi ya mbula, Ben-Hadad abalisi ⟨את⟩ Aram, mpe atombwaki na Apeka, mpo na etumba na Israel.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mpe esalemaki"
+    },
+    {
+      "surface": "לתשובת",
+      "gloss": "na bozongi"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "ya mbula"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "mpe abalisi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "mpe atombwaki na"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "Apeka"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "mpo na etumba"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-03T18:56:58.137210072Z",
+  "model": "glm-5.3"
+}

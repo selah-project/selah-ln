@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "malachi 1:3",
+  "book": "malachi",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "mpe ⟨את⟩ Esav naswanaki, mpe natyaki ⟨את⟩ bangomba na ye bomwama, mpe ⟨את⟩ losambo na ye ⟨esika ya⟩ banyama ya zamba, na etando.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Esav"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "naswanaki"
+    },
+    {
+      "surface": "ואשים",
+      "gloss": "mpe natyaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangomba na ye"
+    },
+    {
+      "surface": "הריו",
+      "gloss": "bangomba na ye"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "bomwama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "losambo na ye"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "losambo na ye"
+    },
+    {
+      "surface": "לתנות",
+      "gloss": "banyama ya zamba"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "na etando"
+    }
+  ],
+  "timestamp": "2026-09-03T20:58:56.572454469Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 6:8",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpe nakoyela bino na mabele oyo natombolaki ⟨את⟩ maboko na ngai mpo na kopesa yango epai ya Avraham, epai ya Yitshak, mpe epai ya Yaakov, mpe nakopesa yango na bino lokola bosikwa; ngai nazali Yawe.",
+  "tokens": [
+    {
+      "surface": "והבאתי",
+      "gloss": "mpe nakoyela"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ bino"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "natombolaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maboko na ngai"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "maboko na ngai"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "mpo na kopesa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ yango"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "epai ya Avraham"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "epai ya Yitshak"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "mpe epai ya Yaakov"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "mpe nakopesa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ yango"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "na bino"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "lokola bosikwa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T16:16:08.517175182Z",
+  "model": "glm-5.3"
+}

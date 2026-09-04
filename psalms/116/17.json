@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 116:17",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 116,
+  "translation": "Na yo nakoboma zebu ya botondo, mpe na nkombo ya Yawe nakobenga.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Na yo"
+    },
+    {
+      "surface": "אזבח",
+      "gloss": "nakoboma"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "zebu"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "ya botondo"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "mpe na nkombo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "nakobenga"
+    }
+  ],
+  "timestamp": "2026-09-03T21:30:09.648488101Z",
+  "model": "glm-5.3"
+}

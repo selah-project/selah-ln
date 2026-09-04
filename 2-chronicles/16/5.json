@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 16:5",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Mpe esalemaki, ntango Baasha ayokaki, akebaki kosala ⟨את⟩ Ramah, mpe atyaki mosala na ye kokanisa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mpe esalemaki"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "ntango ayokaki"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "akebaki"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "kosala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ramah"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Ramah"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "mpe atyaki kokanisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mosala na ye"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "mosala na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T23:01:25.439852726Z",
+  "model": "glm-5.3"
+}

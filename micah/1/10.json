@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 1:10",
+  "book": "micah",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Na Gat boloba te, bolia te; na Beit-le-Afra, bondela na mpoto.",
+  "tokens": [
+    {
+      "surface": "בגת",
+      "gloss": "Na Gat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "boloba"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "bolia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "bolia"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "na ndako"
+    },
+    {
+      "surface": "לעפרה",
+      "gloss": "Beit-le-Afra"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "mpoto"
+    },
+    {
+      "surface": "התפלשתי",
+      "gloss": "bondela"
+    }
+  ],
+  "timestamp": "2026-09-03T20:47:18.463560854Z",
+  "model": "glm-5.3"
+}

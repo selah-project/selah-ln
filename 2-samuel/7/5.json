@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 7:5",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Kende mpe oloba na mosalami na ngai, na David: Ndenge oyo Yawe alobi: Yo nde okolaka ndako na ngai mpo na kofanda na ngai?",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Kende"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "mpe oloba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mosalami na ngai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ndenge oyo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "alobi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "okolaka"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "לשבתי",
+      "gloss": "mpo na kofanda na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T18:31:30.845984901Z",
+  "model": "glm-5.3"
+}

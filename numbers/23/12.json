@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 23:12",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Ayanaki mpe alobaki: Boye te? ⟨את⟩ oyo Yawe atyaka na monoko na ngai, nakengeli ⟨את⟩ koloba.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Ayanaki"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "Boye te?"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oyo Yawe atyaka na monoko na ngai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "atyaka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "na monoko na ngai"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "koloba"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "nakengeli"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "koloba"
+    }
+  ],
+  "timestamp": "2026-09-03T23:17:02.648266772Z",
+  "model": "glm-5.3"
+}

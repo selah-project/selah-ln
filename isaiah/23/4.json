@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 23:4",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Zala na nsona, Tsidon, mpo mbu elobi, egumeli ya mbu, elobi ete: Nalingaki te, mpe nabotaki te, mpe nalebisaki balemi te, natombolaki bamasumba te.",
+  "tokens": [
+    {
+      "surface": "בושי",
+      "gloss": "Zala na nsona"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsidon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "elobi"
+    },
+    {
+      "surface": "ים",
+      "gloss": "mbu"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "egumeli"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ya mbu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "elobi ete"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "חלתי",
+      "gloss": "Nalingaki"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe ... te"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "nabotaki"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "nalebisaki"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "balemi"
+    },
+    {
+      "surface": "רוממתי",
+      "gloss": "natombolaki"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "bamasumba"
+    }
+  ],
+  "timestamp": "2026-09-03T19:22:56.329300755Z",
+  "model": "glm-5.3"
+}

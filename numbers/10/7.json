@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 10:7",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Kasi ntango bozusangisa ⟨את⟩ lisangani, bofongola, kasi bolaka te.",
+  "tokens": [
+    {
+      "surface": "ובהקהיל",
+      "gloss": "ntango bozusangisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lisangani"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "lisangani"
+    },
+    {
+      "surface": "תתקעו",
+      "gloss": "bofongola"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kasi ... te"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "bolaka"
+    }
+  ],
+  "timestamp": "2026-09-03T17:05:03.129724693Z",
+  "model": "glm-5.3"
+}

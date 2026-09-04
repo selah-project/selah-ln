@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 13:24",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Mpe Moshe apesaki na libota ya Gad, na bana ya Gad, na bakiti na bango.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "apesaki"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "na libota"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ya Gad"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "na bana"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ya Gad"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "na bakiti na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T17:48:43.637125302Z",
+  "model": "glm-5.3"
+}

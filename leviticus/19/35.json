@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 19:35",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Bosala mabe te na bososolo, na bomeki bokasi, na bozito, mpe na bomeki ya mai.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "Bosala"
+    },
+    {
+      "surface": "עול",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "na bososolo"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "na bomeki bokasi"
+    },
+    {
+      "surface": "במשקל",
+      "gloss": "na bozito"
+    },
+    {
+      "surface": "ובמשורה",
+      "gloss": "mpe na bomeki ya mai"
+    }
+  ],
+  "timestamp": "2026-09-03T16:51:39.479976191Z",
+  "model": "glm-5.3"
+}

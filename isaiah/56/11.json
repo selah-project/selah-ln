@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 56:11",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 56,
+  "translation": "Mpe bimbwa yango ya nzala makasi, bayebi bokweyi te; mpe bango babombi, bayebi kososola te; banso balongaki na nzela na bango, moto na moko na mokapo na ye, na esika na ye.",
+  "tokens": [
+    {
+      "surface": "והכלבים",
+      "gloss": "mpe bimbwa yango"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "makasi"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nzala"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "bayebi"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "bokweyi"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "mpe bango"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "babombi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "bayebi"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "kososola"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "banso"
+    },
+    {
+      "surface": "לדרכם",
+      "gloss": "na nzela na bango"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "balongaki"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto na moko"
+    },
+    {
+      "surface": "לבצעו",
+      "gloss": "na mokapo na ye"
+    },
+    {
+      "surface": "מקצהו",
+      "gloss": "na esika na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T19:34:52.250063780Z",
+  "model": "glm-5.3"
+}

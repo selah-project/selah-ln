@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 45:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 45,
+  "translation": "Moru mpe ahalot, ketziot — bilamba na yo nyonso; uta na bandako ya ivware minyenye emesaki yo.",
+  "tokens": [
+    {
+      "surface": "מר",
+      "gloss": "moru"
+    },
+    {
+      "surface": "ואהלות",
+      "gloss": "mpe ahalot"
+    },
+    {
+      "surface": "קציעות",
+      "gloss": "ketziot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "בגדתיך",
+      "gloss": "bilamba na yo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uta"
+    },
+    {
+      "surface": "היכלי",
+      "gloss": "bandako"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ya ivware"
+    },
+    {
+      "surface": "מני",
+      "gloss": "minyenye"
+    },
+    {
+      "surface": "שמחוך",
+      "gloss": "emesaki yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:11:29.689603173Z",
+  "model": "glm-5.3"
+}

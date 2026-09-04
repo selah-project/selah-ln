@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 15:20",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 15,
+  "translation": "Mwana mayele esalisaka tata ye esengo, kasi moto ya bubole afingaka mama ye.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "mayele"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "esalisaka esengo"
+    },
+    {
+      "surface": "אב",
+      "gloss": "tata ye"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "kasi moto ya bubole"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "⟨moto⟩"
+    },
+    {
+      "surface": "בוזה",
+      "gloss": "afingaka"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mama ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:43:40.722673728Z",
+  "model": "glm-5.3"
+}

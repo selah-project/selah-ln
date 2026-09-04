@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 4:5",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe Aharon akokota mpe bana na ye, ntango kamping ekotambola, mpe bakokitisa ⟨את⟩ ride ya ekangeli, mpe bakozipisa na yango ⟨את⟩ sanduku ya temo.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "mpe akokota"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "mpe bana na ye"
+    },
+    {
+      "surface": "בנסע",
+      "gloss": "ntango ekotambola"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kamping"
+    },
+    {
+      "surface": "והורדו",
+      "gloss": "mpe bakokitisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ride"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "ride"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "ya ekangeli"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "mpe bakozipisa"
+    },
+    {
+      "surface": "בה",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduku ya temo"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "sanduku"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ya temo"
+    }
+  ],
+  "timestamp": "2026-09-03T17:00:02.452864870Z",
+  "model": "glm-5.3"
+}

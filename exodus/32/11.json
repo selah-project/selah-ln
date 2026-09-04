@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 32:11",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 32,
+  "translation": "Mpe Moshe asengaki ⟨את⟩ elongi ya Yawe Elohim na ye, mpe alobaki: Mpo na nini, Yawe, kanda na yo ekofuka na bato na yo, oyo obimisaki na mabele ya Mitsraim na nguya monene mpe na liboko makasi?",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "asengaki"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elongi ya Yawe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "elongi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim na ye"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Mpo na nini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "יחרה",
+      "gloss": "ekofuka"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "kanda na yo"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "na bato na yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "הוצאת",
+      "gloss": "obimisaki"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "na mabele ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "na nguya"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "monene"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "mpe na liboko"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "makasi"
+    }
+  ],
+  "timestamp": "2026-09-03T16:33:07.338088385Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 64:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 64,
+  "translation": "Mpe moto nyonso abangi, mpe bayebisi mosala ya Elohim, mpe misala na ye basololi na mayele.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "mpe babangi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moto"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "mpe bayebisi"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "mosala"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ומעשהו",
+      "gloss": "mpe misala na ye"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "basololi na mayele"
+    }
+  ],
+  "timestamp": "2026-09-03T21:15:05.814589916Z",
+  "model": "glm-5.3"
+}

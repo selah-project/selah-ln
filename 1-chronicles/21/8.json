@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 21:8",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Mpe David alobaki epai ya Elohim: Nasali mabe makasi mpo ete nasalaki ⟨את⟩ likambo oyo; mpe sikoyo bolongisa, nasenga, ⟨את⟩ mabe ya mozaleli na yo, mpo nasali liputa makasi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "nasali mabe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "makasi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "nasalaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "likambo oyo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "likambo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "mpe sikoyo"
+    },
+    {
+      "surface": "העבר",
+      "gloss": "bolongisa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nasenga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabe"
+    },
+    {
+      "surface": "עוון",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ya mozaleli na yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "נסכלתי",
+      "gloss": "nasali liputa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "makasi"
+    }
+  ],
+  "timestamp": "2026-09-03T22:48:26.987583404Z",
+  "model": "glm-5.3"
+}

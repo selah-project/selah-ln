@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 10:1",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Boyoka ⟨את⟩ liloba oyo Yawe alobi likolo ya bino, ndako ya Israel.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "boyoka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "liloba"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "liloba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "alobi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "likolo ya bino"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    }
+  ],
+  "timestamp": "2026-09-03T19:46:44.911587792Z",
+  "model": "glm-5.3"
+}

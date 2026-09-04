@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 24:20",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "Aravnah atalaki, mpe amonaki ⟨את⟩ mokonzi mpe ⟨את⟩ basali na ye oyo bazalaki koya epai na ye; mpe Aravnah abimaki, mpe afandaki na nse epai ya mokonzi, elongi na ye na mabele.",
+  "tokens": [
+    {
+      "surface": "וישקף",
+      "gloss": "atalaki"
+    },
+    {
+      "surface": "ארונה",
+      "gloss": "Aravnah"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "mpe amonaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mokonzi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "basali na ye"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "basali na ye"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "oyo bazalaki koya"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "epai na ye"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "mpe abimaki"
+    },
+    {
+      "surface": "ארונה",
+      "gloss": "Aravnah"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "mpe afandaki na nse"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "epai ya mokonzi"
+    },
+    {
+      "surface": "אפיו",
+      "gloss": "elongi na ye"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "na mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T18:41:44.971788160Z",
+  "model": "glm-5.3"
+}

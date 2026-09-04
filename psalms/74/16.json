@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 74:16",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 74,
+  "translation": "Mokolo ⟨ezali⟩ ya yo, mpe butu ⟨ezali⟩ ya yo; yo obandisaki bongengi mpe moi.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ya yo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mokolo"
+    },
+    {
+      "surface": "אף",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ya yo"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "butu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "הכינות",
+      "gloss": "obandisaki"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "bongengi"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "mpe moi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:19:15.355297461Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 109:29",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 109,
+  "translation": "Bañeni na ngai bakateke kimai, mpe bakangame na bonyokweli na bango lokola elilingi.",
+  "tokens": [
+    {
+      "surface": "ילבשו",
+      "gloss": "bakateke"
+    },
+    {
+      "surface": "שוטני",
+      "gloss": "bañeni na ngai"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "kimai"
+    },
+    {
+      "surface": "ויעטו",
+      "gloss": "mpe bakangame"
+    },
+    {
+      "surface": "כמעיל",
+      "gloss": "lokola elilingi"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "na bonyokweli na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:29:21.119484519Z",
+  "model": "glm-5.3"
+}

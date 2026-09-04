@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 25:14",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Sod ya Yawe ezali mpo na baye babangi ye, mpe bondimi na ye mpo na kolakisa bango.",
+  "tokens": [
+    {
+      "surface": "סוד",
+      "gloss": "sod"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "mpo na baye babangi ye"
+    },
+    {
+      "surface": "ובריתו",
+      "gloss": "mpe bondimi na ye"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "mpo na kolakisa bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:05:58.302490418Z",
+  "model": "glm-5.3"
+}

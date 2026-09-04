@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 6:24",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Toyokaki ⟨את⟩ sango na yango; maboko na biso ekitaki makasi; tranga ekangaki biso, mpasi, lokola mwasi ya kobota.",
+  "tokens": [
+    {
+      "surface": "שמענו",
+      "gloss": "Toyokaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sango na yango"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "sango na yango"
+    },
+    {
+      "surface": "רפו",
+      "gloss": "ekitaki makasi"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "maboko na biso"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "tranga"
+    },
+    {
+      "surface": "החזיקתנו",
+      "gloss": "ekangaki biso"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "mpasi"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "lokola mwasi ya kobota"
+    }
+  ],
+  "timestamp": "2026-09-03T19:43:08.615190085Z",
+  "model": "glm-5.3"
+}

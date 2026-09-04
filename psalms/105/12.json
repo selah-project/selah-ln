@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 105:12",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 105,
+  "translation": "ntango bazalaki bato moke na motango, moke penza, mpe bapaya kati na yango.",
+  "tokens": [
+    {
+      "surface": "בהיותם",
+      "gloss": "ntango bazalaki"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "bato"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "moke na motangu"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "moke penza"
+    },
+    {
+      "surface": "וגרים",
+      "gloss": "mpe bapaya"
+    },
+    {
+      "surface": "בה",
+      "gloss": "kati na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:27:11.452219778Z",
+  "model": "glm-5.3"
+}

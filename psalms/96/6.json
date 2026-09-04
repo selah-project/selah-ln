@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 96:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 96,
+  "translation": "Lokumu mpe bondemi ezali liboso na yé; nguya mpe kitoko ezali na ndako na yé ya mosantu.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "Lokumu"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "mpe bondemi"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "liboso na yé"
+    },
+    {
+      "surface": "עז",
+      "gloss": "nguya"
+    },
+    {
+      "surface": "ותפארת",
+      "gloss": "mpe kitoko"
+    },
+    {
+      "surface": "במקדשו",
+      "gloss": "na ndako na yé ya mosantu"
+    }
+  ],
+  "timestamp": "2026-09-03T21:24:14.149336564Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 37:24",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 37,
+  "translation": "Talanta moko ya wolo ya pete asalaki ⟨את⟩ yango, mpe ⟨את⟩ mobimba ya bisaleli na yango.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "talanta"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "wolo"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ya pete"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "asalaki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ yango",
+      "marks": "menora (yango)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mobimba ya bisaleli na yango"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mobimba"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "ya bisaleli na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:35:45.910166054Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 11:4",
+  "book": "judges",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpe sima ya mikolo, bana ya Amon balwanaki na Israel.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mpe ekufaki"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "sima ya mikolo"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "balwanaki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "ya Amon"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-03T18:03:54.210057649Z",
+  "model": "glm-5.3"
+}

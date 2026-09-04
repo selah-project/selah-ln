@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 8:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Yawe, Adonai na biso, nkombo na yo ⟨ezali⟩ monene boni na mabele mobimba!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Adonai na biso"
+    },
+    {
+      "surface": "מה",
+      "gloss": "boni"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "monene"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nkombo na yo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na mobimba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T21:01:29.133773452Z",
+  "model": "glm-5.3"
+}

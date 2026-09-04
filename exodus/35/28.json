@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 35:28",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 35,
+  "translation": "mpe ⟨את⟩ bokebi mpe ⟨את⟩ mafuta, mpo na pole, mpe mpo na mafuta ya botomoli, mpe mpo na nkuku ya biloko ya bokebi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bokebi"
+    },
+    {
+      "surface": "הבשם",
+      "gloss": "bokebi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mafuta"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "mpo na pole"
+    },
+    {
+      "surface": "ולשמן",
+      "gloss": "mpe mpo na mafuta"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "ya botomoli"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "mpe mpo na nkuku"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "ya biloko ya bokebi"
+    }
+  ],
+  "timestamp": "2026-09-03T16:35:33.431861683Z",
+  "model": "glm-5.3"
+}

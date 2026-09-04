@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 102:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 102,
+  "translation": "Kabola elongi nawe na ngai te na mokolo ya mawa na ngai; otambolisa matoyi nawe epai na ngai; na mokolo nakingo kobenga, ngenzu, yano ngai.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "kabola"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "elongi nawe"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na mokolo"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ya mawa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "otambolisa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "epai na ngai"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "matoyi nawe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na mokolo"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "nakingo kobenga"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "ngenzu"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "yano ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:26:26.040314289Z",
+  "model": "glm-5.3"
+}

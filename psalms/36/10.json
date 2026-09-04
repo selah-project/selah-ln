@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 36:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 36,
+  "translation": "Mpo na Yo ezali libulu ya bomoi; na bongengi na yo tokomona bongengi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "na Yo"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "libulu"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ya bomoi"
+    },
+    {
+      "surface": "באורך",
+      "gloss": "na bongengi na yo"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "tokomona"
+    },
+    {
+      "surface": "אור",
+      "gloss": "bongengi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:08:00.503036704Z",
+  "model": "glm-5.3"
+}

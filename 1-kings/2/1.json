@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 2:1",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mikolo ya David ekokanaki na liwa, mpe atindaki ⟨את⟩ Shelomo mwana na ye na koloba:",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "ekokanaki"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mikolo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "למות",
+      "gloss": "na liwa"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "mpe atindaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelomo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana na ye"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na koloba"
+    }
+  ],
+  "timestamp": "2026-09-03T18:44:35.893356986Z",
+  "model": "glm-5.3"
+}

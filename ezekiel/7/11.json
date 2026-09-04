@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 7:11",
+  "book": "ezekiel",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Bonyokoli emataki epai ya ndongo ya mabe: bomoi na bango ezali te, mpe bongo na bango te, mpe momesano na bango te, mpe likelela na bango ezali te.",
+  "tokens": [
+    {
+      "surface": "החמס",
+      "gloss": "bonyokoli"
+    },
+    {
+      "surface": "קם",
+      "gloss": "emataki"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "epai ya ndongo"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ya mabe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ezali te"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "bango"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "מהמונם",
+      "gloss": "bongo na bango"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "מהמהם",
+      "gloss": "momesano na bango"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "נה",
+      "gloss": "likelela"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T20:10:57.987495077Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 15:3",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 15,
+  "translation": "Sikoyo kende, mpe obeta ⟨את⟩ Amalek, mpe bopelisa ⟨את⟩ nyonso oyo ezali na ye, mpe bobela mawa te na likolo ya ye; mpe boma uta na mobali kino na mwasi, uta na mwana moke kino na mokameli, uta na ngombe kino na ntomba, uta na ngamia kino na bangavu.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Sikoyo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kende"
+    },
+    {
+      "surface": "והכיתה",
+      "gloss": "mpe obeta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "והחרמתם",
+      "gloss": "mpe bopelisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyonso oyo ezali na ye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ezali na ye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "תחמל",
+      "gloss": "bobela mawa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na likolo ya ye"
+    },
+    {
+      "surface": "והמתה",
+      "gloss": "mpe boma"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "uta na mobali"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino na"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mwasi"
+    },
+    {
+      "surface": "מעלל",
+      "gloss": "uta na mwana moke"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "mpe kino na"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "mokameli"
+    },
+    {
+      "surface": "משור",
+      "gloss": "uta na ngombe"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "mpe kino na"
+    },
+    {
+      "surface": "שה",
+      "gloss": "ntomba"
+    },
+    {
+      "surface": "מגמל",
+      "gloss": "uta na ngamia"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "mpe kino na"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "bangavu"
+    }
+  ],
+  "timestamp": "2026-09-03T18:17:35.121611637Z",
+  "model": "glm-5.3"
+}

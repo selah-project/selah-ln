@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 25:4",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Mpe na mbula ya nsambo Shabat, shabaton, ekokoka mpo na mabele — Shabat ya Yawe: elanga na yo okobela te, mpe vine na yo okobongisa te.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "mpe na mbula"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "ya nsambo"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Shabat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "shabaton"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ekokoka"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "mpo na mabele"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Shabat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ya Yawe"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "elanga na yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "okobela"
+    },
+    {
+      "surface": "וכרמך",
+      "gloss": "mpe vine na yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "okobongisa"
+    }
+  ],
+  "timestamp": "2026-09-03T16:55:34.379269189Z",
+  "model": "glm-5.3"
+}

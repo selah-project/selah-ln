@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 14:22",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Mpe bana ya Israel bakoti na kati ya mbu na mabele ya sela, mpe mai ezalaki ⟨ngilinga⟩ na bango na ngambo ya mobali na bango mpe na ngambo ya mwasi na bango.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "mpe bakoti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "na kati"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ya mbu"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "na mabele ya sela"
+    },
+    {
+      "surface": "ווהמים",
+      "gloss": "mpe mai"
+    },
+    {
+      "surface": "להם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "ngilinga"
+    },
+    {
+      "surface": "מימינם",
+      "gloss": "na ngambo ya mobali na bango"
+    },
+    {
+      "surface": "ומשמאלם",
+      "gloss": "mpe na ngambo ya mwasi na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:19:49.834001921Z",
+  "model": "glm-5.3"
+}

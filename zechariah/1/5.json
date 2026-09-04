@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 1:5",
+  "book": "zechariah",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Ba tata na bino, bazali wapi? mpe banavi, bakobela libela?",
+  "tokens": [
+    {
+      "surface": "אבותיכם",
+      "gloss": "ba tata na bino"
+    },
+    {
+      "surface": "איה",
+      "gloss": "wapi"
+    },
+    {
+      "surface": "הם",
+      "gloss": "bango"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "mpe banavi"
+    },
+    {
+      "surface": "הלעולם",
+      "gloss": "libela"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "bakobela"
+    }
+  ],
+  "timestamp": "2026-09-03T20:54:33.361751424Z",
+  "model": "glm-5.3"
+}

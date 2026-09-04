@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 3:3",
+  "book": "amos",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Babale bakotambola elongo, soki bakokani te?",
+  "tokens": [
+    {
+      "surface": "הילכו",
+      "gloss": "bakotambola"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "Babale"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "elongo"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "te"
+    },
+    {
+      "surface": "אם",
+      "gloss": "soki"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "bakokani"
+    }
+  ],
+  "timestamp": "2026-09-03T20:42:28.340669901Z",
+  "model": "glm-5.3"
+}

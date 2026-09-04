@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 19:22",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Mpe Yawe akobeta ⟨את⟩ Mitsraim, kobeta mpe kobikisa; mpe bakozonga epai ya Yawe, mpe akozwa mabe na bango, mpe akobikisa bango.",
+  "tokens": [
+    {
+      "surface": "ונגף",
+      "gloss": "mpe akobeta"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsraim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "kobeta"
+    },
+    {
+      "surface": "ורפוא",
+      "gloss": "mpe kobikisa"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "mpe bakozonga"
+    },
+    {
+      "surface": "עד",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ונעתר",
+      "gloss": "mpe akozwa mabe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "ורפאם",
+      "gloss": "mpe akobikisa bango"
+    }
+  ],
+  "timestamp": "2026-09-03T19:19:33.576073103Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Mpe abomi ⟨את⟩ ndeke moko kati na kombelo ya mabele, likolo ya mai ya bomoi.",
+  "tokens": [
+    {
+      "surface": "וְשָׁחַט",
+      "gloss": "abomi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndeke moko"
+    },
+    {
+      "surface": "הַצִּפֹּר",
+      "gloss": "ndeke"
+    },
+    {
+      "surface": "הָאֶחָת",
+      "gloss": "moko"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "kati na"
+    },
+    {
+      "surface": "כְּלִי",
+      "gloss": "kombelo"
+    },
+    {
+      "surface": "חֶרֶשׂ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "מַיִם",
+      "gloss": "mai"
+    },
+    {
+      "surface": "חַיִּים",
+      "gloss": "ya bomoi"
+    }
+  ],
+  "timestamp": "2026-09-03T16:46:12.759172365Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 20:11",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 20,
+  "translation": "Mpe Yehonatan alobaki epai ya David: Yaka, totiya mbongo na elonga. Mpe bango mibale babimaki na elonga.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Yaka"
+    },
+    {
+      "surface": "ונצא",
+      "gloss": "tobimana"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "elonga"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "Mpe babimaki"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "bango mibale"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "elonga"
+    }
+  ],
+  "timestamp": "2026-09-03T18:18:39.436990890Z",
+  "model": "glm-5.3"
+}

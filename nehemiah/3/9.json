@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 3:9",
+  "book": "nehemiah",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe na maboko na bango Refaja mwana wa Hur, mokonzi ya ndambo ya etuka ya Yerushalaim, akangi makasi.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "Mpe na"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "maboko na bango"
+    },
+    {
+      "surface": "החזיק",
+      "gloss": "akangi makasi"
+    },
+    {
+      "surface": "רפיה",
+      "gloss": "Refaja"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "חור",
+      "gloss": "Hur"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "ndambo"
+    },
+    {
+      "surface": "פלך",
+      "gloss": "etuka"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-09-03T22:34:12.267615828Z",
+  "model": "glm-5.3"
+}

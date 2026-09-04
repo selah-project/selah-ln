@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 89:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 89,
+  "translation": "Mpo nakoloba ete libela hesed ekotongamama; likolo, okotya bondimi na yo na kati na yango.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nakoloba"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "libela"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "ekotongamama"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "likolo"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "okotya malamu"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "bondimi na yo"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:22:59.931559500Z",
+  "model": "glm-5.3"
+}

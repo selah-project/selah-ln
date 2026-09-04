@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 5:4",
+  "book": "hosea",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Te, basali na bango bapekisi bango kozonga epai ya Elohim na bango; mpo mpemo ya bindeko ezali kati na bango, mpe ⟨את⟩ Yawe bayebi te.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Te"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "bapekisi bango"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "basali na bango"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "kozonga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim na bango"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mpemo"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "ya bindeko"
+    },
+    {
+      "surface": "בקרבם",
+      "gloss": "kati na bango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "bayebi"
+    }
+  ],
+  "timestamp": "2026-09-03T20:38:29.033188769Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 12:10",
+  "book": "hosea",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Mpe ngai nazali Yawe Elohim na yo, uta na mabele ya Mitsraim; nanu nakozongisa yo na bandako ya mapipa, lokola mokolo ya fete ya kokanganama.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "Mpe ngai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim na yo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "uta na mabele"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nanu"
+    },
+    {
+      "surface": "אושיבך",
+      "gloss": "nakozongisa yo"
+    },
+    {
+      "surface": "באהלים",
+      "gloss": "na bandako ya mapipa"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "lokola mokolo"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya fete ya kokanganama"
+    }
+  ],
+  "timestamp": "2026-09-03T20:39:35.411275299Z",
+  "model": "glm-5.3"
+}

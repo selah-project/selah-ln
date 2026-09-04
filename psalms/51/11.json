@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 51:11",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 51,
+  "translation": "Banga elongi na yo na mabe na ngai, mpe mabu na ngai nyonso osopolu.",
+  "tokens": [
+    {
+      "surface": "הסתר",
+      "gloss": "Banga"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "elongi na yo"
+    },
+    {
+      "surface": "מחטאי",
+      "gloss": "na mabe na ngai"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe nyonso"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "mabu na ngai"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "osopolu"
+    }
+  ],
+  "timestamp": "2026-09-03T21:13:32.409702841Z",
+  "model": "glm-5.3"
+}

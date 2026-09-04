@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 22:1",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Mpe esalemaki sima ya maloba oyo, Elohim amekaki ⟨את⟩ Avraham, mpe alobaki na yenge: Avraham. Mpe (yeye) alobaki: Nazali awa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "esalemaki"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "sima ya"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "maloba"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "mpe Elohim"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "amekaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "na yenge"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Nazali awa"
+    }
+  ],
+  "timestamp": "2026-09-03T15:55:21.032408368Z",
+  "model": "glm-5.3"
+}

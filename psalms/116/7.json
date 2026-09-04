@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 116:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 116,
+  "translation": "Zonga, molimo na ngai, na boboti na yo; mpo Yawe asalaki bolamu na yo.",
+  "tokens": [
+    {
+      "surface": "שובי",
+      "gloss": "zonga"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "molimo na ngai"
+    },
+    {
+      "surface": "למנוחיכי",
+      "gloss": "na boboti na yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "asalaki bolamu"
+    },
+    {
+      "surface": "עליכי",
+      "gloss": "na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:30:37.332778251Z",
+  "model": "glm-5.3"
+}

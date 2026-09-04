@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 57:2",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 57,
+  "translation": "Kimya ekoya, bakopema na bibengi na bango, oyo atambolaka na bokweyi na ye.",
+  "tokens": [
+    {
+      "surface": "יבוא",
+      "gloss": "ekoya"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Kimya"
+    },
+    {
+      "surface": "ינוחו",
+      "gloss": "bakopema"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "bibengi na bango"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "oyo atambolaka"
+    },
+    {
+      "surface": "נכחו",
+      "gloss": "na bokweyi na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T19:36:43.539225890Z",
+  "model": "glm-5.3"
+}

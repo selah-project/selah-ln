@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 9:25",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Mpe alobaki: Akundolami Kenaan, moombi ya bamoombi akozala epai ya bandeko na ye.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "Akundolami"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "moombi"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "ya bamoombi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "akozala"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "epai ya bandeko na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T15:47:33.774462934Z",
+  "model": "glm-5.3"
+}

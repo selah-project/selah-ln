@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 135:12",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 135,
+  "translation": "Mpe apesaki mabele na bango bosikwa, bosikwa mpo na Israel, ekolo na ye.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "Mpe apesaki"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "mabele na bango"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "bosikwa"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "bosikwa"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "mpo na Israel"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ekolo na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:33:28.773464549Z",
+  "model": "glm-5.3"
+}

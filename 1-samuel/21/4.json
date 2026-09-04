@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 21:4",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Sikoyo nini ezali na nse ya loboko na yo? Mikate mitano pesa na loboko na ngai, to oyo ezali.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "sikoyo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "יֵשׁ",
+      "gloss": "ezali"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "na nse ya"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "loboko na yo"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "mitano"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mikate"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "pesa"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "na loboko na ngai"
+    },
+    {
+      "surface": "או",
+      "gloss": "to"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "oyo ezali"
+    }
+  ],
+  "timestamp": "2026-09-03T18:20:44.537136986Z",
+  "model": "glm-5.3"
+}

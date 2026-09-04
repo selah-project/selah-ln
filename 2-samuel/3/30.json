@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 3:30",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe Yoab na Avishai ndeko na ye babomaki Avner, mpo amomaki ⟨את⟩ Asahel ndeko na bango, na Gibeon, na etumba.",
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "Mpe Yoab"
+    },
+    {
+      "surface": "ואבישי",
+      "gloss": "na Avishai"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ndeko na ye"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "babomaki"
+    },
+    {
+      "surface": "לאבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "על",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ete"
+    },
+    {
+      "surface": "המית",
+      "gloss": "amomaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Asahel"
+    },
+    {
+      "surface": "עשהאל",
+      "gloss": "Asahel"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "ndeko na bango"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "na Gibeon"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "na etumba"
+    }
+  ],
+  "timestamp": "2026-09-03T18:27:55.367545230Z",
+  "model": "glm-5.3"
+}

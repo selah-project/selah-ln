@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 12:5",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Se ya mobimba, mobali, mwana wa mbula moko, ekozala na bino; kati ya bampanga to kati ya bambasi bokomema.",
+  "tokens": [
+    {
+      "surface": "שה",
+      "gloss": "se"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ya mobimba"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mobali"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mbula"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ezala"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "na bino"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kati ya"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "bampanga"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "mpe kati ya"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "bambasi"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "bokomema"
+    }
+  ],
+  "timestamp": "2026-09-03T16:19:28.865022393Z",
+  "model": "glm-5.3"
+}

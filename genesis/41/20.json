@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 41:20",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 41,
+  "translation": "Mpe bangombe bamondi mpe mabe baliaki ⟨את⟩ sambo bangombe ya liboso, bongataki.",
+  "tokens": [
+    {
+      "surface": "ותאכלנה",
+      "gloss": "mpe baliaki"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "bangombe"
+    },
+    {
+      "surface": "הרקות",
+      "gloss": "bamondi"
+    },
+    {
+      "surface": "והרעות",
+      "gloss": "mpe mabe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sambo bangombe ya liboso bongataki"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sambo"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "bangombe"
+    },
+    {
+      "surface": "הראשנות",
+      "gloss": "ya liboso"
+    },
+    {
+      "surface": "הבריאת",
+      "gloss": "bongataki"
+    }
+  ],
+  "timestamp": "2026-09-03T16:07:08.359408719Z",
+  "model": "glm-5.3"
+}

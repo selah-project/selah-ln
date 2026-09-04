@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 13:3",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Ngai natoli basantu na ngai, mpe nabengaki bato na ngai ya makasi mpo na kolere na ngai, baye basepelaka na nkembo na ngai.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ngai"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "natoli"
+    },
+    {
+      "surface": "למקדשי",
+      "gloss": "basantu na ngai"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "nabengaki"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "bato na ngai ya makasi"
+    },
+    {
+      "surface": "לאפי",
+      "gloss": "mpo na kolere na ngai"
+    },
+    {
+      "surface": "עליזי",
+      "gloss": "baye basepelaka"
+    },
+    {
+      "surface": "גאותי",
+      "gloss": "na nkembo na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T19:18:55.266188966Z",
+  "model": "glm-5.3"
+}

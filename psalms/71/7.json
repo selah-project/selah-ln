@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 71:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 71,
+  "translation": "Nazalaki lokola likamwisi epai ya bato ebele; mpe yo, esika ya bobombami na ngai ya nguya.",
+  "tokens": [
+    {
+      "surface": "כמופת",
+      "gloss": "lokola likamwisi"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "Nazalaki"
+    },
+    {
+      "surface": "לרבים",
+      "gloss": "epai ya bato ebele"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "mpe yo"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "esika ya bobombami na ngai"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ya nguya"
+    }
+  ],
+  "timestamp": "2026-09-03T21:16:48.295254639Z",
+  "model": "glm-5.3"
+}

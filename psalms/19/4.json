@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 19:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Liloba ezali te, mpe maloba ezali te; kokanaka na bango ekoyokanama te.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ezali te"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Liloba"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mpe ... ezali te"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "maloba"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "kozanga"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "ekoyokanama te"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "kokanaka na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:04:49.640413128Z",
+  "model": "glm-5.3"
+}

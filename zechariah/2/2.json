@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 2:2",
+  "book": "zechariah",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe nalobi na motindami oyo azalaki koloba na ngai: oyo ezali nini? Mpe alobaki na ngai: oyo nde minsongo oyo esepolaki ⟨את⟩ Yehuda, ⟨את⟩ Israel, mpe Yerushalaim.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "mpe nalobi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "motindami"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "oyo azalaki koloba"
+    },
+    {
+      "surface": "בי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "הקרנות",
+      "gloss": "minsongo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "esepolaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "mpe Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-09-03T20:55:57.104068363Z",
+  "model": "glm-5.3"
+}

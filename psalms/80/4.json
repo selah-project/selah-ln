@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 80:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 80,
+  "translation": "Elohim, tolizisa biso, mpe mamona elongi na yo, mpe tokobikama.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "tolizisa biso"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "mpe mamona"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "elongi na yo"
+    },
+    {
+      "surface": "andנושעה",
+      "gloss": "mpe tokobikama"
+    }
+  ],
+  "timestamp": "2026-09-03T21:21:07.241534962Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 20:25",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 20,
+  "translation": "Mpe bopambolaka kati na nyama ya mpete na ya mabe, mpe kati na ndeke ya mabe na ya mpete; mpe bopekisaka te ⟨את⟩ milimo na bino na nyama, mpe na ndeke, mpe na nyonso oyo ezalaka kolongolongona na mabele, oyo napambolaki na bino na mabe.",
+  "tokens": [
+    {
+      "surface": "והבדלתם",
+      "gloss": "Mpe bopambolaka"
+    },
+    {
+      "surface": "בין",
+      "gloss": "kati na"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "ya mpete"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "na ya mabe"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "mpe kati na"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "ndeke"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "ya mabe"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "na ya mpete"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe ... te"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "bopekisaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "milimo na bino"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "milimo na bino"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "na nyama"
+    },
+    {
+      "surface": "ובעוף",
+      "gloss": "mpe na ndeke"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "mpe na nyonso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "ezalaka kolongolongona"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "הבדלתי",
+      "gloss": "napambolaki"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "na bino"
+    },
+    {
+      "surface": "לטמא",
+      "gloss": "na mabe"
+    }
+  ],
+  "timestamp": "2026-09-03T16:51:42.973973774Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 2:26",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Ndenge soni ya mwibi tango ayamani, ndenge moko ndako ya Israel basunikaki — bango, bakonzi na bango, bakambi na bango, mpe bakohen na bango mpe banavi na bango.",
+  "tokens": [
+    {
+      "surface": "כבשת",
+      "gloss": "ndenge soni ya"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "mwibi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tango"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ayamani"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ndenge moko"
+    },
+    {
+      "surface": "הבישו",
+      "gloss": "basunikaki"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bango"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "bakonzi na bango"
+    },
+    {
+      "surface": "שריהם",
+      "gloss": "bakambi na bango"
+    },
+    {
+      "surface": "וכהניהם",
+      "gloss": "mpe bakohen na bango"
+    },
+    {
+      "surface": "ונביאיהם",
+      "gloss": "mpe banavi na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T19:40:38.238040162Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 105:38",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 105,
+  "translation": "Mitsraim esangaki ntango bakendaki, mpo bonko na bango ekweyaki likolo na bango.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "esangaki"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "ntango bakendaki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "ekweyaki"
+    },
+    {
+      "surface": "פחדם",
+      "gloss": "bonko na bango"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "likolo na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:27:20.077312140Z",
+  "model": "glm-5.3"
+}

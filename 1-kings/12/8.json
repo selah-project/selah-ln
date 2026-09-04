@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 12:8",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Mpe atikali likanu ya bankulu oyo bakamelaki ye, mpe akangaki likanu na bayele oyo bakoli ⟨את⟩ ye, oyo bazali tekelama liboso na ye.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "atikali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "likanu"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "likanu"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "bankulu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "bakamelaki ye"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "akangaki likanu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bayele"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "bayele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "bakoli"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "bazali tekelama"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "liboso na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T18:50:55.531873027Z",
+  "model": "glm-5.3"
+}

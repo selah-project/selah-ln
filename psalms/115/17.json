@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 115:17",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 115,
+  "translation": "Bakufi bakumisaka te Ya, mpe te bato ⟨nyonso⟩ baye bakita na kimwema.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "bakufi"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "bakumisaka"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "baye bakita"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "kimwema"
+    }
+  ],
+  "timestamp": "2026-09-03T21:30:05.205693651Z",
+  "model": "glm-5.3"
+}

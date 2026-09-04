@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 14:7",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Nazalaki mwana ya mbula zomi na minei ntango Moshe, mosumeli ya Yawe, atindaki ngai uta na Kadesh-Barnea kokita talá ⟨את⟩ mabele, mpe nazongisaki ye ⟨את⟩ liloba ndenge motali na motema na ngai.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ya mbula zomi na minei"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mbula"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nazalaki"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "ntango atindaki"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "mosumeli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yawe"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ngai",
+      "marks": "Kadesh-Barnea"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "uta na Kadesh"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barnea"
+    },
+    {
+      "surface": "לרגל",
+      "gloss": "kokita talá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "ואשב",
+      "gloss": "mpe nazongisaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "liloba"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "liloba"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ndenge"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "motema na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T17:49:52.293731080Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 14:40",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Mpe kohen atindaki, mpe bobilaki ⟨את⟩ mabanga oyo nega ezali na yango, mpe babwakaki ⟨את⟩ yango na libanda ya engumba, kino na esika mabe.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "mpe atindaki"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "וחלצו",
+      "gloss": "mpe bobilaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabanga"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "mabanga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "nega"
+    },
+    {
+      "surface": "והשליכו",
+      "gloss": "mpe babwakaki"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩ yango",
+      "marks": "mabanga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kino na"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "na libanda"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "ya engumba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kino na"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "esika"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "mabe"
+    }
+  ],
+  "timestamp": "2026-09-03T16:46:24.565656552Z",
+  "model": "glm-5.3"
+}

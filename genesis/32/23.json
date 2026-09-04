@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 32:23",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 32,
+  "translation": "Mpe atolamaki butu wana, mpe azwaki ⟨את⟩ basi na ye mibale, mpe ⟨את⟩ basali basi na ye mibale, mpe ⟨את⟩ bana na ye zomi na moko, mpe akatakaki ⟨את⟩ kolakata ya ebale Yabok.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "mpe atolamaki"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "butu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "wana"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "mpe azwaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "basi na ye mibale"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "basi na ye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "basali basi na ye mibale"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "שפחתיו",
+      "gloss": "basali basi na ye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bana na ye zomi na moko"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "moko"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "zomi"
+    },
+    {
+      "surface": "ילדיו",
+      "gloss": "bana na ye"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "mpe akatakaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kolakata ya ebale Yabok"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "kolakata"
+    },
+    {
+      "surface": "יבק",
+      "gloss": "Yabok"
+    }
+  ],
+  "timestamp": "2026-09-03T16:01:26.860619387Z",
+  "model": "glm-5.3"
+}

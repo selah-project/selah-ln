@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 16:22",
+  "book": "ezekiel",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Mpe na ⟨את⟩ makwe na yo nyonso mpe bonyokoli na yo, oyanganaki te mikolo ya bokoli na yo, tango ozalaki monduku mpe moke, kolobwana na makila na yo ozalaki.",
+  "tokens": [
+    {
+      "surface": "וְאֵ֤ת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "makwe na yo nyonso mpe bonyokoli na yo"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "תּוֹעֲבֹתַ֨יִךְ֙",
+      "gloss": "makwe na yo"
+    },
+    {
+      "surface": "וְתַזְנֻתַ֔יִךְ",
+      "gloss": "mpe bonyokoli na yo"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "te"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "oyanganaki"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "mikolo ya bokoli na yo"
+    },
+    {
+      "surface": "יְמֵ֣י",
+      "gloss": "mikolo"
+    },
+    {
+      "surface": "נְעוּרָ֑יִךְ",
+      "gloss": "ya bokoli na yo"
+    },
+    {
+      "surface": "בִּֽהְיוֹתֵךְ֙",
+      "gloss": "tango ozalaki"
+    },
+    {
+      "surface": "עֵרֹ֣ם",
+      "gloss": "monduku"
+    },
+    {
+      "surface": "וְעֶרְיָ֔ה",
+      "gloss": "mpe moke"
+    },
+    {
+      "surface": "מִתְבּוֹסֶ֥סֶת",
+      "gloss": "kolobwana"
+    },
+    {
+      "surface": "בְּדָמֵ֖ךְ",
+      "gloss": "na makila na yo"
+    },
+    {
+      "surface": "הָיִֽית",
+      "gloss": "ozalaki"
+    }
+  ],
+  "timestamp": "2026-09-03T20:17:20.432304416Z",
+  "model": "glm-5.3"
+}

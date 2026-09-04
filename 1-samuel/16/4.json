@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 16:4",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Mpe Shemuel asalaki ⟨את⟩ oyo Yawe alobaki, mpe akaki na Betlehema, mpe bakulutu ya mboka bakangwamaki mpo na kosolana na ye, mpe alobaki: Na kimia, oyei?",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Mpe asalaki"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oyo Yawe alobaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "mpe akaki"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "lehema"
+    },
+    {
+      "surface": "ויחרדו",
+      "gloss": "mpe bakangwamaki"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "bakulutu"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ya mboka"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "mpo na kosolana na ye"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "Na kimia"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "oyei"
+    }
+  ],
+  "timestamp": "2026-09-03T18:17:34.366283643Z",
+  "model": "glm-5.3"
+}

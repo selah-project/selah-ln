@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 15:16",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 15,
+  "translation": "Mpe soki molangi ya mboto ebimi kati na moto, mpe asukwi na mai ⟨את⟩ mobimba ya libumu na ye, mpe azali moñenge kino mpokwa.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "mpe moto"
+    },
+    {
+      "surface": "כי",
+      "gloss": "soki"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "ebimi"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kati na ye"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "molangi"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ya mboto"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "mpe asukwi"
+    },
+    {
+      "surface": "במים",
+      "gloss": "na mai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mobimba ya libumu na ye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mobimba ya"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "libumu na ye"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "mpe azali moñenge"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "mpokwa"
+    }
+  ],
+  "timestamp": "2026-09-03T23:16:05.610742951Z",
+  "model": "glm-5.3"
+}

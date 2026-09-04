@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 123,
+  "ref": "psalms 119:123",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Misolo na ngai emalaki na kolikia bolokisi na yo, mpe liloba ya bondimi na yo.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Misolo na ngai"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "emalaki"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "na kolikia bolokisi na yo"
+    },
+    {
+      "surface": "ולאמרת",
+      "gloss": "mpe liloba"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "ya bondimi na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:32:13.657223238Z",
+  "model": "glm-5.3"
+}

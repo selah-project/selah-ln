@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 13:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Mpo te monguna na ngai aloba: nakoki ⟨ye⟩; mpe banyokoli na ngai bakosekela soki nakweyi.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "Mpo te"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "aloba"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "monguna na ngai"
+    },
+    {
+      "surface": "יכלתיו",
+      "gloss": "nakoki ⟨ye⟩"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "banyokoli na ngai"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "bakosekela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "soki"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "nakweyi"
+    }
+  ],
+  "timestamp": "2026-09-03T23:34:13.040073904Z",
+  "model": "glm-5.3"
+}

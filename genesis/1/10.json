@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 1:10",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe Elohim abengaki mabele ya demo Mabele, mpe bobangani ya mai abengaki Mbu; mpe Elohim amonaki ete ezali malamu.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Mpe abengaki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "na mabele ya demo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "Mabele"
+    },
+    {
+      "surface": "ולמקוה",
+      "gloss": "mpe na bobangani"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ya mai"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "abengaki"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "Mbu"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "mpe amonaki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ezali malamu"
+    }
+  ],
+  "timestamp": "2026-09-03T15:44:00.641343919Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 32:5",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 32,
+  "translation": "Mpe atindaki ⟨את⟩ bango koloba: Bongo boloba na nkolo na ngai, na Esau: Bongo mobudi na yo Yaakov alobi: na Lavan nafandaki, mpe natileki tka sikoyo.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "atindaki"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bango",
+      "marks": "bango"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "koloba"
+    },
+    {
+      "surface": "כה",
+      "gloss": "bongo"
+    },
+    {
+      "surface": "תאמרון",
+      "gloss": "boloba"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "na nkolo na ngai"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "na Esau"
+    },
+    {
+      "surface": "כה",
+      "gloss": "bongo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "alobi"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mobudi na yo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "nafandaki lokola mopaya"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "mpe natileki"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tka"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "sikoyo"
+    }
+  ],
+  "timestamp": "2026-09-03T16:02:52.243504686Z",
+  "model": "glm-5.3"
+}

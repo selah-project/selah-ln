@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 28:10",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 28,
+  "translation": "Bobeli ya Shabat na Shabat na yango, likolo ya bobeli ya mokolo na mokolo, mpe niske na yango.",
+  "tokens": [
+    {
+      "surface": "עלת",
+      "gloss": "Bobeli"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "ya Shabat"
+    },
+    {
+      "surface": "בשבתו",
+      "gloss": "na Shabat na yango"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "bobeli"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "ya mokolo na mokolo"
+    },
+    {
+      "surface": "ונסכה",
+      "gloss": "mpe niske na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T17:17:00.991989903Z",
+  "model": "glm-5.3"
+}

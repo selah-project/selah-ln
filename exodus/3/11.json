@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 3:11",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe alobaki Moshe epai ya Elohim: Nani ngai, ete nakende epai ya Parao, mpe ete nabimisa ⟨את⟩ bana ya Israel na Mitsraim?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Nani"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "nakende"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "mpe ete"
+    },
+    {
+      "surface": "אוציא",
+      "gloss": "nabimisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bana ya Israel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "na Mitsraim"
+    }
+  ],
+  "timestamp": "2026-09-03T16:14:54.956544948Z",
+  "model": "glm-5.3"
+}

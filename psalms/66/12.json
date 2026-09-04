@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 66:12",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 66,
+  "translation": "Otiyaki bato likolo ya mitu na biso; tokotaki na moto mpe na mai, mpe obimisi biso na bonene.",
+  "tokens": [
+    {
+      "surface": "הרכבת",
+      "gloss": "Otiyaki"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "bato"
+    },
+    {
+      "surface": "לראשנו",
+      "gloss": "likolo ya mitu na biso"
+    },
+    {
+      "surface": "באנו",
+      "gloss": "tokotaki"
+    },
+    {
+      "surface": "באש",
+      "gloss": "na moto"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "mpe na mai"
+    },
+    {
+      "surface": "ותוציאנו",
+      "gloss": "mpe obimisi biso"
+    },
+    {
+      "surface": "לרויה",
+      "gloss": "na bonene"
+    }
+  ],
+  "timestamp": "2026-09-03T21:15:16.671198765Z",
+  "model": "glm-5.3"
+}

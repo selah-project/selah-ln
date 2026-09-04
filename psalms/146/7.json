@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 146:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 146,
+  "translation": "Asalaki bosolo mpo na bapame, apesaka mbala na baye bazali na nzala; Yawe afungolaka bakangami.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "asalaki"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "bosolo"
+    },
+    {
+      "surface": "לעשוקים",
+      "gloss": "mpo na bapame"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "apesaka"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mbala"
+    },
+    {
+      "surface": "לרעבים",
+      "gloss": "na baye bazali na nzala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מתיר",
+      "gloss": "afungolaka"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "bakangami"
+    }
+  ],
+  "timestamp": "2026-09-03T21:36:53.623391109Z",
+  "model": "glm-5.3"
+}

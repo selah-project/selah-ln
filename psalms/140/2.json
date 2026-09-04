@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 140:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 140,
+  "translation": "Bikisa ngai, Yawe, na moto mabe; na moto ya makasi obatela ngai.",
+  "tokens": [
+    {
+      "surface": "חלצני",
+      "gloss": "Bikisa ngai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "na moto"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "na moto"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "ya makasi"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "obatela ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:34:48.641567535Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 7:20",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mpe ata ⟨את⟩ nsongo Yawe Elohim na yo akotinda kati na bango, tii bokufi ya basali mpe ya babombi liboso na yo.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Mpe ata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nsongo"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "nsongo"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "akotinda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim na yo"
+    },
+    {
+      "surface": "בם",
+      "gloss": "kati na bango"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tii"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "bokufi"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "ya basali"
+    },
+    {
+      "surface": "והנסתרים",
+      "gloss": "mpe ya babombi"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "liboso na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T17:27:51.142224639Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 26:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "Oyo maboko na bango ezali na mokano mabe, mpe loboko ya mobali na bango ejali buruba.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "בידיהם",
+      "gloss": "na maboko na bango"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "mokano mabe"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "mpe loboko ya mobali na bango"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ejali"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "buruba"
+    }
+  ],
+  "timestamp": "2026-09-03T21:05:38.450544612Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 25:24",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Mpe ozipa ⟨את⟩ yango na wolomo ya malamu, mpe osalaka na yango ndelo ya wolomo na zingazinga.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "Mpe ozipa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yango"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "na wolomo"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ya malamu"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "mpe osa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "זר",
+      "gloss": "ndelo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ya wolomo"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "na zingazinga"
+    }
+  ],
+  "timestamp": "2026-09-03T16:28:11.774726076Z",
+  "model": "glm-5.3"
+}

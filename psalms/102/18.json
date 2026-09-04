@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 102:18",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 102,
+  "translation": "Alongaki epai ya lisambeli ya olofo, aboyaki te ⟨את⟩ lisambeli na bango.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "Alongaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "תפלת",
+      "gloss": "lisambeli ya"
+    },
+    {
+      "surface": "הערער",
+      "gloss": "olofo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "te"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "aboyaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lisambeli na bango"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "lisambeli na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:26:18.324014935Z",
+  "model": "glm-5.3"
+}

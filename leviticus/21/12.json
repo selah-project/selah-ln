@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 21:12",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Mpe na mosantu akobima te, mpe akoboyisa lokumu ⟨את⟩ mosantu ya Elohim na ye te, mpo ete bokabwani ya mafuta ya botombi ya Elohim na ye ezali na ye; ngai Yawe.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "Mpe na"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "mosantu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "akobima"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe … te"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "akoboyisa lokumu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mosantu"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "mosantu"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "ya Elohim na ye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "bokabwani"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "ya botombi"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim na ye"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T16:52:46.950411438Z",
+  "model": "glm-5.3"
+}

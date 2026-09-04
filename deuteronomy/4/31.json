@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "deuteronomy 4:31",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpo Yawe Elohim na yo ezali El ya mawa: atiki yo te, mpe aboma yo te, mpe abosana te ⟨את⟩ elongo ya batata na yo, oyo alapaki na bango.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "ya mawa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim na yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ירפך",
+      "gloss": "atiki yo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "ישחיתך",
+      "gloss": "aboma yo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "ישכח",
+      "gloss": "abosana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elongo"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "elongo"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "ya batata na yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "alapaki"
+    },
+    {
+      "surface": "להם",
+      "gloss": "na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T17:26:19.448183509Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 105:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 105,
+  "translation": "Loyemba na ye, lozembe na ye, banza na makambo na ye ma kokamwisa nyonso.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Loyemba"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "lozembe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "banza"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "makambo na ye ma kokamwisa"
+    }
+  ],
+  "timestamp": "2026-09-03T21:27:33.475695354Z",
+  "model": "glm-5.3"
+}

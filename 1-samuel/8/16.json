@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 8:16",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe akanza ⟨את⟩ basali na bino baliaka, mpe ⟨את⟩ basali na bino basi, mpe ⟨את⟩ bilenge na bino oyo bazali malamu, mpe ⟨את⟩ banyama na bino bangondo, mpe akosalisa ⟨bango⟩ na mosala na ye.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "basali na bino baliaka"
+    },
+    {
+      "surface": "עבדיכם",
+      "gloss": "basali na bino baliaka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "basali na bino basi"
+    },
+    {
+      "surface": "שפחותיכם",
+      "gloss": "basali na bino basi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bilenge na bino oyo bazali malamu"
+    },
+    {
+      "surface": "בחוריכם",
+      "gloss": "bilenge na bino"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "oyo bazali malamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "banyama na bino bangondo"
+    },
+    {
+      "surface": "חמוריכם",
+      "gloss": "banyama na bino bangondo"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "akanza"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "mpe akosalisa"
+    },
+    {
+      "surface": "למלאכתו",
+      "gloss": "na mosala na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T18:10:36.056231715Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 3:17",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe atelemisi ⟨את⟩ bankiti liboso ya hekale, moko na loboko ya mobali mpe moko na loboko ya mwasi; mpe abengaki nkombo ya oyo ya loboko ya mobali Yakhin, mpe nkombo ya oyo ya loboko ya mwasi Boaz.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "mpe atelemisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bankiti"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "bankiti"
+    },
+    {
+      "surface": "על",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "פני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "hekale"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "moko"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "na loboko ya mobali"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "mpe moko"
+    },
+    {
+      "surface": "מהשמאול",
+      "gloss": "na loboko ya mwasi"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "mpe abengaki"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nkombo"
+    },
+    {
+      "surface": "הימיני",
+      "gloss": "ya oyo ya loboko ya mobali"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "Yakhin"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "mpe nkombo"
+    },
+    {
+      "surface": "השמאלי",
+      "gloss": "ya oyo ya loboko ya mwasi"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    }
+  ],
+  "timestamp": "2026-09-03T22:53:51.376432170Z",
+  "model": "glm-5.3"
+}

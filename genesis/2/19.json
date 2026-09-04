@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 2:19",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe Yawe Elohim asalaki na mabele nyonso bambibe ya bondoba, mpe ⟨את⟩ nyonso ndeke ya likolo; mpe amemaki yango epai ya moto, mpo na komona nini akobenga yango; mpe nyonso oyo moto abengaki elomo ya bomoi, yango nde nkombo na yango.",
+  "tokens": [
+    {
+      "surface": "ויצר",
+      "gloss": "asalaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מן",
+      "gloss": "na"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "חית",
+      "gloss": "bambibe"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ya bondoba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "nyonso (ndeke ya likolo)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ndeke"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ya likolo"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "amemaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "moto"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "mpo na komona"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "akobenga"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yango"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe nyonso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "abengaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yango"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "moto"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "elomo"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "ya bomoi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yango"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nkombo na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T15:44:46.399342117Z",
+  "model": "glm-5.3"
+}

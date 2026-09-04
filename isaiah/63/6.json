@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 63:6",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 63,
+  "translation": "Mpe apiamaki bato na likebi na ngai, mpe akemisaki bango na likebi ya makasi na ngai, mpe akitisaki na mabele masanga na bango.",
+  "tokens": [
+    {
+      "surface": "ואבוס",
+      "gloss": "mpe apiamaki"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "bato"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "na likebi na ngai"
+    },
+    {
+      "surface": "ואשכרם",
+      "gloss": "mpe akemisaki bango"
+    },
+    {
+      "surface": "בחמתי",
+      "gloss": "na likebi ya makasi na ngai"
+    },
+    {
+      "surface": "ואוריד",
+      "gloss": "mpe akitisaki"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "נצחם",
+      "gloss": "masanga na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T19:39:09.298063144Z",
+  "model": "glm-5.3"
+}

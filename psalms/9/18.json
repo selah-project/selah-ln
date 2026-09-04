@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 9:18",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Babe bakozonga na Sheol, bikolo nyonso bayebi kolibwa Elohim.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "bakozonga"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "Babe"
+    },
+    {
+      "surface": "לשאולה",
+      "gloss": "na Sheol"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bikolo"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "bayebi kolibwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-03T21:01:51.762745933Z",
+  "model": "glm-5.3"
+}

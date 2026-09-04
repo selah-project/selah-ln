@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 32:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 32,
+  "translation": "Boyela te lokola so, lokola buru, oyo bazali kozanga kososola; na metege mpe resene, bilembo na yango, mpo na kokanga yango, bakoíka boye te bákóma pene epai na yo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "boyela"
+    },
+    {
+      "surface": "כסוס",
+      "gloss": "lokola so"
+    },
+    {
+      "surface": "כפרד",
+      "gloss": "lokola buru"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kozanga"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "kososola"
+    },
+    {
+      "surface": "במתג",
+      "gloss": "na metege"
+    },
+    {
+      "surface": "ורסן",
+      "gloss": "mpe resene"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "bilembo na yango"
+    },
+    {
+      "surface": "לבלום",
+      "gloss": "mpo na kokanga yango"
+    },
+    {
+      "surface": "בל",
+      "gloss": "te"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "bákóma pene"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "epai na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:07:54.184579112Z",
+  "model": "glm-5.3"
+}

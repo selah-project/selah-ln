@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 7:3",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mpe ebombaki na ereza uta likolo, na likolo ya bipai oyo ezali na likolo ya baompila, ntuku minei na mitano, zomi na mitano na molongo moko.",
+  "tokens": [
+    {
+      "surface": "וספון",
+      "gloss": "mpe ebombaki"
+    },
+    {
+      "surface": "בארז",
+      "gloss": "na ereza"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "uta likolo"
+    },
+    {
+      "surface": "על",
+      "gloss": "na likolo ya"
+    },
+    {
+      "surface": "הצלעות",
+      "gloss": "bipai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ezali na likolo ya"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "baompila"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ntuku minei"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "na mitano"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "mitano"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "zomi"
+    },
+    {
+      "surface": "הטור",
+      "gloss": "na molongo moko"
+    }
+  ],
+  "timestamp": "2026-09-03T18:46:01.567897343Z",
+  "model": "glm-5.3"
+}

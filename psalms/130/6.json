@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 130:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 130,
+  "translation": "Molimo na ngai ⟨azelaka⟩ epai ya Adonai, koleka babateli ya tongo — babateli ya tongo.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "Molimo na ngai"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "epai ya Adonai"
+    },
+    {
+      "surface": "משמרים",
+      "gloss": "koleka babateli"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "ya tongo"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "babateli"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "ya tongo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:34:12.087299613Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 32:7",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 32,
+  "translation": "Mpe Yawe alobaki na Moshe: Kende, kita, mpo bato na yo, oyo obimisaki uta na mabele ya Mitsraim, basali mabe.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kende"
+    },
+    {
+      "surface": "רד",
+      "gloss": "kita"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "basali mabe"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bato na yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "obimisaki"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "uta na mabele ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    }
+  ],
+  "timestamp": "2026-09-03T16:34:03.892478479Z",
+  "model": "glm-5.3"
+}

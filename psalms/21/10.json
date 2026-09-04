@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 21:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Otyaki bango lokola lopito ya moto na ntango ya elongi na yo, Yawe; na likebi na ye amielaki bango, mpe moto liali bango.",
+  "tokens": [
+    {
+      "surface": "תשיתמו",
+      "gloss": "Otyaki bango"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "lokola lopito"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ya moto"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "na ntango"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ya elongi na yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "na likebi na ye"
+    },
+    {
+      "surface": "יבלעם",
+      "gloss": "amielaki bango"
+    },
+    {
+      "surface": "ותאכלם",
+      "gloss": "mpe liali bango"
+    },
+    {
+      "surface": "אש",
+      "gloss": "moto"
+    }
+  ],
+  "timestamp": "2026-09-03T23:33:29.254084996Z",
+  "model": "glm-5.3"
+}

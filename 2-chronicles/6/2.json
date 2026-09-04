@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 6:2",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpe ngai natongaki ndako, esika ya lokumu, mpo na yo, mpe esika ya kofanda na yo libela na libela.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Mpe ngai"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "natongaki"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "esika ya lokumu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mpo na yo"
+    },
+    {
+      "surface": "ומכון",
+      "gloss": "mpe esika"
+    },
+    {
+      "surface": "לשבתך",
+      "gloss": "ya kofanda na yo"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "libela na libela"
+    }
+  ],
+  "timestamp": "2026-09-03T22:55:45.280208143Z",
+  "model": "glm-5.3"
+}

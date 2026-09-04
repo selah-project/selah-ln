@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe Kush abotaki ⟨את⟩ Nimrod; yeye abandaki kozala moto ya nguya na mabele.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "Mpe Kush"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "abotaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimrod"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "החל",
+      "gloss": "abandaki"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "kozala"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "moto ya nguya"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T22:39:46.242049066Z",
+  "model": "glm-5.3"
+}

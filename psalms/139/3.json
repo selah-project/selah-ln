@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 139:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 139,
+  "translation": "Nzela na ngai mpe bolala na ngai osukolaki, mpe na banzela na ngai nyonso ozalaki na boyebi.",
+  "tokens": [
+    {
+      "surface": "ארחי",
+      "gloss": "nzela na ngai"
+    },
+    {
+      "surface": "ורבעי",
+      "gloss": "mpe bolala na ngai"
+    },
+    {
+      "surface": "זרית",
+      "gloss": "osukolaki"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe nyonso"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "banzela na ngai"
+    },
+    {
+      "surface": "הסכנתה",
+      "gloss": "ozalaki na boyebi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:34:46.479123274Z",
+  "model": "glm-5.3"
+}

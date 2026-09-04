@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 66:20",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 66,
+  "translation": "Bolekí Elohim, oyo alongolaki te libonda na ngai, mpe hesed na yandi, epai na ⟨את⟩ ngai te.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Bolekí"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "alongolaki"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "libonda na ngai"
+    },
+    {
+      "surface": "וחסדו",
+      "gloss": "mpe hesed na yandi"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "epai na ⟨את⟩ ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:15:20.833167277Z",
+  "model": "glm-5.3"
+}

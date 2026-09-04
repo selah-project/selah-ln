@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 3:21",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe nakopesa ⟨את⟩ bolingo ya bato oyo na miso ya Mitsraim; mpe ekosalema, ntango bokokende, bokokende te na bopanda.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "mpe nakopesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bolingo"
+    },
+    {
+      "surface": "חן",
+      "gloss": "bolingo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato oyo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "na miso ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "mpe ekosalema"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ntango"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "bokokende"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "bokokende"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "na bopanda"
+    }
+  ],
+  "timestamp": "2026-09-03T16:14:15.146370380Z",
+  "model": "glm-5.3"
+}

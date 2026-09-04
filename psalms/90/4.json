@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 90:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 90,
+  "translation": "Mpo elemba ya mbula na miso na yo ezali lokola mokolo ya lobi ntango elekaki, mpe lokola litumbelo ya butu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "elemba"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ya mbula"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "na miso na yo"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "lokola mokolo"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "ya lobi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ntango"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "elekaki"
+    },
+    {
+      "surface": "ואשמורה",
+      "gloss": "mpe lokola litumbelo"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ya butu"
+    }
+  ],
+  "timestamp": "2026-09-03T21:24:29.001541461Z",
+  "model": "glm-5.3"
+}

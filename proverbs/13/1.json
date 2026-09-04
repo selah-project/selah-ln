@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 13:1",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Mwana mayele ayokaka eteyeli ya tata ⟨na ye⟩, kasi mosembeli ayokaka mbusa te.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "mayele"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "eteyeli"
+    },
+    {
+      "surface": "אב",
+      "gloss": "tata"
+    },
+    {
+      "surface": "ולץ",
+      "gloss": "kasi mosembeli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ayokaka"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "mbusa"
+    }
+  ],
+  "timestamp": "2026-09-03T21:42:12.891922635Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 11:20",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpe bokomaka yango o mikonzi ya ndako na yo mpe o bipata na yo.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "mpe bokomaka yango"
+    },
+    {
+      "surface": "על",
+      "gloss": "o"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "mikonzi"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ya ndako na yo"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "mpe o bipata na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T17:28:28.116634209Z",
+  "model": "glm-5.3"
+}

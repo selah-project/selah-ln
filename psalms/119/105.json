@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 105,
+  "ref": "psalms 119:105",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Liloba na yo ezali ntembe mpo na ngasu na ngai, mpe mongongo mpo na nzela na ngai.",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "ntembe"
+    },
+    {
+      "surface": "לרגלי",
+      "gloss": "mpo na ngasu na ngai"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "liloba na yo"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "mpe mongongo"
+    },
+    {
+      "surface": "לנתיבתי",
+      "gloss": "mpo na nzela na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:31:18.810073740Z",
+  "model": "glm-5.3"
+}

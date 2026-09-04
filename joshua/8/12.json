@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 8:12",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe azwaki soki bambe nkoto ya bato, mpe atyaki bango ⟨את⟩ na ebombami, kati ya Betel el mpe Ayi, na mai ya mboka.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "mpe azwaki"
+    },
+    {
+      "surface": "כחמשת",
+      "gloss": "soki bambe"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "nkoto"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ya bato"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "mpe atyaki"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "bango ⟨את⟩",
+      "marks": "ebombami"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "na ebombami"
+    },
+    {
+      "surface": "בין",
+      "gloss": "kati ya"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Betel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "el"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "mpe kati ya"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Ayi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mai"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "ya mboka"
+    }
+  ],
+  "timestamp": "2026-09-03T17:45:48.302189959Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 4:32",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe Elisha akotaki na ndako, mpe talá, mwana akufaki, alali na kitanda na yango.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Mpe akotaki"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "na ndako"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mpe talá"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "מת",
+      "gloss": "akufaki"
+    },
+    {
+      "surface": "משכב",
+      "gloss": "alali"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "kitanda na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T19:00:34.663336252Z",
+  "model": "glm-5.3"
+}

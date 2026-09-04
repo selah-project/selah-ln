@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 5:5",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Mpe ekokoma, soki amibeki na moko ya makambo oyo, mpe amiolata oyo asalaki libanga na yango.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Mpe ekokoma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "soki"
+    },
+    {
+      "surface": "יאשם",
+      "gloss": "amibeki"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "na moko"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "ya makambo oyo"
+    },
+    {
+      "surface": "והתודה",
+      "gloss": "mpe amiolata"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "asalaki libanga"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T23:15:50.875731998Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 39:15",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 39,
+  "translation": "Mpe basalaki na Hoshen bashene ya kolukana, mosala ya kanda, ya zahabu ya malamu.",
+  "tokens": [
+    {
+      "surface": "ועשו ויעשו",
+      "gloss": "mpe basalaki"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "Hoshen"
+    },
+    {
+      "surface": "שרשרת",
+      "gloss": "bashene"
+    },
+    {
+      "surface": "גבלת",
+      "gloss": "ya kolukana"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "mosala"
+    },
+    {
+      "surface": "עבת",
+      "gloss": "ya kanda"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zahabu"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ya malamu"
+    }
+  ],
+  "timestamp": "2026-09-03T16:37:44.766426290Z",
+  "model": "glm-5.3"
+}

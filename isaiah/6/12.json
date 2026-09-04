@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 6:12",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "mpe Yawe akangola ⟨את⟩ bato mosika, mpe esika-oyo-etikami ekozala mingi na kati ya mabele.",
+  "tokens": [
+    {
+      "surface": "ורחק",
+      "gloss": "akangola mosika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bato"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "ekozala mingi"
+    },
+    {
+      "surface": "העזובה",
+      "gloss": "esika-oyo-etikami"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "na kati"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ya mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T19:15:14.771144618Z",
+  "model": "glm-5.3"
+}

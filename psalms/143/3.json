@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 143:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 143,
+  "translation": "Mpo ete monguna alukaki molimo na ngai, apekisaki bomoi na ngai na mabele, afandisaki ngai na molili, lokola bakufi ya kala.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo ete"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "alukaki"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "monguna"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "molimo na ngai"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "apekisaki"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "חיתי",
+      "gloss": "bomoi na ngai"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "afandisaki ngai"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "na molili"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "lokola bakufi"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ya kala"
+    }
+  ],
+  "timestamp": "2026-09-03T21:35:22.737713446Z",
+  "model": "glm-5.3"
+}

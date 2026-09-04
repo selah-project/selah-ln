@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 42:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 42,
+  "translation": "Elohim na ngai, molimo na ngai ezali kokitisama na ngai; mpo na yango nakanisi yo, uta mabele ya Yarden mpe Hermonim, uta ngomba ya Mitsar.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim na ngai"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "molimo na ngai"
+    },
+    {
+      "surface": "תשתוחח",
+      "gloss": "ezali kokitisama"
+    },
+    {
+      "surface": "על",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "אזכרך",
+      "gloss": "nakanisi yo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "uta mabele"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "ya Yarden"
+    },
+    {
+      "surface": "וחרמונים",
+      "gloss": "mpe Hermonim"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "uta ngomba"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "ya Mitsar"
+    }
+  ],
+  "timestamp": "2026-09-03T21:11:00.807000771Z",
+  "model": "glm-5.3"
+}

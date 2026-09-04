@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 39:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 39,
+  "translation": "Kanga ngai utoki na mabe na ngai nyonso; seke ya njawele tyama ngai te.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "utoki na"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "mabe na ngai nyonso"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "kanga ngai"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "seke"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "ya njawele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "tyama ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:09:52.174417570Z",
+  "model": "glm-5.3"
+}

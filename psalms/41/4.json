@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 41:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 41,
+  "translation": "Yawe akosungaka ye na kitanda ya mpasi; kitanda na ye nyonso obongwaki na bokono na ye.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "יסעדנו",
+      "gloss": "akosungaka ye"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "kitanda"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "ya mpasi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "kitanda na ye"
+    },
+    {
+      "surface": "הפכת",
+      "gloss": "obongwaki"
+    },
+    {
+      "surface": "בחליו",
+      "gloss": "na bokono na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:10:15.078919915Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 116:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 116,
+  "translation": "Mpo aboundelaki likutu na yango epai na ngai, mpe na mikuwi na ngai nakobenga.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "abendelaki"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "likutu na yango"
+    },
+    {
+      "surface": "לי",
+      "gloss": "epai na ngai"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "mpe na mikuwi na ngai"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "nakobenga"
+    }
+  ],
+  "timestamp": "2026-09-03T21:30:35.970540397Z",
+  "model": "glm-5.3"
+}

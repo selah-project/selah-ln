@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 48:11",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 48,
+  "translation": "Mpo na ngai, mpo na ngai nakosala ⟨yango⟩; mpo nkombo na ngai ekobebisama ndenge nini? Mpe nkembo na ngai nakopesa na mosusu te.",
+  "tokens": [
+    {
+      "surface": "למעני",
+      "gloss": "Mpo na ngai"
+    },
+    {
+      "surface": "למעני",
+      "gloss": "mpo na ngai"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "nakosala"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "איך",
+      "gloss": "ndenge nini"
+    },
+    {
+      "surface": "יחל",
+      "gloss": "ekobebisama"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "mpe nkembo na ngai"
+    },
+    {
+      "surface": "לאחר",
+      "gloss": "na mosusu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "nakopesa"
+    }
+  ],
+  "timestamp": "2026-09-03T19:32:12.790610842Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 24:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "Ya David, mizmor. Ya Yawe nde mabele mpe mobimba na yango, mokili mpe bafandi na yango.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ya David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ya Yawe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "ומלואה",
+      "gloss": "mpe mobimba na yango"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "mokili"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "mpe bafandi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:06:25.506070101Z",
+  "model": "glm-5.3"
+}

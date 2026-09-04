@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 69:22",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 69,
+  "translation": "Mpe bapesaki na kolia na ngai moi, mpe na nzala ya mai bamelaki ngai komese.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "mpe bapesaki"
+    },
+    {
+      "surface": "בברותי",
+      "gloss": "na kolia na ngai"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "moi"
+    },
+    {
+      "surface": "ולצמאי",
+      "gloss": "mpe na nzala ya mai"
+    },
+    {
+      "surface": "ישקוני",
+      "gloss": "bamelaki ngai"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "komese"
+    }
+  ],
+  "timestamp": "2026-09-03T21:16:28.130344056Z",
+  "model": "glm-5.3"
+}

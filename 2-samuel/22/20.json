@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 22:20",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Mpe abimaki ngai na bolai, ⟨את⟩ ngai alobisaki; mpo alingaki ngai.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "mpe abimaki ngai"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "na bolai"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ngai"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "alobisaki ngai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "alingaki"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T18:40:33.546416075Z",
+  "model": "glm-5.3"
+}

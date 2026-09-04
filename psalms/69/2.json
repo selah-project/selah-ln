@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 69,
+  "translation": "Elohim, bokisa ngai, mpo mai ekotaki kino na molimo.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "bokisa ngai"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ekotaki"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mai"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino na"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "molimo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:17:13.858797033Z",
+  "model": "glm-5.3"
+}

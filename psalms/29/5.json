@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 29:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 29,
+  "translation": "Mongongo ya Yawe ebukaka banketi; mpe Yawe abukaki ⟨את⟩ banketi ya Levanon.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "mongongo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ebukaka"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "banketi"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "mpe abukaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "banketi ya Levanon"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "banketi"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "ya Levanon"
+    }
+  ],
+  "timestamp": "2026-09-03T21:06:12.392489325Z",
+  "model": "glm-5.3"
+}

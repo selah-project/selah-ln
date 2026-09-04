@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 19:32",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Mpe Barzilai, moto ya Gileadi, aki uta Rogelim, mpe amemaki ⟨את⟩ mokonzi akatisa Yarden, mpo na kotinda ye ⟨את⟩ na Yarden.",
+  "tokens": [
+    {
+      "surface": "ויװזלי",
+      "gloss": "Mpe Barzilai"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "moto ya Gileadi"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "aki uta"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "Rogelim"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "mpe amemaki akatisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mokonzi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "לשלחו",
+      "gloss": "mpo na kotinda ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "na Yarden"
+    }
+  ],
+  "timestamp": "2026-09-03T23:23:13.688174928Z",
+  "model": "glm-5.3"
+}

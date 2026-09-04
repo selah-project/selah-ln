@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 1:10",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Kasi ⟨את⟩ Natan navi, mpe Benayahu, mpe ⟨את⟩ bato ya nguya, mpe ⟨את⟩ Shelomo ndeko na ye, abengaki te.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Natan navi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "navi"
+    },
+    {
+      "surface": "ובניהו",
+      "gloss": "mpe Benayahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bato ya nguya"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "bato ya nguya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Shelomo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ndeko na ye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "abengaki"
+    }
+  ],
+  "timestamp": "2026-09-03T18:42:17.993109503Z",
+  "model": "glm-5.3"
+}

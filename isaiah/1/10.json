@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 1:10",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Boyoke liloba ya Yawe, bakambi ba Sedoma; botela makutu Tora ya Elohim na biso, bato ba Amora.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Boyoke"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "liloba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yawe"
+    },
+    {
+      "surface": "קציני",
+      "gloss": "bakambi ba"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedoma"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "botela makutu"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ya Elohim na biso"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bato ba"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amora"
+    }
+  ],
+  "timestamp": "2026-09-03T19:12:22.208865334Z",
+  "model": "glm-5.3"
+}

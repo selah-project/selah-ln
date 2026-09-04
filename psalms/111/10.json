@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 111:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 111,
+  "translation": "Ebandeli ya bwanya ezali bobangi ya Yawe; mayele malamu ezali na bato nyonso baye basalaka yango; lokumu na ye etikalaka libela.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "ebandeli"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ya bwanya"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "bobangi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "mayele"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "malamu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "na bato nyonso"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "baye basalaka yango"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "lokumu na ye"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "etikalaka"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "libela"
+    }
+  ],
+  "timestamp": "2026-09-03T21:28:41.487037374Z",
+  "model": "glm-5.3"
+}

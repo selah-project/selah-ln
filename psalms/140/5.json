@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 140:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 140,
+  "translation": "Lokisa ngai, Yawe, na maboko ya mokosi; batelá ngai na moto ya bibembe, oyo bamingingaki kokangola matambu na ngai.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "Lokisa ngai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "na maboko ya"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mokosi"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "na moto ya"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "bibembe"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "batelá ngai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "bamingingaki"
+    },
+    {
+      "surface": "לדחות",
+      "gloss": "kokangola"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "matambu na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:35:14.441029937Z",
+  "model": "glm-5.3"
+}

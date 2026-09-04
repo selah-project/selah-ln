@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 11:10",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpe kohen apesaki epai ya bakonzi ya nkama ⟨את⟩ nsolo mpe ⟨את⟩ bibombi oyo ezalaki ya mokonzi David, oyo ezalaki na ndako ya Yawe.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "mpe apesaki"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "לשרי",
+      "gloss": "epai ya bakonzi"
+    },
+    {
+      "surface": "המאיות",
+      "gloss": "ya nkama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nsolo"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "nsolo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bibombi"
+    },
+    {
+      "surface": "השלטים",
+      "gloss": "bibombi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ya mokonzi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "na ndako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T19:05:30.082297466Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 112:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 112,
+  "translation": "Moto makasi akokanzama na mabele libota na ye; molongo ya bato ya nembele ebozui.",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "Moto makasi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "akokanzama"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "libota na ye"
+    },
+    {
+      "surface": "דור",
+      "gloss": "molongo"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "ya bato ya nembele"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ebozui"
+    }
+  ],
+  "timestamp": "2026-09-03T21:29:03.166074970Z",
+  "model": "glm-5.3"
+}

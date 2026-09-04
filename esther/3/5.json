@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 3:5",
+  "book": "esther",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe Haman amonaki ete Mordecai akokanaki te mpe asambelaki te epai ya ye, mpe Haman akotaki na likebi monene.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "amonaki"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "אין",
+      "gloss": "te"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordecai"
+    },
+    {
+      "surface": "כרע",
+      "gloss": "akokanaki"
+    },
+    {
+      "surface": "ומשתחוה",
+      "gloss": "mpe asambelaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "epai ya ye"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "akotaki"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "likebi"
+    }
+  ],
+  "timestamp": "2026-09-03T22:18:38.560554420Z",
+  "model": "glm-5.3"
+}

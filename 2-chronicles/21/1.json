@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 21:1",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Yehoshafat alalaki elongo na baboti na ye, mpe bakundaki ye elongo na baboti na ye na mboka ya David, mpe mwana na ye Yehoram akotaki bokonzi na esika na ye.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "alalaki"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "עם",
+      "gloss": "elongo na"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "baboti na ye"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "bakundaki ye"
+    },
+    {
+      "surface": "עם",
+      "gloss": "elongo na"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "baboti na ye"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "na mboka"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "akotaki bokonzi"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehoram"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana na ye"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "na esika na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T23:02:38.204909876Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 17:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 17,
+  "translation": "Batela makanzo na ngai na banzela na yo, makau na ngai esukisuka ⟨te⟩.",
+  "tokens": [
+    {
+      "surface": "תמך",
+      "gloss": "Batela"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "makanzo na ngai"
+    },
+    {
+      "surface": "במעגלותיך",
+      "gloss": "na banzela na yo"
+    },
+    {
+      "surface": "בל",
+      "gloss": "te"
+    },
+    {
+      "surface": "נמוטו",
+      "gloss": "esukisuka"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "makau na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:02:30.911504731Z",
+  "model": "glm-5.3"
+}

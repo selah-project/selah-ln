@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 18:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Bakangi ya Sheol bazalaki zingazinga na ngai; bilanga ya liwa bimonanaki liboso na ngai.",
+  "tokens": [
+    {
+      "surface": "חבלי",
+      "gloss": "bakangi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "bazalaki zingazinga na ngai"
+    },
+    {
+      "surface": "קדמוני",
+      "gloss": "bimonanaki liboso na ngai"
+    },
+    {
+      "surface": "מוקשי",
+      "gloss": "bilanga"
+    },
+    {
+      "surface": "מות",
+      "gloss": "liwa"
+    }
+  ],
+  "timestamp": "2026-09-03T21:04:13.882913423Z",
+  "model": "glm-5.3"
+}

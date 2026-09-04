@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 17:4",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 17,
+  "translation": "Mpe Moshe adengaki epai ya Yawe koloba: Nini nasala mpo na bato oyo? Sika moke mpe batutula ngai na mabanga.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "adengaki"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "koloba"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Nini"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "nasala"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "mpo na bato"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "Sika"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "moke"
+    },
+    {
+      "surface": "וסקלני",
+      "gloss": "mpe batutula ngai na mabanga"
+    }
+  ],
+  "timestamp": "2026-09-03T16:24:18.009975917Z",
+  "model": "glm-5.3"
+}

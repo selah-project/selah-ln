@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 25:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Elohim na ngai, na yo natemaki motema; teteka nasala mawa; teteka banguna na ngai basankisa.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim na ngai"
+    },
+    {
+      "surface": "בך",
+      "gloss": "na yo"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "natemaki motema"
+    },
+    {
+      "surface": "אל",
+      "gloss": "teteka"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "nasala mawa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "teteka"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "basankisa"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "banguna na ngai"
+    },
+    {
+      "surface": "לי",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-03T21:05:59.851050371Z",
+  "model": "glm-5.3"
+}

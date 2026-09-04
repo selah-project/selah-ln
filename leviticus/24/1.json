@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 24:1",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "Mpe Yawe alobaki na Moshe, aloba ete:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "aloba ete"
+    }
+  ],
+  "timestamp": "2026-09-03T16:55:03.794116839Z",
+  "model": "glm-5.3"
+}

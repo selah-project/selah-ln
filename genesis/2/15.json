@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 2:15",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe Yawe Elohim amaki ⟨את⟩ moto, mpe atyiaki ye na lika ya Eden, mpo na kosala yango mpe kobatela yango.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "amaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moto"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "moto"
+    },
+    {
+      "surface": "וינחהו",
+      "gloss": "mpe atyiaki ye"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "na lika ya"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "לעבדה",
+      "gloss": "mpo na kosala yango"
+    },
+    {
+      "surface": "ולשמרה",
+      "gloss": "mpe kobatela yango"
+    }
+  ],
+  "timestamp": "2026-09-03T23:11:59.430715800Z",
+  "model": "glm-5.3"
+}

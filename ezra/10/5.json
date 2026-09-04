@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 10:5",
+  "book": "ezra",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Mpe Ezra atelemaki, mpe amekisaki ⟨את⟩ bakambi ya bakohanim, baLevi, mpe Israel nyonso ete basalaka lokola liloba oyo; mpe bamekaki.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "atelemaki"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezra"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "mpe amekisaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bakambi"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "bakambi"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ya bakohanim"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "baLevi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe nyonso"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ete basalaka"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "lokola liloba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "mpe bamekaki"
+    }
+  ],
+  "timestamp": "2026-09-03T22:32:28.261598198Z",
+  "model": "glm-5.3"
+}

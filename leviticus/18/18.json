@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 18:18",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Mpe mwasi na ndeko na ye mwasi okozwa te, mpo na kobunda na ye, mpo na kolakisa boboya na ye likolo na ye, na bomoi na ye.",
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "mpe mwasi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "ndeko na ye mwasi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "okozwa"
+    },
+    {
+      "surface": "לצרר",
+      "gloss": "mpo na kobunda na ye"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "mpo na kolakisa"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "boboya na ye"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "likolo na ye"
+    },
+    {
+      "surface": "בחייה",
+      "gloss": "na bomoi na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T23:15:24.212065987Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 107:32",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 107,
+  "translation": "Mpe bokolaka ye na lisanga ya bato, mpe na esika ya bokolongo bakumisaka ye.",
+  "tokens": [
+    {
+      "surface": "וירממוהו",
+      "gloss": "Mpe bokolaka ye"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "na lisanga ya"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "mpe na esika ya"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "bokolongo"
+    },
+    {
+      "surface": "יהללוהו",
+      "gloss": "bakumisaka ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:28:32.625477548Z",
+  "model": "glm-5.3"
+}

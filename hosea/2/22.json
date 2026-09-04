@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "hosea 2:22",
+  "book": "hosea",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe nakolaka yo na ngai na bondimi; mpe okoyeba ⟨את⟩ Yawe.",
+  "tokens": [
+    {
+      "surface": "וארשתיך",
+      "gloss": "mpe nakolaka yo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "na bondimi"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "mpe okoyeba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T20:37:27.170030123Z",
+  "model": "glm-5.3"
+}

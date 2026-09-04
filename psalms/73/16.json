@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 73:16",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 73,
+  "translation": "Mpe namateyaki kokoyeba oyo — mosala moku yango ezali na miso na ngai.",
+  "tokens": [
+    {
+      "surface": "ואחשבה",
+      "gloss": "namateyaki"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "kokoyeba"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "mosala moku"
+    },
+    {
+      "surface": "היא",
+      "gloss": "yango ezali"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "na miso na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:18:25.362746822Z",
+  "model": "glm-5.3"
+}

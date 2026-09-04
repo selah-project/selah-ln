@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 39:16",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 39,
+  "translation": "Mpe basalaki bikangisi mibale ya zahabu, mpe bapete mibale ya zahabu, mpe batyaki ⟨את⟩ bapete mibale na nsuka mibale ya Hoshen.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "mpe basalaki"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "משבצת",
+      "gloss": "bikangisi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zahabu"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "mpe mibale"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "bapete"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zahabu"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "mpe batyaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bapete mibale"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "bapete"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "nsuka"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "ya Hoshen"
+    }
+  ],
+  "timestamp": "2026-09-03T16:37:44.766554878Z",
+  "model": "glm-5.3"
+}

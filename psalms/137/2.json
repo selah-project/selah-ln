@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 137:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 137,
+  "translation": "Na banzete, na kati na yango, totelemisaki bisaleli na biso ya miziki.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ערבים",
+      "gloss": "banzete"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "na kati na yango"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "totelemisaki"
+    },
+    {
+      "surface": "כנרותינו",
+      "gloss": "bisaleli na biso ya miziki"
+    }
+  ],
+  "timestamp": "2026-09-03T21:34:50.898136667Z",
+  "model": "glm-5.3"
+}

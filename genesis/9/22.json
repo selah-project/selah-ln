@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 9:22",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Mpe Ham, tata wa Kenaan, amonaki ⟨את⟩ yokolata ya tata na yango, mpe atangolaki bana ndeko na yango mibale libanda.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "mpe amonaki"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Ham"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tata wa"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yokolata ya tata na yango"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "yokolata"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "tata na yango"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "mpe atangolaki"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "bana ndeko na yango"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "libanda"
+    }
+  ],
+  "timestamp": "2026-09-03T15:47:05.744392297Z",
+  "model": "glm-5.3"
+}

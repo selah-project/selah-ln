@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 69:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 69,
+  "translation": "Mpo na mokambi, likolo ya Shoshanim, ya David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Mpo na mokambi"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "שושנים",
+      "gloss": "Shoshanim"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya David"
+    }
+  ],
+  "timestamp": "2026-09-03T21:17:13.858598459Z",
+  "model": "glm-5.3"
+}

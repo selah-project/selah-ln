@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 10:6",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Mpe Shaul akufaki, mpe bana na ye batatu, mpe ndako na ye banso — elongo bakufaki.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "mpe akufaki"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "mpe batatu"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bana na ye"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe banso"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ndako na ye"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "elongo"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "bakufaki"
+    }
+  ],
+  "timestamp": "2026-09-03T22:45:13.040313063Z",
+  "model": "glm-5.3"
+}

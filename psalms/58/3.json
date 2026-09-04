@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 58:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 58,
+  "translation": "Ata na motema bosali mabe; na mabele bangola ya maboko na bino bomekaka.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "ata"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "na motema"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "תפעלון",
+      "gloss": "bosali"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "bangola"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "maboko na bino"
+    },
+    {
+      "surface": "תפלסון",
+      "gloss": "bomekaka"
+    }
+  ],
+  "timestamp": "2026-09-03T21:14:28.886031821Z",
+  "model": "glm-5.3"
+}

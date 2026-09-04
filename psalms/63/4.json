@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 63:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 63,
+  "translation": "Ete hesed na yo ezali malamu koleka bomoi, milomo na ngai bikumisa yo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ete"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ezali malamu"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed na yo"
+    },
+    {
+      "surface": "מחיים",
+      "gloss": "koleka bomoi"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "milomo na ngai"
+    },
+    {
+      "surface": "ישבחונך",
+      "gloss": "bikumisa yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:16:20.080552524Z",
+  "model": "glm-5.3"
+}

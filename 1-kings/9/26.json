@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 9:26",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Mpe mokonzi Shelomo asalaki masuwa na Etsion-Geber, oyo ezali na ⟨את⟩ Elot, na libongo ya mbu ya Suf, na mabele ya Edom.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "mpe masuwa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "asalaki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "בעציון",
+      "gloss": "na Etsion-"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "Geber"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "na ⟨את⟩",
+      "marks": "Elot"
+    },
+    {
+      "surface": "אלות",
+      "gloss": "Elot"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "libongo"
+    },
+    {
+      "surface": "ים",
+      "gloss": "mbu"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suf"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-09-03T18:49:54.039060369Z",
+  "model": "glm-5.3"
+}

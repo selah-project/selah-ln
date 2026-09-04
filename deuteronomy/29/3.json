@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 29:3",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 29,
+  "translation": "mpe Yawe apesaki na bino te motema ya koyeba, mpe miso ya komona, mpe matoyi ya koyoka, kino mokolo oyo.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "apesaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "na bino"
+    },
+    {
+      "surface": "לב",
+      "gloss": "motema"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ya koyeba"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "mpe miso"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ya komona"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "mpe matoyi"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "ya koyoka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "היום",
+      "gloss": "mokolo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    }
+  ],
+  "timestamp": "2026-09-03T17:39:22.756445104Z",
+  "model": "glm-5.3"
+}

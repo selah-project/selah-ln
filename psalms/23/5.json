@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 23:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Otyaka mesa liboso ya ngai, liboso ya banguna na ngai; ondisi mutwe na ngai na mafuta; kikapo na ngai ⟨ezali⟩ avoka.",
+  "tokens": [
+    {
+      "surface": "תערך",
+      "gloss": "Otyaka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "mesa"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "banguna na ngai"
+    },
+    {
+      "surface": "דשנת",
+      "gloss": "ondisi"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "na mafuta"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mutwe na ngai"
+    },
+    {
+      "surface": "כוסי",
+      "gloss": "kikapo na ngai"
+    },
+    {
+      "surface": "רויה",
+      "gloss": "avoka"
+    }
+  ],
+  "timestamp": "2026-09-03T21:05:27.473258543Z",
+  "model": "glm-5.3"
+}

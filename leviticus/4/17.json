@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 4:17",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe kohen akotela molongo na yango na makila, mpe akobotola mbala sambo liboso ya Yawe, ⟨את⟩ elongi ya paroket.",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "mpe akotela"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "molongo na yango"
+    },
+    {
+      "surface": "מן",
+      "gloss": "na"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "makila"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "mpe akobotola"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sambo"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "mbala"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elongi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "elongi ya"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "paroket"
+    }
+  ],
+  "timestamp": "2026-09-03T16:41:55.467682519Z",
+  "model": "glm-5.3"
+}

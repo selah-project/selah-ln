@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 89:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 89,
+  "translation": "Hesed ya Yawe libela nakoyemba; na libota mpe na libota nakoMonisa bondimi na yo na monoko na ngai.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "libela"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "nakoyemba"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "na libota"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "mpe na libota"
+    },
+    {
+      "surface": "אודיע",
+      "gloss": "nakoMonisa"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "bondimi na yo"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "na monoko na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:22:59.931402135Z",
+  "model": "glm-5.3"
+}

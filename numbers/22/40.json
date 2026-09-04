@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 22:40",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Balak abotolaki ngombe mpe bampuya, mpe atindaki epai ya Bilam mpe epai ya bankulutu oyo bazalaki ⟨את⟩ ye.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "abotolaki"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ngombe"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "mpe bampuya"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "atindaki"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "epai ya Bilam"
+    },
+    {
+      "surface": "ולשרים",
+      "gloss": "mpe epai ya bankulutu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ye"
+    }
+  ],
+  "timestamp": "2026-09-03T17:15:05.138005923Z",
+  "model": "glm-5.3"
+}

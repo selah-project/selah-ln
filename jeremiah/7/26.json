@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 7:26",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Kasi bango bayokaki te epai na ngai, mpe bakombaki te ⟨את⟩ matoyi na bango; bakekisaki ⟨את⟩ kingo na bango mpe basalaki mabe koleka baboti na bango.",
+  "tokens": [
+    {
+      "surface": "ולוא",
+      "gloss": "kasi te"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "bayokaki"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "epai na ngai"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "bakombaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matoyi na bango"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "matoyi na bango"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "mpe bakekisaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kingo na bango"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "kingo na bango"
+    },
+    {
+      "surface": "הרעו",
+      "gloss": "basalaki mabe"
+    },
+    {
+      "surface": "מאבותם",
+      "gloss": "koleka baboti na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T19:45:38.525394914Z",
+  "model": "glm-5.3"
+}

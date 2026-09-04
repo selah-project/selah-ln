@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 95:11",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 95,
+  "translation": "Oyo naserelaki na likebi na ngai ete: bakokota ⟨te⟩ na kimwema na ngai.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "naserelaki"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "na likebi na ngai"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ete"
+    },
+    {
+      "surface": "יבאון",
+      "gloss": "bakokota"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "kimwema na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:23:51.019981630Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 50:14",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 50,
+  "translation": "Beka na Elohim matondo, mpe futa Elyon bandelo na yo.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "Beka"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "na Elohim"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "matondo"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "mpe futa"
+    },
+    {
+      "surface": "לעליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "נדריך",
+      "gloss": "bandelo na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:12:30.410674671Z",
+  "model": "glm-5.3"
+}

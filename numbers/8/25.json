@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 8:25",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe uta na mbula ntuku mitano, akozonga uta na mampinga ya bosomba, mpe akosalaka lisusu te.",
+  "tokens": [
+    {
+      "surface": "ומבן",
+      "gloss": "Mpe uta na mbula ya"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ntuku mitano"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mbula"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "akozonga"
+    },
+    {
+      "surface": "מצבא",
+      "gloss": "uta na mampinga"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "ya bosomba"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe ... te"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "akosalaka"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lisusu"
+    }
+  ],
+  "timestamp": "2026-09-03T17:03:44.145043533Z",
+  "model": "glm-5.3"
+}

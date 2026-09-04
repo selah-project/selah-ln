@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 104:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 104,
+  "translation": "Otyaki makonzi ya ndako-nzela na ye na mai, asalaki ba-nkole ⟨esika⟩ ya chariot na ye, azali kotambola likolo ya mapapu ya mpema.",
+  "tokens": [
+    {
+      "surface": "המקרה",
+      "gloss": "Otyaki makonzi"
+    },
+    {
+      "surface": "במים",
+      "gloss": "na mai"
+    },
+    {
+      "surface": "עליותיו",
+      "gloss": "ya ndako-nzela na ye"
+    },
+    {
+      "surface": "השם",
+      "gloss": "asalaki"
+    },
+    {
+      "surface": "עבים",
+      "gloss": "ba-nkole"
+    },
+    {
+      "surface": "רכובו",
+      "gloss": "ya chariot na ye"
+    },
+    {
+      "surface": "המהלך",
+      "gloss": "azali kotambola"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "mapapu"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mpema"
+    }
+  ],
+  "timestamp": "2026-09-03T21:26:50.360925971Z",
+  "model": "glm-5.3"
+}

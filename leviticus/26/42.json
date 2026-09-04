@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 26:42",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "Mpe nakokanisa ⟨את⟩ bosangani na ngai na Yaakov, mpe ⟨את⟩ bosangani na ngai na Yitshak, mpe ⟨את⟩ bosangani na ngai na Avraham nakoikanisa; mpe mabele nakoikanisa.",
+  "tokens": [
+    {
+      "surface": "וזכרתי",
+      "gloss": "mpe nakokanisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bosangani na ngai"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "bosangani na ngai"
+    },
+    {
+      "surface": "יעקוב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bosangani na ngai"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "bosangani na ngai"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bosangani na ngai"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "bosangani na ngai"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "nakoikanisa"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "mpe mabele"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "nakoikanisa"
+    }
+  ],
+  "timestamp": "2026-09-03T16:57:14.380374877Z",
+  "model": "glm-5.3"
+}

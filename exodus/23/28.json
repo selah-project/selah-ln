@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 23:28",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Mpe nakotinda ⟨את⟩ mokeke liboso ya yo, mpe ekomela ⟨את⟩ baHivi, ⟨את⟩ baKanana, mpe ⟨את⟩ baHiti liboso na yo.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "mpe nakotinda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mokeke"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "mokeke"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "liboso ya yo"
+    },
+    {
+      "surface": "וגרשה",
+      "gloss": "mpe ekomela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baHivi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "baHivi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baKanana"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "baKanana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "baHiti"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "baHiti"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "liboso na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T16:25:40.260206155Z",
+  "model": "glm-5.3"
+}

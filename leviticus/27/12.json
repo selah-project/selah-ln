@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 27:12",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 27,
+  "translation": "Mpe kohen atali motuya ⟨את⟩ yango, kati na malamu mpe kati na mabe; na motuya na yo, kohen, ndenge wana ekokanaka.",
+  "tokens": [
+    {
+      "surface": "והעריך",
+      "gloss": "Mpe atali motuya"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "yango (nyama)"
+    },
+    {
+      "surface": "בין",
+      "gloss": "kati na"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "malamu"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "mpe kati na"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "כערכך",
+      "gloss": "na motuya na yo"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ndenge wana"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ekokanaka"
+    }
+  ],
+  "timestamp": "2026-09-03T16:57:43.471040575Z",
+  "model": "glm-5.3"
+}

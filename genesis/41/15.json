@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 41:15",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 41,
+  "translation": "Parao alobaki na Yosef: Nalotaki ndoto, mpe molimboli wa yango azali te; mpe ngai nayoki likolo na yo balobi ete oyoka ndoto, olimbola yango.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "ndoto"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "nalotaki"
+    },
+    {
+      "surface": "ופתר",
+      "gloss": "mpe molimboli"
+    },
+    {
+      "surface": "אין",
+      "gloss": "azali te"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ndoto (yango)"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "mpe ngai"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "nayoki"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "likolo na yo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "balobi"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "oyoka"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "ndoto"
+    },
+    {
+      "surface": "לפתר",
+      "gloss": "mpo olimbola"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ndoto (yango)"
+    }
+  ],
+  "timestamp": "2026-09-03T23:13:06.459411395Z",
+  "model": "glm-5.3"
+}

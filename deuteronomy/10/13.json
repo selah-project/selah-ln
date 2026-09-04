@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 10:13",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Kobatela mibeko ya Yawe mpe ⟨את⟩ bileko na yango, oyo ngai nakangaki bino na yango lolo, mpo na bolamu na bino.",
+  "tokens": [
+    {
+      "surface": "לשמר",
+      "gloss": "Kobatela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mibeko"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "mibeko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bileko na yango"
+    },
+    {
+      "surface": "חקתיו",
+      "gloss": "bileko na yango"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "nakangaki bino"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lolo"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "mpo na bolamu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "na bino"
+    }
+  ],
+  "timestamp": "2026-09-03T17:27:02.409679221Z",
+  "model": "glm-5.3"
+}

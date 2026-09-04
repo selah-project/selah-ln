@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 34:1",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 34,
+  "translation": "Mwana wa mbula mwambe Yoshiyahu na bokonzi na ye, mpe akonza mbula ntuku misato na moko na Yerushalaim.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "mwambe"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mbula"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoshiyahu"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "na bokonzi na ye"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "mpe ntuku misato"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "na moko"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mbula"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "akonza"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "na Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-09-03T23:10:59.905623798Z",
+  "model": "glm-5.3"
+}

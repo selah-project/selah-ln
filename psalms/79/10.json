@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 79:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 79,
+  "translation": "Mpo na nini bikeko? — bikeko te, bikolo bilobaka: Ezali wapi Elohim na bango? Bolongo ya makila ya basalami na yo oyo ekundolami, boyebani kati na bikolo, na miso na biso.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "mpo na nini"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "bilobaka"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bikolo"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ezali wapi"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim na bango"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "boyebani"
+    },
+    {
+      "surface": "בגיים",
+      "gloss": "kati na bikolo"
+    },
+    {
+      "surface": "לעינינו",
+      "gloss": "na miso na biso"
+    },
+    {
+      "surface": "נקמת",
+      "gloss": "bolongo"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ya makila"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "ya basalami na yo"
+    },
+    {
+      "surface": "השפוך",
+      "gloss": "oyo ekundolami"
+    }
+  ],
+  "timestamp": "2026-09-03T21:20:53.741461228Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 40:6",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 40,
+  "translation": "Mpe Yosef akotaki epai na bango na tongo, amonaki ⟨את⟩ bango, mpe talá, bango bazali na mawa.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "akotaki"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "epai na bango"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "na tongo"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "amonaki"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bango"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "mpe talá"
+    },
+    {
+      "surface": "זעפים",
+      "gloss": "bazali na mawa"
+    }
+  ],
+  "timestamp": "2026-09-03T16:05:54.160992238Z",
+  "model": "glm-5.3"
+}

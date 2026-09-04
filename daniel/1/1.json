@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 1:1",
+  "book": "daniel",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Na mbula ya misato ya bokonzi ya Yehoyakim, mokonzi ya Yehuda, Nebukadnetsar, mokonzi ya Bavel, ayaki na Yerushalaim mpe akangaki yango.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "na mbula"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "misato"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "ya bokonzi"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Yehoyakim"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ayaki"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Nebukadnetsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "na Yerushalaim"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "mpe akangaki"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "yango"
+    }
+  ],
+  "timestamp": "2026-09-03T22:21:02.335213224Z",
+  "model": "glm-5.3"
+}

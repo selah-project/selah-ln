@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 35:12",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 35,
+  "translation": "Mpe ⟨את⟩ mabele oyo napesaki na Avraham mpe na Yitshak, na yo nakopesa yango, mpe na libota na yo sima na yo nakopesa ⟨את⟩ mabele.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mabele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "napesaki"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "na Avraham"
+    },
+    {
+      "surface": "וליצחק",
+      "gloss": "mpe na Yitshak"
+    },
+    {
+      "surface": "לך",
+      "gloss": "na yo"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "nakopesa yango"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "mpe na libota na yo"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "sima na yo"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "nakopesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T16:03:48.278371313Z",
+  "model": "glm-5.3"
+}

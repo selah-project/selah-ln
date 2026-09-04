@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 11:10",
+  "book": "ezekiel",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Na epée bokweyi; na ndelo ya Israel nasopesi ⟨את⟩ bino; mpe boyebaka ete ngai nazali Yawe.",
+  "tokens": [
+    {
+      "surface": "בחרב",
+      "gloss": "na epée"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "bokweyi"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ndelo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "nasopesi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ bino",
+      "marks": "bino"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "mpe boyebaka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T20:13:42.050939837Z",
+  "model": "glm-5.3"
+}

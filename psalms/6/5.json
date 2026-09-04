@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 6:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Zonga, Yawe, bolongola molimo na ngai; bokia ngai mpo na hesed na yo (ngolu na yo).",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Zonga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "חלצה",
+      "gloss": "bolongola"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "molimo na ngai"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "bokia ngai"
+    },
+    {
+      "surface": "למען",
+      "gloss": "mpo na"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T20:59:32.704737226Z",
+  "model": "glm-5.3"
+}

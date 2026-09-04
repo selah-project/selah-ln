@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 49:6",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 49,
+  "translation": "Mpe na nsima na yango nakozongisa ⟨את⟩ bokangami ya bana ba Amon, liloba ya Yawe.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "Mpe na nsima na"
+    },
+    {
+      "surface": "כן",
+      "gloss": "yango"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "nakozongisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bokangami"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "bokangami"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "liloba ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T20:06:10.729311366Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 36:5",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 36,
+  "translation": "Mpe Aholibama abotaki ⟨את⟩ Yeish mpe ⟨את⟩ Yalam mpe ⟨את⟩ Korah; bango bana ya Esav, oyo babotamaki epai na yango na mboka Kenaan.",
+  "tokens": [
+    {
+      "surface": "ואהליבמה",
+      "gloss": "mpe Aholibama"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "abotaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeish"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Yeish"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Yalam"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "Yalam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Korah"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korah"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bango"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ya Esav"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "babotamaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "epai na yango"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mboka"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-09-03T16:03:51.141093619Z",
+  "model": "glm-5.3"
+}

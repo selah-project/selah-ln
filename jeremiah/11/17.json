@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 11:17",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpe Yawe Tsebaot, oyo atiaki ⟨את⟩ yo, alobaki mabe likolo ya yo, mpo na mabe ya ndako ya Israel mpe ya ndako ya Yehuda, oyo basalaki yango na bango moko, mpo bazwa mungwa, kolaka nkasa epai ya Baal.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "mpe Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "הנוטע",
+      "gloss": "oyo atiaki"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ yo",
+      "marks": "yo (oyo atiaki)"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "likolo ya yo"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "בגלל",
+      "gloss": "mpo na"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "mabe ya"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "mpe ndako ya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "basalaki"
+    },
+    {
+      "surface": "להם",
+      "gloss": "na bango moko"
+    },
+    {
+      "surface": "להכעסני",
+      "gloss": "mpo bazwa mungwa"
+    },
+    {
+      "surface": "לקטר",
+      "gloss": "kolaka nkasa"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "epai ya Baal"
+    }
+  ],
+  "timestamp": "2026-09-03T19:46:43.422775210Z",
+  "model": "glm-5.3"
+}

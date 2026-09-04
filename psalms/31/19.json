@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 31:19",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 31,
+  "translation": "Bilonba ya lokuta ekanga mongongo, elobaka makasi likolo ya moto ya bosembo, na bomeseni mpe boboya.",
+  "tokens": [
+    {
+      "surface": "תאלמנה",
+      "gloss": "ekanga mongongo"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "bilonba"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ya lokuta"
+    },
+    {
+      "surface": "הדברות",
+      "gloss": "elobaka"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "moto ya bosembo"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "makasi"
+    },
+    {
+      "surface": "בגאוה",
+      "gloss": "na bomeseni"
+    },
+    {
+      "surface": "ובוז",
+      "gloss": "mpe boboya"
+    }
+  ],
+  "timestamp": "2026-09-03T21:06:33.968378013Z",
+  "model": "glm-5.3"
+}

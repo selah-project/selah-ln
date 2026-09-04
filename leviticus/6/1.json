@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 6:1",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpe Yawe alobaki na Moshe na koloba ete:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na koloba ete"
+    }
+  ],
+  "timestamp": "2026-09-03T16:42:43.171116043Z",
+  "model": "glm-5.3"
+}

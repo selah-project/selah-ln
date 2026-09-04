@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 7:1",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mpe esalemaki tango mokonzi afandaki na ndako na ye, mpe Yawe apesaki ye kimvwama na pembeni nyonso na banguna na ye nyonso.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mpe esalemaki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tango"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "afandaki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "na ndako na ye"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "mpe Yawe"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "apesaki kimvwama"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "na pembeni nyonso"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "na nyonso"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "banguna na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T23:21:01.405716808Z",
+  "model": "glm-5.3"
+}

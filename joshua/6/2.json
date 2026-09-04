@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 6:2",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpe Yawe alobaki epai ya Yehoshua: Tala, nakiti na maboko na yo ⟨את⟩ Yeriho mpe ⟨את⟩ mokonzi na yango, bakangi ya makasi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Tala"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "nakiti"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "na maboko na yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeriho"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Yeriho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mokonzi na yango"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "mokonzi na yango"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "bakangi"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "ya makasi"
+    }
+  ],
+  "timestamp": "2026-09-03T17:45:12.560371009Z",
+  "model": "glm-5.3"
+}

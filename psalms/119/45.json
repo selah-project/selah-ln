@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 119:45",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Nakokende na esika ya bolai, mpo namilukaki mikanda na yo.",
+  "tokens": [
+    {
+      "surface": "ואתהלכה",
+      "gloss": "Nakokende"
+    },
+    {
+      "surface": "ברחבה",
+      "gloss": "na esika ya bolai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "mikanda na yo"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "namilukaki"
+    }
+  ],
+  "timestamp": "2026-09-03T21:31:19.776689615Z",
+  "model": "glm-5.3"
+}

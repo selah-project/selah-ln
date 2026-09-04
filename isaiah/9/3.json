@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 9:3",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Mpo ⟨את⟩ ekangeli ya motindo na yango mpe ⟨את⟩ nzete ya singo na yango, nzete ya oyo azali kosunya yango, obebisaki ⟨yango⟩, lokola mokolo ya Midian.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ekangeli"
+    },
+    {
+      "surface": "על",
+      "gloss": "ekangeli"
+    },
+    {
+      "surface": "סבלו",
+      "gloss": "ya motindo na yango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "nzete"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "nzete"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "ya singo na yango"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "nzete"
+    },
+    {
+      "surface": "הנגש",
+      "gloss": "oyo azali kosunya"
+    },
+    {
+      "surface": "בו",
+      "gloss": "yango"
+    },
+    {
+      "surface": "החתת",
+      "gloss": "obebisaki"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "lokola mokolo"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "ya Midian"
+    }
+  ],
+  "timestamp": "2026-09-03T19:16:42.134692005Z",
+  "model": "glm-5.3"
+}

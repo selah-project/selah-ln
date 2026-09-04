@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 29:7",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 29,
+  "translation": "Mpe tozwaki ⟨את⟩ mabele na bango, mpe topesaki yango bosikinzi na ba-Ruvueni, mpe na ba-Gadi, mpe na ndambo ya libota ya Menashe.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "mpe tozwaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabele na bango"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "mabele na bango"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "mpe topesaki yango"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "bosikinzi"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "na ba-Ruvueni"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "mpe na ba-Gadi"
+    },
+    {
+      "surface": "ולחצי",
+      "gloss": "mpe na ndambo"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "libota"
+    },
+    {
+      "surface": "המנשי",
+      "gloss": "ya Menashe"
+    }
+  ],
+  "timestamp": "2026-09-03T17:38:11.055207232Z",
+  "model": "glm-5.3"
+}

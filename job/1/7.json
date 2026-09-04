@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 1:7",
+  "book": "job",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Yawe alobaki epai ya Shatan: Wapi nde oyaki? Mpe Shatan eyanolaki ⟨את⟩ Yawe mpe alobaki: Na kolukaluka na mabele, mpe na kotambolatambola na yango.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Shatan"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "Wapi nde"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "oyaki"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "eyanolaki"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Shatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "משוט",
+      "gloss": "Na kolukaluka"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "ומהתהלך",
+      "gloss": "mpe na kotambolatambola"
+    },
+    {
+      "surface": "בה",
+      "gloss": "na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:51:23.619276249Z",
+  "model": "glm-5.3"
+}

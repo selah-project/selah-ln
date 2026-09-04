@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 6:20",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpe liboso ya Debir: bolei zomi na zomi mokola, mpe bonene zomi na zomi mokola, mpe bolei na yango zomi na zomi mokola; mpe akangisaki yango na zauru ya sembo, mpe akangisaki mesa na arez.",
+  "tokens": [
+    {
+      "surface": "ולפני",
+      "gloss": "Mpe liboso ya"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "Debir"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "zomi na zomi"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "mokola"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "bolei"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "mpe zomi na zomi"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "mokola"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "bonene"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "mpe zomi na zomi"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "mokola"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "bolei na yango"
+    },
+    {
+      "surface": "ויצפהו",
+      "gloss": "mpe akangisaki yango na"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zauru"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "ya sembo"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "mpe akangisaki"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mesa"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "arez"
+    }
+  ],
+  "timestamp": "2026-09-04T00:20:03.425220131Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 5:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Okoibisa bokolaki lokuta; Yawe aboyaka moto ya makila mpe ya bokosi.",
+  "tokens": [
+    {
+      "surface": "תאבד",
+      "gloss": "Okoibisa"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "bokolaki"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "lokuta"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "ya makila"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "mpe ya bokosi"
+    },
+    {
+      "surface": "יתעב",
+      "gloss": "aboyaka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T20:59:53.001827458Z",
+  "model": "glm-5.3"
+}

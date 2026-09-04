@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 12:6",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Mpe ekozala na bino mpo na bobateli kino mikolo zomi na minei ya sanza oyo; mpe mboka mobimba ya lisanga ya Israel ikoboma ⟨את⟩ yango kati ya bampokwa.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "mpe ekozala"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "na bino"
+    },
+    {
+      "surface": "למשמרת",
+      "gloss": "mpo na bobateli"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "minei"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "zomi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mikolo"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ya sanza"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ושחטו",
+      "gloss": "mpe ikoboma"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yango",
+      "marks": "yango (se)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mobimba"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "ya mboka"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "ya lisanga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בין",
+      "gloss": "kati ya"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "bampokwa"
+    }
+  ],
+  "timestamp": "2026-09-03T16:19:28.865337055Z",
+  "model": "glm-5.3"
+}

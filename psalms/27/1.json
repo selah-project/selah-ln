@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 27:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 27,
+  "translation": "Na David. Yawe azali bongengi na ngai mpe libiki na ngai — nani nakobanga? Yawe azali nguya ya bomoi na ngai — nani nakotika bobangi?",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Na David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "azali bongengi na ngai"
+    },
+    {
+      "surface": "וישעי",
+      "gloss": "mpe libiki na ngai"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "nani"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "nakobanga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "azali nguya ya"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "bomoi na ngai"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "nani"
+    },
+    {
+      "surface": "אפחד",
+      "gloss": "nakotika bobangi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:07:26.727583833Z",
+  "model": "glm-5.3"
+}

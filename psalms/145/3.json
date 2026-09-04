@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 145:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 145,
+  "translation": "Yawe azali monene mpe alembi kotombolama mingi, mpe bonene na ye moto akoki kolukola yango te.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "azali monene"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "mpe alembi kotombolama"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mingi"
+    },
+    {
+      "surface": "ולגדלתו",
+      "gloss": "mpe bonene na ye"
+    },
+    {
+      "surface": "אין",
+      "gloss": "akoki ... te"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "kolukola"
+    }
+  ],
+  "timestamp": "2026-09-03T21:36:51.717758847Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 37:7",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 37,
+  "translation": "Mpe asalaki bakorube mibale ya wolo; mosala ya kotema na itundu asalaki ⟨את⟩ bango, uta na nsuka mibale ya kaporet.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "mpe asalaki"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "bakorube"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "wolo"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "mosala ya kotema na itundu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "asalaki"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bakorube"
+    },
+    {
+      "surface": "משני",
+      "gloss": "uta na nsuka mibale"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "nsuka"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "ya kaporet"
+    }
+  ],
+  "timestamp": "2026-09-03T16:36:21.934616289Z",
+  "model": "glm-5.3"
+}

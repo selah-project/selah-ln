@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-chronicles 34:32",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 34,
+  "translation": "Mpe atelemisaki ⟨את⟩ bato nyonso oyo eutaki na Yerushalaim mpe na Benyamin; mpe bafandi ya Yerushalaim basalaki lokola boyokani ya Elohim, Elohim ya batata na bango.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "mpe atelemisaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bato nyonso oyo eutaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "oyo eutaki"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "na Yerushalaim"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "mpe na Benyamin"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "mpe basalaki"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "bafandi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ya Yerushalaim"
+    },
+    {
+      "surface": "כברית",
+      "gloss": "lokola boyokani"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "batata na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T23:10:36.351270513Z",
+  "model": "glm-5.3"
+}

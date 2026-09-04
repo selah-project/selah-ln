@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 116:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 116,
+  "translation": "Bakangaki ngai banagere ya liwa, mpe milangi ya Sheol bakutanaki ngai; mokakatano mpe mawa nakutaki.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "Bakangaki ngai"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "banagere"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ya liwa"
+    },
+    {
+      "surface": "ומצרי",
+      "gloss": "mpe milangi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ya Sheol"
+    },
+    {
+      "surface": "מצאוני",
+      "gloss": "bakutanaki ngai"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "mokakatano"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "mpe mawa"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "nakutaki"
+    }
+  ],
+  "timestamp": "2026-09-03T21:30:35.970708379Z",
+  "model": "glm-5.3"
+}

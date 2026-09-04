@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 2:16",
+  "book": "judges",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe Yawe atombolaki basuzuzi, mpe basuzuzi babikisaki bango na maboko ya basosi na bango.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "mpe atombolaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "basuzuzi"
+    },
+    {
+      "surface": "ויושיעום",
+      "gloss": "mpe babikisaki bango"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "na maboko"
+    },
+    {
+      "surface": "שסיהם",
+      "gloss": "ya basosi na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T17:55:07.359641315Z",
+  "model": "glm-5.3"
+}

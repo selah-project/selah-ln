@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 30:30",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 30,
+  "translation": "mpe na bato oyo bazalaki na Horma, mpe na bato oyo bazalaki na Bor-Ashan, mpe na bato oyo bazalaki na Atak.",
+  "tokens": [
+    {
+      "surface": "ולאשר",
+      "gloss": "mpe na bato oyo bazalaki"
+    },
+    {
+      "surface": "בחרמה",
+      "gloss": "na Horma"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "mpe na bato oyo bazalaki"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "na Bor"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "Ashan"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "mpe na bato oyo bazalaki"
+    },
+    {
+      "surface": "בעתך",
+      "gloss": "na Atak"
+    }
+  ],
+  "timestamp": "2026-09-03T18:22:59.913191461Z",
+  "model": "glm-5.3"
+}

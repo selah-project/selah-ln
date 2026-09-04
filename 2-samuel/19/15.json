@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 19:15",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Mpe David abendaki ⟨את⟩ motema ya moto nyonso ya Yehuda lokola moto moko, mpe batindaki epai ya mokonzi ete: Zonga, yo mpe basaleli na yo nyonso.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "abendaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motema"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "motema"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ya moto"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ya Yehuda"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "lokola moto"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "moko"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "mpe batindaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "Zonga"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe nyonso"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "basaleli na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T18:38:35.830264643Z",
+  "model": "glm-5.3"
+}

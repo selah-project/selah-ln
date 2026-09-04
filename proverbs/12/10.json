@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 12:10",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Mobali sembo ayebi bomoi ya nyama na ye, mpe ngolu ya babe ezali nyongo.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "ayebi"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "mobali sembo"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "bomoi"
+    },
+    {
+      "surface": "בהמתו",
+      "gloss": "ya nyama na ye"
+    },
+    {
+      "surface": "ורחמי",
+      "gloss": "mpe ngolu ya"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "babe"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "nyongo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:40:59.979158124Z",
+  "model": "glm-5.3"
+}

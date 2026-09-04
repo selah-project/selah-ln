@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 12:4",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Mpe Avram akendaki, ndenge Yawe alobaki epai na ye; mpe Loth akendaki ⟨את⟩ elongo na ye; mpe Avram azalaki mwana ya mbula mitano mpe ntuku sambo ya mbula tango abimaki uta na Haran.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Mpe akendaki"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ndenge"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "epai na ye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "mpe akendaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "elongo na ye — Loth"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Loth"
+    },
+    {
+      "surface": "ואברם",
+      "gloss": "mpe Avram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "mitano"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ya mbula"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "mpe ntuku sambo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ya mbula"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "tango abimaki"
+    },
+    {
+      "surface": "מחרן",
+      "gloss": "uta na Haran"
+    }
+  ],
+  "timestamp": "2026-09-03T15:50:24.799363992Z",
+  "model": "glm-5.3"
+}

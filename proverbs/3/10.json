@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 3:10",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe bandako na yo bitswami na bokwe, mpe divin ya sika ebimaka na bakito na yo na makasi.",
+  "tokens": [
+    {
+      "surface": "וימלאו",
+      "gloss": "Mpe ... bitswami"
+    },
+    {
+      "surface": "אסמיך",
+      "gloss": "bandako na yo"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "na bokwe"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "mpe divin ya sika"
+    },
+    {
+      "surface": "יקביך",
+      "gloss": "na bakito na yo"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "ebimaka na makasi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:37:39.215490953Z",
+  "model": "glm-5.3"
+}

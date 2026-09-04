@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 48:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 48,
+  "translation": "Kitoko na ndenge ya likolo, esengo ya mabele mobimba, ngomba ya Tsion, maboko ya sepe, engumba ya mokonzi monene.",
+  "tokens": [
+    {
+      "surface": "יפה",
+      "gloss": "Kitoko"
+    },
+    {
+      "surface": "נוף",
+      "gloss": "na ndenge ya likolo"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "esengo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mobimba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ngomba"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsion"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "maboko ya"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "sepe"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "engumba"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "רב",
+      "gloss": "monene"
+    }
+  ],
+  "timestamp": "2026-09-03T21:12:28.488809524Z",
+  "model": "glm-5.3"
+}

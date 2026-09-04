@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 4:28",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe alobaki: Nasengaki ⟨את⟩ mwana epai ya Adonai? Boye te, nalobaki: Kokosa ⟨את⟩ ngai te?",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "השאלתי",
+      "gloss": "Nasengaki"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "mwana"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "Boye te"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nalobaki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תשלה",
+      "gloss": "Kokosa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T19:00:13.356261346Z",
+  "model": "glm-5.3"
+}

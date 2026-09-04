@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 45:14",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 45,
+  "translation": "Bokembo na yango mobimba ezali ⟨na⟩ mwana ya mokonzi kati; lipengwi na yango ezali na bisangisi ya wolo.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "mobimba"
+    },
+    {
+      "surface": "כבודה",
+      "gloss": "bokembo na yango"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ya mokonzi"
+    },
+    {
+      "surface": "פנימה",
+      "gloss": "kati"
+    },
+    {
+      "surface": "ממשבצות",
+      "gloss": "bisangisi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ya wolo"
+    },
+    {
+      "surface": "לבושה",
+      "gloss": "lipengwi na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:12:12.077383490Z",
+  "model": "glm-5.3"
+}

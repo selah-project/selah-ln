@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 3:5",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Na Gibeon Yawe amonanaki epai ya Shelomo na lipiro ya butu, mpe Elohim alobaki: Senga nini napesa yo.",
+  "tokens": [
+    {
+      "surface": "בגבעון",
+      "gloss": "Na Gibeon"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "amonanaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "בחלום",
+      "gloss": "na lipiro"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ya butu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "senga"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "napesa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yo"
+    }
+  ],
+  "timestamp": "2026-09-03T18:44:12.717620336Z",
+  "model": "glm-5.3"
+}

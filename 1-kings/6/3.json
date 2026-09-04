@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 6:3",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpe porche, liboso ya hekal ya ndako: bokuki na yango ama ntuku mibale, na bonene ya ndako; bonene na yango zomi na ama, liboso ya ndako.",
+  "tokens": [
+    {
+      "surface": "והאולם",
+      "gloss": "Mpe porche"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨na⟩"
+    },
+    {
+      "surface": "פני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "hekal"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ya ndako"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ntuku mibale"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "bokuki na yango"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨na⟩"
+    },
+    {
+      "surface": "פני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "bonene"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ya ndako"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "zomi"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "na ama"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "bonene na yango"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨na⟩"
+    },
+    {
+      "surface": "פני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ya ndako"
+    }
+  ],
+  "timestamp": "2026-09-03T18:45:54.377709189Z",
+  "model": "glm-5.3"
+}

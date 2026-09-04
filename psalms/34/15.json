@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 34:15",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 34,
+  "translation": "Kimatuka na mabe, mpe sala malamu, boluka kimia mpe bolanda yango.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "Kimatuka"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "na mabe"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "mpe sala"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "malamu"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "boluka"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kimia"
+    },
+    {
+      "surface": "ורדפהו",
+      "gloss": "mpe bolanda yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:08:08.226807184Z",
+  "model": "glm-5.3"
+}

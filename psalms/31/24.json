@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 31:24",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 31,
+  "translation": "Bolinga ⟨את⟩ Yawe, bato nyonso oyo bazali na meseni na Ye; Yawe atikelaka bato ya solo, mpe afutaka na likole oyo asali boneko.",
+  "tokens": [
+    {
+      "surface": "אהבו",
+      "gloss": "Bolinga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bato nyonso"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "oyo bazali na meseni na Ye"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "bato ya solo"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "atikelaka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "mpe afutaka"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "na likole"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "oyo asali"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "boneko"
+    }
+  ],
+  "timestamp": "2026-09-03T21:08:10.425387541Z",
+  "model": "glm-5.3"
+}

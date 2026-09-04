@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 72:12",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 72,
+  "translation": "Mpo akolongosa mpovu oyo azali kolila, mpe mokido, mpe oyo azangi mosalisi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "akolongosa"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "mpovu"
+    },
+    {
+      "surface": "משוע",
+      "gloss": "oyo azali kolila"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "mpe mokido"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mpe azangi"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "mosalisi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:16:59.501934619Z",
+  "model": "glm-5.3"
+}

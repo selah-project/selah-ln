@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 147:14",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 147,
+  "translation": "Oyo atyaka kimya na ndelo na yo; na mafuta ya ble akotondisa yo.",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "Oyo atyaka"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "ndelo na yo"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kimya"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "ya ble"
+    },
+    {
+      "surface": "ישביעך",
+      "gloss": "akotondisa yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:36:30.158539493Z",
+  "model": "glm-5.3"
+}

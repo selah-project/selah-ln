@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 58:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 58,
+  "translation": "Bayebi mabe bakangamaki na bapaya uta libumu, bamitungolaki uta tumbu, balobi lokuta.",
+  "tokens": [
+    {
+      "surface": "זרו",
+      "gloss": "bakangamaki na bapaya"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bayebi mabe"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "uta libumu"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "bamitungolaki"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "uta tumbu"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "balobi"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "lokuta"
+    }
+  ],
+  "timestamp": "2026-09-03T21:14:28.886146719Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 13:15",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Mpe Samuel atelemaki, mpe akendaki uta na Gilgal kokita na Givea ya Binyamin; mpe Shaul bakaki motango ya ⟨את⟩ bato oyo bazalaki na ye, bato soki nkama motoba.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Mpe Samuel atelemaki"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "mpe akendaki"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uta na"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgal"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "kokita na Givea"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "ya Binyamin"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "mpe bakaki motango ya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bato"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "oyo bazalaki"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "כשש",
+      "gloss": "soki"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "nkama motoba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bato"
+    }
+  ],
+  "timestamp": "2026-09-03T18:14:23.564903513Z",
+  "model": "glm-5.3"
+}

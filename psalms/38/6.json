@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 38:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 38,
+  "translation": "Bitumbu na ngai bitungisi, bibomaki mabe, mpo na libunga na ngai.",
+  "tokens": [
+    {
+      "surface": "הבאישו",
+      "gloss": "bitungisi"
+    },
+    {
+      "surface": "נמקו",
+      "gloss": "bibomaki mabe"
+    },
+    {
+      "surface": "חבורתי",
+      "gloss": "bitumbu na ngai"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "mpo na"
+    },
+    {
+      "surface": "אולתי",
+      "gloss": "libunga na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:09:51.671577878Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 19:33",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Mpe bakamelisaki ⟨את⟩ tata na bango vino na butu yango, mpe mwana mwasi ya liboso akotaki mpe alalaki ⟨את⟩ tata na ye, mpe ayebaki te na ntango oyo alalaki mpe na ntango oyo atombaki.",
+  "tokens": [
+    {
+      "surface": "ותשקין",
+      "gloss": "bakamelisaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tata na bango"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "tata na bango"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vino"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "na butu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yango"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "mpe akotaki"
+    },
+    {
+      "surface": "הבכירה",
+      "gloss": "mwana mwasi ya liboso"
+    },
+    {
+      "surface": "ותשכב",
+      "gloss": "mpe alalaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tata na ye"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "tata na ye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ayebaki"
+    },
+    {
+      "surface": "בשכבה",
+      "gloss": "na ntango oyo alalaki"
+    },
+    {
+      "surface": "ובקומה",
+      "gloss": "mpe na ntango oyo atombaki"
+    }
+  ],
+  "timestamp": "2026-09-03T15:53:50.778985836Z",
+  "model": "glm-5.3"
+}

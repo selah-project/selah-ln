@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 50:19",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 50,
+  "translation": "Monoko na yo otindaki na mabe, mpe nkontolo na yo ekangaka lokuta.",
+  "tokens": [
+    {
+      "surface": "פיך",
+      "gloss": "monoko na yo"
+    },
+    {
+      "surface": "שלחת",
+      "gloss": "otindaki"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "na mabe"
+    },
+    {
+      "surface": "ולשונך",
+      "gloss": "mpe nkontolo na yo"
+    },
+    {
+      "surface": "תצמיד",
+      "gloss": "ekangaka"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "lokuta"
+    }
+  ],
+  "timestamp": "2026-09-03T21:12:10.999826792Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 23:25",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Mpe bokobanda kosomba ⟨את⟩ Yawe Elohim na bino, mpe akopambola ⟨את⟩ boloko na yo mpe ⟨את⟩ mai na yo, mpe nakolongola bokono kati na yo.",
+  "tokens": [
+    {
+      "surface": "ועבדתם",
+      "gloss": "mpe bokobanda kosomba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim na bino"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "mpe akopambola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boloko na yo"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "boloko na yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mai na yo"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "mai na yo"
+    },
+    {
+      "surface": "והסרתי",
+      "gloss": "mpe nakolongola"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "bokono"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "kati na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T16:25:40.259605749Z",
+  "model": "glm-5.3"
+}

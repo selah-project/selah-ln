@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 70:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 70,
+  "translation": "Bakosepela mpe bakokanisa na yo, bato nyonso oyo balukaka yo, mpe baloba ntango nyonso: Elohim ⟨asalamaki⟩ monene, baye bazwaka bolingo na lobiko na yo.",
+  "tokens": [
+    {
+      "surface": "ישישו",
+      "gloss": "bakosepela"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "mpe bakokanisa"
+    },
+    {
+      "surface": "בך",
+      "gloss": "na yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "oyo balukaka yo"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "mpe baloba"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ntango nyonso"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "asalamaki monene"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "baye bazwaka bolingo"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "na lobiko na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:16:29.866758928Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 73:12",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 73,
+  "translation": "Talá, bango oyo nde babe; mpe baoyo bazali na bokengeli ntango nyonso bakomaki na nguya.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Talá"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bango oyo"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "babe"
+    },
+    {
+      "surface": "ושלוי",
+      "gloss": "mpe baoyo bazali na bokengeli"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ntango nyonso"
+    },
+    {
+      "surface": "השגו",
+      "gloss": "bakomaki"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "na nguya"
+    }
+  ],
+  "timestamp": "2026-09-03T21:18:27.872021845Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 65:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 65,
+  "translation": "Epai nayo kimoya ezali bokumisi, Elohim, na Tsion; mpe epai nayo ndingisa esilisamaka.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "epai nayo"
+    },
+    {
+      "surface": "דמיה",
+      "gloss": "kimoya"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "bokumisi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "na Tsion"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "mpe epai nayo"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "esilisamaka"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "ndingisa"
+    }
+  ],
+  "timestamp": "2026-09-03T21:16:02.395868677Z",
+  "model": "glm-5.3"
+}

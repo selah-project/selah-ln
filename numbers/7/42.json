@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 7:42",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Na mokolo ya motoba, nasia ya bana ya Gad, Elyasaf mwana ya Deuel.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Na mokolo"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "ya motoba"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "nasia"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ya bana"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "Elyasaf"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "Deuel"
+    }
+  ],
+  "timestamp": "2026-09-03T23:17:28.607307122Z",
+  "model": "glm-5.3"
+}

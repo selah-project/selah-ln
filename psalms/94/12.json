@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 94:12",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 94,
+  "translation": "Ezali bolamu mpo na moto oyo osalisaka ye, ee Ya, mpe uta na Tora na yo otangisaka ye.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "ezali bolamu"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "mpo na moto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "תיסרנו",
+      "gloss": "osalisaka ye"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    },
+    {
+      "surface": "ומתורתך",
+      "gloss": "mpe uta na Tora na yo"
+    },
+    {
+      "surface": "תלמדנו",
+      "gloss": "otangisaka ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:24:07.965559301Z",
+  "model": "glm-5.3"
+}

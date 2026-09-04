@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 4:4",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe okokota, mpe okangaki pongi na sima ya yo mpe na sima ya bana na yo, mpe okotombwisa na bilo nyonso oyo; mpe oyo ejungi, okotia pembeni.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "mpe okokota"
+    },
+    {
+      "surface": "וסגרת",
+      "gloss": "mpe okangaki"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "pongi"
+    },
+    {
+      "surface": "בעדך",
+      "gloss": "na sima ya yo"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "mpe na sima ya"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "bana na yo"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "mpe okotombwisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "bilo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "והמלא",
+      "gloss": "mpe oyo ejungi"
+    },
+    {
+      "surface": "תסיעי",
+      "gloss": "okotia pembeni"
+    }
+  ],
+  "timestamp": "2026-09-03T19:00:49.952534068Z",
+  "model": "glm-5.3"
+}

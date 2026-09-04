@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 21:15",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Mpe Akish alobaki epai ya basaleli na yɛ: Moná, bomoni moto oyo azali koluka; mpo na nini bozali komema ⟨את⟩ yě epai ya ngai?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akish"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "basaleli na yɛ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Moná"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "bomoni"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "משתגע",
+      "gloss": "oyo azali koluka"
+    },
+    {
+      "surface": "למה",
+      "gloss": "mpo na nini"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "bozali komema"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yě (epai ya ngai)"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "epai ya ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T18:20:43.461572612Z",
+  "model": "glm-5.3"
+}

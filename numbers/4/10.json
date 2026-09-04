@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 4:10",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Batyaki ⟨את⟩ yango mpe ⟨את⟩ biloko na yango nyonso na bokangi ya nlélé ya takash, mpe batyaki yango likolo ya molongo.",
+  "tokens": [
+    {
+      "surface": "וְנָתְנוּ",
+      "gloss": "Batyaki"
+    },
+    {
+      "surface": "אֹתָהּ",
+      "gloss": "⟨את⟩ yango",
+      "marks": "menora"
+    },
+    {
+      "surface": "וְאֵת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "biloko na yango nyonso"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "כֵּלֶיהָ",
+      "gloss": "biloko na yango"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מִכְסֶה",
+      "gloss": "bokangi"
+    },
+    {
+      "surface": "עוֹר",
+      "gloss": "ya nlélé"
+    },
+    {
+      "surface": "תָּחַשׁ",
+      "gloss": "ya takash"
+    },
+    {
+      "surface": "וְנָתְנוּ",
+      "gloss": "mpe batyaki"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "הַמּוֹט",
+      "gloss": "molongo"
+    }
+  ],
+  "timestamp": "2026-09-03T23:17:54.815405650Z",
+  "model": "glm-5.3"
+}

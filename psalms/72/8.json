@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 72:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 72,
+  "translation": "Mpe akonza uta mbu kino mbu, mpe uta ebale kino nsuka ya mabele.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "Mpe akonza"
+    },
+    {
+      "surface": "מים",
+      "gloss": "uta mbu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "ים",
+      "gloss": "mbu"
+    },
+    {
+      "surface": "ומנהר",
+      "gloss": "mpe uta ebale"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "nsuka ya"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T21:17:56.856979551Z",
+  "model": "glm-5.3"
+}

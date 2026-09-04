@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 97:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 97,
+  "translation": "Tsion ayoki mpe asepelaki, mpe bana basi ya Yehuda basepelaki mpo na mibeko na yo, Yawe.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "ayoki"
+    },
+    {
+      "surface": "ותשמח",
+      "gloss": "mpe asepelaki"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsion"
+    },
+    {
+      "surface": "ותגלנה",
+      "gloss": "mpe basepelaki"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "bana basi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ya Yehuda"
+    },
+    {
+      "surface": "למען",
+      "gloss": "mpo na"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "mibeko na yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T21:25:14.755435193Z",
+  "model": "glm-5.3"
+}

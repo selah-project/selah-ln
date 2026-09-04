@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 35:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 35,
+  "translation": "Mpe bimisa monganga, mpe tyala mongongo libanda ya balandi na ngai; loba na molimo na ngai: bomeli na yo ⟨ezali⟩ ngai.",
+  "tokens": [
+    {
+      "surface": "והרק",
+      "gloss": "mpe bimisa"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "monganga"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "mpe tyala mongongo"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "libanda ya"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "balandi na ngai"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "loba"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "na molimo na ngai"
+    },
+    {
+      "surface": "ישעתך",
+      "gloss": "bomeli na yo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:08:45.169317035Z",
+  "model": "glm-5.3"
+}

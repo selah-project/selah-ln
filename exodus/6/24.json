@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 6:24",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpe bana ya Korah: Asir, Elkana, mpe Aviasafa; bango nde libota ya Bakorah.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Mpe bana ya"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korah"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "Asir"
+    },
+    {
+      "surface": "ואלקנה",
+      "gloss": "mpe Elkana"
+    },
+    {
+      "surface": "ואביאסף",
+      "gloss": "mpe Aviasafa"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bango nde"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "libota ya"
+    },
+    {
+      "surface": "הקרחי",
+      "gloss": "Bakorah"
+    }
+  ],
+  "timestamp": "2026-09-03T16:14:32.318573001Z",
+  "model": "glm-5.3"
+}

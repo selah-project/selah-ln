@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 9:21",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Yawe, tyá bobangi likolo ⟨ya⟩ bango; bikolo bayeba ⟨ete⟩ bango bazali bato bawei kaka. Selah.",
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "tyá"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "bobangi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bango"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "bayeba"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bikolo"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "bato bawei"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bango"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-03T21:01:20.802295808Z",
+  "model": "glm-5.3"
+}

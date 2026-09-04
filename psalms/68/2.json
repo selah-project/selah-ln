@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 68:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 68,
+  "translation": "Elohim alongi, bangungi na ye ekabwanaka, mpe baye balingi mabe na ye bakokatela liboso na ye.",
+  "tokens": [
+    {
+      "surface": "יקום",
+      "gloss": "alongi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפוצו",
+      "gloss": "ekabwanaka"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "bangungi na ye"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "mpe bakokatela"
+    },
+    {
+      "surface": "משנאיו",
+      "gloss": "baye balingi mabe na ye"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "liboso na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:16:18.972523125Z",
+  "model": "glm-5.3"
+}

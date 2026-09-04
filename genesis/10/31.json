@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 10:31",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Bango nde bana ya Shem, na mabota na bango, na minolo na bango, na mabele na bango, na bikolo na bango.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Bango"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ya"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "na mabota na bango"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "na minolo na bango"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "na mabele na bango"
+    },
+    {
+      "surface": "לגויהם",
+      "gloss": "na bikolo na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T23:11:36.108162359Z",
+  "model": "glm-5.3"
+}

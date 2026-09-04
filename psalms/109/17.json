@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 109:17",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 109,
+  "translation": "Alingaki tokoma, mpe ⟨eyaki⟩ epai na ye; aandalaki te na toli, mpe esikanaki na ye.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "alingaki"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "tokoma"
+    },
+    {
+      "surface": "ותבואהו",
+      "gloss": "eyaki epai na ye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "te"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "aandalaki"
+    },
+    {
+      "surface": "בברכה",
+      "gloss": "na toli"
+    },
+    {
+      "surface": "ותרחק",
+      "gloss": "esikanaki"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T23:35:11.677522858Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 9:11",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Aram na liboso, mpe Baflisti na nsima; mpe baliaki ⟨את⟩ Israel na monoko mobimba. Na nyonso wana colere na ye ezongaki te, mpe loboko na ye etandami lisusu.",
+  "tokens": [
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "na liboso"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "mpe Baflisti"
+    },
+    {
+      "surface": "מאחור",
+      "gloss": "na nsima"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "mpe baliaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na monoko mobimba (na)"
+    },
+    {
+      "surface": "פה",
+      "gloss": "monoko"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na nyonso (na)"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "wana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ezongaki"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "colere na ye"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "mpe lisusu"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "loboko na ye"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "etandami"
+    }
+  ],
+  "timestamp": "2026-09-03T19:16:44.218152930Z",
+  "model": "glm-5.3"
+}

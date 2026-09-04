@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 26:31",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "Mpe osala Paraokete ya tekhelet, mpe ya argaman, mpe ya tolaat shani, mpe ya shesh mazuar; mosala ya mokomi-misala nde asala ⟨את⟩ yango na kerubim.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "mpe osala"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "Paraokete"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tekhelet"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "mpe argaman"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "mpe tolaat"
+    },
+    {
+      "surface": "שני",
+      "gloss": "shani"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "mpe shesh"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "mazuar"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "mosala"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "ya mokomi-misala"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "asala"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ yango",
+      "marks": "yango (Paraokete)"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "kerubim"
+    }
+  ],
+  "timestamp": "2026-09-03T16:28:39.444970593Z",
+  "model": "glm-5.3"
+}

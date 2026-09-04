@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 78:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 78,
+  "translation": "Tokobomba te na bana na bango; na libota ya nsuka tokolobaka bankembo ya Yawe, mpe nguya na ye, mpe makambo ya kokamwa na ye, oyo asali.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "Tokobomba"
+    },
+    {
+      "surface": "מבניהם",
+      "gloss": "na bana na bango"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "na libota"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "ya nsuka"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "tokolobaka"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "bankembo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ועזוזו",
+      "gloss": "mpe nguya na ye"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "mpe makambo ya kokamwa na ye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "asali"
+    }
+  ],
+  "timestamp": "2026-09-03T21:19:48.917817036Z",
+  "model": "glm-5.3"
+}

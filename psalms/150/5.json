@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 150:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 150,
+  "translation": "Bayimbaka Ye na bililinga ya limbe ya malamu, bayimbaka Ye na bililinga ya kosakana.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "bayimbaka Ye"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "na bililinga ya"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "limbe ya malamu"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "bayimbaka Ye"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "na bililinga ya"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "kosakana"
+    }
+  ],
+  "timestamp": "2026-09-03T21:35:40.728496225Z",
+  "model": "glm-5.3"
+}

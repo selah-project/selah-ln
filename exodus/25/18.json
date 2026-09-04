@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 25:18",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Mpe oko sala ⟨את⟩ kerube mibale ya waure; mosala ya lituku oko sala bango, oyo eutaka na nsuka mibale ya kaporeta.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "mpe oko sala"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "kerube"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ya waure"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "mosala ya lituku"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "oko sala"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bango"
+    },
+    {
+      "surface": "משני",
+      "gloss": "na mibale"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "ya nsuka"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "ya kaporeta"
+    }
+  ],
+  "timestamp": "2026-09-03T16:28:28.181901404Z",
+  "model": "glm-5.3"
+}

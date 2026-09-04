@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 24:28",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "Mpe mwana mwasi yango apusuki, mpe ayebisaki ndako ya mama na ye makambo oyo.",
+  "tokens": [
+    {
+      "surface": "ותרץ",
+      "gloss": "mpe apusuki"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mwana mwasi yango"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "mpe ayebisaki"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ndako ya"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "mama na ye"
+    },
+    {
+      "surface": "כדברים",
+      "gloss": "lokola makambo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "oyo"
+    }
+  ],
+  "timestamp": "2026-09-03T15:56:32.527627752Z",
+  "model": "glm-5.3"
+}

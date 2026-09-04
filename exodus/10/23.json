@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 10:23",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Moto amonaki ⟨את⟩ ndeko na ye te, mpe moto atombwamaki na esika na ye te, mikolo misato; kasi epai ya bana nyonso ya Israel ezalaki polelo na bandako na bango.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "amonaki"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndeko na ye"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ndeko na ye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "atombwamaki"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "מתחתיו",
+      "gloss": "na esika na ye"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "misato"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mikolo"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "kasi epai ya bana nyonso"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ezalaki"
+    },
+    {
+      "surface": "אור",
+      "gloss": "polelo"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "na bandako na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:18:35.650749452Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 1:18",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe Arpakshad abotaki ⟨את⟩ Shelah, mpe Shelah abotaki ⟨את⟩ Ever.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "Mpe Arpakshad"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "abotaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelah"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Shelah"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "mpe Shelah"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "abotaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ever"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever"
+    }
+  ],
+  "timestamp": "2026-09-03T22:39:55.884422106Z",
+  "model": "glm-5.3"
+}

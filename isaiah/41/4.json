@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 41:4",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 41,
+  "translation": "Nani asalaki mpe asalakisaki oyo, abengi mikili uta na ebandeli? Ngai, Yawe, ya liboso, mpe ⟨את⟩ bansuka ngai nazali ye.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "nani"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "asalaki"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "mpe asalakisaki"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "abengi"
+    },
+    {
+      "surface": "הדרות",
+      "gloss": "mikili"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "uta na ebandeli"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "ya liboso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bansuka"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "bansuka"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nazali ye"
+    }
+  ],
+  "timestamp": "2026-09-03T19:31:39.491045374Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 18:12",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Mpo makambo mabe epai ya Yawe ⟨ezali⟩ oyo asali yango nyonso; mpe mpo na makambo mabe oyo Yawe Elohim wa yo akimisaka ⟨את⟩ bango liboso na yo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "makambo mabe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "asali"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ובגלל",
+      "gloss": "mpe mpo na"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "makambo mabe"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa yo"
+    },
+    {
+      "surface": "מוריש",
+      "gloss": "akimisaka"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ bango",
+      "marks": "bango"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "liboso na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T17:32:42.221651411Z",
+  "model": "glm-5.3"
+}

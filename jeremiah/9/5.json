@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 9:5",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Kokanda na yo kati ya mokosi ⟨ezali⟩; na mokosi baboyaki koyeba ⟨את⟩ ngai, liloba ya Yawe.",
+  "tokens": [
+    {
+      "surface": "שבתך",
+      "gloss": "kokanda na yo"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "kati ya"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "mokosi"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "na mokosi"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "baboyaki"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "koyeba"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ ngai",
+      "marks": "ngai"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "liloba ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T19:46:40.720765240Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 4:34",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe Moshe mpe Aharon mpe bakambi ya lisita basalaki motango ya ⟨את⟩ bana ya bakohati, na mibota na bango mpe na ndako ya bankoko na bango.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "mpe basalaki motango"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "mpe Aharon"
+    },
+    {
+      "surface": "ונשיאי",
+      "gloss": "mpe bakambi"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ya lisita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bana ya bakohati"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "הקהתי",
+      "gloss": "ya bakohati"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "na mibota na bango"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "mpe na ndako"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "ya bankoko na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:59:50.558923764Z",
+  "model": "glm-5.3"
+}

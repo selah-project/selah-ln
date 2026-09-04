@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 34:6",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 34,
+  "translation": "Mpe akundaki ⟨את⟩ ye na bonde, na mabele ya Moab, liboso ya Betu-Peor; mpe moto te ayebaki ⟨את⟩ lilomba na yango kino mokolo oyo.",
+  "tokens": [
+    {
+      "surface": "ויקבר",
+      "gloss": "Mpe akundaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ye",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "na bonde"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ya Moab"
+    },
+    {
+      "surface": "מול",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Betu"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Peor"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe ... te"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ayebaki"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lilomba na yango"
+    },
+    {
+      "surface": "קברתו",
+      "gloss": "lilomba na yango"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "היום",
+      "gloss": "mokolo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    }
+  ],
+  "timestamp": "2026-09-03T17:42:15.136515572Z",
+  "model": "glm-5.3"
+}

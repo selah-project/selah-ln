@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 18:10",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Mpe Tsidkiyahu mwana ya Kenana asalaki na ye mapanza ya fer, mpe alobaki: Bosi Yawe alobi: na mapanza oyo okozwa ⟨את⟩ Aram tee bakosilama.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "asalaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "כנענה",
+      "gloss": "ya Kenana"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "mapanza"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "ya fer"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Bosi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "alobi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "na mapanza oyo"
+    },
+    {
+      "surface": "תנגח",
+      "gloss": "okozwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tee"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "bakosilama"
+    }
+  ],
+  "timestamp": "2026-09-03T23:01:01.915076977Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 17:23",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 17,
+  "translation": "Mpe bayoki te, mpe batisi te ⟨את⟩ matoyi na bango, mpe bakangi ⟨את⟩ kingo na bango, mpo bayoka te, mpe bazwa te etumbu;",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "mpe ... te"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "bayoki"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe ... te"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "batisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matoyi na bango"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "matoyi na bango"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "mpe bakangi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kingo na bango"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "kingo na bango"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "mpo ... te"
+    },
+    {
+      "surface": "שומע",
+      "gloss": "bayoka"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "mpe mpo ... te"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "bazwa"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "etumbu"
+    }
+  ],
+  "timestamp": "2026-09-03T19:50:19.718221058Z",
+  "model": "glm-5.3"
+}

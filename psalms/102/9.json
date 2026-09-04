@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 102:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 102,
+  "translation": "Mokolo nyonso banguna na ngai balimbisaki ngai; baye bazali kolokola na ngai balapaki na ngai.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "היום",
+      "gloss": "mokolo"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "balimbisaki ngai"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "banguna na ngai"
+    },
+    {
+      "surface": "מהוללי",
+      "gloss": "baye bazali kolokola na ngai"
+    },
+    {
+      "surface": "בי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "balapaki"
+    }
+  ],
+  "timestamp": "2026-09-03T21:25:43.507198916Z",
+  "model": "glm-5.3"
+}

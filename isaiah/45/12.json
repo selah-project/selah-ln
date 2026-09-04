@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 45:12",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 45,
+  "translation": "Ngai, nasalaki mabele, mpe moto oyo azali likolo na yango nazelaki; ngai, maboko na ngi natandolaki likolo, mpe mampinga na yango nyonso namela yango mitinda.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ngai"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "nasalaki"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "mpe moto"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "likolo na yango"
+    },
+    {
+      "surface": "בראתי",
+      "gloss": "nazelaki"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "maboko na ngi"
+    },
+    {
+      "surface": "נטו",
+      "gloss": "natandolaki"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "likolo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe ... nyonso"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "mampinga na yango"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "namela yango mitinda"
+    }
+  ],
+  "timestamp": "2026-09-03T19:32:48.755094681Z",
+  "model": "glm-5.3"
+}

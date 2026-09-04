@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 23:24",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Mpe balongwaki mpe bakendeki na Zifa liboso ya Shaul; mpe David mpe bato na yango bazalaki na etando ya Maon, na bonene ya mabele, na limweso ya Yesimonu.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "balongwaki"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "bakendeki"
+    },
+    {
+      "surface": "זיפה",
+      "gloss": "Zifa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "mpe David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "mpe bato na yango"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "na etando"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "Maon"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "na bonene ya mabele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "limweso"
+    },
+    {
+      "surface": "הישימון",
+      "gloss": "Yesimonu"
+    }
+  ],
+  "timestamp": "2026-09-03T18:21:36.784443611Z",
+  "model": "glm-5.3"
+}

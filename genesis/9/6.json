@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 9:6",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Oyo akundola makila ya moto, na maboko ya moto makila na ye ekundolama; mpo na elilingi ya Elohim asalaki ⟨את⟩ moto.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "akundola"
+    },
+    {
+      "surface": "דם",
+      "gloss": "makila"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ya moto"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "na maboko ya moto"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "makila na ye"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "ekundolama"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "na elilingi ya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "asalaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moto"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "moto"
+    }
+  ],
+  "timestamp": "2026-09-03T15:46:41.187354871Z",
+  "model": "glm-5.3"
+}

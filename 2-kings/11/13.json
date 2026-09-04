@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 11:13",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpe Atalya ayoki ⟨את⟩ liloba ya bapumbwi ya bato, mpe akotaki epai ya bato, na ndako ya Yawe.",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "mpe ayoki"
+    },
+    {
+      "surface": "עתליה",
+      "gloss": "Atalya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "liloba"
+    },
+    {
+      "surface": "קול",
+      "gloss": "liloba"
+    },
+    {
+      "surface": "הרצין",
+      "gloss": "ya bapumbwi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ya bato"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "mpe akotaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T19:04:57.638908313Z",
+  "model": "glm-5.3"
+}

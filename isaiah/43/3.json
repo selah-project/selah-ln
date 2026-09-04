@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 43:3",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 43,
+  "translation": "Mpo ngai nazali Yawe Elohim na yo, Mosantu ya Israel, Mombanzi na yo; napesaki Mitsraim lokanzoli na yo, Kush mpe Seba na esika na yo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim na yo"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Mosantu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "מושיעך",
+      "gloss": "Mombanzi na yo"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "napesaki"
+    },
+    {
+      "surface": "כפרך",
+      "gloss": "lokanzoli na yo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "mpe Seba"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "na esika na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T19:31:12.750335208Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 28:11",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 28,
+  "translation": "Mpe David apesi Shelomo mwana na ye ⟨את⟩ ndenge ya ndako ya liboso, mpe ⟨את⟩ bandoke na yango, mpe bibumba na yango, mpe bandako na yango ya likolo, mpe bikamere na yango ya kati, mpe ndako ya kaporet.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Mpe apesi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana na ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndenge ya ndako ya liboso"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "ndenge"
+    },
+    {
+      "surface": "האולם",
+      "gloss": "ya ndako ya liboso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bandoke na yango"
+    },
+    {
+      "surface": "בתיו",
+      "gloss": "bandoke na yango"
+    },
+    {
+      "surface": "וגנזכיו",
+      "gloss": "mpe bibumba na yango"
+    },
+    {
+      "surface": "ועליתיו",
+      "gloss": "mpe bandako na yango ya likolo"
+    },
+    {
+      "surface": "וחדריו",
+      "gloss": "mpe bikamere na yango"
+    },
+    {
+      "surface": "הפנימים",
+      "gloss": "ya kati"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "mpe ndako"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "ya kaporet"
+    }
+  ],
+  "timestamp": "2026-09-03T22:52:41.916913490Z",
+  "model": "glm-5.3"
+}

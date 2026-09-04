@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 43:19",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 43,
+  "translation": "Talá, ngai nazali kosala eloko ya sika; sikoyo ekomitaki; boye boyebi yango te? Mpe nakotya na etando nzela, na esika ya mobanga banzela ya mai.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "talá, ngai"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "nazali kosala"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "eloko ya sika"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "sikoyo"
+    },
+    {
+      "surface": "תצמח",
+      "gloss": "ekomitaki"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "boye ... te"
+    },
+    {
+      "surface": "תדעוה",
+      "gloss": "boyebi yango"
+    },
+    {
+      "surface": "אף",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "nakotya"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "na etando"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "nzela"
+    },
+    {
+      "surface": "בישמון",
+      "gloss": "na esika ya mobanga"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "banzela ya mai"
+    }
+  ],
+  "timestamp": "2026-09-03T19:30:35.540548037Z",
+  "model": "glm-5.3"
+}

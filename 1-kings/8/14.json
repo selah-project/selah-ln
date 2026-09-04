@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 8:14",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe mokonzi atyoli elongi na ye, mpe atombolaki malamu ⟨את⟩ lisanga nyonso ya Israel; mpe lisanga nyonso ya Israel ezalaki ⟨ezala⟩ fotɛ —",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "mpe mokonzi atyoli elongi na ye"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elongi na ye"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "elongi na ye"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "mpe atombolaki malamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lisanga nyonso ya Israel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "lisanga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe nyonso"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "ya lisanga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ezalaki fotɛ"
+    }
+  ],
+  "timestamp": "2026-09-03T18:48:38.137613030Z",
+  "model": "glm-5.3"
+}

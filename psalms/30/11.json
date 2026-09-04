@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 30:11",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 30,
+  "translation": "Yoka, Yawe, mpe pesa ngai ngolu; Yawe, koba lisalisi na ngai.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "yoka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "mpe pesa ngai ngolu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "koba"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "lisalisi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:05:56.449534606Z",
+  "model": "glm-5.3"
+}

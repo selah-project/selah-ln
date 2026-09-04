@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 19:30",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Bobatela ⟨את⟩ Shabat na ngai, mpe bobanga ndako ya bosantu na ngai; ngai nazali Yawe.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shabat na ngai"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Shabat na ngai"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "bobatela"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "mpe ndako ya bosantu na ngai"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "bobanga"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T16:51:57.253076443Z",
+  "model": "glm-5.3"
+}

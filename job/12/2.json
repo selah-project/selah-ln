@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 12:2",
+  "book": "job",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Ya solo, bongo boye, bino bozali mboka, mpe bwanya akufaka elongo na bino.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "ya solo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "bongo boye"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "bino"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mboka"
+    },
+    {
+      "surface": "ועמכם",
+      "gloss": "mpe elongo na bino"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "akufaka"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "bwanya"
+    }
+  ],
+  "timestamp": "2026-09-03T21:54:38.788648702Z",
+  "model": "glm-5.3"
+}

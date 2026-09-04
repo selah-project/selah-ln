@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 28:1",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 28,
+  "translation": "Yitshak abengaki Yaakov, abondisaki ⟨את⟩ ye, mpe apesaki ye mobeko, alobaki na ye ete: Kokata mwasi te kati ya bana ya Kenaan.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "abengaki"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "abondisaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ye"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "apesaki ye mobeko"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "kokata"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mwasi"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "kati ya bana"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-09-03T16:00:09.987616301Z",
+  "model": "glm-5.3"
+}

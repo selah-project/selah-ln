@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 6:13",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Yawe alobaki epai ya Moshe mpe epai ya Aharon, mpe atindaki ⟨bango⟩ epai ya bana ya Israel mpe epai ya Parao, mokonzi ya Mitsraim, mpo na kobimisa ⟨את⟩ bana ya Israel na mabele ya Mitsraim.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mpe epai ya"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ויצום",
+      "gloss": "mpe atindaki bango"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mpe epai ya"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "mpo na kobimisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bana ya Israel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "na mabele ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    }
+  ],
+  "timestamp": "2026-09-03T16:15:09.270040825Z",
+  "model": "glm-5.3"
+}

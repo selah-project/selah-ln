@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 53:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 53,
+  "translation": "Banso basilaki kozonga sima, esika moko babebisaki; oyo asali malamu azali te, ata moko te.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "Banso"
+    },
+    {
+      "surface": "סג",
+      "gloss": "basilaki kozonga sima"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "esika moko"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "babebisaki"
+    },
+    {
+      "surface": "אין",
+      "gloss": "azali te"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "asali"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "malamu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "te"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ata"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "moko"
+    }
+  ],
+  "timestamp": "2026-09-03T21:13:53.376333226Z",
+  "model": "glm-5.3"
+}

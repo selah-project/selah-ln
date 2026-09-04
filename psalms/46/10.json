@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 46:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 46,
+  "translation": "Akekisaka bitumba kino na nsuka ya mabele; abukaka uta, mpe akatakaka lanse, mituka atumbaka na moto.",
+  "tokens": [
+    {
+      "surface": "משבית",
+      "gloss": "Akekisaka"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "bitumba"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "nsuka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ya mabele"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "uta"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "abukaka"
+    },
+    {
+      "surface": "וקצץ",
+      "gloss": "mpe akatakaka"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "lanse"
+    },
+    {
+      "surface": "עגלות",
+      "gloss": "mituka"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "atumbaka"
+    },
+    {
+      "surface": "באש",
+      "gloss": "na moto"
+    }
+  ],
+  "timestamp": "2026-09-03T21:11:38.098704107Z",
+  "model": "glm-5.3"
+}

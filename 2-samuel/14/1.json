@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 14:1",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Yoav, mwana ya Tserujah, ayebaki ete motema ya mokonzi ezalaki likolo ya Avshalom.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "ayebaki"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "Tserujah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "לב",
+      "gloss": "motema"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya mokonzi"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    }
+  ],
+  "timestamp": "2026-09-03T18:34:17.913504027Z",
+  "model": "glm-5.3"
+}

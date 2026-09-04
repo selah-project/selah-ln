@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 78:15",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 78,
+  "translation": "Akangaka mabanga na zando, mpe amelisaki bango lokola mbu monene.",
+  "tokens": [
+    {
+      "surface": "יבקע",
+      "gloss": "akangaka"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "mabanga"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "na zando"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "mpe amelisaki bango"
+    },
+    {
+      "surface": "כתהמות",
+      "gloss": "lokola mbu"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "monene"
+    }
+  ],
+  "timestamp": "2026-09-03T21:19:38.183339243Z",
+  "model": "glm-5.3"
+}

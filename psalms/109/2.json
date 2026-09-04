@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 109:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 109,
+  "translation": "Tena monoko ya mabe mpe monoko ya bobulusi bafungolaki likolo na ngai; balobaki ⟨את⟩ ngai na dimoku ya lokuta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Tena"
+    },
+    {
+      "surface": "פי",
+      "gloss": "monoko"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ya mabe"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "mpe monoko"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "ya bobulusi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "likolo na ngai"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "bafungolaki"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "balobaki"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ngai",
+      "marks": "ngai"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "dimoku"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ya lokuta"
+    }
+  ],
+  "timestamp": "2026-09-03T21:29:42.662025321Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 135:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 135,
+  "translation": "Mpo nazali koyeba ete Yawe azali monene, mpe Adonai na biso likolo ya banzambe nyonso.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nazali"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "koyeba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "monene"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואדנינו",
+      "gloss": "mpe Adonai na biso"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "likolo ya nyonso"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "banzambe"
+    }
+  ],
+  "timestamp": "2026-09-03T21:34:01.901983899Z",
+  "model": "glm-5.3"
+}

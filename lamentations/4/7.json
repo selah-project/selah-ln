@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 4:7",
+  "book": "lamentations",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Banazire na yango bazalaki peto koleka mbala, bongengelaki koleka mata; misisa na bango bomitaki mongata koleka minzoto mongo, lolenge na bango lokola safire.",
+  "tokens": [
+    {
+      "surface": "זכו",
+      "gloss": "bazalaki peto"
+    },
+    {
+      "surface": "נזיריה",
+      "gloss": "Banazire na yango"
+    },
+    {
+      "surface": "משלג",
+      "gloss": "koleka mbala"
+    },
+    {
+      "surface": "צחו",
+      "gloss": "bongengelaki"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "koleka mata"
+    },
+    {
+      "surface": "אדמו",
+      "gloss": "bomitaki mongata"
+    },
+    {
+      "surface": "עצם",
+      "gloss": "misesa na bango"
+    },
+    {
+      "surface": "מפנינים",
+      "gloss": "koleka minzoto mongo"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "safire"
+    },
+    {
+      "surface": "גזרתם",
+      "gloss": "lolenge na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T22:11:04.127625036Z",
+  "model": "glm-5.3"
+}

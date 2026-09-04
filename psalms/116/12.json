@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 116:12",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 116,
+  "translation": "Nini nakozongisa epai ya Yawe, mpo na boloko na ye nyonso na ngai?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Nini"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "nakozongisa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "epai ya Yawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "תגמולוהי",
+      "gloss": "boloko na ye"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:30:01.615406853Z",
+  "model": "glm-5.3"
+}

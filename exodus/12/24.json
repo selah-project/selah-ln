@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 12:24",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Mpe bokengela ⟨את⟩ liloba oyo, ezala mobeko na yo mpe na bana na yo, kino libela.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "mpe bokengela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "liloba oyo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "liloba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "ezala mobeko"
+    },
+    {
+      "surface": "לך",
+      "gloss": "na yo"
+    },
+    {
+      "surface": "ולבניך",
+      "gloss": "mpe na bana na yo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "libela"
+    }
+  ],
+  "timestamp": "2026-09-03T16:19:55.384865915Z",
+  "model": "glm-5.3"
+}

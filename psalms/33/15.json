@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 33:15",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 33,
+  "translation": "Mokeli ya mitema na bango elongo, Moyebi-ntina na misala na bango nyonso.",
+  "tokens": [
+    {
+      "surface": "היצר",
+      "gloss": "Mokeli"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "elongo"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ya mitema na bango"
+    },
+    {
+      "surface": "המבין",
+      "gloss": "Moyebi-ntina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "misala na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:08:31.441670627Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 22:15",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Mpe anjelo ya Yawe abengaki Avraham mbala ya mibale uta na likolo.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "abengaki"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "anjelo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "mbala ya mibale"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uta"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "na likolo"
+    }
+  ],
+  "timestamp": "2026-09-03T15:55:30.609571198Z",
+  "model": "glm-5.3"
+}

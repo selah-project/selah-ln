@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 13:12",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Mpe David abangaki ⟨את⟩ Elohim na mokolo yango, na koloba: Ndenge nini nakomisa epai na ngai ⟨את⟩ sanduku ya Elohim?",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "mpe abangaki"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na mokolo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yango"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na koloba"
+    },
+    {
+      "surface": "היך",
+      "gloss": "Ndenge nini"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "nakomisa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "epai na ngai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduku"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduku"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-03T22:46:47.181711358Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 42:8",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 42,
+  "translation": "Mpe Yosefe ayebaki ⟨את⟩ bandeko na ye, kasi bango bayebaki ye te.",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "ayebaki"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bandeko na ye"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "bandeko na ye"
+    },
+    {
+      "surface": "ויהם",
+      "gloss": "kasi bango"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "הכרהו",
+      "gloss": "bayebaki ye"
+    }
+  ],
+  "timestamp": "2026-09-03T16:08:45.276265746Z",
+  "model": "glm-5.3"
+}

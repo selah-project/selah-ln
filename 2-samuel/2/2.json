@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 2:2",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe David amataki kuna, mpe mpe bakasi na ye mibale: Akinoham wa Yizreeli, mpe Abigayil, mwasi wa Nabal, yo wa Karmeli.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "Mpe amataki"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "mpe mpe"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "bakasi na ye"
+    },
+    {
+      "surface": "אחינעם",
+      "gloss": "Akinoham"
+    },
+    {
+      "surface": "היזרעלית",
+      "gloss": "wa Yizreeli"
+    },
+    {
+      "surface": "ואביגיל",
+      "gloss": "mpe Abigayil"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mwasi wa"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabal"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "yo wa Karmeli"
+    }
+  ],
+  "timestamp": "2026-09-03T18:29:39.465318628Z",
+  "model": "glm-5.3"
+}

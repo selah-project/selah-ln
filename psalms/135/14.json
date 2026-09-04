@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 135:14",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 135,
+  "translation": "Mpo Yawe akosambela ekolo na ye, mpe na basali na ye akozwa mawa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "akosambela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ekolo na ye"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "mpe na"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "basali na ye"
+    },
+    {
+      "surface": "יתנחם",
+      "gloss": "akozwa mawa"
+    }
+  ],
+  "timestamp": "2026-09-03T23:35:47.016033041Z",
+  "model": "glm-5.3"
+}

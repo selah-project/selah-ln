@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 4:24",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe esalaki na nzela, na esika ya bopanzanama: Yawe asangisi ye, mpe alingaki komoma ye.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mpe esalaki"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "na nzela"
+    },
+    {
+      "surface": "במלון",
+      "gloss": "na esika ya bopanzanama"
+    },
+    {
+      "surface": "ויפגשהו",
+      "gloss": "asangisi ye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "mpe alingaki"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "komoma ye"
+    }
+  ],
+  "timestamp": "2026-09-03T16:14:50.786223276Z",
+  "model": "glm-5.3"
+}

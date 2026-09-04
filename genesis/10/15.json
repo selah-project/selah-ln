@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Mpe Kenaan azalaki tata ya ⟨את⟩ Tsidon mwana na yeye ya liboso, mpe ⟨את⟩ Het.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "Mpe Kenaan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "azalaki tata ya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsidon"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsidon"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "mwana na yeye ya liboso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Het"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Het"
+    }
+  ],
+  "timestamp": "2026-09-03T15:48:48.444027369Z",
+  "model": "glm-5.3"
+}

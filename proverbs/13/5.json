@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 13:5",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Moto ya bosembo alingaka te liloba ya lokuta, mpe mabe anukaka mabe mpe azwaka soni.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "liloba"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ya lokuta"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "alingaka te"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "moto ya bosembo"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "mpe mabe"
+    },
+    {
+      "surface": "יבאיש",
+      "gloss": "anukaka mabe"
+    },
+    {
+      "surface": "ויחפיר",
+      "gloss": "mpe azwaka soni"
+    }
+  ],
+  "timestamp": "2026-09-03T21:41:02.853588901Z",
+  "model": "glm-5.3"
+}

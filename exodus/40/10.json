@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 40:10",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 40,
+  "translation": "Mpe okompozi ⟨את⟩ etanda ya likabo ya moto mpe ⟨את⟩ biloko na yango nyonso, mpe okosantisa ⟨את⟩ etanda, mpe etanda ekokala mosantu ya bansantu.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "mpe okompozi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "etanda"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "etanda"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ya likabo ya moto"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "biloko na yango nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "biloko na yango"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "mpe okosantisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "etanda"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "etanda"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "mpe ekokala"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "etanda"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "mosantu"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ya bansantu"
+    }
+  ],
+  "timestamp": "2026-09-03T16:38:52.724119479Z",
+  "model": "glm-5.3"
+}

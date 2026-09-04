@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 23:24",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Okolotama te liboso ya banzambe na bango, mpe okosalela bango te, mpe okosala te lokola misala na bango; kasi kopwana opwana bango mpamba, mpe kokata okata bibande na bango.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "Okolotama"
+    },
+    {
+      "surface": "לאלהיהם",
+      "gloss": "liboso ya banzambe na bango"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "תעבדם",
+      "gloss": "okosalela bango"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "okosala"
+    },
+    {
+      "surface": "כמעשיהם",
+      "gloss": "lokola misala na bango"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kasi"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "kopwana"
+    },
+    {
+      "surface": "תהרסם",
+      "gloss": "opwana bango mpamba"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "mpe kokata"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "okata"
+    },
+    {
+      "surface": "מצבתיהם",
+      "gloss": "bibande na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T23:14:06.991671218Z",
+  "model": "glm-5.3"
+}

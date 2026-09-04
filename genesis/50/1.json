@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 50:1",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 50,
+  "translation": "Mpe Yosef akweyaki na likonzi ya tata na ye, akokelaki ye, mpe abumelaki ye.",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "Mpe akweyaki"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "פני",
+      "gloss": "likonzi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ya tata na ye"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "mpe akokelaki"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "mpe abumelaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ye"
+    }
+  ],
+  "timestamp": "2026-09-03T16:13:47.917410198Z",
+  "model": "glm-5.3"
+}

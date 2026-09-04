@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 35:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 35,
+  "translation": "Misu nyonso na ngai elobaka: Yawe, nani akokani na yo, oyo abombaka oyo azali na mposa uta na oyo azali makasi koleka ye, mpe oyo azali na mposa mpe mokemoke uta na mobambi na ye?",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "misa na ngai"
+    },
+    {
+      "surface": "תאמרנה",
+      "gloss": "elobaka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nani"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "akokani na yo"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "abombaka"
+    },
+    {
+      "surface": "עני",
+      "gloss": "oyo azali na mposa"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "oyo azali makasi koleka"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "mpe oyo azali na mposa"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "mpe mokemoke"
+    },
+    {
+      "surface": "מגזלו",
+      "gloss": "uta na mobambi na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:08:24.976722836Z",
+  "model": "glm-5.3"
+}

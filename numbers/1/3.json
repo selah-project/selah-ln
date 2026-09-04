@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 1:3",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Kobanda na mwana ya mbula nkama mibale mpe likolo, nyonso oyo azali kokende na mampinga na Israel, bokena ⟨את⟩ bawana na mampinga na bawana, yo mpe Aharon.",
+  "tokens": [
+    {
+      "surface": "מבן",
+      "gloss": "Kobanda na mwana"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "nkama mibale"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ya mbula"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "mpe likolo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "oyo azali kokende"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "na mampinga"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "na Israel"
+    },
+    {
+      "surface": "תפקדו",
+      "gloss": "bokena"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bawana"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "na mampinga na bawana"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "mpe Aharon"
+    }
+  ],
+  "timestamp": "2026-09-03T16:58:31.933672190Z",
+  "model": "glm-5.3"
+}

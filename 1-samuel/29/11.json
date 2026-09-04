@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 29:11",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 29,
+  "translation": "Mpe David atuki, ye moko mpe bato na ye, mpo na kokende na tongo, mpo na kozonga na mabele ya Bafilisitia; mpe Bafilisitia bakweyaki na Yizreel.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "Mpe atuki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ye moko"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "mpe bato na ye"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "mpo na kokende"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "na tongo"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "mpo na kozonga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ya Bafilisitia"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "mpe Bafilisitia"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "bakweyaki"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    }
+  ],
+  "timestamp": "2026-09-03T18:23:05.479718417Z",
+  "model": "glm-5.3"
+}

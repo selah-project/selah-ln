@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 135,
+  "ref": "psalms 119:135",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Tiyaka elongi na yo komonana na mosali na yo, mpe longisa ngai ⟨את⟩ mibeko na yo.",
+  "tokens": [
+    {
+      "surface": "פניך",
+      "gloss": "elongi na yo"
+    },
+    {
+      "surface": "האר",
+      "gloss": "Tiyaka ... komonana"
+    },
+    {
+      "surface": "בעבדך",
+      "gloss": "na mosali na yo"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "mpe longisa ngai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mibeko na yo"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "mibeko na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:32:12.362364873Z",
+  "model": "glm-5.3"
+}

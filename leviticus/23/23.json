@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 23:23",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Mpe Yawe alobaki na Moshe, alobi ete:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "alobi ete"
+    }
+  ],
+  "timestamp": "2026-09-03T16:54:25.016334754Z",
+  "model": "glm-5.3"
+}

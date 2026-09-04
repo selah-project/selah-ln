@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 4:12",
+  "book": "lamentations",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Bakonzi ya mabele, mpe bafandi ya mokili nyonso, bandimaki te ete monguna mpe moo akokota na bandako ya Yerushalaim.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "bandimaki"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "bakonzi ya"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe bato nyonso"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "bafandi ya"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "mokili"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "akokota"
+    },
+    {
+      "surface": "צר",
+      "gloss": "monguna"
+    },
+    {
+      "surface": "ואויב",
+      "gloss": "mpe moo"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "na bandako ya"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-09-03T22:10:44.186216545Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 25:28",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Mpe alobaki na ye malamu, mpe atyaki kiti na ye likolo ya kiti ya bakonzi oyo ⟨את⟩ bazalaki na ye na Bavel.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ na ye"
+    },
+    {
+      "surface": "טבות",
+      "gloss": "malamu"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "atyaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kiti na ye"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "kiti na ye"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "kiti"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "ya bakonzi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ bazalaki na ye"
+    },
+    {
+      "surface": "בבבל",
+      "gloss": "na Bavel"
+    }
+  ],
+  "timestamp": "2026-09-03T19:12:14.648094346Z",
+  "model": "glm-5.3"
+}

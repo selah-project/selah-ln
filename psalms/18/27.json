@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 18:27",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Elongo na moto ya bolekile ozalaka ya bolekile; mpe elongo na moto ya kokata nzela ozalaka kokata nzela.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "elongo na"
+    },
+    {
+      "surface": "נבר",
+      "gloss": "moto ya bolekile"
+    },
+    {
+      "surface": "תתברר",
+      "gloss": "ozalaka ya bolekile"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "mpe elongo na"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "moto ya kokata nzela"
+    },
+    {
+      "surface": "תתפתל",
+      "gloss": "ozalaka kokata nzela"
+    }
+  ],
+  "timestamp": "2026-09-03T21:04:32.439984396Z",
+  "model": "glm-5.3"
+}

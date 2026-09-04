@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 27:28",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 27,
+  "translation": "Mpe Elohim apesa yo milulu ya likolo, mpe mafuta ya mabele, mpe ebele ya bioso mpe divai ya sika.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Mpe apesa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מטל",
+      "gloss": "milulu"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ya likolo"
+    },
+    {
+      "surface": "ומשמני",
+      "gloss": "mpe mafuta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ya mabele"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "mpe ebele"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "ya bioso"
+    },
+    {
+      "surface": "ותירש",
+      "gloss": "mpe divai ya sika"
+    }
+  ],
+  "timestamp": "2026-09-03T16:00:04.908729172Z",
+  "model": "glm-5.3"
+}

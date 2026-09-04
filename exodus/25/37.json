@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 25:37",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Mpe osala ⟨את⟩ milampe na yango sambo, mpe oyela ⟨את⟩ milampe na yango, mpe ekolakisa poleli likolo ya liboso ya elongi na yango.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "mpe osala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "milampe na yango"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "milampe na yango"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "sambo"
+    },
+    {
+      "surface": "והעלה",
+      "gloss": "mpe oyela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "milampe na yango"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "milampe na yango"
+    },
+    {
+      "surface": "והאיר",
+      "gloss": "mpe ekolakisa poleli"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "elongi na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:27:40.793094578Z",
+  "model": "glm-5.3"
+}

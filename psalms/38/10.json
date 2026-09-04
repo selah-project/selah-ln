@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 38:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 38,
+  "translation": "Adonai, mposa na ngai nyonso ezali liboso na yo, mpe mpema na ngai uta epai na yo ebombami te.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "liboso na yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "תאותי",
+      "gloss": "mposa na ngai"
+    },
+    {
+      "surface": "ואנחתי",
+      "gloss": "mpe mpema na ngai"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "uta epai na yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "נסתרה",
+      "gloss": "ebombami"
+    }
+  ],
+  "timestamp": "2026-09-03T21:09:55.675455415Z",
+  "model": "glm-5.3"
+}

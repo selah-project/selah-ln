@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jonah 3:10",
+  "book": "jonah",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe Elohim amonaki ⟨את⟩ misala na bango, ete bazongaki na nzela na bango mabe; mpe Elohim akweyaki na mawa na mabe oyo alobaki kosala na bango, mpe asalaki ⟨yango⟩ te.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Mpe amonaki"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "misala na bango"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "misala na bango"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "bazongaki"
+    },
+    {
+      "surface": "מדרכם",
+      "gloss": "na nzela na bango"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "mpe akweyaki na mawa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kosala"
+    },
+    {
+      "surface": "להם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "asalaki"
+    }
+  ],
+  "timestamp": "2026-09-03T20:46:46.192960939Z",
+  "model": "glm-5.3"
+}

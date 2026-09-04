@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 16:24",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Botangisa na kati ya bikolo ⟨את⟩ nkembo na ye, na kati ya bato nyonso makambo na ye ya kokamwa;",
+  "tokens": [
+    {
+      "surface": "ספרו",
+      "gloss": "botangisa"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "na kati ya bikolo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkembo na ye"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "nkembo na ye"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na kati ya bato nyonso"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "bato"
+    },
+    {
+      "surface": "נפלאתיו",
+      "gloss": "makambo na ye ya kokamwa"
+    }
+  ],
+  "timestamp": "2026-09-03T22:45:46.544058832Z",
+  "model": "glm-5.3"
+}

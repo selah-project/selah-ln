@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 9:9",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Mpe bandeko na bango, na mbula na bango, ⟨ezali⟩ nkama libwa na ntuku mitano na motoba: bato nyonso oyo bazalaki bankuli ya bamise, na ndako ya mibota na bango.",
+  "tokens": [
+    {
+      "surface": "ואחיהם",
+      "gloss": "Mpe bandeko na bango"
+    },
+    {
+      "surface": "לתלדותם",
+      "gloss": "na mbula na bango"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "libwa"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "nkama"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "mpe ntuku mitano"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "na motoba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "bato"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "bankuli"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "ya bamise"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "na ndako"
+    },
+    {
+      "surface": "אבתיהם",
+      "gloss": "ya mibota na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T22:43:53.639659544Z",
+  "model": "glm-5.3"
+}

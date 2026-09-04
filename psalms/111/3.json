@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 111:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 111,
+  "translation": "Nkembo mpe bobangi ezali na mosala na yango, mpe bokoki na yango etikali na kokoka.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "Nkembo"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "mpe bobangi"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "mosala na yango"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "mpe bokoki na yango"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "etikali"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "na kokoka"
+    }
+  ],
+  "timestamp": "2026-09-03T21:29:45.487457497Z",
+  "model": "glm-5.3"
+}

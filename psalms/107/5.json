@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 107:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 107,
+  "translation": "Banzala, mpe bamemyi, molimo na bango etombwaki na kati na bango.",
+  "tokens": [
+    {
+      "surface": "רעבים",
+      "gloss": "Banzala"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "צמאים",
+      "gloss": "bamemyi"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "molimo na bango"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "na kati na bango"
+    },
+    {
+      "surface": "תתעטף",
+      "gloss": "etombwaki"
+    }
+  ],
+  "timestamp": "2026-09-03T21:28:22.624516337Z",
+  "model": "glm-5.3"
+}

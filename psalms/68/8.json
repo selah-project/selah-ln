@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 68:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 68,
+  "translation": "Elohim, ntango ozalaki kobimama liboso ya bato na yo, ntango ozalaki kotambola na etuka ya seke — Selah.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "ntango ozalaki kobimama"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bato na yo"
+    },
+    {
+      "surface": "בצעדך",
+      "gloss": "ntango ozalaki kotambola"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "na etuka ya seke"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-03T21:16:45.006177987Z",
+  "model": "glm-5.3"
+}

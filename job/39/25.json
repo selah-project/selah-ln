@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 39:25",
+  "book": "job",
+  "lang": "ln",
+  "chapter": 39,
+  "translation": "Na soni ya shofar alobi: Aha! mpe na mosika amoyaka etumba, kokunga kwa bakonzi mpe bokangami.",
+  "tokens": [
+    {
+      "surface": "בדי",
+      "gloss": "na soni"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "ya shofar"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "alobi"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Aha!"
+    },
+    {
+      "surface": "ומרחוק",
+      "gloss": "mpe na mosika"
+    },
+    {
+      "surface": "יריח",
+      "gloss": "amoyaka"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "etumba"
+    },
+    {
+      "surface": "רעם",
+      "gloss": "kokunga"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "kwa bakonzi"
+    },
+    {
+      "surface": "ותרועה",
+      "gloss": "mpe bokangami"
+    }
+  ],
+  "timestamp": "2026-09-03T22:04:02.569526067Z",
+  "model": "glm-5.3"
+}

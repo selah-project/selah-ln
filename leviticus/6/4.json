@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 6:4",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpe alongolaka ⟨את⟩ bilamba na yango, mpe akengaka bilamba mosusu, mpe ememaka ⟨את⟩ lipau libanda ya kaa, na esika ya mpeto.",
+  "tokens": [
+    {
+      "surface": "ופשט",
+      "gloss": "Mpe alongolaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bilamba na yango"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "bilamba na yango"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "mpe akengaka"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "bilamba"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "mosusu"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "mpe ememaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lipau"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "lipau"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "libanda"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ya kaa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "esika"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ya mpeto"
+    }
+  ],
+  "timestamp": "2026-09-03T16:42:43.171764782Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 115:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 115,
+  "translation": "Matoyi na bango ⟨ezali⟩, kasi bayokaka te; nino na bango ⟨ezali⟩, kasi bayumaka te.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "matoyi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "bayokaka"
+    },
+    {
+      "surface": "אף",
+      "gloss": "nino"
+    },
+    {
+      "surface": "להם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יריחון",
+      "gloss": "bayumaka"
+    }
+  ],
+  "timestamp": "2026-09-03T21:30:04.266157900Z",
+  "model": "glm-5.3"
+}

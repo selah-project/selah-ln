@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 42:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 42,
+  "translation": "Libuya ebengi libuya, na lolaka ya bisangani ya mai na yo; bake ya mai na yo nyonso mpe bake na yo etambolaki likolo na ngai.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "Libuya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "libuya"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "ebengi"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "na lolaka"
+    },
+    {
+      "surface": "צנוריך",
+      "gloss": "ya bisangani ya mai na yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "bake ya mai na yo"
+    },
+    {
+      "surface": "וגליך",
+      "gloss": "mpe bake na yo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "likolo na ngai"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "etambolaki"
+    }
+  ],
+  "timestamp": "2026-09-03T21:11:00.807140884Z",
+  "model": "glm-5.3"
+}

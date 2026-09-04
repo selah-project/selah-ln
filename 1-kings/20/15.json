@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 20:15",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 20,
+  "translation": "Mpe akokatola ⟨את⟩ bilenge ya bakonzi ya bituka, mpe bazalaki nkama mibale ⟨mibale⟩ mpe ntuku misato na mibale; mpe na sima na bango akokatola ⟨את⟩ bato nyonso, bana nyonso ya Israel, sambo ya milolo.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "Mpe akokatola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bilenge ya bakonzi ya bituka"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "bilenge ya"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "bakonzi ya"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "bituka"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "mpe bazalaki"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "nkama mibale"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "mpe ntuku misato"
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "mpe na sima na bango"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "akokatola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bato nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sambo ya"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "milolo"
+    }
+  ],
+  "timestamp": "2026-09-03T18:55:56.910900103Z",
+  "model": "glm-5.3"
+}

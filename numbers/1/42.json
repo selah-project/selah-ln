@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 1:42",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Bana ya Naftali, bukoti na bango, na balongi na bango, na ndako ya batata na bango, na motango ya bankombo, uta mwana ya mbula zomi mibale mpe likolo, banso oyo bakoki kobimela mampinga —",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Bana ya"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "תולדתם",
+      "gloss": "bukoti na bango"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "na balongi na bango"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "na ndako ya"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "batata na bango"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "na motango ya"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "bankombo"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "uta mwana ya"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "mbula zomi mibale"
+    },
+    {
+      "surface": "שנה",
+      "gloss": ""
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "mpe likolo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "banso oyo"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "bakoki kobimela"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "mampinga"
+    }
+  ],
+  "timestamp": "2026-09-03T16:56:57.791373882Z",
+  "model": "glm-5.3"
+}

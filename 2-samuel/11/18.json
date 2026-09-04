@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 11:18",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpe Yoab atindaki mpe alobelaki David ⟨את⟩ maloba nyonso ya etumba.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "atindaki"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "mpe alobelaki"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maloba nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "maloba"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ya etumba"
+    }
+  ],
+  "timestamp": "2026-09-03T18:32:44.001318738Z",
+  "model": "glm-5.3"
+}

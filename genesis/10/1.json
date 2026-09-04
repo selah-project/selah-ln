@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 10:1",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Mpe yango nde molongo ya bana ya Noach: Shem, Ham mpe Yefet; mpe bana babotamaki na bango sima ya bokandi ya mai.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Mpe yango nde"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "molongo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ya"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noach"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Ham"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "mpe Yefet"
+    },
+    {
+      "surface": "ויולדו",
+      "gloss": "babotamaki"
+    },
+    {
+      "surface": "להם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bana"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "sima ya"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "bokandi ya mai"
+    }
+  ],
+  "timestamp": "2026-09-03T15:48:21.824949860Z",
+  "model": "glm-5.3"
+}

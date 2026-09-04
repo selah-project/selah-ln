@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 26:3",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "Elam ya mitano, Yehohanan ya motoba, Elyehoenai ya sambo.",
+  "tokens": [
+    {
+      "surface": "עֵילָ֤ם",
+      "gloss": "Elam"
+    },
+    {
+      "surface": "הַחֲמִישִׁי֙",
+      "gloss": "ya mitano"
+    },
+    {
+      "surface": "יְהוֹחָנָ֣ן",
+      "gloss": "Yehohanan"
+    },
+    {
+      "surface": "הַשִּׁשִּׁ֔י",
+      "gloss": "ya motoba"
+    },
+    {
+      "surface": "אֶלְיְהוֹעֵינַ֖י",
+      "gloss": "Elyehoenai"
+    },
+    {
+      "surface": "הַשְּׁבִיעִֽי",
+      "gloss": "ya sambo"
+    }
+  ],
+  "timestamp": "2026-09-03T22:51:14.600409423Z",
+  "model": "glm-5.3"
+}

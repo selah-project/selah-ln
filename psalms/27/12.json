@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 27:12",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 27,
+  "translation": "Pesa ngai te epai ya mposa ya banyokoli na ngai; mpo ete banzenzoki ya lokuta bamikitaki na ngai, mpe bapemakaomboki.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תתנני",
+      "gloss": "Pesa ngai"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "epai ya mposa"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "ya banyokoli na ngai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "bamikitaki"
+    },
+    {
+      "surface": "בי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "banzenzoki"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ya lokuta"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "mpe bapemaka"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "omboki"
+    }
+  ],
+  "timestamp": "2026-09-03T21:05:50.275065843Z",
+  "model": "glm-5.3"
+}

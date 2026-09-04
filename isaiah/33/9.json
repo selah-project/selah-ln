@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 33:9",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 33,
+  "translation": "Mabele elali kolila, ekweaka: Lebamon emonisaki lokuta, omi; Sharon ekomi lokola mapata, mpe Bashan ebwaka ⟨bansolo na yango⟩, mpe Karmel.",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "elali kolila"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "ekweaka"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "החפיר",
+      "gloss": "emonisaki lokuta"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Lebamon"
+    },
+    {
+      "surface": "קמל",
+      "gloss": "omi"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ekomi"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "Sharon"
+    },
+    {
+      "surface": "כערבה",
+      "gloss": "lokola mapata"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "mpe ebwaka"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "mpe Karmel"
+    }
+  ],
+  "timestamp": "2026-09-03T19:23:59.151558282Z",
+  "model": "glm-5.3"
+}

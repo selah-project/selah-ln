@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 91:15",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 91,
+  "translation": "Akobenga ngai, mpe nakoyanola ye; ngai nakozala elongo na ye na mpasi; nakolongola ye, mpe nakoomba ye.",
+  "tokens": [
+    {
+      "surface": "יקראני",
+      "gloss": "akobenga ngai"
+    },
+    {
+      "surface": "ואענהו",
+      "gloss": "mpe nakoyanola ye"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "elongo na ye"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "na mpasi"
+    },
+    {
+      "surface": "אחלצהו",
+      "gloss": "nakolongola ye"
+    },
+    {
+      "surface": "ואכבדהו",
+      "gloss": "mpe nakoomba ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:24:44.616580189Z",
+  "model": "glm-5.3"
+}

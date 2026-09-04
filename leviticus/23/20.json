@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 23:20",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Mpe kohen akosakana ⟨את⟩ bango, elongo na lopa ya bikoku ya liboso — mbeka ya kosakana liboso ya Yawe — elongo na batoke mibale; bokozala motuya epai ya Yawe, epai ya kohen.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "mpe akosakana"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bango (batoke mpe lopa)"
+    },
+    {
+      "surface": "על",
+      "gloss": "elongo na"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "lopa"
+    },
+    {
+      "surface": "הבכורים",
+      "gloss": "ya bikoku ya liboso"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "mbeka ya kosakana"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "elongo na"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "batoke"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "motuya"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bokozala"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "epai ya Yawe"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "epai ya kohen"
+    }
+  ],
+  "timestamp": "2026-09-03T16:55:10.604192461Z",
+  "model": "glm-5.3"
+}

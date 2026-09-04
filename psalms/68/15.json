@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 68:15",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 68,
+  "translation": "Ntango Shadai abwanaki bakonzi kuna, mbula ya pembe etiangaki na Tsalmone.",
+  "tokens": [
+    {
+      "surface": "בפרש",
+      "gloss": "Ntango ... abwanaki"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadai"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "bakonzi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "תשלג",
+      "gloss": "mbula ya pembe etiangaki"
+    },
+    {
+      "surface": "בצלמון",
+      "gloss": "na Tsalmone"
+    }
+  ],
+  "timestamp": "2026-09-03T21:16:54.764061378Z",
+  "model": "glm-5.3"
+}

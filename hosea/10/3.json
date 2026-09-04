@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 10:3",
+  "book": "hosea",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Ya solo, sikoyo bakoloba: Mokonzi ezali te mpo na biso, mpo tozalaki kobanga te ⟨את⟩ Yawe; mpe mokonzi, nini akoki kosala mpo na biso?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ya solo"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "sikoyo"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "bakoloba"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ezali te"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mpo na biso"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "tozalaki kobanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "mpe mokonzi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "akoki kosala"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mpo na biso"
+    }
+  ],
+  "timestamp": "2026-09-03T20:40:44.146091737Z",
+  "model": "glm-5.3"
+}

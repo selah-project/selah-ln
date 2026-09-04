@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 3:12",
+  "book": "job",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpo na nini mapete monoaki ngai liboso, mpe mpo na nini mbuba, mpo nazala komela?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "mpo na nini"
+    },
+    {
+      "surface": "קדמוני",
+      "gloss": "monoaki ngai liboso"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "mapete"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "mpe mpo na nini"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "mbuba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "אינק",
+      "gloss": "nazala komela"
+    }
+  ],
+  "timestamp": "2026-09-03T21:50:12.678074225Z",
+  "model": "glm-5.3"
+}

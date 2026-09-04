@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 9:6",
+  "book": "esther",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Mpe na Shushan, ndako ya bokonzi, Bayinguda babomaki mpe bopetisaki bato nkama mitano.",
+  "tokens": [
+    {
+      "surface": "ובשושן",
+      "gloss": "Mpe na Shushan"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "ndako ya bokonzi"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "babomaki"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Bayinguda"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "mpe bopetisaki"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "mitano"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "nkama"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bato"
+    }
+  ],
+  "timestamp": "2026-09-03T23:39:34.806177696Z",
+  "model": "glm-5.3"
+}

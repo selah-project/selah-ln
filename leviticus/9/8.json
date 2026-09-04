@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 9:8",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Mpe Aharon akangaki nsona epai ya autel, mpe abomaki ⟨את⟩ ndenge ya masumu oyo ⟨ezali⟩ ya ye.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "Mpe akangaki nsona"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "autel"
+    },
+    {
+      "surface": "וישחט",
+      "gloss": "mpe abomaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndenge"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "ndenge"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ya masumu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ezali ya ye"
+    }
+  ],
+  "timestamp": "2026-09-03T16:44:33.239609341Z",
+  "model": "glm-5.3"
+}

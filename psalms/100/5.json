@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 100:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 100,
+  "translation": "Mpo Yawe azali malamu, hesed na ye ezali kino na ntango nyonso, mpe bokokani na ye kino na molongo mpe na molongo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "malamu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kino na ntango nyonso"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed na ye"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "mpe kino"
+    },
+    {
+      "surface": "דר",
+      "gloss": "na molongo"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "mpe na molongo"
+    },
+    {
+      "surface": "אמונתו",
+      "gloss": "bokokani na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:25:20.061116813Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 23:1",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Mawa na bakangi-bampesi oyo bazali kobebisa mpe kobwaka ⟨את⟩ bampesi ya bolei na ngai, liloba ya Yawe.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Mawa"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "bakangi-bampesi"
+    },
+    {
+      "surface": "מאבדים",
+      "gloss": "bayebi-kobebisa"
+    },
+    {
+      "surface": "ומפצים",
+      "gloss": "mpe kobwakaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bampesi"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "bampesi"
+    },
+    {
+      "surface": "מרעיתי",
+      "gloss": "ya bolei na ngai"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "liloba ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T19:52:19.655040948Z",
+  "model": "glm-5.3"
+}

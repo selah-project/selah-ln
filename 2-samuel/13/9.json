@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 13:9",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Mpe atiaki ⟨את⟩ masolo mpe atondisaki liboso na yango; mpe aboyaki kolia. Mpe Amnon alobaki: Bimisaka moto nyonso uta epai na ngai; mpe babimaki, moto nyonso, uta epai na ye.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "mpe atiaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masolo"
+    },
+    {
+      "surface": "המשרת",
+      "gloss": "masolo"
+    },
+    {
+      "surface": "ותצק",
+      "gloss": "mpe atondisaki"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "liboso na yango"
+    },
+    {
+      "surface": "וימאן",
+      "gloss": "mpe aboyaki"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "kolia"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "הוציאו",
+      "gloss": "Bimisaka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "uta epai na ngai"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "mpe babimaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "uta epai na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T18:32:40.293000282Z",
+  "model": "glm-5.3"
+}

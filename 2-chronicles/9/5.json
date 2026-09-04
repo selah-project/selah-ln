@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 9:5",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Alobaki epai ya mokonzi ete: bosolo ⟨ezali⟩ liloba oyo nayoki na mabele na ngai, etali maloba na yo mpe etali bwanya na yo.",
+  "tokens": [
+    {
+      "surface": "וַתֹּאמֶר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "הַמֶּלֶךְ",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "אֱמֶת",
+      "gloss": "bosolo"
+    },
+    {
+      "surface": "הַדָּבָר",
+      "gloss": "liloba"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "שָׁמַעְתִּי",
+      "gloss": "nayoki"
+    },
+    {
+      "surface": "בְּאַרְצִי",
+      "gloss": "na mabele na ngai"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "etali"
+    },
+    {
+      "surface": "דְּבָרֶיךָ",
+      "gloss": "maloba na yo"
+    },
+    {
+      "surface": "וְעַל",
+      "gloss": "mpe etali"
+    },
+    {
+      "surface": "חָכְמָתֶךָ",
+      "gloss": "bwanya na yo"
+    }
+  ],
+  "timestamp": "2026-09-04T00:23:19.031980408Z",
+  "model": "glm-5.3"
+}

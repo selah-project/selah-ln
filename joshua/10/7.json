@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 10:7",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Mpe Yehoshua akwei uta na Gilgala, ye moko mpe bato bongo ya etumba na ye, mpe bato makasi bongo ya nguya.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "Mpe ... akwei"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uta"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "na Gilgala"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ye moko"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe bongo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ya etumba"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe bongo"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "bato makasi"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "ya nguya"
+    }
+  ],
+  "timestamp": "2026-09-03T17:47:42.546480766Z",
+  "model": "glm-5.3"
+}

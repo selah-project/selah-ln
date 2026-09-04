@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 29:13",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 29,
+  "translation": "Mpe bolukaki ⟨את⟩ ngai, mpe bomonaki, mpo boluki ngai na motema na bino mobimba.",
+  "tokens": [
+    {
+      "surface": "ובקשתם",
+      "gloss": "mpe bolukaki"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ngai",
+      "marks": "ngai"
+    },
+    {
+      "surface": "ומצאתם",
+      "gloss": "mpe bomonaki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "תדרשני",
+      "gloss": "boluki ngai"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na mobimba"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "motema na bino"
+    }
+  ],
+  "timestamp": "2026-09-03T19:57:13.243718186Z",
+  "model": "glm-5.3"
+}

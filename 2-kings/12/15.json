@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 12:15",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Mpo ete bato ya mosala, bapesaki yango, mpe balendisaki na yango ⟨את⟩ ndako ya Yawe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "bato ya"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "mosala"
+    },
+    {
+      "surface": "יתנהו",
+      "gloss": "bapesaki yango"
+    },
+    {
+      "surface": "וחזקו",
+      "gloss": "mpe balendisaki"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndako"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T19:05:08.668926730Z",
+  "model": "glm-5.3"
+}

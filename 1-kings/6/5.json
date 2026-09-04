@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 6:5",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Atongaki na kinga ya ndako etando na mpanda, ⟨את⟩ mabanga ya ndako na mpanda, ya hekal mpe ya debir; mpe asalaki mabonga na mpanda.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "atongaki"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "kinga"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ya ndako"
+    },
+    {
+      "surface": "יצוע",
+      "gloss": "etando"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "na mpanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabanga"
+    },
+    {
+      "surface": "קירות",
+      "gloss": "mabanga"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ya ndako"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "na mpanda"
+    },
+    {
+      "surface": "להיכל",
+      "gloss": "ya hekal"
+    },
+    {
+      "surface": "ולדביר",
+      "gloss": "ya debir"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "asalaki"
+    },
+    {
+      "surface": "צלעות",
+      "gloss": "mabonga"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "na mpanda"
+    }
+  ],
+  "timestamp": "2026-09-03T18:46:46.245028290Z",
+  "model": "glm-5.3"
+}

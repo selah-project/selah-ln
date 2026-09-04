@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 8:16",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Bima na tebe, yo, mpe mwasi na yo, mpe bana na yo, mpe basi ya bana na yo, elongo na ⟨את⟩ yo.",
+  "tokens": [
+    {
+      "surface": "צא",
+      "gloss": "Bima"
+    },
+    {
+      "surface": "מן",
+      "gloss": "na"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "tebe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "mpe mwasi na yo"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "mpe bana na yo"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "mpe basi"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "ya bana na yo"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "elongo na ⟨את⟩ yo"
+    }
+  ],
+  "timestamp": "2026-09-03T15:46:47.420039204Z",
+  "model": "glm-5.3"
+}

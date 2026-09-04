@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 8:3",
+  "book": "hosea",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Israel amobaki ⟨את⟩ bolamu; banguna bakolanda ye.",
+  "tokens": [
+    {
+      "surface": "זנח",
+      "gloss": "amobaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bolamu"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "banguna"
+    },
+    {
+      "surface": "ירדפו",
+      "gloss": "bakolanda ye"
+    }
+  ],
+  "timestamp": "2026-09-03T20:39:54.724059597Z",
+  "model": "glm-5.3"
+}

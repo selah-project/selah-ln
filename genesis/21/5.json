@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 21:5",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Mpe Avraham azalaki mwana ya nkama ya mbula, ntango abotamaki na ye ⟨את⟩ Yitshak mwana na ye.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "Mpe Avraham"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ya nkama"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ya mbula"
+    },
+    {
+      "surface": "בהולד",
+      "gloss": "ntango abotamaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitshak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T15:53:50.413225909Z",
+  "model": "glm-5.3"
+}

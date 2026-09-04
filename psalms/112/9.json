@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 112:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 112,
+  "translation": "Asanzi makaba, apesi na mabola; bosembo na ye ezali kotelema libela; ntsinga na ye ekotombama na nkembo.",
+  "tokens": [
+    {
+      "surface": "פִּזַּר",
+      "gloss": "Asanzi makaba"
+    },
+    {
+      "surface": "נָתַן",
+      "gloss": "apesi"
+    },
+    {
+      "surface": "לָאֶבְיוֹנִים",
+      "gloss": "na mabola"
+    },
+    {
+      "surface": "צִדְקָתוֹ",
+      "gloss": "bosembo na ye"
+    },
+    {
+      "surface": "עֹמֶדֶת",
+      "gloss": "ezali kotelema"
+    },
+    {
+      "surface": "לָעַד",
+      "gloss": "libela"
+    },
+    {
+      "surface": "קַרְנוֹ",
+      "gloss": "ntsinga na ye"
+    },
+    {
+      "surface": "תָּרוּם",
+      "gloss": "ekotombama"
+    },
+    {
+      "surface": "בְּכָבוֹד",
+      "gloss": "na nkembo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:28:41.815495027Z",
+  "model": "glm-5.3"
+}

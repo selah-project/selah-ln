@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 27:7",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 27,
+  "translation": "Lokola kobu ya oyo akubwaki ye, ⟨nde⟩ abwaki ye? To lokola bobomi ya baye babomaki ye, abomaki ye?",
+  "tokens": [
+    {
+      "surface": "הַכְּמַכַּת",
+      "gloss": "Lokola kobu"
+    },
+    {
+      "surface": "מַכֵּהוּ",
+      "gloss": "ya oyo akubwaki ye"
+    },
+    {
+      "surface": "הִכָּהוּ",
+      "gloss": "abwaki ye"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "to"
+    },
+    {
+      "surface": "כְּהֶרֶג",
+      "gloss": "lokola bobomi"
+    },
+    {
+      "surface": "הֲרֻגָיו",
+      "gloss": "ya baye babomaki ye"
+    },
+    {
+      "surface": "הֹרָג",
+      "gloss": "abomaki ye"
+    }
+  ],
+  "timestamp": "2026-09-03T19:22:38.270641409Z",
+  "model": "glm-5.3"
+}

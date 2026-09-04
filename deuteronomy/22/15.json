@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 22:15",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Mpe tata ya mwana-mwasi mpe mama na ye bazwaki, mpe babimisaki ⟨את⟩ bilembo ya bomwana ya mwana-mwasi, epai ya bakulu ya mboka, na liporo.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "mpe bazwaki"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tata"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ya mwana-mwasi"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "mpe mama na ye"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "mpe babimisaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bilembo ya bomwana"
+    },
+    {
+      "surface": "בתולי",
+      "gloss": "bilembo ya bomwana"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ya mwana-mwasi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "bakulu ya"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mboka"
+    },
+    {
+      "surface": "השערה",
+      "gloss": "na liporo"
+    }
+  ],
+  "timestamp": "2026-09-03T17:34:54.685008220Z",
+  "model": "glm-5.3"
+}

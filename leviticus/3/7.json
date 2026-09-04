@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 3:7",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Soki toke nde yeye azali komema ⟨את⟩ mbeka na ye, akomema ⟨את⟩ yango libosa ya Yawe.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "soki"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "toke"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "azali komema"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbeka na ye"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "mbeka na ye"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "mpe akomema"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yango",
+      "marks": "yango (toke)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "libosa ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T16:40:15.777440609Z",
+  "model": "glm-5.3"
+}

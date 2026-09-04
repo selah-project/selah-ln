@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 11:1",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpe Atalya, mama ya Ahazia, amonaki ete mwana na ye akufaki, mpe ayaki abomaki ⟨את⟩ mobimba mbota ya bokonzi.",
+  "tokens": [
+    {
+      "surface": "ועתליה",
+      "gloss": "Atalya"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mama"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "ya Ahazia"
+    },
+    {
+      "surface": "וראתה",
+      "gloss": "amonaki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "מת",
+      "gloss": "akufaki"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "mwana na ye"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "ayaki"
+    },
+    {
+      "surface": "ותאבד",
+      "gloss": "abomaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mobimba mbota"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mobimba"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mbota"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "ya bokonzi"
+    }
+  ],
+  "timestamp": "2026-09-03T19:04:33.444435408Z",
+  "model": "glm-5.3"
+}

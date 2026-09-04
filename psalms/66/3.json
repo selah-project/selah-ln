@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 66:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 66,
+  "translation": "Boloba na Elohim: Mbeba misala na yo nde ezali! Na bomingi ya nguya na yo, banguna na yo bakoloba lokuta epai na yo.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Boloba"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "na Elohim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Mbeba"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "ezali"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "misala na yo"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "Na bomingi"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "ya nguya na yo"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "bakoloba lokuta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "epai na yo"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "banguna na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:15:36.081840154Z",
+  "model": "glm-5.3"
+}

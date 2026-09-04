@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 77:12",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 77,
+  "translation": "Nakokanisa misala ya Ya; mpo nakokanisa makambo na yo ya kokamwisa ya kala",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "nakokanisa"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "misala"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ya Ya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "nakokanisa"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "ya kala"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "makambo na yo ya kokamwisa"
+    }
+  ],
+  "timestamp": "2026-09-03T21:18:57.102009872Z",
+  "model": "glm-5.3"
+}

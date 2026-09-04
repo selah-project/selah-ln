@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 3:24",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Adonai Yawe, yo obandaki kolakisa mosali na yo ⟨את⟩ monene na yo mpe ⟨את⟩ loboko na yo ya nguya: nani ⟨nde⟩ azali El kati na likolo mpe na mabele, oyo asalaka ndenge misala na yo mpe ndenge nguya na yo?",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "החלות",
+      "gloss": "obandaki"
+    },
+    {
+      "surface": "להראות",
+      "gloss": "kolakisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mosali na yo"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mosali na yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "monene na yo"
+    },
+    {
+      "surface": "גדלך",
+      "gloss": "monene na yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "loboko na yo"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "loboko na yo"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "ya nguya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "מי",
+      "gloss": "nani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "kati na likolo"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "mpe na mabele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "asalaka"
+    },
+    {
+      "surface": "כמעשיך",
+      "gloss": "ndenge misala na yo"
+    },
+    {
+      "surface": "וככגבורתך",
+      "gloss": "mpe ndenge nguya na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T23:18:21.333953702Z",
+  "model": "glm-5.3"
+}

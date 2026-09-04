@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 135:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 135,
+  "translation": "Atindaki bilembo mpe makambo ya kokamwa na kati ya Mitsraim, na Parao mpe na basaleli na ye nyonso.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Atindaki"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "bilembo"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "mpe makambo ya kokamwa"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "na kati ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "na Parao"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "mpe na nyonso"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "basaleli na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:33:28.772784100Z",
+  "model": "glm-5.3"
+}

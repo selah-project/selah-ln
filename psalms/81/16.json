@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 81:16",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 81,
+  "translation": "Baboyi Yawe bakolaka boyokani epai na ye, mpe ntango na bango ezala ⟨kino⟩ seko.",
+  "tokens": [
+    {
+      "surface": "משנאי",
+      "gloss": "Baboyi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "bakolaka boyokani"
+    },
+    {
+      "surface": "לו",
+      "gloss": "epai na ye"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mpe ... ezala"
+    },
+    {
+      "surface": "עתם",
+      "gloss": "ntango na bango"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "⟨kino⟩ seko"
+    }
+  ],
+  "timestamp": "2026-09-03T21:20:39.658436464Z",
+  "model": "glm-5.3"
+}

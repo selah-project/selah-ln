@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 1:5",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe asasi ⟨את⟩ mwana wa ngombe liboso ya Yawe, mpe bana ya Aharon bapriste bapesaki ⟨את⟩ makasi, mpe bakundolaki ⟨את⟩ makasi likolo ya autelo na zingazinga, oyo ezali na monoko ya tente ya bokutani.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "mpe asasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwana wa ngombe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ngombe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "mpe bapesaki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "bapriste"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makasi"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "makasi"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "mpe bakundolaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makasi"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "makasi"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "autelo"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "na zingazinga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "monoko ya"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tente"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "bokutani"
+    }
+  ],
+  "timestamp": "2026-09-03T16:39:25.453731839Z",
+  "model": "glm-5.3"
+}

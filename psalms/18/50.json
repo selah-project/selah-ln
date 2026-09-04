@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 18:50",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Na yango wana nakotondisa yo, Yawe, kati ya bikolo, mpe nakoyemba na nkombo na yo.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כן",
+      "gloss": "yango wana"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "nakotondisa yo"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "kati ya bikolo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ולשמך",
+      "gloss": "mpe na nkombo na yo"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "nakoyemba"
+    }
+  ],
+  "timestamp": "2026-09-03T21:04:00.460708370Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 10:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Maloba mabe monoko na ye ejali na ⟨yango⟩, mpe kosi mpe bonyongo; nse ya lombe na ye mpasi mpe mabe.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "maloba mabe"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "monoko na ye"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ejali na"
+    },
+    {
+      "surface": "ומרמות",
+      "gloss": "mpe kosi"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "mpe bonyongo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "nse"
+    },
+    {
+      "surface": "לשונו",
+      "gloss": "lombe na ye"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "mpasi"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "mpe mabe"
+    }
+  ],
+  "timestamp": "2026-09-03T21:02:33.710467323Z",
+  "model": "glm-5.3"
+}

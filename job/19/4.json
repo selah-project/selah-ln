@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 19:4",
+  "book": "job",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Mpe ata ya solo nabungi, na ngai ⟨את⟩ etikali bobungi na ngai.",
+  "tokens": [
+    {
+      "surface": "ואף",
+      "gloss": "mpe ata"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "ya solo"
+    },
+    {
+      "surface": "שגיתי",
+      "gloss": "nabungi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "na ngai"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "etikali"
+    },
+    {
+      "surface": "משוגתי",
+      "gloss": "bobungi na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:56:51.968555560Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 36:10",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 36,
+  "translation": "Mpe asangisaki ⟨את⟩ ba-yeria ntano, moko na moko, mpe ba-yeria ntano asangisaki moko na moko.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "mpe asangisaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ba-yeria ntano"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ntano"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "ba-yeria"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "moko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "moko"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "mpe ntano"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "ba-yeria"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "asangisaki"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "moko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "moko"
+    }
+  ],
+  "timestamp": "2026-09-03T16:36:32.725977944Z",
+  "model": "glm-5.3"
+}

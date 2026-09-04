@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 13:6",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Mpe batoi ya Israel bamonaki ete bazali na pasi, mpo ete bato banyokamaki; mpe bato babombaki bangomba, na bikwete, na mabanga, na bisika ya minene, mpe na bilibulu.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Mpe batoi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "bamonaki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "צר",
+      "gloss": "pasi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "banyokamaki"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "ויתחבאו",
+      "gloss": "mpe babombaki"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "במערות",
+      "gloss": "na bangomba"
+    },
+    {
+      "surface": "ובחוחים",
+      "gloss": "na bikwete"
+    },
+    {
+      "surface": "ובסלעים",
+      "gloss": "na mabanga"
+    },
+    {
+      "surface": "ובצרחים",
+      "gloss": "na bisika ya minene"
+    },
+    {
+      "surface": "ובבורות",
+      "gloss": "mpe na bilibulu"
+    }
+  ],
+  "timestamp": "2026-09-03T18:13:29.412162736Z",
+  "model": "glm-5.3"
+}

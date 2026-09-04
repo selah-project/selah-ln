@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 1:16",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpo makolo na bango mazali koluka na mabe, mpe bazali na mbangu mpo na kopanza makila.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "makolo na bango"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "na mabe"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "mazali koluka"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "mpe bazali na mbangu"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "mpo na kopanza"
+    },
+    {
+      "surface": "דם",
+      "gloss": "makila"
+    }
+  ],
+  "timestamp": "2026-09-03T21:37:11.863239452Z",
+  "model": "glm-5.3"
+}

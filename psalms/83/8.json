@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 83:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 83,
+  "translation": "Gebal mpe Amon mpe Amalek, Peleshet elongo na bafandi ya Tsor.",
+  "tokens": [
+    {
+      "surface": "גבל",
+      "gloss": "Gebal"
+    },
+    {
+      "surface": "ועמון",
+      "gloss": "mpe Amon"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "mpe Amalek"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Peleshet"
+    },
+    {
+      "surface": "עם",
+      "gloss": "elongo na"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "bafandi"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ya Tsor"
+    }
+  ],
+  "timestamp": "2026-09-03T21:20:57.332851598Z",
+  "model": "glm-5.3"
+}

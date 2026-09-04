@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 110:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 110,
+  "translation": "Adonai azali na loboko na yo ya mobali; abukaki bakonzi na mokolo ya likebi na ye.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "loboko na yo ya mobali"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "abukaki"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na mokolo ya"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "likebi na ye"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "bakonzi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:29:30.772868233Z",
+  "model": "glm-5.3"
+}

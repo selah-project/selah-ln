@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 73:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 73,
+  "translation": "Yango wana bato na Yawe bazongaka awa, mpe mai ya bosei bobomélamaka na bango.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Yango wana"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "bazongisaka"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bato na Yawe"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "awa"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "mpe mai"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ya bosei"
+    },
+    {
+      "surface": "ימצו",
+      "gloss": "bobomélami"
+    },
+    {
+      "surface": "למו",
+      "gloss": "na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:18:27.871716545Z",
+  "model": "glm-5.3"
+}

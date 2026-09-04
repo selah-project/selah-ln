@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 10:22",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Bana ya Shem: Elam, mpe Ashur, mpe Arpakshad, mpe Lud, mpe Aram.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Bana"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Elam"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "mpe Ashur"
+    },
+    {
+      "surface": "וארפכשד",
+      "gloss": "mpe Arpakshad"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "mpe Lud"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "mpe Aram"
+    }
+  ],
+  "timestamp": "2026-09-03T15:48:51.568100924Z",
+  "model": "glm-5.3"
+}

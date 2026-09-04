@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 34:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 34,
+  "translation": "Nalukaki ⟨את⟩ Yawe, mpe ayanolaki ngai, mpe alongisaki ngai na babangi na ngai nyonso.",
+  "tokens": [
+    {
+      "surface": "דרשתי",
+      "gloss": "nalukaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "mpe ayanolaki ngai"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "mpe na nyonso ya"
+    },
+    {
+      "surface": "מגורותי",
+      "gloss": "babangi na ngai"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "alongisaki ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:08:08.146751717Z",
+  "model": "glm-5.3"
+}

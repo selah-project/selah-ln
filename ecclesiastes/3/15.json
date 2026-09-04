@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 3:15",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Oyo ezalaki kala, yango nde ezali; mpe oyo ekokoka kozala, ezalaki kala; mpe Elohim alyoki ⟨את⟩ oyo elekaki.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "ezalaki"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "kala"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yango nde ezali"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "mpe oyo"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ekokoka kozala"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "kala"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ezalaki"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "mpe Elohim"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "alyoki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oyo elekaki"
+    },
+    {
+      "surface": "נרדף",
+      "gloss": "oyo elekaki"
+    }
+  ],
+  "timestamp": "2026-09-03T23:38:25.289529738Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 31:18",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 31,
+  "translation": "Yawe, tikala ngai na soni te, mpo nakengeli yo; babubi bazala na soni, batiki koloba na Sheol.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "tikala ngai na soni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "nakengeli yo"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "bazala na soni"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "babubi"
+    },
+    {
+      "surface": "ידמו",
+      "gloss": "batiki koloba"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "na Sheol"
+    }
+  ],
+  "timestamp": "2026-09-03T21:06:33.968222604Z",
+  "model": "glm-5.3"
+}

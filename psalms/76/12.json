@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 76:12",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 76,
+  "translation": "Bolaka mpe bofuta epai ya Yawe Elohim na bino, bino nyonso oyo bozali pembeni na yye; bakomema maloko epai ya oyo-azali-kobangisama.",
+  "tokens": [
+    {
+      "surface": "נדרו",
+      "gloss": "Bolaka"
+    },
+    {
+      "surface": "ושלמו",
+      "gloss": "mpe bofuta"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "epai ya Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim na bino"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "oyo bozali pembeni na yye"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "bakomema"
+    },
+    {
+      "surface": "שי",
+      "gloss": "maloko"
+    },
+    {
+      "surface": "למורא",
+      "gloss": "epai ya oyo-azali-kobangisama"
+    }
+  ],
+  "timestamp": "2026-09-03T21:18:36.815553759Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 1:1",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Maloba ya Kohelet, mwana wa David, mokonzi na Yerushalaim.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Maloba"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Kohelet"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "na Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-09-03T22:13:04.381668813Z",
+  "model": "glm-5.3"
+}

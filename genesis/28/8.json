@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 28:8",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 28,
+  "translation": "mpe Esav amonaki ete bana basi ya Kenaan bazali mabe na miso ya Yitshak tata na ye.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "mpe amonaki"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "bazali mabe"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "bana basi ya"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "na miso ya"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "tata na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T15:59:23.694408843Z",
+  "model": "glm-5.3"
+}

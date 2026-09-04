@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 13:14",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Mpe sanduku ya Elohim etikalaki elongo na ndako ya Obed-Edom, na ndako na ye, sanzo misato; mpe Yawe apambolaki ⟨את⟩ ndako ya Obed-Edom mpe ⟨את⟩ nyonso oyo azalaki na yango.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "mpe etikalaki"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduku"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "elongo na"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Obed"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "na ndako na ye"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "misato"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "sanzo"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "mpe apambolaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndako"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Obed"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "azalaki na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T22:45:39.743361720Z",
+  "model": "glm-5.3"
+}

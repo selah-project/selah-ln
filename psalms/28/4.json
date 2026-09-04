@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 28:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 28,
+  "translation": "Pesa bango lokola misala na bango mpe lokola mabe ya milulu na bango; lokola mosala ya maboko na bango pesa bango; zongisa lipai na bango epai na bango.",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "Pesa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bango"
+    },
+    {
+      "surface": "כפעלם",
+      "gloss": "lokola misala na bango"
+    },
+    {
+      "surface": "וכרע",
+      "gloss": "mpe lokola mabe"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "ya milulu na bango"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "lokola mosala"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ya maboko na bango"
+    },
+    {
+      "surface": "תן",
+      "gloss": "pesa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bango"
+    },
+    {
+      "surface": "השב",
+      "gloss": "Zongisa"
+    },
+    {
+      "surface": "גמולם",
+      "gloss": "lipai na bango"
+    },
+    {
+      "surface": "להם",
+      "gloss": "epai na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:06:55.770646512Z",
+  "model": "glm-5.3"
+}

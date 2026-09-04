@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 3:2",
+  "book": "micah",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Baboyi ya bolamu, mpe balingi mabe; babotoli ya liputo na bango uto na bango, mpe mosolo na bango uto na mikuwa na bango.",
+  "tokens": [
+    {
+      "surface": "שנאי",
+      "gloss": "Baboyi"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bolamu"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "mpe balingi"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "גזלי",
+      "gloss": "babotoli"
+    },
+    {
+      "surface": "עורם",
+      "gloss": "liputo na bango"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "uto na bango"
+    },
+    {
+      "surface": "ושארם",
+      "gloss": "mpe mosolo na bango"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "uto na"
+    },
+    {
+      "surface": "עצמותם",
+      "gloss": "mikuwa na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T20:48:09.369463862Z",
+  "model": "glm-5.3"
+}

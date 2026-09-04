@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 32:2",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 32,
+  "translation": "Mpe Yaakov akendaki na nzela na ye, mpe batindami ya Elohim bakutanaki na ye.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "Mpe Yaakov"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "akendaki"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "na nzela na ye"
+    },
+    {
+      "surface": "ויפגעו",
+      "gloss": "mpe bakutanaki"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "batindami ya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-03T16:02:33.613410234Z",
+  "model": "glm-5.3"
+}

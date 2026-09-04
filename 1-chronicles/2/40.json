@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 2:40",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe Elasaha abotaki ⟨את⟩ Sismai, mpe Sismai abotaki ⟨את⟩ Shalum.",
+  "tokens": [
+    {
+      "surface": "ואלעשה",
+      "gloss": "Mpe Elasaha"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "abotaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sismai"
+    },
+    {
+      "surface": "ססמי",
+      "gloss": "Sismai"
+    },
+    {
+      "surface": "וססמי",
+      "gloss": "mpe Sismai"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "abotaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shalum"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shalum"
+    }
+  ],
+  "timestamp": "2026-09-03T22:39:50.101879173Z",
+  "model": "glm-5.3"
+}

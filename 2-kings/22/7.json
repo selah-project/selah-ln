@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 22:7",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Kaka mbongo oyo epesami na maboko na bango, bakokanisa ⟨את⟩ bango te, mpo na bosolo bazali kosala.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "kaka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "bakokanisa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bango",
+      "marks": "bango"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "mbongo"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "opesami"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "maboko na bango"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo na"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "bosolo"
+    },
+    {
+      "surface": "הם",
+      "gloss": "bango"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "bazali kosala"
+    }
+  ],
+  "timestamp": "2026-09-03T19:10:15.069375371Z",
+  "model": "glm-5.3"
+}

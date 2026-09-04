@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 137:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 137,
+  "translation": "Abali oyo akangaka mpe awetaka ⟨את⟩ bana miké na yo likolo ya libanga.",
+  "tokens": [
+    {
+      "surface": "אַשְׁרֵי",
+      "gloss": "Abali"
+    },
+    {
+      "surface": "שֶׁיֹּאחֵז",
+      "gloss": "oyo akangaka"
+    },
+    {
+      "surface": "וְנִפֵּץ",
+      "gloss": "mpe awetaka"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "bana miké na yo"
+    },
+    {
+      "surface": "עֹלָלַיִךְ",
+      "gloss": "bana miké na yo"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "הַסָּלַע",
+      "gloss": "libanga"
+    }
+  ],
+  "timestamp": "2026-09-03T21:34:15.696466833Z",
+  "model": "glm-5.3"
+}

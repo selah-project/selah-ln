@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 105:29",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 105,
+  "translation": "Abongolaki ⟨את⟩ mai na bango na makila, mpe abomaki ⟨את⟩ mbisi na bango.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "abongolaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mai na bango"
+    },
+    {
+      "surface": "מימיהם",
+      "gloss": "mai na bango"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "na makila"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "mpe abomaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbisi na bango"
+    },
+    {
+      "surface": "דגתם",
+      "gloss": "mbisi na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:28:04.590737991Z",
+  "model": "glm-5.3"
+}

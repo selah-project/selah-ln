@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 96:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 96,
+  "translation": "Ete Yawe azali monene mpe akumisami mingi; azali kobangisa likolo ya banzambe nyonso.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ete"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "monene"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "mpe akumisami"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mingi"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "azali kobangisa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "(ye)"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "banzambe"
+    }
+  ],
+  "timestamp": "2026-09-03T21:24:31.576401751Z",
+  "model": "glm-5.3"
+}

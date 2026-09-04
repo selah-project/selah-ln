@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 59:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 59,
+  "translation": "Bobombela ngai uta na banguna na ngai, Elohim na ngai; uta na baye bazali kolinga kukwela ngai, kotya ngai na esika ya makasi.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "Bobombela ngai"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "uta na banguna na ngai"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim na ngai"
+    },
+    {
+      "surface": "ממתקוממי",
+      "gloss": "uta na baye bazali kolinga kukwela ngai"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "kotya ngai na esika ya makasi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:14:40.496746385Z",
+  "model": "glm-5.3"
+}

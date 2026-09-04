@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 89:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 89,
+  "translation": "Likolo kosanzola mabelé ma yo, Yawe, mpe bondimi na yo kati na lisanga ya basantu.",
+  "tokens": [
+    {
+      "surface": "ויודו",
+      "gloss": "kosanzola"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "Likolo"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "mabelé ma yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אף",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "bondimi na yo"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "kati na lisanga"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ya basantu"
+    }
+  ],
+  "timestamp": "2026-09-03T21:22:41.670230817Z",
+  "model": "glm-5.3"
+}

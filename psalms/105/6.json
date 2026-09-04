@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 105:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 105,
+  "translation": "Libota ya Avraham mokombo na ye, bana ya Yaakov, baponi na ye.",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "Libota"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ya Avraham"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "mokombo na ye"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ya Yaakov"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "baponi na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:27:13.560465828Z",
+  "model": "glm-5.3"
+}

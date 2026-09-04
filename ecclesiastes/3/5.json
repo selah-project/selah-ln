@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 3:5",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Ntango ya kobwaka mabanga, mpe ntango ya kosangisa mabanga; ntango ya kosolola, mpe ntango ya kozanga kosolola.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "Ntango"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "ya kobwaka"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "mabanga"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "mpe ntango"
+    },
+    {
+      "surface": "כנוס",
+      "gloss": "ya kosangisa"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "mabanga"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ntango"
+    },
+    {
+      "surface": "לחבוק",
+      "gloss": "ya kosolola"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "mpe ntango"
+    },
+    {
+      "surface": "לרחק",
+      "gloss": "ya kozanga"
+    },
+    {
+      "surface": "מחבק",
+      "gloss": "kosolola"
+    }
+  ],
+  "timestamp": "2026-09-03T22:12:38.951099347Z",
+  "model": "glm-5.3"
+}

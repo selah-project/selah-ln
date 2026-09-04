@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 28:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 28,
+  "translation": "Mpo bayebaki te misala ya Yawe, mpe na mosala ya maboko na yango; abebisaki bango mpe abongisaki bango te.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "bayebaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "misala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mpe na"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "mosala"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "maboko na yango"
+    },
+    {
+      "surface": "יהרסם",
+      "gloss": "abebisaki bango"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "יבנם",
+      "gloss": "abongisaki bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:06:24.402135679Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 24:4",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "Mpe mpe makila ya moto oyo azangaki likebi oyo akundolaki; mpe atyaki ⟨את⟩ Yerushalaim etala na makila ya bopeto; mpe Yawe andimaki te kolimbola.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Mpe mpe"
+    },
+    {
+      "surface": "דם",
+      "gloss": "makila"
+    },
+    {
+      "surface": "הנקי",
+      "gloss": "ya moto oyo azangaki likebi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "akundolaki"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "mpe atyaki etala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalaim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "דם",
+      "gloss": "na makila"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "ya bopeto"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe ... te"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "andimaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לסלח",
+      "gloss": "kolimbola"
+    }
+  ],
+  "timestamp": "2026-09-03T19:12:17.190227183Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 34:4",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 34,
+  "translation": "Mpe Shekem alobaki na Hamora tata na ye, alobaka ete: Ntua ngai mwana mwasi yango oyo lokola mwasi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamora"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "tata na ye"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "alobaka ete"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Ntua"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwana mwasi yango oyo"
+    },
+    {
+      "surface": "הילדה",
+      "gloss": "mwana mwasi yango"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "lokola mwasi"
+    }
+  ],
+  "timestamp": "2026-09-03T16:03:53.563292444Z",
+  "model": "glm-5.3"
+}

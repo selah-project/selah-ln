@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 40:11",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 40,
+  "translation": "Bosembo na yo nabombaki te na kati ya motema na ngai; bondimi na yo mpe bomalisami na yo nalobaki; nakombaki te hesed na yo (bolingo ya bondimi) mpe bosembo na yo, na lisanga monene.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "bosembo na yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "כסיתי",
+      "gloss": "nabombaki"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "na kati ya"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "motema na ngai"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "bondimi na yo"
+    },
+    {
+      "surface": "ותשועתך",
+      "gloss": "mpe bomalisami na yo"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nalobaki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "כחדתי",
+      "gloss": "nakombaki"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed na yo"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "mpe bosembo na yo"
+    },
+    {
+      "surface": "לקהל",
+      "gloss": "na lisanga"
+    },
+    {
+      "surface": "רב",
+      "gloss": "monene"
+    }
+  ],
+  "timestamp": "2026-09-03T21:10:06.853608617Z",
+  "model": "glm-5.3"
+}

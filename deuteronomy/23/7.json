@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 23:7",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Bokotala te bosembo na bango mpe boboto na bango, mikolo na bino nyonso, ntango nyonso.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תדרש",
+      "gloss": "Bokotala"
+    },
+    {
+      "surface": "שלמם",
+      "gloss": "bosembo na bango"
+    },
+    {
+      "surface": "וטבתם",
+      "gloss": "mpe boboto na bango"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "mikolo na bino"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ntango nyonso"
+    }
+  ],
+  "timestamp": "2026-09-03T17:35:38.729045880Z",
+  "model": "glm-5.3"
+}

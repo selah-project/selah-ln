@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 5:10",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Mpe asalaki ⟨את⟩ ya mibale sacrifice ya kokaka, ndenge ebongami; mpe kohen atombolaki mpo na ye masumu na ye oyo asalaki, mpe alimbisamaki.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "ya mibale"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ya mibale"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "asalaki"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "sacrifice ya kokaka"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "ndenge ebongami"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "atombolaki"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mpo na ye"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "masumu na ye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "asalaki"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "alimbisamaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T16:42:34.162434965Z",
+  "model": "glm-5.3"
+}

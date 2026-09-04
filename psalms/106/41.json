@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 106:41",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 106,
+  "translation": "Mpe atiaki bango na maboko ya bikolo, mpe baoyo bazalaki na mabe na bango bakambaki bango.",
+  "tokens": [
+    {
+      "surface": "ויתנם",
+      "gloss": "Mpe atiaki bango"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "na maboko"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ya bikolo"
+    },
+    {
+      "surface": "וימשלו",
+      "gloss": "mpe bakambaki"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "bango"
+    },
+    {
+      "surface": "שנאיהם",
+      "gloss": "baoyo bazalaki na mabe na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:28:45.728226099Z",
+  "model": "glm-5.3"
+}

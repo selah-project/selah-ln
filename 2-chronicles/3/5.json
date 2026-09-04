@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 3:5",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe ⟨את⟩ ndako ya monene akangaki na nti ya banzete, mpe akangaki yango na zahabu ya malamu, mpe atyaki likolo na yango matemare mpe machene.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "ndako ya monene"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "ya monene"
+    },
+    {
+      "surface": "חפה",
+      "gloss": "akangaki"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "na nti"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "ya banzete"
+    },
+    {
+      "surface": "ויחפהו",
+      "gloss": "mpe akangaki yango"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "na zahabu"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ya malamu"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "mpe atyaki likolo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "תמרים",
+      "gloss": "matemare"
+    },
+    {
+      "surface": "ושרשרות",
+      "gloss": "mpe machene"
+    }
+  ],
+  "timestamp": "2026-09-03T22:55:20.222510232Z",
+  "model": "glm-5.3"
+}

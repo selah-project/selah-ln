@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 31:4",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 31,
+  "translation": "Mpe Yaakov atindaki mpe abengaki Rahele mpe Lea na shanga, epai ya bikuku na ye.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "atindaki"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "mpe abengaki"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "Rahele"
+    },
+    {
+      "surface": "וללאה",
+      "gloss": "mpe Lea"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "na shanga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "bikuku na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T16:01:32.039360648Z",
+  "model": "glm-5.3"
+}

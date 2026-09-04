@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 2:10",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Emim basalaki kala na yango, ekolo monene mpe mingi mpe ya molai, lokola Baanakim.",
+  "tokens": [
+    {
+      "surface": "האמים",
+      "gloss": "Emim"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "kala"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "basalaki"
+    },
+    {
+      "surface": "בה",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ekolo"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "monene"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "mpe mingi"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "mpe ya molai"
+    },
+    {
+      "surface": "כענקים",
+      "gloss": "lokola Baanakim"
+    }
+  ],
+  "timestamp": "2026-09-03T17:22:32.971289145Z",
+  "model": "glm-5.3"
+}

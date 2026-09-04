@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 65:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 65,
+  "translation": "Asemakisaka bangomba na makasi na ye, akangamaki na nguya.",
+  "tokens": [
+    {
+      "surface": "מכין",
+      "gloss": "asemakisaka"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "bangomba"
+    },
+    {
+      "surface": "בכחו",
+      "gloss": "na makasi na ye"
+    },
+    {
+      "surface": "נאזר",
+      "gloss": "akangamaki"
+    },
+    {
+      "surface": "בגבורה",
+      "gloss": "na nguya"
+    }
+  ],
+  "timestamp": "2026-09-03T21:16:03.623141348Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 8:20",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "mpe tokokala mpe biso lokola bikolo nyonso, mpe mokonzi na biso akozala kosambisa biso, mpe akobima liboso na biso, mpe akolwana ⟨את⟩ bitumba na biso.",
+  "tokens": [
+    {
+      "surface": "והיינו",
+      "gloss": "mpe tokokala"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "biso"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "lokola nyonso"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bikolo"
+    },
+    {
+      "surface": "ושפטנו",
+      "gloss": "mpe akozala kosambisa biso"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "mokonzi na biso"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "mpe akobima"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "liboso na biso"
+    },
+    {
+      "surface": "ונלחם",
+      "gloss": "mpe akolwana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bitumba na biso"
+    },
+    {
+      "surface": "מלחמתנו",
+      "gloss": "bitumba na biso"
+    }
+  ],
+  "timestamp": "2026-09-04T00:18:44.754762807Z",
+  "model": "glm-5.3"
+}

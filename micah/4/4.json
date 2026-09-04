@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 4:4",
+  "book": "micah",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe bakofanda, moto nyonso na nse ya nzete na ye ya bingila mpe na nse ya nzete na ye ya bikwe, mpe ezali te mokweisi; jaki monoko ya Yawe Tsebaot alobaki.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "mpe bakofanda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto nyonso"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "na nse ya"
+    },
+    {
+      "surface": "גפנו",
+      "gloss": "nzete na ye ya bingila"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "mpe na nse ya"
+    },
+    {
+      "surface": "תאנתו",
+      "gloss": "nzete na ye ya bikwe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mpe ezali te"
+    },
+    {
+      "surface": "מחריד",
+      "gloss": "mokweisi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jaki"
+    },
+    {
+      "surface": "פי",
+      "gloss": "monoko ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "alobaki"
+    }
+  ],
+  "timestamp": "2026-09-03T20:49:07.128650868Z",
+  "model": "glm-5.3"
+}

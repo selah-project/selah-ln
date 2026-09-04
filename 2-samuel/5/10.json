@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 5:10",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Mpe David azalaki kokende liboso mpe kokola, mpe Yawe Elohim Tsebaot azalaki na yeye.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "mpe azalaki kokende"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "liboso"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "mpe kokola"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "mpe Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "na yeye"
+    }
+  ],
+  "timestamp": "2026-09-03T18:30:17.917942044Z",
+  "model": "glm-5.3"
+}

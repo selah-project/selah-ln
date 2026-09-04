@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 4:19",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe ⟨את⟩ mafuta na yango mobimba akolongola na kati na yango, mpe akotumba na autelo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mafuta na yango"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mobimba"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "mafuta na yango"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "akolongola"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "na kati na yango"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "mpe akotumba"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "na autelo"
+    }
+  ],
+  "timestamp": "2026-09-03T16:41:55.468128073Z",
+  "model": "glm-5.3"
+}

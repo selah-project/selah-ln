@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 1:10",
+  "book": "job",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Soki te, yo ozali kokanga ye mpe mpo na ndako na ye mpe mpo na nyonso oyo azali na yango pembeni? Misala ya maboko na ye obakaki, mpe banyama na ye epanzanaki na mabele.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "soki te"
+    },
+    {
+      "surface": "את",
+      "gloss": "yo"
+    },
+    {
+      "surface": "שכת",
+      "gloss": "ozali kokanga"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "mpo na ye"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "mpe mpo na"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ndako na ye"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "mpe mpo na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "azali na yango"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "pembeni"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "misala"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ya maboko na ye"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "obakaki"
+    },
+    {
+      "surface": "ומקנהו",
+      "gloss": "mpe banyama na ye"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "epanzanaki"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T21:50:54.868912015Z",
+  "model": "glm-5.3"
+}

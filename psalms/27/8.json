@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 27:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 27,
+  "translation": "Epai na yo motema na ngai alobaki: Boluka elongi na ngai; ⟨את⟩ elongi na yo, Yawe, nakoluka.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Epai na yo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "motema na ngai"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "Boluka"
+    },
+    {
+      "surface": "פני",
+      "gloss": "elongi na ngai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elongi na yo"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "elongi na yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "nakoluka"
+    }
+  ],
+  "timestamp": "2026-09-03T21:06:50.437051828Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 31:9",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 31,
+  "translation": "Bana ya Israel babaki ⟨את⟩ basi ya Midian mpe ⟨את⟩ bana na bango, mpe ⟨את⟩ nyonso banyama na bango, mpe ⟨את⟩ nyonso biloko na bango, mpe ⟨את⟩ nyonso bozwi na bango; bazwaki na bokali.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "babaki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "basi ya Midian"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "basi"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "ya Midian"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bana na bango"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "bana na bango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "nyonso banyama na bango"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "בהמתם",
+      "gloss": "banyama na bango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "nyonso biloko na bango"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "מקנהם",
+      "gloss": "biloko na bango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "nyonso bozwi na bango"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "bozwi na bango"
+    },
+    {
+      "surface": "בזזו",
+      "gloss": "bazwaki na bokali"
+    }
+  ],
+  "timestamp": "2026-09-03T17:19:51.036329419Z",
+  "model": "glm-5.3"
+}

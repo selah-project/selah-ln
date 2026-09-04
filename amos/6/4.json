@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 6:4",
+  "book": "amos",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Baye bali na mitanda ya meno ya nzoku, mpe bazali kolamba na mitanda na bango, mpe bali kolia bamutombi kati na banyama, mpe bandumbu ya ngombe kati na esika ya banyama.",
+  "tokens": [
+    {
+      "surface": "השכבים",
+      "gloss": "Baye bali"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "mitanda"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ya meno ya nzoku"
+    },
+    {
+      "surface": "וסרחים",
+      "gloss": "mpe bazali kolamba"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ערשותם",
+      "gloss": "mitanda na bango"
+    },
+    {
+      "surface": "ואכלים",
+      "gloss": "mpe bali kolia"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "bamutombi"
+    },
+    {
+      "surface": "מצאן",
+      "gloss": "kati na banyama"
+    },
+    {
+      "surface": "ועגלים",
+      "gloss": "mpe bandumbu ya ngombe"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "kati na"
+    },
+    {
+      "surface": "מרבק",
+      "gloss": "esika ya banyama"
+    }
+  ],
+  "timestamp": "2026-09-03T20:45:04.236190762Z",
+  "model": "glm-5.3"
+}

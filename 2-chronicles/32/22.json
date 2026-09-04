@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 32:22",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 32,
+  "translation": "Mpe Yawe alongisaki ⟨את⟩ Yehizkiyahu mpe ⟨את⟩ babandi ya Yerushalaim na loboko ya Sancheribu, mokonzi wa Ashur, mpe na loboko ya banso, mpe akambaki bango na bopanzani.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "alongisaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehizkiyahu"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Yehizkiyahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "babandi ya Yerushalaim"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "babandi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ya Yerushalaim"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "na loboko ya"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "Sancheribu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "wa Ashur"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "mpe na loboko ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "banso"
+    },
+    {
+      "surface": "וינהלם",
+      "gloss": "akambaki bango"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "na bopanzani"
+    }
+  ],
+  "timestamp": "2026-09-03T23:08:02.916833071Z",
+  "model": "glm-5.3"
+}

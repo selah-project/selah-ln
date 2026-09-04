@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 59:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 59,
+  "translation": "Nguya na ye, nakokengela yo, mpo Elohim azali esika ya bobateli na ngai.",
+  "tokens": [
+    {
+      "surface": "עזו",
+      "gloss": "Nguya na ye"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "epai na yo"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "nakokengela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "esika ya bobateli na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:14:54.678828393Z",
+  "model": "glm-5.3"
+}

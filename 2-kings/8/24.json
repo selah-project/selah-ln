@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 8:24",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe Yoram afandaki elongo na bankoko na ye, mpe bakundaki ye elongo na bankoko na ye na mboka ya David; mpe Ahatziahu mwana na ye akomaki mokonzi na esika na ye.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "afandaki"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "Yoram"
+    },
+    {
+      "surface": "עם",
+      "gloss": "elongo na"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "bankoko na ye"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "mpe bakundaki ye"
+    },
+    {
+      "surface": "עם",
+      "gloss": "elongo na"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "bankoko na ye"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "na mboka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ya David"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "mpe akomaki mokonzi"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Ahatziahu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana na ye"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "na esika na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T19:02:18.318241814Z",
+  "model": "glm-5.3"
+}

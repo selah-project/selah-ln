@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 107:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 107,
+  "translation": "Bafandi ya molili mpe ya lilemba ya liwa, bamboyo ya mawa mpe ya sebende,",
+  "tokens": [
+    {
+      "surface": "ישבי",
+      "gloss": "Bafandi"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ya molili"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "mpe ya lilemba ya liwa"
+    },
+    {
+      "surface": "אסירי",
+      "gloss": "bamboyo"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ya mawa"
+    },
+    {
+      "surface": "וברזל",
+      "gloss": "mpe ya sebende"
+    }
+  ],
+  "timestamp": "2026-09-03T21:27:39.224445924Z",
+  "model": "glm-5.3"
+}

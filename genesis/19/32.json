@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 19:32",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Yaka, totisa tato na biso ⟨את⟩ maluvu komela, mpe tokolala elongo na ye, mpe tokobikisa mbuto ya tato na biso.",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "Yaka"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "totisa ... komela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tato na biso"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "tato na biso"
+    },
+    {
+      "surface": "יין",
+      "gloss": "maluvu"
+    },
+    {
+      "surface": "ונשכבה",
+      "gloss": "mpe tokolala"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "elongo na ye"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "mpe tokobikisa"
+    },
+    {
+      "surface": "מאבינו",
+      "gloss": "ya tato na biso"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mbuto"
+    }
+  ],
+  "timestamp": "2026-09-03T15:53:12.161621585Z",
+  "model": "glm-5.3"
+}

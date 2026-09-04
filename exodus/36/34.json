@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 36:34",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 36,
+  "translation": "Mpe alongaki ⟨את⟩ biketo na zahabu, mpe asalaki ⟨את⟩ bafanda na yango ya zahabu, bandako ya mbale, mpe alongaki ⟨את⟩ mbale na zahabu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "biketo"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "biketo"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "alongaki"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zahabu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bafanda na yango"
+    },
+    {
+      "surface": "טבעתם",
+      "gloss": "bafanda na yango"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "asalaki"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zahabu"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "bandako"
+    },
+    {
+      "surface": "לבריחם",
+      "gloss": "ya mbale"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "mpe alongaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbale"
+    },
+    {
+      "surface": "הבריחם",
+      "gloss": "mbale"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zahabu"
+    }
+  ],
+  "timestamp": "2026-09-03T16:36:54.916995114Z",
+  "model": "glm-5.3"
+}

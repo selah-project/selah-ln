@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 8:16",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe azwaki ⟨את⟩ malebele nyonso oyo ezalaki likolo ya minzoto, mpe ⟨את⟩ etando ya likoso, mpe ⟨את⟩ bikela mibale mpe ⟨את⟩ malebele na yango, mpe Moshe anungolaki yango likolo ya autelo.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "azwaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malebele nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "malebele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "minzoto"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "etando ya likoso"
+    },
+    {
+      "surface": "יתרת",
+      "gloss": "etando"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "ya likoso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bikela mibale"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "bikela"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "malebele na yango"
+    },
+    {
+      "surface": "חלבהן",
+      "gloss": "malebele na yango"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "anungolaki"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "autelo"
+    }
+  ],
+  "timestamp": "2026-09-03T16:44:42.908003001Z",
+  "model": "glm-5.3"
+}

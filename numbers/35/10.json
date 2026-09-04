@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 35:10",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 35,
+  "translation": "Loba na bana ya Israel mpe lobela bango ete: soki bino bozali kokata ⟨את⟩ Yarden, na mboka ya Kanaan,",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Loba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "mpe lobela"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "bango"
+    },
+    {
+      "surface": "כי",
+      "gloss": "soki"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "bino"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "bozali kokata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "na mboka ya"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaan"
+    }
+  ],
+  "timestamp": "2026-09-03T17:21:50.520966874Z",
+  "model": "glm-5.3"
+}

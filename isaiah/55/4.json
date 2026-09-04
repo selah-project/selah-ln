@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 55:4",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 55,
+  "translation": "Talá, na pesi ye litatoli mpo na bikolo, mokonzi mpe mopesi-mibeko mpo na bikolo.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Talá"
+    },
+    {
+      "surface": "עד",
+      "gloss": "litatoli"
+    },
+    {
+      "surface": "לאומים",
+      "gloss": "mpo na bikolo"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "na pesi ye"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "ומצוה",
+      "gloss": "mpe mopesi-mibeko"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "mpo na bikolo"
+    }
+  ],
+  "timestamp": "2026-09-03T19:35:08.183064593Z",
+  "model": "glm-5.3"
+}

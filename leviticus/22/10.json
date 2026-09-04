@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 22:10",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Mpe moto ya paya nyonso akolia te eloku ya bosantu; oyo afandi epai ya kohen, mpe mosali ya mbongo, akolia te eloku ya bosantu.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "mpe nyonso"
+    },
+    {
+      "surface": "זר",
+      "gloss": "moto ya paya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "akolia"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "eloku ya bosantu"
+    },
+    {
+      "surface": "תושב",
+      "gloss": "oyo afandi"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "mpe mosali ya mbongo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "akolia"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "eloku ya bosantu"
+    }
+  ],
+  "timestamp": "2026-09-03T16:52:28.745339877Z",
+  "model": "glm-5.3"
+}

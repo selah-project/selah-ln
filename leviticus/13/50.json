@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 13:50",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Mpe kohen amona ⟨את⟩ ebumu, mpe akanga ⟨את⟩ ebumu mikolo sambo.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "Mpe amona"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ebumu"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ebumu"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "mpe akanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ebumu"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ebumu"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sambo ya"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mikolo"
+    }
+  ],
+  "timestamp": "2026-09-03T16:47:46.853834942Z",
+  "model": "glm-5.3"
+}

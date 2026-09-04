@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 119:40",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Talá, nazali kolukaka mibeko nao na motema; na bosolo nayo wumisa ngai.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Talá"
+    },
+    {
+      "surface": "תאבתי",
+      "gloss": "nazali kolukaka"
+    },
+    {
+      "surface": "לפקודיך",
+      "gloss": "mibeko nao"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "na bosolo nayo"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "wumisa ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:30:48.823773131Z",
+  "model": "glm-5.3"
+}

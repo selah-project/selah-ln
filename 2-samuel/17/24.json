@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 17:24",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 17,
+  "translation": "Mpe David ayeaki Mahanaim, mpe Absalom akati ⟨את⟩ Yarden, ye moko mpe nyonso ya bato ya Israel elongo na ye.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Mpe David"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ayeaki"
+    },
+    {
+      "surface": "מחנימה",
+      "gloss": "Mahanaim"
+    },
+    {
+      "surface": "ואבשלם",
+      "gloss": "mpe Absalom"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ye moko"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe nyonso ya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bato"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "elongo na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T18:36:42.748687212Z",
+  "model": "glm-5.3"
+}

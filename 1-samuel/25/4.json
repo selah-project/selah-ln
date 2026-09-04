@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 25:4",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "David ayokaki na etando ete Nabal azali kokata ⟨את⟩ bitoku na ye.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ayokaki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "na etando"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "azali kokata"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bitoku na ye"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "bitoku na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T18:22:11.909972365Z",
+  "model": "glm-5.3"
+}

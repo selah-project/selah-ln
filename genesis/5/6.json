@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 5:6",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Mpe Sete avandaki na bomoi bambula zomi na mitano na nkama moko, mpe abotaki ⟨את⟩ Enosh.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "avandaki na bomoi"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Sete"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "mitano"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "bambula zomi na"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "nkama moko"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "bambula"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "mpe abotaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Enosh"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enosh"
+    }
+  ],
+  "timestamp": "2026-09-03T15:46:10.716269556Z",
+  "model": "glm-5.3"
+}

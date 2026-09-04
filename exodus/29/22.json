@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 29:22",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 29,
+  "translation": "Ozwa mwa mafuta ya ndombo, mpe kingololo, mpe ⟨את⟩ mafuta oyo ezali kokanga ⟨את⟩ misisa, mpe ⟨את⟩ lobe ya foie, mpe ⟨את⟩ rognon mibale, mpe ⟨את⟩ mafuta oyo ezali likolo ya bango, mpe ⟨את⟩ lokasa ya mobali, mpo ete ndombo ya bokundoli nde yango ezali.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "Ozwa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mwa"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ya ndombo"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "והאליה",
+      "gloss": "mpe kingololo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mafuta oyo ezali kokanga misisa"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "oyo ezali kokanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "misisa"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "misisa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "lobe ya foie"
+    },
+    {
+      "surface": "יתרת",
+      "gloss": "lobe"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "ya foie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "rognon mibale"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "rognon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mafuta oyo ezali likolo ya bango"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "ezali likolo ya bango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "lokasa ya mobali"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "lokasa"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "ya mobali"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ndombo"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "ya bokundoli"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nde yango ezali"
+    }
+  ],
+  "timestamp": "2026-09-03T16:31:43.904399708Z",
+  "model": "glm-5.3"
+}

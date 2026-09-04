@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 7:25",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mpe Refah mwana na yango, mpe Reshef, mpe Telah mwana na yango, mpe Tahan mwana na yango.",
+  "tokens": [
+    {
+      "surface": "ורפח",
+      "gloss": "Mpe Refah"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana na yango"
+    },
+    {
+      "surface": "ורשף",
+      "gloss": "mpe Reshef"
+    },
+    {
+      "surface": "ותלח",
+      "gloss": "mpe Telah"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana na yango"
+    },
+    {
+      "surface": "ותחן",
+      "gloss": "mpe Tahan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T22:43:08.455625165Z",
+  "model": "glm-5.3"
+}

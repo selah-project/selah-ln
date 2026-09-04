@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 1:12",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe sikoyo, kende, nazela kopesa yo liteya, mpe bomba ⟨את⟩ bomoi na yo mpe ⟨את⟩ bomoi wa mwana na yo Shelomo.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "mpe sikoyo"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "kende"
+    },
+    {
+      "surface": "איעצך",
+      "gloss": "nazela kopesa yo liteya"
+    },
+    {
+      "surface": "נא",
+      "gloss": "eh"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "liteya"
+    },
+    {
+      "surface": "ומלטי",
+      "gloss": "mpe bomba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bomoi na yo"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "bomoi na yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bomoi wa mwana na yo Shelomo"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "bomoi"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "wa mwana na yo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    }
+  ],
+  "timestamp": "2026-09-03T18:42:17.993650189Z",
+  "model": "glm-5.3"
+}

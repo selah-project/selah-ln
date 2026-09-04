@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 2:11",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Nkombo ya moko ⟨ezali⟩ Pishon; yango nde ezali kozinga ⟨את⟩ ekolo nyonso ya Havila, esika or ezalaka.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Nkombo"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ya moko"
+    },
+    {
+      "surface": "פישון",
+      "gloss": "Pishon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yango"
+    },
+    {
+      "surface": "הסבב",
+      "gloss": "ezali kozinga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ekolo nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ekolo"
+    },
+    {
+      "surface": "החוילה",
+      "gloss": "Havila"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "esika"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "or"
+    }
+  ],
+  "timestamp": "2026-09-03T15:44:16.654394233Z",
+  "model": "glm-5.3"
+}

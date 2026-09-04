@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 105:36",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 105,
+  "translation": "Akubaki mobotami ya liboso nyonso na mabele na bango, ebandeli ya nguya na bango nyonso.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "Akubaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "mobotami ya liboso"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "na mabele na bango"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "ebandeli"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ya ... nyonso"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "nguya na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:27:39.889766179Z",
+  "model": "glm-5.3"
+}

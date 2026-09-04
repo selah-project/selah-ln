@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 10:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Afandaka na kobombama ya bamboka; na bobombi abomaka moto ya bosolo; miso na ye mpo na bapasi azali kotala na bobombi.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "afandaka"
+    },
+    {
+      "surface": "במארב",
+      "gloss": "na kobombama"
+    },
+    {
+      "surface": "חצרים",
+      "gloss": "ya bamboka"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "na bobombi"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "abomaka"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "moto ya bosolo"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "miso na ye"
+    },
+    {
+      "surface": "לחלכה",
+      "gloss": "mpo na bapasi"
+    },
+    {
+      "surface": "יצפנו",
+      "gloss": "azali kotala na bobombi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:02:33.710629578Z",
+  "model": "glm-5.3"
+}

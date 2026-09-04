@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "amos 5:26",
+  "book": "amos",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Mpe boyambaki ⟨את⟩ Sikut mokonzi na bino, mpe ⟨את⟩ Kiun bikélé na bino, nyota ya banzambe na bino, oyo bosalaki mpo na bino moko.",
+  "tokens": [
+    {
+      "surface": "ונשאתם",
+      "gloss": "mpe boyambaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sikut"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sikut"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "mokonzi na bino"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Kiun"
+    },
+    {
+      "surface": "כיון",
+      "gloss": "Kiun"
+    },
+    {
+      "surface": "צלמיכם",
+      "gloss": "bikélé na bino"
+    },
+    {
+      "surface": "כוכב",
+      "gloss": "nyota"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "banzambe na bino"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "bosalaki"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mpo na bino moko"
+    }
+  ],
+  "timestamp": "2026-09-03T20:45:00.992728972Z",
+  "model": "glm-5.3"
+}

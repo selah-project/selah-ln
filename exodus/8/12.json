@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 8:12",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe Yawe alobaki epai ya Moshe: Loba epai ya Aharon: Tanda ⟨את⟩ baton na yo, mpe beta ⟨את⟩ pombe ya mabele, mpe ekokoma sansi na mabele ya Mitsraim nyonso.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Loba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "Tanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baton na yo"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "baton na yo"
+    },
+    {
+      "surface": "והך",
+      "gloss": "mpe beta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pombe ya mabele"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "pombe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ya mabele"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "mpe ekokoma"
+    },
+    {
+      "surface": "לכנם",
+      "gloss": "sansi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    }
+  ],
+  "timestamp": "2026-09-03T16:17:20.480531842Z",
+  "model": "glm-5.3"
+}

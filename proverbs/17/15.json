@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 17:15",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 17,
+  "translation": "Oyo azali kolakisa ete moto mabe azali sembo, mpe oyo azali kolakisa ete moto sembo azali mabe — bango mibale ezali eloko mabe penza epai ya Yawe.",
+  "tokens": [
+    {
+      "surface": "מצדיק",
+      "gloss": "azali kolakisa ete … azali sembo"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "moto mabe"
+    },
+    {
+      "surface": "ומרשיע",
+      "gloss": "mpe azali kolakisa ete … azali mabe"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "moto sembo"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "eloko mabe penza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "bango"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "mibale"
+    }
+  ],
+  "timestamp": "2026-09-03T21:43:24.160980800Z",
+  "model": "glm-5.3"
+}

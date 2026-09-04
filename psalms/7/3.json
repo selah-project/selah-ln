@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 7:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Soki te, amemaka lokola nkosi bomoi na ngai, akangolaka, mpe mobikisi azali te.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "soki te"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "amemaka"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "lokola nkosi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "bomoi na ngai"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "akangolaka"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mpe ... azali te"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "mobikisi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:00:25.826086576Z",
+  "model": "glm-5.3"
+}

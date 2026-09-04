@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "joshua 21:29",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "⟨את⟩ Yarmut mpe ⟨את⟩ zingazingo na yango, ⟨את⟩ En-Ganim mpe ⟨את⟩ zingazingo na yango; bibande minéi.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarmut"
+    },
+    {
+      "surface": "ירמות",
+      "gloss": "Yarmut"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "zingazingo na yango"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "zingazingo na yango"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "En-Ganim"
+    },
+    {
+      "surface": "עין",
+      "gloss": "En-"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "Ganim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "zingazingo na yango"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "zingazingo na yango"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "bibande"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "minéi"
+    }
+  ],
+  "timestamp": "2026-09-03T17:53:21.669224880Z",
+  "model": "glm-5.3"
+}

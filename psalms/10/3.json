@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 10:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Mpo ete mabe asalaki lokumu likolo ya mposa ya molimo na yango, mpe mokwisi-nzela akumisaka ⟨oyo⟩ Yawe atyaka mabe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo ete"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "asalaki lokumu"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "mposa"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ya molimo na yango"
+    },
+    {
+      "surface": "ובצע",
+      "gloss": "mpe mokwisi-nzela"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "akumisaka"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "atyaka mabe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T21:02:45.169539006Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 42:10",
+  "book": "job",
+  "lang": "ln",
+  "chapter": 42,
+  "translation": "Mpe Yawe azongisaki ⟨את⟩ bomoi ya kala ya Iyob, tango azalaki kolaka mpo na banamu na ye; mpe Yawe abakisaki ⟨את⟩ nyonso oyo ezalaki ya Iyob, na mbala mibale.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "mpe Yawe"
+    },
+    {
+      "surface": "שב",
+      "gloss": "azongisaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bomoi ya kala"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "bomoi ya kala"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ya Iyob"
+    },
+    {
+      "surface": "בהתפללו",
+      "gloss": "tango azalaki kolaka"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "mpo na"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "banamu na ye"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "mpe abakisaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לאיוב",
+      "gloss": "ezalaki ya Iyob"
+    },
+    {
+      "surface": "למשנה",
+      "gloss": "na mbala mibale"
+    }
+  ],
+  "timestamp": "2026-09-03T22:06:28.805186620Z",
+  "model": "glm-5.3"
+}

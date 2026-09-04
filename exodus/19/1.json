@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 19:1",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Na sanza ya misato, ntango bana ya Israel bolaki na mboka ya Mitsraim, na mokolo yango bawayaki na tan ya Sinai.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "Na sanza"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ya misato"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "ntango... bolaki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "na mboka ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na mokolo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yango"
+    },
+    {
+      "surface": "באו",
+      "gloss": "bawayaki"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "tan"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    }
+  ],
+  "timestamp": "2026-09-03T16:22:45.151512915Z",
+  "model": "glm-5.3"
+}

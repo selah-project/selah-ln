@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 136:15",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 136,
+  "translation": "Mpe asukwaki Parao mpe mampinga na yango na Yam Suf, mpo na agele hesed na yango ezali.",
+  "tokens": [
+    {
+      "surface": "וְנִעֵר",
+      "gloss": "asukwaki"
+    },
+    {
+      "surface": "פַּרְעֹה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "וְחֵילוֹ",
+      "gloss": "mpe mampinga na yango"
+    },
+    {
+      "surface": "בְיַם",
+      "gloss": "na Yam"
+    },
+    {
+      "surface": "סוּף",
+      "gloss": "Suf"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "mpo na"
+    },
+    {
+      "surface": "לְעוֹלָם",
+      "gloss": "agele"
+    },
+    {
+      "surface": "חַסְדּוֹ",
+      "gloss": "hesed na yango ezali"
+    }
+  ],
+  "timestamp": "2026-09-03T21:34:25.584986283Z",
+  "model": "glm-5.3"
+}

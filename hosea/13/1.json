@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 13:1",
+  "book": "hosea",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Ntango Efrayim alobaki, bobangi ezalaki; ye ayugamaki na Israel, kasi abubaki na Baal mpe akufaki.",
+  "tokens": [
+    {
+      "surface": "כדבר",
+      "gloss": "Ntango alobaki"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "רתת",
+      "gloss": "bobangi"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ayugamaki"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ye"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "na Israel"
+    },
+    {
+      "surface": "ויאשם",
+      "gloss": "mpe abubaki"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "na Baal"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "mpe akufaki"
+    }
+  ],
+  "timestamp": "2026-09-03T20:40:52.200234861Z",
+  "model": "glm-5.3"
+}

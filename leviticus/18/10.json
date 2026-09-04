@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 18:10",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Bwambe ya mwana mwasi ya mwana na yo to mwana mwasi ya mwana mwasi na yo — bwambe na bango okolakisa te; mpo bwambe na yo bango moko nde ⟨ezali⟩.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "bwambe"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana mwasi"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "mwana na yo"
+    },
+    {
+      "surface": "או",
+      "gloss": "to"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana mwasi"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "mwana mwasi na yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "okolakisa"
+    },
+    {
+      "surface": "ערותן",
+      "gloss": "bwambe na bango"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "bwambe na yo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bango moko"
+    }
+  ],
+  "timestamp": "2026-09-03T16:49:02.011247536Z",
+  "model": "glm-5.3"
+}

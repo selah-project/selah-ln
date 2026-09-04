@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 50:12",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 50,
+  "translation": "Mpe bana na yango basalaki yango boye, ndenge atindaki bango.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "mpe basalaki"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bana na yango"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yango"
+    },
+    {
+      "surface": "כן",
+      "gloss": "boye"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ndenge"
+    },
+    {
+      "surface": "צום",
+      "gloss": "atindaki bango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:13:23.353787719Z",
+  "model": "glm-5.3"
+}

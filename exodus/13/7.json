@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 13:7",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Matsot ekoliama ⟨את⟩ mikwa minsei; mpe chamets ekomonana te epai na yo, mpe seor ekomonana te epai na yo na ndelo na yo nyonso.",
+  "tokens": [
+    {
+      "surface": "מצות",
+      "gloss": "Matsot"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ekoliama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mikwa minsei"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "minsei"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "mikwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ekomonana"
+    },
+    {
+      "surface": "לך",
+      "gloss": "epai na yo"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "chamets"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ekomonana"
+    },
+    {
+      "surface": "לך",
+      "gloss": "epai na yo"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "seor"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na nyonso"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "ndelo na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T16:19:45.849060308Z",
+  "model": "glm-5.3"
+}

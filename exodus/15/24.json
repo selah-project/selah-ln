@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 15:24",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 15,
+  "translation": "Mpe bato basakanaki epai ya Moshe, na koloba: Nini tokomela?",
+  "tokens": [
+    {
+      "surface": "וילנו",
+      "gloss": "basakanaki"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "על",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na koloba"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "נשתה",
+      "gloss": "tokomela"
+    }
+  ],
+  "timestamp": "2026-09-03T23:13:40.380931320Z",
+  "model": "glm-5.3"
+}

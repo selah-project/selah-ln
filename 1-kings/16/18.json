@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 16:18",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Mpe esalamaki, ntango Zimri amonaki ete engumba ekangamaki, akotaki na ndako-monene ya ndako ya mokonzi, mpe asopolaki likolo na ye ⟨את⟩ ndako ya mokonzi na moto, mpe akufaki.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mpe esalamaki"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "ntango amonaki"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "נלכדה",
+      "gloss": "ekangamaki"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "engumba"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "mpe akotaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "ארמון",
+      "gloss": "ndako-monene"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ya ndako"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya mokonzi"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "mpe asopolaki na moto"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "likolo na ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndako ya mokonzi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ya mokonzi"
+    },
+    {
+      "surface": "באש",
+      "gloss": "na moto"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "mpe akufaki"
+    }
+  ],
+  "timestamp": "2026-09-03T18:53:44.080153455Z",
+  "model": "glm-5.3"
+}

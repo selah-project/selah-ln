@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Nkombo malamu ezali likolo ya mafuta ya malamu, mpe mokolo ya liwa likolo ya mokolo ya mbotama na yango.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "malamu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Nkombo"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "likolo ya mafuta"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ya malamu"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "mpe mokolo"
+    },
+    {
+      "surface": "המות",
+      "gloss": "ya liwa"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "likolo ya mokolo"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "ya mbotama na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T22:14:53.066565612Z",
+  "model": "glm-5.3"
+}

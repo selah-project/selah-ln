@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "esther 2:20",
+  "book": "esther",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Ester azalaki te kolakisa mbotama na ye mpe ⟨את⟩ bato na ye, ndenge Mordekai apesaki ye malako; mpe ⟨את⟩ liloba ya Mordekai Ester asalaki, ndenge azalaki na bobateli elongo na ⟨את⟩ ye.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "te"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "מגדת",
+      "gloss": "kolakisa"
+    },
+    {
+      "surface": "מולדתה",
+      "gloss": "mbotama na ye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bato na ye"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "bato na ye"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ndenge"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "apesaki malako"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "liloba"
+    },
+    {
+      "surface": "מאמר",
+      "gloss": "liloba"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "ya Mordekai"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "asalaki"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ndenge"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "azalaki"
+    },
+    {
+      "surface": "באמנה",
+      "gloss": "na bobateli"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "elongo na ⟨את⟩ ye"
+    }
+  ],
+  "timestamp": "2026-09-03T22:17:29.927176132Z",
+  "model": "glm-5.3"
+}

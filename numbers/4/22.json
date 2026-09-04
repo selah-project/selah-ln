@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 4:22",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Kokamba ⟨את⟩ motwe ya bana ya Gershon, bango mpe, na ndako ya batata na bango, na mibanda na bango:",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "Kokamba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motwe"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "motwe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ya"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gershon"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "הם",
+      "gloss": "bango"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "na ndako ya"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "batata na bango"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "na mibanda na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T17:00:09.513750106Z",
+  "model": "glm-5.3"
+}

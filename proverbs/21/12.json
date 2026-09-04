@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 21:12",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Oyo azali na bwanya, moto ya bosemi, atali ndako ya moto mabe: bamabe bebisamaka na mabe.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Oyo azali na bwanya"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "moto ya bosemi"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "atali ndako ya"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "moto mabe"
+    },
+    {
+      "surface": "מסלף",
+      "gloss": "bebisamaka"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bamabe"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "na mabe"
+    }
+  ],
+  "timestamp": "2026-09-03T21:44:33.587151320Z",
+  "model": "glm-5.3"
+}

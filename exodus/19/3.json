@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 19:3",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Mpe Moshe ayambolaki epai ya Elohim, mpe Yawe abengaki ye uta na ngomba, kolobaka: Ndenge oyo oloba na ndako ya Yaakov, mpe ozwa koloba na bana ya Israel.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "Mpe Moshe"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ayambolaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "mpe... abengaki"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uta"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "na ngomba"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kolobaka"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Ndenge oyo"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "oloba"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "na ndako ya"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ותגיד",
+      "gloss": "mpe ozwa koloba"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "na bana ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-03T16:22:45.151899100Z",
+  "model": "glm-5.3"
+}

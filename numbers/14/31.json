@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 14:31",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Mpe bana na bino mike, oyo bolobaki ete bakokoma bofula, mpe nakokotisa ⟨את⟩ bango mpe bakoyeba ⟨את⟩ mabele oyo bopekaki kati na yango.",
+  "tokens": [
+    {
+      "surface": "וטפכם",
+      "gloss": "mpe bana na bino mike"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "bolobaki"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "bofula"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bakokoma"
+    },
+    {
+      "surface": "והביאתי",
+      "gloss": "mpe nakokotisa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bango",
+      "marks": "bango"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "mpe bakoyeba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "מאסתם",
+      "gloss": "bopekaki"
+    },
+    {
+      "surface": "בה",
+      "gloss": "kati na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T17:07:35.343846391Z",
+  "model": "glm-5.3"
+}

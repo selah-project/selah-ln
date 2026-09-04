@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 45:12",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 45,
+  "translation": "Mpe mokonzi akolinga kitoko na yo, mpo ye azali nkolo na yo; mpe dobela ye.",
+  "tokens": [
+    {
+      "surface": "ויתאו",
+      "gloss": "mpe akolinga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "יפיך",
+      "gloss": "kitoko na yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ye"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "nkolo na yo"
+    },
+    {
+      "surface": "והשתחוי",
+      "gloss": "mpe dobela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:11:29.690130239Z",
+  "model": "glm-5.3"
+}

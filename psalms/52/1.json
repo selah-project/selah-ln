@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 52:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 52,
+  "translation": "Epai ya mokambi; mashkil (mokanda ya bokokesi) ya David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Epai ya mokambi"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "mashkil (bokokesi)"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya David"
+    }
+  ],
+  "timestamp": "2026-09-03T21:14:24.805297688Z",
+  "model": "glm-5.3"
+}

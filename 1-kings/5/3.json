@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 5:3",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "bantama zomi oyo bameli babi, mpe bantama ntuku mibale ya bokolongo, mpe bitutu koto zomi; na kuna ya ayil, mpe tsévi, mpe yahmur, mpe babarburi oyo bakabolamaki bilei.",
+  "tokens": [
+    {
+      "surface": "עשרה",
+      "gloss": "zomi"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "bantama"
+    },
+    {
+      "surface": "בראים",
+      "gloss": "oyo bameli babi"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "mpe ntuku mibale"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "bantama"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "ya bokolongo"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "mpe koto zomi"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "bitutu"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "na kuna ya"
+    },
+    {
+      "surface": "מאיל",
+      "gloss": "ayil"
+    },
+    {
+      "surface": "וצבי",
+      "gloss": "mpe tsévi"
+    },
+    {
+      "surface": "ויחמור",
+      "gloss": "mpe yahmur"
+    },
+    {
+      "surface": "וברברים",
+      "gloss": "mpe babarburi"
+    },
+    {
+      "surface": "אבוסים",
+      "gloss": "oyo bakabolamaki bilei"
+    }
+  ],
+  "timestamp": "2026-09-03T18:46:42.073083251Z",
+  "model": "glm-5.3"
+}

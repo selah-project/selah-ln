@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 76:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 76,
+  "translation": "Na bondemi na yo, Elohim ya Yaakov, balalaki butu ya nkuku, mpe bato ya bibele ya bitumba mpe bahasi.",
+  "tokens": [
+    {
+      "surface": "מגערתך",
+      "gloss": "na bondemi na yo"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ya"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "balalaki butu ya nkuku"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "mpe bato ya bibele ya bitumba"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "mpe bahasi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:19:10.573346141Z",
+  "model": "glm-5.3"
+}

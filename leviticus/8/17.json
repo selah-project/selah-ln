@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 8:17",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe ⟨את⟩ ngombe, mpe ⟨את⟩ lipielo na yango, mpe ⟨את⟩ masolo na yango, mpe ⟨את⟩ binyo na yango — asraelaki na moto libanda ya kaa, ndenge Yawe atindaki ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "ngombe"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ngombe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "lipielo na yango"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "lipielo na yango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "masolo na yango"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "masolo na yango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "binyo na yango"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "binyo na yango"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "asraelaki"
+    },
+    {
+      "surface": "באש",
+      "gloss": "na moto"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "libanda"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ya kaa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ndenge"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "atindaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-03T16:44:29.864065542Z",
+  "model": "glm-5.3"
+}

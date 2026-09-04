@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 27:42",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 27,
+  "translation": "Bayebisaki Rivka ⟨את⟩ maloba ya Esav mwana na ye monene; mpe atindaki mpe abengaki Yaakov mwana na ye moke, mpe alobaki na ye: Talá, Esav ndeko na yo azali kokanga mabe mpo na yo, akaluaka koboma yo.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "bayebisaki"
+    },
+    {
+      "surface": "לרבקה",
+      "gloss": "Rivka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maloba"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "maloba"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "mwana na ye"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "monene"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "atindaki"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "abengaki"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "mwana na ye"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "moke"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Talá"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ndeko na yo"
+    },
+    {
+      "surface": "מתנחם",
+      "gloss": "azali kokanga mabe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mpo na yo"
+    },
+    {
+      "surface": "להרגך",
+      "gloss": "akaluaka koboma yo"
+    }
+  ],
+  "timestamp": "2026-09-03T15:58:42.981755942Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 106:31",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 106,
+  "translation": "Mpe etiamaki epai na ye lokola botseno, na mibota mpe mibota, kino seko.",
+  "tokens": [
+    {
+      "surface": "ותחשב",
+      "gloss": "Mpe etiamaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "epai na ye"
+    },
+    {
+      "surface": "לצדקה",
+      "gloss": "lokola botseno"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "na mibota"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "mpe mibota"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "seko"
+    }
+  ],
+  "timestamp": "2026-09-03T21:28:06.078063235Z",
+  "model": "glm-5.3"
+}

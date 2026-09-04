@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 3:2",
+  "book": "jonah",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Tikala, kende na Nineve, mboka monene, mpe benga epai na yango ⟨את⟩ libenga oyo ngai nazali koloba epai na yo.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Tikala"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kende"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Nineve"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mboka"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "monene"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "mpe benga"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "epai na yango"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "libenga"
+    },
+    {
+      "surface": "הקריאה",
+      "gloss": "libenga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nazali koloba"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "epai na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T23:32:47.942607338Z",
+  "model": "glm-5.3"
+}

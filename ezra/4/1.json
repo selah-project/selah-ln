@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezra 4:1",
+  "book": "ezra",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe banguna ya Yehuda mpe ya Binyamin bayokaki ete bana ya bofungoli bazali kotonga tempelo ya Yawe Elohim ya Israel.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "bayokaki"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "banguna"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "mpe ya Binyamin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "ya bofungoli"
+    },
+    {
+      "surface": "בונים",
+      "gloss": "bazali kotonga"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "tempelo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ya Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-03T22:30:15.552463266Z",
+  "model": "glm-5.3"
+}

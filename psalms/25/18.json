@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 25:18",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Tala mpasi na ngai mpe mosala na ngai, mpe longola masumu na ngai nyonso.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "tala"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "mpasi na ngai"
+    },
+    {
+      "surface": "ועמלי",
+      "gloss": "mpe mosala na ngai"
+    },
+    {
+      "surface": "ושא",
+      "gloss": "mpe longola"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "חטאותי",
+      "gloss": "masumu na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:05:52.573119066Z",
+  "model": "glm-5.3"
+}

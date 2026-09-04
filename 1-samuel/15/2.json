@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 15:2",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 15,
+  "translation": "Boyé alobi Yawe Tsebaot: Nakotaki ⟨את⟩ oyo Amalek asalaki na Israel, oyo atyelaki ye na nzela, ntango ye ayaki likolo uta na Mitsraim.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Boyé"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "alobi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "Nakotaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oyo Amalek asalaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "asalaki"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "na Israel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "atyelaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "na nzela"
+    },
+    {
+      "surface": "בעלתו",
+      "gloss": "ntango ye ayaki likolo"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "uta na Mitsraim"
+    }
+  ],
+  "timestamp": "2026-09-03T18:17:35.121369687Z",
+  "model": "glm-5.3"
+}

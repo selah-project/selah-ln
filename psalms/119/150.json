@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 150,
+  "ref": "psalms 119:150",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Balandi ya mabe bakomi pene; bazali mosika na Tora na yo.",
+  "tokens": [
+    {
+      "surface": "קרבו",
+      "gloss": "bakomi pene"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "bandeki"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "ya mabe"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "na Tora na yo"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "bazali mosika"
+    }
+  ],
+  "timestamp": "2026-09-03T21:31:23.634993829Z",
+  "model": "glm-5.3"
+}

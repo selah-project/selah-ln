@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 7:2",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Ezali malamu kokende na ndako ya koma, koleka kokende na ndako ya bolie; mpo nyonso ezali suka ya bato nyonso, mpe oyo azali na bomoi akotya ⟨oyo⟩ na motema na yango.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Ezali malamu"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "kokende"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "ya koma"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "koleka kokende"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "ya bolie"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ezali"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "suka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ya bato"
+    },
+    {
+      "surface": "והחי",
+      "gloss": "mpe oyo azali na bomoi"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "akotya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "motema na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T22:14:53.066853312Z",
+  "model": "glm-5.3"
+}

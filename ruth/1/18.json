@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 1:18",
+  "book": "ruth",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe amonaki ete ye azali makasi kokende ⟨את⟩ ye, mpe atikaki koloba na ye.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "mpe amonaki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "מתאמצת",
+      "gloss": "azali makasi"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ye"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "kokende"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ye"
+    },
+    {
+      "surface": "ותחדל",
+      "gloss": "mpe atikaki"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "koloba"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T22:09:14.154338408Z",
+  "model": "glm-5.3"
+}

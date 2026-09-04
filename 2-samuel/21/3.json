@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 21:3",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "David alobaki epai ya BaGibeon: nini nakosala bino, mpe na nini nakapela, mpe boporisa ⟨את⟩ bofungi ya Yawe?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "הגבענים",
+      "gloss": "BaGibeon"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "nakosala"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bino"
+    },
+    {
+      "surface": "ובמה",
+      "gloss": "mpe na nini"
+    },
+    {
+      "surface": "אכפר",
+      "gloss": "nakapela"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "mpe boporisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bofungi ya Yawe"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "bofungi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T23:23:07.740079113Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 40:1",
+  "book": "job",
+  "lang": "ln",
+  "chapter": 40,
+  "translation": "Yawe ayanaki ⟨את⟩ Iyob mpe alobaki:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ayanaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iyob"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyob"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    }
+  ],
+  "timestamp": "2026-09-03T22:04:19.812595780Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 12:16",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Bango oyo nde balaki ⟨את⟩ Yarden na sanza ya liboso, mpe yango ezali kotondisa likolo ngambo na yango nyonso, mpe babendisaki bokima ⟨את⟩ bilibulu nyonso epai ya monotama ya moi mpe epai ya nsima ya moi.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Bango"
+    },
+    {
+      "surface": "הם",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nde"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "balaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "na sanza"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ya liboso"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "mpe yango"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "ezali kotondisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "גדיתיו",
+      "gloss": "ngambo na yango"
+    },
+    {
+      "surface": "ויבריחו",
+      "gloss": "mpe babendisaki bokima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bilibulu nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "bilibulu"
+    },
+    {
+      "surface": "למזרח",
+      "gloss": "epai ya monotama ya moi"
+    },
+    {
+      "surface": "ולמערב",
+      "gloss": "mpe epai ya nsima ya moi"
+    }
+  ],
+  "timestamp": "2026-09-03T22:46:48.768773833Z",
+  "model": "glm-5.3"
+}

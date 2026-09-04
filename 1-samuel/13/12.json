@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 13:12",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "mpe nalobi: Sikoyo Baflisti bakokita epai ngai na Gilgala, mpe nasengaki te elongi ya Yawe; mpe nakangaki nguya na motema, mpe natombolaki sacrifice ya mopiro.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "mpe nalobi"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "sikoyo"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "bakokita"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Baflisti"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "epai ngai"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "na Gilgala"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "elongi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "חליתי",
+      "gloss": "nasengaki"
+    },
+    {
+      "surface": "ואתאפק",
+      "gloss": "mpe nakangaki nguya na motema"
+    },
+    {
+      "surface": "ואעלה",
+      "gloss": "mpe natombolaki"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "sacrifice ya mopiro"
+    }
+  ],
+  "timestamp": "2026-09-03T18:13:35.712585523Z",
+  "model": "glm-5.3"
+}

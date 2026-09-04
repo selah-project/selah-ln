@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 48:11",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 48,
+  "translation": "Lolenge nkombo na yo, Elohim, bongo lokumu na yo, tii na nsuka ya mabele; bosembo etondi loboko ya yesu na yo.",
+  "tokens": [
+    {
+      "surface": "כשמך",
+      "gloss": "Lolenge nkombo na yo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bongo"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "lokumu na yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "tii na"
+    },
+    {
+      "surface": "קצוי",
+      "gloss": "nsuka"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ya mabele"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "bosembo"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "etondi"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "loboko ya yesu na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:11:38.674965591Z",
+  "model": "glm-5.3"
+}

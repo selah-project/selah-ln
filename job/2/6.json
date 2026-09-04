@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 2:6",
+  "book": "job",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe Yawe alobaki na Satana: Talá, azali na maboko na yo; kaka ⟨את⟩ bomoi na ye batela.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe Yawe alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Satana"
+    },
+    {
+      "surface": "הנו",
+      "gloss": "Talá"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "na maboko na yo"
+    },
+    {
+      "surface": "אך",
+      "gloss": "kaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bomoi na ye"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "bomoi na ye"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "batela"
+    }
+  ],
+  "timestamp": "2026-09-03T21:51:07.030377542Z",
+  "model": "glm-5.3"
+}

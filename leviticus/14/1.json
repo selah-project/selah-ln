@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 14:1",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Yawe alobaki epai ya Moshe, alobaki ete:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "alobaki ete"
+    }
+  ],
+  "timestamp": "2026-09-03T16:46:42.814702738Z",
+  "model": "glm-5.3"
+}

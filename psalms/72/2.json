@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 72:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 72,
+  "translation": "Asambisaka bato na yo na bosembo, mpe bawa na yo na bosambisi.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "asambisaka"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bato na yo"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "na bosembo"
+    },
+    {
+      "surface": "וענייך",
+      "gloss": "mpe bawa na yo"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "na bosambisi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:18:02.103013590Z",
+  "model": "glm-5.3"
+}

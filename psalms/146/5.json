@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 146:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 146,
+  "translation": "Bobola ya oyo azali na Elohim ya Yaakov lokola lisalisi na yango, elikya na yango ezali epai ya Yawe Elohim na yango.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Bobola"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "oyo azali na"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "בעזרו",
+      "gloss": "lokola lisalisi na yango"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "elikya na yango"
+    },
+    {
+      "surface": "על",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:36:53.622802997Z",
+  "model": "glm-5.3"
+}

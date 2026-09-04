@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 104:35",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 104,
+  "translation": "Babebi bamata na mabele, mpe babe bazali lisusu te. Linga-elamu, molimo na ngai, ⟨את⟩ Yawe; bopembwa ⟨na⟩ Ya!",
+  "tokens": [
+    {
+      "surface": "יתמו",
+      "gloss": "bamata"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "babebi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "na"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "mpe babe"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lisusu"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "bazali te"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "linga-elamu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "molimo na ngai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "bopembwa"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    }
+  ],
+  "timestamp": "2026-09-03T21:27:13.049706034Z",
+  "model": "glm-5.3"
+}

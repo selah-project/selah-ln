@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 4:7",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe akomaki mpe atangeli moto ya Elohim; mpe alobaki: Mei, laguna ⟨את⟩ mopetelo, mpe bisusa ⟨את⟩ mikongo na yo; mpe yo mpe bana na yo bokovaka na oyo etikali.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "mpe akomaki"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "mpe atangeli"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "na moto ya"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "mei"
+    },
+    {
+      "surface": "מכרי",
+      "gloss": "laguna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mopetelo"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "mopetelo"
+    },
+    {
+      "surface": "ושלמי",
+      "gloss": "mpe bisusa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mikongo na yo"
+    },
+    {
+      "surface": "נשיכי",
+      "gloss": "mikongo na yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe yo"
+    },
+    {
+      "surface": "בניכי",
+      "gloss": "bana na yo"
+    },
+    {
+      "surface": "תחיי",
+      "gloss": "bokovaka"
+    },
+    {
+      "surface": "בנותר",
+      "gloss": "na oyo etikali"
+    }
+  ],
+  "timestamp": "2026-09-03T19:01:06.875552400Z",
+  "model": "glm-5.3"
+}

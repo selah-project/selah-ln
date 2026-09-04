@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 2:16",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe kohen akotumba ⟨את⟩ likanisi na yango, utaka bilo na yango mpe na mafuta na yango, na levona na yango nyonso; ntalo ya moto epai ya Yawe.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "mpe akotumba"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "likanisi na yango"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "likanisi na yango"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "utaka bilo na yango"
+    },
+    {
+      "surface": "ומשמנה",
+      "gloss": "mpe na mafuta na yango"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "לבנתה",
+      "gloss": "ya levona na yango"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ntalo ya moto"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "epai ya Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T16:39:34.179204144Z",
+  "model": "glm-5.3"
+}

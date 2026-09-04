@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 33:4",
+  "book": "ezekiel",
+  "lang": "ln",
+  "chapter": 33,
+  "translation": "mpe moyoki ayoki ⟨את⟩ dongu ya lipito mpe akebisamaki te, mpe ekpe eyaki mpe emwaki ye — makila na ye na moto na ye ekokoka.",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "mpe moyoki"
+    },
+    {
+      "surface": "השמע",
+      "gloss": "ayoki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dongu"
+    },
+    {
+      "surface": "קול",
+      "gloss": "dongu"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "ya lipito"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "akebisamaki"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "mpe eyaki"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ekpe"
+    },
+    {
+      "surface": "ותקחהו",
+      "gloss": "mpe emwaki ye"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "makila na ye"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "na moto na ye"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ekokoka"
+    }
+  ],
+  "timestamp": "2026-09-03T20:27:22.728332448Z",
+  "model": "glm-5.3"
+}

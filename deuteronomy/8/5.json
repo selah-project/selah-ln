@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 8:5",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe okoyeba na motema na yo ete, ndenge moto akolakisaka mwana na ye, ndenge wana Yawe Elohim na yo akolakisaka ⟨את⟩ yo.",
+  "tokens": [
+    {
+      "surface": "וידעת",
+      "gloss": "Mpe okoyeba"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "motema na yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ndenge"
+    },
+    {
+      "surface": "ייסר",
+      "gloss": "akolakisaka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwana na ye"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana na ye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim na yo"
+    },
+    {
+      "surface": "מיסרך",
+      "gloss": "akolakisaka yo"
+    }
+  ],
+  "timestamp": "2026-09-03T17:27:16.324241671Z",
+  "model": "glm-5.3"
+}

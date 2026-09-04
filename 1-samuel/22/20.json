@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 22:20",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Mpe mwana moko ya Ahimelek mwana ya Ahitub, nkombo na ye Abiathar, amilengoki mpe abungaki sima ya David.",
+  "tokens": [
+    {
+      "surface": "וימלט",
+      "gloss": "amilengoki"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "moko"
+    },
+    {
+      "surface": "לאחימלך",
+      "gloss": "ya Ahimelek"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "אחטוב",
+      "gloss": "ya Ahitub"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "mpe nkombo na ye"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Abiathar"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "mpe abungaki"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sima ya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-09-03T18:22:33.849624348Z",
+  "model": "glm-5.3"
+}

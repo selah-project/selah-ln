@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 7:2",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Batela mibeko na ngai, mpe kova; mpe Tora na ngai, lokola etando ya miso na yo.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Batela"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "mibeko na ngai"
+    },
+    {
+      "surface": "וחיה",
+      "gloss": "mpe kova"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "mpe Tora na ngai"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "lokola etando ya miso"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:40:09.498612970Z",
+  "model": "glm-5.3"
+}

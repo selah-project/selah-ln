@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 29:31",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 29,
+  "translation": "Mpe Yawe amonaki ete Lea alimwami, mpe afungolaki ⟨את⟩ libumu na ye; kasi Rahel azali kokoka te.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "amonaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "שנואה",
+      "gloss": "alimwami"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "afungolaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "libumu na ye"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "libumu na ye"
+    },
+    {
+      "surface": "ורחל",
+      "gloss": "kasi Rahel"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "kokoka te"
+    }
+  ],
+  "timestamp": "2026-09-03T16:00:03.252838758Z",
+  "model": "glm-5.3"
+}

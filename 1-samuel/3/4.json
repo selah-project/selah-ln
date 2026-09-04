@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 3:4",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe Yawe abengaki Shemuel, mpe ye alobaki: Ngai nazali awa.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Mpe abengaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ya Shemuel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ngai nazali awa"
+    }
+  ],
+  "timestamp": "2026-09-03T18:09:53.343601007Z",
+  "model": "glm-5.3"
+}

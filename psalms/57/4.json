@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 57:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 57,
+  "translation": "Akotinda na likolo mpe abikisi ngai ⟨kati na⟩ kofinga ya oyo azali koluka komela ngai. Selah. Elohim akotinda hesed na ye mpe bosembo na ye.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Akotinda"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "na likolo"
+    },
+    {
+      "surface": "ויושיעני",
+      "gloss": "mpe abikisi ngai"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "kofinga"
+    },
+    {
+      "surface": "שאפי",
+      "gloss": "ya oyo azali koluka komela ngai"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "akotinda"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed na ye"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "mpe bosembo na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:14:51.396840609Z",
+  "model": "glm-5.3"
+}

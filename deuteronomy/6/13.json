@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 6:13",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "⟨את⟩ Yawe Elohim na yo bokobanga, ⟨את⟩ mpe ye bokosalela, mpe na nkombo na ye bokolapa.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim na yo"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "bokobanga"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ mpe ye",
+      "marks": "ye (Yawe)"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "bokosalela"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "mpe na nkombo na ye"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "bokolapa"
+    }
+  ],
+  "timestamp": "2026-09-03T17:24:55.446469647Z",
+  "model": "glm-5.3"
+}

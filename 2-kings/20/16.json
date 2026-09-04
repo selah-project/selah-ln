@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 20:16",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 20,
+  "translation": "Mpe Yeshayahu alobaki epai ya Hizkiyahu: Yoka liloba ya Yawe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshayahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkiyahu"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "yoka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "liloba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T19:09:52.579468897Z",
+  "model": "glm-5.3"
+}

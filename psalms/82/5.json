@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 82:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 82,
+  "translation": "Bayebi te, mpe bana-te; bazali kotambola na molili; bandako nyonso ya mabele matambwisamaki.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "bayebi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "bana"
+    },
+    {
+      "surface": "בחשכה",
+      "gloss": "na molili"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "bazali kotambola"
+    },
+    {
+      "surface": "ימוטו",
+      "gloss": "matambwisamaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "מוסדי",
+      "gloss": "bandako"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ya mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T21:20:43.724603253Z",
+  "model": "glm-5.3"
+}

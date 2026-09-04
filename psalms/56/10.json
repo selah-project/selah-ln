@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 56:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 56,
+  "translation": "Bakozonga bansani na ngai nsima na mokolo nakobenga; oyo nayebi, ete Elohim azali elongo na ngai.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "⟨mokolo wana⟩"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "bakozonga"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "bansani na ngai nsima"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "⟨nsima⟩"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na mokolo"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "nakobenga"
+    },
+    {
+      "surface": "זה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "nayebi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "elongo na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:13:38.203650898Z",
+  "model": "glm-5.3"
+}

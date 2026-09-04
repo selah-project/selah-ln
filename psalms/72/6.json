@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 72:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 72,
+  "translation": "Akokita lokola mbula na nsime, lokola bangamba kokuna mabele.",
+  "tokens": [
+    {
+      "surface": "ירד",
+      "gloss": "Akokita"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "lokola mbula"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "גז",
+      "gloss": "nsime"
+    },
+    {
+      "surface": "כרביבים",
+      "gloss": "lokola bangamba"
+    },
+    {
+      "surface": "זרזיף",
+      "gloss": "kokuna"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T21:17:56.856685496Z",
+  "model": "glm-5.3"
+}

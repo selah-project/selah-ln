@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 1:20",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe Elohim alobaki ete: Mai boyakaka banyama ya mai minene, bomoi ya moto; mpe ndeke abambana likolo ya mabele, likolo ya monyole ya etando ya likolo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישרצו",
+      "gloss": "boyakaka"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mai"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "banyama ya mai minene"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "bomoi"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "ya moto"
+    },
+    {
+      "surface": "ועוף",
+      "gloss": "mpe ndeke"
+    },
+    {
+      "surface": "יעופף",
+      "gloss": "abambana"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "פני",
+      "gloss": "monyole ya"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "etando"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ya likolo"
+    }
+  ],
+  "timestamp": "2026-09-03T15:44:11.126378848Z",
+  "model": "glm-5.3"
+}

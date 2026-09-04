@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 19:14",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Moshe akityaki uta na ngomba epai ya bato, mpe asantuaki ⟨את⟩ bato, mpe balauaki bilamba na bango.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "akityaki"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uta na"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ngomba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "mpe asantuaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bato"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "ויכבסו",
+      "gloss": "mpe balauaki"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "bilamba na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:23:27.495325383Z",
+  "model": "glm-5.3"
+}

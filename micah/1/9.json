@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "micah 1:9",
+  "book": "micah",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpo ete mapona na yango ezali ya kobikisa te; mpo ete ekomi kino na Yehuda, ekangaki kino na porte ya bato na ngai, kino na Yerushalaim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo ete"
+    },
+    {
+      "surface": "אנושה",
+      "gloss": "ezali ya kobikisa te"
+    },
+    {
+      "surface": "מכותיה",
+      "gloss": "mapona na yango"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "באה",
+      "gloss": "ekomi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ekangaki"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "שער",
+      "gloss": "porte"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "bato na ngai"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-09-03T20:47:18.463261559Z",
+  "model": "glm-5.3"
+}

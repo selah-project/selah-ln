@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 8:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpo tango namonaka likolo na yo, misala ya misapi na yo, sansi mpe baetoile oyo onakisaki,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "tango namonaka"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "likolo na yo"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "misala"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "ya misapi na yo"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "sansi"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "mpe baetoile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "onakisaki"
+    }
+  ],
+  "timestamp": "2026-09-03T21:01:08.585664519Z",
+  "model": "glm-5.3"
+}

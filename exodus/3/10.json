@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 3:10",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe sikoyo, kende, nakotinda yo epai ya Parao, mpe bimisa ⟨את⟩ bato na ngai, bana ya Israel, na Mitsraim.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Mpe sikoyo"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "kende"
+    },
+    {
+      "surface": "ואשלחך",
+      "gloss": "nakotinda yo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "והוצא",
+      "gloss": "mpe bimisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bato na ngai"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "bato na ngai"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "na Mitsraim"
+    }
+  ],
+  "timestamp": "2026-09-03T16:14:54.956409584Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 1:12",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe ekamaki, ntango alobaki mingi kosambela liboso ya Yawe, mpe Eli amonaki ⟨את⟩ monoko na ye.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "mpe ekamaki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ntango"
+    },
+    {
+      "surface": "הרבתה",
+      "gloss": "alobaki mingi"
+    },
+    {
+      "surface": "להתפלל",
+      "gloss": "kosambela"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "mpe Eli"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "amonaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "monoko na ye"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "monoko na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T18:08:49.286562999Z",
+  "model": "glm-5.3"
+}

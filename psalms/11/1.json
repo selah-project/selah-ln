@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 11:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpo na Mokambi. Salimo ya David. Na Yawe namipesaki; boni bolobaka na molimo na ngai: Bokima, ndeke, na montagne na bino.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Mpo na Mokambi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Salimo ya David"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Na Yawe"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "namipesaki"
+    },
+    {
+      "surface": "איך",
+      "gloss": "boni"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "bolobaka"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "na molimo na ngai"
+    },
+    {
+      "surface": "נודו",
+      "gloss": "Bokima"
+    },
+    {
+      "surface": "הרכם",
+      "gloss": "montagne na bino"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "ndeke"
+    }
+  ],
+  "timestamp": "2026-09-03T21:03:22.368609126Z",
+  "model": "glm-5.3"
+}

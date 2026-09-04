@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 92,
+  "translation": "Na luseke ya zomi mpe na nabel, na higayon na kinora.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "na"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "luseke ya zomi"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "mpe na"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nabel"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "na"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "higayon"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "na kinora"
+    }
+  ],
+  "timestamp": "2026-09-03T21:24:27.762644957Z",
+  "model": "glm-5.3"
+}

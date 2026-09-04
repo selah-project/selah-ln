@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 18:16",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Mpe Israel nyonso mpe Yehuda balingaki ⟨את⟩ David, mpo ete ye ⟨azalaki⟩ kobima mpe kokota liboso na bango.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "mpe nyonso"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "mpe Yehuda"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "balingaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ye"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "kobima"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "mpe kokota"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "liboso na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T18:18:46.390465619Z",
+  "model": "glm-5.3"
+}

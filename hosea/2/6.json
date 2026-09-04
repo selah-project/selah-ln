@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 2:6",
+  "book": "hosea",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe ⟨את⟩ bana na ye nakokanisa bango mawa te, mpo bana ya bofeli bango nde.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bana na ye"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "bana na ye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "nakokanisa mawa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "ya bofeli"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bango nde"
+    }
+  ],
+  "timestamp": "2026-09-03T20:37:50.915763806Z",
+  "model": "glm-5.3"
+}

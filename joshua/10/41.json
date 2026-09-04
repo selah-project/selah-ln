@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "joshua 10:41",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Mpe Yehoshua aundolaki bango uta na Kadesh-Barnea kino na Aza, mpe ⟨את⟩ mboka nyonso ya Goshen, kino na Givon.",
+  "tokens": [
+    {
+      "surface": "ויכם",
+      "gloss": "mpe aundolaki bango"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "Kadesh"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barnea"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "mpe kino"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mboka nyonso ya Goshen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mboka"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "ya Goshen"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "na Givon"
+    }
+  ],
+  "timestamp": "2026-09-03T17:48:22.235738033Z",
+  "model": "glm-5.3"
+}

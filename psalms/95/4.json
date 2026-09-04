@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 95:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 95,
+  "translation": "Oyo na maboko na ye ezali bisika ya moke ya mabele, mpe likolo ya bangomba ezali ya ye.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Oyo"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "na maboko na ye"
+    },
+    {
+      "surface": "מחקרי",
+      "gloss": "bisika ya moke"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ya mabele"
+    },
+    {
+      "surface": "ותועפות",
+      "gloss": "mpe likolo"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ya bangomba"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ezali ya ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:24:45.810204743Z",
+  "model": "glm-5.3"
+}

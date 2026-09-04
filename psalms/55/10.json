@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 55:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 55,
+  "translation": "Mela, Adonai, kabola lmona na bango, mpo ete namoni mabe mpe mikangano na engumba.",
+  "tokens": [
+    {
+      "surface": "בלע",
+      "gloss": "Mela"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "kabola"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "lmona na bango"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "namoni"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "וריב",
+      "gloss": "mpe mikangano"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "na engumba"
+    }
+  ],
+  "timestamp": "2026-09-03T21:13:46.968115367Z",
+  "model": "glm-5.3"
+}

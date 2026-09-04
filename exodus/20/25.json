@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 20:25",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 20,
+  "translation": "Mpe soki osali mizbe ya mabanga mpo na ngai, okotonga yango te na ⟨את⟩ mabanga oyo bakatakaki; mpo ete soki owumelaki ebimbe na yo likolo na yango, obebisaki yango.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Mpe soki"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mizbe"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "ya mabanga"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "osali"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mpo na ngai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "okotonga"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "mabanga oyo bakatakaki"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "mabanga oyo bakatakaki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "ebimbe na yo"
+    },
+    {
+      "surface": "הנפת",
+      "gloss": "owumelaki"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "likolo na yango"
+    },
+    {
+      "surface": "ותחללה",
+      "gloss": "mpe obebisaki yango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:24:38.025377811Z",
+  "model": "glm-5.3"
+}

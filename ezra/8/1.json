@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezra 8:1",
+  "book": "ezra",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe oyo bankombi ya bamambo na bango, mpe bokomi ya libota na bango, baye bamonaki elongo na ngai na bokonzi ya Artachshasta mokonzi, uta Bavel.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "mpe oyo"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "bankombi"
+    },
+    {
+      "surface": "אבתיהם",
+      "gloss": "ya bamambo na bango"
+    },
+    {
+      "surface": "והתיחשם",
+      "gloss": "mpe bokomi ya libota na bango"
+    },
+    {
+      "surface": "העלים",
+      "gloss": "bamonaki baye"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "elongo na ngai"
+    },
+    {
+      "surface": "במלכות",
+      "gloss": "na bokonzi ya"
+    },
+    {
+      "surface": "ארתחשסתא",
+      "gloss": "Artachshasta"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "uta Bavel"
+    }
+  ],
+  "timestamp": "2026-09-03T22:33:04.525953353Z",
+  "model": "glm-5.3"
+}

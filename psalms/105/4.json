@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 105:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 105,
+  "translation": "Luka Yawe mpe nguya na ye, luka elongi na ye ntango nyonso.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "Luka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "mpe nguya na ye"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "Luka"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "elongi na ye"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ntango nyonso"
+    }
+  ],
+  "timestamp": "2026-09-03T21:27:33.475926548Z",
+  "model": "glm-5.3"
+}

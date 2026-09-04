@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 14:10",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "David atunaki epai ya Elohim, alobaki: Nakopanda likolo ya Ba-Pelishti, mpe okotia bango na maboko na ngai? Mpe Yawe alobaki na ye: Panda, mpe nakotia bango na maboko na yo.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "atunaki"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "epai ya Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "האעלה",
+      "gloss": "Nakopanda"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "פלשתיים",
+      "gloss": "Ba-Pelishti"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "mpe okotia bango"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "na maboko na ngai"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "Panda"
+    },
+    {
+      "surface": "ונתתים",
+      "gloss": "mpe nakotia bango"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "na maboko na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T22:46:04.375533416Z",
+  "model": "glm-5.3"
+}

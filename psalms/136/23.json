@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 136:23",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 136,
+  "translation": "Oyo akanisaki biso na mawa na biso, mpo na ntango nyonso hesed na ye.",
+  "tokens": [
+    {
+      "surface": "שבשפלנו",
+      "gloss": "na mawa na biso"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "Oyo akanisaki biso"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "biso"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na ntango nyonso"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:34:25.561182228Z",
+  "model": "glm-5.3"
+}

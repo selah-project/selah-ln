@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "mpe ⟨את⟩ nkuku ya moke, mpe ⟨את⟩ monkebu, mpe ⟨את⟩ nkuku ya monene",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "nkuku ya moke"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "nkuku ya moke"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "monkebu"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "monkebu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "nkuku ya monene"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "nkuku ya monene"
+    }
+  ],
+  "timestamp": "2026-09-03T23:15:00.991076152Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 34:30",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 34,
+  "translation": "Aharon amoni, mpe bana nyonso ya Israel, ⟨את⟩ Moshe; mpe talá, elanga ya elongi na ye ezalaki kosakana, mpe babangaki kokóma pene na ye.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "amoni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe nyonso"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mpe talá"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "ezalaki kosakana"
+    },
+    {
+      "surface": "עור",
+      "gloss": "elanga"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ya elongi na ye"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "mpe babangaki"
+    },
+    {
+      "surface": "מגשת",
+      "gloss": "kokóma pene"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T16:34:02.997525366Z",
+  "model": "glm-5.3"
+}

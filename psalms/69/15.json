@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 69:15",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 69,
+  "translation": "Bikisa ngai na toke, mpe nakokwea te; nabikama na bayanjaki ngai, mpe na mai ya bonene.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "bikisa ngai"
+    },
+    {
+      "surface": "מטיט",
+      "gloss": "na toke"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mpe kaka"
+    },
+    {
+      "surface": "אטבעה",
+      "gloss": "nakokwea te"
+    },
+    {
+      "surface": "אנצלה",
+      "gloss": "nabikama"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "na bayanjaki ngai"
+    },
+    {
+      "surface": "וממעמקי",
+      "gloss": "mpe na bonene ya"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:17:04.719555360Z",
+  "model": "glm-5.3"
+}

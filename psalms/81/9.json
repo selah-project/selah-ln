@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 81:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 81,
+  "translation": "Yoka, bato na ngai, mpe nakotatola na yo; Israel, soki okoyoka ngai —",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Yoka"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "bato na ngai"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "mpe nakotatola"
+    },
+    {
+      "surface": "בך",
+      "gloss": "na yo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אם",
+      "gloss": "soki"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "okoyoka"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:20:30.433464614Z",
+  "model": "glm-5.3"
+}

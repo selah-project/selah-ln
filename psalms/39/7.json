@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 39:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 39,
+  "translation": "Ya solo, na elilingi moto atambolaka; ya solo, na mpuya bazali kosangisa; akosangisa ⟨bokiti⟩, mpe ayebi te nani akokangela yango.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Ya solo"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "na elilingi"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "atambolaka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ya solo"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "na mpuya"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "bazali kosangisa"
+    },
+    {
+      "surface": "יצבר",
+      "gloss": "akosangisa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ayebi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nani"
+    },
+    {
+      "surface": "אספם",
+      "gloss": "akokangela yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:10:42.882056002Z",
+  "model": "glm-5.3"
+}

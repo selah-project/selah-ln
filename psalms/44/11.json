@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 44:11",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 44,
+  "translation": "Ozongisaka biso nsima ekolo ya banguna, mpe baye bazali koluka biso basosolaka biso mpo na bango moko.",
+  "tokens": [
+    {
+      "surface": "תשיבנו",
+      "gloss": "Ozongisaka biso nsima"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "nsima"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ekolo ya"
+    },
+    {
+      "surface": "צר",
+      "gloss": "banguna"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "mpe baye bazali koluka biso"
+    },
+    {
+      "surface": "שסו",
+      "gloss": "basosolaka biso"
+    },
+    {
+      "surface": "למו",
+      "gloss": "mpo na bango moko"
+    }
+  ],
+  "timestamp": "2026-09-03T21:11:10.971802570Z",
+  "model": "glm-5.3"
+}

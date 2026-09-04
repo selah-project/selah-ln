@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 11:3",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpe bankulu ya Yavesh balobaki naye: Pema biso mikolo sambo, mpe totinda batindami na ndelo ya Israel nyonso, mpe soki ezali mosalisi te ⟨את⟩ biso, mpe tobimi epai nayo.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "mpe balobaki"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "epai naye"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "bankulu ya"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Yavesh"
+    },
+    {
+      "surface": "הרף",
+      "gloss": "pema"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "biso"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sambo ya"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mikolo"
+    },
+    {
+      "surface": "ונשלחה",
+      "gloss": "mpe totinda"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "batindami"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na nyonso ya"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ndelo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "mpe soki"
+    },
+    {
+      "surface": "אין",
+      "gloss": "te"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "mosalisi"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ biso",
+      "marks": "biso"
+    },
+    {
+      "surface": "ויצאנו",
+      "gloss": "mpe tobimi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "epai nayo"
+    }
+  ],
+  "timestamp": "2026-09-03T18:15:07.729225073Z",
+  "model": "glm-5.3"
+}

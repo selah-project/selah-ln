@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 72:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 72,
+  "translation": "Asambisaka bawa ya bato, abikisaka bana ya oyangatelai, mpe abukaka mobokoli.",
+  "tokens": [
+    {
+      "surface": "ישפט",
+      "gloss": "asambisaka"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "bawa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ya bato"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "abikisaka"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "ya oyangatelai"
+    },
+    {
+      "surface": "וידכא",
+      "gloss": "mpe abukaka"
+    },
+    {
+      "surface": "עושק",
+      "gloss": "mobokoli"
+    }
+  ],
+  "timestamp": "2026-09-03T21:18:02.103305130Z",
+  "model": "glm-5.3"
+}

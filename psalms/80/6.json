@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 80:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 80,
+  "translation": "Okolisaki bango mokele ya mingimingi, mpe okomelisaki bango mingimingi na komeka monene.",
+  "tokens": [
+    {
+      "surface": "האכלתם",
+      "gloss": "Okolisaki bango"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mokele"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "ya mingimingi"
+    },
+    {
+      "surface": "ותשקמו",
+      "gloss": "mpe okomelisaki bango"
+    },
+    {
+      "surface": "בדמעות",
+      "gloss": "mingimingi"
+    },
+    {
+      "surface": "שליש",
+      "gloss": "na komeka monene"
+    }
+  ],
+  "timestamp": "2026-09-03T21:21:05.606435690Z",
+  "model": "glm-5.3"
+}

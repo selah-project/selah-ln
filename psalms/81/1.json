@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 81:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 81,
+  "translation": "Mpo na mokambi ya miziki, na Gittit, ya Asaf.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Mpo na mokambi ya miziki"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "Gittit"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ya Asaf"
+    }
+  ],
+  "timestamp": "2026-09-03T21:21:07.853955021Z",
+  "model": "glm-5.3"
+}

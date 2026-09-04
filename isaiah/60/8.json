@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 60:8",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 60,
+  "translation": "Nani bango oyo balukaka lokola lipata, mpe lokola bapizoni epai ya bafeneteri na bango?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Nani"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bango oyo"
+    },
+    {
+      "surface": "כעב",
+      "gloss": "lokola lipata"
+    },
+    {
+      "surface": "תעופינה",
+      "gloss": "balukaka"
+    },
+    {
+      "surface": "וכיונים",
+      "gloss": "mpe lokola bapizoni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai"
+    },
+    {
+      "surface": "ארבתיהם",
+      "gloss": "ya bafeneteri na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T19:37:53.253201320Z",
+  "model": "glm-5.3"
+}

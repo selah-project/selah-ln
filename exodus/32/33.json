@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 32:33",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 32,
+  "translation": "Yawe alobaki na Moshe: oyo akoselaki ngai, yango nde namolimwisaka na buku na ngai.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "חטא",
+      "gloss": "akoselaki"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "אמחנו",
+      "gloss": "namolimwisaka"
+    },
+    {
+      "surface": "מספרי",
+      "gloss": "na buku na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T16:32:43.900882674Z",
+  "model": "glm-5.3"
+}

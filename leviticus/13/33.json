@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 13:33",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Mpe akataki ye moko, kasi ⟨את⟩ sopo akataki te; mpe kohen akangaki ⟨את⟩ sopo mikolo nsambo, mbala ya mibale.",
+  "tokens": [
+    {
+      "surface": "והתגלח",
+      "gloss": "akataki ye moko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "sopo"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "sopo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יגלח",
+      "gloss": "akataki"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "akangaki"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sopo"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "sopo"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "nsambo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mikolo"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "mbala ya mibale"
+    }
+  ],
+  "timestamp": "2026-09-03T16:47:08.127708859Z",
+  "model": "glm-5.3"
+}

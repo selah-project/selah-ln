@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 69:31",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 69,
+  "translation": "Nakosembola nkombo ya Elohim na nzembo, mpe nakokomisa ye monene na matondo.",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "nakosembola"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nkombo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "בשיר",
+      "gloss": "na nzembo"
+    },
+    {
+      "surface": "ואגדלנו",
+      "gloss": "mpe nakokomisa ye monene"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "na matondo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:17:34.246532200Z",
+  "model": "glm-5.3"
+}

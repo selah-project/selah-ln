@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 10:28",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Yehu abebisaki ⟨את⟩ Baal na Israel.",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "abebisaki"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baal"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "na Israel"
+    }
+  ],
+  "timestamp": "2026-09-03T23:25:11.114692768Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 9:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Mpe Yawe akokoma esika ya likatikati ya oyo azali na mawa, esika ya likatikati na milolo ya mpasi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mpé akanama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "esika ya likatikati"
+    },
+    {
+      "surface": "לדך",
+      "gloss": "ya oyo azali na mawa"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "esika ya likatikati"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "na milolo"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "ya mpasi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:01:25.514848544Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 2:7",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe Yawe Elohim amekelaki ⟨את⟩ moto na mbuma ya mabele, mpe atondisaki mpema ya bomoi na nsunu na ye, mpe moto akomaki molimo moyi.",
+  "tokens": [
+    {
+      "surface": "וייצר",
+      "gloss": "amekelaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moto"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "moto"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "na mbuma"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ya"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "mpe atondisaki mpema"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "na nsunu na ye"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "mpema ya"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "bomoi"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mpe akomaki"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "moto"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "molimo"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "moyi"
+    }
+  ],
+  "timestamp": "2026-09-03T15:44:42.997267268Z",
+  "model": "glm-5.3"
+}

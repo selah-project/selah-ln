@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 44:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 44,
+  "translation": "Elohim, na matoyi na biso toyoki, bankoko na biso balobaki na biso mosala oyo osalaki na mikolo na bango, na mikolo ya kala.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "na matoyi na biso"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "toyoki"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "bankoko na biso"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "balobaki"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "na biso"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "mosala"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "osalaki"
+    },
+    {
+      "surface": "בימיהם",
+      "gloss": "na mikolo na bango"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "na mikolo ya"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "kala"
+    }
+  ],
+  "timestamp": "2026-09-03T21:10:59.289652487Z",
+  "model": "glm-5.3"
+}

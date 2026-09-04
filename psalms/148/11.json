@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 148:11",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 148,
+  "translation": "Bakonzi ya mabele mpe bikolo nyonso, bakambi mpe bazuzi nyonso ya mabele.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "bakonzi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ya mabele"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe nyonso"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "bikolo"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "bakambi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe nyonso"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "bazuzi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ya mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T21:36:18.071711560Z",
+  "model": "glm-5.3"
+}

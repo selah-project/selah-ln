@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 23:15",
+  "book": "job",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Mpo na yango, na liboso na ye nakeni; nakundola ⟨yango⟩, mpe nabangi ye.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "na liboso na ye"
+    },
+    {
+      "surface": "אבהל",
+      "gloss": "nakeni"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "nakundola"
+    },
+    {
+      "surface": "ואפחד",
+      "gloss": "mpe nabangi"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:58:43.739409253Z",
+  "model": "glm-5.3"
+}

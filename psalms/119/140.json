@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 140,
+  "ref": "psalms 119:140",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Liloba na yo lilakaki ⟨na⟩ kokensa mingi, mpe mosali na yo alingaka yango.",
+  "tokens": [
+    {
+      "surface": "צרופה",
+      "gloss": "lilakaki na kokensa"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "liloba na yo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mingi"
+    },
+    {
+      "surface": "ועבדך",
+      "gloss": "mpe mosali na yo"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "alingaka yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:32:26.816106885Z",
+  "model": "glm-5.3"
+}

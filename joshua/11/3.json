@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 11:3",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "baKanani oyo bazali uta na mondene mpe na mbu, mpe baEmori, mpe baHiti, mpe baPerezi, mpe baYevusi oyo bazali na ngomba, mpe baHivi na nse ya Hermon, na mokili ya Mispah.",
+  "tokens": [
+    {
+      "surface": "הכנעני",
+      "gloss": "baKanani"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "uta na mondene"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "mpe na mbu"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "mpe baEmori"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "mpe baHiti"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "mpe baPerezi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "mpe baYevusi"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "na ngomba"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "mpe baHivi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "na nse ya"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Hermon"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mokili"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "ya Mispah"
+    }
+  ],
+  "timestamp": "2026-09-03T17:49:50.914596986Z",
+  "model": "glm-5.3"
+}

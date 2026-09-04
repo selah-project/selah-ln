@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 40:3",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 40,
+  "translation": "Mongongo ya mobwaka na mopongo: Bóngolamu nzela ya Yawe, Bobongisi na etando nzela ya Elohim na biso.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Mongongo"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "ya mobwaka"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "na mopongo"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "Bóngolamu"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "nzela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "Bobongisi"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "na etando"
+    },
+    {
+      "surface": "מסלה",
+      "gloss": "nzela"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "ya Elohim na biso"
+    }
+  ],
+  "timestamp": "2026-09-03T19:30:48.172711260Z",
+  "model": "glm-5.3"
+}

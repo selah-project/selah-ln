@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 101:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 101,
+  "translation": "Nakosala na mayele na nzela ya bosembo mobimba; tango nini okoya epai ngai? Nakotambola na bomoko ya motema na ngai na kati ya ndako na ngai.",
+  "tokens": [
+    {
+      "surface": "אשכילה",
+      "gloss": "nakosala na mayele"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "na nzela"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ya bosembo mobimba"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "tango nini"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "okoya"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "epai ngai"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "nakotambola"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "na bomoko"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "ya motema na ngai"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "na kati"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "ya ndako na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:26:01.712508260Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 18:20",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Mpe Ahab atindaki na bato nyonso ya bana ya Israel, mpe abokisaki ⟨את⟩ banabia na ngomba ya Karmel.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "atindaki"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na nyonso"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "mpe abokisaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "banabia"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "banabia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ngomba"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "ya Karmel"
+    }
+  ],
+  "timestamp": "2026-09-03T18:55:01.504137003Z",
+  "model": "glm-5.3"
+}

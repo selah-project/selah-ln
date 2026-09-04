@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 69:35",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 69,
+  "translation": "Likolo na mabele batanda ye nkembo, mpe mbu, mpe nyonso oyo ezali komata kati na yango.",
+  "tokens": [
+    {
+      "surface": "יהללוהו",
+      "gloss": "batanda ye nkembo"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "Likolo"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "mpe mabele"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mbu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe nyonso"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "oyo ezali komata"
+    },
+    {
+      "surface": "בם",
+      "gloss": "kati na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:16:51.363814658Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 22:25",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Mpe soki moto amoni na shango ⟨את⟩ naana oyo balingami, mpe moto asombi ye na makasi mpe afandi na ye, moto oyo afandi na ye akufa, ye moko.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Mpe soki"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "na shango"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "amoni"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "naana oyo balingami"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "naana"
+    },
+    {
+      "surface": "המארשה",
+      "gloss": "oyo balingami"
+    },
+    {
+      "surface": "והחזיק",
+      "gloss": "mpe asombi ye na makasi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ye"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "mpe afandi"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "akufa"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "afandi"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "ye moko"
+    }
+  ],
+  "timestamp": "2026-09-03T17:35:41.520477734Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 127:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 127,
+  "translation": "Lokasa ya maporo, ya Shelomo. Soki Yawe abongisi ndako te, bankeli na yango basalaka pamba; soki Yawe abatela engumba te, mobateli anozelaka pamba.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Lokasa"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ya maporo"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "ya Shelomo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Soki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "abongisi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "pamba"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "basalaka"
+    },
+    {
+      "surface": "בוניו",
+      "gloss": "bankeli na yango"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "אם",
+      "gloss": "soki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "abatela"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "engumba"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "pamba"
+    },
+    {
+      "surface": "שקד",
+      "gloss": "anozelaka"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "mobateli"
+    }
+  ],
+  "timestamp": "2026-09-03T21:33:40.543869527Z",
+  "model": "glm-5.3"
+}

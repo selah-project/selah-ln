@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 10:7",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "David amwaki yango, mpe atindaki ⟨את⟩ Yoav, mpe ⟨את⟩ mampinga nyonso ya bakuli.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "amwaki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "mpe atindaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoav"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mampinga nyonso ya bakuli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "mampinga"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "ya bakuli"
+    }
+  ],
+  "timestamp": "2026-09-03T18:31:59.189008960Z",
+  "model": "glm-5.3"
+}

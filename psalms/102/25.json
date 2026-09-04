@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 102:25",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 102,
+  "translation": "Nalobi: El na ngai, kolongola ngai te na kati ya mikolo na ngai; mbula na yo ⟨ezali⟩ na libota ya bilibota.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Nalobi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El na ngai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תעלני",
+      "gloss": "kolongola ngai"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "na kati ya"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mikolo na ngai"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "na libota ya"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "bilibota"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "mbula na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T23:35:37.534309988Z",
+  "model": "glm-5.3"
+}

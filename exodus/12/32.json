@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 12:32",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Mpe bituka na bino mpe bakoki na bino, benda, ndenge bolobaki, mpe bola; mpe bolaka mpe ⟨את⟩ ngai.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Mpe"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "bituka na bino"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "בקרכם",
+      "gloss": "bakoki na bino"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "benda"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ndenge"
+    },
+    {
+      "surface": "דברתם",
+      "gloss": "bolobaki"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "mpe bola"
+    },
+    {
+      "surface": "וברכתם",
+      "gloss": "mpe bolaka"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ngai",
+      "marks": "ngai (Parao)"
+    }
+  ],
+  "timestamp": "2026-09-03T16:20:54.574311026Z",
+  "model": "glm-5.3"
+}

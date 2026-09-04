@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 1:1",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Maloba ya Yirmeiahu, mwana ya Hilikiiahu, oyo azalaki kati ya bakohen na Anatot, na mabele ya Binyamin.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Maloba"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ya Yirmeiahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana ya"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "Hilikiiahu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kati ya"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "bakohen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo azalaki ⟨kati ya⟩"
+    },
+    {
+      "surface": "בענתות",
+      "gloss": "na Anatot"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mabele ya"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    }
+  ],
+  "timestamp": "2026-09-03T19:41:09.015588716Z",
+  "model": "glm-5.3"
+}

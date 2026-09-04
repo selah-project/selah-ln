@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 109:22",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 109,
+  "translation": "Mpo ete ngai nazali mawa mpe mosanza, mpe motema na ngai ebongwamaki kati na ngai.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo ete"
+    },
+    {
+      "surface": "עני",
+      "gloss": "mawa"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "mpe mosanza"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "mpe motema na ngai"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "ebongwamaki"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "kati na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:28:57.492402183Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 21:4",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Motema na ngai ebungaki nzela, bopusi ebangisaki ngai; ⟨את⟩ mpokwa ya elengeli na ngai atyaki na ngai mpo na kokweka na bobangi.",
+  "tokens": [
+    {
+      "surface": "תעה",
+      "gloss": "ebungaki nzela"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "motema na ngai"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "bopusi"
+    },
+    {
+      "surface": "בעתתני",
+      "gloss": "ebangisaki ngai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mpokwa"
+    },
+    {
+      "surface": "נשף",
+      "gloss": "mpokwa"
+    },
+    {
+      "surface": "חשקי",
+      "gloss": "ya elengeli na ngai"
+    },
+    {
+      "surface": "שם",
+      "gloss": "atyaki"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "לחרדה",
+      "gloss": "mpo na kokweka na bobangi"
+    }
+  ],
+  "timestamp": "2026-09-03T19:20:19.340226489Z",
+  "model": "glm-5.3"
+}

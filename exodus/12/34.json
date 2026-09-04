@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 12:34",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Mpe bato bamemaki ⟨את⟩ boto na bango, liboso ete ekoka; bakiti na bango ya boto ebandaki na bampingi na bango likolo ya mabolo na bango.",
+  "tokens": [
+    {
+      "surface": "וַיִּשָּׂא",
+      "gloss": "bamemaki"
+    },
+    {
+      "surface": "הָעָם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "boto na bango"
+    },
+    {
+      "surface": "בְּצֵקוֹ",
+      "gloss": "boto na bango"
+    },
+    {
+      "surface": "טֶרֶם",
+      "gloss": "liboso ete"
+    },
+    {
+      "surface": "יֶחְמָץ",
+      "gloss": "ekoka"
+    },
+    {
+      "surface": "מִשְׁאֲרֹתָם",
+      "gloss": "bakiti na bango ya boto"
+    },
+    {
+      "surface": "צְרֻרֹת",
+      "gloss": "ebandaki"
+    },
+    {
+      "surface": "בְּשִׂמְלֹתָם",
+      "gloss": "na bampingi na bango"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "שִׁכְמָם",
+      "gloss": "mabolo na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:20:34.349142599Z",
+  "model": "glm-5.3"
+}

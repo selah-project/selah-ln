@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 1:3",
+  "book": "amos",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Ndenge wana alobaki Yawe: likolo ya matumu misato ya Damesheke, mpe likolo ya minei, nakozonga yango te, mpo banatakaki ⟨את⟩ Gileadi na bikuma ya fer.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ndenge wana"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "misato"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "ya matumu"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "ya Damesheke"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "mpe likolo ya"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "minei"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "אשיבנו",
+      "gloss": "nakozonga yango"
+    },
+    {
+      "surface": "על",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "דושם",
+      "gloss": "banatakaki"
+    },
+    {
+      "surface": "בחרצות",
+      "gloss": "na bikuma"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "ya fer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gileadi"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gileadi"
+    }
+  ],
+  "timestamp": "2026-09-03T20:43:28.416529609Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 106:42",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 106,
+  "translation": "Banyokoli na bango baonyokaki bango, mpe bamikitisaki na nse ya maboko na bango.",
+  "tokens": [
+    {
+      "surface": "וילחצום",
+      "gloss": "baonyokaki bango"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "banyokoli na bango"
+    },
+    {
+      "surface": "ויכנעו",
+      "gloss": "mpe bamikitisaki"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "na nse ya"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "maboko na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:28:45.728471472Z",
+  "model": "glm-5.3"
+}

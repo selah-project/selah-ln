@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 6:11",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpe batyaki ⟨את⟩ sanduku ya Yawe likolo ya shari, mpe ⟨את⟩ sanduku ya moke, mpe ⟨את⟩ basopo ya sanza, mpe ⟨את⟩ bilembo ya bitumbu na bango.",
+  "tokens": [
+    {
+      "surface": "וַיָּשִׂימוּ",
+      "gloss": "mpe batyaki"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "sanduku ya Yawe"
+    },
+    {
+      "surface": "אֲרוֹן",
+      "gloss": "sanduku"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "הָעֲגָלָה",
+      "gloss": "shari"
+    },
+    {
+      "surface": "וְאֵת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "sanduku ya moke"
+    },
+    {
+      "surface": "הָאַרְגַּז",
+      "gloss": "sanduku ya moke"
+    },
+    {
+      "surface": "וְאֵת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "basopo ya sanza"
+    },
+    {
+      "surface": "עַכְבְּרֵי",
+      "gloss": "basopo"
+    },
+    {
+      "surface": "הַזָּהָב",
+      "gloss": "ya sanza"
+    },
+    {
+      "surface": "וְאֵת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bilembo ya bitumbu"
+    },
+    {
+      "surface": "צַלְמֵי",
+      "gloss": "bilembo"
+    },
+    {
+      "surface": "טְחֹרֵיהֶם",
+      "gloss": "ya bitumbu na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T18:11:48.086407278Z",
+  "model": "glm-5.3"
+}

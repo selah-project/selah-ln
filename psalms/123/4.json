@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 123:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 123,
+  "translation": "Mingi molimo na biso esati na bosekele ya balaki-mai, na bopayi ya bakekisi.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Mingi"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "esati"
+    },
+    {
+      "surface": "לה",
+      "gloss": "na"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "molimo na biso"
+    },
+    {
+      "surface": "הלעג",
+      "gloss": "bosekele"
+    },
+    {
+      "surface": "השאננים",
+      "gloss": "ya balaki-mai"
+    },
+    {
+      "surface": "הבוז",
+      "gloss": "na bopayi"
+    },
+    {
+      "surface": "לגאיונים",
+      "gloss": "ya bakekisi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:34:04.490937843Z",
+  "model": "glm-5.3"
+}

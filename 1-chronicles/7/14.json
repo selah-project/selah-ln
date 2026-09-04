@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 7:14",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Bana ya Menashe: Asriel, oyo abotaki ⟨ye⟩; mpe mpusa na ye, mwasi ya Aram, abotaki ⟨את⟩ Makir, tata ya Gilad.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "ya Menashe"
+    },
+    {
+      "surface": "אשריאל",
+      "gloss": "Asriel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "abotaki"
+    },
+    {
+      "surface": "פילגשו",
+      "gloss": "mpe mpusa na ye"
+    },
+    {
+      "surface": "הארמיה",
+      "gloss": "mwasi ya Aram"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "abotaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Makir"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "Makir"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tata ya"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    }
+  ],
+  "timestamp": "2026-09-03T22:43:31.562834095Z",
+  "model": "glm-5.3"
+}

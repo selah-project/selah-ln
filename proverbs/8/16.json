@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 8:16",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Na ngami bakambi bazali koyangela, mpe bato ya lokumu — bazuzi nyonso ya bokoki.",
+  "tokens": [
+    {
+      "surface": "בי",
+      "gloss": "Na ngami"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "bakambi"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "bazali koyangela"
+    },
+    {
+      "surface": "ונדיבים",
+      "gloss": "mpe bato ya lokumu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "bazuzi"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ya bokoki"
+    }
+  ],
+  "timestamp": "2026-09-03T21:40:03.614761609Z",
+  "model": "glm-5.3"
+}

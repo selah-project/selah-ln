@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 135:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 135,
+  "translation": "Oyo akubwaki babotami ya liboso ya Mitsraim, uta na moto kino na nyama.",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "Oyo akubwaki"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "babotami ya liboso"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Mitsraim"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "uta na moto"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino na"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "nyama"
+    }
+  ],
+  "timestamp": "2026-09-03T21:34:01.902755568Z",
+  "model": "glm-5.3"
+}

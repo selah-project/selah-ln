@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 8:1",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe esalemaki na suka ya bambula ntuku mibale oyo Shelomo atongaki ⟨את⟩ ndako ya Yawe mpe ⟨את⟩ ndako na ye.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mpe esalemaki"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "na suka"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ntuku mibale"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "bambula"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "atongaki"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndako ya Yawe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "ndako na ye"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ndako na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T22:57:07.766702278Z",
+  "model": "glm-5.3"
+}

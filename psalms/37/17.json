@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 37:17",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 37,
+  "translation": "Mpo maboko ya babubi ekokatiama, kasi Yawe asimbaka batono.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "זרועות",
+      "gloss": "maboko"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ya babubi"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "ekokatiama"
+    },
+    {
+      "surface": "וסומך",
+      "gloss": "kasi asimbaka"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "batono"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T21:09:23.135470553Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 32:3",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 32,
+  "translation": "Atarot, mpe Dibon, mpe Yaezer, mpe Nimra, mpe Heshbon, mpe Elale, mpe Sevam, mpe Nevo, mpe Beon.",
+  "tokens": [
+    {
+      "surface": "עטרות",
+      "gloss": "Atarot"
+    },
+    {
+      "surface": "ודיבן",
+      "gloss": "mpe Dibon"
+    },
+    {
+      "surface": "ויעזר",
+      "gloss": "mpe Yaezer"
+    },
+    {
+      "surface": "ונמרה",
+      "gloss": "mpe Nimra"
+    },
+    {
+      "surface": "וחשבון",
+      "gloss": "mpe Heshbon"
+    },
+    {
+      "surface": "ואלעלה",
+      "gloss": "mpe Elale"
+    },
+    {
+      "surface": "ושבם",
+      "gloss": "mpe Sevam"
+    },
+    {
+      "surface": "ונבו",
+      "gloss": "mpe Nevo"
+    },
+    {
+      "surface": "ובען",
+      "gloss": "mpe Beon"
+    }
+  ],
+  "timestamp": "2026-09-03T17:19:52.018955278Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 4:31",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe bato bandimaki; bayokaki ete Yawe atalaki ⟨את⟩ bana ya Israel mpe ete amonaki ⟨את⟩ mawa na bango; mpe bakitisaki mitwi mpe basambelaki.",
+  "tokens": [
+    {
+      "surface": "ויאמן",
+      "gloss": "bandimaki"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "bayokaki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "atalaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bana ya Israel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "mpe ete"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "amonaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawa na bango"
+    },
+    {
+      "surface": "ענים",
+      "gloss": "mawa"
+    },
+    {
+      "surface": "ויקדו",
+      "gloss": "bakitisaki mitwi"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "basambelaki"
+    }
+  ],
+  "timestamp": "2026-09-03T16:15:07.852986844Z",
+  "model": "glm-5.3"
+}

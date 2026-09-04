@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 4:2",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe akobaki kobota ⟨את⟩ ndeko na ye, ⟨את⟩ Hevel; mpe Hevel azalaki mobungi ya bambisi, mpe Kayin azalaki mosali ya mabele.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "akobaki"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "kobota"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndeko na ye"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ndeko na ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hevel"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevel"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "⟨azalaki⟩"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevel"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mobungi"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ya bambisi"
+    },
+    {
+      "surface": "וקין",
+      "gloss": "mpe Kayin"
+    },
+    {
+      "surface": "היה",
+      "gloss": "azalaki"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "mosali"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "ya mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T15:45:52.833760807Z",
+  "model": "glm-5.3"
+}

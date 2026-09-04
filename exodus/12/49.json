@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "exodus 12:49",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Tora moko ekokani ⟨komba⟩ ⟨na⟩ moto oyo abotamaki na mboka, mpe na mokembola oyo akembolaka kati na bino.",
+  "tokens": [
+    {
+      "surface": "תּוֹרָה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "אַחַת",
+      "gloss": "moko"
+    },
+    {
+      "surface": "יִהְיֶה",
+      "gloss": "ekokani ⟨komba⟩"
+    },
+    {
+      "surface": "לָאֶזְרָח",
+      "gloss": "na moto oyo abotamaki na mboka"
+    },
+    {
+      "surface": "וְלַגֵּר",
+      "gloss": "mpe na mokembola"
+    },
+    {
+      "surface": "הַגֵּר",
+      "gloss": "oyo akembolaka"
+    },
+    {
+      "surface": "בְּתוֹכְכֶם",
+      "gloss": "kati na bino"
+    }
+  ],
+  "timestamp": "2026-09-04T00:18:09.615712299Z",
+  "model": "glm-5.3"
+}

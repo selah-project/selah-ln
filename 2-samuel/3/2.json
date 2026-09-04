@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 3:2",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe bana babotamaki epai ya David na Hevron; mpe mwana na yango ya liboso azalaki Amnon, wa Ainoam, mwasi wa Yizreel.",
+  "tokens": [
+    {
+      "surface": "וילדו",
+      "gloss": "babotamaki"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "epai ya David"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bana"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "na Hevron"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mpe azalaki"
+    },
+    {
+      "surface": "בכורו",
+      "gloss": "mwana na yango ya liboso"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "לאחינעם",
+      "gloss": "wa Ainoam"
+    },
+    {
+      "surface": "היזרעאלת",
+      "gloss": "mwasi wa Yizreel"
+    }
+  ],
+  "timestamp": "2026-09-03T18:26:27.865038592Z",
+  "model": "glm-5.3"
+}

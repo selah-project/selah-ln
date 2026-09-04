@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 1:1",
+  "book": "esther",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe esalaki na mikolo ya Achashverosh — ye Achashverosh, mokonzi oyo azalaki kokonza uta Hodu kino Kush, bituka sambo na ntuku mibale na nkoto moko.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mpe esalaki"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "na mikolo ya"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ye"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "מהדו",
+      "gloss": "uta Hodu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sambo"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "na ntuku mibale"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "na nkoto moko"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "bituka"
+    }
+  ],
+  "timestamp": "2026-09-03T22:18:29.788727217Z",
+  "model": "glm-5.3"
+}

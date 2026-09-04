@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 64:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 64,
+  "translation": "Na mokambi. Mizmor ya David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Na mokambi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya David"
+    }
+  ],
+  "timestamp": "2026-09-03T21:15:58.568041599Z",
+  "model": "glm-5.3"
+}

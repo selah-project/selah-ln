@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 29:15",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 29,
+  "translation": "mpe kaboli moko epai ya mpenzi moko, mpo na bampenzi zomi na minei.",
+  "tokens": [
+    {
+      "surface": "ועשרון",
+      "gloss": "mpe kaboli"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "moko"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "epai ya mpenzi"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "moko"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "mpo na minei"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "zomi na"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "bampenzi"
+    }
+  ],
+  "timestamp": "2026-09-03T17:18:00.169660805Z",
+  "model": "glm-5.3"
+}

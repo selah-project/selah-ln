@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 1:8",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe Elohim abengaki etando Likolo; mpe ekalaki mpokwa, mpe ekalaki tongo, mokolo ya mibale.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "mpe abengaki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "etando"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "Likolo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mpe ekalaki"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "mpokwa"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mpe ekalaki"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "tongo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mokolo"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ya mibale"
+    }
+  ],
+  "timestamp": "2026-09-03T15:43:55.248017384Z",
+  "model": "glm-5.3"
+}

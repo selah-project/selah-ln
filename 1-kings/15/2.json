@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 15:2",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 15,
+  "translation": "Mbula misato asalaki bokonzi na Yerushalaim, mpe kombo ya mama na ye ⟨ezalaki⟩ Maaka, mwana wa Avishalom.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "misato"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mbula"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "asalaki bokonzi"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "na Yerushalaim"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "mpe kombo"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ya mama na ye"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maaka"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "אבישלום",
+      "gloss": "Avishalom"
+    }
+  ],
+  "timestamp": "2026-09-03T18:54:13.963896738Z",
+  "model": "glm-5.3"
+}

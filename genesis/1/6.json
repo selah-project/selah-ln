@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 1:6",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe Elohim alobaki: Etando ezala kati na mai, mpe ezala ekaboli kati na mai na mai.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ezala"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "Etando"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "kati na"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mai"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mpe ezala"
+    },
+    {
+      "surface": "מבדיל",
+      "gloss": "ekaboli"
+    },
+    {
+      "surface": "בין",
+      "gloss": "kati na"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mai"
+    },
+    {
+      "surface": "למים",
+      "gloss": "mai"
+    }
+  ],
+  "timestamp": "2026-09-03T15:43:55.247570294Z",
+  "model": "glm-5.3"
+}

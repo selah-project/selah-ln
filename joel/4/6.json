@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joel 4:6",
+  "book": "joel",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "mpe bana ya Yehuda mpe bana ya Yerushalaim botekaki na bana ya Bagreki, mpo na kobangisa bango mosika na ndelo na bango.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "mpe bana ya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "mpe bana ya"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "botekaki"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "na bana ya"
+    },
+    {
+      "surface": "היונים",
+      "gloss": "Bagreki"
+    },
+    {
+      "surface": "למען",
+      "gloss": "mpo na"
+    },
+    {
+      "surface": "הרחיקם",
+      "gloss": "kobangisa bango mosika"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "na"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "ndelo na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T20:42:06.743057591Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 111:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 111,
+  "translation": "Misala ya maboko na ye ⟨ezali⟩ bosolo mpe lumbungu; malaku na ye nyonso ezali sembe.",
+  "tokens": [
+    {
+      "surface": "מעשי",
+      "gloss": "misala"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ya maboko na ye"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "bosolo"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "mpe lumbungu"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "sembe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "פקודיו",
+      "gloss": "malaku na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:29:37.379676308Z",
+  "model": "glm-5.3"
+}

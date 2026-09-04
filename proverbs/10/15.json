@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 10:15",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Misolo ya moto oyo azali na misolo ezali engumba ya nguya na ye, bokufi ya basengi ezali bokwama na bango.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "Misolo"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "ya moto oyo azali na misolo"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "engumba"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "ya nguya na ye"
+    },
+    {
+      "surface": "מחתת",
+      "gloss": "bokufi"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "ya basengi"
+    },
+    {
+      "surface": "רישם",
+      "gloss": "bokwama na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:40:53.078827296Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 22:23",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "mpe Betuel abotaki ⟨את⟩ Rivka. ⟨bana⟩ mwambe oyo Milka abotaki na Nahor, ndeko ⟨ya⟩ Avraham.",
+  "tokens": [
+    {
+      "surface": "ובתואל",
+      "gloss": "mpe Betuel"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "abotaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rivka"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivka"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "mwambe"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "abotaki"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "Milka"
+    },
+    {
+      "surface": "לנחור",
+      "gloss": "na Nahor"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ndeko"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    }
+  ],
+  "timestamp": "2026-09-03T15:54:05.131455604Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 115:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 115,
+  "translation": "Lokola bango bakeli na bango bakokana; nyonso oyo kondimaka na bango.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "lokola bango"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bakokana"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "bakeli na bango"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "kondimaka"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:30:04.266440640Z",
+  "model": "glm-5.3"
+}

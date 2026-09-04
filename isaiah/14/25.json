@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 14:25",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Mpo na kokataka Ashur na mabele na ngai, mpe na bangomba na ngai nakatakaka ⟨ye⟩; mpe ekangeli na ye ekimala utapo na bango, mpe mokendo na ye utapo na lokolo na ye ekomataka.",
+  "tokens": [
+    {
+      "surface": "לשבר",
+      "gloss": "Mpo na kokataka"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "בארצי",
+      "gloss": "na mabele na ngai"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "mpe na"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "bangomba na ngai"
+    },
+    {
+      "surface": "אבוסנו",
+      "gloss": "nakatakaka ⟨ye⟩"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "mpe ekimala"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "utapo na bango"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "ekangeli na ye"
+    },
+    {
+      "surface": "וסבלו",
+      "gloss": "mpe mokendo na ye"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "utapo"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "na lokolo na ye"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "ekomataka"
+    }
+  ],
+  "timestamp": "2026-09-03T19:18:31.138704623Z",
+  "model": "glm-5.3"
+}

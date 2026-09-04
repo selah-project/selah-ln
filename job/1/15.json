@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 1:15",
+  "book": "job",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Sheba ekweyaki likolo na bango mpe ezwaki bango, mpe babomi ⟨את⟩ basali na monoko ya sabre; mpe ngai moko kaka nde namalati mpo na koyebisa yo.",
+  "tokens": [
+    {
+      "surface": "ותפל",
+      "gloss": "mpe ekweyaki"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "ותקחם",
+      "gloss": "mpe ezwaki bango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "basali"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "basali"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "babomi"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "monoko ya"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "sabre"
+    },
+    {
+      "surface": "ואמלטה",
+      "gloss": "mpe namalati"
+    },
+    {
+      "surface": "רק",
+      "gloss": "kaka"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "moko"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "mpo na koyebisa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:51:10.525864446Z",
+  "model": "glm-5.3"
+}

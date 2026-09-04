@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 105:43",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 105,
+  "translation": "Abimisaki bato na yango na bondelo, mpe ⟨את⟩ baponami na yango na loyembo.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "Abimisaki"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bato na yango"
+    },
+    {
+      "surface": "בששון",
+      "gloss": "na bondelo"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "na loyembo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baponami na yango"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "baponami na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:27:15.136567357Z",
+  "model": "glm-5.3"
+}

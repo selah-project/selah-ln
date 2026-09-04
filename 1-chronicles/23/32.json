@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 23:32",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Mpe babateli ⟨את⟩ libateli ya tente ya likita, mpe ⟨את⟩ libateli ya esantu, mpe libateli ya bana ya Aharon bandeko na bango, mpo na mosala ya ndako ya Yawe.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "Mpe babateli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "libateli"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "libateli"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ya tente"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya likita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "libateli"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "libateli"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ya esantu"
+    },
+    {
+      "surface": "ומשמרת",
+      "gloss": "mpe libateli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ya bana"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "bandeko na bango"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "mpo na mosala"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ya ndako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T22:51:18.725842837Z",
+  "model": "glm-5.3"
+}

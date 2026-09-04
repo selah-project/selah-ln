@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 145:11",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 145,
+  "translation": "Bakoloba nkembo ya bokonzi na yo, mpe bakoloba nguya na yo.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "nkembo"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "ya bokonzi na yo"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "bakoloba"
+    },
+    {
+      "surface": "וגבורתך",
+      "gloss": "mpe nguya na yo"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "bakoloba"
+    }
+  ],
+  "timestamp": "2026-09-03T21:36:11.581821800Z",
+  "model": "glm-5.3"
+}

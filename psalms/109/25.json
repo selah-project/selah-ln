@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 109:25",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 109,
+  "translation": "Mpe ngai nakomaki lokasa epai na bango; bayebisi ngai, bazunguza motoki na bango.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Mpe ngai"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "nakomaki"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "lokasa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "epai na bango"
+    },
+    {
+      "surface": "יראוני",
+      "gloss": "bayebisi ngai"
+    },
+    {
+      "surface": "יניעון",
+      "gloss": "bazunguza"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "motoki na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:28:59.450769801Z",
+  "model": "glm-5.3"
+}

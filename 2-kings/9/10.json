@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 9:10",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Mpe ⟨את⟩ Izebel mbwa bakolia na esika ya Yizreel, mpe oyo akobikaka ⟨azali⟩ te; mpe ⟨moto yango⟩ ofungolaki ekoti mpe afuisaki.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Izebel"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebel"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "bakolia"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "mbwa"
+    },
+    {
+      "surface": "בחלק",
+      "gloss": "na esika"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mpe oyo … te"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "akobikaka"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "mpe ofungolaki"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "ekoti"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "mpe afuisaki"
+    }
+  ],
+  "timestamp": "2026-09-03T19:03:14.574600032Z",
+  "model": "glm-5.3"
+}

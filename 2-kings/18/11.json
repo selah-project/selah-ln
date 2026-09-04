@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 18:11",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Mpe mokonji ya Ashur akangolaki ⟨את⟩ Israel na Ashur, mpe atyaki bango na Halah mpe na Habor, moluka ⟨ya⟩ Gozan, mpe na bamboka ya Madai.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "Mpe akangolaki"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonji"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "na Ashur"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "mpe atyaki bango"
+    },
+    {
+      "surface": "בחלח",
+      "gloss": "na Halah"
+    },
+    {
+      "surface": "ובחבור",
+      "gloss": "mpe na Habor"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "moluka"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozan"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "mpe na bamboka"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "ya Madai"
+    }
+  ],
+  "timestamp": "2026-09-03T19:07:06.387562083Z",
+  "model": "glm-5.3"
+}

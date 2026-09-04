@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 1:12",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe na baRuveni, mpe na baGadi, mpe na ndambo ya libota ya Menashe, Yehoshua alobaki ete:",
+  "tokens": [
+    {
+      "surface": "ולראובני",
+      "gloss": "Mpe na baRuveni"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "mpe na baGadi"
+    },
+    {
+      "surface": "ולחצי",
+      "gloss": "mpe na ndambo ya"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "libota"
+    },
+    {
+      "surface": "המנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ete"
+    }
+  ],
+  "timestamp": "2026-09-03T17:43:19.844524411Z",
+  "model": "glm-5.3"
+}

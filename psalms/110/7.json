@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 110,
+  "translation": "Akomela mai ya molongo na nzela; mpo na yango amatolaki motó.",
+  "tokens": [
+    {
+      "surface": "מנחל",
+      "gloss": "mai ya molongo"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "na nzela"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "akomela"
+    },
+    {
+      "surface": "על",
+      "gloss": "mpo na"
+    },
+    {
+      "surface": "כן",
+      "gloss": "yango"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "amatolaki"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "motó"
+    }
+  ],
+  "timestamp": "2026-09-03T21:29:30.773240307Z",
+  "model": "glm-5.3"
+}

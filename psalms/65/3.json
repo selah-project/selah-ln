@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 65:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 65,
+  "translation": "Moyengeli ya matondo, epai nayo nyonso mosolo ekoya.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "moyengeli"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "ya matondo"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "epai nayo tii"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "mosolo"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ekoya"
+    }
+  ],
+  "timestamp": "2026-09-03T21:16:02.396057472Z",
+  "model": "glm-5.3"
+}

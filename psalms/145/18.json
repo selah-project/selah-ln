@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 145:18",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 145,
+  "translation": "Yawe ⟨azali⟩ penepene na bato nyonso oyo babengaka ye, na bato nyonso oyo babengaka ye na bosolo.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "penepene"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "na ... nyonso"
+    },
+    {
+      "surface": "קראיו",
+      "gloss": "bato oyo babengaka ye"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "na ... nyonso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "יקראהו",
+      "gloss": "babengaka ye"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "na bosolo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:36:42.714920709Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 18:10",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Moyo ya Yawe Elohim na yo: soki ezali ekolo mpe bokonzi oyo nkolo na ngai atindaki te kuna mpo na kolukela yo, mpe balobaki ete azali te; mpe asalaki bafunga ⟨את⟩ bokonzi mpe ⟨את⟩ ekolo ete bayeki yo te.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "moyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim na yo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "soki"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ezali"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ekolo"
+    },
+    {
+      "surface": "וממלכה",
+      "gloss": "mpe bokonzi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "atindaki"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "nkolo na ngai"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "לבקשך",
+      "gloss": "mpo na kolukela yo"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "mpe balobaki"
+    },
+    {
+      "surface": "אין",
+      "gloss": "azali te"
+    },
+    {
+      "surface": "והשביע",
+      "gloss": "mpe asalaki bafunga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bokonzi"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "bokonzi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "ekolo"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "ekolo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ימצאכה",
+      "gloss": "bayeki yo"
+    }
+  ],
+  "timestamp": "2026-09-03T18:54:04.901662887Z",
+  "model": "glm-5.3"
+}

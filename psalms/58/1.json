@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 58:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 58,
+  "translation": "Ya mokambi ya mizembo; Bolimwisa te; ya David; Miktam.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ya mokambi ya mizembo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "bolimwisa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya David"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "Miktam"
+    }
+  ],
+  "timestamp": "2026-09-03T21:14:28.885646055Z",
+  "model": "glm-5.3"
+}

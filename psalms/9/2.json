@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 9:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Nakosanzola Yawe na motema na ngai mobimba, nakoloba mambo nyonso na yo ya kokamwa.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "Nakosanzola"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na mobimba"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "motema na ngai"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "nakoloba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mambo nyonso"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "na yo ya kokamwa"
+    }
+  ],
+  "timestamp": "2026-09-03T21:02:33.397517119Z",
+  "model": "glm-5.3"
+}

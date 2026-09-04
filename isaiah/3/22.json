@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 3:22",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Bilamba ya bolamu, mpe mikamisolo, mpe bilembo ya moto, mpe bibombelo",
+  "tokens": [
+    {
+      "surface": "המחלצות",
+      "gloss": "Bilamba ya bolamu"
+    },
+    {
+      "surface": "והמעטפות",
+      "gloss": "mpe mikamisolo"
+    },
+    {
+      "surface": "והמטפחות",
+      "gloss": "mpe bilembo ya moto"
+    },
+    {
+      "surface": "והחריטים",
+      "gloss": "mpe bibombelo"
+    }
+  ],
+  "timestamp": "2026-09-03T19:14:21.941611870Z",
+  "model": "glm-5.3"
+}

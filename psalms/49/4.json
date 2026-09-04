@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 49:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 49,
+  "translation": "Monoko na ngai eloba bwanya, mpe bosoli ya motema na ngai ezala bomanyi.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "Monoko na ngai"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "eloba"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "bwanya"
+    },
+    {
+      "surface": "והגות",
+      "gloss": "mpe bosoli"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "motema na ngai"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "bomanyi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:12:13.246757972Z",
+  "model": "glm-5.3"
+}

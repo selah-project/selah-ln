@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "genesis 41:51",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 41,
+  "translation": "Mpe Yosefe abengaki ⟨את⟩ nkombo ya mbotama Menashe, mpo Elohim asalaki ngai kolibwala nyonso ya makasi na ngai mpe ⟨את⟩ ndako nyonso ya tata na ngai.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "abengaki"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkombo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nkombo"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "ya mbotama"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "נשני",
+      "gloss": "asalaki ngai kolibwala"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "ya makasi na ngai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ya tata na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T16:07:29.310848918Z",
+  "model": "glm-5.3"
+}

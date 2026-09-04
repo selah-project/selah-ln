@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 7:3",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Kanga ezali likolo ya seke, mpo na mabe ya elongi motema esalaka malamu.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ezali likolo"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "Kanga"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "likolo ya seke"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "na mabe"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ya elongi"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "esalaka malamu"
+    },
+    {
+      "surface": "לב",
+      "gloss": "motema"
+    }
+  ],
+  "timestamp": "2026-09-03T22:14:53.067057335Z",
+  "model": "glm-5.3"
+}

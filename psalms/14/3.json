@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 14:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Bato nyonso babongwani, elongo babe; mosali malamu azali te, ata moko te.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "Bato nyonso"
+    },
+    {
+      "surface": "סר",
+      "gloss": "babongwani"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "elongo"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "babe"
+    },
+    {
+      "surface": "אין",
+      "gloss": "azali te"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "mosali"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "malamu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ezali te"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ata"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "moko"
+    }
+  ],
+  "timestamp": "2026-09-03T21:02:46.335410891Z",
+  "model": "glm-5.3"
+}

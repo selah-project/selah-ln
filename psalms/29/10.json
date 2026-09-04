@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 29:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 29,
+  "translation": "Yawe afandaki na nkonzi na mabu, mpe Yawe atikalaki mokonzi na libela.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "na mabu"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "afandaki"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "mpe atikalaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na libela"
+    }
+  ],
+  "timestamp": "2026-09-03T21:05:38.351565952Z",
+  "model": "glm-5.3"
+}

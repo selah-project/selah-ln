@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 144:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 144,
+  "translation": "Oyo apesi bobomi epai ya bakonzi, oyo alongolaki ⟨את⟩ David mosali na ye utá na litema ya mabe.",
+  "tokens": [
+    {
+      "surface": "הנותן",
+      "gloss": "Oyo apesi"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "bobomi"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "epai ya bakonzi"
+    },
+    {
+      "surface": "הפוצה",
+      "gloss": "oyo alongolaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "mosali na ye"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "utá na litema"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ya mabe"
+    }
+  ],
+  "timestamp": "2026-09-03T21:36:19.432367876Z",
+  "model": "glm-5.3"
+}

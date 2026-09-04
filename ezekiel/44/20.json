@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 44:20",
+  "book": "ezekiel",
+  "lang": "ln",
+  "chapter": 44,
+  "translation": "Mpe mitoki na bango bakogala te, mpe mpoi na bango bakotela te; bakosaka ⟨את⟩ mitoki na bango.",
+  "tokens": [
+    {
+      "surface": "וראשם",
+      "gloss": "mpe mitoki na bango"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יגלחו",
+      "gloss": "bakogala"
+    },
+    {
+      "surface": "ופרע",
+      "gloss": "mpe mpoi na bango"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ישלחו",
+      "gloss": "bakotela"
+    },
+    {
+      "surface": "כסום",
+      "gloss": "kosaka"
+    },
+    {
+      "surface": "יכסמו",
+      "gloss": "bakosaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mitoki na bango"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "mitoki na bango"
+    }
+  ],
+  "timestamp": "2026-09-04T00:01:19.113782061Z",
+  "model": "glm-5.3"
+}

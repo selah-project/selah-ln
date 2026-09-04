@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 18:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Nakobenga Yawe, oyo azali koyekanama, mpe nakobikama uta na bangonzi na ngai.",
+  "tokens": [
+    {
+      "surface": "מהולל",
+      "gloss": "oyo azali koyekanama"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "nakobenga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "mpe uta na"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "bangonzi na ngai"
+    },
+    {
+      "surface": "אושע",
+      "gloss": "nakobikama"
+    }
+  ],
+  "timestamp": "2026-09-03T21:03:13.299779291Z",
+  "model": "glm-5.3"
+}

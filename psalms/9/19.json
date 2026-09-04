@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 9:19",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Mpo sebele moboka ebosuwelama te libela; litoya ya bampasi ebolamaka te libela.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "libela"
+    },
+    {
+      "surface": "ישכח",
+      "gloss": "ebosuwelama"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "moboka"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "litoya"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "ya bampasi"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "ebolamaka"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "libela"
+    }
+  ],
+  "timestamp": "2026-09-03T21:01:51.762906512Z",
+  "model": "glm-5.3"
+}

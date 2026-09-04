@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 106:24",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 106,
+  "translation": "Mpe baboyaki mabele ya bolengo, bandimaki te liloba na ye.",
+  "tokens": [
+    {
+      "surface": "וימאסו",
+      "gloss": "Mpe baboyaki"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "חמדה",
+      "gloss": "ya bolengo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "bandimaki"
+    },
+    {
+      "surface": "לדברו",
+      "gloss": "liloba na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:27:24.773951098Z",
+  "model": "glm-5.3"
+}

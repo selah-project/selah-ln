@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 7:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mongouna na ngai alanda molimo na ngai, mpe atungi ⟨yo⟩, mpe akangisa bomoi na ngai na mabele, mpe nkembo na ngai na mopusu afandisaka ⟨yo⟩. Selah.",
+  "tokens": [
+    {
+      "surface": "ירדף",
+      "gloss": "alanda"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "monguna na ngai"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "molimo na ngai"
+    },
+    {
+      "surface": "וישג",
+      "gloss": "mpe atungi"
+    },
+    {
+      "surface": "וירמס",
+      "gloss": "mpe akangisa na mabele"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "bomoi na ngai"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "mpe nkembo na ngai"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "na mopusu"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "afandisaka"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-03T21:00:41.151385559Z",
+  "model": "glm-5.3"
+}

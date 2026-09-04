@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 25:7",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Mabanga shoham, mpe mabanga ya botyami, mpo ya efoda mpe mpo ya hoshen.",
+  "tokens": [
+    {
+      "surface": "אבני",
+      "gloss": "mabanga"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "shoham"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "mpe mabanga"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "ya botyami"
+    },
+    {
+      "surface": "לאפד",
+      "gloss": "mpo ya efoda"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "mpe mpo ya hoshen"
+    }
+  ],
+  "timestamp": "2026-09-03T16:27:14.019040708Z",
+  "model": "glm-5.3"
+}

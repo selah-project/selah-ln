@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 15:10",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 15,
+  "translation": "Mpe mbula ntuku minei na moko akokonzaki na Yerushalaim; mpe kombo ya mama na yango ⟨ezalaki⟩ Maakha mwana mwasi ya Avishalom.",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "Mpe ntuku minei"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "na moko"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mbula"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "akokonzaki"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "na Yerushalaim"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "mpe kombo"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ya mama na yango"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maakha"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana mwasi"
+    },
+    {
+      "surface": "אבישלום",
+      "gloss": "ya Avishalom"
+    }
+  ],
+  "timestamp": "2026-09-03T18:52:57.464650256Z",
+  "model": "glm-5.3"
+}

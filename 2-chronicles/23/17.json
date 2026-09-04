@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 23:17",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Mpe bato banso bayaki na ndako ya Baal, mpe babukaki yango, mpe ⟨את⟩ ba-autel na yango mpe ⟨את⟩ bileko na yango babukaki, mpe ⟨את⟩ Matan kohen ya Baal babomaki liboso ya ba-autel.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "bayaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "banso"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "ya Baal"
+    },
+    {
+      "surface": "ויתצהו",
+      "gloss": "babukaki yango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "ba-autel na yango"
+    },
+    {
+      "surface": "מזבחתיו",
+      "gloss": "ba-autel na yango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bileko na yango"
+    },
+    {
+      "surface": "צלמיו",
+      "gloss": "bileko na yango"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "babukaki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Matan"
+    },
+    {
+      "surface": "מתן",
+      "gloss": "Matan"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "ya Baal"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "babomaki"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "ba-autel"
+    }
+  ],
+  "timestamp": "2026-09-03T23:04:00.000459906Z",
+  "model": "glm-5.3"
+}

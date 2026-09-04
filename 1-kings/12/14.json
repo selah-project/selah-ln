@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 12:14",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "mpe alobaki na bango lokola ndimbola ya bilenge, na koloba: Tata na ngai ekalisaki ⟨את⟩ elonge na bino bozito, mpe ngai nakobakisa na elonge na bino; tata na ngai asalisaki ⟨את⟩ bino mpasi na mikanda, mpe ngai nakosala ⟨את⟩ bino mpasi na bikalakala.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "כעצת",
+      "gloss": "lokola ndimbola"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "ya bilenge"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na koloba"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tata na ngai"
+    },
+    {
+      "surface": "הכביד",
+      "gloss": "ekalisaki bozito"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elonge na bino"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "elonge na bino"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "mpe ngai"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "nakobakisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "elonge na bino"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tata na ngai"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "asalisaki mpasi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "bino"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "na mikanda"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "mpe ngai"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "nakosala mpasi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "bino"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "na bikalakala"
+    }
+  ],
+  "timestamp": "2026-09-03T18:51:36.301587959Z",
+  "model": "glm-5.3"
+}

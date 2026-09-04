@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 12:1",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Yawe atindaki ⟨את⟩ Natan epai ya David; mpe Natan ayaki epai na ye, mpe alobaki na ye: bato mibale bazalaki na mboka moko, moko azalaki motopi mpe moko azalaki mosanzi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "atindaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Natan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ayaki"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "epai na ye"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "bato"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bazalaki"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "na mboka"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "moko"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "moko"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "motopi"
+    },
+    {
+      "surface": "ויאחד",
+      "gloss": "mpe moko"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "mosanzi"
+    }
+  ],
+  "timestamp": "2026-09-03T23:22:59.286912653Z",
+  "model": "glm-5.3"
+}

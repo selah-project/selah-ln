@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 4:6",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe kohen akotisaki ⟨את⟩ lonzete na yango na maki, mpe asopaki kati na maki mbala sambo liboso ya Yawe, ⟨na⟩ liboso ya paroket ya bosantu.",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "mpe akotisaki"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lonzete na yango"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "lonzete na yango"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "na maki"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "mpe asopaki"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kati na"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "maki"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sambo"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "mbala"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "liboso ya paroket"
+    },
+    {
+      "surface": "פני",
+      "gloss": "liboso (elongi)"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "paroket"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "bosantu"
+    }
+  ],
+  "timestamp": "2026-09-03T16:42:34.441793430Z",
+  "model": "glm-5.3"
+}

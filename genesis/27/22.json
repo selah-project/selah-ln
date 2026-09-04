@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 27:22",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 27,
+  "translation": "Mpe Yaakov akotaki epai ya Yitshak tata na ye, mpe atambwisaki ye maboko; mpe alobaki: Litolu nde litolu ya Yaakov, kasi maboko nde maboko ya Esav.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "Mpe akotaki pene"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "tata na ye"
+    },
+    {
+      "surface": "וימשהו",
+      "gloss": "mpe atambwisaki ye maboko"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "litolu"
+    },
+    {
+      "surface": "קול",
+      "gloss": "litolu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "והידים",
+      "gloss": "kasi maboko"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "maboko ya"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    }
+  ],
+  "timestamp": "2026-09-03T15:58:27.822938709Z",
+  "model": "glm-5.3"
+}

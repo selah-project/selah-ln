@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 25:6",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Mpe Shabat ya mabele ekozala bilia epai na bino: na yo, mpe na mosali na yo mpe na mosali mwasi na yo, mpe na mosali ya mokolo na yo, mpe na moto oyo afandi na yo, bapaya oyo bazali elongo na yo.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "Mpe ekozala"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Shabat"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ya mabele"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "epai na bino"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "bilia"
+    },
+    {
+      "surface": "לך",
+      "gloss": "na yo"
+    },
+    {
+      "surface": "ולעבדך",
+      "gloss": "mpe na mosali na yo"
+    },
+    {
+      "surface": "ולאמתך",
+      "gloss": "mpe na mosali mwasi na yo"
+    },
+    {
+      "surface": "ולשכירך",
+      "gloss": "mpe na mosali ya mokolo na yo"
+    },
+    {
+      "surface": "ולתושבך",
+      "gloss": "mpe na moto oyo afandi na yo"
+    },
+    {
+      "surface": "הגרים",
+      "gloss": "bapaya"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "elongo na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T16:55:00.360063564Z",
+  "model": "glm-5.3"
+}

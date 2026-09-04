@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 100:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 100,
+  "translation": "Boyebi ete Yawe, ye nde Elohim; ye asali biso, mpe biso te biso moko; biso bato na ye, mpe banyama ya bontombo na ye.",
+  "tokens": [
+    {
+      "surface": "דעו",
+      "gloss": "Boyebi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ye nde"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ye"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "asali biso"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe... te"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "biso moko"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bato na ye"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "mpe banyama"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "ya bontombo na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:26:35.937331760Z",
+  "model": "glm-5.3"
+}

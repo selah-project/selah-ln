@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 19:25",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Mpe abongolaki ⟨את⟩ mboka oyo, mpe ⟨את⟩ etando mobimba, mpe ⟨את⟩ bafandi nyonso ya mboka, mpe biloko ya kobota ya mabele.",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "mpe abongolaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mboka oyo"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "mboka"
+    },
+    {
+      "surface": "האל",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "etando mobimba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mobimba"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "etando"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bafandi nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "bafandi"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "ya mboka"
+    },
+    {
+      "surface": "וצמח",
+      "gloss": "mpe biloko ya kobota"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ya mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T15:52:42.414818537Z",
+  "model": "glm-5.3"
+}

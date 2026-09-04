@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 25:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Nzela nyonso ya Yawe ⟨ezali⟩ hesed (bolingo) mpe bosembo, mpo na babati ya bokli na yango mpe batatoli na yango.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "nzela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "mpe bosembo"
+    },
+    {
+      "surface": "לנצרי",
+      "gloss": "mpo na babati"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "bokli na yango"
+    },
+    {
+      "surface": "ועדתיו",
+      "gloss": "mpe batatoli na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:05:38.154193811Z",
+  "model": "glm-5.3"
+}

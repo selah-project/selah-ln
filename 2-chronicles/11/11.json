@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 11:11",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpe amatisaki makasi ⟨את⟩ bizenga, mpe atyaki na yango bakonzi, mpe bibombeli ya biloko ya kolia, mpe mafuta, mpe divai.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "amatisaki makasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bizenga"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "bizenga"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "mpe atyaki"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "bakonzi"
+    },
+    {
+      "surface": "ואצרות",
+      "gloss": "mpe bibombeli"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "ya biloko ya kolia"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "mpe mafuta"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "mpe divai"
+    }
+  ],
+  "timestamp": "2026-09-03T22:56:44.843512716Z",
+  "model": "glm-5.3"
+}

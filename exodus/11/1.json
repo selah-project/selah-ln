@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 11:1",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Yawe alobaki na Moshe: Likabo moko mpe nakomema na likolo ya Parao mpe na likolo ya Mitsraim; na nsima bongo akotika ⟨את⟩ bino ewuta awa; ntango akotika ⟨את⟩ bino, penza akopusa bino boni ewuta awa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "likabo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "moko"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "nakomema"
+    },
+    {
+      "surface": "על",
+      "gloss": "na likolo ya"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "mpe na likolo ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "na nsima"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bongo"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "akotika"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ bino",
+      "marks": "bino"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ewuta awa"
+    },
+    {
+      "surface": "כשלחו",
+      "gloss": "ntango akotika"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "penza"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "bopusa"
+    },
+    {
+      "surface": "יגרש",
+      "gloss": "akopusa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ bino",
+      "marks": "bino"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ewuta awa"
+    }
+  ],
+  "timestamp": "2026-09-04T00:01:35.415136974Z",
+  "model": "glm-5.3"
+}

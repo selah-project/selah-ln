@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 2:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Bakonzi ya mabele batyelaki, mpe bakabini bakutanaki elongo, likolo ya Yawe mpe likolo ya Mashiah na ye.",
+  "tokens": [
+    {
+      "surface": "יתיצבו",
+      "gloss": "batyelaki"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Bakonzi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ya mabele"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "mpe bakabini"
+    },
+    {
+      "surface": "נוסדו",
+      "gloss": "bakutanaki"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "elongo"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "mpe likolo ya"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "Mashiah na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:00:12.766043815Z",
+  "model": "glm-5.3"
+}

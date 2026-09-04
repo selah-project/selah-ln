@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 119:47",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Mpe nakosepelisa motema na ngai na malako na yo oyo namelaki.",
+  "tokens": [
+    {
+      "surface": "ואשתעשע",
+      "gloss": "Mpe nakosepelisa motema na ngai"
+    },
+    {
+      "surface": "במצותיך",
+      "gloss": "na malako na yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "namelaki"
+    }
+  ],
+  "timestamp": "2026-09-03T21:31:19.777074681Z",
+  "model": "glm-5.3"
+}

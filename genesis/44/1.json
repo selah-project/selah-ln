@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 44:1",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 44,
+  "translation": "Mpe atindaki ⟨את⟩ oyo azalaki likolo ya ndako na ye, aloba: Jamisa ⟨את⟩ maposa ya bato biloko ya kolia, ndenge bakoki kowuta, mpe tia mosolo, moto na moto, na monoko ya posa na ye.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "mpe atindaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oyo azalaki likolo ya ndako na ye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ndako na ye"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "aloba"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "jamisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maposa"
+    },
+    {
+      "surface": "אמתחת",
+      "gloss": "maposa"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ya bato"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "biloko ya kolia"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ndenge"
+    },
+    {
+      "surface": "יוכלון",
+      "gloss": "bakoki"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "kowuta"
+    },
+    {
+      "surface": "וְשִׂים",
+      "gloss": "mpe tia"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "mosolo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto na moto"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "na monoko ya"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "posa na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T16:09:34.046139357Z",
+  "model": "glm-5.3"
+}

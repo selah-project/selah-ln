@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 1:20",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Elohim asalaki malamu epai ya bamiboti, mpe bato bakomaki bingi, mpe bakolaki na nguya mingi.",
+  "tokens": [
+    {
+      "surface": "וַיֵּיטֶב",
+      "gloss": "asalaki malamu"
+    },
+    {
+      "surface": "אֱלֹהִים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לַמְיַלְּדֹת",
+      "gloss": "epai ya bamiboti"
+    },
+    {
+      "surface": "וַיִּרֶב",
+      "gloss": "mpe bakomaki bingi"
+    },
+    {
+      "surface": "הָעָם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "וַיַּעַצְמוּ",
+      "gloss": "mpe bakolaki na nguya"
+    },
+    {
+      "surface": "מְאֹד",
+      "gloss": "mingi"
+    }
+  ],
+  "timestamp": "2026-09-03T16:13:47.245538621Z",
+  "model": "glm-5.3"
+}

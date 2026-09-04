@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 16:32",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Mpe mabele efungolamaki ⟨את⟩ monyelo ya yango, mpe mela ⟨את⟩ bango mpe ⟨את⟩ bandako na bango, mpe ⟨את⟩ bato nyonso oyo bazalaki na Korah, mpe ⟨את⟩ biloko nyonso.",
+  "tokens": [
+    {
+      "surface": "ותפתח",
+      "gloss": "mpe efungolamaki"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "monyelo ya yango"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "monyelo ya yango"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "mpe mela"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bandako na bango"
+    },
+    {
+      "surface": "בתיהם",
+      "gloss": "bandako na bango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bato nyonso oyo bazalaki na Korah"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo bazalaki"
+    },
+    {
+      "surface": "לקרח",
+      "gloss": "na Korah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "biloko nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "הרכוש",
+      "gloss": "biloko"
+    }
+  ],
+  "timestamp": "2026-09-03T17:11:04.613228146Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 23:11",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Mpo molikoli na bango azali makasi; ye akotuna ⟨את⟩ likambo na bango ⟨את⟩ elongo na yo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "molikoli na bango"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "makasi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ye"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "akotuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "likambo na bango"
+    },
+    {
+      "surface": "ריבם",
+      "gloss": "likambo na bango"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ elongo na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:46:14.694859655Z",
+  "model": "glm-5.3"
+}

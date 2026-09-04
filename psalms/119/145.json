@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 145,
+  "ref": "psalms 119:145",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Na motema mobimba nakengelaki Yawe: yanza ngai; mibeko na yo nakikalaka.",
+  "tokens": [
+    {
+      "surface": "קראתי",
+      "gloss": "nakengelaki"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na mobimba"
+    },
+    {
+      "surface": "לב",
+      "gloss": "motema"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "yanza ngai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "mibeko na yo"
+    },
+    {
+      "surface": "אצרה",
+      "gloss": "nakikalaka"
+    }
+  ],
+  "timestamp": "2026-09-03T21:31:28.444827526Z",
+  "model": "glm-5.3"
+}

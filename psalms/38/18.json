@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 38:18",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 38,
+  "translation": "Mpo ngai nazali pene ya kokweka, mpe mawa na ngai ezali liboso na ngai mokolo nyonso.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "לצלע",
+      "gloss": "pene ya kokweka"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "nazali"
+    },
+    {
+      "surface": "ומכאובי",
+      "gloss": "mpe mawa na ngai"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "liboso na ngai"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "mokolo nyonso"
+    }
+  ],
+  "timestamp": "2026-09-03T21:09:51.181871676Z",
+  "model": "glm-5.3"
+}

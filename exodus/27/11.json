@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 27:11",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 27,
+  "translation": "Mpe lokola yango na eteni ya nord, na molayi: mikanda zomi na nkama ya maboko molayi; mpe bankiti na yango zomi na mibale, mpe maboko na bango zomi na mibale ya kungo; mangu ya bankiti mpe bikekulu na bango ya fenta.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "Mpe lokola yango"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "na eteni ya"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "nord"
+    },
+    {
+      "surface": "בארך",
+      "gloss": "na molayi"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "mikanda"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "zomi na nkama"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ya maboko molayi"
+    },
+    {
+      "surface": "ועמדו",
+      "gloss": "mpe bankiti na yango"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "zomi na mibale"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "mpe maboko na bango"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "zomi na mibale"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ya kungo"
+    },
+    {
+      "surface": "וזי",
+      "gloss": "mangu ya"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "bankiti"
+    },
+    {
+      "surface": "וחשקיהם",
+      "gloss": "mpe bikekulu na bango"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ya fenta"
+    }
+  ],
+  "timestamp": "2026-09-03T16:27:22.679742858Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 2:8",
+  "book": "hosea",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpo na yango, tala, ngai nazali kolanga ⟨את⟩ nzela na yo na bazala, mpe nakolanga ⟨את⟩ lolango na ye, mpe banzela na ye akokuta yango te.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Mpo na yango"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "tala, ngai nazali"
+    },
+    {
+      "surface": "שך",
+      "gloss": "kolanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nzela na yo"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "nzela na yo"
+    },
+    {
+      "surface": "בסירים",
+      "gloss": "na bazala"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "mpe nakolanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lolango na ye"
+    },
+    {
+      "surface": "גדרה",
+      "gloss": "lolango na ye"
+    },
+    {
+      "surface": "ונתיבותיה",
+      "gloss": "mpe banzela na ye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "akokuta yango"
+    }
+  ],
+  "timestamp": "2026-09-03T20:37:50.916150689Z",
+  "model": "glm-5.3"
+}

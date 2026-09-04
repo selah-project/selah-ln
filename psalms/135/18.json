@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 135:18",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 135,
+  "translation": "Bakeli na bango bakokani na bango; nyonso oyo andimi na bango ⟨bakokani na bango⟩.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "kokani na bango"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bakokani"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "bakeli na bango"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "andimi na"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:34:03.524242704Z",
+  "model": "glm-5.3"
+}

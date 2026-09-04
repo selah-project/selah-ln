@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 11:9",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpe Uriya analalaki na lipa ya ndako ya mokonzi, elongo na ⟨את⟩ basali nyonso ya nkolo na ye, mpe akotaki te na ndako na ye.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "analalaki"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "na lipa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ya ndako"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya mokonzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "basali nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "basali"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ya nkolo na ye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe ... te"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "akotaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ndako na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T18:32:17.755152336Z",
+  "model": "glm-5.3"
+}

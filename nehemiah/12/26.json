@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 12:26",
+  "book": "nehemiah",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Oyo ezalaki na mikolo ya Yoyakim, mwana wa Yeshua, mwana wa Yotsadak, mpe na mikolo ya Nehemia, mokonzi ya etuka, mpe ya Ezra kohen, mokomi.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Oyo"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "na mikolo ya"
+    },
+    {
+      "surface": "יויקים",
+      "gloss": "Yoyakim"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "ישוע",
+      "gloss": "Yeshua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "יוצדק",
+      "gloss": "Yotsadak"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "mpe na mikolo ya"
+    },
+    {
+      "surface": "נחמיה",
+      "gloss": "Nehemia"
+    },
+    {
+      "surface": "הפחה",
+      "gloss": "mokonzi ya etuka"
+    },
+    {
+      "surface": "ועזרא",
+      "gloss": "mpe Ezra"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "הסופר",
+      "gloss": "mokomi"
+    }
+  ],
+  "timestamp": "2026-09-03T22:39:12.538132198Z",
+  "model": "glm-5.3"
+}

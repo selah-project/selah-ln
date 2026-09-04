@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 13:18",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Mpe Elohim azongisaki ⟨את⟩ bato na nzela ya etando ya mbu ya Sof; mpe bana ya Israel bimaki na minduki uta na mabele ya Mitsraim.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "mpe azongisaki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bato"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "nzela"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "etando"
+    },
+    {
+      "surface": "ים",
+      "gloss": "mbu"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Sof"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "na minduki"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "bimaki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "uta na mabele"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    }
+  ],
+  "timestamp": "2026-09-03T16:21:20.906959238Z",
+  "model": "glm-5.3"
+}

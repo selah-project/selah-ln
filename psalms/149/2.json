@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 149:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 149,
+  "translation": "Israel azali na esengo na Mokeli na ye; bana ya Tsion bazali na esengo na mokonzi na bango.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "azali na esengo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בעשיו",
+      "gloss": "na Mokeli na ye"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ya Tsion"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "bazali na esengo"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "na mokonzi na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:36:12.967180744Z",
+  "model": "glm-5.3"
+}

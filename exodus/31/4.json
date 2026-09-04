@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 31:4",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 31,
+  "translation": "na kokanisa makanesa, mpo na kosala na sanza ya daetu, mpe na fendula, mpe na ndekesa;",
+  "tokens": [
+    {
+      "surface": "לחשב",
+      "gloss": "na kokanisa"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "makanesa"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "mpo na kosala"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "na sanza ya daetu"
+    },
+    {
+      "surface": "ובכסף",
+      "gloss": "mpe na fendula"
+    },
+    {
+      "surface": "ובנחשת",
+      "gloss": "mpe na ndekesa"
+    }
+  ],
+  "timestamp": "2026-09-03T16:29:50.720079274Z",
+  "model": "glm-5.3"
+}

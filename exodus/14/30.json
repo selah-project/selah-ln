@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 14:30",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Mpe Yawe abikisaki Israel na mokolo wana na loboko ya Mitsraim, mpe Israel amonaki ⟨את⟩ Mitsraim akufaki na ngambo ya ebale.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "abikisaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na mokolo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "wana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "na loboko ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "mpe amonaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsraim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "מת",
+      "gloss": "akufaki"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ngambo ya"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ebale"
+    }
+  ],
+  "timestamp": "2026-09-03T16:20:23.215818199Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 3:3",
+  "book": "ezekiel",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe alobaki epai ngai: Mwana ya moto, libumu na yo okolia ⟨את⟩ mokanda oyo, mpe matama na yo ojula, oyo ngai nazali kopesa epai yo; mpe nakali yango, mpe ekomaki na monoko na ngai lokola dine ya komeka.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "epai ngai"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Mwana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ya moto"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "libumu na yo"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "okolia"
+    },
+    {
+      "surface": "ומעיך",
+      "gloss": "mpe matama na yo"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "ojula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mokanda oyo"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "mokanda"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nazali kopesa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "epai yo"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "mpe nakali yango"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "mpe ekomaki"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "na monoko na ngai"
+    },
+    {
+      "surface": "כדבש",
+      "gloss": "lokola dine"
+    },
+    {
+      "surface": "למתוק",
+      "gloss": "ya komeka"
+    }
+  ],
+  "timestamp": "2026-09-03T20:12:16.164349711Z",
+  "model": "glm-5.3"
+}

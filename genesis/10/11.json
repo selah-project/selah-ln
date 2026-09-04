@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 10:11",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Wuta na mabele yango Ashur abimaki, mpe atongaki ⟨את⟩ Nineve, mpe ⟨את⟩ Rehobot-Ir, mpe ⟨את⟩ Kalah.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Wuta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yango"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "abimaki"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "mpe atongaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nineve"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Nineve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Rehobot-Ir"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "Rehobot"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Ir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Kalah"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kalah"
+    }
+  ],
+  "timestamp": "2026-09-03T15:48:57.859372502Z",
+  "model": "glm-5.3"
+}

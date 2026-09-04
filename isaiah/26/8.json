@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 26:8",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "Mpe na njela ya makonzi na yo, Yawe, tozelaki yo; na nkombo na yo mpe na likanisi na yo ezali mposa ya bomoi ⟨na biso⟩.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "njela"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "ya makonzi na yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "קוינוך",
+      "gloss": "tozelaki yo"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "na nkombo na yo"
+    },
+    {
+      "surface": "ולזכרך",
+      "gloss": "mpe na likanisi na yo"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "mposa"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ya bomoi"
+    }
+  ],
+  "timestamp": "2026-09-03T19:22:18.377072298Z",
+  "model": "glm-5.3"
+}

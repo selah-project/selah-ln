@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 13:1",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "⟨את⟩ Liloba nyonso oyo nakangameli ⟨את⟩ bino, bokengela yango mpo bo sali; bokobakisa te likolo na yango, mpe bokelongisa te na yango.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "liloba nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "liloba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "na"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "nakangameli"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ bino"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yango"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "bokengela"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "mpo bo sali"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "bokobakisa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "likolo na yango"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "תגרע",
+      "gloss": "bokelongisa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T17:31:05.350194471Z",
+  "model": "glm-5.3"
+}

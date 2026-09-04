@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 33:2",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 33,
+  "translation": "Boye Yawe alobaki, mokeli wa yango, Yawe mombandi wa yango mpo na kobongisa ⟨את⟩ yango, Yawe nde nkombo na yango.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Boye"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "mokeli wa yango"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "mombandi wa yango"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ yango",
+      "marks": "yango (mboka oyo Yawe asalaki)"
+    },
+    {
+      "surface": "להכינה",
+      "gloss": "mpo na kobongisa yango"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nkombo na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T19:59:12.076002435Z",
+  "model": "glm-5.3"
+}

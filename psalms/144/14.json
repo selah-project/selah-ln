@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 144:14",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 144,
+  "translation": "Bamasi na biso bazali kanginga makasi; ⟨ezali te⟩ bokati, mpe ⟨ezali te⟩ molakisi, mpe ⟨ezali te⟩ bodondi na banzela ya minene na biso.",
+  "tokens": [
+    {
+      "surface": "אלופינו",
+      "gloss": "bamasi na biso"
+    },
+    {
+      "surface": "מסובלים",
+      "gloss": "bazali kanginga makasi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨ezali te⟩"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "bokati"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mpe ⟨ezali te⟩"
+    },
+    {
+      "surface": "יוצאת",
+      "gloss": "molakisi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mpe ⟨ezali te⟩"
+    },
+    {
+      "surface": "צוחה",
+      "gloss": "bodondi"
+    },
+    {
+      "surface": "ברחבתינו",
+      "gloss": "na banzela ya minene na biso"
+    }
+  ],
+  "timestamp": "2026-09-03T21:36:03.114479880Z",
+  "model": "glm-5.3"
+}

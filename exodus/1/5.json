@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 1:5",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe bomoi nyonso ya baye bawutaki na maputu ya Yaakov — bomoi ntuku sambo; mpe Yosefe azalaki ⟨kaka⟩ na Mitsraim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mpe esalemaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "bomoi"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "baye bawutaki"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "maputu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ntuku sambo"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "bomoi"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "mpe Yosefe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "azalaki"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "na Mitsraim"
+    }
+  ],
+  "timestamp": "2026-09-03T16:12:19.862750818Z",
+  "model": "glm-5.3"
+}

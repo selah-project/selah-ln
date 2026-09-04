@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 17:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 17,
+  "translation": "Malembu na bango bakangaki, na monoko na bango balobaki na lolendo.",
+  "tokens": [
+    {
+      "surface": "חלבמו",
+      "gloss": "malembu na bango"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "bakangaki"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "monoko na bango"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "balobaki"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "na lolendo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:01:45.508793501Z",
+  "model": "glm-5.3"
+}

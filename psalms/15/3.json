@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 15:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 15,
+  "translation": "Abukaka mabe te na minoke na ye, asali mabe te epai ya moninga na ye, mpe nkonzi atomboli te epai ya moto ya pembeni na ye.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "abukaka mabe"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "לשנו",
+      "gloss": "minoke na ye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "asali"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "epai ya moninga na ye"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "וחרפה",
+      "gloss": "mpe nkonzi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "atomboli"
+    },
+    {
+      "surface": "על",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "moto ya pembeni na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:03:04.721835616Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 1:7",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe bongo asalaki mbula na mbula; ntango nyonso oyo akanaki na ndako ya Yawe, bongo asalaki ye mawa, mpe azalaki kolila mpe kolia te.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "mpe bongo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "asalaki"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mbula"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "na mbula"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "ntango nyonso oyo"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "akanaki"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "na ndako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yawe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bongo"
+    },
+    {
+      "surface": "תכעסנה",
+      "gloss": "asalaki ye mawa"
+    },
+    {
+      "surface": "ותבכה",
+      "gloss": "mpe azalaki kolila"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "kolia"
+    }
+  ],
+  "timestamp": "2026-09-03T18:09:21.679064946Z",
+  "model": "glm-5.3"
+}

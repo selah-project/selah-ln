@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 17:1",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 17,
+  "translation": "Mpe Yawe alobaki epai ya Moshe, eloba:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "eloba"
+    }
+  ],
+  "timestamp": "2026-09-03T16:51:06.048002873Z",
+  "model": "glm-5.3"
+}

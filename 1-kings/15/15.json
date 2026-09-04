@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 15:15",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 15,
+  "translation": "Mpe akomisaki ⟨את⟩ bimonako nsantu ya tata na ye mpe bimonako nsantu na ye na ndako ya Yawe: mbongo, wolo, mpe biloko.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "mpe akomisaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bimonako nsantu ya tata na ye"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "bimonako nsantu"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ya tata na ye"
+    },
+    {
+      "surface": "וקדשו",
+      "gloss": "mpe bimonako nsantu na ye"
+    },
+    {
+      "surface": "בית",
+      "gloss": "na ndako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yawe"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "mbongo"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "mpe wolo"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "mpe biloko"
+    }
+  ],
+  "timestamp": "2026-09-03T18:53:00.500109412Z",
+  "model": "glm-5.3"
+}

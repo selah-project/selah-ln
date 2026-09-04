@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 52:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 52,
+  "translation": "Batatolu bakomona, mpe bakobanga, mpe bakoseka likolo na ye.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "bakomona"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "batatolu"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "mpe bakobanga"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "likolo na ye"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "bakoseka"
+    }
+  ],
+  "timestamp": "2026-09-03T21:14:17.553808582Z",
+  "model": "glm-5.3"
+}

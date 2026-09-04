@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 89:35",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 89,
+  "translation": "Boyokani na ngai nakobebisa te, mpe oyo ebimaki na minoko na ngai nakobongola te.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "אחלל",
+      "gloss": "nakobebisa"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "boyokani na ngai"
+    },
+    {
+      "surface": "ומוצא",
+      "gloss": "mpe oyo ebimaki"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "na minoko na ngai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "אשנה",
+      "gloss": "nakobongola"
+    }
+  ],
+  "timestamp": "2026-09-03T21:22:54.606632269Z",
+  "model": "glm-5.3"
+}

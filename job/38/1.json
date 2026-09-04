@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 38:1",
+  "book": "job",
+  "lang": "ln",
+  "chapter": 38,
+  "translation": "Yawe eyanolaki ⟨את⟩ Iyob na sepe, mpe alobaki,",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "eyanolaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iyob"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyob"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "na"
+    },
+    {
+      "surface": "הסערה",
+      "gloss": "sepe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    }
+  ],
+  "timestamp": "2026-09-03T22:04:30.432050703Z",
+  "model": "glm-5.3"
+}

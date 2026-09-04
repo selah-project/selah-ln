@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 1:2",
+  "book": "judges",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe Yawe alobaki: Yehuda akokweya; tala, napesi ⟨את⟩ mabele na maboku na ye.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "akokweya"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tala"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "napesi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "na maboku na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T17:56:07.393588498Z",
+  "model": "glm-5.3"
+}

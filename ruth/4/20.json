@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ruth 4:20",
+  "book": "ruth",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe Aminadav abotaki ⟨את⟩ Nahshon, mpe Nahshon abotaki ⟨את⟩ Salma.",
+  "tokens": [
+    {
+      "surface": "ועמינדב",
+      "gloss": "mpe Aminadav"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "abotaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nahshon"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nahshon"
+    },
+    {
+      "surface": "ונחשון",
+      "gloss": "mpe Nahshon"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "abotaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Salma"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salma"
+    }
+  ],
+  "timestamp": "2026-09-03T22:08:44.452186020Z",
+  "model": "glm-5.3"
+}

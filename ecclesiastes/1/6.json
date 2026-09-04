@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 1:6",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mopepe ezali kokende epai ya sudi, mpe ezali kozunga epai ya nordi; kozunga, kozunga, mopepe ezali kokende, mpe na matangi na yango mopepe ezali kozonga.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "ezali kokende"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "דרום",
+      "gloss": "sudi"
+    },
+    {
+      "surface": "וסובב",
+      "gloss": "mpe ezali kozunga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "nordi"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "kozunga"
+    },
+    {
+      "surface": "סבב",
+      "gloss": "kozunga"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ezali kokende"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "mopepe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "mpe na"
+    },
+    {
+      "surface": "סביבתיו",
+      "gloss": "matangi na yango"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ezali kozonga"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "mopepe"
+    }
+  ],
+  "timestamp": "2026-09-03T22:13:15.693300414Z",
+  "model": "glm-5.3"
+}

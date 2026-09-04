@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 129:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 129,
+  "translation": "Lokoma ya bokweli. Mingi bakweyaki ngai uta na boboto na ngai; Israel alomba sikoyo:",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Lokoma"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ya bokweli"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "Mingi"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "bakweyaki ngai"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "uta na boboto na ngai"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "aloba"
+    },
+    {
+      "surface": "נא",
+      "gloss": "sikoyo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-03T21:33:10.474400415Z",
+  "model": "glm-5.3"
+}

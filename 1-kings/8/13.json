@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 8:13",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Nasala nasalaki ndako — zebul (esika ya lokumu) mpo na yo, esika ya mikolo mpo na kovanda na yo libela.",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "nasala"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "nasalaki"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "zebul"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mpo na yo"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "esika ya mikolo"
+    },
+    {
+      "surface": "לשבתך",
+      "gloss": "mpo na kovanda na yo"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "libela"
+    }
+  ],
+  "timestamp": "2026-09-03T18:48:38.137358717Z",
+  "model": "glm-5.3"
+}

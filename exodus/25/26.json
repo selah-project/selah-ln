@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 25:26",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Mpe osala na yango bagongwe minei ya olo, mpe otya ⟨את⟩ bagongwe na mikonga minei, oyo ezali na maguru minei na yango.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Mpe osala"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "minei"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "bagongwe"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ya olo"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "mpe otya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bagongwe"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "bagongwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ya minei"
+    },
+    {
+      "surface": "הפאת",
+      "gloss": "mikonga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לארבע",
+      "gloss": "na minei"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "maguru na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:27:41.145328971Z",
+  "model": "glm-5.3"
+}

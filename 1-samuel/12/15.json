@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 12:15",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Mpe soki boyoka te liye ya Yawe, mpe boboti ⟨את⟩ monoko ya Yawe, mokando ya Yawe ekokoma na bino mpe na batata na bino.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "mpe soki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "boyoka"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "liye ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "mpe boboti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "monoko"
+    },
+    {
+      "surface": "פי",
+      "gloss": "monoko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "mpe ekokoma"
+    },
+    {
+      "surface": "יד",
+      "gloss": "mokando"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "na bino"
+    },
+    {
+      "surface": "ובאבתיכם",
+      "gloss": "mpe na batata na bino"
+    }
+  ],
+  "timestamp": "2026-09-03T18:13:49.920576806Z",
+  "model": "glm-5.3"
+}

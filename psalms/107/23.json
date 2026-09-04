@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 107:23",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 107,
+  "translation": "Baye bakitaka na mbu na bamasuwa, basalaka mosala na mai minene.",
+  "tokens": [
+    {
+      "surface": "יורדי",
+      "gloss": "Baye bakitaka"
+    },
+    {
+      "surface": "הים",
+      "gloss": "na mbu"
+    },
+    {
+      "surface": "באניות",
+      "gloss": "na bamasuwa"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "basalaka"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "mosala"
+    },
+    {
+      "surface": "במים",
+      "gloss": "na mai"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "minene"
+    }
+  ],
+  "timestamp": "2026-09-03T21:27:38.977539756Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 135:16",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 135,
+  "translation": "Monoko ezali na bango kasi bayokolaka te; meso mibale ezali na bango kasi batangaka te.",
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "monoko"
+    },
+    {
+      "surface": "להם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kasi ... te"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "bayokolaka"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "meso mibale"
+    },
+    {
+      "surface": "להם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kasi ... te"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "batangaka"
+    }
+  ],
+  "timestamp": "2026-09-03T23:36:14.741799686Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 21:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Mpo ete mokonzi abondi na Yawe, mpe na hesed ya Elyon, akokangama te.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo ete"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "abondi"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "na Yawe"
+    },
+    {
+      "surface": "ובחסד",
+      "gloss": "mpe na hesed"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ya Elyon"
+    },
+    {
+      "surface": "בל",
+      "gloss": "te"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "akokangama"
+    }
+  ],
+  "timestamp": "2026-09-03T21:04:58.632548929Z",
+  "model": "glm-5.3"
+}

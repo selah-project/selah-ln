@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 47:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 47,
+  "translation": "Bato minene ya bikolo bakusangisama elongo na bato ya Elohim ya Avraham, mpo ete mibateli ya mabele ezali ya Elohim; atombwami mingi.",
+  "tokens": [
+    {
+      "surface": "נדיבי",
+      "gloss": "bato minene"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ya bikolo"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "bakusangisama"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ezali ya Elohim"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "mibateli"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ya mabele"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mingi"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "atombwami"
+    }
+  ],
+  "timestamp": "2026-09-03T21:11:09.680743528Z",
+  "model": "glm-5.3"
+}

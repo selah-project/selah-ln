@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 32:3",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 32,
+  "translation": "Mpo nazali kobenga nkombo ya Yawe; bwa bonene na Elohim na biso.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nkombo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "nazali kobenga"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "bwa"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "bonene"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "na Elohim na biso"
+    }
+  ],
+  "timestamp": "2026-09-03T17:41:37.135418458Z",
+  "model": "glm-5.3"
+}

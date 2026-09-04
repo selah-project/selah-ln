@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 18:34",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Asalaka makolo na ngai lokola ya baayala, mpe likolo ya bitulo na ngai atyaka ngai etale.",
+  "tokens": [
+    {
+      "surface": "משוה",
+      "gloss": "asalaka"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "makolo na ngai"
+    },
+    {
+      "surface": "כאילות",
+      "gloss": "lokola ya baayala"
+    },
+    {
+      "surface": "וְעַל",
+      "gloss": "mpe likolo ya"
+    },
+    {
+      "surface": "בָּמֹתַי",
+      "gloss": "bitulo na ngai"
+    },
+    {
+      "surface": "יעמידני",
+      "gloss": "atyaka ngai etale"
+    }
+  ],
+  "timestamp": "2026-09-03T21:04:35.838842464Z",
+  "model": "glm-5.3"
+}

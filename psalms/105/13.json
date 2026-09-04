@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 105:13",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 105,
+  "translation": "Mpe batambolaki uta na ekolo kino na ekolo, uta na bokonzi kino na bato mosusu.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "mpe batambolaki"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "uta na ekolo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kino na"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ekolo"
+    },
+    {
+      "surface": "מממלכה",
+      "gloss": "uta na bokonzi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kino na"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "mosusu"
+    }
+  ],
+  "timestamp": "2026-09-03T21:27:44.007840305Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 121,
+  "ref": "psalms 119:121",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Nasalaki bosololi mpe bondimi; kotika ngai te na maboko ya baoyo bazali konyanyisa ngai.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "Nasalaki"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "bosololi"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "mpe bondimi"
+    },
+    {
+      "surface": "בל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תניחני",
+      "gloss": "kotika ngai"
+    },
+    {
+      "surface": "לעשקי",
+      "gloss": "na maboko ya baoyo bazali konyanyisa ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:32:13.656828184Z",
+  "model": "glm-5.3"
+}

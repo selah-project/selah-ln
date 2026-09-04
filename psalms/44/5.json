@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 44:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 44,
+  "translation": "Yo nde mokonzi na ngai, Elohim; pesa bolumbu na Yaakov.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Yo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nde"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mokonzi na ngai"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "pesa"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "bolumbu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-03T21:10:37.135413369Z",
+  "model": "glm-5.3"
+}

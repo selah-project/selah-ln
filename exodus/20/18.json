@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 20:18",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 20,
+  "translation": "Mpe bato nyonso bamonaki ⟨את⟩ mingongo mpe ⟨את⟩ ebambalele, mpe ⟨את⟩ mongongo ya shofar, mpe ⟨את⟩ monsolo oyo ezali koloka; mpe bato bamonaki, mpe batetemaki, mpe batelemaki na mosika.",
+  "tokens": [
+    {
+      "surface": "ו כל",
+      "gloss": "Mpe ... nyonso"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "bamonaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mingongo"
+    },
+    {
+      "surface": "הקולת",
+      "gloss": "mingongo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "ebambalele"
+    },
+    {
+      "surface": "הלפידם",
+      "gloss": "ebambalele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mongongo ya shofar"
+    },
+    {
+      "surface": "קול",
+      "gloss": "mongongo"
+    },
+    {
+      "surface": "השפר",
+      "gloss": "shofar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "monsolo oyo ezali koloka"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "monsolo"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "oyo ezali koloka"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "mpe bamonaki"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "וינעו",
+      "gloss": "mpe batetemaki"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "mpe batelemaki"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "na mosika"
+    }
+  ],
+  "timestamp": "2026-09-03T16:23:43.399207965Z",
+  "model": "glm-5.3"
+}

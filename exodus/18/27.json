@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 18:27",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Mpe Moshe atindaki ⟨את⟩ papa ya mwasi na ye kokende, mpe ye akendaki ⟨na⟩ mabele na ye.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "mpe atindaki"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "papa ya mwasi na ye"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "papa ya mwasi na ye"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "mpe akendaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": ""
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "mabele na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T16:22:04.946065111Z",
+  "model": "glm-5.3"
+}

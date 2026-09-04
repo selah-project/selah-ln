@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 42:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 42,
+  "translation": "Epai ya mokambi — malako ya mateya, ya bana ya Korah.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Epai ya mokambi"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "malako ya mateya"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ya bana ya"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korah"
+    }
+  ],
+  "timestamp": "2026-09-03T21:10:44.891719276Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 51:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 51,
+  "translation": "Ngera ngai, Elohim, na hesed na yo, na bonene ya mawa na yo, fimisa bokosi na ngai.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Ngera ngai"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "na hesed na yo"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "na bonene"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "ya mawa na yo"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "fimisa"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "bokosi na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:13:24.865097671Z",
+  "model": "glm-5.3"
+}

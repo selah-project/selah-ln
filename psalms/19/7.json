@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 19:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Uta na nsuka ya likolo bokende na yango, mpe kozonga na yango kino na nsuka na yango; mpe ezali na oyo te obombami na chali na yango.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "uta na nsuka ya"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "likolo"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "bokende na yango"
+    },
+    {
+      "surface": "ותקופתו",
+      "gloss": "mpe kozonga na yango"
+    },
+    {
+      "surface": "על",
+      "gloss": "kino na"
+    },
+    {
+      "surface": "קצותם",
+      "gloss": "nsuka na yango"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mpe ezali te"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "obombami"
+    },
+    {
+      "surface": "מחמתו",
+      "gloss": "na chali na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:05:08.248450455Z",
+  "model": "glm-5.3"
+}

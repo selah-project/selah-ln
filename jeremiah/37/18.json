@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 37:18",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 37,
+  "translation": "Mpe Yirmeyahu alobaki epai ya Tsidkijahu mokonzi: Nini nabubaki epai ya yo, mpe epai ya basali na yo, mpe epai ya mboka oyo, ete botyaki ngai na ndako ya bofungwa?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkijahu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "nabubaki"
+    },
+    {
+      "surface": "לך",
+      "gloss": "epai ya yo"
+    },
+    {
+      "surface": "ולעבדיך",
+      "gloss": "mpe epai ya basali na yo"
+    },
+    {
+      "surface": "ו לעם הזה",
+      "gloss": "mpe epai ya mboka oyo",
+      "marks": ""
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "נתתם",
+      "gloss": "botyaki"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "ngai",
+      "marks": "אותי ezali pronom-objet, eleko ya ⟨את⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨את⟩ na"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako ya"
+    },
+    {
+      "surface": "הכלא",
+      "gloss": "bofungwa"
+    }
+  ],
+  "timestamp": "2026-09-03T20:00:21.921796460Z",
+  "model": "glm-5.3"
+}

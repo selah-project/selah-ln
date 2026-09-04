@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 69:36",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 69,
+  "translation": "Mpo Elohim akolokola Tsion, mpe akotonga bamboka ya Yehuda; mpe bakofanda kuna, mpe bakozwa yango.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "akolokola"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsion"
+    },
+    {
+      "surface": "ויבנה",
+      "gloss": "mpe akotonga"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "bamboka"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "mpe bakofanda"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "וירשוה",
+      "gloss": "mpe bakozwa yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:16:51.364018959Z",
+  "model": "glm-5.3"
+}

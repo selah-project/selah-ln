@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 86:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 86,
+  "translation": "Tpila ya David. Tambolisa liboui na yo, Yawe, mpe eyanisa ngai, mpo ngai nazali moseni mpe moxi.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Tpila"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya David"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "Tambolisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "liboui na yo"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "eyanisa ngai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "עני",
+      "gloss": "moseni"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "mpe moxi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:23:14.756419146Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 49:33",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 49,
+  "translation": "Mpe Yaakov asilaki kolaka bana na ye, akangaki makolo na ye na kitanda, akufaki, mpe akangamaki epai ya bato na ye.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "asilaki"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "לצות",
+      "gloss": "kolaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bana na ye"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bana na ye"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "akangaki"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "makolo na ye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "kitanda"
+    },
+    {
+      "surface": "ויגוע",
+      "gloss": "akufaki"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "akangamaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai"
+    },
+    {
+      "surface": "עמיו",
+      "gloss": "ya bato na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T16:11:35.094619212Z",
+  "model": "glm-5.3"
+}

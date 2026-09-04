@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 17:15",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 17,
+  "translation": "Mpe akendaki mpe asalaki ndenge liloba ya Eliyahu elobaki; mpe baliali — ye, mpe ye mwasi, mpe ndako na ye — mikolo mingi.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "mpe akendaki"
+    },
+    {
+      "surface": "ותעשה",
+      "gloss": "mpe asalaki"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ndenge liloba"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "mpe baliali"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ye"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "mpe ye mwasi"
+    },
+    {
+      "surface": "וביתה",
+      "gloss": "mpe ndako na ye"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mikolo mingi"
+    }
+  ],
+  "timestamp": "2026-09-03T18:53:17.308650378Z",
+  "model": "glm-5.3"
+}

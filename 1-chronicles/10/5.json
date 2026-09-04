@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 10:5",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Mpe moyangeli ya bikeli na ye amonaki ete Shaul akufaki, mpe awei ye moko epai ya emese, mpe akufaki.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "mpe amonaki"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "moyangeli"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ya bikeli na ye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "מת",
+      "gloss": "akufaki"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "mpe awei"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ye moko"
+    },
+    {
+      "surface": "על",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "emese"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "mpe akufaki"
+    }
+  ],
+  "timestamp": "2026-09-03T22:45:13.040109180Z",
+  "model": "glm-5.3"
+}

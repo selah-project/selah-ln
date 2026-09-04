@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 16:8",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Mpe Aharon apesaki bakutu likolo ya bbe mibale: kutu moko mpo na Yawe, mpe kutu moko mpo na Azazel.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "mpe apesaki"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "bbe"
+    },
+    {
+      "surface": "גורלות",
+      "gloss": "bakutu"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "kutu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "moko"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "mpo na Yawe"
+    },
+    {
+      "surface": "וגורל",
+      "gloss": "mpe kutu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "moko"
+    },
+    {
+      "surface": "לעזאזל",
+      "gloss": "mpo na Azazel"
+    }
+  ],
+  "timestamp": "2026-09-03T16:49:43.264430235Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 35:20",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 35,
+  "translation": "Mpe babimaki nyonso bato ya lisanga ya bana ya Israel, na liboso ya Moshe.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "Mpe babimaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "bato ya lisanga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ya bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "na liboso ya"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-03T16:33:13.920306172Z",
+  "model": "glm-5.3"
+}

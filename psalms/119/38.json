@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 119:38",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Simbisa liloba nayo epai ya mosali nayo, oyo etali bobangi nayo.",
+  "tokens": [
+    {
+      "surface": "הקם",
+      "gloss": "Simbisa"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "epai ya mosali nayo"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "liloba nayo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ליראתך",
+      "gloss": "etali bobangi nayo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:30:48.823473697Z",
+  "model": "glm-5.3"
+}

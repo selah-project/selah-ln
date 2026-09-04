@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 8:3",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Kobanga mbangu te nzela na yango, oyebi te ozala na likambo mabe, mpo na yango asali nyonso oyo alingi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "kobanga mbangu"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "nzela na yango"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "oyebi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "ozala"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "na likambo"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo na yango"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "alingi"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "asali"
+    }
+  ],
+  "timestamp": "2026-09-03T22:14:57.832840839Z",
+  "model": "glm-5.3"
+}

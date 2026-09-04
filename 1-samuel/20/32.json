@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 20:32",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 20,
+  "translation": "Mpe Yehonatan eyanoli ⟨את⟩ Shaul tata na ye, mpe alobaki epai na ye: Mpo nini bakomaka ye? Asali nini?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Mpe eyanoli"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shaul tata na ye"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "tata na ye"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "epai na ye"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Mpo nini"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "bakomaka ye"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "asali"
+    }
+  ],
+  "timestamp": "2026-09-03T18:20:25.275327524Z",
+  "model": "glm-5.3"
+}

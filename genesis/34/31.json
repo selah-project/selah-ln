@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 34:31",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 34,
+  "translation": "Mpe balobi: Ndenge nini akoki kosala ⟨את⟩ ndeko na bisi mwasi lokola mosolo?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "mpe balobi"
+    },
+    {
+      "surface": "הכזונה",
+      "gloss": "lokola mosolo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "kosala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndeko na bisi mwasi"
+    },
+    {
+      "surface": "אחותנו",
+      "gloss": "ndeko na bisi mwasi"
+    }
+  ],
+  "timestamp": "2026-09-03T16:03:36.405863076Z",
+  "model": "glm-5.3"
+}

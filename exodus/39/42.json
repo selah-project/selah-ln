@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "exodus 39:42",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 39,
+  "translation": "Kolokola na nyonso oyo Yawe atindaki ⟨את⟩ Moshe, bongo bana ya Israel basalaki ⟨את⟩ mosalo nyonso.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "kolokola na nyonso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "atindaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bongo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "basalaki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mosalo nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "mosalo"
+    }
+  ],
+  "timestamp": "2026-09-03T16:38:20.821841710Z",
+  "model": "glm-5.3"
+}

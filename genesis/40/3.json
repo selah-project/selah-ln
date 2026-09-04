@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 40:3",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 40,
+  "translation": "Mpe atyaki bango ⟨את⟩ na bokangi, na ndako ya mokonzi ya babomi, na ndako ya boloko, esika Yosef azalaki kokangama kuna.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Mpe atyaki"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bango",
+      "marks": "bango"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "na bokangi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "na ndako"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ya mokonzi"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "ya babomi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "ya boloko"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "esika"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "azalaki kokangama"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuna"
+    }
+  ],
+  "timestamp": "2026-09-03T16:06:58.292352595Z",
+  "model": "glm-5.3"
+}

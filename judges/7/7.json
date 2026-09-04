@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 7:7",
+  "book": "judges",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mpe Yawe alobaki na Gideon: Na nkama misato ya bato baleki nakobikisa ⟨את⟩ bino, mpe nakopesa ⟨את⟩ Midiyan na maboko na yo; mpe bato nyonso bakoenda, moto na moto na esika na ye.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gideon"
+    },
+    {
+      "surface": "בשלש",
+      "gloss": "na nkama"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "misato"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ya bato"
+    },
+    {
+      "surface": "המלקקים",
+      "gloss": "baleki"
+    },
+    {
+      "surface": "אושיע",
+      "gloss": "nakobikisa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ bino",
+      "marks": "bino"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "mpe nakopesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Midiyan"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midiyan"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "na maboko na yo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe bato"
+    },
+    {
+      "surface": "העם",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "bakoenda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto na moto"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "na esika na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T17:59:41.393358094Z",
+  "model": "glm-5.3"
+}

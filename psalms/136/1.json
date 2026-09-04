@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 136:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 136,
+  "translation": "Bondimela Yawe, mpo ete ⟨azali⟩ malamu, mpo ete na seko hesed na ye.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Bondimela"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "epai ya Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "malamu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na seko"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:34:30.118981453Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 35:14",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 35,
+  "translation": "Lokola moninga, lokola ndeko na ngai, nazalaki kotambola; lokola moto oyo azali kolila mama, namibwaki langi mpe namitikaki.",
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "Lokola moninga"
+    },
+    {
+      "surface": "כאח",
+      "gloss": "lokola ndeko"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "nazalaki kotambola"
+    },
+    {
+      "surface": "כאבל",
+      "gloss": "lokola moto oyo azali kolila"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mama"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "namibwaki langi"
+    },
+    {
+      "surface": "שחותי",
+      "gloss": "namitikaki"
+    }
+  ],
+  "timestamp": "2026-09-03T21:08:36.044904290Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 87:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 87,
+  "translation": "Mpe bayembi lokola babini: bangongo na ngai nyonso ezali na yo.",
+  "tokens": [
+    {
+      "surface": "ושרים",
+      "gloss": "mpe bayembi"
+    },
+    {
+      "surface": "כחללים",
+      "gloss": "lokola babini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "bangongo"
+    },
+    {
+      "surface": "בך",
+      "gloss": "na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:22:13.206754250Z",
+  "model": "glm-5.3"
+}

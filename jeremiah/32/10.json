@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 32:10",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 32,
+  "translation": "Mpe nakomi na buku, mpe natyaki elembo, mpe nasangaki batatoli, mpe namekaki mbongo na librata.",
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "mpe nakomaki"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "na buku"
+    },
+    {
+      "surface": "ואחתם",
+      "gloss": "mpe natyaki elembo"
+    },
+    {
+      "surface": "ואעד",
+      "gloss": "mpe nasangaki"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "batatoli"
+    },
+    {
+      "surface": "ואשקל",
+      "gloss": "mpe namekaki"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "mbongo"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "na librata"
+    }
+  ],
+  "timestamp": "2026-09-03T19:57:58.429094709Z",
+  "model": "glm-5.3"
+}

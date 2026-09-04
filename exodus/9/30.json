@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 9:30",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Mpe yo mpe basaleli na yo, nayebi ete naino bokoyoka bobangi te liboso ya Yawe Elohim.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "mpe yo"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "mpe basaleli na yo"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "nayebi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "naino"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "bokoyoka bobangi"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-03T16:17:44.112716642Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 3:17",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Namaki ngai na motema na ngai: Elohim akosambela ⟨את⟩ moyengele mpe ⟨את⟩ mabebe, mpo ntango ezali mpo na likaniso nyonso mpe likolo ya misala nyonso kuna.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "namaki"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "na motema na ngai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moyengele"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "moyengele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mabebe"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "mabebe"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "akosambela"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ntango"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "mpo na nyonso"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "likaniso"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "mpe likolo ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "misala"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuna"
+    }
+  ],
+  "timestamp": "2026-09-03T22:13:31.037810532Z",
+  "model": "glm-5.3"
+}

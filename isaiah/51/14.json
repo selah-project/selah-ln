@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 51:14",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 51,
+  "translation": "Noki omobebami akanguki, mpe akufa te na liwu, mpe mokate na ye ekokwa te.",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "noki"
+    },
+    {
+      "surface": "צעה",
+      "gloss": "omobebami"
+    },
+    {
+      "surface": "להפתח",
+      "gloss": "akanguki"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe ... te"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "akufa"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "na liwu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe ... te"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "ekokwa te"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "mokate na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T19:35:59.893806496Z",
+  "model": "glm-5.3"
+}

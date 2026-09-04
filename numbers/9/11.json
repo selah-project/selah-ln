@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 9:11",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Na sanza ya mibale, mokolo ya zomi na minei, kati ya bipolongi ya mpokwa, basalaka ⟨את⟩ yango; na mikate ya matza mpe matete ya bofele bakolia yango.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "Na sanza"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ya mibale"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "na minei"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "zomi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mokolo"
+    },
+    {
+      "surface": "בין",
+      "gloss": "kati ya"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "bipolongi ya mpokwa"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "basalaka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yango (Pesa, oyo etali yango)"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "mikate ya matza"
+    },
+    {
+      "surface": "ומררים",
+      "gloss": "mpe matete ya bofele"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "bakolia yango"
+    }
+  ],
+  "timestamp": "2026-09-04T00:18:55.889479223Z",
+  "model": "glm-5.3"
+}

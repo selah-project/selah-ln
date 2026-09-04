@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 18:3",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Mpe ⟨את⟩ bana na ye mibale, oyo nkombo ya moko ezali Gershom, mpo alobaki: mopaya nazalaki na mabele ya bapaya.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bana na ye mibale"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "bana na ye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nkombo"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ya moko"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gershom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "גר",
+      "gloss": "mopaya"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "nazalaki"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "ya bapaya"
+    }
+  ],
+  "timestamp": "2026-09-03T16:23:56.140583959Z",
+  "model": "glm-5.3"
+}

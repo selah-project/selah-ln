@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 104:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 104,
+  "translation": "Mbengu, lokola elamba, ozipaki yango; likolo ya bangomba mai etelemaki.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "mbengu"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "lokola elamba"
+    },
+    {
+      "surface": "כסיתו",
+      "gloss": "ozipaki yango"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "bangomba"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "etelemaki"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:26:34.764118901Z",
+  "model": "glm-5.3"
+}

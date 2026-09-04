@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 11:19",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "mpe apesaki likaniso na ⟨את⟩ monenge koloba ete: nsima ya kosila na yo koloba na mokonzi ⟨את⟩ maloba nyonso ya etumba,",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "mpe apesaki likaniso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "monenge"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "monenge"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "koloba ete"
+    },
+    {
+      "surface": "ככלותך",
+      "gloss": "nsima ya kosila na yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maloba nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "maloba"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ya etumba"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "koloba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    }
+  ],
+  "timestamp": "2026-09-03T18:32:44.001544413Z",
+  "model": "glm-5.3"
+}

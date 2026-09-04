@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 92:11",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 92,
+  "translation": "Mpe omatisaki ndongo ya ngai lokola ya reem; natondisamaki na mafuta ya sika.",
+  "tokens": [
+    {
+      "surface": "ותרם",
+      "gloss": "Mpe omatisaki"
+    },
+    {
+      "surface": "כראים",
+      "gloss": "lokola ya reem"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "ndongo ya ngai"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "natondisamaki"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "na mafuta"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "ya sika"
+    }
+  ],
+  "timestamp": "2026-09-03T21:23:54.551504388Z",
+  "model": "glm-5.3"
+}

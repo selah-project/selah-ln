@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 5:3",
+  "book": "ezekiel",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Mpe ozwa wana moke na motango, mpe okangola ⟨את⟩ bango na minseke na yo.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "mpe ozwa"
+    },
+    {
+      "surface": "משם",
+      "gloss": "wana"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "moke"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "na motango"
+    },
+    {
+      "surface": "וצרפת",
+      "gloss": "mpe okangola"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ bango",
+      "marks": "biso ya moke (na minseke na yo)"
+    },
+    {
+      "surface": "בכנפיך",
+      "gloss": "na minseke na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T20:13:01.281352008Z",
+  "model": "glm-5.3"
+}

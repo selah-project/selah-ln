@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 18:15",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Atemelaki bakanya na yango mpe abalolaki bango; mpe mapetete ebele, mpe abukisaki bango.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "atemelaki"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "bakanya na yango"
+    },
+    {
+      "surface": "ויפיצם",
+      "gloss": "abalolaki bango"
+    },
+    {
+      "surface": "וברקים",
+      "gloss": "mpe mapetete"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ebele"
+    },
+    {
+      "surface": "ויהמם",
+      "gloss": "abukisaki bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:04:26.031830790Z",
+  "model": "glm-5.3"
+}

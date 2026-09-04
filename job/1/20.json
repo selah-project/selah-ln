@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 1:20",
+  "book": "job",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe Iyob atombaki, mpe akangolaki ⟨את⟩ mokandara na ye, mpe akataki ⟨את⟩ motó na ye, mpe akweyaki na mabele, mpe asambelaki.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "mpe atombaki"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyob"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "mpe akangolaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mokandara na ye"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "mokandara na ye"
+    },
+    {
+      "surface": "ויגז",
+      "gloss": "mpe akataki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motó na ye"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "motó na ye"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "mpe akweyaki"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "mpe asambelaki"
+    }
+  ],
+  "timestamp": "2026-09-03T21:51:21.108955113Z",
+  "model": "glm-5.3"
+}

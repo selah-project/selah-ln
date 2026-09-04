@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 32:30",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 32,
+  "translation": "Mpe Yaakov atunaki mpe alobaki: Bandela na ngai nkombo na yo. Mpe ⟨ye⟩ alobaki: Mpo oyo olingi kotuna nkombo na ngai? Mpe abenaki ⟨את⟩ ye wana.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "Mpe atunaki"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "Bandela"
+    },
+    {
+      "surface": "נא",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nkombo na yo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "תשאל",
+      "gloss": "olingi kotuna"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "nkombo na ngai"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "mpe abenaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ye (Yaakov)"
+    },
+    {
+      "surface": "שם",
+      "gloss": "wana"
+    }
+  ],
+  "timestamp": "2026-09-03T16:01:46.379840277Z",
+  "model": "glm-5.3"
+}

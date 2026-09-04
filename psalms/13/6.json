@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 13:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Mpe ngai, natiki motema na hesed na yo; motema na ngai ekosekela na bokolongana na yo; nakoyemba na Yawe, mpo asalaki ngai bolamu ⟨na⟩ ngai.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Mpe ngai"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "na hesed na yo"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "natiki motema"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "ekosekela"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "motema na ngai"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "na bokolongana na yo"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "nakoyemba"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "na Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "asalaki ngai bolamu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "⟨na⟩ ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T23:34:13.040491379Z",
+  "model": "glm-5.3"
+}

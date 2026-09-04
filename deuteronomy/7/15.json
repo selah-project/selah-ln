@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 7:15",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mpe Yawe akolongola na yo maladi nyonso; mpe maladi nyonso ya mabe ya Mitsraim, oyo omoni, akotya yango te na yo, kasi akopesa yango na baoyo balingaka yo te nyonso.",
+  "tokens": [
+    {
+      "surface": "והסיר",
+      "gloss": "Mpe akolongola"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "na yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "חלי",
+      "gloss": "maladi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe nyonso"
+    },
+    {
+      "surface": "מדוי",
+      "gloss": "maladi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Mitsraim"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "omoni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ישימם",
+      "gloss": "akotya yango"
+    },
+    {
+      "surface": "בך",
+      "gloss": "na yo"
+    },
+    {
+      "surface": "ונתנם",
+      "gloss": "kasi akopesa yango"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na nyonso"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "baoyo balingaka yo te"
+    }
+  ],
+  "timestamp": "2026-09-03T17:28:16.520715183Z",
+  "model": "glm-5.3"
+}

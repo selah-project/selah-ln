@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 28:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 28,
+  "translation": "Yawe ⟨azali⟩ nguya ya bango, mpe yeye ⟨azali⟩ bosikisiki ya biliki ya Mashiah na yango.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עז",
+      "gloss": "nguya"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ya bango"
+    },
+    {
+      "surface": "ומעוז",
+      "gloss": "mpe bosikisiki"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "ya biliki"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "Mashiah na yango"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yeye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:06:24.402626355Z",
+  "model": "glm-5.3"
+}

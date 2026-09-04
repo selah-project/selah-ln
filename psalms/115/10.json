@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 115:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 115,
+  "translation": "Ndako ya Aharon, bopesa motema na Yawe — bosungi na bango mpe mbengi na bango, yeye.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ya Aharon"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "bopesa motema"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "na Yawe"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "bosungi na bango"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "mpe mbengi na bango"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yeye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:30:00.999532387Z",
+  "model": "glm-5.3"
+}

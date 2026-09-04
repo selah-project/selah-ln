@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 2:1",
+  "book": "zechariah",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe natomboli ⟨את⟩ miso na ngai, mpe namoni, mpe tala, minsongo minei.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "mpe natomboli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miso na ngai"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "miso na ngai"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "mpe namoni"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mpe tala"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "minei"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "minsongo"
+    }
+  ],
+  "timestamp": "2026-09-03T20:55:57.103713959Z",
+  "model": "glm-5.3"
+}

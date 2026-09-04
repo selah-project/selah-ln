@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 52:10",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 52,
+  "translation": "Mpe mokonzi ya Bavel abomaki ⟨את⟩ bana ya Tsidkiyihu liboso ya miso na ye; mpe ⟨את⟩ bamonisi nyonso ya Yehuda abomaki na Rivla.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "Mpe abomaki"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ya Bavel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bana ya Tsidkiyihu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ya"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyihu"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "liboso ya miso na ye"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bamonisi nyonso ya Yehuda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso ya"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "bamonisi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "שחט",
+      "gloss": "abomaki"
+    },
+    {
+      "surface": "ברבלתה",
+      "gloss": "na Rivla"
+    }
+  ],
+  "timestamp": "2026-09-03T20:08:59.003003840Z",
+  "model": "glm-5.3"
+}

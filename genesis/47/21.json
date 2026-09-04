@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 47:21",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 47,
+  "translation": "Mpe ⟨את⟩ bato, ⟨ye⟩ atambwisaki ⟨את⟩ na mimboka, utaka na nsuka ya ndelo ya Mitsraim tii na nsuka na yango.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bato"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "atambwisaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "na mimboka"
+    },
+    {
+      "surface": "לערים",
+      "gloss": "na mimboka"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "uta na nsuka"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ndelo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "mpe tii"
+    },
+    {
+      "surface": "קצהו",
+      "gloss": "nsuka na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:11:56.570649255Z",
+  "model": "glm-5.3"
+}

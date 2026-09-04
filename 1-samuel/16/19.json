@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 16:19",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Mpe Shaul atindaki batindami epai ya Yishai, mpe alobaki: Tinda epai ya ngai ⟨את⟩ David mwana na yo, oyo azali na bampesi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Mpe atindaki"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "batindami"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "יישי",
+      "gloss": "Yishai"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "Tinda"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "epai ya ngai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "mwana na yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "azali na bampesi"
+    }
+  ],
+  "timestamp": "2026-09-03T18:17:05.026411289Z",
+  "model": "glm-5.3"
+}

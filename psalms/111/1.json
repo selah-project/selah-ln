@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 111:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 111,
+  "translation": "Lobelaka Ya! Nakokumbela Yawe na motema mobimba, na likita ya batembelami mpe na lisangani.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Lobelaka"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "Nakokumbela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na mobimba"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "motema"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "na likita"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "ya batembelami"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "mpe na lisangani"
+    }
+  ],
+  "timestamp": "2026-09-03T21:29:45.487161276Z",
+  "model": "glm-5.3"
+}

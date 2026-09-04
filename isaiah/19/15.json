@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 19:15",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Mpe mosala te ekozala na Mitsraim, oyo motó to nsungi, likaya to nzete ya mai ekoki kosala.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ekozala"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "na Mitsraim"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "mosala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ekoki kosala"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "motó"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "to nsungi"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "likaya"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "to nzete ya mai"
+    }
+  ],
+  "timestamp": "2026-09-03T19:20:18.942756869Z",
+  "model": "glm-5.3"
+}

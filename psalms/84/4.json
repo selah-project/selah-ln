@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 84:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 84,
+  "translation": "Ata nsoso amoni ndako, mpe nsoso mosusu libulu na yango, esika atiki bana na yango — ⟨את⟩ bamisabo na yo, Yawe Tsebaot, mokonzi na ngai mpe Elohim na ngai.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Ata"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "nsoso"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "amoni"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "ודרור",
+      "gloss": "mpe nsoso mosusu"
+    },
+    {
+      "surface": "קן",
+      "gloss": "libulu"
+    },
+    {
+      "surface": "לה",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "esika"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "atiki"
+    },
+    {
+      "surface": "אפרחיה",
+      "gloss": "bana na yango"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bamisabo na yo"
+    },
+    {
+      "surface": "מזבחותיך",
+      "gloss": "bamisabo na yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mokonzi na ngai"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "mpe Elohim na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:23:27.928578211Z",
+  "model": "glm-5.3"
+}

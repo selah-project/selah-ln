@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 4:24",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe atyaki lokasa na ye na likolo ya motu ya mbuși, mpe abomaki ⟨את⟩ yango na esika oyo babomaka ⟨את⟩ ofele ya moto, liboso ya Yawe; sacrifice ya masumu ezali.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "mpe atyaki"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "lokasa na ye"
+    },
+    {
+      "surface": "על",
+      "gloss": "na likolo ya"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "motu"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "ya mbuși"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "mpe abomaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yango",
+      "marks": "mbuși"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "na esika"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "babomaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ofele ya moto"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ofele ya moto"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "sacrifice ya masumu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ezali"
+    }
+  ],
+  "timestamp": "2026-09-03T16:42:34.730195065Z",
+  "model": "glm-5.3"
+}

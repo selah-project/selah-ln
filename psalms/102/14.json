@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 102:14",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 102,
+  "translation": "Olama, ozwa mawa na Tsion, mpo ntango ya kolimbisa ye, mpo ntango ya ekangami eyaki.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "olama"
+    },
+    {
+      "surface": "תרחם",
+      "gloss": "ozwa mawa"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsion"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ntango"
+    },
+    {
+      "surface": "לחננה",
+      "gloss": "ya kolimbisa ye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "בא",
+      "gloss": "eyaki"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya ekangami"
+    }
+  ],
+  "timestamp": "2026-09-04T00:21:55.827271791Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 8:4",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Eliko na yo eboyaki te likolo na yo, mpe lokolo na yo efulaki te, oyo, mbula ntuku minei.",
+  "tokens": [
+    {
+      "surface": "שמלתך",
+      "gloss": "eliko na yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "eboyaki"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "likolo na yo"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "mpe lokolo na yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "בצקה",
+      "gloss": "efulaki"
+    },
+    {
+      "surface": "זה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ntuku minei"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mbula"
+    }
+  ],
+  "timestamp": "2026-09-03T17:29:08.724924470Z",
+  "model": "glm-5.3"
+}

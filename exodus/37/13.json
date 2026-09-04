@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 37:13",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 37,
+  "translation": "Mpe asopaki na yango bikange minei ya zahabu, mpe atyaki ⟨את⟩ bikange na mikonga minei, oyo ezali na magulu minei na yango.",
+  "tokens": [
+    {
+      "surface": "ויצק",
+      "gloss": "mpe asopaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "minei"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "bikange"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ya zahabu"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "mpe atyaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bikange"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "bikange"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "minei"
+    },
+    {
+      "surface": "הפאת",
+      "gloss": "mikonga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לארבע",
+      "gloss": "na magulu minei"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:37:17.204173520Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 4:4",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe namonaki ngai ⟨את⟩ mosala nyonso mpe ⟨את⟩ bokasi nyonso ya mosala, ete yango ezali kanda ya moto na moninga na ye; mpe oyo ezali hebel mpe konyokoli ya mpema.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "mpe namonaki"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mosala nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "mosala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "bokasi"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "ya mosala"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "היא",
+      "gloss": "yango"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "kanda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ya moto"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "na moninga na ye"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "זה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebel"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "mpe konyokoli"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ya mpema"
+    }
+  ],
+  "timestamp": "2026-09-03T22:13:57.769670736Z",
+  "model": "glm-5.3"
+}

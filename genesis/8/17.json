@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 8:17",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Tika bango bábuga na nzela: nyonso ya bomoi oyo ezali elongo na ⟨את⟩ yo, na mbongo nyonso — na ndeke, na banyama, mpe na nyonso oyo ezali kokende na mabele — bakoka kobota mingi na mabele, mpe bataala, mpe bakoma ebele na mabele.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "ya bomoi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "elongo na ⟨את⟩ yo",
+      "marks": "nyonso ya bomoi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "na mbongo nyonso"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "mbongo"
+    },
+    {
+      "surface": "בעוף",
+      "gloss": "na ndeke"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "mpe na banyama"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "mpe na nyonso"
+    },
+    {
+      "surface": "הרמש",
+      "gloss": "oyo ezali kokende"
+    },
+    {
+      "surface": "הרמש",
+      "gloss": "ezali kokende"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "הוצא",
+      "gloss": "tika bango bábuga"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "elongo na ⟨את⟩ yo",
+      "marks": "nyonso ya bomoi"
+    },
+    {
+      "surface": "ושרצו",
+      "gloss": "bakoka kobota mingi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "ופרו",
+      "gloss": "mpe bataala"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "mpe bakoma ebele"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T15:47:43.155861629Z",
+  "model": "glm-5.3"
+}

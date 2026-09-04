@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 77:15",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 77,
+  "translation": "Yo nde El asali mavelé; oyebisaki nguya na yo káti ya bato.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "asali"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "mavelé"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "oyebisaki"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "káti ya bato"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "nguya na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:19:04.641146895Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 2:22",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe Yawe Elohim akeli ⟨את⟩ cote oyo azwaki kowuta kwa moto, na mwasi, mpe akomaki ye epai ya moto.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "mpe akeli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "cote"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "cote"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "azwaki"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kowuta"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "kwa moto"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "na mwasi"
+    },
+    {
+      "surface": "ויבאה",
+      "gloss": "mpe akomaki ye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "moto"
+    }
+  ],
+  "timestamp": "2026-09-03T15:44:57.285271056Z",
+  "model": "glm-5.3"
+}

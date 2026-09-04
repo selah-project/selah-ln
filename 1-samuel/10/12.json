@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 10:12",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Mpe moto moko wana eyanaki mpe alobaki: Mpe nani tata na bango? Mpo na yango ekomaki ndakisa, eti: Shaul mpe kati ya banabi?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Mpe eyanaki"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto moko"
+    },
+    {
+      "surface": "משם",
+      "gloss": "wana"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "Mpe nani"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "tata na bango"
+    },
+    {
+      "surface": "על",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ekomaki"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "ndakisa"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "בנביאים",
+      "gloss": "kati ya banabi"
+    }
+  ],
+  "timestamp": "2026-09-03T18:13:25.193493595Z",
+  "model": "glm-5.3"
+}

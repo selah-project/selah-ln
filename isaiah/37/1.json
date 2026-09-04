@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 37:1",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 37,
+  "translation": "Mpe esalemaki, ntango mokonzi Hizkiyahu ayoki liloba yango, akangolaki ⟨את⟩ bilamba na ye, mpe akangamaki na sako, mpe akotaki na ndako ya Yawe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "esalemaki"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "ntango ayoki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkiyahu"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "akangolaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bilamba na ye"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "bilamba na ye"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "akangamaki"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "na sako"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "akotaki"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T19:28:58.868487483Z",
+  "model": "glm-5.3"
+}

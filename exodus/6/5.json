@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 6:5",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpe ngai mpe nayokaki ⟨את⟩ bondoki ya bana ya Israel, oyo Mitsraim bazali konyokolo ⟨את⟩ bango na mosala, mpe nakanaki ⟨את⟩ bondingisa na ngai.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai mpe"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "nayokaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bondoki"
+    },
+    {
+      "surface": "נאקת",
+      "gloss": "bondoki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "מעבדים",
+      "gloss": "bazali konyokolo na mosala"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bango"
+    },
+    {
+      "surface": "ואזכר",
+      "gloss": "mpe nakanaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bondingisa na ngai"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "bondingisa na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T16:16:08.516152757Z",
+  "model": "glm-5.3"
+}

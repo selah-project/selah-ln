@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 89:12",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 89,
+  "translation": "Likolo ezali ya yo, mpe mabele ezali ya yo; tebel mpe bonjami na yango, yo oteyaki yango.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ezali ya yo"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "likolo"
+    },
+    {
+      "surface": "אף",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ezali ya yo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "tebel"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "mpe bonjami na yango"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "יסדתם",
+      "gloss": "oteyaki yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:22:34.422812038Z",
+  "model": "glm-5.3"
+}

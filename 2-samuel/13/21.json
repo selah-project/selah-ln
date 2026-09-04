@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 13:21",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Mpe mokonzi David ayokaki ⟨את⟩ makambo nyonso oyo, mpe moto ya mawa makasi ekangaki ye.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Mpe mokonzi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ayokaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makambo nyonso oyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "makambo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "mpe ekangaki moto"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "makasi"
+    }
+  ],
+  "timestamp": "2026-09-03T18:33:22.417566932Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 102:19",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 102,
+  "translation": "Oyo ekomamaki mpo na libota ya nsuka, mpe bato oyo bakelamaki bakumisaki Ya.",
+  "tokens": [
+    {
+      "surface": "תכתב",
+      "gloss": "ekomamaki"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Oyo"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "mpo na libota"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "ya nsuka"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "mpe bato"
+    },
+    {
+      "surface": "נברא",
+      "gloss": "bakelamaki"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "bakumisaki"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    }
+  ],
+  "timestamp": "2026-09-03T21:26:18.324175792Z",
+  "model": "glm-5.3"
+}

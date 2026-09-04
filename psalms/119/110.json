@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 110,
+  "ref": "psalms 119:110",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Babubi batiaki mboku mpo na ngai, kasi na mibeko na yo nazingi te.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "batiaki"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "Babubi"
+    },
+    {
+      "surface": "פח",
+      "gloss": "mboku"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mpo na ngai"
+    },
+    {
+      "surface": "ומפקודיך",
+      "gloss": "kasi na mibeko na yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תעיתי",
+      "gloss": "nazingi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:32:10.489783083Z",
+  "model": "glm-5.3"
+}

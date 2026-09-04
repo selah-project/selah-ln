@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 51:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 51,
+  "translation": "Tala, na bubi nabotamaki, mpe na masumu mamá na ngai ananaki ngai.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Tala"
+    },
+    {
+      "surface": "בעוון",
+      "gloss": "na bubi"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "nabotamaki"
+    },
+    {
+      "surface": "ובחטא",
+      "gloss": "mpe na masumu"
+    },
+    {
+      "surface": "יחמתני",
+      "gloss": "ananaki ngai"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mamá na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:13:24.730768360Z",
+  "model": "glm-5.3"
+}

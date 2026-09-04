@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 72:15",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 72,
+  "translation": "Mpe abela, mpe bakopesa ye ⟨kati⟩ ya nkula ya Sheba, mpe bakolomba mpo na ye ntango nyonso; mobimba ya mokolo bakopambola ye.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "mpe abela"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "mpe ⟨bako⟩pesa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "⟨kati⟩ ya nkula"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "mpe ⟨bako⟩lomba"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "mpo na ye"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ntango nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mobimba"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ya mokolo"
+    },
+    {
+      "surface": "יברכנהו",
+      "gloss": "bakopambola ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:18:02.190160430Z",
+  "model": "glm-5.3"
+}

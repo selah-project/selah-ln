@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 8:9",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Bamonaki mawa bato ya bwanya, bazwanaki mpe bakangamaki; talá, botosaki liloba ya Yawe, mpe bwanya nini ezali na bango?",
+  "tokens": [
+    {
+      "surface": "הֹבִ֣ישׁוּ",
+      "gloss": "bamonaki mawa"
+    },
+    {
+      "surface": "חֲכָמִ֔ים",
+      "gloss": "bato ya bwanya"
+    },
+    {
+      "surface": "חַ֖תּוּ",
+      "gloss": "bazwanaki"
+    },
+    {
+      "surface": "וַיִּלָּכֵ֑דוּ",
+      "gloss": "mpe bakangamaki"
+    },
+    {
+      "surface": "הִנֵּ֤ה",
+      "gloss": "talá"
+    },
+    {
+      "surface": "בִדְבַר",
+      "gloss": "na liloba"
+    },
+    {
+      "surface": "יְהוָה֙",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מָאָ֔סוּ",
+      "gloss": "botosaki"
+    },
+    {
+      "surface": "וְחָכְמַ֣ת",
+      "gloss": "mpe bwanya"
+    },
+    {
+      "surface": "מֶ֔ה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "לָהֶֽם",
+      "gloss": "na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T19:45:19.738996150Z",
+  "model": "glm-5.3"
+}

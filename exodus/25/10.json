@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 25:10",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Mpe basala sanduku ya maboko ya nzete shita: molai na yango ezali ama mibale mpe ndambo, boluki na yango ama moko mpe ndambo, mpe likolo na yango ama moko mpe ndambo.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "Mpe basala"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduku"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ya maboko"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ya nzete shita"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "ama mibale"
+    },
+    {
+      "surface": "ויחצי",
+      "gloss": "mpe ndambo"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "molai na yango"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ama moko"
+    },
+    {
+      "surface": "ויחצי",
+      "gloss": "mpe ndambo"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "boluki na yango"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ama moko"
+    },
+    {
+      "surface": "ויחצי",
+      "gloss": "mpe ndambo"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "likolo na yango"
+    }
+  ],
+  "timestamp": "2026-09-04T00:01:26.975161779Z",
+  "model": "glm-5.3"
+}

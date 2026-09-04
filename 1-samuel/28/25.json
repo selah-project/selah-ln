@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 28:25",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 28,
+  "translation": "Mpe amemaki yango liboso ya Shaul mpe liboso ya basawe na ye, mpe balyaki; nsima bamibwaki mpe bankimaki na tongo wana.",
+  "tokens": [
+    {
+      "surface": "ותגש",
+      "gloss": "amemaki yango liboso"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "mpe liboso ya"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "basawe na ye"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "mpe balyaki"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "nsima bamibwaki"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "mpe bankimaki"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "na tongo wana"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "wana"
+    }
+  ],
+  "timestamp": "2026-09-03T18:22:39.911069367Z",
+  "model": "glm-5.3"
+}

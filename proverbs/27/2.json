@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 27:2",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 27,
+  "translation": "Moto mosusu abanda nkombo na yo, mpe munoko na yo te; mopaya, mpe mindeli na yo te.",
+  "tokens": [
+    {
+      "surface": "יהללך",
+      "gloss": "abanda nkombo na yo"
+    },
+    {
+      "surface": "זר",
+      "gloss": "moto mosusu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "munoko na yo"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "mopaya"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "mindeli na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:48:12.423999028Z",
+  "model": "glm-5.3"
+}

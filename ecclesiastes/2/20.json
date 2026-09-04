@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 2:20",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe nazongaki, ngai moko, na kolikwisa ⟨את⟩ motema na ngai likolo ya mosala nyonso oyo nasalaki na nsé ya moi.",
+  "tokens": [
+    {
+      "surface": "וסבותי",
+      "gloss": "Mpe nazongaki"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai moko"
+    },
+    {
+      "surface": "ליאש",
+      "gloss": "na kolikwisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motema na ngai"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "motema na ngai"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "העמל",
+      "gloss": "mosala"
+    },
+    {
+      "surface": "שעמלתי",
+      "gloss": "oyo nasalaki"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "na nsé ya"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "moi"
+    }
+  ],
+  "timestamp": "2026-09-03T22:13:32.638082176Z",
+  "model": "glm-5.3"
+}

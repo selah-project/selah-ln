@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 6:11",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpe sanduku ya Yawe etikalaki na ndako ya Oved-Edom Mogiti sanza misato, mpe Yawe abarakaki ⟨את⟩ Oved-Edom mpe ⟨את⟩ ndako na yango mobimba.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Mpe ... etikalaki"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "na ndako"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "Mogiti"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "misato"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "sanza"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "mpe ... abarakaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Oved-Edom"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Oved"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "ndako na yango mobimba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mobimba"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ndako na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T23:21:51.267510380Z",
+  "model": "glm-5.3"
+}

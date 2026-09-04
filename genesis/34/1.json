@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 34:1",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 34,
+  "translation": "Mpe Dina, mwana mwasi ya Lea, oyo abotaki na Yaakov, alobaki ⟨na⟩ kotala banwana ya mabele.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dina"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana mwasi"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "abotaki"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "na Yaakov"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "na kotala"
+    },
+    {
+      "surface": "בבנות",
+      "gloss": "banwana"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T16:03:53.562674368Z",
+  "model": "glm-5.3"
+}

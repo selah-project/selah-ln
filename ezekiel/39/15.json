@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 39:15",
+  "book": "ezekiel",
+  "lang": "ln",
+  "chapter": 39,
+  "translation": "Mpe batamboli bakotambola na mabele, mpe soki oyo moko amoni mokumba ya moto, akotonga elembo pembeni na yango, kino baye bakundi bakokunda ⟨את⟩ yango na nkola ya Hamon Gog.",
+  "tokens": [
+    {
+      "surface": "וְעָבְר֤וּ",
+      "gloss": "mpe bakotambola"
+    },
+    {
+      "surface": "הָעֹֽבְרִים֙",
+      "gloss": "batamboli"
+    },
+    {
+      "surface": "בָּאָ֔רֶץ",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "וְרָאָה֙",
+      "gloss": "mpe soki amoni"
+    },
+    {
+      "surface": "עֶ֣צֶם",
+      "gloss": "mokumba"
+    },
+    {
+      "surface": "אָדָ֔ם",
+      "gloss": "ya moto"
+    },
+    {
+      "surface": "וּבָנָ֥ה",
+      "gloss": "akotonga"
+    },
+    {
+      "surface": "אֶצְל֖וֹ",
+      "gloss": "pembeni na yango"
+    },
+    {
+      "surface": "צִיּ֑וּן",
+      "gloss": "elembo"
+    },
+    {
+      "surface": "עַ֣ד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "קָבְר֤וּ",
+      "gloss": "bakokunda"
+    },
+    {
+      "surface": "אֹתוֹ֙",
+      "gloss": "⟨את⟩",
+      "marks": "mokumba yango"
+    },
+    {
+      "surface": "הַֽמְקַבְּרִ֔ים",
+      "gloss": "baye bakundi"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "na"
+    },
+    {
+      "surface": "גֵּיא",
+      "gloss": "nkola"
+    },
+    {
+      "surface": "הֲמ֥וֹן",
+      "gloss": "ya Hamon"
+    },
+    {
+      "surface": "גּֽוֹג",
+      "gloss": "Gog"
+    }
+  ],
+  "timestamp": "2026-09-03T20:30:08.731815016Z",
+  "model": "glm-5.3"
+}

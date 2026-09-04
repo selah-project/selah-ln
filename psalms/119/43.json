@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 119:43",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Mpe kolongisa penza na monoko na ngai te liloba ya bosembo, mpo na mibeko na yo nazali kozela.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "mpe ... te"
+    },
+    {
+      "surface": "תצל",
+      "gloss": "kolongisa penza"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "na monoko na ngai"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "liloba"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ya bosembo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "na nsuka"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "penza"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "למשפטך",
+      "gloss": "na mibeko na yo"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "nazali kozela"
+    }
+  ],
+  "timestamp": "2026-09-03T21:30:43.042375687Z",
+  "model": "glm-5.3"
+}

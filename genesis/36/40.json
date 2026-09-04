@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "genesis 36:40",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 36,
+  "translation": "Mpe bango oyo nde bankombo ya bakonzi ya Esav, na bakelasi na bango, na bisika na bango, na bankombo na bango: mokonzi Timna, mokonzi Alva, mokonzi Yetet.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "mpe bango oyo"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "bankombo"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "ya bakonzi"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "na bakelasi na bango"
+    },
+    {
+      "surface": "למקמתם",
+      "gloss": "na bisika na bango"
+    },
+    {
+      "surface": "בשמתם",
+      "gloss": "na bankombo na bango"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "Timna"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "עלוה",
+      "gloss": "Alva"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "יתת",
+      "gloss": "Yetet"
+    }
+  ],
+  "timestamp": "2026-09-03T16:03:06.041029571Z",
+  "model": "glm-5.3"
+}

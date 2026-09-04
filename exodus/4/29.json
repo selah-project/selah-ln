@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 4:29",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Moshe mpe Aharon bakendaki, mpe bakusaki ⟨את⟩ babange nyonso ya bana ya Israel.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "bakendaki"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "mpe Aharon"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "mpe bakusaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "babange nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "babange"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-03T16:15:07.852430091Z",
+  "model": "glm-5.3"
+}

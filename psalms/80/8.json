@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 80:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 80,
+  "translation": "Elohim Tsebaot, longolisa biso, mpe kolakisa elongo na yo, mpe tokolokolama.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "longolisa biso"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "mpe kolakisa"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "elongo na yo"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "mpe tokolokolama"
+    }
+  ],
+  "timestamp": "2026-09-03T21:21:05.606743505Z",
+  "model": "glm-5.3"
+}

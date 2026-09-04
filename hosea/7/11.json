@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 7:11",
+  "book": "hosea",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mpe Efrayim ekomi lokola paloma ya bolenge, oyo azali na motema te; babengaki Mitsraim, bakendaki Ashur.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mpe ekomi"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "כיונה",
+      "gloss": "lokola paloma"
+    },
+    {
+      "surface": "פותה",
+      "gloss": "ya bolenge"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ezali te"
+    },
+    {
+      "surface": "לב",
+      "gloss": "motema"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "babengaki"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "bakendaki"
+    }
+  ],
+  "timestamp": "2026-09-03T20:39:08.128121664Z",
+  "model": "glm-5.3"
+}

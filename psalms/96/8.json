@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 96:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 96,
+  "translation": "Pesa na Yawe nkembo ya nkombo na yé; bisa mbeka mpe boya na bibenga na yé.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "Pesa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "na Yawe"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "nkembo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ya nkombo na yé"
+    },
+    {
+      "surface": "שאו",
+      "gloss": "bisa"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "mbeka"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "mpe boya"
+    },
+    {
+      "surface": "לחצרותיו",
+      "gloss": "na bibenga na yé"
+    }
+  ],
+  "timestamp": "2026-09-03T21:24:14.149626149Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 7:5",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Kanga utuka na bango ⟨את⟩, mpe bango ekokozala kosala ⟨את⟩ mosala ya Ohel Moed; mpe okopesa ⟨את⟩ yango epai ya Balevi, moto na ndenge ya mosala na ye.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Kanga"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "utuka ⟨את⟩ na bango",
+      "marks": "bango"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "mpe bango ekokozala"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "kosala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mosala"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "mosala"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ohel"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Moed"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "mpe okopesa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "yango"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Balevi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "na ndenge ya"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "mosala na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T17:01:44.196083941Z",
+  "model": "glm-5.3"
+}

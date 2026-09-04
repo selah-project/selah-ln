@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 4:12",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe sikoyo kende, mpe ngai nakozala elongo na monoko na yo, mpe nakolakisa yo oyo okoloba.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Mpe sikoyo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kende"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "mpe ngai"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "nakozala"
+    },
+    {
+      "surface": "עם",
+      "gloss": "elongo na"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "monoko na yo"
+    },
+    {
+      "surface": "והוריתיך",
+      "gloss": "mpe nakolakisa yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "okoloba"
+    }
+  ],
+  "timestamp": "2026-09-03T16:16:04.884016748Z",
+  "model": "glm-5.3"
+}

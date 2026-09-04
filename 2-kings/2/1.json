@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 2:1",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe esalemaki, na ntango Yawe azalaki kotombola ⟨את⟩ Eliyahu na mpema-makasi ya likolo, Eliyahu akendaki elongo na Elisha uta na Gilgal.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mpe esalemaki"
+    },
+    {
+      "surface": "בהעלות",
+      "gloss": "na ntango ya kotombama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliyahu"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "בסערה",
+      "gloss": "na mpema-makasi"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ya likolo"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "mpe akendaki"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ואלישע",
+      "gloss": "mpe Elisha"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uta"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgal"
+    }
+  ],
+  "timestamp": "2026-09-03T18:59:34.227310285Z",
+  "model": "glm-5.3"
+}

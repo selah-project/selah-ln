@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 29:14",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 29,
+  "translation": "Mpe ⟨את⟩ libenda ya para, mpe ⟨את⟩ lokongo na yango, mpe ⟨את⟩ masasi na yango, okotumba na moto na libanda ya kaa; ezali mabe yango.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "libenda ya para"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "libenda"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ya para"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "lokongo na yango"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "lokongo na yango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "masasi na yango"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "masasi na yango"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "okotumba"
+    },
+    {
+      "surface": "באש",
+      "gloss": "na moto"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "na libanda"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ya kaa"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yango"
+    }
+  ],
+  "timestamp": "2026-09-03T23:14:17.303516973Z",
+  "model": "glm-5.3"
+}

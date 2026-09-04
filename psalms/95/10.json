@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 95:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 95,
+  "translation": "Mikongo minei nakangaki na molongo oyo, mpe nalobaki: bato ya mitema ya bokweyi bango, mpe bango bayebaki te banzela na ngai.",
+  "tokens": [
+    {
+      "surface": "ארבעים",
+      "gloss": "minei"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mikongo"
+    },
+    {
+      "surface": "אקוט",
+      "gloss": "nakangaki"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "na molongo oyo"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "mpe nalobaki"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "ya bokweyi"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "mitema"
+    },
+    {
+      "surface": "הם",
+      "gloss": "bango"
+    },
+    {
+      "surface": "והם",
+      "gloss": "mpe bango"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "bayebaki"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "banzela na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:23:51.019840470Z",
+  "model": "glm-5.3"
+}

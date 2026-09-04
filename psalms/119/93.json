@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 93,
+  "ref": "psalms 119:93",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Na seko nakobosana te mapesa na yo, mpo na yango ozalisaki ngai bomoi.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "Na seko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "nakobosana"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "mapesa na yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "בם",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "ozalisaki ngai bomoi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:31:44.658519391Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jonah 2:8",
+  "book": "jonah",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Ntango bomoi na ngai etombwaki na ngai, namianaki Yawe ⟨את⟩, mpe losambo na ngai ekotaki epai ya yo, tii na ndako ya bosantu na yo.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "ntango etombwaki"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "bomoi na ngai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "namianaki"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "mpe ekotaki"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "epai ya yo"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "losambo na ngai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tii na"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "ya bosantu na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T20:47:14.459553742Z",
+  "model": "glm-5.3"
+}

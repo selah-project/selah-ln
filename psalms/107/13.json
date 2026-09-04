@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 107:13",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 107,
+  "translation": "Bakangaki epai ya Yawe na mokakata na bango; na milangwasi na bango abikisi bango.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "bakangaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "na mokakata na bango"
+    },
+    {
+      "surface": "להם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "ממצקותיהם",
+      "gloss": "na milangwasi na bango"
+    },
+    {
+      "surface": "יושיעם",
+      "gloss": "abikisi bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:28:15.534956408Z",
+  "model": "glm-5.3"
+}

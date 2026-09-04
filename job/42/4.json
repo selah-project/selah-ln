@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 42:4",
+  "book": "job",
+  "lang": "ln",
+  "chapter": 42,
+  "translation": "Yoka nazela, mpe ngai nakoloba; nakotuna yo, mpe yebisa ngai.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Yoka"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nazela"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "mpe ngai"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "nakoloba"
+    },
+    {
+      "surface": "אשאלך",
+      "gloss": "nakotuna yo"
+    },
+    {
+      "surface": "והודיעני",
+      "gloss": "mpe yebisa ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T22:05:13.551668867Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 31:8",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 31,
+  "translation": "mpe ⟨את⟩ Etabolo mpe ⟨את⟩ bisaleli bya yango, mpe ⟨את⟩ Monyola ya sembe mpe ⟨את⟩ bisaleli bya yango nyonso, mpe ⟨את⟩ Etambwele ya nkunku;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Etabolo"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "Etabolo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bisaleli bya yango"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "bisaleli bya yango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Monyola"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "Monyola"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "ya sembe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bisaleli nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "bisaleli bya yango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Etambwele"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "Etambwele"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "ya nkunku"
+    }
+  ],
+  "timestamp": "2026-09-03T16:32:08.379381724Z",
+  "model": "glm-5.3"
+}

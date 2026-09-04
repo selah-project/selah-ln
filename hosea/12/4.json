@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 12:4",
+  "book": "hosea",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Na libumu aswaki fiki ya ndeko na ye ⟨את⟩, mpe na makasi na ye alwaki na Elohim ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "בבטן",
+      "gloss": "na libumu"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "aswaki fiki ya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndeko na ye"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ndeko na ye"
+    },
+    {
+      "surface": "ובאונו",
+      "gloss": "mpe na makasi na ye"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "alwaki na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-03T20:39:59.978932045Z",
+  "model": "glm-5.3"
+}

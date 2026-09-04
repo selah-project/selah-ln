@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 2:10",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Kokota na libanga, mpe kobombama na mpoto, mpamba na bobangi ya Yawe, mpe na nkembo ya likanzi na ye.",
+  "tokens": [
+    {
+      "surface": "בוא",
+      "gloss": "Kokota"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "na libanga"
+    },
+    {
+      "surface": "והטמן",
+      "gloss": "mpe kobombama"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "na mpoto"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "mpamba na"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "bobangi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ומהדר",
+      "gloss": "mpe na nkembo"
+    },
+    {
+      "surface": "גאנו",
+      "gloss": "ya likanzi na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T19:11:32.203792105Z",
+  "model": "glm-5.3"
+}

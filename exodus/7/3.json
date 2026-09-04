@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 7:3",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mpe ngai nakokangisa ⟨את⟩ motema ya Parao, mpe nakobakisi ⟨את⟩ bilembo na ngai mpe ⟨את⟩ bimoniseli na ngai na mabele ya Mitsraim.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "mpe ngai"
+    },
+    {
+      "surface": "אקשה",
+      "gloss": "nakokangisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motema ya Parao"
+    },
+    {
+      "surface": "לב",
+      "gloss": "motema"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ya Parao"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "mpe nakobakisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bilembo na ngai"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "bilembo na ngai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bimoniseli na ngai"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "bimoniseli na ngai"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Mitsraim"
+    }
+  ],
+  "timestamp": "2026-09-03T16:16:21.514665867Z",
+  "model": "glm-5.3"
+}

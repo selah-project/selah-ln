@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "psalms 119:63",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Moninga ngai na bato nyonso oyo babangi yo, mpe na bato babateli mibeko na yo.",
+  "tokens": [
+    {
+      "surface": "חבר",
+      "gloss": "Moninga"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "na bato nyonso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "יראוך",
+      "gloss": "babangi yo"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "mpe na bato babateli"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "mibeko na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:31:30.875621953Z",
+  "model": "glm-5.3"
+}

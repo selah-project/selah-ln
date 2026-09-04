@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 6:4",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mikolo nyonso ya bokangi na ye, na oyo esalemi na nzete ya vin, utá na bibu kino na nkasa, akolia te.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mikolo"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "ya bokangi na ye"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "na oyo nyonso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "esalemi"
+    },
+    {
+      "surface": "מגפן",
+      "gloss": "na nzete"
+    },
+    {
+      "surface": "היין",
+      "gloss": "ya vin"
+    },
+    {
+      "surface": "מחרצנים",
+      "gloss": "utá na bibu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kino na"
+    },
+    {
+      "surface": "זג",
+      "gloss": "nkasa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "akolia"
+    }
+  ],
+  "timestamp": "2026-09-03T17:03:25.228936207Z",
+  "model": "glm-5.3"
+}

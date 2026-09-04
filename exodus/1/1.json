@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 1:1",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe bango oyo bankombo ya bana ya Israel, bayaki na Mitsraim; ⟨את⟩ Yaakov, moto mpe ndako na yango, bayaki.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Mpe bango oyo"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "bankombo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ya bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "bayaki"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "na Mitsraim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אישׁ",
+      "gloss": "moto"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "mpe ndako na yango"
+    },
+    {
+      "surface": "באו",
+      "gloss": "bayaki"
+    }
+  ],
+  "timestamp": "2026-09-03T16:13:15.413702133Z",
+  "model": "glm-5.3"
+}

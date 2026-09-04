@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 23:11",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Mpe akotombola ⟨את⟩ omer liboso ya Yawe, mpo etondiswa na bino; o mokolo ya nsima ya Shabat kohen akotombola yango.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "mpe akotombola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omer"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "omer"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "mpo etondiswa na bino"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "o mokolo ya nsima"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "ya Shabat"
+    },
+    {
+      "surface": "יניפנו",
+      "gloss": "akotombola yango"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    }
+  ],
+  "timestamp": "2026-09-03T16:52:56.498448633Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 6:19",
+  "book": "ezra",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpe bana ya bomenga basalaki ⟨את⟩ Paska na zomi na minei ya sanza ya liboso.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "mpe basalaki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "ya bomenga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paska"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Paska"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "na zomi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "na minei"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ya sanza"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ya liboso"
+    }
+  ],
+  "timestamp": "2026-09-03T22:30:28.836513135Z",
+  "model": "glm-5.3"
+}

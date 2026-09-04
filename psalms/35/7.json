@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 35:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 35,
+  "translation": "Mpo ete, na mpamba babombaki ngai libulu, lia na bango; na mpamba bakundaki mpo na molimo na ngai.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "na mpamba"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "babombaki"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "libulu"
+    },
+    {
+      "surface": "רשתם",
+      "gloss": "lia na bango"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "na mpamba"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "bakundaki"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "mpo na molimo na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:08:29.105906313Z",
+  "model": "glm-5.3"
+}

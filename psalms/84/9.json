@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 84:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 84,
+  "translation": "Yawe Elohim Tsebaot, yoka losambo na ngai; tandisa matoyi, Elohim ya Yaakov. Selah.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "yoka"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "losambo na ngai"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "tandisa matoyi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ya"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-03T21:22:36.450383411Z",
+  "model": "glm-5.3"
+}

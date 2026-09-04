@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 23:1",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Mpe mokonzi atindaki, mpe babikusaki epai na ye bakulu nyonso ya Yehudah mpe ya Yerushalaim.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "mpe atindaki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "mpe babikusaki"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "epai na ye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "bakulu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "mpe Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-09-03T19:11:36.276493422Z",
+  "model": "glm-5.3"
+}

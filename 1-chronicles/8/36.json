@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 8:36",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe Ahaz abotaki ⟨את⟩ Yehoadah; mpe Yehoadah abotaki ⟨את⟩ Alemet mpe ⟨את⟩ Azmavet mpe ⟨את⟩ Zimri; mpe Zimri abotaki ⟨את⟩ Motsa.",
+  "tokens": [
+    {
+      "surface": "ואחז",
+      "gloss": "Mpe Ahaz"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "abotaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoadah"
+    },
+    {
+      "surface": "יהועדה",
+      "gloss": "Yehoadah"
+    },
+    {
+      "surface": "ויהועדה",
+      "gloss": "mpe Yehoadah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "abotaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Alemet"
+    },
+    {
+      "surface": "עלמת",
+      "gloss": "Alemet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Azmavet"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "Azmavet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Zimri"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "וזמרי",
+      "gloss": "mpe Zimri"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "abotaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Motsa"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "Motsa"
+    }
+  ],
+  "timestamp": "2026-09-03T23:40:40.466950998Z",
+  "model": "glm-5.3"
+}

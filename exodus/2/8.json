@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 2:8",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe mwana-mwasi ya Parao alobaki na ye: Kende. Mpe mwana-mwasi yango akendaki mpe abengaki ⟨את⟩ mama ya mwana.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "לה",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana-mwasi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ya Parao"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "Kende"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "mpe akendaki"
+    },
+    {
+      "surface": "העלמה",
+      "gloss": "mwana-mwasi yango"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "mpe abengaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mama ya mwana"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mama"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ya mwana"
+    }
+  ],
+  "timestamp": "2026-09-03T16:12:48.803825993Z",
+  "model": "glm-5.3"
+}

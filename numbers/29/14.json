@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 29:14",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 29,
+  "translation": "mpe mbeka na bango: farine ya malamu lolengwa na mafuta, bakaboli misato epai ya mbele moko, mpo na mabeki zomi na misato; bakaboli mibale epai ya beli moko, mpo na beli mibale.",
+  "tokens": [
+    {
+      "surface": "ומנחתם",
+      "gloss": "mpe mbeka na bango"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "farine ya malamu"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "lolengwa na"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "misato"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "bakaboli"
+    },
+    {
+      "surface": "לפר",
+      "gloss": "epai ya mbele"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "moko"
+    },
+    {
+      "surface": "לשלשה",
+      "gloss": "mpo na misato"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "zomi na"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "mabeki"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "bakaboli"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "epai ya beli"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "moko"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "mpo na mibale"
+    },
+    {
+      "surface": "האילם",
+      "gloss": "beli"
+    }
+  ],
+  "timestamp": "2026-09-03T17:18:00.169530959Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 3:10",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mokonzi ya Israel alobaki: Oh! mpo Yawe abengaki bakonzi misato oyo, mpo na kopesa ⟨את⟩ bango na maboko ya Moab.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Oh!"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "abengaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "misato"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "bakonzi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "mpo na kopesa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ bango",
+      "marks": "bango (bakonzi misato oyo)"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "na maboko"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ya Moab"
+    }
+  ],
+  "timestamp": "2026-09-03T18:59:02.227907702Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 148:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 148,
+  "translation": "Bokumisa, Ya! Bokumisa Yawe ⟨את⟩ uta na likolo, bokumisa-yé na bitulu.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Bokumisa"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Bokumisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uta na"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "likolo"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "bokumisa-yé"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "na bitulu"
+    }
+  ],
+  "timestamp": "2026-09-03T21:36:57.899071217Z",
+  "model": "glm-5.3"
+}

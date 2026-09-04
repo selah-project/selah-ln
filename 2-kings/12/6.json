@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 12:6",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Bazwa nabo bakoheni, moto nyonso kowuta ⟨את⟩ moninga na ye; mpe bango baleza ⟨את⟩ mbuvu ya ndako, na nyonso oyo emonanaka kuna mbuvu.",
+  "tokens": [
+    {
+      "surface": "יקחו",
+      "gloss": "bazwa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "nabo"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "bakoheni"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto nyonso"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "kowuta ⟨את⟩",
+      "marks": "moninga na ye"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "moninga na ye"
+    },
+    {
+      "surface": "והם",
+      "gloss": "mpe bango"
+    },
+    {
+      "surface": "יחזקו",
+      "gloss": "baleza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbuvu ya ndako"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "mbuvu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ya ndako"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "na nyonso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "emonanaka"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "mbuvu"
+    }
+  ],
+  "timestamp": "2026-09-03T19:05:15.577152386Z",
+  "model": "glm-5.3"
+}

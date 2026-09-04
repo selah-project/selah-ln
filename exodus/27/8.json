@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 27:8",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 27,
+  "translation": "Na elema, na bibale okosala ⟨את⟩ yango; ndenge balakisi ⟨את⟩ yo na ngomba, bongo bakosala yango.",
+  "tokens": [
+    {
+      "surface": "נבוב",
+      "gloss": "na elema"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "na bibale"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "okosala"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yango"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ndenge"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "balakisi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "yo"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "na ngomba"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bongo"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "bakosala yango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:28:04.026032056Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 62:9",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 62,
+  "translation": "Mpo basangeli bakolia yango, mpe bakumisa ⟨את⟩ Yawe; mpe babokeli bakomela yango na bandako ya nsomba na ngai.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "מאספיו",
+      "gloss": "basangeli"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "bakolia-yango"
+    },
+    {
+      "surface": "והללו",
+      "gloss": "mpe bakumisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ומקבציו",
+      "gloss": "mpe babokeli"
+    },
+    {
+      "surface": "ישתהו",
+      "gloss": "bakomela-yango"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "na bandako"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "ya nsomba na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T19:37:27.351483522Z",
+  "model": "glm-5.3"
+}

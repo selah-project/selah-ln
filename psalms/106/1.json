@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 106:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 106,
+  "translation": "Bolobeli Ya, bondimela Yawe, mpo ete ⟨azali⟩ malamu, mpo ete hesed na ye kino na seko.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Bolobeli"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "bondimela"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "epai ya Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "malamu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kino na seko"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:28:03.445350745Z",
+  "model": "glm-5.3"
+}

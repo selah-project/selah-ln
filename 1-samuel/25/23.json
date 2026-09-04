@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 25:23",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Mpe Avigayil amonaki ⟨את⟩ David, mpe akendaki noki, mpe akitaki na mbavu, mpe akweyaki na libulu ya David na elongi na ye, mpe akundamaki na mabele.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "Mpe amonaki"
+    },
+    {
+      "surface": "אביגיל",
+      "gloss": "Avigayil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ותמהר",
+      "gloss": "mpe akendaki noki"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "mpe akitaki"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "na likolo ya"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "mbavu"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "mpe akweyaki"
+    },
+    {
+      "surface": "לאפי",
+      "gloss": "na libulu ya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "elongi na ye"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "mpe akundamaki"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "na mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T18:21:26.549762646Z",
+  "model": "glm-5.3"
+}

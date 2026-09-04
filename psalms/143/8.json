@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 143:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 143,
+  "translation": "Boya ngai koyoka hesed na yo na tongo, mpo na yo natikalaki; Bayebisa ngai nzela oyo nakokende, mpo epai na yo natombolaki molimo na ngai.",
+  "tokens": [
+    {
+      "surface": "השמיעני",
+      "gloss": "Boya ngai koyoka"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "na tongo"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed na yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "בך",
+      "gloss": "na yo"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "natikalaki"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "Bayebisa ngai"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "nzela"
+    },
+    {
+      "surface": "זו",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "nakokende"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "epai na yo"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "natombolaki"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "molimo na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:35:40.563902464Z",
+  "model": "glm-5.3"
+}

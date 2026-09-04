@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 15:12",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 15,
+  "translation": "Mpe bakotaki na boyokani mpo na koluka ⟨את⟩ Yawe Elohim ya batata na bango, na motema na bango mobimba mpe na bomoi na bango mobimba.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "mpe bakotaki"
+    },
+    {
+      "surface": "בברית",
+      "gloss": "na boyokani"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "mpo na koluka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "ya batata na bango"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na mobimba"
+    },
+    {
+      "surface": "לבבם",
+      "gloss": "motema na bango"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "mpe na mobimba"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "bomoi na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T23:00:05.776856365Z",
+  "model": "glm-5.3"
+}

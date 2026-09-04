@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 3:13",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Yawe Elohim alobaki na mwasi: Nini oyo osali? Mwasi alobaki: Nyoka abungisaki ngai, mpe nalyaki.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "na mwasi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Nini"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "osali"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mwasi"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "nyoka"
+    },
+    {
+      "surface": "השיאני",
+      "gloss": "abungisaki ngai"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "mpe nalyaki"
+    }
+  ],
+  "timestamp": "2026-09-03T15:45:44.782646803Z",
+  "model": "glm-5.3"
+}

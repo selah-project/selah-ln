@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 139:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 139,
+  "translation": "Na sima mpe na liboso okangaki ngai, mpe otyaki libanja na yo na ngai.",
+  "tokens": [
+    {
+      "surface": "אחור",
+      "gloss": "sima"
+    },
+    {
+      "surface": "וקדם",
+      "gloss": "mpe liboso"
+    },
+    {
+      "surface": "צרתני",
+      "gloss": "okangaki ngai"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "mpe otyaki"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "כפכה",
+      "gloss": "libanja na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:34:50.516640429Z",
+  "model": "glm-5.3"
+}

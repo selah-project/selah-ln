@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 5:12",
+  "book": "hosea",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Mpe ngai nazali lokola mpimbwa ya bilamba epai ya Efrayim, mpe lokola bopusa epai ya ndako ya Yehuda.",
+  "tokens": [
+    {
+      "surface": "ו אני",
+      "gloss": "Mpe ngai"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "lokola mpimbwa ya bilamba"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "epai ya Efrayim"
+    },
+    {
+      "surface": "וכרקב",
+      "gloss": "mpe lokola bopusa"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "epai ya ndako ya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-09-03T20:36:55.830187237Z",
+  "model": "glm-5.3"
+}

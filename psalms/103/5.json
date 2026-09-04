@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 103:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 103,
+  "translation": "Oyo azali kobodisa na bolamu bilamba na yo, bonkane na yo ezali kobongwana na sika lokola nsɔ.",
+  "tokens": [
+    {
+      "surface": "המשביע",
+      "gloss": "oyo azali kobodisa"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "na bolamu"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "bilamba na yo"
+    },
+    {
+      "surface": "תתחדש",
+      "gloss": "ezali kobongwana na sika"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "lokola nsɔ"
+    },
+    {
+      "surface": "נעוריכי",
+      "gloss": "bonkane na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:25:46.132429131Z",
+  "model": "glm-5.3"
+}

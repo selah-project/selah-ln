@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 19:21",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Mpe Yawe akomonana na Mitsraim, mpe Mitsraim bakoyeba ⟨את⟩ Yawe na mokolo wana; mpe bakosala bimbami mpe lipai, mpe bakolaka lilaka na Yawe mpe bakokisa yango.",
+  "tokens": [
+    {
+      "surface": "ונודע",
+      "gloss": "mpe akomonana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "na Mitsraim"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "mpe bakoyeba"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na mokolo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "wana"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "mpe bakosala"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "bimbami"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "mpe lipai"
+    },
+    {
+      "surface": "ונדרו",
+      "gloss": "mpe bakolaka"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "lilaka"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "na Yawe"
+    },
+    {
+      "surface": "ושלמו",
+      "gloss": "mpe bakokisa yango"
+    }
+  ],
+  "timestamp": "2026-09-03T19:19:33.575794553Z",
+  "model": "glm-5.3"
+}

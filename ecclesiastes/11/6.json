@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 11:6",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Na tongo bota ⟨את⟩ mbuto na yo, mpe na mpokwa kanga te loboko na yo, mpo ozali koyeba te soki oyo to wana ekokoka, to soki bango mibale elongo, malamu.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "Na tongo"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "bota"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbuto na yo"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "mbuto na yo"
+    },
+    {
+      "surface": "ולערב",
+      "gloss": "mpe na mpokwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "kanga"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "loboko na yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "te"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "oyebi"
+    },
+    {
+      "surface": "אי",
+      "gloss": "soki"
+    },
+    {
+      "surface": "זה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "יכשר",
+      "gloss": "ekokoka"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "או",
+      "gloss": "to"
+    },
+    {
+      "surface": "זה",
+      "gloss": "wana"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "to soki"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "bango mibale"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "elongo"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "malamu"
+    }
+  ],
+  "timestamp": "2026-09-03T22:15:48.266865986Z",
+  "model": "glm-5.3"
+}

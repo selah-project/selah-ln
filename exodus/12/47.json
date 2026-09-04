@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "exodus 12:47",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Libota mobimba ya Israel bakosala ⟨את⟩ yango.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "mobimba"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "libota"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "bakosala"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yango",
+      "marks": "yango (Pesa)"
+    }
+  ],
+  "timestamp": "2026-09-03T16:19:22.505336765Z",
+  "model": "glm-5.3"
+}

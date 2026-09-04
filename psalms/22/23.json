@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 22:23",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Nakoloba nkombo na yo na bandeko na ngai, o kati ya lisanga nakotombola yo.",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "Nakoloba"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nkombo na yo"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "na bandeko na ngai"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "o kati"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "ya lisanga"
+    },
+    {
+      "surface": "אהללך",
+      "gloss": "nakotombola yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:04:30.962442201Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "ezekiel 16:40",
+  "book": "ezekiel",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Mpe bakomemisa lisanga likolo na yo, mpe bakobwakela ⟨את⟩ yo na mabanga, mpe bakokatula yo na masete na bango.",
+  "tokens": [
+    {
+      "surface": "והעלו",
+      "gloss": "mpe bakomemisa"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "likolo na yo"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "lisanga"
+    },
+    {
+      "surface": "ורגמו",
+      "gloss": "mpe bakobwakela"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "yo"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "na mabanga"
+    },
+    {
+      "surface": "ובתקוך",
+      "gloss": "mpe bakokatula yo"
+    },
+    {
+      "surface": "בחרבותם",
+      "gloss": "na masete na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T20:17:50.961997296Z",
+  "model": "glm-5.3"
+}

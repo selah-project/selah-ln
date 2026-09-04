@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 51:9",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 51,
+  "translation": "Amikaka, amikaka, kanga nguya, lokwa ya Yawe; amikaka, lokola na mikolo ya kala, na bokolongono ya ntango ya libela. Boye te nde yo nde oboyiki Rahab, mpe olobi tanin?",
+  "tokens": [
+    {
+      "surface": "עורי",
+      "gloss": "amikaka"
+    },
+    {
+      "surface": "עורי",
+      "gloss": "amikaka"
+    },
+    {
+      "surface": "לבשי",
+      "gloss": "kanga"
+    },
+    {
+      "surface": "עז",
+      "gloss": "nguya"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "lokwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עורי",
+      "gloss": "amikaka"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "lokola na mikolo ya"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "kala"
+    },
+    {
+      "surface": "דרות",
+      "gloss": "bokolongono"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "ntango ya libela"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "boye te nde"
+    },
+    {
+      "surface": "את",
+      "gloss": "yo",
+      "marks": "yo nde oboyiki Rahab"
+    },
+    {
+      "surface": "היא",
+      "gloss": "nde"
+    },
+    {
+      "surface": "המחצבת",
+      "gloss": "oboyiki"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "Rahab"
+    },
+    {
+      "surface": "מחוללת",
+      "gloss": "olobi"
+    },
+    {
+      "surface": "תנין",
+      "gloss": "tanin"
+    }
+  ],
+  "timestamp": "2026-09-03T19:35:00.333961574Z",
+  "model": "glm-5.3"
+}

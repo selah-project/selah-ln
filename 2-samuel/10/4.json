@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 10:4",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Mpe Hanun akangaki ⟨את⟩ bawumbu ya David, mpe akokaki ⟨את⟩ motoba ya bizolu na bango, mpe akatakaki ⟨את⟩ bilamba na bango na katikati, kino na binama na bango, mpe atindaki bango.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Mpe Hanun akangaki"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Hanun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bawumbu ya David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "bawumbu ya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויגלח",
+      "gloss": "mpe akokaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motoba ya bizolu na bango"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "motoba ya"
+    },
+    {
+      "surface": "זקנם",
+      "gloss": "bizolu na bango"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "mpe akatakaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bilamba na bango"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "bilamba na bango"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "na katikati"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino na"
+    },
+    {
+      "surface": "שתותיהם",
+      "gloss": "binama na bango"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "mpe atindaki bango"
+    }
+  ],
+  "timestamp": "2026-09-03T18:31:28.928344515Z",
+  "model": "glm-5.3"
+}

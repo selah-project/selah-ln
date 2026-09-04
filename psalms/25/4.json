@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 25:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Banzela na yo, Yawe, monisa ngai; misanzinya na yo longisa ngai.",
+  "tokens": [
+    {
+      "surface": "דרכיך",
+      "gloss": "Banzela na yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "monisa ngai"
+    },
+    {
+      "surface": "ארחותיך",
+      "gloss": "misanzinya na yo"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "longisa ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:05:59.851425520Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 32:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 32,
+  "translation": "Ya David, Maskil. Bosepeli ya oyo lolendo na ye esuwami, oyo maso ebombami.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "ya David"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "Maskil"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Bosepeli ya"
+    },
+    {
+      "surface": "נשוי",
+      "gloss": "esuwami"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "lolendo"
+    },
+    {
+      "surface": "כסוי",
+      "gloss": "ebombami"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "maso"
+    }
+  ],
+  "timestamp": "2026-09-03T21:08:40.952369156Z",
+  "model": "glm-5.3"
+}

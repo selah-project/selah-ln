@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 47:10",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 47,
+  "translation": "Yaakov apesaki baraka na ⟨את⟩ Parao, mpe abimaki na liboso ya Parao.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "apesaki baraka"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Parao"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "abimaki"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "na liboso ya"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    }
+  ],
+  "timestamp": "2026-09-03T16:10:31.110001991Z",
+  "model": "glm-5.3"
+}

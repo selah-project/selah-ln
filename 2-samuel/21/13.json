@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 21:13",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Mpe amemaki wana ⟨את⟩ mikongo ya Shaul mpe ⟨את⟩ mikongo ya Yehonatan mwana na ye, mpe bakulisaki ⟨את⟩ mikongo ya bakangami.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "mpe amemaki"
+    },
+    {
+      "surface": "משם",
+      "gloss": "wana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mikongo ya Shaul"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "mikongo"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mikongo ya Yehonatan"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "mikongo"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana na ye"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "mpe bakulisaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mikongo ya bakangami"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "mikongo"
+    },
+    {
+      "surface": "המוקעים",
+      "gloss": "bakangami"
+    }
+  ],
+  "timestamp": "2026-09-03T18:38:39.407235644Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 132:15",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 132,
+  "translation": "Biloko na yango nakopesa ngolu mingi; baoyo bazali na mposa na yango nakosetola na moulei.",
+  "tokens": [
+    {
+      "surface": "צידה",
+      "gloss": "biloko na yango"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "nakopesa ngolu"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "mingi"
+    },
+    {
+      "surface": "אביוניה",
+      "gloss": "baoyo bazali na mposa na yango"
+    },
+    {
+      "surface": "אשביע",
+      "gloss": "nakosetola"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "na moulei"
+    }
+  ],
+  "timestamp": "2026-09-03T21:33:28.095451624Z",
+  "model": "glm-5.3"
+}

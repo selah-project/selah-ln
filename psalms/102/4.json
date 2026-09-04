@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 102:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 102,
+  "translation": "Mpo mikolo na ngai esilaki na moyi, mpe miku na ngai eswaki lokola mokad.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "esilaki"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "na moyi"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mikolo na ngai"
+    },
+    {
+      "surface": "ועצמותי",
+      "gloss": "mpe miku na ngai"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "lokola"
+    },
+    {
+      "surface": "קד",
+      "gloss": "mokad"
+    },
+    {
+      "surface": "נחרו",
+      "gloss": "eswaki"
+    }
+  ],
+  "timestamp": "2026-09-03T21:26:26.040470397Z",
+  "model": "glm-5.3"
+}

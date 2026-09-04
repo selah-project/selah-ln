@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 1:4",
+  "book": "esther",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Ntango azalaki kolakisa ⟨את⟩ bomengo ya lokumu ya bokonzi na ye mpe ⟨את⟩ motuya ya kitoko ya bogumi na ye, mikolo mingi — mikolo ntuku mwambe na nkoto moko.",
+  "tokens": [
+    {
+      "surface": "בהראתו",
+      "gloss": "Ntango azalaki kolakisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bomengo ya lokumu ya bokonzi na ye"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "bomengo"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ya lokumu"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "ya bokonzi na ye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "motuya ya kitoko ya bogumi na ye"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "motuya"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "ya kitoko"
+    },
+    {
+      "surface": "גדולתו",
+      "gloss": "ya bogumi na ye"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mikolo"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mingi"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "ntuku mwambe"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "na nkoto moko"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ya mikolo"
+    }
+  ],
+  "timestamp": "2026-09-03T22:18:29.789289067Z",
+  "model": "glm-5.3"
+}

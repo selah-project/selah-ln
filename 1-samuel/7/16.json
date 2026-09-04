@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 7:16",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mpe azalaki kotambola mobu na mobu, mpe azalaki kozingazinga na Betel, mpe na Gilgal, mpe na Mitspa; mpe azalaki kotambwisa mibeko ⟨את⟩ Israel na ⟨את⟩ bisika nyonso oyo.",
+  "tokens": [
+    {
+      "surface": "והלך",
+      "gloss": "mpe azalaki kotambola"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "mobu na"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mobu"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": ""
+    },
+    {
+      "surface": "וסבב",
+      "gloss": "mpe azalaki kozingazinga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "el"
+    },
+    {
+      "surface": "והגלגל",
+      "gloss": "mpe na Gilgal"
+    },
+    {
+      "surface": "והמצפה",
+      "gloss": "mpe na Mitspa"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "mpe azalaki kotambwisa mibeko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bisika nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "המקומות",
+      "gloss": "bisika"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "oyo"
+    }
+  ],
+  "timestamp": "2026-09-03T18:11:11.140434351Z",
+  "model": "glm-5.3"
+}

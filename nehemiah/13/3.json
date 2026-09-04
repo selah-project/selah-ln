@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 13:3",
+  "book": "nehemiah",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Mpe esalaki, tango bawayoki ⟨את⟩ Tora, bakabolaki bato ya bokangani nyonso kowuta na Israel.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mpe esalaki"
+    },
+    {
+      "surface": "כשמעם",
+      "gloss": "tango bawayoki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tora"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "ויבדילו",
+      "gloss": "bakabolaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "bato ya bokangani"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "kowuta na Israel"
+    }
+  ],
+  "timestamp": "2026-09-03T22:39:34.337816320Z",
+  "model": "glm-5.3"
+}

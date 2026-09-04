@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "malachi 2:9",
+  "book": "malachi",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe ngai mpe, namati ⟨את⟩ bino bokweyi mpe bawa liboso ya bato nyonso, ndenge bozali te kolanda ⟨את⟩ banzela na ngai, mpe bokolaka elongi na Tora.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Mpe mpe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "namati"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ bino",
+      "marks": "bokweyi mpe bawa"
+    },
+    {
+      "surface": "נבזים",
+      "gloss": "bokweyi"
+    },
+    {
+      "surface": "ושפלים",
+      "gloss": "mpe bawa"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato nyonso"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ndenge"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אינכם",
+      "gloss": "bozali te"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "kolanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "banzela na ngai"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "banzela na ngai"
+    },
+    {
+      "surface": "ונשאים",
+      "gloss": "mpe bokolaka"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "elongi"
+    },
+    {
+      "surface": "בתורה",
+      "gloss": "na Tora"
+    }
+  ],
+  "timestamp": "2026-09-03T20:59:10.785361467Z",
+  "model": "glm-5.3"
+}

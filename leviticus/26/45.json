@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "leviticus 26:45",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "Mpe nakanisi bango boyokani ya kala, oyo nakomisaki ⟨את⟩ bango bimo wuta na mabele ya Mitsraim, miso ya bikolo liboso, mpo na kozala bango Elohim; ngai Yawe.",
+  "tokens": [
+    {
+      "surface": "וזכרתי",
+      "gloss": "mpe nakanisi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bango"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "boyokani"
+    },
+    {
+      "surface": "ראשנים",
+      "gloss": "ya kala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "nakomisaki bimo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bango",
+      "marks": "bango (oyo nakomisaki bimo)"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "wuta na mabele"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "miso ya ... liboso"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bikolo"
+    },
+    {
+      "surface": "להית",
+      "gloss": "mpo na kozala"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bango"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T16:56:16.659152576Z",
+  "model": "glm-5.3"
+}

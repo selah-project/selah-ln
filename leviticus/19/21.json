@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 19:21",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Mpe amemeli ⟨את⟩ ashamu na yaye epai ya Yawe, na libange ya daku ya bokutani: mouton ya asham.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "Mpe amemeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ashamu na yaye"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "ashamu na yaye"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "epai ya Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "libange"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "daku"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya bokutani"
+    },
+    {
+      "surface": "איל",
+      "gloss": "mouton"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "asham"
+    }
+  ],
+  "timestamp": "2026-09-03T16:51:58.095535962Z",
+  "model": "glm-5.3"
+}

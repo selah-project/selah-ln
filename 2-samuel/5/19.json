@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 5:19",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Mpe David atunaki epai ya Yawe na koloba: Nakokwela epai ya Palishtim? Okopesa bango na maboko na ngai? Mpe Yawe alobaki epai ya David: Kwela, mpo namini nakopesa ⟨את⟩ Palishtim na maboko na yo.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "atunaki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "epai ya Yawe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na koloba"
+    },
+    {
+      "surface": "האעלה",
+      "gloss": "Nakokwela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Palishtim"
+    },
+    {
+      "surface": "התתנם",
+      "gloss": "Okopesa bango"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "na maboko na ngai"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "Kwela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "namini"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "nakopesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Palishtim"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "Palishtim"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "na maboko na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T18:31:12.518382766Z",
+  "model": "glm-5.3"
+}

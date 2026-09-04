@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 10:12",
+  "book": "judges",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "mpe Tsidoni, mpe Amalek, mpe Maon ban yokaki ⟨את⟩ bino; mpe bino boilaki epai ya ngai, mpe nailisaki ⟨את⟩ bino uta na maboko na bango.",
+  "tokens": [
+    {
+      "surface": "וצידונים",
+      "gloss": "mpe Tsidoni"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "mpe Amalek"
+    },
+    {
+      "surface": "ומעון",
+      "gloss": "mpe Maon"
+    },
+    {
+      "surface": "לחצו",
+      "gloss": "banyokaki"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ bino",
+      "marks": "bino"
+    },
+    {
+      "surface": "ותצעקו",
+      "gloss": "mpe bino boilaki"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "epai ya ngai"
+    },
+    {
+      "surface": "ואושיעה",
+      "gloss": "mpe nailisaki"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ bino",
+      "marks": "bino"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "uta na maboko na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T17:59:58.244878221Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 3:7",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Na mokolo oyo akotombola ⟨mongongo⟩ na koloba: Nazali mobongisi te, mpe na ndako na ngai mpanga ezali te, mpe elamba ezali te; bótya ngai te mokonzi ya bato.",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "akotombola"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na mokolo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na koloba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "nazali"
+    },
+    {
+      "surface": "חבש",
+      "gloss": "mobongisi"
+    },
+    {
+      "surface": "ובביתי",
+      "gloss": "mpe na ndako na ngai"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ezali te"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mpanga"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mpe ezali te"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "elamba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "bótya ngai"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ya bato"
+    }
+  ],
+  "timestamp": "2026-09-03T19:13:31.813598047Z",
+  "model": "glm-5.3"
+}

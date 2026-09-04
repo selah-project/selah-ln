@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 34:16",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 34,
+  "translation": "Mpe tokoopesa ⟨את⟩ bana basi na biso na bino, mpe ⟨את⟩ bana basi na bino tokozwa na biso, mpe tokofanda na bino, mpe tokokoma bato moko.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "Mpe tokoopesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bana basi na biso"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "bana basi na biso"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "na bino"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bana basi na bino"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "bana basi na bino"
+    },
+    {
+      "surface": "נקח",
+      "gloss": "tokozwa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "na biso"
+    },
+    {
+      "surface": "וישבנו",
+      "gloss": "mpe tokofanda"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ na bino"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "mpe tokokoma"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "moko"
+    }
+  ],
+  "timestamp": "2026-09-03T16:04:10.847485911Z",
+  "model": "glm-5.3"
+}

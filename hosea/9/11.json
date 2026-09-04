@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 9:11",
+  "book": "hosea",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Efraim, nkembo na bango ekopimaka lokola ndeke — na mbeka, mpe na libumu, mpe na zemi.",
+  "tokens": [
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "כעוף",
+      "gloss": "lokola ndeke"
+    },
+    {
+      "surface": "יתעופף",
+      "gloss": "ekopimaka"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "nkembo na bango"
+    },
+    {
+      "surface": "מלדה",
+      "gloss": "na mbeka"
+    },
+    {
+      "surface": "ומבטן",
+      "gloss": "mpe na libumu"
+    },
+    {
+      "surface": "ומהריון",
+      "gloss": "mpe na zemi"
+    }
+  ],
+  "timestamp": "2026-09-03T20:39:20.350818580Z",
+  "model": "glm-5.3"
+}

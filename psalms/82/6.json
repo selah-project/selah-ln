@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 82:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 82,
+  "translation": "Nalobaki: bozali banzambe, mpe bana ya El Elion bino nyonso.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nalobaki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "banzambe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "bozali"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "mpe bana"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ya El Elion"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "bino nyonso"
+    }
+  ],
+  "timestamp": "2026-09-03T21:20:43.724834236Z",
+  "model": "glm-5.3"
+}

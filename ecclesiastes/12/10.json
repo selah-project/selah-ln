@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 12:10",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Kohelet abolukaki mpo na kozwa maloba ya elikya, mpe oyo ekomami ezali ya sembo, maloba ya solo.",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "abolukaki"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Kohelet"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "mpo na kozwa"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "maloba"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ya elikya"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "mpe oyo ekomami"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ya sembo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "maloba"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ya solo"
+    }
+  ],
+  "timestamp": "2026-09-03T22:16:37.411632705Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 22:1",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Mpe David alobaki na Yawe ⟨את⟩ maloba ya nzembo oyo, na mokolo Yawe abikisaki ⟨את⟩ ye na loboko ya banguna na ye nyonso mpe na loboko ya Shaul.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "na Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maloba"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "maloba"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "ya nzembo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na mokolo"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "abikisaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ye"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "na loboko ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "banguna na ye"
+    },
+    {
+      "surface": "ומכף",
+      "gloss": "mpe na loboko ya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    }
+  ],
+  "timestamp": "2026-09-03T18:39:58.110250678Z",
+  "model": "glm-5.3"
+}

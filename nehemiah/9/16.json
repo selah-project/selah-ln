@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 9:16",
+  "book": "nehemiah",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Kasi bango mpe baboti na biso basalaki bindimba, mpe bakangisaki ⟨את⟩ nakongo na bango, mpe bayokaki te na mibonde na yo.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "Kasi bango"
+    },
+    {
+      "surface": "ואבתינו",
+      "gloss": "mpe baboti na biso"
+    },
+    {
+      "surface": "הזידו",
+      "gloss": "basalaki bindimba"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "mpe bakangisaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nakongo na bango"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "nakongo na bango"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe ... te"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "bayokaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "mibonde na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T22:37:10.793775871Z",
+  "model": "glm-5.3"
+}

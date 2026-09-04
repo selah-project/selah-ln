@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 13:22",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Etando ya mongongo elongwaki te na moyi, mpe etando ya moto na butu, liboso ya bato.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "elongwaki"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "etando"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "ya mongongo"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "na moyi"
+    },
+    {
+      "surface": "ועמוד",
+      "gloss": "mpe etando"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ya moto"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "na butu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    }
+  ],
+  "timestamp": "2026-09-03T16:19:01.733040239Z",
+  "model": "glm-5.3"
+}

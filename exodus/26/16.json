@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 26:16",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "Zomi ama ⟨ezali⟩ bolai ya kalanzi, mpe ama mpe ndambo ya ama bonene ya kalanzi moko.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "zomi"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ama"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "bolai"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "kalanzi"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "mpe ama"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "mpe ndambo"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "ya ama"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "bonene"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "kalanzi"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "moko"
+    }
+  ],
+  "timestamp": "2026-09-03T16:28:26.587651089Z",
+  "model": "glm-5.3"
+}

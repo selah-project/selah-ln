@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 1:2",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe mabele ezalaki tohu mpe bohu, mpe molili ezalaki likolo ya face ya tehom, mpe mpema ya Elohim ezalaki kobwaka likolo ya face ya mai.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "Mpe mabele"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ezalaki"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "tohu"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "mpe bohu"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "mpe molili"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "פני",
+      "gloss": "face"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "tehom"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "mpe mpema"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מרחפת",
+      "gloss": "ezalaki kobwaka"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "פני",
+      "gloss": "face"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mai"
+    }
+  ],
+  "timestamp": "2026-09-03T15:43:36.741559347Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 109:12",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 109,
+  "translation": "Azala ⟨moto⟩ mobakisi hesed (bolingo ya bondimi) te epai na ye, mpe azala ⟨moto⟩ molimbisi te epai na bayatoma na ye.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "azala"
+    },
+    {
+      "surface": "לו",
+      "gloss": "epai na ye"
+    },
+    {
+      "surface": "משך",
+      "gloss": "mobakisi"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "azala"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "molimbisi"
+    },
+    {
+      "surface": "ליתומיו",
+      "gloss": "epai na bayatoma na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:29:09.168668070Z",
+  "model": "glm-5.3"
+}

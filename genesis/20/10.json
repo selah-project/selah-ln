@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 20:10",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 20,
+  "translation": "Mpe Abimelek alobaki epai ya Avraham: Omoni nini, mpo osalaki ⟨את⟩ makambo oyo?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimelek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "Omoni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "osalaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makambo oyo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "makambo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    }
+  ],
+  "timestamp": "2026-09-03T15:54:03.302966824Z",
+  "model": "glm-5.3"
+}

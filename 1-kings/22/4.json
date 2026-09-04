@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 22:4",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Mpe alobaki epai ya Yehoshafat: Okozala kokende na ⟨את⟩ ngai na etumba na Ramot Gilad? Mpe Yehoshafat alobaki epai ya mokonzi wa Israel: Ngai nazali lokola yo, bato na ngai lokola bato na yo, bakavali na ngai lokola bakavali na yo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "התלך",
+      "gloss": "Okozala kokende"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "na ⟨את⟩ ngai",
+      "marks": "Yehoshafat"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "na etumba"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "lokola ngai"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "lokola yo"
+    },
+    {
+      "surface": "כעמי",
+      "gloss": "lokola bato na ngai"
+    },
+    {
+      "surface": "כעמך",
+      "gloss": "lokola bato na yo"
+    },
+    {
+      "surface": "כסוסי",
+      "gloss": "lokola bakavali na ngai"
+    },
+    {
+      "surface": "כסוסיך",
+      "gloss": "lokola bakavali na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T18:58:26.161065661Z",
+  "model": "glm-5.3"
+}

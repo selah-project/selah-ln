@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 11:5",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Yawe amanaki na nsé mpo na komona ⟨את⟩ engumba mpe ⟨את⟩ tora, oyo bana ya bomoto basalaki.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "amanaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לראאת",
+      "gloss": "mpo na komona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "engumba"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "engumba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "tora"
+    },
+    {
+      "surface": "המגדל",
+      "gloss": "tora"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "basalaki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ya bomoto"
+    }
+  ],
+  "timestamp": "2026-09-03T15:49:20.145564036Z",
+  "model": "glm-5.3"
+}

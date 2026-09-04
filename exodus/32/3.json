@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 32:3",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 32,
+  "translation": "Mpe bato banso bakangolaki ⟨את⟩ misabo ya wolo oyo ezali na matoyi na bango, mpe bamemaki ⟨yango⟩ epai ya Aharon.",
+  "tokens": [
+    {
+      "surface": "ויתפרקו",
+      "gloss": "bakangolaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "banso"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "misabo ya wolo"
+    },
+    {
+      "surface": "נזמי",
+      "gloss": "misabo"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "wolo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "matoyi na bango"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "bamemaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-09-03T16:34:26.916993829Z",
+  "model": "glm-5.3"
+}

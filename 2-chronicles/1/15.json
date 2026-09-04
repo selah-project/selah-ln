@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 1:15",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe mokonzi atyaki ⟨את⟩ fele mpe ⟨את⟩ wolo na Yerushalaim ezala lokola mabanga, mpe ⟨את⟩ baareze apesaki bazala lokola basikomore oyo ezali na se ya bangamba, mingi.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "mpe atyaki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fele"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "fele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "wolo"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "wolo"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "na Yerushalaim"
+    },
+    {
+      "surface": "כאבנים",
+      "gloss": "lokola mabanga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "baareze"
+    },
+    {
+      "surface": "הארזים",
+      "gloss": "baareze"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "apesaki"
+    },
+    {
+      "surface": "כשקמים",
+      "gloss": "lokola basikomore"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "בשפלה",
+      "gloss": "na se ya bangamba"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "mingi"
+    }
+  ],
+  "timestamp": "2026-09-03T22:52:50.043848375Z",
+  "model": "glm-5.3"
+}

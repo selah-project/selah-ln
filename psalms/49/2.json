@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 49:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 49,
+  "translation": "Boyoka oyo, babantu nyonso; botiya matoyi, bato nyonso oyo bafandi mokili.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Boyoka"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "babantu"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "botiya matoyi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "bafandi"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "mokili"
+    }
+  ],
+  "timestamp": "2026-09-03T21:12:13.246525660Z",
+  "model": "glm-5.3"
+}

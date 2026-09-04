@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 20:6",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 20,
+  "translation": "Mpe asalaka hesed (bolingo ya solo) epai ya nkoto, epai ya baye balingaka ngai mpe batiyaka malako na ngai.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "Mpe asalaka"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "epai ya nkoto"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "epai ya baye balingaka ngai"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "mpe epai ya batiyaka"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "malako na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T16:22:04.264574089Z",
+  "model": "glm-5.3"
+}

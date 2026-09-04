@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 35:17",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 35,
+  "translation": "Adonai, misato boni okomona? Zongisa molimo na ngai uta na mabe na bango, uta na bakuni, oyo nalingi yango yeka.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "misato boni"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "okomona"
+    },
+    {
+      "surface": "השיבה",
+      "gloss": "zongisa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "molimo na ngai"
+    },
+    {
+      "surface": "משאיהם",
+      "gloss": "uta na mabe na bango"
+    },
+    {
+      "surface": "מכפירים",
+      "gloss": "na bakuni"
+    },
+    {
+      "surface": "יחידתי",
+      "gloss": "oyo nalingi yango yeka"
+    }
+  ],
+  "timestamp": "2026-09-03T21:08:37.771719133Z",
+  "model": "glm-5.3"
+}

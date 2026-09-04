@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 30:30",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 30,
+  "translation": "Mpe ⟨את⟩ Aharon mpe ⟨את⟩ bana na ye okopakola, mpe okosantu ⟨את⟩ bango mpo baba koken epai na ngai.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bana na ye"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bana na ye"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "okopakola"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "mpe okosantu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bango",
+      "marks": "bango"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "baba koken"
+    },
+    {
+      "surface": "לי",
+      "gloss": "epai na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T16:31:43.347236620Z",
+  "model": "glm-5.3"
+}

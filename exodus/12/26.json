@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 12:26",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Mpe ekokoma, ntango bana na bino bakoloba epai na bino: Mosala oyo ezali nini ya bino?",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Mpe ekokoma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ntango"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "bakoloba"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "epai na bino"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "bana na bino"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "mosala"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ya bino"
+    }
+  ],
+  "timestamp": "2026-09-03T16:20:55.461719913Z",
+  "model": "glm-5.3"
+}

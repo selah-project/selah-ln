@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 17:20",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 17,
+  "translation": "Mpe Yawe aboyaki mobimba bogeni ya Israel, mpe apangisaki bango, mpe apesaki bango na maboko ya basosi, kino abimaki bango na libanda ya elongi na ye.",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "mpe aboyaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mobimba"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "bogeni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "mpe apangisaki bango"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "mpe apesaki bango"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "na maboko"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "ya basosi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "esika"
+    },
+    {
+      "surface": "השליכם",
+      "gloss": "abimaki bango"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "na libanda ya elongi na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T19:07:45.691183933Z",
+  "model": "glm-5.3"
+}

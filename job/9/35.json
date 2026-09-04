@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "job 9:35",
+  "book": "job",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Nalobaka, mpe nazali kobanga ye te; mpo nazali boye te na ngai moko.",
+  "tokens": [
+    {
+      "surface": "אדברה",
+      "gloss": "nalobaka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "te"
+    },
+    {
+      "surface": "איראנו",
+      "gloss": "kobanga ye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "כן",
+      "gloss": "boye"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "na ngai moko"
+    }
+  ],
+  "timestamp": "2026-09-03T21:53:39.842258810Z",
+  "model": "glm-5.3"
+}

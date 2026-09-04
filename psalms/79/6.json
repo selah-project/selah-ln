@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 79:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 79,
+  "translation": "Bwaka mungwa nayo epai ya bikolo oyo bayebaki yo te, mpe epai ya bibokonzi oyo na nkombo nayo babengaki te.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "Bwaka"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "mungwa nayo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bikolo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ידעוך",
+      "gloss": "bayebaki yo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "mpe epai ya"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "bibokonzi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "na nkombo nayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "babengaki"
+    }
+  ],
+  "timestamp": "2026-09-03T21:21:30.490923811Z",
+  "model": "glm-5.3"
+}

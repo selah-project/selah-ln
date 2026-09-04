@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 26:3",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "Mpe Moshe mpe Elazar kohen balobaki ⟨na bango⟩ na mapata ya Moab, pembeni ya Yarden, epai ya Yeriko, na koloba,",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "balobaki"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואלעזר",
+      "gloss": "mpe Elazar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mapata ya Moab"
+    },
+    {
+      "surface": "בערבת",
+      "gloss": "na mapata ya"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "על",
+      "gloss": "pembeni ya"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Yeriko"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na koloba"
+    }
+  ],
+  "timestamp": "2026-09-03T17:15:54.473049026Z",
+  "model": "glm-5.3"
+}

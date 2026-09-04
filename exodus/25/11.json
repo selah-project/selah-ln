@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 25:11",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Mpe okoki ⟨את⟩ yango na wolo ya malamu; na ndani mpe na libanda okoki yango; mpe osali likolo na yango zer ya wolo na zingazinga.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "Mpe okoki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yango"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "na wolo"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ya malamu"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "na ndani"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "mpe na libanda"
+    },
+    {
+      "surface": "תצפנו",
+      "gloss": "okoki yango"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "mpe osali"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "likolo na yango"
+    },
+    {
+      "surface": "זר",
+      "gloss": "zer"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ya wolo"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "na zingazinga"
+    }
+  ],
+  "timestamp": "2026-09-03T23:14:45.568963023Z",
+  "model": "glm-5.3"
+}

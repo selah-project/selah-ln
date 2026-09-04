@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 19:1",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Esalemaki na nsima ya yango, Nahash mokonzi ya bana ya Amon akufaki, mpe mwana na ye akomaki mokonzi na esika na ye.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "esalemaki"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "na nsima"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ya yango"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "akufaki"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Nahash"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ya bana"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "mpe akomaki mokonzi"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana na ye"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "na esika na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T22:48:30.027921070Z",
+  "model": "glm-5.3"
+}

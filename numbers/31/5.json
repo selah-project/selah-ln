@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 31:5",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 31,
+  "translation": "Mpe bapesamaki uta na nkote ya Israel nkote moko na mabota, zomi na mibale nkote, bapemi ya mampinga.",
+  "tokens": [
+    {
+      "surface": "וימסרו",
+      "gloss": "Mpe bapesamaki"
+    },
+    {
+      "surface": "מאלפי",
+      "gloss": "uta na nkote"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "nkote moko"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "na mabota"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "zomi na"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "nkote"
+    },
+    {
+      "surface": "חלוצי",
+      "gloss": "bapemi ya"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "mampinga"
+    }
+  ],
+  "timestamp": "2026-09-03T17:20:13.880159292Z",
+  "model": "glm-5.3"
+}

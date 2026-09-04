@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 98:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 98,
+  "translation": "Mizmor. Yimbelá na Yawe yembo ya sika, mpo asalaki makambo ya kokamwa; loboko na ye ya mobali mpe ngiya na ye ya santu esalaki lobiko na ye.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "yimbelá"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "na Yawe"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "yembo"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ya sika"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "makambo ya kokamwa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "asalaki"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "esalaki lobiko"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "loboko na ye ya mobali"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "mpe ngiya na ye"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ya santu"
+    }
+  ],
+  "timestamp": "2026-09-03T21:26:16.082810074Z",
+  "model": "glm-5.3"
+}

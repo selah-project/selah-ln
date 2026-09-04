@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 30:10",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 30,
+  "translation": "Mpe ndelo ya monzamba mpe ya oyo babundaki ye, nyonso oyo akangaki likolo ya molimo na ye ekotikala likolo ya ye.",
+  "tokens": [
+    {
+      "surface": "ונדר",
+      "gloss": "Mpe ndelo"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "ya monzamba"
+    },
+    {
+      "surface": "וגרושה",
+      "gloss": "mpe ya oyo babundaki ye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "akangaki"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "molimo na ye"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ekotikala"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "likolo ya ye"
+    }
+  ],
+  "timestamp": "2026-09-03T17:19:21.031158720Z",
+  "model": "glm-5.3"
+}

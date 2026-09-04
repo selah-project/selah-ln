@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 22:18",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Nakokoma misapo na ngai nyonso; bango batalaka mpe bamonaka ngai.",
+  "tokens": [
+    {
+      "surface": "אספר",
+      "gloss": "Nakokoma"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "misapo na ngai"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bango"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "batalaka"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "bamonaka"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:04:37.952589079Z",
+  "model": "glm-5.3"
+}

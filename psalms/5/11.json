@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 5:11",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Tunga bango mabe, Elohim; bakweya na makanisi na bango; longola bango na bonene ya makoki na bango; mpo balwanaki na yo.",
+  "tokens": [
+    {
+      "surface": "האשימם",
+      "gloss": "Tunga bango mabe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "bakweya"
+    },
+    {
+      "surface": "ממעצותיהם",
+      "gloss": "na makanisi na bango"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "na bonene ya"
+    },
+    {
+      "surface": "פשעיהם",
+      "gloss": "makoki na bango"
+    },
+    {
+      "surface": "הדיחמו",
+      "gloss": "longola bango"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "balwanaki"
+    },
+    {
+      "surface": "בך",
+      "gloss": "na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T20:59:33.105022358Z",
+  "model": "glm-5.3"
+}

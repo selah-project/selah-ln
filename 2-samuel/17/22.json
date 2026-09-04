@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 17:22",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 17,
+  "translation": "Mpe David atyamaki, mpe bato nyonso oyo ⟨את⟩ elongo na ye, mpe bakati ⟨את⟩ Yarden, kino bopanzi ya tongo; kino moko te ebungaki oyo te akati ⟨את⟩ Yarden.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "atyamaki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe bato nyonso"
+    },
+    {
+      "surface": "העם",
+      "gloss": "oyo bato"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ elongo na ye"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "mpe bakati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "אור",
+      "gloss": "bopanzi"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ya tongo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "moko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "נעדר",
+      "gloss": "ebungaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "akati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    }
+  ],
+  "timestamp": "2026-09-03T18:36:42.748359420Z",
+  "model": "glm-5.3"
+}

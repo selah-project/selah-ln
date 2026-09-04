@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 25:1",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Yawe, Elohim na ngai, yo nde ozali; nakotombola yo, nakotonda nkombo na yo, mpo osali eloko ya kokamwa, makanisi uta mosika, na bokoki ya solo, Omene.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim na ngai"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "nakotombola yo"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "nakotonda"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nkombo na yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "osali"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "eloko ya kokamwa"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "makanisi"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "uta mosika"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "bokoki ya solo"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Omene"
+    }
+  ],
+  "timestamp": "2026-09-03T19:22:53.791875190Z",
+  "model": "glm-5.3"
+}

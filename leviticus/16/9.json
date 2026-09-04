@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 16:9",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Mpe Aharon akomema ⟨את⟩ mbuji ya mongongo oyo gora ekweyaki likolo na yango, ya Yawe, mpe akosala yango sacrifice ya masumu.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "Mpe akomema"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbuji ya mongongo"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "mbuji ya mongongo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ekweyaki"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "likolo na yango"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "gora"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ya Yawe"
+    },
+    {
+      "surface": "ועשהו",
+      "gloss": "mpe akosala yango"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "sacrifice ya masumu"
+    }
+  ],
+  "timestamp": "2026-09-03T16:49:59.895482049Z",
+  "model": "glm-5.3"
+}

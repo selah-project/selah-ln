@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 53:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 53,
+  "translation": "Mpo na mokambi ya miziki, likolo ya Mahalat, mopesi mateya, ya David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Mpo na mokambi ya miziki"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "Mahalat"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "mopesi mateya"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya David"
+    }
+  ],
+  "timestamp": "2026-09-03T21:13:53.375786324Z",
+  "model": "glm-5.3"
+}

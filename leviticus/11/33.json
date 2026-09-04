@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 11:33",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpe kayei nyonso ya mabele oyo ekweyi wuta na bango kati na yango — eloko nyonso oyo ezali kati na yango ekozala sepo, mpe bokobuka ⟨את⟩ yango.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "mpe … nyonso"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kayei"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ya mabele (poterie)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ekweyi"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "wuta na bango"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kati"
+    },
+    {
+      "surface": "תוכו",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "כל",
+      "gloss": "eloko nyonso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "בתוכו",
+      "gloss": "ezali kati na yango"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ekozala sepo"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "yango (kayei ya mabele)"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "bokobuka"
+    }
+  ],
+  "timestamp": "2026-09-03T16:43:37.435758904Z",
+  "model": "glm-5.3"
+}

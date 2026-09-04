@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 14:12",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Yehuda ekangamaki liboso ya Yisrael, mpe bakimi moto na moto na kambi na ye.",
+  "tokens": [
+    {
+      "surface": "וינגף",
+      "gloss": "ekangamaki"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "mpe bakimi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto na moto"
+    },
+    {
+      "surface": "לאהלו",
+      "gloss": "na kambi na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T19:04:40.289715738Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 30:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 30,
+  "translation": "Mpe ngai nalobaki na kimwema na ngai: nakokangama te, libela.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Mpe ngai"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nalobaki"
+    },
+    {
+      "surface": "בשלוי",
+      "gloss": "na kimwema na ngai"
+    },
+    {
+      "surface": "בל",
+      "gloss": "te"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "nakokangama"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "libela"
+    }
+  ],
+  "timestamp": "2026-09-03T21:06:52.830783240Z",
+  "model": "glm-5.3"
+}

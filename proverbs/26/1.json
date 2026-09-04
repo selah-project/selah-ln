@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 26:1",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "Lokola suki na ntango ya molango, mpe lokola mbela na ntango ya kokanga, boye nkembo ezali malamu te mpo na mofoolo.",
+  "tokens": [
+    {
+      "surface": "כשלג",
+      "gloss": "lokola suki"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "na ntango ya molango"
+    },
+    {
+      "surface": "וכמטר",
+      "gloss": "mpe lokola mbela"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "na ntango ya kokanga"
+    },
+    {
+      "surface": "כן",
+      "gloss": "boye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "ezali malamu"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "mpo na mofoolo"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "nkembo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:47:42.545868255Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 22:24",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Soki bolendisi mbongo ⟨את⟩ bato na ngai ⟨את⟩ oyo asengeli oyo azali elongo na bino, bokozala te na ye ndenge ya mopesa-ndai; bokotia te likolo na ye ndai.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "soki"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "mbongo"
+    },
+    {
+      "surface": "תלוה",
+      "gloss": "bolendisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bato na ngai"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "bato na ngai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oyo asengeli"
+    },
+    {
+      "surface": "העני",
+      "gloss": "oyo asengeli"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "elongo na bino"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "bokozala"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "כנשה",
+      "gloss": "ndenge ya mopesa-ndai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תשימון",
+      "gloss": "bokotia"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "likolo na ye"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "ndai"
+    }
+  ],
+  "timestamp": "2026-09-03T16:25:11.279895183Z",
+  "model": "glm-5.3"
+}

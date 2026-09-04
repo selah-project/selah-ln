@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 129,
+  "translation": "Yawe azali sembo; akatakaki bibenda ya babebi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "sembo"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "akatakaki"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "bibenda"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ya babebi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:33:10.475141910Z",
+  "model": "glm-5.3"
+}

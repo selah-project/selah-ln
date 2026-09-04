@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 1:17",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "mpe akobata ⟨את⟩ yango na mapapu na yango, akabola yango te; mpe kohen akotumba ⟨את⟩ yango na mizesbeah, likolo ya nzete oyo ezali likolo ya moto; yango ⟨ezali⟩ mbeka ya kokaka, mbeka ya moto, likaniso ya malamu epai ya Yawe.",
+  "tokens": [
+    {
+      "surface": "ושסע",
+      "gloss": "mpe akobata"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yango",
+      "marks": "yango (na mapapu na yango)"
+    },
+    {
+      "surface": "בכנפיו",
+      "gloss": "na mapapu na yango"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "akabola"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "mpe akotumba"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yango",
+      "marks": "yango"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "na mizesbeah"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "nzete"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ezali likolo ya"
+    },
+    {
+      "surface": "האש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "mbeka ya kokaka"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yango"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mbeka ya moto"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "likaniso"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "ya malamu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "epai ya Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T16:38:11.592577055Z",
+  "model": "glm-5.3"
+}

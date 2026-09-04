@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 54:13",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 54,
+  "translation": "Mpe bana na yo nyonso balakolami na Yawe, mpe kimia mingi ya bana na yo.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "mpe nyonso"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "bana na yo"
+    },
+    {
+      "surface": "למודי",
+      "gloss": "balakolami"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "mpe mingi"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kimia"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "bana na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T19:34:39.344030080Z",
+  "model": "glm-5.3"
+}

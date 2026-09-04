@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 3:24",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe bakotaki na kaa ya Israel, mpe Israel batelemaki mpe babubaki ⟨את⟩ Moab, mpe bakimaki liboso na bango; mpe bakotaki ⟨na mokili ya Moab⟩ na yango, mpe kobuba ⟨את⟩ Moab.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "mpe bakotaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "kaa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "mpe batelemaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "mpe babubaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "mpe bakimaki"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "liboso na bango"
+    },
+    {
+      "surface": "ויבו",
+      "gloss": "mpe bakotaki"
+    },
+    {
+      "surface": "בה",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "והכות",
+      "gloss": "kobuba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    }
+  ],
+  "timestamp": "2026-09-03T18:59:35.078942421Z",
+  "model": "glm-5.3"
+}

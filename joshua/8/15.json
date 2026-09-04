@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 8:15",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe Yehoshua mpe Israel nyonso bamonomisaki bazangi liboso na bango, mpe bakimaki na nzela ya bofungwa.",
+  "tokens": [
+    {
+      "surface": "וינגעו",
+      "gloss": "bamonomisaki bazangi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe nyonso"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "liboso na bango"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "bakimaki"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "nzela"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "bofungwa"
+    }
+  ],
+  "timestamp": "2026-09-03T17:46:01.573081448Z",
+  "model": "glm-5.3"
+}

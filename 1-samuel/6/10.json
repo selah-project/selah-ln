@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 6:10",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpe bato basalaki bongo; mpe bazwaki mbongo mibale ya komela, mpe bakangaki yango na shari, mpe ⟨את⟩ bana na bango bakangaki na ndako.",
+  "tokens": [
+    {
+      "surface": "וַיַּעֲשׂוּ",
+      "gloss": "mpe basalaki"
+    },
+    {
+      "surface": "הָאֲנָשִׁים",
+      "gloss": "bato"
+    },
+    {
+      "surface": "כֵּן",
+      "gloss": "bongo"
+    },
+    {
+      "surface": "וַיִּקְחוּ",
+      "gloss": "mpe bazwaki"
+    },
+    {
+      "surface": "שְׁתֵּי",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "פָּרוֹת",
+      "gloss": "mbongo"
+    },
+    {
+      "surface": "עֹלוֹת",
+      "gloss": "ya komela"
+    },
+    {
+      "surface": "וַיַּאַסְרוּם",
+      "gloss": "mpe bakangaki yango"
+    },
+    {
+      "surface": "בָּעֲגָלָה",
+      "gloss": "na shari"
+    },
+    {
+      "surface": "וְאֶת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bana na bango"
+    },
+    {
+      "surface": "בְּנֵיהֶם",
+      "gloss": "bana na bango"
+    },
+    {
+      "surface": "כָּלוּ",
+      "gloss": "bakangaki"
+    },
+    {
+      "surface": "בַּבַּיִת",
+      "gloss": "na ndako"
+    }
+  ],
+  "timestamp": "2026-09-03T18:11:48.086235454Z",
+  "model": "glm-5.3"
+}

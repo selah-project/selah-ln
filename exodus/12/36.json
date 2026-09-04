@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 12:36",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Mpe Yawe apesaki ⟨את⟩ boboto ya bato miso ya ba-Mitsraim, mpe bapesaki bango oyo balukaki; mpe bafulaki ⟨את⟩ Mitsraim.",
+  "tokens": [
+    {
+      "surface": "וַיהוָה",
+      "gloss": "Mpe Yawe"
+    },
+    {
+      "surface": "נָתַן",
+      "gloss": "apesaki"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "boboto"
+    },
+    {
+      "surface": "חֵן",
+      "gloss": "boboto"
+    },
+    {
+      "surface": "הָעָם",
+      "gloss": "ya bato"
+    },
+    {
+      "surface": "בְּעֵינֵי",
+      "gloss": "miso ya"
+    },
+    {
+      "surface": "מִצְרַיִם",
+      "gloss": "ba-Mitsraim"
+    },
+    {
+      "surface": "וַיַּשְׁאִלוּם",
+      "gloss": "mpe bapesaki bango oyo balukaki"
+    },
+    {
+      "surface": "וַיְנַצְּלוּ",
+      "gloss": "mpe bafulaki"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsraim"
+    },
+    {
+      "surface": "מִצְרָיִם",
+      "gloss": "Mitsraim"
+    }
+  ],
+  "timestamp": "2026-09-03T16:20:34.349415003Z",
+  "model": "glm-5.3"
+}

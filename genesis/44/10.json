@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 44:10",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 44,
+  "translation": "Alobaki: sikoyo mpe, ndenge maloba na bino bazali, bongo ezali; oyo ekokutama na ⟨את⟩ yango akokoma mowumbu epai ya ngai, mpe bino bokokama bopamba.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "sikoyo"
+    },
+    {
+      "surface": "כדבריכם",
+      "gloss": "ndenge maloba na bino"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bongo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ezali"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ekokutama"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yango",
+      "marks": "mowumbu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "akokoma"
+    },
+    {
+      "surface": "לי",
+      "gloss": "epai ya ngai"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "mowumbu"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "mpe bino"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "bokokama"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "bopamba"
+    }
+  ],
+  "timestamp": "2026-09-03T16:08:17.793851473Z",
+  "model": "glm-5.3"
+}

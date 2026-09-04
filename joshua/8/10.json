@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 8:10",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe Yehoshua atyamaki noki na tongo, mpe akotaki ⟨את⟩ bato, mpe akumataki, ye mpe bankulu ya Israel, liboso ya bato, na Ayi.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "atyamaki noki"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "na tongo"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "mpe akotaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bato"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "mpe akumataki"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ye"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "mpe bankulu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Ayi"
+    }
+  ],
+  "timestamp": "2026-09-03T17:45:48.301871666Z",
+  "model": "glm-5.3"
+}

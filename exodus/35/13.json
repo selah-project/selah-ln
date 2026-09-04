@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 35:13",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 35,
+  "translation": "⟨את⟩ mesa mpe ⟨את⟩ bibete na yango mpe ⟨את⟩ biloko na yango nyonso mpe ⟨את⟩ mkate ya bondeko.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mesa"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "mesa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bibete na yango"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "bibete na yango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "biloko na yango nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "biloko na yango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mkate"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mkate"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "ya bondeko"
+    }
+  ],
+  "timestamp": "2026-09-03T16:33:55.591657608Z",
+  "model": "glm-5.3"
+}

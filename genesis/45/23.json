@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 45:23",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 45,
+  "translation": "Mpe epai ya tata na ye atindaki ndenge wana: baburuki ya mibali zomi ya komema biloko ya malamu ya Mitsraim, mpe baburuki ya basi zomi ya komema mbuma, mpe mokele, mpe biloko ya kolia mpo na tata na ye mpo na nzela.",
+  "tokens": [
+    {
+      "surface": "ולאביו",
+      "gloss": "mpe epai ya tata na ye"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "atindaki"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "ndenge wana"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "zomi"
+    },
+    {
+      "surface": "חמרים",
+      "gloss": "baburuki ya mibali"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "ya komema"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "biloko ya malamu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Mitsraim"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "mpe zomi"
+    },
+    {
+      "surface": "אתנת",
+      "gloss": "baburuki ya basi"
+    },
+    {
+      "surface": "נשאת",
+      "gloss": "ya komema"
+    },
+    {
+      "surface": "בר",
+      "gloss": "mbuma"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "mpe mokele"
+    },
+    {
+      "surface": "ומזון",
+      "gloss": "mpe biloko ya kolia"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "mpo na tata na ye"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "mpo na nzela"
+    }
+  ],
+  "timestamp": "2026-09-03T16:10:17.261230342Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 89:24",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 89,
+  "translation": "Mpe nakobukaka banguna na ye liboso na ye, mpe baye balingi ye te nakobomaka bango.",
+  "tokens": [
+    {
+      "surface": "וכתותי",
+      "gloss": "Mpe nakobukaka"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "liboso na ye"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "banguna na ye"
+    },
+    {
+      "surface": "ומשנאיו",
+      "gloss": "mpe baye balingi ye te"
+    },
+    {
+      "surface": "אגוף",
+      "gloss": "nakobomaka bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:23:23.025923378Z",
+  "model": "glm-5.3"
+}

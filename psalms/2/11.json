@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 2:11",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Bosalela ⟨את⟩ Yawe na bobangi, mpe kosekanela na kokona.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "bosalela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ביראה",
+      "gloss": "na bobangi"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "mpe kosekanela"
+    },
+    {
+      "surface": "ברעדה",
+      "gloss": "na kokona"
+    }
+  ],
+  "timestamp": "2026-09-03T20:59:47.375738149Z",
+  "model": "glm-5.3"
+}

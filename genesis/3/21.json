@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 3:21",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe Yawe Elohim asalaki mpo na Adamu mpe mpo na mwasi na ye bambangi ya likasu, mpe abekisaki bango.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "asalaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "mpo na Adamu"
+    },
+    {
+      "surface": "ולאשתו",
+      "gloss": "mpe mpo na mwasi na ye"
+    },
+    {
+      "surface": "כתנות",
+      "gloss": "bambangi"
+    },
+    {
+      "surface": "עור",
+      "gloss": "ya likasu"
+    },
+    {
+      "surface": "וילבשם",
+      "gloss": "mpe abekisaki bango"
+    }
+  ],
+  "timestamp": "2026-09-03T15:46:04.046220964Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 16:10",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Mpe Zimri yakoki mpe abubaki ye mpe aweisi ye, na mbula ntuku mibale na sambo ya Asa mokonzi ya Yehuda; mpe akitaki bokonzi na esika na yango.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "yakoki"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "abubaki ye"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "aweisi ye"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "na mbula"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ntuku mibale"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "mpe sambo"
+    },
+    {
+      "surface": "לאסא",
+      "gloss": "ya Asa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ya Yehuda"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "akotaki bokonzi"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "na esika na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T23:24:17.749564396Z",
+  "model": "glm-5.3"
+}

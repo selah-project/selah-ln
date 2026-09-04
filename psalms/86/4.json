@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 86:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 86,
+  "translation": "Tya esengo na bomoi ya mokombo na yo, mpo na yo, Adonai, natomboli bomoi na ngai.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "Tya esengo"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "bomoi"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ya mokombo na yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "na yo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "bomoi na ngai"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "natomboli"
+    }
+  ],
+  "timestamp": "2026-09-03T21:23:14.756856038Z",
+  "model": "glm-5.3"
+}

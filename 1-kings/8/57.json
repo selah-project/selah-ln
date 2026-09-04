@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "1-kings 8:57",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Yawe Elohim na biso azala na biso, lokola azalaki na basse na biso; akanga biso ⟨te⟩ mpe atika biso ⟨te⟩.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "azala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim na biso"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "na biso"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "lokola"
+    },
+    {
+      "surface": "היה",
+      "gloss": "azalaki"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "basse na biso"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨te⟩"
+    },
+    {
+      "surface": "יעזבנו",
+      "gloss": "akanga biso"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mpe ⟨te⟩"
+    },
+    {
+      "surface": "יטשנו",
+      "gloss": "atika biso"
+    }
+  ],
+  "timestamp": "2026-09-03T18:47:53.567243304Z",
+  "model": "glm-5.3"
+}

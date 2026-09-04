@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 20:5",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 20,
+  "translation": "Amasa akendaki kokunga ⟨את⟩ Yehuda, mpe asilaki na ntango oyo batyaki ye.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "akendaki"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "להזעיק",
+      "gloss": "kokunga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וייחר",
+      "gloss": "asilaki"
+    },
+    {
+      "surface": "מן",
+      "gloss": "na"
+    },
+    {
+      "surface": "המועד",
+      "gloss": "ntango"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "יעדו",
+      "gloss": "batyaki ye"
+    }
+  ],
+  "timestamp": "2026-09-03T18:39:43.384250892Z",
+  "model": "glm-5.3"
+}

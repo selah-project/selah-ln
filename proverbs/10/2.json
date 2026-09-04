@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 10:2",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Bisandiki ya bosumu ebongisaka ⟨ntina⟩ te, kasi boloki ebikisaka na liwa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "ebongisaka"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "Bisandiki"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ya bosumu"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "kasi boloki"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "ebikisaka"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "na liwa"
+    }
+  ],
+  "timestamp": "2026-09-03T21:40:24.893988404Z",
+  "model": "glm-5.3"
+}

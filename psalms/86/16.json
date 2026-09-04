@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 86:16",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 86,
+  "translation": "Talisa ngai, mpe segola ngai; pesa nguya na yo na mosengeli na yo, mpe bomboka mwana ya mosengeli mwasi na yo.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "Talisa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "mpe segola ngai"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "pesa"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "nguya na yo"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "na mosengeli na yo"
+    },
+    {
+      "surface": "והושיעה",
+      "gloss": "mpe bomboka"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "ya mosengeli mwasi na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:22:09.417363077Z",
+  "model": "glm-5.3"
+}

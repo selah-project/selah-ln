@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 19:10",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Mpe bato basepelaki maboko na bango, mpe bakendwisi ⟨את⟩ Lot epai na bango na ndako, mpe ⟨את⟩ ekuke bakanisi.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "Mpe basepelaki"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "bato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maboko na bango"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "maboko na bango"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "mpe bakendwisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "epai na bango"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "na ndako"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "ekuke"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "ekuke"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "bakanisi"
+    }
+  ],
+  "timestamp": "2026-09-03T15:51:37.466218625Z",
+  "model": "glm-5.3"
+}

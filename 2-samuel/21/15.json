@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 21:15",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Mpe esalamaki lisusu etumba ya Bafilisiti ⟨את⟩ Israel; mpe David akitaki mpe basulumi na ye elongo na ye, mpe babundaki ⟨את⟩ Bafilisiti, mpe David atungisamaki.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "mpe esalamaki"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lisusu"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "etumba"
+    },
+    {
+      "surface": "לפלשתים",
+      "gloss": "ya Bafilisiti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "mpe akitaki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "mpe basulumi na ye"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "elongo na ye"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "mpe babundaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bafilisiti"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Bafilisiti"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "mpe atungisamaki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-09-03T18:38:39.407650466Z",
+  "model": "glm-5.3"
+}

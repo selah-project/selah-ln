@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 16:11",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Mpe Yawe alobaki na Moshe, alobi:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "alobi"
+    }
+  ],
+  "timestamp": "2026-09-03T16:21:53.645590278Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 33:6",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 33,
+  "translation": "Mpe bana ya Israel babombaki ⟨את⟩ bilamba na bango uta ngomba Horev.",
+  "tokens": [
+    {
+      "surface": "ויתנצלו",
+      "gloss": "mpe babombaki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bilamba na bango"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "bilamba na bango"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "uta ngomba"
+    },
+    {
+      "surface": "חורב",
+      "gloss": "Horev"
+    }
+  ],
+  "timestamp": "2026-09-03T16:33:36.294720690Z",
+  "model": "glm-5.3"
+}

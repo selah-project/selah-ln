@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 32:17",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 32,
+  "translation": "Bayikaki banyama epai ya bashedim, te epai ya Eloa; epai ya banzambe oyo bayebaki te — ya sika, oyo bawuti pene; batoi na bino baboyaki kobanga bango.",
+  "tokens": [
+    {
+      "surface": "יזבחו",
+      "gloss": "bayikaki banyama"
+    },
+    {
+      "surface": "לשדים",
+      "gloss": "epai ya bashedim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Eloa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "banzambe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "bayebaki bango"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "ya sika"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "utaka pene"
+    },
+    {
+      "surface": "באו",
+      "gloss": "bawuti"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "שערום",
+      "gloss": "baboyaki kobanga bango"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "batoi na bino"
+    }
+  ],
+  "timestamp": "2026-09-03T17:41:21.116377124Z",
+  "model": "glm-5.3"
+}

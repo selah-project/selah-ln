@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 16:1",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Mpe Sarai, mwasi ya Avram, abotaki te epai ye; mpe na ye ezalaki mosali mwasi wa Mitsraim, mpe kombo na ye Hagar.",
+  "tokens": [
+    {
+      "surface": "ושרי",
+      "gloss": "mpe Sarai"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mwasi ya"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "abotaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "epai ye"
+    },
+    {
+      "surface": "ולה",
+      "gloss": "mpe na ye"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "mosali mwasi"
+    },
+    {
+      "surface": "מצרית",
+      "gloss": "wa Mitsraim"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "mpe kombo na ye"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    }
+  ],
+  "timestamp": "2026-09-03T15:51:50.855830295Z",
+  "model": "glm-5.3"
+}

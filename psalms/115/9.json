@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 115:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 115,
+  "translation": "Israel, opesa motema na Yawe — bosungi na bango mpe mbengi na bango, yeye.",
+  "tokens": [
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "opesa motema"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "na Yawe"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "bosungi na bango"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "mpe mbengi na bango"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yeye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:30:00.999313976Z",
+  "model": "glm-5.3"
+}

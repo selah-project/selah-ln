@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 15:11",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 15,
+  "translation": "Ndenge wana esalemi mpo na ngombe moko, to mpo na belier moko, to mpo na niama, kati ya bamouton to kati ya bantaba.",
+  "tokens": [
+    {
+      "surface": "ככה",
+      "gloss": "Ndenge wana"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "esalemi"
+    },
+    {
+      "surface": "לשור",
+      "gloss": "mpo na ngombe"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "moko"
+    },
+    {
+      "surface": "או",
+      "gloss": "to"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "mpo na belier"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "moko"
+    },
+    {
+      "surface": "או",
+      "gloss": "to"
+    },
+    {
+      "surface": "לשה",
+      "gloss": "mpo na niama"
+    },
+    {
+      "surface": "בכבשים",
+      "gloss": "kati ya bamouton"
+    },
+    {
+      "surface": "או",
+      "gloss": "to"
+    },
+    {
+      "surface": "בעזים",
+      "gloss": "kati ya bantaba"
+    }
+  ],
+  "timestamp": "2026-09-03T17:09:32.083379231Z",
+  "model": "glm-5.3"
+}

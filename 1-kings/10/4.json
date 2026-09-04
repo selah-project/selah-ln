@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 10:4",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Mpe mokonzi mwasi ya Sheba amonaki ⟨את⟩ bwanya ya Shelomo nyonso, mpe ndako oyo atongaki.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "Mpe amonaki"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "mokonzi mwasi"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "ya Sheba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bwanya nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "bwanya"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ya Shelomo"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "mpe ndako"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "atongaki"
+    }
+  ],
+  "timestamp": "2026-09-03T18:48:32.178433799Z",
+  "model": "glm-5.3"
+}

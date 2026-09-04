@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 26:15",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "Bana ya Gad, na mabota na bango: ya Tsefon, libota ya baya Tsefon; ya Hagi, libota ya baya Hagi; ya Shuni, libota ya baya Shuni.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Bana"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ya Gad"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "na mabota na bango"
+    },
+    {
+      "surface": "לצפון",
+      "gloss": "ya Tsefon"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "libota"
+    },
+    {
+      "surface": "הצפוני",
+      "gloss": "baya Tsefon"
+    },
+    {
+      "surface": "לחגי",
+      "gloss": "ya Hagi"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "libota"
+    },
+    {
+      "surface": "החגי",
+      "gloss": "baya Hagi"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "ya Shuni"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "libota"
+    },
+    {
+      "surface": "השוני",
+      "gloss": "baya Shuni"
+    }
+  ],
+  "timestamp": "2026-09-03T17:15:20.379898980Z",
+  "model": "glm-5.3"
+}

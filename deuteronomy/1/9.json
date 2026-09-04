@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Nalobaki na bino na ntango yango na koloba: nakoki kotombola bino na ngai moko te.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Nalobaki"
+    },
+    {
+      "surface": "אלככם",
+      "gloss": "na bino"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "na ntango"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yango"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na koloba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "nakoki"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "na ngai moko"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "kotombola"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ bino"
+    }
+  ],
+  "timestamp": "2026-09-03T17:22:32.556564779Z",
+  "model": "glm-5.3"
+}

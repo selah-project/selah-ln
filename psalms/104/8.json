@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 104:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 104,
+  "translation": "Bangomba ematuki, bibale ekweyaki, kino na esika oyo oteyaki mpo na bango.",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "ematuki"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "bangomba"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "ekweyaki"
+    },
+    {
+      "surface": "בקעות",
+      "gloss": "bibale"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kino na"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "esika"
+    },
+    {
+      "surface": "זה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "oteyaki"
+    },
+    {
+      "surface": "להם",
+      "gloss": "mpo na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:26:34.764428602Z",
+  "model": "glm-5.3"
+}

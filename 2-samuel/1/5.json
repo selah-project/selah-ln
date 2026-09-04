@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 1:5",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe David alobaki na mosankwé oyo ayebisaki yango: Ndenge nini oyebi ete Shaul mpe Yehonatana mwana na ye bakufaki?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe David alobaki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mosankwé"
+    },
+    {
+      "surface": "המגיד",
+      "gloss": "oyo ayebisaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yango"
+    },
+    {
+      "surface": "איך",
+      "gloss": "Ndenge nini"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "oyebi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "מת",
+      "gloss": "bakufaki"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "mpe Yehonatana"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T18:25:44.795729584Z",
+  "model": "glm-5.3"
+}

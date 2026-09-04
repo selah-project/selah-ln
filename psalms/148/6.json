@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 148:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 148,
+  "translation": "Mpe atyeaki bango libela, lopito; apesaki mobeko, mpe ekopasa te.",
+  "tokens": [
+    {
+      "surface": "ויעמידם",
+      "gloss": "mpe atyeaki bango"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "libela"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "lopito"
+    },
+    {
+      "surface": "חק",
+      "gloss": "mobeko"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "apesaki"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "ekopasa"
+    }
+  ],
+  "timestamp": "2026-09-03T21:36:56.713985900Z",
+  "model": "glm-5.3"
+}

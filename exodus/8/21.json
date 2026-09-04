@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 8:21",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Parao abengaki ⟨epai⟩ ya Moshe na Aharon, mpe alobaki: Boke, bobeki epai ya Elohim na bino na mabele.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "abengaki"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨epai⟩"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "na Aharon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "boke"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "bobeki"
+    },
+    {
+      "surface": "לאלהיכם",
+      "gloss": "epai ya Elohim na bino"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T16:17:15.441490737Z",
+  "model": "glm-5.3"
+}

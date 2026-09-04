@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 9:3",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Atindaki basilali na yango bayengele likolo ya bisika ya likolo ya mboka.",
+  "tokens": [
+    {
+      "surface": "שלחה",
+      "gloss": "atindaki"
+    },
+    {
+      "surface": "נערתיה",
+      "gloss": "basilali na yango"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "bayengele"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "גפי",
+      "gloss": "bisika"
+    },
+    {
+      "surface": "מרמי",
+      "gloss": "ya likolo"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "ya mboka"
+    }
+  ],
+  "timestamp": "2026-09-03T21:40:28.241503830Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 1:11",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Batyaki na likolo na bango bakonzi ya mpakasa, mpo bakangamisa bango na mikumba na bango; mpe bongisaki bamboka ya biloko mpo na Parao: ⟨את⟩ Pitom mpe ⟨את⟩ Raamses.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "batyaki"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na likolo na bango"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "bakonzi"
+    },
+    {
+      "surface": "מסים",
+      "gloss": "ya mpakasa"
+    },
+    {
+      "surface": "למען",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "ענתו",
+      "gloss": "bakangamisa bango"
+    },
+    {
+      "surface": "בסבלתם",
+      "gloss": "na mikumba na bango"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "mpe bongisaki"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "bamboka"
+    },
+    {
+      "surface": "מסכנות",
+      "gloss": "ya biloko"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "mpo na Parao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pitom"
+    },
+    {
+      "surface": "פתם",
+      "gloss": "Pitom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Raamses"
+    },
+    {
+      "surface": "רעמסס",
+      "gloss": "Raamses"
+    }
+  ],
+  "timestamp": "2026-09-03T16:12:29.478425844Z",
+  "model": "glm-5.3"
+}

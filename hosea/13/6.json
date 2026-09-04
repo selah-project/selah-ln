@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 13:6",
+  "book": "hosea",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Na tango basalaki bango malamu, bakitaki na boboto; bakokaki, mpe motema na bango emataki likolo; mpo na yango babosanaki ngai.",
+  "tokens": [
+    {
+      "surface": "כמרעיתם",
+      "gloss": "na tango basalaki bango malamu"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "bakitaki na boboto"
+    },
+    {
+      "surface": "שבעו",
+      "gloss": "bakokaki"
+    },
+    {
+      "surface": "וירם",
+      "gloss": "mpe emataki likolo"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "motema na bango"
+    },
+    {
+      "surface": "על",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "שכחוני",
+      "gloss": "babosanaki ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T20:40:07.351001848Z",
+  "model": "glm-5.3"
+}

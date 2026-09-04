@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 13:9",
+  "book": "hosea",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Israel, osilaki yo ⟨moko⟩; kasi lisalisi na yo ezali na ngai.",
+  "tokens": [
+    {
+      "surface": "שחתך",
+      "gloss": "osilaki yo ⟨moko⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kasi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "בעזרך",
+      "gloss": "na lisalisi na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T20:39:42.549578031Z",
+  "model": "glm-5.3"
+}

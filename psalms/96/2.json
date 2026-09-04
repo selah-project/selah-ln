@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 96:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 96,
+  "translation": "Boyimba na Yawe, bopesa nkembo nkombo na ye; bandela nsango elamu ya libungi na ye, mokolo na mokolo.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Boyimba"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "na Yawe"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "bopesa nkembo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nkombo na ye"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "bandela nsango elamu"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "mokolo"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "na mokolo"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "libungi na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:24:31.576075775Z",
+  "model": "glm-5.3"
+}

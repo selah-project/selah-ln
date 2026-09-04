@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 112:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 112,
+  "translation": "Moweu amona yango mpe mungwi; penge na ye akosaka, mpe akundolamaka; bolingi ya baweu ekobungaka.",
+  "tokens": [
+    {
+      "surface": "רָשָׁע",
+      "gloss": "Moweu"
+    },
+    {
+      "surface": "יִרְאֶה",
+      "gloss": "amona yango"
+    },
+    {
+      "surface": "וְכָעַס",
+      "gloss": "mpe mungwi"
+    },
+    {
+      "surface": "שִׁנָּיו",
+      "gloss": "penge na ye"
+    },
+    {
+      "surface": "יַחֲרֹק",
+      "gloss": "akosaka"
+    },
+    {
+      "surface": "וְנָמַס",
+      "gloss": "mpe akundolamaka"
+    },
+    {
+      "surface": "תַּאֲוַת",
+      "gloss": "bolingi"
+    },
+    {
+      "surface": "רְשָׁעִים",
+      "gloss": "ya baweu"
+    },
+    {
+      "surface": "תֹּאבֵד",
+      "gloss": "ekobungaka"
+    }
+  ],
+  "timestamp": "2026-09-03T21:28:41.815786289Z",
+  "model": "glm-5.3"
+}

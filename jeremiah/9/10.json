@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 9:10",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Mpe nakoza ⟨את⟩ Yerushalaim bifundu, esika ya kofanda ya banyama ya zamba, mpe ⟨את⟩ mboka ya Yehuda nakopesa yango bomelani, na bozangi moto ya kofanda.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "mpe nakoza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalaim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "לגלים",
+      "gloss": "bifundu"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "esika ya kofanda"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "ya banyama ya zamba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mboka ya Yehuda"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "mboka"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ya Yehuda"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "nakopesa"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "bomelani"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "na bozangi"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "moto ya kofanda"
+    }
+  ],
+  "timestamp": "2026-09-03T19:45:59.369820039Z",
+  "model": "glm-5.3"
+}

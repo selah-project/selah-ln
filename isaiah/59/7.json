@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 59:7",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 59,
+  "translation": "Makau na bango na mabe mbangaka, mpe bafulukaka panza makila ya bato ya malamu; makanisi na bango makanisi ya mabe, boseni mpe bobukani ezali na banzela na bango.",
+  "tokens": [
+    {
+      "surface": "רגליהם",
+      "gloss": "makau na bango"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "na mabe"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "mbangaka"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "mpe bafulukaka"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "panza"
+    },
+    {
+      "surface": "דם",
+      "gloss": "makila"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "ya bato ya malamu"
+    },
+    {
+      "surface": "מחשבותיהם",
+      "gloss": "makanisi na bango"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "makanisi"
+    },
+    {
+      "surface": "און",
+      "gloss": "ya mabe"
+    },
+    {
+      "surface": "שד",
+      "gloss": "boseni"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "mpe bobukani"
+    },
+    {
+      "surface": "במסלותם",
+      "gloss": "na banzela na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T19:39:05.882037229Z",
+  "model": "glm-5.3"
+}

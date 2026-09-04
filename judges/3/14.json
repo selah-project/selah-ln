@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 3:14",
+  "book": "judges",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe bana ya Israel basalaki ⟨את⟩ Eglon mokonzi ya Moab mbula zomi na mwambe.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "mpe basalaki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eglon"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "Eglon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ya Moab"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "mwambe"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "na zomi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mbula"
+    }
+  ],
+  "timestamp": "2026-09-03T17:58:55.390083747Z",
+  "model": "glm-5.3"
+}

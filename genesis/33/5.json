@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 33:5",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 33,
+  "translation": "Mpe amataki ⟨את⟩ meso na ye mpe amonaki ⟨את⟩ basi mpe ⟨את⟩ bana, mpe alobaki: Bato nani oyo na yo? Mpe alobaki: Bana oyo Elohim apesaki ngolu ⟨את⟩ moyombali na yo.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "mpe amataki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meso na ye"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "meso na ye"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "mpe amonaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "basi"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "basi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bana"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nani"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "na yo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "bana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "apesaki ngolu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moyombali na yo"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "moyombali na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T16:01:31.105148800Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 2:2",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Ngai nazali kokende na nzela ya mabele nyonso; kanga motema mpe ozala moto.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "nazali kokende"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "na nzela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "וחזקת",
+      "gloss": "kanga motema"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "mpe ozala"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "moto"
+    }
+  ],
+  "timestamp": "2026-09-03T18:44:35.897465250Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 37:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 37,
+  "translation": "Mpe akobimisa bosembo na yo lokola kungo, mpe ekakoli na yo lokola katikati ya mokolo.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "Mpe akobimisa"
+    },
+    {
+      "surface": "כאור",
+      "gloss": "lokola kungo"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "bosembo na yo"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "mpe ekakoli na yo"
+    },
+    {
+      "surface": "כצהרים",
+      "gloss": "lokola katikati ya mokolo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:09:08.005735910Z",
+  "model": "glm-5.3"
+}

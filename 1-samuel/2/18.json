@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 2:18",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe Shemuel azalaki kosalela liboso ya Yawe, mwana moke, azali kobekami na efod ya lineni.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "kosalela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨na⟩",
+      "marks": "liboso ya Yawe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "liboso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "נער",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "חגור",
+      "gloss": "kobekama"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "efod"
+    },
+    {
+      "surface": "בד",
+      "gloss": "lineni"
+    }
+  ],
+  "timestamp": "2026-09-03T18:09:56.293588307Z",
+  "model": "glm-5.3"
+}

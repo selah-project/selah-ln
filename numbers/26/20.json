@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 26:20",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "Mpe bana ya Yehudah na mabota na bango ⟨bazalaki⟩ ⟨oyo⟩: ya Shelah, libota ya Shelani; ya Perets, libota ya Peretsi; ya Zerah, libota ya Zarhi.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Mpe bazalaki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ya Yehudah"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "na mabota na bango"
+    },
+    {
+      "surface": "לשלה",
+      "gloss": "ya Shelah"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "libota"
+    },
+    {
+      "surface": "השלני",
+      "gloss": "ya Shelani"
+    },
+    {
+      "surface": "לפרץ",
+      "gloss": "ya Perets"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "libota"
+    },
+    {
+      "surface": "הפרצי",
+      "gloss": "ya Peretsi"
+    },
+    {
+      "surface": "לזרח",
+      "gloss": "ya Zerah"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "libota"
+    },
+    {
+      "surface": "הזרחי",
+      "gloss": "ya Zarhi"
+    }
+  ],
+  "timestamp": "2026-09-03T17:15:09.596282321Z",
+  "model": "glm-5.3"
+}

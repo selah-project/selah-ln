@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mpo moto sembo azali te na mabele, oyo asalaka malamu mpe akosaka te.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moto"
+    },
+    {
+      "surface": "אין",
+      "gloss": "azali te"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "sembo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "asalaka"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "malamu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "akosaka"
+    }
+  ],
+  "timestamp": "2026-09-03T22:15:14.420257138Z",
+  "model": "glm-5.3"
+}

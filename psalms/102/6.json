@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 102:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 102,
+  "translation": "Na mongongo ya mabanzui na ngai, mokupa na ngai ekangamaki na nyama na ngai.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "na mongongo ya"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "mabanzui na ngai"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "ekangamaki"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "mokupa na ngai"
+    },
+    {
+      "surface": "לבשרי",
+      "gloss": "na nyama na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:25:53.169776081Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 73:17",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 73,
+  "translation": "Tii nakokota na tempele ya El, nabaki koseka nsuka na bango.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Tii"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "nakokota"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "tempele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אבינה",
+      "gloss": "nabaki koseka"
+    },
+    {
+      "surface": "לאחריתם",
+      "gloss": "nsuka na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:18:23.901983992Z",
+  "model": "glm-5.3"
+}

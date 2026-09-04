@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 9:8",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Mpe mosali abakisaki kolobana na ⟨את⟩ Shaul, mpe alobaki: Tala, kati ya minei ya sikeli moko ya finderé ezali na maboko na ngai; mpe nakopesa yango na moto ya Elohim, mpe akolakisa biso ⟨את⟩ nzela na biso.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "mpe abakisaki"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mosali"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "kolobana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "maps": "Shaul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tala"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "ezali"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "na maboko na ngai"
+    },
+    {
+      "surface": "רבע",
+      "gloss": "kati ya minei"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "ya sikeli moko"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ya finderé"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "mpe nakopesa"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "na moto"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "והגיד",
+      "gloss": "mpe akolakisa"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "biso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nzela na biso"
+    },
+    {
+      "surface": "דרכנו",
+      "gloss": "nzela na biso"
+    }
+  ],
+  "timestamp": "2026-09-03T18:14:49.231006821Z",
+  "model": "glm-5.3"
+}

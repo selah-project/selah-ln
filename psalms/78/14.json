@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 78:14",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 78,
+  "translation": "Mpe amemaki bango na lipata mokolo nyonso, mpe butu nyonso na bongengi ya moto.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "mpe amemaki bango"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "na lipata"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "mokolo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe nyonso"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "butu"
+    },
+    {
+      "surface": "באור",
+      "gloss": "na bongengi"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ya moto"
+    }
+  ],
+  "timestamp": "2026-09-03T21:19:38.183197175Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 6:16",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpe esalaki na mbala ya sambo, bakohen batokaki na bashofara, mpe Yehoshua alobaki epai ya bato: Bokanga mululu, mpo Yawe apeki bino ⟨את⟩ engumba.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mpe esalaki"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "na mbala"
+    },
+    {
+      "surface": "השביעית",
+      "gloss": "ya sambo"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "batokaki"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "bakohen"
+    },
+    {
+      "surface": "בשופרות",
+      "gloss": "na bashofara"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "bokanga mululu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "apeki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bino"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "engumba"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "engumba"
+    }
+  ],
+  "timestamp": "2026-09-03T17:45:14.573135965Z",
+  "model": "glm-5.3"
+}

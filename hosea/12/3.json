@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 12:3",
+  "book": "hosea",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Mpe likambo ezali epai ya Yawe na Yehuda, mpe akanisaka Yaakov ndenge na nzela na ye; ndenge na misala na ye akofuta ye.",
+  "tokens": [
+    {
+      "surface": "וריב",
+      "gloss": "mpe likambo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "epai ya Yawe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ולפקד",
+      "gloss": "mpe akanisaka"
+    },
+    {
+      "surface": "על",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "כדרכיו",
+      "gloss": "ndenge na nzela na ye"
+    },
+    {
+      "surface": "כמעלליו",
+      "gloss": "ndenge na misala na ye"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "akofuta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ye"
+    }
+  ],
+  "timestamp": "2026-09-03T20:39:59.978774121Z",
+  "model": "glm-5.3"
+}

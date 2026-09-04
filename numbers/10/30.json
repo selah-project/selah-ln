@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 10:30",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Mpe alobaki epai na ye: Nakokende te; kasi na mabele na ngai mpe na mbota na ngai nakokende.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "epai na ye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "nakokende"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kasi"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "mabele na ngai"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mpe na"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "mbota na ngai"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "nakokende"
+    }
+  ],
+  "timestamp": "2026-09-03T17:05:32.863193114Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 36:14",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 36,
+  "translation": "Mpe oyo bazalaki bana ya Oholibamah, mwana ya Anah, mwana ya Tsivon, mwasi ya Esav; mpe abotaki na Esav ⟨את⟩ Yeish mpe ⟨את⟩ Yaelam mpe ⟨את⟩ Korah.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Mpe oyo"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bazalaki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ya"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "Oholibamah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana ya"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Anah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana ya"
+    },
+    {
+      "surface": "צבעון",
+      "gloss": "Tsivon"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mwasi ya"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "mpe abotaki"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "na Esav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yeish"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Yeish"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Yaelam"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "Yaelam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Korah"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korah"
+    }
+  ],
+  "timestamp": "2026-09-03T16:03:15.376009470Z",
+  "model": "glm-5.3"
+}

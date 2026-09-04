@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 34:8",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 34,
+  "translation": "Moshe anokaki, mpe akundaki nse, mpe asambelaki.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "anokaki"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויקד",
+      "gloss": "mpe akundaki"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "nse"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "mpe asambelaki"
+    }
+  ],
+  "timestamp": "2026-09-03T16:34:03.489394776Z",
+  "model": "glm-5.3"
+}

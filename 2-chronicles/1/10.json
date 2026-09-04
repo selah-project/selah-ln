@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 1:10",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Sikoyo, bwanya mpe boyebi pesa ngai, mpe nakokwea liboso ya bato oyo mpe nakozonga, mpo nani asosaki ⟨את⟩ bato na yo oyo monene?",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Sikoyo"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "bwanya"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "mpe boyebi"
+    },
+    {
+      "surface": "תן",
+      "gloss": "pesa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "ואצאה",
+      "gloss": "mpe nakokwea"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ואבואה",
+      "gloss": "mpe nakozonga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nani"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "asosaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bato na yo oyo"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bato na yo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "monene"
+    }
+  ],
+  "timestamp": "2026-09-03T22:53:29.604480194Z",
+  "model": "glm-5.3"
+}

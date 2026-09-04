@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 35:18",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 35,
+  "translation": "⟨את⟩ bavanga ya mishkan, mpe ⟨את⟩ bavanga ya esika ya libanda, mpe ⟨את⟩ mikanda na bango,",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bavanga ya mishkan"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "bavanga"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ya mishkan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bavanga ya esika ya libanda"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "bavanga"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ya esika ya libanda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mikanda na bango"
+    },
+    {
+      "surface": "מיתריהם",
+      "gloss": "mikanda na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:33:13.920042918Z",
+  "model": "glm-5.3"
+}

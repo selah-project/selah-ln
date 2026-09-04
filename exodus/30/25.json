@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 30:25",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 30,
+  "translation": "Mpe okosala ⟨את⟩ yango mafuta ya konyata santu, kokangami malamu, mosala ya mokangi ya nuki; mafuta ya konyata santu yango ekozala.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Mpe okosala"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yango",
+      "marks": "mafuta"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "ya konyata"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "santu"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "kokangami malamu"
+    },
+    {
+      "surface": "מרקחת",
+      "gloss": "kokangami malamu"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "mosala"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "ya mokangi ya nuki"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "ya konyata"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "santu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "yango ekozala"
+    }
+  ],
+  "timestamp": "2026-09-03T16:31:05.630009639Z",
+  "model": "glm-5.3"
+}

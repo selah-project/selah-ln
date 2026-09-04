@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 11:4",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpe Moshe alobaki boye: Yawe alobi ete, na nkatinti ya butu ngai nakokima na kati ya Mitsraim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כה",
+      "gloss": "boye"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "alobi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כחצת",
+      "gloss": "na nkatinti"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ya butu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "nakokima"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "na kati ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    }
+  ],
+  "timestamp": "2026-09-03T23:12:33.491853332Z",
+  "model": "glm-5.3"
+}

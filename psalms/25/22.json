@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 25:22",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Bobimi, Elohim, ⟨את⟩ Israel, utaka na makama na yango nyonso.",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "Bobimi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "utaka na"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "makama na yango nyonso"
+    }
+  ],
+  "timestamp": "2026-09-03T21:05:29.693299903Z",
+  "model": "glm-5.3"
+}

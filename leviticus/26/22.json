@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 26:22",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "Mpe nakotinda epai na bino ⟨את⟩ nyama ya elanga, mpe ekobwangisa ⟨את⟩ bino, mpe ekolimwisa ⟨את⟩ banyama na bino, mpe ekokitisa ⟨את⟩ bino, mpe banzela na bino bikolama.",
+  "tokens": [
+    {
+      "surface": "והשלחתי",
+      "gloss": "Nakotinda"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "epai na bino"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyama ya elanga"
+    },
+    {
+      "surface": "חית",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ya elanga"
+    },
+    {
+      "surface": "ושכלה",
+      "gloss": "ekobwangisa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ bino"
+    },
+    {
+      "surface": "והכריתה",
+      "gloss": "ekolimwisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "banyama na bino"
+    },
+    {
+      "surface": "בהמתכם",
+      "gloss": "banyama na bino"
+    },
+    {
+      "surface": "והמעיטה",
+      "gloss": "ekokitisa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ bino"
+    },
+    {
+      "surface": "ונשמו",
+      "gloss": "bikolama"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "banzela na bino"
+    }
+  ],
+  "timestamp": "2026-09-03T16:56:43.725450853Z",
+  "model": "glm-5.3"
+}

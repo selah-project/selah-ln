@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 3:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Yawe, ah, banganga na ngai bakomaki ebele; bato ebele bazali bimaka likolo na ngai.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ah"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "bakomaki ebele"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "banganga na ngai"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "bato ebele"
+    },
+    {
+      "surface": "קמים",
+      "gloss": "bazali bimaka"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "likolo na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T20:59:54.074813849Z",
+  "model": "glm-5.3"
+}

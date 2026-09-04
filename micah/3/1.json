@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 3:1",
+  "book": "micah",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe nalingi: Boyoka na bondimi, bankambi ya Yaakov, mpe bakabuli ya ndako ya Israel: boye ezali te ya bino koyeba ⟨את⟩ bosolo?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "mpe nalingi"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "boyoka"
+    },
+    {
+      "surface": "נא",
+      "gloss": "na bondimi"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "bankambi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "וקציני",
+      "gloss": "mpe bakabuli"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "boye te"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ya bino"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "koyeba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bosolo"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "bosolo"
+    }
+  ],
+  "timestamp": "2026-09-03T20:48:09.369220165Z",
+  "model": "glm-5.3"
+}

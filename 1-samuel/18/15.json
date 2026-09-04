@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 18:15",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Mpe Shaul amonaki ete ⟨ye azali⟩ na mayele mingi, mpe abangaki ye.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "mpe amonaki"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ete"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ye"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "na mayele"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mingi"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "mpe abangaki"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ye"
+    }
+  ],
+  "timestamp": "2026-09-03T18:18:46.390199711Z",
+  "model": "glm-5.3"
+}

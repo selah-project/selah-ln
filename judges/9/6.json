@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 9:6",
+  "book": "judges",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Mpe bankolo ya Shekem nyonso mpe ndako ya Milo nyonso bakutanaki, bakendaki mpe batyaki ⟨את⟩ Avimeleke lokola mokonzi, epai ya nzete ya elon, etanda oyo ezali na Shekem.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "bakutanaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "bankolo"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "ya Shekem"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe nyonso"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "ya Milo"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "bakendaki"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "batyaki mokonzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimeleke"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimeleke"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "lokola mokonzi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "אלון",
+      "gloss": "nzete ya elon"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "etanda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "na Shekem"
+    }
+  ],
+  "timestamp": "2026-09-03T18:00:33.274759800Z",
+  "model": "glm-5.3"
+}

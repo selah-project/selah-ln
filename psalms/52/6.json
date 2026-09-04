@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 52:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 52,
+  "translation": "Olingaki maloba nyonso ya kominia, monoko ya boluku!",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "olingaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "maloba"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "ya kominia"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "monoko"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "boluku"
+    }
+  ],
+  "timestamp": "2026-09-03T21:14:17.553522768Z",
+  "model": "glm-5.3"
+}

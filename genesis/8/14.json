@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 8:14",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe na sanza ya mibale, na mikolo ntuku sambo na mibale ya sanza, mabele emikaki.",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "Mpe na sanza"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ya mibale"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "na ntuku sambo"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "na mibale"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mikolo"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ya sanza"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "emikaki"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T15:46:47.419703450Z",
+  "model": "glm-5.3"
+}

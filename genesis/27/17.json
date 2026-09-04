@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 27:17",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 27,
+  "translation": "mpe atiaki ⟨את⟩ bilei ya nsomi mpe ⟨את⟩ mopanzi oyo asalaki na maboko ya Yaakov mwana na ye.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "mpe atiaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bilei ya nsomi"
+    },
+    {
+      "surface": "המטעמים",
+      "gloss": "bilei ya nsomi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mopanzi"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "mopanzi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "asalaki"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "na maboko"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "mwana na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T15:59:23.706426644Z",
+  "model": "glm-5.3"
+}

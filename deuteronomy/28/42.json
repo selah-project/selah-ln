@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 28:42",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 28,
+  "translation": "Banzete na yo nyonso mpe mboto ya mabele na yo, tseltsel nde ekozwa.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "עצך",
+      "gloss": "banzete na yo"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "mpe mboto"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "ya mabele na yo"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "ekozwa"
+    },
+    {
+      "surface": "הצלצל",
+      "gloss": "tseltsel"
+    }
+  ],
+  "timestamp": "2026-09-03T17:37:50.369099750Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 1:6",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe mpiaka na ye asalaki ye mawa koleka mpe amekaki ye, mpo ete Yawe akangaki ⟨na⟩ libumu na ye.",
+  "tokens": [
+    {
+      "surface": "וכעסתה",
+      "gloss": "mpe asalaki ye mawa"
+    },
+    {
+      "surface": "צרתה",
+      "gloss": "mpiaka na ye"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "koleka"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "הרעמה",
+      "gloss": "amekaki ye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "akangaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "⟨na⟩"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "libumu na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T18:09:21.678841366Z",
+  "model": "glm-5.3"
+}

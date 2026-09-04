@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 37:12",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 37,
+  "translation": "Bandeko na ye bakendeki kolisa ⟨את⟩ toyo ya tata na bango na Shekhem.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "bakendeki"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "bandeko na ye"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "kolisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toyo"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "toyo"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "ya tata na bango"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "na Shekhem"
+    }
+  ],
+  "timestamp": "2026-09-03T16:03:54.348391586Z",
+  "model": "glm-5.3"
+}

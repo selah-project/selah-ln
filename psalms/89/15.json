@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 89:15",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 89,
+  "translation": "Bosembo mpe mbeko nde mabelé ya kiti ya bokonzi na yo; hesed (bolingo) mpe bosolo bakendeke liboso ya elongi na yo.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "Bosembo"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "mpe mbeko"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "mabelé ya"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "kiti ya bokonzi na yo"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed (bolingo)"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "mpe bosolo"
+    },
+    {
+      "surface": "יקדמו",
+      "gloss": "bakendeke liboso"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ya elongi na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:23:08.438494128Z",
+  "model": "glm-5.3"
+}

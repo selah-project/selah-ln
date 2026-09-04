@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 3:10",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe alobaki: Namoyokaki ⟨את⟩ mongongo na yo na lkanda, mpe nabangaki, mpo ngai nazali monzamba, mpe nabombaki ngai moko.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mongongo na yo"
+    },
+    {
+      "surface": "קלך",
+      "gloss": "mongongo na yo"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "namoyokaki"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "na lkanda"
+    },
+    {
+      "surface": "וואירא",
+      "gloss": "mpe nabangaki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "monzamba"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "ואחבא",
+      "gloss": "mpe nabombaki ngai moko"
+    }
+  ],
+  "timestamp": "2026-09-03T15:44:37.587258023Z",
+  "model": "glm-5.3"
+}

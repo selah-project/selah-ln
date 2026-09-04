@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 27:4",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 27,
+  "translation": "Nkanga ezali na ngai te; nani akopesa ngai batungu na balolo na etumba? Nakotambola na yango, nakotumba yango mobimba.",
+  "tokens": [
+    {
+      "surface": "חמה",
+      "gloss": "Nkanga"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ezali te"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nani"
+    },
+    {
+      "surface": "יתנני",
+      "gloss": "akopesa ngai"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "batungu"
+    },
+    {
+      "surface": "שית",
+      "gloss": "balolo"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "na etumba"
+    },
+    {
+      "surface": "אפשעה",
+      "gloss": "nakotambola"
+    },
+    {
+      "surface": "בה",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "אציתנה",
+      "gloss": "nakotumba yango"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "mobimba"
+    }
+  ],
+  "timestamp": "2026-09-03T19:23:07.208515610Z",
+  "model": "glm-5.3"
+}

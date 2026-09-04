@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 88:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 88,
+  "translation": "Likolo na ngai mwasisi na yo etikalaki, mpe na mapepe ya mai na yo nyonso onyokaki ngai. Sela.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "Likolo na ngai"
+    },
+    {
+      "surface": "סמכה",
+      "gloss": "etikalaki"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "mwasisi na yo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe nyonso"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "mapepe ya mai na yo"
+    },
+    {
+      "surface": "ענית",
+      "gloss": "onyokaki ngai"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-03T21:23:04.237829568Z",
+  "model": "glm-5.3"
+}

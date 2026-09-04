@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 25:3",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Mpe esalaki, ntango bokonzi bakangaki makasi likolo na ye, abomaki ⟨את⟩ basungi na ye, oyo babomaki ⟨את⟩ mokonzi tata na ye.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mpe esalaki"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ntango"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "bakangaki makasi"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "bokonzi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "likolo na ye"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "abomaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "basungi na ye"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "basungi na ye"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "oyo babomaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mokonzi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "tata na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T23:43:41.596566769Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 3:1",
+  "book": "esther",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Na nsima ya makambo yango, mokonzi Ahashverosh atombolaki ⟨את⟩ Haman, mwana wa Hamdata, wa Agagi, mpe amatisaki ye, mpe atyaki ⟨את⟩ kiti na ye likolo ya basaru nyonso oyo bazalaki ⟨את⟩ na ye.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "Na nsima"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "makambo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "yango"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "atombolaki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahashverosh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haman"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "Hamdata"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "wa Agagi"
+    },
+    {
+      "surface": "וינשאהו",
+      "gloss": "mpe amatisaki ye"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "mpe atyaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kiti na ye"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "kiti na ye"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "basaru"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T22:18:03.041695142Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 32:32",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 32,
+  "translation": "Mpe moi eminamaki liauli ntango akatakaki ⟨את⟩ Penuel, mpe ye azalaki kolata na lokolo na ye.",
+  "tokens": [
+    {
+      "surface": "ויזרח",
+      "gloss": "Mpe eminamaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "liauli"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "moi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ntango"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "akatakaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Penuel"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penuel"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "mpe ye"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "azalaki kolata"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "lokolo na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T16:01:46.380138105Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 25:25",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Mpe osala na yango ndelo ya bonene ya maboko moko na zolo, mpe osala kungo ya olo na ndelo na yango na zolo.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Mpe osala"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "מסגרת",
+      "gloss": "ndelo"
+    },
+    {
+      "surface": "טפח",
+      "gloss": "bonene ya maboko moko"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "na zolo"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "mpe osala"
+    },
+    {
+      "surface": "זר",
+      "gloss": "kungo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ya olo"
+    },
+    {
+      "surface": "למסגרתו",
+      "gloss": "na ndelo na yango"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "na zolo"
+    }
+  ],
+  "timestamp": "2026-09-03T16:27:41.145033448Z",
+  "model": "glm-5.3"
+}

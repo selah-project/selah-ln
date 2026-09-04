@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 3:20",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe atombwaki na katikati ya butu, mpe azwaki ⟨את⟩ mwana na ngai epai na ngai, mpe mowumbu mwasi na yo alalaki, mpe atyaki ye kolala na libongo na ye, mpe ⟨את⟩ mwana ye akufaki atyaki kolala na libongo na ngai.",
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "Mpe atombwaki"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "na katikati"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ya butu"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "mpe azwaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwana na ngai"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mwana na ngai"
+    },
+    {
+      "surface": "מאצלי",
+      "gloss": "epai na ngai"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "mpe mowumbu mwasi na yo"
+    },
+    {
+      "surface": "ישנה",
+      "gloss": "alalaki"
+    },
+    {
+      "surface": "ותשכיבהו",
+      "gloss": "mpe atyaki ye kolala"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "na libongo na ye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mwana ye akufaki"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "mwana ye"
+    },
+    {
+      "surface": "המת",
+      "gloss": "akufaki"
+    },
+    {
+      "surface": "השכיבה",
+      "gloss": "atyaki kolala"
+    },
+    {
+      "surface": "בחיקי",
+      "gloss": "na libongo na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T18:43:55.663882406Z",
+  "model": "glm-5.3"
+}

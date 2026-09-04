@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 31:4",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 31,
+  "translation": "Mpe Yawe akosala bango ndenge asalaki na Sihon mpe na Og, bakonzi ya Baemori, mpe na mabele na bango, oyo abimisaki ⟨את⟩ bango.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "akosala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bango"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ndenge"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "asalaki"
+    },
+    {
+      "surface": "לסיחון",
+      "gloss": "na Sihon"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "mpe na Og"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "bakonzi"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ya Baemori"
+    },
+    {
+      "surface": "ולארצם",
+      "gloss": "mpe na mabele na bango"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "השמיד",
+      "gloss": "abimisaki"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bango",
+      "marks": "Sihon mpe Og"
+    }
+  ],
+  "timestamp": "2026-09-03T17:41:33.340230851Z",
+  "model": "glm-5.3"
+}

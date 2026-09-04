@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 8:12",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Uta Aram, mpe uta Moab, mpe uta bana ya Amon, mpe uta Balesti, mpe uta Amalek, mpe uta bofungi ya Hadadezer mwana ya Rehob, mokonzi ya Tsoba.",
+  "tokens": [
+    {
+      "surface": "מארם",
+      "gloss": "Uta Aram"
+    },
+    {
+      "surface": "וממואב",
+      "gloss": "mpe uta Moab"
+    },
+    {
+      "surface": "ומבני",
+      "gloss": "mpe uta bana ya"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "ומפלשתים",
+      "gloss": "mpe uta Balesti"
+    },
+    {
+      "surface": "ומעמלק",
+      "gloss": "mpe uta Amalek"
+    },
+    {
+      "surface": "ומשלל",
+      "gloss": "mpe uta bofungi"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "ya Hadadezer"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ya Rehob"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "ya Tsoba"
+    }
+  ],
+  "timestamp": "2026-09-03T18:30:03.915205013Z",
+  "model": "glm-5.3"
+}

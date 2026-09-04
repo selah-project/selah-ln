@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 18:23",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Avraham apekisi mpe alobaki: Ata okolimwisa moto ya bosolo elongo na moto mabe?",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "apekisi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "האף",
+      "gloss": "ata"
+    },
+    {
+      "surface": "תספה",
+      "gloss": "okolimwisa"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "moto ya bosolo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "elongo na"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "moto mabe"
+    }
+  ],
+  "timestamp": "2026-09-03T23:11:38.046918625Z",
+  "model": "glm-5.3"
+}

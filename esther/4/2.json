@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 4:2",
+  "book": "esther",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe akotaki kino liboso ya nzela ya kokota ya mokonzi, mpo ⟨ezali⟩ ⟨te⟩ kokota na nzela ya kokota ya mokonzi na kofunda sako.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "mpe akotaki"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "שער",
+      "gloss": "nzela ya kokota"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya mokonzi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨ezali⟩ ⟨te⟩"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "kokota"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "שער",
+      "gloss": "nzela ya kokota"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya mokonzi"
+    },
+    {
+      "surface": "בלבוש",
+      "gloss": "na kofunda"
+    },
+    {
+      "surface": "שק",
+      "gloss": "sako"
+    }
+  ],
+  "timestamp": "2026-09-03T22:18:11.718374357Z",
+  "model": "glm-5.3"
+}

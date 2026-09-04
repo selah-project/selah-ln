@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 4:26",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe na Shet mpe ye moko abotamaki mwana, mpe abengaki ⟨את⟩ nkombo na ye Enosh; wana ebandaki kobenga na nkombo ya Yawe.",
+  "tokens": [
+    {
+      "surface": "ולשת",
+      "gloss": "mpe na Shet"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ye moko"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "abotamaki"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "abengaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkombo na ye"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nkombo na ye"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enosh"
+    },
+    {
+      "surface": "אז",
+      "gloss": "wana"
+    },
+    {
+      "surface": "הוחל",
+      "gloss": "ebandaki"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "kobenga"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "na nkombo ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T15:43:47.524650715Z",
+  "model": "glm-5.3"
+}

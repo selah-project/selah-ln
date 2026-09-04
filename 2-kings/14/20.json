@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 14:20",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Mpe bamemaki ⟨את⟩ ye na likolo ya bampati, mpe akundamaki na Yerushalaim elongo na batata na ye, na mboka ya David.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "Mpe bamemaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ye"
+    },
+    {
+      "surface": "על",
+      "gloss": "na likolo ya"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "bampati"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "mpe akundamaki"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "na Yerushalaim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "elongo na"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "batata na ye"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "na mboka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ya David"
+    }
+  ],
+  "timestamp": "2026-09-03T19:05:23.583830110Z",
+  "model": "glm-5.3"
+}

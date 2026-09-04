@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 12:15",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Nzela ya mojango ⟨ezali⟩ sembo na miso na ye, mpe oyo ayokaka na makanisi ⟨azali⟩ moto ya mayele.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "nzela"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "ya mojango"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "sembo"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "na miso na ye"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "mpe oyo ayokaka"
+    },
+    {
+      "surface": "לעצה",
+      "gloss": "na makanisi"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "moto ya mayele"
+    }
+  ],
+  "timestamp": "2026-09-03T21:42:17.267639271Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 6:1",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpe malako oyo, mibeko mpe mikanda, oyo Yawe Elohim na bino atindaki kolakisa ⟨את⟩ bino kosala ⟨yango⟩ na mabele oyo bino bozali kokata kuna mpo na kozwa yango.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Mpe oyo"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "malako"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "mibeko"
+    },
+    {
+      "surface": "והמשפטים",
+      "gloss": "mpe mikanda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "atindaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim na bino"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "kolakisa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ bino",
+      "marks": "kosala yango"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kosala"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "bino"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "bozali kokata"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "mpo na kozwa yango"
+    }
+  ],
+  "timestamp": "2026-09-03T23:18:42.641183419Z",
+  "model": "glm-5.3"
+}

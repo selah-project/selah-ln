@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 10:8",
+  "book": "ezekiel",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Mpe emonanaki na bakerubim ndenge ya maboko ya moto, na nse ya mapapu na bango.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "mpe emonanaki"
+    },
+    {
+      "surface": "לכרבים",
+      "gloss": "na bakerubim"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "ndenge"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ya maboko"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ya moto"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "na nse ya"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "mapapu na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T20:13:57.916073619Z",
+  "model": "glm-5.3"
+}

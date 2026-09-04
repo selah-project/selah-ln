@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 24:6",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "Avraham alobaki epai na ye: batela yo moko, ete ozongisa te ⟨את⟩ mwana na ngai wana.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "epai na ye"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "batela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yo moko"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ete te"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "ozongisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwana na ngai"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mwana na ngai"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "wana"
+    }
+  ],
+  "timestamp": "2026-09-03T15:55:55.367936795Z",
+  "model": "glm-5.3"
+}

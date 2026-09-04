@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 14:3",
+  "book": "job",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Ata epai ya moto ya ndenge wana, ofungoli miso na yo, mpe ⟨את⟩ ngai ozali komema na bosambisi elongo na yo?",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Ata"
+    },
+    {
+      "surface": "על",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "זה",
+      "gloss": "moto ya ndenge wana"
+    },
+    {
+      "surface": "פקחת",
+      "gloss": "ofungoli"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "miso na yo"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "mpe ⟨את⟩ ngai",
+      "marks": "ngai (objet ya תביא)"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "ozali komema"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "na bosambisi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "elongo na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:55:10.410302948Z",
+  "model": "glm-5.3"
+}

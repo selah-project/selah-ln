@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 8:6",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe Moshe akomisaki ⟨את⟩ Aharon mpe ⟨את⟩ bankombo na ye, mpe asukolaki ⟨את⟩ bango na mai.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "Mpe akomisaki"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bankombo na ye"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bankombo na ye"
+    },
+    {
+      "surface": "וירחץ",
+      "gloss": "mpe asukolaki"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bango"
+    },
+    {
+      "surface": "במים",
+      "gloss": "na mai"
+    }
+  ],
+  "timestamp": "2026-09-03T16:44:04.113061286Z",
+  "model": "glm-5.3"
+}

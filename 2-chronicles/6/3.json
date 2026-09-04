@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 6:3",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpe mokonzi azongisi ⟨את⟩ elongi na ye, mpe atombolaki ⟨את⟩ bokutani nyonso ya Israel, mpe bokutani nyonso ya Israel ezalaki kotelema.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "Mpe azongisi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elongi na ye"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "elongi na ye"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "mpe atombolaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bokutani nyonso ya Israel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "bokutani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe nyonso"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "bokutani"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "עומד",
+      "gloss": "ezalaki kotelema"
+    }
+  ],
+  "timestamp": "2026-09-03T22:55:45.280370397Z",
+  "model": "glm-5.3"
+}

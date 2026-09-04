@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 25:16",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Tala epai ya ngai mpe ope ngai ngolu, mpo ete nazali mokei mpe moto ya mawa, ngai moko.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "Tala"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "epai ya ngai"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "mpe ope ngai ngolu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "יחיד",
+      "gloss": "mokei"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "mpe moto ya mawa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai moko"
+    }
+  ],
+  "timestamp": "2026-09-03T21:05:58.302710436Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 4:16",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "mpe ⟨את⟩ masasu, mpe ⟨את⟩ basepe, mpe ⟨את⟩ bafoshe, mpe ⟨את⟩ bikeko na yango nyonso, Huram tato na ye asalaki mpo na mokonzi Shelomo, mpo ya ndako ya Yawe, na mkoba ya koshinishini",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "masasu"
+    },
+    {
+      "surface": "הסירות",
+      "gloss": "masasu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "basepe"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "basepe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bafoshe"
+    },
+    {
+      "surface": "המזלגות",
+      "gloss": "bafoshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bikeko na yango nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "כליהם",
+      "gloss": "bikeko na yango"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "asalaki"
+    },
+    {
+      "surface": "חורם",
+      "gloss": "Huram"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "tato na ye"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "mpo na mokonzi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "mpo ya ndako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "na mkoba"
+    },
+    {
+      "surface": "מרוק",
+      "gloss": "ya koshinishini"
+    }
+  ],
+  "timestamp": "2026-09-03T22:54:38.527775852Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 25:12",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Mpe okataki ⟨את⟩ maboko na ye; miso na ye ekana mawa te.",
+  "tokens": [
+    {
+      "surface": "וקצתה",
+      "gloss": "mpe okataki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maboko na ye"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "maboko na ye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "ekana mawa"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "miso na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T17:35:10.121123450Z",
+  "model": "glm-5.3"
+}

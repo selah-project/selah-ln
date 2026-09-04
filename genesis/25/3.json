@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 25:3",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Mpe Yokshan abotaki ⟨את⟩ Sheva mpe ⟨את⟩ Dedan; mpe bana ya Dedan bazalaki Ashurim, Letushim, mpe Leummim.",
+  "tokens": [
+    {
+      "surface": "ויקשן",
+      "gloss": "Mpe Yokshan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "abotaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheva"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Dedan"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedan"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "mpe bana ya"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedan"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bazalaki"
+    },
+    {
+      "surface": "אשורם",
+      "gloss": "Ashurim"
+    },
+    {
+      "surface": "ולטושים",
+      "gloss": "Letushim"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "mpe Leummim"
+    }
+  ],
+  "timestamp": "2026-09-03T15:57:30.877439484Z",
+  "model": "glm-5.3"
+}

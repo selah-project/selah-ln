@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 34:16",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 34,
+  "translation": "Misu ya Yawe ⟨ezali⟩ epai ya bato ya bosembo, mpe matoyi na ye ⟨ezali⟩ epai ya bongongo na bango.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Misu ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "bato ya bosembo"
+    },
+    {
+      "surface": "ואזניו",
+      "gloss": "mpe matoyi na ye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "bongongo na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:08:08.226923829Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 78:45",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 78,
+  "translation": "Atindaki kati na bango mokoke ya midudu, nde emelaki bango; mpe dudu ya mai, yango ebebisaki bango.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Atindaki"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kati na bango"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "mokoke ya midudu"
+    },
+    {
+      "surface": "ויאכלם",
+      "gloss": "nde ⟨yango⟩ emelaki bango"
+    },
+    {
+      "surface": "וצפרדע",
+      "gloss": "mpe dudu ya mai"
+    },
+    {
+      "surface": "ותשחיתם",
+      "gloss": "yango ebebisaki bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:20:33.743301679Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 10:26",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Mpe babimisaki ⟨את⟩ ba piliers ya ndako ya Baal, mpe batumbaki yango.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "mpe babimisaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ba piliers"
+    },
+    {
+      "surface": "מצבות",
+      "gloss": "ba piliers"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "ya Baal"
+    },
+    {
+      "surface": "וישרפוה",
+      "gloss": "mpe batumbaki yango"
+    }
+  ],
+  "timestamp": "2026-09-03T23:24:49.963041306Z",
+  "model": "glm-5.3"
+}

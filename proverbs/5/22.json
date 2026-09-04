@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 5:22",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Mabe na ye moko ezwaka ⟨את⟩ mabebe, mpe na bakanga ya libanga na ye ye moko akangamaka.",
+  "tokens": [
+    {
+      "surface": "עוונותיו",
+      "gloss": "mabe na ye"
+    },
+    {
+      "surface": "ילכדנו",
+      "gloss": "ezwaka ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabebe"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "mabebe"
+    },
+    {
+      "surface": "ובחבלי",
+      "gloss": "mpe na bakanga"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "libanga na ye"
+    },
+    {
+      "surface": "יתמך",
+      "gloss": "akangamaka"
+    }
+  ],
+  "timestamp": "2026-09-03T21:37:48.057288908Z",
+  "model": "glm-5.3"
+}

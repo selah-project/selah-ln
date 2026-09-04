@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 23:12",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Mpe bokosala, na mokolo ya botomboli na bino ⟨את⟩ omer, embisi ya malamu, mwana ya mbula moko, lokola ofrande ya kokaka, epai ya Yawe.",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "mpe bokosala"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na mokolo"
+    },
+    {
+      "surface": "הניפכם",
+      "gloss": "ya botomboli na bino"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omer"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "omer"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "embisi"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ya malamu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "ya mbula moko"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "lokola ofrande ya kokaka"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "epai ya Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T16:52:56.498561924Z",
+  "model": "glm-5.3"
+}

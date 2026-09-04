@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 51:19",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 51,
+  "translation": "Zebah ya Elohim ezali mpema mokwanza; motema mokwanza mpe mosila — Elohim, ateraka yango te.",
+  "tokens": [
+    {
+      "surface": "זבחי",
+      "gloss": "zebah ya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mpema"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "mokwanza"
+    },
+    {
+      "surface": "לב",
+      "gloss": "motema"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "mokwanza"
+    },
+    {
+      "surface": "ונדכה",
+      "gloss": "mpe mosila"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "ateraka yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:13:28.104173468Z",
+  "model": "glm-5.3"
+}

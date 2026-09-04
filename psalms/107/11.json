@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 107:11",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 107,
+  "translation": "Mpo bakanganaki na maloba ya El, mpe makanisi ya Elyon bayokaki yango moke.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "bakanganaki"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "na maloba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ya El"
+    },
+    {
+      "surface": "ועצת",
+      "gloss": "mpe makanisi"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ya Elyon"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "bayokaki yango moke"
+    }
+  ],
+  "timestamp": "2026-09-03T21:27:39.224561591Z",
+  "model": "glm-5.3"
+}

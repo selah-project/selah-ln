@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 10:16",
+  "book": "judges",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Mpe batikelaki ⟨את⟩ banzambe ya bapaya kati na bango, mpe babombaki ⟨את⟩ Yawe; mpe molimo na yandi ekufaki na mawa ya Israel.",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "Mpe batikelaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "banzambe ya bapaya"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "banzambe"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "ya bapaya"
+    },
+    {
+      "surface": "מקרבם",
+      "gloss": "kati na bango"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "mpe babombaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "ekufaki"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "molimo na yandi"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "na mawa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    }
+  ],
+  "timestamp": "2026-09-03T18:00:29.874476548Z",
+  "model": "glm-5.3"
+}

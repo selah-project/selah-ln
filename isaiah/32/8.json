@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 32:8",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 32,
+  "translation": "Mpe moto ya lokumu akanisa makambo ya lokumu, mpe ye na makambo ya lokumu akotelema.",
+  "tokens": [
+    {
+      "surface": "ונדיב",
+      "gloss": "mpe moto ya lokumu"
+    },
+    {
+      "surface": "נדיבות",
+      "gloss": "makambo ya lokumu"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "akanisa"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "mpe ye"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "נדיבות",
+      "gloss": "makambo ya lokumu"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "akotelema"
+    }
+  ],
+  "timestamp": "2026-09-03T19:25:46.142627281Z",
+  "model": "glm-5.3"
+}

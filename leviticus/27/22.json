@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 27:22",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 27,
+  "translation": "Mpe soki ⟨moto⟩ asantuisi ⟨את⟩ elanga oyo asombi, oyo ezali te kati ya elanga ya bozwi na yango, mpo na Yawe.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Mpe soki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elanga"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "elanga"
+    },
+    {
+      "surface": "מקנתו",
+      "gloss": "oyo asombi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "משדה",
+      "gloss": "kati ya elanga"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "ya bozwi na yango"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "asantuisi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "mpo na Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T16:57:35.498934788Z",
+  "model": "glm-5.3"
+}

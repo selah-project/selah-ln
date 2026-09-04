@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 165,
+  "ref": "psalms 119:165",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Shalom ebele ezali epai ya baye balingaka Tora na yo, mpe mokangisi ezali na bango te.",
+  "tokens": [
+    {
+      "surface": "שלום",
+      "gloss": "Shalom"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ebele"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "epai ya baye balingaka"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Tora na yo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mpe ... ezali te"
+    },
+    {
+      "surface": "למו",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "מכשול",
+      "gloss": "mokangisi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:31:40.080597323Z",
+  "model": "glm-5.3"
+}

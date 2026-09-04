@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 16:14",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Mokonzi mpe bato nyonso oyo bazalaki elongo na ⟨את⟩ ye bamilaki bazali moi, mpe apekisaki moi na kuna.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "bamilaki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Mokonzi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe nyonso"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "elongo na ⟨את⟩",
+      "marks": "ye"
+    },
+    {
+      "surface": "עיפים",
+      "gloss": "bazali moi"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "apekisaki moi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "na kuna"
+    }
+  ],
+  "timestamp": "2026-09-03T18:36:21.218616583Z",
+  "model": "glm-5.3"
+}

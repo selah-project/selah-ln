@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 105:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 105,
+  "translation": "Yokanisa makambo ya kokamwisa na ye oyo asalaki, bilembo na ye mpe mibeko ya monoko na ye.",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "Yokanisa"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "makambo ya kokamwisa na ye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "asalaki"
+    },
+    {
+      "surface": "מפתיו",
+      "gloss": "bilembo na ye"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "mpe mibeko"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "ya monoko na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:27:13.560232399Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 20:17",
+  "book": "ezekiel",
+  "lang": "ln",
+  "chapter": 20,
+  "translation": "Mpe liso na ngai amonaki mawa na bango, na kolima bango te, mpe nasalaki ⟨את⟩ bango te bokanzi na zando.",
+  "tokens": [
+    {
+      "surface": "ותחס",
+      "gloss": "mpe amonaki mawa"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "liso na ngai"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "משחתם",
+      "gloss": "na kolima bango"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "nasalaki"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ bango",
+      "marks": "bango"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "bokanzi"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "na zando"
+    }
+  ],
+  "timestamp": "2026-09-03T20:20:40.474571395Z",
+  "model": "glm-5.3"
+}

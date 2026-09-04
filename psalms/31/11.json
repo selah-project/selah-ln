@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 31:11",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 31,
+  "translation": "Mpo ete bomoi na ngai esilaki na mawa, mpe bambula na ngai na kotoka; nguya na ngai ekweyaki na masuba na ngai, mpe mikuwa na ngai ekufelaki.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "esilaki"
+    },
+    {
+      "surface": "ביגון",
+      "gloss": "na mawa"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "bomoi na ngai"
+    },
+    {
+      "surface": "ושנותי",
+      "gloss": "mpe bambula na ngai"
+    },
+    {
+      "surface": "באנחה",
+      "gloss": "na kotoka"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "ekweyaki"
+    },
+    {
+      "surface": "בעוני",
+      "gloss": "na masuba na ngai"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "nguya na ngai"
+    },
+    {
+      "surface": "ועצמי",
+      "gloss": "mpe mikuwa na ngai"
+    },
+    {
+      "surface": "עששו",
+      "gloss": "ekufelaki"
+    }
+  ],
+  "timestamp": "2026-09-03T21:06:10.168902285Z",
+  "model": "glm-5.3"
+}

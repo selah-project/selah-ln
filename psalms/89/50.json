@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 89:50",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 89,
+  "translation": "Ezali wapi hesed na yo ya kala, Adonai, oyo onaseraki na David na bondimi na yo?",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "Ezali wapi"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "hesed na yo"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "ya kala"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "onaseraki"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "na David"
+    },
+    {
+      "surface": "באמונתך",
+      "gloss": "na bondimi na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:23:54.365264634Z",
+  "model": "glm-5.3"
+}

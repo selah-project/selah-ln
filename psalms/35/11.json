@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 35:11",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 35,
+  "translation": "Batatoli ya makasi batelemi; maye nayebaki te, batuni ngai.",
+  "tokens": [
+    {
+      "surface": "יקומון",
+      "gloss": "batelemi"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "batatoli"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ya makasi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "maye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "nayebaki"
+    },
+    {
+      "surface": "ישאלוני",
+      "gloss": "batuni ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:08:24.976866861Z",
+  "model": "glm-5.3"
+}

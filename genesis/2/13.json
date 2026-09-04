@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 2:13",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe nkombo ya ebale ya mibale ezali Gichon; yango nde ezali kozinga ⟨את⟩ mabele nyonso ya Kush.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "Mpe nkombo"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "ya ebale"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ya mibale"
+    },
+    {
+      "surface": "גיחון",
+      "gloss": "Gichon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yango nde"
+    },
+    {
+      "surface": "הסובב",
+      "gloss": "ezali kozinga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabele nyonso ya Kush"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    }
+  ],
+  "timestamp": "2026-09-03T23:11:42.095334253Z",
+  "model": "glm-5.3"
+}

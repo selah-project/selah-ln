@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 3:18",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe sikoyo bokitisa nsala, mpo Yawe alobaki epai ya David, na koloba: Na loboko ya David mokombo na ngai nakolokisaka ⟨את⟩ mboka na ngai Israel na loboko ya Ba-Pelishtim mpe na loboko ya banguna na bango nyonso.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "mpe sikoyo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "bokitisa nsala"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na koloba"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "na loboko ya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mokombo na ngai"
+    },
+    {
+      "surface": "הושיע",
+      "gloss": "nakolokisaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mboka na ngai Israel"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mboka na ngai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "na loboko ya"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Ba-Pelishtim"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "mpe na loboko ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "banguna na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T18:27:13.086491509Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joel 1:2",
+  "book": "joel",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Boyoka likolo ya yango, bankulu, mpe boyenga matoyi, bato nyonso oyo bafandi na mabele: elakiseli boye esalamaki na mikolo na bino, to na mikolo ya bankoko na bino?",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Boyoka"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "likolo ya yango"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "bankulu"
+    },
+    {
+      "surface": "והאזינו",
+      "gloss": "mpe boyenga matoyi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bato nyonso"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "bafandi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "ההיתה",
+      "gloss": "esalamaki"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "boye"
+    },
+    {
+      "surface": "בימיכם",
+      "gloss": "na mikolo na bino"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "to"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "na mikolo ya"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "bankoko na bino"
+    }
+  ],
+  "timestamp": "2026-09-03T20:40:50.773816265Z",
+  "model": "glm-5.3"
+}

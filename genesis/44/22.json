@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 44:22",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 44,
+  "translation": "Mpe tolobaki na Adonai na biso: Mwana yaya akoki te kolongwa ⟨את⟩ tata na ye; mpe soki alongi ⟨את⟩ tata na ye, akufa.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "Mpe tolobaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai na biso"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "akoki"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mwana yaya"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "kolongwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tata na ye"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "tata na ye"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "mpe soki alongi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tata na ye"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "tata na ye"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "akufa"
+    }
+  ],
+  "timestamp": "2026-09-03T16:08:06.270052701Z",
+  "model": "glm-5.3"
+}

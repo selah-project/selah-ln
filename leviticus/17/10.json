@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 17:10",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 17,
+  "translation": "Mpe moto nyonso wa ndako ya Israel, mpe wa mongeni oyo afandi kati na bango, oyo aliaka makasi nyonso, nazali kotya elongi na ngai na molimo oyo aliaka ⟨את⟩ makasi, mpe nakolongola ⟨את⟩ yango kati na bato na yango.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "mpe moto"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "wa ndako ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "mpe wa"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "mongeni"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "oyo afandi"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "kati na bango"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "aliaka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "דם",
+      "gloss": "makasi"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "nazali kotya"
+    },
+    {
+      "surface": "פני",
+      "gloss": "elongi na ngai"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "na molimo"
+    },
+    {
+      "surface": "האכלת",
+      "gloss": "oyo aliaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makasi"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "makasi"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "mpe nakolongola"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "yango kati"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "kati"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "bato na yango"
+    }
+  ],
+  "timestamp": "2026-09-04T00:18:34.233556328Z",
+  "model": "glm-5.3"
+}

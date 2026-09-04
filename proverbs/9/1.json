@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 9:1",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Bomimeseno akangi ndako na yango, akatakoli biteni na yango — sambo.",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "Bomimeseno"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "akangi"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ndako na yango"
+    },
+    {
+      "surface": "חצבה",
+      "gloss": "akatakoli"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "biteni na yango"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "sambo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:40:28.241157598Z",
+  "model": "glm-5.3"
+}

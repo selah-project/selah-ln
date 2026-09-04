@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 48:20",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 48,
+  "translation": "mpe abondisaki bango mokolo ya wana, na koloba: Yo nde Israel ebondisaka, na koloba: Elohim atya yo lokola Efrayim mpe lokola Menashe; mpe atyaki ⟨את⟩ Efrayim liboso ya Menashe.",
+  "tokens": [
+    {
+      "surface": "ויברכם",
+      "gloss": "mpe abondisaki bango"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "mokolo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ya wana"
+    },
+    {
+      "surface": "לאמור",
+      "gloss": "na koloba"
+    },
+    {
+      "surface": "בך",
+      "gloss": "yo"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "nde Israel ebondisaka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na koloba"
+    },
+    {
+      "surface": "ישמך",
+      "gloss": "atya yo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כאפרים",
+      "gloss": "lokola Efrayim"
+    },
+    {
+      "surface": "וכמנשה",
+      "gloss": "mpe lokola Menashe"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "mpe atyaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efrayim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    }
+  ],
+  "timestamp": "2026-09-03T16:11:54.734515872Z",
+  "model": "glm-5.3"
+}

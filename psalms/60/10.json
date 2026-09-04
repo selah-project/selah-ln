@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 60:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 60,
+  "translation": "Moabi bikopo ya kosukola na ngai; na Edom nakotombola sandale na ngai; na likolo ya ngai, Peleshet, beta makelele.",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moabi"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "bikopo"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "ya kosukola na ngai"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "nakotombola"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "sandale na ngai"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "na likolo ya ngai"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Peleshet"
+    },
+    {
+      "surface": "התרעעי",
+      "gloss": "beta makelele"
+    }
+  ],
+  "timestamp": "2026-09-03T21:15:01.788337309Z",
+  "model": "glm-5.3"
+}

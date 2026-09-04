@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 7:28",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mpe oyo ezali mosala ya maboko: bizipa na bango, mpe bizipa kati ya bapatelo.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "mpe oyo"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "mosala"
+    },
+    {
+      "surface": "המכונה",
+      "gloss": "ya maboko"
+    },
+    {
+      "surface": "מסגרת",
+      "gloss": "bizipa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "ומסגרת",
+      "gloss": "mpe bizipa"
+    },
+    {
+      "surface": "בין",
+      "gloss": "kati ya"
+    },
+    {
+      "surface": "השלבים",
+      "gloss": "bapatelo"
+    }
+  ],
+  "timestamp": "2026-09-03T18:46:41.477509995Z",
+  "model": "glm-5.3"
+}

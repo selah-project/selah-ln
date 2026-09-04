@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 4:6",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe Yawe alobaki na Kayin: mpo na nini mawa ekangamaki na yo, mpe mpo na nini elongi na yo ekweyaki?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    },
+    {
+      "surface": "למה",
+      "gloss": "mpo na nini"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "mawa ekangamaki"
+    },
+    {
+      "surface": "לך",
+      "gloss": "na yo"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "mpe mpo na nini"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ekweyaki"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "elongi na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T15:44:47.865033256Z",
+  "model": "glm-5.3"
+}

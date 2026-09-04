@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 10:3",
+  "book": "judges",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Mpe na nsima na ye Yair wa Giladi atombelaki, mpe ajudisaki ⟨את⟩ Israel mbula ntuku mibale na mibale.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "mpe atombelaki"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "na nsima na ye"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Yair"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "wa Giladi"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "mpe ajudisaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ntuku mibale"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "na mibale"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mbula"
+    }
+  ],
+  "timestamp": "2026-09-03T18:02:02.191072842Z",
+  "model": "glm-5.3"
+}

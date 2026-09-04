@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 18:10",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Mpe Yehoshua atolakaki likabo epai na bango na Shilo liboso ya Yawe, mpe kuna Yehoshua abongwaki ⟨את⟩ mabele na bana ya Israel na bokaboli na bango.",
+  "tokens": [
+    {
+      "surface": "וישלך",
+      "gloss": "atolakaki"
+    },
+    {
+      "surface": "להם",
+      "gloss": "epai na bango"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "likabo"
+    },
+    {
+      "surface": "בשלה",
+      "gloss": "na Shilo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויחלק",
+      "gloss": "mpe abongwaki"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "na bana ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "כמחלקתם",
+      "gloss": "na bokaboli na bango"
+    }
+  ],
+  "timestamp": "2026-09-04T00:00:40.759679181Z",
+  "model": "glm-5.3"
+}

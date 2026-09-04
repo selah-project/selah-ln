@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 139:23",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 139,
+  "translation": "El, bona ngai mpe yeba motema na ngai; meka ngai mpe yeba makanisi na ngai.",
+  "tokens": [
+    {
+      "surface": "חקרני",
+      "gloss": "bona ngai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "mpe yeba"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "motema na ngai"
+    },
+    {
+      "surface": "בחנני",
+      "gloss": "meka ngai"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "mpe yeba"
+    },
+    {
+      "surface": "שרעפי",
+      "gloss": "makanisi na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:35:06.116566791Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 31:11",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 31,
+  "translation": "Bayokaki likolo na yango bato ya Yavesh ya Gileadi ⟨את⟩ oyo Bafilisiti basalaki na Shaul.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "bayokaki"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "likolo na yango"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "bato ya"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Yavesh"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gileadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oyo Bafilisiti basalaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "basalaki"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Bafilisiti"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "na Shaul"
+    }
+  ],
+  "timestamp": "2026-09-03T18:25:56.865025214Z",
+  "model": "glm-5.3"
+}

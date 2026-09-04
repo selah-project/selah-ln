@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 10:11",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Te, ndenge wana te; bokende, na boboto, bino mibali, mpe bobondela ⟨את⟩ Yawe, mpo ete ⟨את⟩ yango nde bino bolukaka. Mpe Parao atiaki ⟨את⟩ bango na ⟨את⟩ liboso ya Parao.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ndenge wana"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "bokende"
+    },
+    {
+      "surface": "נא",
+      "gloss": "na boboto"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "bino mibali"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "mpe bobondela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "yango"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "bino"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "bolukaka"
+    },
+    {
+      "surface": "ויגרש",
+      "gloss": "Mpe Parao atiaki"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bango"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "na ⟨את⟩"
+    },
+    {
+      "surface": "פני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    }
+  ],
+  "timestamp": "2026-09-03T16:18:55.440215662Z",
+  "model": "glm-5.3"
+}

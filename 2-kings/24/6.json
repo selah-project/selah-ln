@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 24:6",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "Mpe Yehoyakim alalaki elongo na batata na ye, mpe Yehoyakin mwana na ye akokanaki bokonzi na esika na ye.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "alalaki"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Yehoyakim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "elongo na"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "batata na ye"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "akokanaki bokonzi"
+    },
+    {
+      "surface": "יהויכין",
+      "gloss": "Yehoyakin"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana na ye"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "na esika na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T19:12:38.312585478Z",
+  "model": "glm-5.3"
+}

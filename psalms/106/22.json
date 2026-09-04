@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 106:22",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 106,
+  "translation": "makasi ya kokamwa na mabele ya Ham, biloko ya bobangi likolo ya mai ya Suf.",
+  "tokens": [
+    {
+      "surface": "נפלאות",
+      "gloss": "makasi ya kokamwa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ya Ham"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "biloko ya bobangi"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "ים",
+      "gloss": "mai"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "ya Suf"
+    }
+  ],
+  "timestamp": "2026-09-03T21:27:24.773682047Z",
+  "model": "glm-5.3"
+}

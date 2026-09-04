@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 23:25",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Balak alobaki na Bilam: ata koloba mabe te na yango; ata koloba malamu te na yango.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ata"
+    },
+    {
+      "surface": "קב",
+      "gloss": "koloba mabe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תקבנו",
+      "gloss": "okoloba mabe yango"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ata"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "koloba malamu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תברכנו",
+      "gloss": "okoloba malamu yango"
+    }
+  ],
+  "timestamp": "2026-09-03T17:14:32.721663950Z",
+  "model": "glm-5.3"
+}

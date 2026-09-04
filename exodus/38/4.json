@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 38:4",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 38,
+  "translation": "Mpe asalaki mpo na etanda mondele ya nkasa, mosala ya nsaka, na nse ya litamboli na yango, na nse tee na katikati na yango.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Mpe asalaki"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "mpo na etanda"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "mondele"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "mosala"
+    },
+    {
+      "surface": "רשת",
+      "gloss": "ya nsaka"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "nkasa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "na nse ya"
+    },
+    {
+      "surface": "כרכבו",
+      "gloss": "litamboli na yango"
+    },
+    {
+      "surface": "מלמטה",
+      "gloss": "na nse"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tee na"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "katikati na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:37:18.190367983Z",
+  "model": "glm-5.3"
+}

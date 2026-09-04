@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 16:28",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Mpe Yawe alobaki na Moshe: Tii lobiko nini bokangi mpo na kobatela mibeko na ngai mpe Tora na ngai?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tii"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "lobiko nini"
+    },
+    {
+      "surface": "מאנתם",
+      "gloss": "bokangi"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "mpo na kobatela"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "mibeko na ngai"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "mpe Tora na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T16:21:49.962656287Z",
+  "model": "glm-5.3"
+}

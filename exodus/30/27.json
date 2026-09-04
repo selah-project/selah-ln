@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 30:27",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 30,
+  "translation": "Mpe ⟨את⟩ mesa mpe ⟨את⟩ biloko bya yango nyonso, mpe ⟨את⟩ menora mpe ⟨את⟩ biloko na yango, mpe ⟨את⟩ autelo ya nuki.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Mpe ⟨את⟩",
+      "marks": "mesa"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "mesa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "biloko bya yango nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "biloko bya yango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "menora"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "menora"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "biloko na yango"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "biloko na yango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "autelo ya nuki"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "autelo"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "ya nuki"
+    }
+  ],
+  "timestamp": "2026-09-03T16:31:05.630359084Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 59:3",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 59,
+  "translation": "Mpo mbeto na bino etyaki mabe na makila, mpe minzete na bino na makama; milomo na bino elobaki lokuta, mpe monoko na bino esololaka mabe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "כפיכם",
+      "gloss": "mbeto na bino"
+    },
+    {
+      "surface": "נגאלו",
+      "gloss": "etyaki mabe"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "na makila"
+    },
+    {
+      "surface": "ואצבעותיכם",
+      "gloss": "mpe minzete na bino"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "na makama"
+    },
+    {
+      "surface": "שפתותיכם",
+      "gloss": "milomo na bino"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "elobaki"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lokuta"
+    },
+    {
+      "surface": "לשונכם",
+      "gloss": "monoko na bino"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "esololaka"
+    }
+  ],
+  "timestamp": "2026-09-03T19:38:14.173760867Z",
+  "model": "glm-5.3"
+}

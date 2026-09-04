@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 2:11",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe mikolo oyo David azalaki mokonzi likolo ya Israel ezalaki mbula ntuku minei: na Hevron azalaki mokonzi mbula sambo, mpe na Yerushalaim azalaki mokonzi mbula ntuku misato na misato.",
+  "tokens": [
+    {
+      "surface": "והימים",
+      "gloss": "mpe mikolo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "azalaki mokonzi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ntuku minei"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mbula"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "na Hevron"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "azalaki mokonzi"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sambo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mbula"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "mpe na Yerushalaim"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "azalaki mokonzi"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ntuku misato"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "mpe misato"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mbula"
+    }
+  ],
+  "timestamp": "2026-09-03T18:42:50.121406788Z",
+  "model": "glm-5.3"
+}

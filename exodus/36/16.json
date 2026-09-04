@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 36:16",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 36,
+  "translation": "Mpe akangisaki ⟨את⟩ minsonga mitano yango moko, mpe ⟨את⟩ minsonga motoba yango moko.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "mpe akangisaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minsonga mitano"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "mitano"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "minsonga"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "yango moko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "minsonga motoba"
+    },
+    {
+      "surface": "שש",
+      "gloss": "motoba"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "minsonga"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "yango moko"
+    }
+  ],
+  "timestamp": "2026-09-03T16:36:50.598913340Z",
+  "model": "glm-5.3"
+}

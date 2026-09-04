@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 8:5",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe Yawe alobaki epai ya Moshe, koloba ete:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "koloba ete:"
+    }
+  ],
+  "timestamp": "2026-09-04T00:17:53.013036525Z",
+  "model": "glm-5.3"
+}

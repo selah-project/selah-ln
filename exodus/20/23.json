@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 20:23",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 20,
+  "translation": "Bokosala te ⟨את⟩ elongo na ngai banzambe ya finsa, mpe banzambe ya or bokosala te mpo na bino.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "bokosala"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ elongo na ngai"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "banzambe"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ya finsa"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "mpe banzambe"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ya or"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "bokosala"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mpo na bino"
+    }
+  ],
+  "timestamp": "2026-09-03T16:23:27.098272212Z",
+  "model": "glm-5.3"
+}

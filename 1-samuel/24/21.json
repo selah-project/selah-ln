@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 24:21",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "Mpe sikoyo, tala, nayebi ete okokonza ⟨ya solo⟩ okokonza, mpe bokonzi ya Israel ekotelema na maboko na yo.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Mpe sikoyo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tala"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "nayebi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "okonza"
+    },
+    {
+      "surface": "תמלוך",
+      "gloss": "okokonza"
+    },
+    {
+      "surface": "וקמה",
+      "gloss": "mpe ekotelema"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "na maboko na yo"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "bokonzi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-03T18:20:25.806583307Z",
+  "model": "glm-5.3"
+}

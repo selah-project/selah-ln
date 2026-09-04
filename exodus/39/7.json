@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 39:7",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 39,
+  "translation": "Mpe atyaki ⟨את⟩ bango na mapapa ya efode, mabanga ya bokundoli mpo na bana ya Israel, ndenge Yawe atindaki ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "Mpe atyaki"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bango",
+      "marks": "bango (mabanga ya Shoham)"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "mapapa ya"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efode"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "mabanga ya"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "bokundoli"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "mpo na bana ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ndenge"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "atindaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-03T16:37:26.305100674Z",
+  "model": "glm-5.3"
+}

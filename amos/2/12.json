@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 2:12",
+  "book": "amos",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe bopesaki komela ⟨את⟩ banaziri vino, mpe epai ya banavi bopesaki bango mibeko, na koloba: te bosala bonavi.",
+  "tokens": [
+    {
+      "surface": "ותשקו",
+      "gloss": "bopesaki komela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "banaziri"
+    },
+    {
+      "surface": "הנזרים",
+      "gloss": "banaziri"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vino"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "mpe epai ya"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "banavi"
+    },
+    {
+      "surface": "צויתם",
+      "gloss": "bopesaki bango mibeko"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na koloba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תנבאו",
+      "gloss": "bosala bonavi"
+    }
+  ],
+  "timestamp": "2026-09-03T20:41:54.645377217Z",
+  "model": "glm-5.3"
+}

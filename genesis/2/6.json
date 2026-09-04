@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 2:6",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe ed azeukaki kuna mabele, mpe esakisaki ⟨את⟩ elongo nyonso ya mabele.",
+  "tokens": [
+    {
+      "surface": "ואד",
+      "gloss": "mpe ed"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "azeukaki"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "והשקה",
+      "gloss": "mpe esakisaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elongo nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "elongo nyonso"
+    },
+    {
+      "surface": "פני",
+      "gloss": "elongo"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ya mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T15:44:42.997063525Z",
+  "model": "glm-5.3"
+}

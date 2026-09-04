@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 24:1",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "Talá, Yawe aviraki mabele mpe aviraki yango, abugaki elongi na yango, mpe asakasaki bafandi na yango.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Talá"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בוקק",
+      "gloss": "aviraki"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "ובולקה",
+      "gloss": "mpe aviraki yango"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "abugaki"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "elongi na yango"
+    },
+    {
+      "surface": "והפיץ",
+      "gloss": "mpe asakasaki"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "bafandi na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T19:23:15.785661533Z",
+  "model": "glm-5.3"
+}

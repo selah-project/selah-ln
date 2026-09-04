@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 20:5",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 20,
+  "translation": "Okokumisa te bango, mpe okosalela bango te; mpo ngai nazali Yawe Elohim na yo, El ya enyi, apunisaka mabe ya batata epai ya bana, epai ya mbala misato mpe epai ya mbala minei, epai ya baye baboyi ngai.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "okokumisa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bango"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "תעבדם",
+      "gloss": "okosalela bango"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim na yo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "ya enyi"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "apunisaka"
+    },
+    {
+      "surface": "עון",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "אבת",
+      "gloss": "ya batata"
+    },
+    {
+      "surface": "על",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bana"
+    },
+    {
+      "surface": "על",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ya mbala misato"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "mpe epai ya"
+    },
+    {
+      "surface": "רבעים",
+      "gloss": "ya mbala minei"
+    },
+    {
+      "surface": "לשנאי",
+      "gloss": "epai ya baye baboyi ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T16:22:04.264341009Z",
+  "model": "glm-5.3"
+}

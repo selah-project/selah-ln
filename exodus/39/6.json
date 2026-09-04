@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 39:6",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 39,
+  "translation": "Mpe basalaki ⟨את⟩ mabanga ya Shoham, oyo etiami na bisangisi ya Zahav, oyo ebimisami na bopitutoli ya sinyeti, na bankombo ya bana ya Israel.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Mpe basalaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabanga ya Shoham"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "mabanga ya"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "Shoham"
+    },
+    {
+      "surface": "מסבת",
+      "gloss": "oyo etiami"
+    },
+    {
+      "surface": "משבצת",
+      "gloss": "na bisangisi ya"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "Zahav"
+    },
+    {
+      "surface": "מפתחת",
+      "gloss": "oyo ebimisami"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "na bopitutoli ya"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "sinyeti"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "bankombo ya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-03T16:37:26.304930806Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 1:27",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe Elohim akelaki ⟨את⟩ moto na elilingi na ye; na elilingi ya Elohim akelaki ⟨את⟩ ye; mobali mpe mwasi akelaki ⟨את⟩ bango.",
+  "tokens": [
+    {
+      "surface": "ויברא",
+      "gloss": "Mpe akelaki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moto"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "moto"
+    },
+    {
+      "surface": "בצלמו",
+      "gloss": "na elilingi na ye"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "na elilingi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "akelaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ye"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mobali"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "mpe mwasi"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "akelaki"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bango"
+    }
+  ],
+  "timestamp": "2026-09-03T15:44:12.564948589Z",
+  "model": "glm-5.3"
+}

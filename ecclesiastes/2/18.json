@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 2:18",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe nayeki, ngai moko, ⟨את⟩ mosala na ngai nyonso oyo nazalaki kosala na nsé ya moi, mpo natikaki yango epai ya moto oyo akozala sima na ngai.",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "Mpe nayeki"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai moko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mosala na ngai nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "mosala na ngai"
+    },
+    {
+      "surface": "שאני",
+      "gloss": "oyo nazalaki"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "kosala"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "na nsé ya"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "moi"
+    },
+    {
+      "surface": "שאניחנו",
+      "gloss": "mpo natikaki yango"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "epai ya moto"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "akozala"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sima na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T22:13:32.637670008Z",
+  "model": "glm-5.3"
+}

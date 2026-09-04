@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 115:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 115,
+  "translation": "Mpe Elohim na biso azali na likolo; nyonso oyo alingi asali ⟨yo⟩.",
+  "tokens": [
+    {
+      "surface": "ואלהינו",
+      "gloss": "Mpe Elohim na biso"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "na likolo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "alingi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "asali"
+    }
+  ],
+  "timestamp": "2026-09-03T21:29:51.624987877Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 37:8",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 37,
+  "translation": "Mpe Ravshake azongaki, mpe amonaki ⟨את⟩ mokonzi wa Ashur azalaki kobunda na Libna, mpo amonaki ete abandaki kokende depa na Lakhish.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "azongaki"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Rav"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "shake"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "amonaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mokonzi wa Ashur"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "wa Ashur"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "azalaki kobunda"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Libna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "amonaki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "abandaki kokende"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "depa na Lakhish"
+    }
+  ],
+  "timestamp": "2026-09-03T19:27:59.798020241Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 1:9",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe Elohim alobaki: bokangama, mai, na nse ya likolo, na esika moko, mpe emonane mabele ya demo; mpe ekamwaki bongo.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": ""
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יקוו",
+      "gloss": "bokangama"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mai"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "na nse ya"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "likolo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "esika"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "moko"
+    },
+    {
+      "surface": "ותראה",
+      "gloss": "mpe emonane"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "mabele ya demo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mpe ekamwaki"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bongo"
+    }
+  ],
+  "timestamp": "2026-09-03T15:44:00.641014661Z",
+  "model": "glm-5.3"
+}

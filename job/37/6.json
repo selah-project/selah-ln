@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 37:6",
+  "book": "job",
+  "lang": "ln",
+  "chapter": 37,
+  "translation": "Mpo alobi na mwela: Bí ⟨na⟩ mabele; mpe nbela ya mbula, mpe nbela ya mbula ya nguya na ye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "לשלג",
+      "gloss": "na mwela"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "alobi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Bí"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "mpe nbela"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "ya mbula"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "mpe nbela"
+    },
+    {
+      "surface": "מטרות",
+      "gloss": "ya mbula"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "ya nguya na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T22:03:16.731123792Z",
+  "model": "glm-5.3"
+}

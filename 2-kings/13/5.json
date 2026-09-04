@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 13:5",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Mpe Yawe apeiaki na Israel mosengoli, mpe babimaki na nse ya loboko ya Aram, mpe bana ya Israel bakatifaki na matente na bango, lokola lobi mpe liboso liboso.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "apeiaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "na Israel"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "mosengoli"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "mpe babimaki"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "na nse"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ya loboko"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ya Aram"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "mpe bakatifaki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "na matente na bango"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "lokola lobi"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "mpe liboso liboso"
+    }
+  ],
+  "timestamp": "2026-09-03T19:06:17.633295645Z",
+  "model": "glm-5.3"
+}

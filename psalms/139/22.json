@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 139:22",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 139,
+  "translation": "Na bosweli ya nsuka naswelaki bango; bawani bakomaki na ngai.",
+  "tokens": [
+    {
+      "surface": "תכלית",
+      "gloss": "ya nsuka"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "bosweli"
+    },
+    {
+      "surface": "שנאתים",
+      "gloss": "naswelaki bango"
+    },
+    {
+      "surface": "לאויבים",
+      "gloss": "bawani"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bakomaki"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:35:06.116427865Z",
+  "model": "glm-5.3"
+}

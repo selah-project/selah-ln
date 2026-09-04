@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "2-kings 17:39",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 17,
+  "translation": "Kasi Yawe Elohim na bino nde bobanga ⟨את⟩; mpe ye akolongola ⟨את⟩ bino na maboko ya banguna na bino nyonso.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kasi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim na bino"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "bobanga"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "mpe ye"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "akolongola"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "bino"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "na maboko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "ya banguna na bino"
+    }
+  ],
+  "timestamp": "2026-09-03T19:06:58.425614971Z",
+  "model": "glm-5.3"
+}

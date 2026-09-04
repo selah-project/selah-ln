@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 8:15",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe na nsima ya yango Baliwi bakoya kosala ⟨את⟩ Ete ya Bokutani, mpe opetolaki bango, mpe onukaki bango lokola tunufe.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "mpe na nsima"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ya yango"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "bakoya"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Baliwi"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "kosala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ete"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ete"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Bokutani"
+    },
+    {
+      "surface": "וטהרת",
+      "gloss": "mpe opetolaki"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bango",
+      "marks": "onukaki"
+    },
+    {
+      "surface": "והנפת",
+      "gloss": "mpe onukaki"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bango",
+      "marks": "tunufe"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "tunufe"
+    }
+  ],
+  "timestamp": "2026-09-03T17:05:30.617207641Z",
+  "model": "glm-5.3"
+}

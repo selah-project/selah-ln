@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 19:15",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Mpe Shaul atindaki ⟨את⟩ batindami mpo na komona ⟨את⟩ David, na koloba ete: Bimisa ⟨את⟩ ye na kitanda, epai na ngai, mpo na koboma ye.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "mpe atindaki"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "batindami"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "batindami"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "mpo na komona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na koloba ete"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "bimisa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ye",
+      "marks": "ye"
+    },
+    {
+      "surface": "במטה",
+      "gloss": "na kitanda"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "epai na ngai"
+    },
+    {
+      "surface": "להמתו",
+      "gloss": "mpo na koboma ye"
+    }
+  ],
+  "timestamp": "2026-09-03T18:19:03.892850630Z",
+  "model": "glm-5.3"
+}

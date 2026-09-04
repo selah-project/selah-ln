@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 21:1",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "⟨David⟩ atombaki mpe akendaki, mpe Yahonatan ayaki na engumba.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "atombaki"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "akendaki"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "mpe Yahonatan"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ayaki"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "engumba"
+    }
+  ],
+  "timestamp": "2026-09-03T18:20:44.536262919Z",
+  "model": "glm-5.3"
+}

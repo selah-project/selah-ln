@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 26:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "Mpo na komonisa mongongo ya matondo, mpe mpo na koloba bonso makambo ya kokamwa na yo.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "mpo na komonisa koyokamaka"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "mongongo"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "ya matondo"
+    },
+    {
+      "surface": "ולספר",
+      "gloss": "mpe mpo na koloba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonso"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "makambo ya kokamwa na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:05:56.399214795Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "leviticus 13:54",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "mpe kohen atindaki, mpe balombaki ⟨את⟩ oyo nega ezali na yango, mpe bakangaki yango sambo ya mikolo, mbala ya mibale.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "mpe atindaki"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "mpe balombaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oyo nega ezali na yango"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "nega"
+    },
+    {
+      "surface": "והסגירו",
+      "gloss": "mpe bakangaki yango"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sambo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ya mikolo"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "mbala ya mibale"
+    }
+  ],
+  "timestamp": "2026-09-03T16:48:22.797768952Z",
+  "model": "glm-5.3"
+}

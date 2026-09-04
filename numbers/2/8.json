@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 2:8",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "mpe mampinga na yango, mpe babinami na yango: sambo mpe ntuku mitano nkoto, mpe nkama minei.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "mpe mampinga na yango"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "mpe babinami na yango"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "sambo"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "mpe ntuku mitano"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "nkoto"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "mpe minei"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "nkama"
+    }
+  ],
+  "timestamp": "2026-09-03T16:58:53.482999557Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 143:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 143,
+  "translation": "Lihanga, yanisa ngai, Yawe; mpema na ngai esili ⟨esili⟩. Kabola te elongi na yo na ngai, ⟨soki te⟩ mpe nakokanana elongo na bakei na bomu.",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "Lihanga"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "yanisa ngai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "esili"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "mpema na ngai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "Kabola"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "elongi na yo"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "mpe nakokanana"
+    },
+    {
+      "surface": "עם",
+      "gloss": "elongo na"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "bakei"
+    },
+    {
+      "surface": "בור",
+      "gloss": "na bomu"
+    }
+  ],
+  "timestamp": "2026-09-03T21:35:40.563735949Z",
+  "model": "glm-5.3"
+}

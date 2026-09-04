@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 19:9",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Mpe tango bokata ⟨את⟩ mboto ya mabele na bino, bokokisa nsuka ya ngambo ya elanga na yo te, mpe oyo etukami ya mboto na yo bokokota yango te.",
+  "tokens": [
+    {
+      "surface": "ובקצרכם",
+      "gloss": "mpe tango bokata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mboto ya mabele na bino"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "mboto"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "ya mabele na bino"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "bokokisa nsuku ya"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "ngambo"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "ya elanga na yo"
+    },
+    {
+      "surface": "לקצר",
+      "gloss": "kokata"
+    },
+    {
+      "surface": "ולקט",
+      "gloss": "mpe oyo etukami"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "ya mboto na yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "bokokota"
+    }
+  ],
+  "timestamp": "2026-09-03T16:49:56.570572264Z",
+  "model": "glm-5.3"
+}

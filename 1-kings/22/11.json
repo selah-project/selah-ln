@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 22:11",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Mpe Tsidkiya mwana ya Kenacana asalaki na ye mapanga ya fefe mpe alobaki: Ndenge oyo Yawe alobaki: Na oyo okopeka ⟨את⟩ Aram kino bakosila.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "asalaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "צדקיה",
+      "gloss": "Tsidkiya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "כנענה",
+      "gloss": "Kenacana"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "mapanga"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "fefe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ndenge oyo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "na oyo"
+    },
+    {
+      "surface": "תנגח",
+      "gloss": "okopeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "כלתם",
+      "gloss": "bakosila"
+    }
+  ],
+  "timestamp": "2026-09-03T18:58:02.454503553Z",
+  "model": "glm-5.3"
+}

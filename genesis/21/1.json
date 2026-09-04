@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 21:1",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Yawe amonaki ⟨את⟩ Sarah ndenge alobaki, mpe Yawe asalaki Sarah ndenge alobelaki.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "mpe Yawe"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "amonaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sarah"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ndenge"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "mpe asalaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ndenge"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "alobelaki"
+    }
+  ],
+  "timestamp": "2026-09-03T23:12:14.977450201Z",
+  "model": "glm-5.3"
+}

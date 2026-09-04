@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 7:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Talamu, Yawe, na colere na yo; monana likolo na bosoto ya banguna na ngai; mpe sungula epai na ngai: bosolo oteiaki ⟨⟨longa na ngai⟩⟩.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Talamu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "na colere na yo"
+    },
+    {
+      "surface": "הנשא",
+      "gloss": "monana likolo"
+    },
+    {
+      "surface": "בעברות",
+      "gloss": "na bosoto ya"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "banguna na ngai"
+    },
+    {
+      "surface": "ועורה",
+      "gloss": "mpe sungula"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "epai na ngai"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "bosolo"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "oteiaki"
+    }
+  ],
+  "timestamp": "2026-09-03T21:00:41.151513868Z",
+  "model": "glm-5.3"
+}

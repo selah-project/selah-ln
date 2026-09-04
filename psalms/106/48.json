@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 106:48",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 106,
+  "translation": "Yawe, Elohim ya Israel, azali na lokumu, uta molai tii molai; mpe bato nyonso bakoloba: Amen. Lumbisa Ya!",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "azali na lokumu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uta"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "molai"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "mpe tii"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "molai"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "mpe bakoloba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Lumbisa"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    }
+  ],
+  "timestamp": "2026-09-03T21:28:19.801932229Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 65,
+  "translation": "Ya mokambi ya miziki — nzembo ya David, embomba.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ya mokambi ya miziki"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "nzembo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya David"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "embomba"
+    }
+  ],
+  "timestamp": "2026-09-03T21:16:02.395591107Z",
+  "model": "glm-5.3"
+}

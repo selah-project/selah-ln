@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 50:8",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 50,
+  "translation": "Mpe ndako nyonso ya Yosefe, mpe bandeko na ye, mpe ndako ya tata na ye; kaka bana na bango mpe bitabu na bango mpe ngombe na bango batikaki na mabele ya Goshen.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "mpe nyonso"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "mpe bandeko na ye"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "mpe ndako"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ya tata na ye"
+    },
+    {
+      "surface": "רק",
+      "gloss": "kaka"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "bana na bango"
+    },
+    {
+      "surface": "וצאנם",
+      "gloss": "mpe bitabu na bango"
+    },
+    {
+      "surface": "ובקרם",
+      "gloss": "mpe ngombe na bango"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "batikaki"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "Goshen"
+    }
+  ],
+  "timestamp": "2026-09-03T16:13:04.220217404Z",
+  "model": "glm-5.3"
+}

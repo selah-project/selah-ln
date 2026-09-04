@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 29:28",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 29,
+  "translation": "Mpe Yaakov asalaki bongo, mpe akalisaki poso oyo; mpe apei epai na ye ⟨את⟩ Rahel mwana na ye ya mwasi, epai na ye mpo na mwasi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "mpe asalaki"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bongo"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "mpe akalisaki"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "poso"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "mpe apei"
+    },
+    {
+      "surface": "לו",
+      "gloss": "epai na ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rahel"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rahel"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "mwana na ye ya mwasi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "epai na ye"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "mpo na mwasi"
+    }
+  ],
+  "timestamp": "2026-09-03T15:59:21.192735845Z",
+  "model": "glm-5.3"
+}

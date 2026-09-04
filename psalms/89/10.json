@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 89:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 89,
+  "translation": "Yo ozali kokonza bobele ya mbu; ntango makubu na yango elemisami, yo obulisaka yango.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "ozali kokonza"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "bobele"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ya mbu"
+    },
+    {
+      "surface": "בשוא",
+      "gloss": "ntango...elemisami"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "makubu na yango"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "תשבחם",
+      "gloss": "obulisaka yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:22:34.422463293Z",
+  "model": "glm-5.3"
+}

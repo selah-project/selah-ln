@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 10:26",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Mpe Yakotan abotaki ⟨את⟩ Almodad, mpe ⟨את⟩ Shelef, mpe ⟨את⟩ Hatsarmavet, mpe ⟨את⟩ Yarah.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "Mpe Yakotan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "abotaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Almodad"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "Almodad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Shelef"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "Shelef"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Hatsarmavet"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "Hatsarmavet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Yarah"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "Yarah"
+    }
+  ],
+  "timestamp": "2026-09-03T15:48:46.952725092Z",
+  "model": "glm-5.3"
+}

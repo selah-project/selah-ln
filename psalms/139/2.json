@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 139:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 139,
+  "translation": "Yo oyaki bopemi na ngai mpe botombwi na ngai; obongisaki makanisi na ngai mosika.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Yo"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "oyaki"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "bopemi na ngai"
+    },
+    {
+      "surface": "וקומי",
+      "gloss": "mpe botombwi na ngai"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "obongisaki"
+    },
+    {
+      "surface": "לרעי",
+      "gloss": "makanisi na ngai"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "mosika"
+    }
+  ],
+  "timestamp": "2026-09-03T21:34:46.478940136Z",
+  "model": "glm-5.3"
+}

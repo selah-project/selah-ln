@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 6:4",
+  "book": "micah",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpo natombolaki yo uta na mabele ya Mitsraim, mpe na ndako ya bawe nabolaki yo, mpe natindaki liboso na yo ⟨את⟩ Moshe, Aharon, mpe Miriam.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "העלתיך",
+      "gloss": "natombolaki yo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "uta na mabele ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "mpe na ndako ya"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "bawe"
+    },
+    {
+      "surface": "פדיתיך",
+      "gloss": "nabolaki yo"
+    },
+    {
+      "surface": "ואשלח",
+      "gloss": "mpe natindaki"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "liboso na yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "mpe Miriam"
+    }
+  ],
+  "timestamp": "2026-09-03T20:50:55.583475100Z",
+  "model": "glm-5.3"
+}

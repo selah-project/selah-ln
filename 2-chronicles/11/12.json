@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 11:12",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpe na mboka nyonso mpe mboka ⟨ezalaki na⟩ bilibeke mpe mansongo, mpe amatisaki makasi bikei mingi penza, mpe Yehuda mpe Binyamin ekokaki na ye.",
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "mpe na ... nyonso"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mboka"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "mpe mboka"
+    },
+    {
+      "surface": "צנות",
+      "gloss": "bilibeke"
+    },
+    {
+      "surface": "ורמחים",
+      "gloss": "mpe mansongo"
+    },
+    {
+      "surface": "ויחזקם",
+      "gloss": "amatisaki makasi"
+    },
+    {
+      "surface": "להרבה",
+      "gloss": "bikei mingi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "penza"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ekokaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "mpe Binyamin"
+    }
+  ],
+  "timestamp": "2026-09-03T22:56:44.843657369Z",
+  "model": "glm-5.3"
+}

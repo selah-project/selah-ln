@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 30:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 30,
+  "translation": "Epai na Yawe nakolaki, mpe epai na Adonai nasengaki ngolu.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "epai na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "nakolaki"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mpe epai na"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "nasengaki ngolu"
+    }
+  ],
+  "timestamp": "2026-09-03T21:05:56.449163160Z",
+  "model": "glm-5.3"
+}

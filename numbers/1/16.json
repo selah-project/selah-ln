@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 1:16",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Bango nde bantu oyo bakangamaki na lisanga, bankulutu ya mabota ya ba tata na bango, bango nde mituya ya bamiliare ya Israel.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Bango nde bantu oyo"
+    },
+    {
+      "surface": "קריאי",
+      "gloss": "bakangamaki"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "na lisanga"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "bankulutu ya"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "mabota"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "ya ba tata na bango"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "mitunya ya"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "bamiliare"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "הם",
+      "gloss": "bango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:56:59.127110018Z",
+  "model": "glm-5.3"
+}

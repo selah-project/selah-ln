@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 12:8",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Na ngomba mpe na mabele ya seko mpe na araba mpe na matafari ya mabanga mpe na zando mpe na sud: bahiti, baemori mpe bakenaani, bapirizi, bahivi mpe bayevusi.",
+  "tokens": [
+    {
+      "surface": "בהר",
+      "gloss": "na ngomba"
+    },
+    {
+      "surface": "ובשפלה",
+      "gloss": "mpe na mabele ya seko"
+    },
+    {
+      "surface": "ובערבה",
+      "gloss": "mpe na araba"
+    },
+    {
+      "surface": "ובאשדות",
+      "gloss": "mpe na matafari ya mabanga"
+    },
+    {
+      "surface": "ובמדבר",
+      "gloss": "mpe na zando"
+    },
+    {
+      "surface": "ובנגב",
+      "gloss": "mpe na sud"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "bahiti"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "baemori"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "mpe bakenaani"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "bapirizi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "bahivi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "mpe bayevusi"
+    }
+  ],
+  "timestamp": "2026-09-03T17:49:19.149953051Z",
+  "model": "glm-5.3"
+}

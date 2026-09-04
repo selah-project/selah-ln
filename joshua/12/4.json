@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 12:4",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Mpe ndelo ya Og, mokonzi ya Bashan, uta na bozui ya Barefaim, oyo azalaki kofanda na Ahtarot mpe na Edrei.",
+  "tokens": [
+    {
+      "surface": "וגבול",
+      "gloss": "Mpe ndelo"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "ya Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "ya Bashan"
+    },
+    {
+      "surface": "מיתר",
+      "gloss": "uta na bozui"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "ya Barefaim"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "oyo azalaki kofanda"
+    },
+    {
+      "surface": "בעשתרות",
+      "gloss": "na Ahtarot"
+    },
+    {
+      "surface": "ובאדרעי",
+      "gloss": "mpe na Edrei"
+    }
+  ],
+  "timestamp": "2026-09-03T17:49:36.421468138Z",
+  "model": "glm-5.3"
+}

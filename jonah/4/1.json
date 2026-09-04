@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 4:1",
+  "book": "jonah",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mabe makasi ekweyaki na Yona — mabe monene — mpe moto ya likanisi ecataki na ye penza.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "ekweyaki mabe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yona"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "monene"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "mpe moto ya likanisi ecataki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye penza"
+    }
+  ],
+  "timestamp": "2026-09-03T20:47:30.443730813Z",
+  "model": "glm-5.3"
+}

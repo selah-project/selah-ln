@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 28:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 28,
+  "translation": "Yawe ⟨azali⟩ nguya na ngai mpe litako na ngai; na yango motema na ngai kondimaki, mpe nasungamaki; motema na ngai esanganaki, mpe na nzembo na ngai natondo yango.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "nguya na ngai"
+    },
+    {
+      "surface": "ומגני",
+      "gloss": "mpe litako na ngai"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "kondimaki"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "motema na ngai"
+    },
+    {
+      "surface": "ונעזרתי",
+      "gloss": "mpe nasungamaki"
+    },
+    {
+      "surface": "ויעלז",
+      "gloss": "esanganaki"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "motema na ngai"
+    },
+    {
+      "surface": "ומשירי",
+      "gloss": "mpe na nzembo na ngai"
+    },
+    {
+      "surface": "אהודנו",
+      "gloss": "natondo yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:06:24.402486102Z",
+  "model": "glm-5.3"
+}

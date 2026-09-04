@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 3:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Na kolia na ngai nabengaki epai ya Yawe, mpe anakisaki ngai uta na ngomba ya nsantu na ye. Selah.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "kolia na ngai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "nabengaki"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "mpe anakisaki ngai"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "utura na ngomba"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ya nsantu na ye"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-03T23:33:23.079238284Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 34:5",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 34,
+  "translation": "Moshe, mosali wa Yawe, akufaki kuna na mabele ya Moab, na monoko wa Yawe.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "akufaki"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "mosali"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ya Moab"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "פי",
+      "gloss": "monoko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T17:42:15.136217535Z",
+  "model": "glm-5.3"
+}

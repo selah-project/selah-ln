@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 30:13",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 30,
+  "translation": "Mpo na nkembo na ngai koyemba yo kanzela mpe kobomba te: Yawe Elohim na ngai, na seko nakokumbela yo.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "mpo na"
+    },
+    {
+      "surface": "יזמרך",
+      "gloss": "koyemba yo kanzela"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "nkembo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "kobomba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim na ngai"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na seko"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "nakokumbela yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:05:16.664791486Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 4:3",
+  "book": "jonah",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe sikoyo, Yawe, kamba, nasengi yo, ⟨את⟩ molimo na ngai kati na ngai; mpo malamu liwa na ngai koleka bomoi na ngai.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "mpe sikoyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "קח",
+      "gloss": "kamba"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nasengi yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "molimo na ngai"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "molimo na ngai"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kati na ngai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "malamu"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "liwa na ngai"
+    },
+    {
+      "surface": "מחיי",
+      "gloss": "koleka bomoi na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T20:47:30.444380881Z",
+  "model": "glm-5.3"
+}

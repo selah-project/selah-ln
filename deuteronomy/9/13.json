@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 9:13",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Mpe Yawe alobaki epai na ngai, na koloba: Namoni ⟨את⟩ bato oyo, mpe talá, bato ya zongo makasi nde bango.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "epai na ngai"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na koloba"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "Namoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bato oyo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato oyo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mpe talá"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "ya makasi"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "zongo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nde bango"
+    }
+  ],
+  "timestamp": "2026-09-03T17:28:22.064499511Z",
+  "model": "glm-5.3"
+}

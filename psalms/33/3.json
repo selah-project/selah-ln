@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 33,
+  "translation": "Boyembaka Ye nzembo ya sika; bobeta malamu na mongongo monene.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Boyembaka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Ye"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "nzembo"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ya sika"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "malamu"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "bobeta"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "na mongongo monene"
+    }
+  ],
+  "timestamp": "2026-09-03T21:08:59.442102004Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 51:20",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 51,
+  "translation": "Bana na yo bapekisami, balalaki na likolo ya banzela nyonso, lokola nyau na lilanga; bajudi na likolofo ya Yawe, etumbi ya Elohim na yo.",
+  "tokens": [
+    {
+      "surface": "בניך",
+      "gloss": "Bana na yo"
+    },
+    {
+      "surface": "עלפו",
+      "gloss": "bapekisami"
+    },
+    {
+      "surface": "שכבו",
+      "gloss": "balalaki"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "na likolo ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "banzela"
+    },
+    {
+      "surface": "כתוא",
+      "gloss": "lokola nyau"
+    },
+    {
+      "surface": "מכמר",
+      "gloss": "na lilanga"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "bajudi na"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "likolofo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yawe"
+    },
+    {
+      "surface": "גערת",
+      "gloss": "etumbi"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ya Elohim na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T19:35:57.981746617Z",
+  "model": "glm-5.3"
+}

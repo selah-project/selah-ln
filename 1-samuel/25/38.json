@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-samuel 25:38",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Mpe na nsima ya mikolo zomi, Yawe akangaki ⟨את⟩ Nabal, mpe akufaki.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mpe na nsima ya"
+    },
+    {
+      "surface": "כעשרת",
+      "gloss": "zomi"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "mikolo"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "akangaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nabal"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabal"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "akufaki"
+    }
+  ],
+  "timestamp": "2026-09-03T18:23:25.643683050Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 4:28",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe Moshe ayebisaki Aharon ⟨את⟩ maloba nyonso ya Yawe oyo atindaki ye, mpe ⟨את⟩ bilembo nyonso oyo atesaki ye.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ayebisaki"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maloba nyonso ya Yawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "maloba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "atindaki ye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bilembo nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "bilembo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "atesaki ye"
+    }
+  ],
+  "timestamp": "2026-09-03T16:15:20.219169037Z",
+  "model": "glm-5.3"
+}

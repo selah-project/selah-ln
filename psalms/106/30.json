@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 106:30",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 106,
+  "translation": "Pinhas atelemaki mpe asalaki bosolo, mpe bolwadi etiamaki.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "atelemaki"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinhas"
+    },
+    {
+      "surface": "ויפלל",
+      "gloss": "asalaki bosolo"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "etiamaki"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "bolwadi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:28:06.077947010Z",
+  "model": "glm-5.3"
+}

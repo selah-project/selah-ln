@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 15:6",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 15,
+  "translation": "Mpe ekolo babomaki na ekolo, mpe engumba na engumba, mpo Elohim abukaki bango na mawa nyonso.",
+  "tokens": [
+    {
+      "surface": "וכתתו",
+      "gloss": "Mpe babomaki"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ekolo"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "na ekolo"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "mpe engumba"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "na engumba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הממם",
+      "gloss": "abukaki bango"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "mawa nyonso"
+    }
+  ],
+  "timestamp": "2026-09-03T23:00:49.069963709Z",
+  "model": "glm-5.3"
+}

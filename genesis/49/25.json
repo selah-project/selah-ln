@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 49:25",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 49,
+  "translation": "Wuta na El ya tata na yo, asalisi yo, mpe ⟨את⟩ Shadai (Mozwi-ya-Nguya-Nyonso), abikaki yo na mapamboli ya likolo uta likolo, mapamboli ya tehom oyo ekangami nse, mapamboli ya matiti mpe ya libumu.",
+  "tokens": [
+    {
+      "surface": "מאל",
+      "gloss": "Wuta na El"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tata na yo"
+    },
+    {
+      "surface": "ויעזרך",
+      "gloss": "asalisi yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Shadai"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadai"
+    },
+    {
+      "surface": "ויברכך",
+      "gloss": "abikaki yo"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "na mapamboli ya"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "likolo"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "uta likolo"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "mapamboli ya"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "tehom"
+    },
+    {
+      "surface": "רבצת",
+      "gloss": "oyo ekangami"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "nse"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "mapamboli ya"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "matiti"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "mpe ya libumu"
+    }
+  ],
+  "timestamp": "2026-09-03T16:12:27.970654371Z",
+  "model": "glm-5.3"
+}

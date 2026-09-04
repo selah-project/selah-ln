@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 33:20",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 33,
+  "translation": "Mpe alobaki: Okoki te komona ⟨את⟩ elongi na yo... elongi na ngai, mpo moto akomona ngai te mpe kovanda na bomoi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "Okoki"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "komona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elongi na ngai"
+    },
+    {
+      "surface": "פני",
+      "gloss": "elongi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "akomona ngai"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "moto"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "mpe kovanda na bomoi"
+    }
+  ],
+  "timestamp": "2026-09-03T16:34:26.809561954Z",
+  "model": "glm-5.3"
+}

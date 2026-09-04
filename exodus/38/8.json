@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 38:8",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 38,
+  "translation": "Mpe asalaki ⟨את⟩ kyioro ya nkasa, mpe ⟨את⟩ kano na yango ya nkasa, na bilangi ya basi oyo bazalaki kosalela na mpaku ya Linda ya Kokutana.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Mpe asalaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kyioro"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "kyioro"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ya nkasa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "kano na yango"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ya nkasa"
+    },
+    {
+      "surface": "במראת",
+      "gloss": "na bilangi ya"
+    },
+    {
+      "surface": "הצבאת",
+      "gloss": "basi oyo bazalaki kosalela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "basalaki bomeseni"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "na mpaku ya"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Linda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya Kokutana"
+    }
+  ],
+  "timestamp": "2026-09-03T16:35:41.041758742Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 8:7",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe bino bokotombwana utoka na bobombi, mpe bokozwa ⟨את⟩ mboka; mpe Yawe Elohim na bino akopesa yango na maboko na bino.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "mpe bino"
+    },
+    {
+      "surface": "תקמו",
+      "gloss": "bokotombwana"
+    },
+    {
+      "surface": "מהאורב",
+      "gloss": "utoka na bobombi"
+    },
+    {
+      "surface": "והורשתם",
+      "gloss": "mpe bokozwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mboka"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mboka"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "mpe akopesa yango"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim na bino"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "na maboko na bino"
+    }
+  ],
+  "timestamp": "2026-09-03T17:46:48.096796060Z",
+  "model": "glm-5.3"
+}

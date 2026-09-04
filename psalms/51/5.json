@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 51:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 51,
+  "translation": "Mpo bokweyi na ngai ngai nayebi, mpe masumu na ngai ezali liboso na ngai ntango nyonso.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "bokweyi na ngai"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "nayebi"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "mpe masumu na ngai"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "liboso na ngai"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ntango nyonso"
+    }
+  ],
+  "timestamp": "2026-09-03T21:13:24.730149445Z",
+  "model": "glm-5.3"
+}

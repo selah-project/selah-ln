@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 49:18",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 49,
+  "translation": "Mpo ete na liwa na ye akozwa eloko nyonso te; nkembo na ye ekokita te na sima na ye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "במותו",
+      "gloss": "na liwa na ye"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "akozwa"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "eloko nyonso"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ekokita"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "na sima na ye"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "nkembo na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:11:58.783067785Z",
+  "model": "glm-5.3"
+}

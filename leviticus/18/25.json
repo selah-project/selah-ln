@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 18:25",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Mpe mabele emekaki, mpe natambolaki mabe na yango likolo na yango, mpe mabele ebotaki ⟨את⟩ bafandi na yango.",
+  "tokens": [
+    {
+      "surface": "ותטמא",
+      "gloss": "emekaki"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "ואפקד",
+      "gloss": "natambolaki"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "likolo na yango"
+    },
+    {
+      "surface": "ותקא",
+      "gloss": "ebotaki"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bafandi na yango"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "bafandi na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:49:08.640445374Z",
+  "model": "glm-5.3"
+}

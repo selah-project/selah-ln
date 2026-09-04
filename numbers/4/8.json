@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 4:8",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe bakopalasa na bango elambu ya kampa-moindo, mpe bakozipisa ⟨את⟩ yango na likonzoli ya lulenge ya tahoma, mpe bakotya ⟨את⟩ bankaka na yango.",
+  "tokens": [
+    {
+      "surface": "ופרשו",
+      "gloss": "mpe bakopalasa"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "elambu"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "kampa"
+    },
+    {
+      "surface": "שני",
+      "gloss": "moindo"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "mpe bakozipisa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yango",
+      "marks": "yango (mopan na mesa)"
+    },
+    {
+      "surface": "במכסה",
+      "gloss": "na likonzoli"
+    },
+    {
+      "surface": "עור",
+      "gloss": "lulenge"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "tahoma"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "mpe bakotya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bankaka na yango"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "bankaka na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T17:00:02.453416451Z",
+  "model": "glm-5.3"
+}

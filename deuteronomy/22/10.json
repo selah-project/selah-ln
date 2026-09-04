@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 22:10",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Kolima te na ndombe mpe na punda elongo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "Kolima"
+    },
+    {
+      "surface": "בשור",
+      "gloss": "na ndombe"
+    },
+    {
+      "surface": "ובחמר",
+      "gloss": "mpe na punda"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "elongo"
+    }
+  ],
+  "timestamp": "2026-09-03T23:18:19.327461848Z",
+  "model": "glm-5.3"
+}

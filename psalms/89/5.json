@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 89:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 89,
+  "translation": "Kino na libela nakolakisaka zara na yo, mpe nakotonga kiti ya bokonzi na yo, libota na libota. Selah.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Kino na"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "libela"
+    },
+    {
+      "surface": "אכין",
+      "gloss": "nakolakisaka"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "zara na yo"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "mpe nakotonga"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "libota"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "na libota"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "kiti ya bokonzi na yo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-03T21:22:41.669973222Z",
+  "model": "glm-5.3"
+}

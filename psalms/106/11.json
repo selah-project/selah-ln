@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 106:11",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 106,
+  "translation": "Mpe mai ebombaki banguna na bango; moko kati na bango etikalaki te.",
+  "tokens": [
+    {
+      "surface": "ויכסו",
+      "gloss": "Mpe ebombaki"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mai"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "banguna na bango"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "moko"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "kati na bango"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "etikalaki"
+    }
+  ],
+  "timestamp": "2026-09-03T21:27:49.159267613Z",
+  "model": "glm-5.3"
+}

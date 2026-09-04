@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 135:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 135,
+  "translation": "Nionso oyo Yawe alingaki, asalaki yango na likolo mpe na mabele, na mbuwa mpe na bibulu bya mai nyonso.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Nionso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "alingaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "asalaki"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "na likolo"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "mpe na mabele"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "na mbuwa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe na nyonso"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "bibulu bya mai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:34:01.902331946Z",
+  "model": "glm-5.3"
+}

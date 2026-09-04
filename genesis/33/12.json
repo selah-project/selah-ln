@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 33:12",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 33,
+  "translation": "Mpe alobaki: Bobanda, mpe totambola; mpe nakotambola liboso ya yo.",
+  "tokens": [
+    {
+      "surface": "וַיֹּאמֶר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "נִסְעָה",
+      "gloss": "Bobanda"
+    },
+    {
+      "surface": "וְנֵלֵכָה",
+      "gloss": "mpe totambola"
+    },
+    {
+      "surface": "וְאֵלְכָה",
+      "gloss": "nakotambola"
+    },
+    {
+      "surface": "לְנֶגְדֶּךָ",
+      "gloss": "liboso ya yo"
+    }
+  ],
+  "timestamp": "2026-09-03T16:02:06.486564478Z",
+  "model": "glm-5.3"
+}

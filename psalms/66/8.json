@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 66:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 66,
+  "translation": "Boto, boloba matondi na Elohim na biso, mpe boyokisa litolu ya lokumu na yango.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "boloba matondi"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "Boto"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "na Elohim na biso"
+    },
+    {
+      "surface": "והשמיעו",
+      "gloss": "mpe boyokisa"
+    },
+    {
+      "surface": "קול",
+      "gloss": "litolu"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "ya lokumu na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:15:59.743733406Z",
+  "model": "glm-5.3"
+}

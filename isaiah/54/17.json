@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 54:17",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 54,
+  "translation": "Kala nyonso oyo esalamaki mpiko na yo ekolonga te, mpe monoko nyonso oeko simba ⟨את⟩ yo na bosolo okosopa. Oyo ezali bokaboli ya basaleli ya Yawe, mpe bosembo na bango ezali uta ⟨את⟩ na ngai, liloba ya Yawe.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "kala"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "esalamaki"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "mpiko na yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יצלח",
+      "gloss": "ekolonga"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe nyonso"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "monoko"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "eko simba"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ yo",
+      "marks": "yo"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "na bosolo"
+    },
+    {
+      "surface": "תרשיעי",
+      "gloss": "okosopa"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Oyo"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "bokaboli"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ya basaleli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וצדקתם",
+      "gloss": "mpe bosembo na bango"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "uta ⟨את⟩ na ngai",
+      "marks": "ngai"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "liloba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T19:34:21.125524855Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 31:9",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 31,
+  "translation": "Na boye Elohim awolisaki ⟨את⟩ banyama ya tata na bino, mpe apesaki ngai.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "awolisaki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "banyama"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "banyama"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "ya tata na bino"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "mpe apesaki"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T16:02:08.221276986Z",
+  "model": "glm-5.3"
+}

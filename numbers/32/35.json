@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 32:35",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 32,
+  "translation": "mpe ⟨את⟩ Atarot-Shofan, mpe ⟨את⟩ Yazer, mpe Yogbeha.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Atarot-Shofan"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "Atarot"
+    },
+    {
+      "surface": "שופן",
+      "gloss": "Shofan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Yazer"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yazer"
+    },
+    {
+      "surface": "ויגבהה",
+      "gloss": "mpe Yogbeha"
+    }
+  ],
+  "timestamp": "2026-09-03T17:19:08.706818143Z",
+  "model": "glm-5.3"
+}

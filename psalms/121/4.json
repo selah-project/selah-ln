@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 121,
+  "translation": "Tala, Mobateli wa Israel akolali moke te, mpe akolala te.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Tala"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "akolali moke"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "akolala"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "Mobateli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-03T21:32:38.589250344Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 37:25",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 37,
+  "translation": "Ngai, nafendaki mpe naminwaki mai, mpe na nse ya makolo na ngai nasangisaki baebale nyonso ya Matsor.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "קרתי",
+      "gloss": "nafendaki"
+    },
+    {
+      "surface": "ושתיתי",
+      "gloss": "mpe naminwaki"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mai"
+    },
+    {
+      "surface": "ואחרב",
+      "gloss": "mpe nasangisaki"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "na nse"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "ya makolo na ngai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "יארי",
+      "gloss": "baebale"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "ya Matsor"
+    }
+  ],
+  "timestamp": "2026-09-03T19:27:41.068286956Z",
+  "model": "glm-5.3"
+}

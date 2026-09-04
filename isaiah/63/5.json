@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 63:5",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 63,
+  "translation": "Mpe atali, mpe azali te mosungi; mpe ekangaki, mpe azali te motomboli; mpe loboko na ngai esungaki ngai, mpe likebi na ngai, yango nde atombolaki ngai.",
+  "tokens": [
+    {
+      "surface": "ואביט",
+      "gloss": "mpe atali"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mpe azali te"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "mosungi"
+    },
+    {
+      "surface": "ואשתומם",
+      "gloss": "mpe ekangaki"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mpe azali te"
+    },
+    {
+      "surface": "סומך",
+      "gloss": "motomboli"
+    },
+    {
+      "surface": "ותושע",
+      "gloss": "mpe esungaki"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "loboko na ngai"
+    },
+    {
+      "surface": "וחמתי",
+      "gloss": "mpe likebi na ngai"
+    },
+    {
+      "surface": "היא",
+      "gloss": "yango"
+    },
+    {
+      "surface": "סמכתני",
+      "gloss": "atombolaki ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T19:39:09.297765806Z",
+  "model": "glm-5.3"
+}

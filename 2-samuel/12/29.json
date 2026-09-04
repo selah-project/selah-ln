@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-samuel 12:29",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Mpe David asangisaki ⟨את⟩ bato nyonso mpe akendaki na Raba, mpe alalisaki etumba na yango, mpe azwaki yango.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "mpe asangisaki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bato nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "mpe akendaki"
+    },
+    {
+      "surface": "רבתה",
+      "gloss": "Raba"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "mpe alalisaki etumba"
+    },
+    {
+      "surface": "בה",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "mpe azwaki yango"
+    }
+  ],
+  "timestamp": "2026-09-03T18:33:14.541474355Z",
+  "model": "glm-5.3"
+}

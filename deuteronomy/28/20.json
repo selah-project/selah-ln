@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 28:20",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 28,
+  "translation": "Yawe akotindela yo ⟨את⟩ malediksi, ⟨את⟩ mobulu, mpe ⟨את⟩ ndingisa, na nyonso ya maboko na yo oyo okosalako, kino bobebi na yo mpe kino bobungi na yo esila noki, mpamba na mabe ya misala na yo, oyo otikaki ngai.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "akotindela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בך",
+      "gloss": "yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malediksi"
+    },
+    {
+      "surface": "המארה",
+      "gloss": "malediksi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mobulu"
+    },
+    {
+      "surface": "המהומה",
+      "gloss": "mobulu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "ndingisa"
+    },
+    {
+      "surface": "המגערת",
+      "gloss": "ndingisa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na nyonso"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "mosala"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ya maboko na yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "okosalako"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "bobebi na yo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "mpe kino"
+    },
+    {
+      "surface": "אבדך",
+      "gloss": "bobungi na yo"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "noki"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "mpamba na"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "מעלליך",
+      "gloss": "misala na yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "otikaki ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T17:39:23.845301609Z",
+  "model": "glm-5.3"
+}

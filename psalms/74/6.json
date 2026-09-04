@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 74:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 74,
+  "translation": "Mpe sikoyo biputulami na yango elongo moko babukaki na baizo mpe bamalet.",
+  "tokens": [
+    {
+      "surface": "ועת",
+      "gloss": "Mpe sikoyo"
+    },
+    {
+      "surface": "פתוחיה",
+      "gloss": "biputulami na yango"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "elongo moko"
+    },
+    {
+      "surface": "בכשיל",
+      "gloss": "na baizo"
+    },
+    {
+      "surface": "וכילפת",
+      "gloss": "mpe bamalet"
+    },
+    {
+      "surface": "יהלמון",
+      "gloss": "babukaki"
+    }
+  ],
+  "timestamp": "2026-09-03T21:19:07.724297976Z",
+  "model": "glm-5.3"
+}

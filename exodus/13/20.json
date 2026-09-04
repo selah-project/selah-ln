@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 13:20",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Mpe batambolaki uta na Sukot, mpe babongisaki kaa na Etam, na nsuka ya etando.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "mpe batambolaki"
+    },
+    {
+      "surface": "מסכת",
+      "gloss": "Sukot"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "mpe babongisaki kaa"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "na Etam"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "na nsuka"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "etando"
+    }
+  ],
+  "timestamp": "2026-09-03T16:21:20.907372035Z",
+  "model": "glm-5.3"
+}

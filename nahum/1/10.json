@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nahum 1:10",
+  "book": "nahum",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpo esika bakangami lokola bałongeta, mpe bakomela na masanga na bango, bakoliama lokola nsanga ya komona mai te, mokemoke.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "esika"
+    },
+    {
+      "surface": "סירים",
+      "gloss": "bałongeta"
+    },
+    {
+      "surface": "סבכים",
+      "gloss": "bakangami"
+    },
+    {
+      "surface": "וכסבאם",
+      "gloss": "mpe na masanga na bango"
+    },
+    {
+      "surface": "סבואים",
+      "gloss": "bakomela"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "bakoliama"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "lokola nsanga"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "ya komona mai te"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "mokemoke"
+    }
+  ],
+  "timestamp": "2026-09-03T20:49:27.161099460Z",
+  "model": "glm-5.3"
+}

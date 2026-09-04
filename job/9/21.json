@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 9:21",
+  "book": "job",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Namasi ngai, nayebi te molimo na ngai, naboyi bomoi na ngai.",
+  "tokens": [
+    {
+      "surface": "תם",
+      "gloss": "Namasi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "nayebi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "molimo na ngai"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "naboyi"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "bomoi na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:53:42.329844012Z",
+  "model": "glm-5.3"
+}

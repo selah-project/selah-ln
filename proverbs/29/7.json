@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 29:7",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 29,
+  "translation": "Moto ya bosolo ayebaka likambo ya bampasi; moto mabe asosoli te boyebi.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "ayebaka"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "moto ya bosolo"
+    },
+    {
+      "surface": "דין",
+      "gloss": "likambo"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "ya bampasi"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "moto mabe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "asosoli"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "boyebi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:49:05.707502003Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 51:15",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 51,
+  "translation": "Nakolakisa bapushi banzela na yo, mpe bato ya masumu bakozonga epai na yo.",
+  "tokens": [
+    {
+      "surface": "אלמדה",
+      "gloss": "Nakolakisa"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "bapushi"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "banzela na yo"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "mpe bato ya masumu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "epai na yo"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "bakozonga"
+    }
+  ],
+  "timestamp": "2026-09-03T21:13:59.189718594Z",
+  "model": "glm-5.3"
+}

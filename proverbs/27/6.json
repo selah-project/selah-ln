@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 27:6",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 27,
+  "translation": "Mapasa ya oyo alingaka ezali na bosolo, kasi baisa ya moto oyo azali na likunya ezali ebele.",
+  "tokens": [
+    {
+      "surface": "נאמנים",
+      "gloss": "ezali na bosolo"
+    },
+    {
+      "surface": "פצעי",
+      "gloss": "mapasa"
+    },
+    {
+      "surface": "אוהב",
+      "gloss": "ya oyo alingaka"
+    },
+    {
+      "surface": "ונעתרות",
+      "gloss": "kasi ezali ebele"
+    },
+    {
+      "surface": "נשיקות",
+      "gloss": "baisa"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "ya moto oyo azali na likunya"
+    }
+  ],
+  "timestamp": "2026-09-03T21:49:16.188730005Z",
+  "model": "glm-5.3"
+}

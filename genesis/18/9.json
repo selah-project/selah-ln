@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 18:9",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Balobi epai na ye: Sarah mwasi na yo azali wapi? Mpe alobi: Talá, ⟨azali⟩ na nkasa.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Balobi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "epai na ye"
+    },
+    {
+      "surface": "איה",
+      "gloss": "azali wapi"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "mwasi na yo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe alobi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Talá"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "na nkasa"
+    }
+  ],
+  "timestamp": "2026-09-03T15:51:37.491039782Z",
+  "model": "glm-5.3"
+}

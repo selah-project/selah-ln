@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 51:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 51,
+  "translation": "Pesa ngai koyoka liyoki mpe esengo; mikuwa oyo okangisaki ekoseka.",
+  "tokens": [
+    {
+      "surface": "תשמיעני",
+      "gloss": "Pesa ngai koyoka"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "liyoki"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "mpe esengo"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "ekoseka"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "mikuwa"
+    },
+    {
+      "surface": "דכית",
+      "gloss": "oyo okangisaki"
+    }
+  ],
+  "timestamp": "2026-09-03T21:13:32.409578164Z",
+  "model": "glm-5.3"
+}

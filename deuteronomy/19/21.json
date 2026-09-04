@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Mpe liso na yo ekokoka mawa te: molimo mpo na molimo, liso mpo na liso, lino mpo na lino, loboko mpo na loboko, lokasa mpo na lokasa.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Mpe ... te"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "ekokoka mawa"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "liso na yo"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "molimo"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "mpo na molimo"
+    },
+    {
+      "surface": "עין",
+      "gloss": "liso"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "mpo na liso"
+    },
+    {
+      "surface": "שן",
+      "gloss": "lino"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "mpo na lino"
+    },
+    {
+      "surface": "יד",
+      "gloss": "loboko"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "mpo na loboko"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "lokasa"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "mpo na lokasa"
+    }
+  ],
+  "timestamp": "2026-09-03T17:32:07.789128693Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 40:24",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 40,
+  "translation": "Mpe atyaki ⟨את⟩ etando ya bilenge na etente ya kokutana, elongi na mesa, na mpambi ya etente, na sudi.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "mpe atyaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "etando ya bilenge"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "etando ya bilenge"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "na etente ya"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kokutana"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "elongi na"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "mesa"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "mpambi"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "etente"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "na sudi"
+    }
+  ],
+  "timestamp": "2026-09-03T16:38:30.791591802Z",
+  "model": "glm-5.3"
+}

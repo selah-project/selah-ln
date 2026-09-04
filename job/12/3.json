@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 12:3",
+  "book": "job",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Ngai mpe nazali na motema, lokola bino; nazali monukaka te na bino; mpe ⟨את⟩ nani — azali te ndenge na oyo?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "motema"
+    },
+    {
+      "surface": "כמוכם",
+      "gloss": "lokola bino"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "monukaka"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nazali"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "na bino"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "nani"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nani"
+    },
+    {
+      "surface": "אין",
+      "gloss": "azali te"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ndenge na"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "oyo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:54:38.788836591Z",
+  "model": "glm-5.3"
+}

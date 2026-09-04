@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 39:22",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 39,
+  "translation": "Mpe asalaki ⟨את⟩ meila ya efode, mosala ya moboti, tekhelet mobimba.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Mpe asalaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meila"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "meila"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ya efode"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "mosala"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "ya moboti"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "mobimba"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tekhelet"
+    }
+  ],
+  "timestamp": "2026-09-03T16:38:17.183058005Z",
+  "model": "glm-5.3"
+}

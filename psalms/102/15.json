@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 102:15",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 102,
+  "translation": "Mpo ete basali na yo bayei kocona ⟨את⟩ mabanga na yango, mpe mpoto na yango banyokolaka yango.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "bayei kocona"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "basali na yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabanga na yango"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "mabanga na yango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mpoto na yango"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "mpoto na yango"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "banyokolaka yango"
+    }
+  ],
+  "timestamp": "2026-09-04T00:22:01.477143872Z",
+  "model": "glm-5.3"
+}

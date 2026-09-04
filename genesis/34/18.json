@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 34:18",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 34,
+  "translation": "Mpe maloba na bango ezalaki malamu na miso ya Hamor mpe na miso ya Shekhem, mwana wa Hamor.",
+  "tokens": [
+    {
+      "surface": "וייטבו",
+      "gloss": "ezalaki malamu"
+    },
+    {
+      "surface": "דבריהם",
+      "gloss": "maloba na bango"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "na miso ya"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamor"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "mpe na miso ya"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamor"
+    }
+  ],
+  "timestamp": "2026-09-03T16:04:17.710530162Z",
+  "model": "glm-5.3"
+}

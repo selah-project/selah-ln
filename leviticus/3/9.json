@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 3:9",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe akomemaka ndambo ya mbeka ya kimia, mbeka ya moto epai ya Yawe: mafuta na yango, elanga ya mafuta mobimba, penepene ya mosoko akolongola yango; mpe ⟨את⟩ mafuta oyo ezali kobomba ⟨את⟩ libumu, mpe ⟨את⟩ mafuta nyonso oyo ezali likolo ya libumu.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "mpe akomemaka"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ya mbeka"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "ya kimia"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mbeka ya moto"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "epai ya Yawe"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "mafuta na yango"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "elanga ya mafuta"
+    },
+    {
+      "surface": "תמימה",
+      "gloss": "mobimba"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "penepene ya"
+    },
+    {
+      "surface": "העצה",
+      "gloss": "mosoko"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "akolongola yango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mafuta"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "oyo ezali kobomba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "libumu"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "libumu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mafuta nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "libumu"
+    }
+  ],
+  "timestamp": "2026-09-03T16:39:12.459663324Z",
+  "model": "glm-5.3"
+}

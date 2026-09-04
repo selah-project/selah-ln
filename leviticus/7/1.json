@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 7:1",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mpe oyo ezali Tora ya asham (sacrifice ya likweya): yango ⟨ezali⟩ bosantu ya bosantu.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Mpe oyo"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora ya"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "asham"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "bosantu"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ya bosantu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:42:03.071598518Z",
+  "model": "glm-5.3"
+}

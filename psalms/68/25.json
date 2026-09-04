@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 68:25",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 68,
+  "translation": "Bamonaki banzela na yo, Elohim, banzela ya El na ngai, mokonzi na ngai, na bokundoli.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "Bamonaki"
+    },
+    {
+      "surface": "הליכותיך",
+      "gloss": "banzela na yo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "banzela"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ya El na ngai"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mokonzi na ngai"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "na bokundoli"
+    }
+  ],
+  "timestamp": "2026-09-03T21:17:19.749822641Z",
+  "model": "glm-5.3"
+}

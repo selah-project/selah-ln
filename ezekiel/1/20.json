@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 1:20",
+  "book": "ezekiel",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Na nzela oyo mpema ezalaki kuna mpo na kokende, bakendaki kuna, mpema mpo na kokende; mpe mapote banyongwamaki pene na bango, mpo ete mpema ya banyama ya bomoi ezalaki na kati ya mapote.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nzela oyo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ezalaki"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "mpema"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "mpo na kokende"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "bakendaki"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "mpema"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "mpo na kokende"
+    },
+    {
+      "surface": "והאופנים",
+      "gloss": "mpe mapote"
+    },
+    {
+      "surface": "ינשאו",
+      "gloss": "banyongwamaki"
+    },
+    {
+      "surface": "לעמתם",
+      "gloss": "pene na bango"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mpema"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "ya banyama ya bomoi"
+    },
+    {
+      "surface": "באופנים",
+      "gloss": "na kati ya mapote"
+    }
+  ],
+  "timestamp": "2026-09-03T20:10:01.344398110Z",
+  "model": "glm-5.3"
+}

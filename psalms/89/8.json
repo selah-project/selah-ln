@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 89:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 89,
+  "translation": "El oyo bakangami na ye na bogangi kati na likita ya basantu ebele, mpe oyo abangisi bato nyonso oyo bazali pembeni na ye.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נערץ",
+      "gloss": "oyo bakangami na ye na bogangi"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "kati na likita"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ya basantu"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "ebele"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "mpe oyo abangisi"
+    },
+    {
+      "surface": "על",
+      "gloss": "bato nyonso oyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "bazali pembeni na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:22:41.670521798Z",
+  "model": "glm-5.3"
+}

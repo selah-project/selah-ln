@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 85:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 85,
+  "translation": "Ya mokambi, ya bana ya Korach, mizmor.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ya mokambi"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ya bana"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ya Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    }
+  ],
+  "timestamp": "2026-09-03T21:22:13.437698327Z",
+  "model": "glm-5.3"
+}

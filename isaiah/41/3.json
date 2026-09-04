@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 41:3",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 41,
+  "translation": "Alanda bango, asekaka na kimya; nzela na makolo na ye ayeaka te.",
+  "tokens": [
+    {
+      "surface": "ירדפם",
+      "gloss": "alanda bango"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "asekaka"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "na kimya"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "nzela"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "na makolo na ye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ayeaka te"
+    }
+  ],
+  "timestamp": "2026-09-03T19:31:39.490903026Z",
+  "model": "glm-5.3"
+}

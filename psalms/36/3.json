@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 36:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 36,
+  "translation": "Mpo ⟨asalaki-peto⟩ epai ya ye moko na miso na ye, tii mabe na ye ekutama, mpe bakunda yango.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "החליק",
+      "gloss": "⟨asalaki-peto⟩"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "epai ya ye moko"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "na miso na ye"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "tii... ekutama"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "mabe na ye"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "mpe bakunda yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:08:27.068651195Z",
+  "model": "glm-5.3"
+}

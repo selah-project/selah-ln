@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 8:7",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe atindaki ⟨את⟩ korobo, mpe yango ebimaki, kobima mpe kozonga, kino mai makauki uta likolo ya mabele.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Mpe atindaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "korobo"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "korobo"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "mpe yango ebimaki"
+    },
+    {
+      "surface": "יצוא",
+      "gloss": "kobima"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "mpe kozonga"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "יבשת",
+      "gloss": "makauki"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mai"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "uta likolo ya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T15:47:36.885622703Z",
+  "model": "glm-5.3"
+}

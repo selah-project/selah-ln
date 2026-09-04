@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 32:1",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 32,
+  "translation": "Boyoka malamu, likolo, mpe nakoloba; mabele yaka koyoka maloba ya monoko na ngai.",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "Boyoka malamu"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "likolo"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "mpe nakoloba"
+    },
+    {
+      "surface": "ותשמע",
+      "gloss": "yaka koyoka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "maloba"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ya monoko na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T17:41:37.134914511Z",
+  "model": "glm-5.3"
+}

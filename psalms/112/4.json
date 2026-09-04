@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 112:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 112,
+  "translation": "Lumière evandaki na molili mpo na bato ya nembele, ⟨oyozo⟩ moto ya ngolu, mpe ya mawa, mpe ya bosembo.",
+  "tokens": [
+    {
+      "surface": "זרח",
+      "gloss": "evandaki"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "na molili"
+    },
+    {
+      "surface": "אור",
+      "gloss": "Lumière"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "mpo na bato ya nembele"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "moto ya ngolu"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "mpe ya mawa"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "mpe ya bosembo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:29:03.166397453Z",
+  "model": "glm-5.3"
+}

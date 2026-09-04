@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 20:29",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 20,
+  "translation": "Bakangaki oyo liboso ya oyo mikolo sambo; mpe na mokolo ya sambo etumba eyaki pene, mpe bana ya Israel babomaki ⟨את⟩ Aram nkama moko ya mil ya basoda ya makolo na mokolo moko.",
+  "tokens": [
+    {
+      "surface": "ויחנו",
+      "gloss": "bakangaki"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sambo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mikolo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mpe ekalemaki"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na mokolo"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ya sambo"
+    },
+    {
+      "surface": "ותקרב",
+      "gloss": "eyaki pene"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "etumba"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "babomaki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "nkama moko"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ya mil"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ya basoda ya makolo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na mokolo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "moko"
+    }
+  ],
+  "timestamp": "2026-09-04T00:20:10.091859298Z",
+  "model": "glm-5.3"
+}

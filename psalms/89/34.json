@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 89:34",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 89,
+  "translation": "Hesed na ngai (bolingo ya bokoki) nakolongola te epai na ye, mpe nakoloba lokuta te na bokokani na ngai.",
+  "tokens": [
+    {
+      "surface": "וחסדי",
+      "gloss": "Hesed na ngai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "אפיר",
+      "gloss": "nakolongola"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "epai na ye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "אשקר",
+      "gloss": "nakoloba lokuta"
+    },
+    {
+      "surface": "באמונתי",
+      "gloss": "na bokokani na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:22:54.606477279Z",
+  "model": "glm-5.3"
+}

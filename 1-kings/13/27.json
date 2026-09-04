@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 13:27",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Mpe alobaki na bana na ye, alobaki ete: Kangela ngai ⟨את⟩ mboli; mpe bakangelaki.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bana na ye"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ete"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "kangela"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mboli"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "mboli"
+    },
+    {
+      "surface": "ויחבשו",
+      "gloss": "mpe bakangelaki"
+    }
+  ],
+  "timestamp": "2026-09-03T18:50:17.797735362Z",
+  "model": "glm-5.3"
+}

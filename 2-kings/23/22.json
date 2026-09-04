@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 23:22",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Mbala moko te Pesah esalamaki ndenge na oyo kobanda mikolo ya bazuzi oyo bazuzaki ⟨את⟩ Israel, mpe mikolo nyonso ya bakonzi ya Israel mpe ya bakonzi ya Yehuda.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mbala moko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "esalaki"
+    },
+    {
+      "surface": "כפסח",
+      "gloss": "ndenge na Pesah"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "kobanda mikolo ya"
+    },
+    {
+      "surface": "השפטים",
+      "gloss": "bazuzi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "bazuzaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe nyonso"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mikolo ya"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "bakonzi ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ומלכי",
+      "gloss": "mpe bakonzi ya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-09-03T19:10:27.631490311Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 10:9",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Yawe Elohim nayo azala motondo, oyo alingaki yo atya yo na kiti ya Israel, mpo na bolingo Yawe alingaki ⟨את⟩ Israel libela, mpe atyaki yo mokonzi mpo na kosala bosambisi mpe bosemi.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "azala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim nayo"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "motondo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "alingaki"
+    },
+    {
+      "surface": "בך",
+      "gloss": "yo"
+    },
+    {
+      "surface": "לתתך",
+      "gloss": "atya yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "kiti"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "באהבת",
+      "gloss": "mpo na bolingo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "libela"
+    },
+    {
+      "surface": "וישימך",
+      "gloss": "mpe atyaki yo"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "mpo na kosala"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "bosambisi"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "mpe bosemi"
+    }
+  ],
+  "timestamp": "2026-09-03T18:48:15.127876494Z",
+  "model": "glm-5.3"
+}

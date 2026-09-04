@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 14:26",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Mpo Yawe amonaki ⟨את⟩ mawa ya Israel, ezali makasi mpenza; mpe okangami azali te, mpe otikami azali te, mpe mosungi ya Israel azali te.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "amonaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawa"
+    },
+    {
+      "surface": "עני",
+      "gloss": "mawa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "makasi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mpenza"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "mpe ... azali te"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "okangami"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "mpe ... azali te"
+    },
+    {
+      "surface": "עזוב",
+      "gloss": "otikami"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mpe ... azali te"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "mosungi"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "ya Israel"
+    }
+  ],
+  "timestamp": "2026-09-03T19:05:51.221666452Z",
+  "model": "glm-5.3"
+}

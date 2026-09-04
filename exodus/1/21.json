@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 1:21",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe ete babotisi babangaki ⟨את⟩ Elohim, yango wana ⟨ye⟩ asalaki bango bandako.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mpe ekalomaki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "babangaki"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "babotisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "mpe asalaki"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bango"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "bandako"
+    }
+  ],
+  "timestamp": "2026-09-03T16:11:59.426157149Z",
+  "model": "glm-5.3"
+}

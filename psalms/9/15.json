@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 9:15",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "mpo nakoloba nkomo na yo nyonso na baporo ya mwana mwasi Tsion; nakosekanela na bosungi na yo.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "nakoloba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "תהלתיך",
+      "gloss": "nkomo na yo"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "na baporo"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana mwasi"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsion"
+    },
+    {
+      "surface": "אגילה",
+      "gloss": "nakosekanela"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "na bosungi na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:02:03.147937897Z",
+  "model": "glm-5.3"
+}

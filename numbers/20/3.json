@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 20:3",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 20,
+  "translation": "Mpe bato bazalaki kosala ntembe na Moshe, mpe balobaki koloba: O! tokufaki na tango bandeko na biso bakufaki liboso ya Yawe.",
+  "tokens": [
+    {
+      "surface": "וירב",
+      "gloss": "bazalaki kosala ntembe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "balobaki"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "koloba"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "O!"
+    },
+    {
+      "surface": "גוענו",
+      "gloss": "tokufaki"
+    },
+    {
+      "surface": "בגוע",
+      "gloss": "na tango... bakufaki"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "bandeko na biso"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T17:12:53.485803322Z",
+  "model": "glm-5.3"
+}

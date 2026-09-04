@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 76:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 76,
+  "translation": "Ntango Elohim alongwaki mpo na bosolo, mpo abikisa banyoli nyonso ya mabele. Selah.",
+  "tokens": [
+    {
+      "surface": "בקום",
+      "gloss": "ntango ... alongwaki"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "mpo na bosolo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "mpo abikisa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "ענוי",
+      "gloss": "banyoli"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ya mabele"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-03T21:18:36.815273045Z",
+  "model": "glm-5.3"
+}

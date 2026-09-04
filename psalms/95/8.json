@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 95:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 95,
+  "translation": "Bokomisa motema na bino mabe te, lokola na Meriba, lokola mokolo ya Masa, na etuka,",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "bokomisa mabe"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "motema na bino"
+    },
+    {
+      "surface": "כמריבה",
+      "gloss": "lokola na Meriba"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "lokola mokolo"
+    },
+    {
+      "surface": "מסה",
+      "gloss": "ya Masa"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "na etuka"
+    }
+  ],
+  "timestamp": "2026-09-03T23:35:05.830315503Z",
+  "model": "glm-5.3"
+}

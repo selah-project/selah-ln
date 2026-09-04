@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 77:14",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 77,
+  "translation": "Elohim, na bopeto nde nzela na yo ezali; nani azali El monene lokola Elohim?",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "na bopeto"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "nzela na yo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "monene"
+    },
+    {
+      "surface": "כאלהים",
+      "gloss": "lokola Elohim"
+    }
+  ],
+  "timestamp": "2026-09-03T21:19:04.641029693Z",
+  "model": "glm-5.3"
+}

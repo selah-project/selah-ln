@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 11:14",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpe bakowela na bipapanga ya bafiliste na mbu, elongo bakobumba ⟨את⟩ bana ya mondo; Edom mpe Moab esika bakotinda maboko na bango, mpe bana ya Amon bakolanda bango.",
+  "tokens": [
+    {
+      "surface": "ועפו",
+      "gloss": "bakowela"
+    },
+    {
+      "surface": "בכתף",
+      "gloss": "na bipapanga"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ya bafiliste"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "na mbu"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "elongo"
+    },
+    {
+      "surface": "יבזו",
+      "gloss": "bakobumba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bana"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ya mondo"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ומואב",
+      "gloss": "mpe Moab"
+    },
+    {
+      "surface": "משלוח",
+      "gloss": "esika bakotinda"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "maboko na bango"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "mpe bana ya"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "משמעתם",
+      "gloss": "bakolanda bango"
+    }
+  ],
+  "timestamp": "2026-09-03T19:17:59.454197145Z",
+  "model": "glm-5.3"
+}

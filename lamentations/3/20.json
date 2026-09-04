@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 3:20",
+  "book": "lamentations",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Kokanisa nakokanisa mbala na mbala, mpe molimo na ngai ekundolamaki likolo na ngai.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "kokanisa"
+    },
+    {
+      "surface": "תזכור",
+      "gloss": "nakokanisa mbala na mbala"
+    },
+    {
+      "surface": "ותשיח",
+      "gloss": "mpe ekundolamaki"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "likolo na ngai"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "molimo na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T22:10:13.950382330Z",
+  "model": "glm-5.3"
+}

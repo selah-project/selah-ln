@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 6:10",
+  "book": "micah",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Eteni nini — ezali kaka na ndako ya moto mabe makabo ya mabe, mpe efa ya mokuse, oyo etangi?",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "kaka"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ezali"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ya moto mabe"
+    },
+    {
+      "surface": "אצרות",
+      "gloss": "makabo"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ya mabe"
+    },
+    {
+      "surface": "ואיפת",
+      "gloss": "mpe efa"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "ya mokuse"
+    },
+    {
+      "surface": "זעומה",
+      "gloss": "etangi"
+    }
+  ],
+  "timestamp": "2026-09-03T20:49:50.757764946Z",
+  "model": "glm-5.3"
+}

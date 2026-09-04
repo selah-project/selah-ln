@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 24:10",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "Mpe bamonaki ⟨את⟩ Elohim ya Israel, mpe na nse ya makau na ye ⟨ezali⟩ lokola mosala ya libata ya sapphire, mpe lokola bonene ya likolo na bondoyi na yango.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "mpe bamonaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim ya Israel"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "mpe na nse ya"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "makau na ye"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "lokola mosala ya"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "libata"
+    },
+    {
+      "surface": "הספיר",
+      "gloss": "ya sapphire"
+    },
+    {
+      "surface": "וכעצם",
+      "gloss": "mpe lokola bonene"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ya likolo"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "na bondoyi"
+    }
+  ],
+  "timestamp": "2026-09-03T16:26:00.676600535Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 42:9",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 42,
+  "translation": "Batala, makambo ya liboso ekelaki, mpe ya sika nazali kolakisa; liboso ete bimana, nazali koyebisa ⟨את⟩ bino.",
+  "tokens": [
+    {
+      "surface": "הראשנות",
+      "gloss": "makambo ya liboso"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Batala"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ekelaki"
+    },
+    {
+      "surface": "וחדשות",
+      "gloss": "mpe ya sika"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nazali"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "kolakisa"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "liboso ete"
+    },
+    {
+      "surface": "תצמחנה",
+      "gloss": "bimana"
+    },
+    {
+      "surface": "אשמיע",
+      "gloss": "koyebisa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ bino"
+    }
+  ],
+  "timestamp": "2026-09-03T19:29:33.874196249Z",
+  "model": "glm-5.3"
+}

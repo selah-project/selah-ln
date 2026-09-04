@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 7:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Shigayon ya David, oyo ayembaki na Yawe likolo ya maloba ya Kush, mwana wa Beniamini.",
+  "tokens": [
+    {
+      "surface": "שגיון",
+      "gloss": "Shigayon"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya David"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ayembaki"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "na Yawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "maloba"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "wa Beniamini"
+    }
+  ],
+  "timestamp": "2026-09-03T21:00:25.825701509Z",
+  "model": "glm-5.3"
+}

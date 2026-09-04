@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 28:18",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 28,
+  "translation": "Mpe boyei na bino na ⟨את⟩ liwa ekolimwamaka, mpe bomonisi na bino na ⟨את⟩ Sheol etikalaka te; songa oyo ezali kotonda, ntango ekolakisama, bino bokozala na yango esika ya kotolateda.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "ekolimwamaka"
+    },
+    {
+      "surface": "בריתכם",
+      "gloss": "boyei na bino"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "liwa"
+    },
+    {
+      "surface": "מות",
+      "gloss": "liwa"
+    },
+    {
+      "surface": "וחזותכם",
+      "gloss": "mpe bomonisi na bino"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheol"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "etikalaka"
+    },
+    {
+      "surface": "שוט",
+      "gloss": "songa"
+    },
+    {
+      "surface": "שוטף",
+      "gloss": "oyo ezali kotonda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ntango"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "ekolakisama"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "bokozala"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "למרמס",
+      "gloss": "esika ya kotolateda"
+    }
+  ],
+  "timestamp": "2026-09-03T19:23:39.646389919Z",
+  "model": "glm-5.3"
+}

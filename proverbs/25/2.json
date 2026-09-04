@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 25:2",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Nkembo ya Elohim ezali kobomba likambo, mpe nkembo ya bakonzi ezali koluka likambo.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Nkembo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הסתר",
+      "gloss": "kobomba"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "likambo"
+    },
+    {
+      "surface": "וכבד",
+      "gloss": "mpe nkembo"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "ya bakonzi"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "koluka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "likambo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:47:29.537645331Z",
+  "model": "glm-5.3"
+}

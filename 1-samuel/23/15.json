@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 23:15",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Mpe David amonaki ete Shaul abimaki mpo na koluka ⟨את⟩ bomoi na ye; mpe David azalaki na etando ya Zif, na banzete.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Mpe David amonaki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "abimaki"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "mpo na koluka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bomoi na ye"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "bomoi na ye"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "mpe David"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "na etando"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "ya Zif"
+    },
+    {
+      "surface": "בחרשה",
+      "gloss": "na banzete"
+    }
+  ],
+  "timestamp": "2026-09-03T18:21:05.681982296Z",
+  "model": "glm-5.3"
+}

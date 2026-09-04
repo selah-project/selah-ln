@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 97:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 97,
+  "translation": "Bukali na ye emonisaki polele mokili; mabele amonaki, mpe etuntumaki.",
+  "tokens": [
+    {
+      "surface": "האירו",
+      "gloss": "emonisaki polele"
+    },
+    {
+      "surface": "ברקיו",
+      "gloss": "bukali na ye"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "mokili"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "amonaki"
+    },
+    {
+      "surface": "ותחל",
+      "gloss": "mpe etuntumaki"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T21:24:50.288484143Z",
+  "model": "glm-5.3"
+}

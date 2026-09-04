@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 31:24",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 31,
+  "translation": "Asalaki sadin, mpe amisaki ⟨yango⟩; mpe apesaki likangi epai ya Kenani.",
+  "tokens": [
+    {
+      "surface": "סדין",
+      "gloss": "sadin"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "asalaki"
+    },
+    {
+      "surface": "ותמכר",
+      "gloss": "mpe amisaki ⟨yango⟩"
+    },
+    {
+      "surface": "וחגור",
+      "gloss": "mpe likangi"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "apesaki"
+    },
+    {
+      "surface": "לכנעני",
+      "gloss": "epai ya Kenani"
+    }
+  ],
+  "timestamp": "2026-09-03T21:49:44.258295111Z",
+  "model": "glm-5.3"
+}

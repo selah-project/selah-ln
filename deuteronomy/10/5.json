@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 10:5",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Nasukoli mpe nakita uta na mongata, mpe natya ⟨את⟩ biloko ya mabelé na sanduku oyo nasilaki, mpe bazalaki kuna, ndenge Yawe atindaki ngai.",
+  "tokens": [
+    {
+      "surface": "ואפן",
+      "gloss": "nasukoli"
+    },
+    {
+      "surface": "וארד",
+      "gloss": "nakita"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uta"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "na mongata"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "mpe natya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "biloko ya mabelé"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "biloko ya mabelé"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "na sanduku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "nasilaki"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "mpe bazalaki"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ndenge"
+    },
+    {
+      "surface": "צוני",
+      "gloss": "atindaki ngai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T17:27:36.376705578Z",
+  "model": "glm-5.3"
+}

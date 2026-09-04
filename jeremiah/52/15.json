@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 52:15",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 52,
+  "translation": "Mpe bato ya mawa na bato, mpe ⟨את⟩ bopau ya bato oyo batikaki na mboka, mpe ⟨את⟩ bapami oyo bapaki epai ya mokonzi ya Bavel, mpe ⟨את⟩ bopau ya bato ebele — Nabuzaradan, mokambi ya babomi, atindaki bango na bokangami.",
+  "tokens": [
+    {
+      "surface": "ומדלות",
+      "gloss": "mpe bato ya mawa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "na bato"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bopau ya bato oyo batikaki na mboka"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "bopau"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ya bato"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "oyo batikaki"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "na mboka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bapami oyo bapaki epai ya mokonzi ya Bavel"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "bapami"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "bapaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ya Bavel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bopau ya bato ebele"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "bopau"
+    },
+    {
+      "surface": "האמון",
+      "gloss": "ya bato ebele"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "atindaki na bokangami"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "Nabuzaradan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mokambi"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "ya babomi"
+    }
+  ],
+  "timestamp": "2026-09-03T20:09:53.866567953Z",
+  "model": "glm-5.3"
+}

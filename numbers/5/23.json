@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 5:23",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Mpe kohen akomaki ⟨את⟩ maloba mabe oyo na buku, mpe afukisaki yango na mai makasi.",
+  "tokens": [
+    {
+      "surface": "וכתב",
+      "gloss": "mpe akomaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maloba mabe"
+    },
+    {
+      "surface": "האלת",
+      "gloss": "maloba mabe"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "na buku"
+    },
+    {
+      "surface": "ומחה",
+      "gloss": "mpe afukisaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mai"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "makasi"
+    }
+  ],
+  "timestamp": "2026-09-03T17:01:30.787760057Z",
+  "model": "glm-5.3"
+}

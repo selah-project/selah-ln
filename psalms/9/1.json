@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 9:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Na mokambi, na Almuth Laben (ebimi na 'kimoyo ya mwana'), mizmor ya David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Na mokambi"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "Almuth"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laben (kimoyo ya mwana)"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya David"
+    }
+  ],
+  "timestamp": "2026-09-03T21:02:33.397270Z",
+  "model": "glm-5.3"
+}

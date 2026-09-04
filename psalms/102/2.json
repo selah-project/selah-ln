@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 102:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 102,
+  "translation": "Yawe, yoka libondeli na ngai, mpe kobenga na ngai epai nawe ekoya.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "yoka"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "libondeli na ngai"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "mpe kobenga na ngai"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "epai nawe"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ekoya"
+    }
+  ],
+  "timestamp": "2026-09-03T21:26:26.040133176Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 6:2",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Tela ⟨את⟩ Aharon mpe ⟨את⟩ banaye, na koloba ete: Oyo ezali Tora ya mbeka ya motumbo: yango ⟨ndele⟩ ezali mbeka ya motumbo, ekangami na makasi ya moto likolo ya auteli, nyonso tongo ekangami na moto na makasi ya moto, tii tongo; mpe moto ya auteli ekotekaka na yango.",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "Tela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "banaye"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "banaye"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na koloba ete"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Oyo"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora ya"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "mbeka ya motumbo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yango"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "mbeka ya motumbo"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "מוקדה",
+      "gloss": "makasi ya moto"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "auteli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "tongo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tii"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "tongo ya ozela"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "mpe moto"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ya auteli"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "ekotekaka"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:42:43.171431821Z",
+  "model": "glm-5.3"
+}

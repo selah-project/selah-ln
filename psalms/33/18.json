@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 33:18",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 33,
+  "translation": "Talá, miso ya Yawe ezali epai ya baye bazali kobanga ⟨ye⟩, epai ya baye bazali kozela hesed na ye.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Talá"
+    },
+    {
+      "surface": "עין",
+      "gloss": "miso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "baye bazali kobanga ye"
+    },
+    {
+      "surface": "למיחלים",
+      "gloss": "epai ya baye bazali kozela"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "hesed na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:08:08.149186727Z",
+  "model": "glm-5.3"
+}

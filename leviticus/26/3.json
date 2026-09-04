@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 26:3",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "Soki bolei na mibeko na ngai, mpe ⟨את⟩ malako na ngai bobateli, mpe bosali ⟨את⟩ bango.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "soki"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "na mibeko na ngai"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "bolei"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "malako na ngai"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "malako na ngai"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "bobateli"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "mpe bosali"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:56:02.193466655Z",
+  "model": "glm-5.3"
+}

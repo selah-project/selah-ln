@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Libota moko ezali koleka, mpe libota mosusu ezali koya; kasi mabele etikali na ntango nyonso.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "Libota moko"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ezali koleka"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "mpe libota mosusu"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ezali koya"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "kasi mabele"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na ntango nyonso"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "etikali"
+    }
+  ],
+  "timestamp": "2026-09-03T22:13:04.382250570Z",
+  "model": "glm-5.3"
+}

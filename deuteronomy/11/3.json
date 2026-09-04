@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 11:3",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpe ⟨את⟩ bilembo na yango mpe ⟨את⟩ misala na yango oyo asalaki kati ya Mitsraim, epai ya Parao, mokonzi ya Mitsraim, mpe epai ya mabele na yango mobimba.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bilembo na yango"
+    },
+    {
+      "surface": "אתתיו",
+      "gloss": "bilembo na yango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "misala na yango"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "misala na yango"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "asalaki"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "kati ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "epai ya Parao"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Mitsraim"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "mpe epai ya mobimba ya"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "mabele na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T17:28:58.054784874Z",
+  "model": "glm-5.3"
+}

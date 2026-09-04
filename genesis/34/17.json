@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 34:17",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 34,
+  "translation": "Mpe soki boyokaki te epai na biso mpo bokengama, nde tozwaki ⟨את⟩ mwana na biso mpe tokendaki.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Mpe soki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "boyokaki"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "epai na biso"
+    },
+    {
+      "surface": "להמול",
+      "gloss": "mpo bokengama"
+    },
+    {
+      "surface": "ולקחנו",
+      "gloss": "nde tozwaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwana na biso"
+    },
+    {
+      "surface": "בתנו",
+      "gloss": "mwana na biso"
+    },
+    {
+      "surface": "והלכנו",
+      "gloss": "mpe tokendaki"
+    }
+  ],
+  "timestamp": "2026-09-03T16:04:17.710282624Z",
+  "model": "glm-5.3"
+}

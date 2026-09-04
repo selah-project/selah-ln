@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 20:24",
+  "book": "ezekiel",
+  "lang": "ln",
+  "chapter": 20,
+  "translation": "Mpo ete basalaki te makuku na ngai, mpe baboyaki mibeko na ngai, mpe batyaki ⟨את⟩ Shabat na ngai mabe, mpe miso na bango bazalaki na nsima ya bikeko ya bankoko na bango.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "makuku na ngai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "basalaki"
+    },
+    {
+      "surface": "וחקותי",
+      "gloss": "mpe mibeko na ngai"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "baboyaki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Shabat na ngai"
+    },
+    {
+      "surface": "שבתותי",
+      "gloss": "Shabat na ngai"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "batyaki yango mabe"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "mpe na nsima ya"
+    },
+    {
+      "surface": "גלולי",
+      "gloss": "bikeko"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "ya bankoko na bango"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bazalaki"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "miso na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T20:19:23.409216086Z",
+  "model": "glm-5.3"
+}

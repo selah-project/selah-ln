@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 1:17",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Longa kosala malamu, luka kokoka, bopesa boboki oyo akangami, bosambwisa kame, bolobela mwasi-nkufi.",
+  "tokens": [
+    {
+      "surface": "למדו",
+      "gloss": "Longa"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "malamu"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "luka"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kokoka"
+    },
+    {
+      "surface": "אשרו",
+      "gloss": "bopesa boboki"
+    },
+    {
+      "surface": "חמוץ",
+      "gloss": "oyo akangami"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "bosambwisa"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "kame"
+    },
+    {
+      "surface": "ריבו",
+      "gloss": "bolobela"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "mwasi-nkufi"
+    }
+  ],
+  "timestamp": "2026-09-03T19:13:05.936030952Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 29:13",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 29,
+  "translation": "Akanaki Adonai: mpo ete bato oyo bakoki pene na ngai na monoko na bango mpe na bilomo na bango bakumisaka ngai, kasi motema na bango ezali mosika na ngai, mpe bobangi na bango ⟨את⟩ ngai ezali mibeko ya bato eyekisami.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akanaki"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יען",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "נגשׁ",
+      "gloss": "bakoki pene"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "na monoko na bango"
+    },
+    {
+      "surface": "ובשפתיו",
+      "gloss": "mpe na bilomo na bango"
+    },
+    {
+      "surface": "כבדוני",
+      "gloss": "bakumisaka ngai"
+    },
+    {
+      "surface": "ולבו",
+      "gloss": "kasi motema na bango"
+    },
+    {
+      "surface": "רחק",
+      "gloss": "ezali mosika"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "mpe ekomi"
+    },
+    {
+      "surface": "יראתם",
+      "gloss": "bobangi na bango"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ngai \/ mibeko (bobangi ya bato, kozanga likeli ya solo)"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "mibeko"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "ya bato"
+    },
+    {
+      "surface": "מלמדה",
+      "gloss": "eyekisami"
+    }
+  ],
+  "timestamp": "2026-09-03T23:26:11.834009796Z",
+  "model": "glm-5.3"
+}

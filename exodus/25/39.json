@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 25:39",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Talenta moko ya wolo ya sembo bakosala ⟨את⟩ yango, ⟨את⟩ biloko nyonso oyo.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "talenta moko"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ya wolo"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ya sembo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "bakosala"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ yango",
+      "marks": "yango (menora)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "biloko nyonso oyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "biloko"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "oyo"
+    }
+  ],
+  "timestamp": "2026-09-03T16:27:40.793449052Z",
+  "model": "glm-5.3"
+}

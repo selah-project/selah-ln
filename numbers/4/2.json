@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 4:2",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Kanisa ⟨את⟩ motuya ya bana ya Kehat kati ya bana ya Levi, na mabota na bango, na bandako ya batata na bango.",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "Kanisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motuya"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "motuya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ya"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehat"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "kati ya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ya"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "na mabota na bango"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "na bandako ya"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "batata na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T17:00:22.392756646Z",
+  "model": "glm-5.3"
+}

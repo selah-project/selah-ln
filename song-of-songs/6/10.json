@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 6:10",
+  "book": "song-of-songs",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Nani oyo, oyo emonani lokola tongo, kitoko lokola sanza, ya bosolo lokola moi, ya kobangisa lokola mampinga ya bilembo?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Nani"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "הנשקפה",
+      "gloss": "oyo emonani"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "lokola"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "tongo"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "kitoko"
+    },
+    {
+      "surface": "כלבנה",
+      "gloss": "lokola sanza"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "ya bosolo"
+    },
+    {
+      "surface": "כחמה",
+      "gloss": "lokola moi"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "ya kobangisa"
+    },
+    {
+      "surface": "כנדגלות",
+      "gloss": "lokola mampinga ya bilembo"
+    }
+  ],
+  "timestamp": "2026-09-03T22:05:32.685013006Z",
+  "model": "glm-5.3"
+}

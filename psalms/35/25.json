@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 35:25",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 35,
+  "translation": "Baloba te na mitima na bango: Aha, bomoi na biso! Baloba te: Tomesaki ye.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "baloba"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "na mitima na bango"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Aha"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "bomoi na biso"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "baloba"
+    },
+    {
+      "surface": "בלענוהו",
+      "gloss": "Tomesaki ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:09:08.479256658Z",
+  "model": "glm-5.3"
+}

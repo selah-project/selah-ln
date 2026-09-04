@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 19:12",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Mpe te bolapa na nkombo na ngai mpo na lokuta, mpe okotiya mabe ⟨את⟩ nkombo ya Elohim na yo; ngai nazali Yawe.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "bolapa"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "na nkombo na ngai"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "mpo na lokuta"
+    },
+    {
+      "surface": "וחללת",
+      "gloss": "mpe okotiya mabe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkombo ya Elohim na yo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nkombo"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ya Elohim na yo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T16:49:56.571210105Z",
+  "model": "glm-5.3"
+}

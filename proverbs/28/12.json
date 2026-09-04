@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 28:12",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 28,
+  "translation": "Ntango bayengebene bazali na lisano, nkembo ezali monene; kasi ntango bato mabe batombelama, moto amokundaka.",
+  "tokens": [
+    {
+      "surface": "בעלץ",
+      "gloss": "bazali na lisano"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "bayengebene"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "monene"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "nkembo"
+    },
+    {
+      "surface": "ובקום",
+      "gloss": "batombelama"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bato mabe"
+    },
+    {
+      "surface": "יחפש",
+      "gloss": "amokundaka"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moto"
+    }
+  ],
+  "timestamp": "2026-09-03T21:48:04.873987879Z",
+  "model": "glm-5.3"
+}

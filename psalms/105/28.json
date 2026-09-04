@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 105:28",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 105,
+  "translation": "Atindaki molili, mpe molili ekotiaki; mpe baboyaki kopengan na ⟨את⟩ liloba na ye.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "atindaki"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "molili"
+    },
+    {
+      "surface": "ויחשך",
+      "gloss": "mpe molili ekotiaki"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe ... te"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "baboyaki kopengan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "liloba na ye"
+    },
+    {
+      "surface": "דברוו",
+      "gloss": "liloba na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T23:35:17.244370990Z",
+  "model": "glm-5.3"
+}

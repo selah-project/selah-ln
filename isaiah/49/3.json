@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 49:3",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 49,
+  "translation": "Mpe alobaki na ngai: Yo nde mosalami na ngai, Israel, oyo na yo namomonisaka nkembo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mosalami na ngai"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "בך",
+      "gloss": "na yo"
+    },
+    {
+      "surface": "אתפאר",
+      "gloss": "namomonisaka nkembo"
+    }
+  ],
+  "timestamp": "2026-09-03T19:33:53.957422582Z",
+  "model": "glm-5.3"
+}

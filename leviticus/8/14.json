@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 8:14",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe amemaki ⟨את⟩ paro ya masumu, mpe Aharon mpe bana na ye batyelaki ⟨את⟩ maboko na bango likolo ya motu ya paro ya masumu.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "amemaki pene"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paro ya masumu"
+    },
+    {
+      "surface": "פר",
+      "gloss": "paro"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ya masumu"
+    },
+    {
+      "surface": "ויסמך",
+      "gloss": "batyelaki"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "mpe bana na ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maboko na bango"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "maboko na bango"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "motu"
+    },
+    {
+      "surface": "פר",
+      "gloss": "paro"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ya masumu"
+    }
+  ],
+  "timestamp": "2026-09-03T16:44:42.907688552Z",
+  "model": "glm-5.3"
+}

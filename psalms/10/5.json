@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 10:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Banjela na ye na ntango nyonso ezali malamu; mapanza na yo ezali na likolo, mosika na ye; banguna na ye nyonso apufaka na bango.",
+  "tokens": [
+    {
+      "surface": "יחילו",
+      "gloss": "ezali malamu"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "banjela na ye"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na nyonso"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ntango"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "na likolo"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "mapanza na yo"
+    },
+    {
+      "surface": "מנגדו",
+      "gloss": "mosika na ye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "צורריו",
+      "gloss": "banguna na ye"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "apufaka"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:02:33.710084072Z",
+  "model": "glm-5.3"
+}

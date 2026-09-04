@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 26:14",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "Mpe okosala likangi ya tente, minogo ya bawa mikolobwami, mpe likangi minogo ya tahashi likolo.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "mpe okosala"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "likangi"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "ya tente"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "minogo ya"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "bawa"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "mikolobwami"
+    },
+    {
+      "surface": "ומכסה",
+      "gloss": "mpe likangi"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "minogo ya"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "tahashi"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "likolo"
+    }
+  ],
+  "timestamp": "2026-09-03T16:28:26.587364227Z",
+  "model": "glm-5.3"
+}

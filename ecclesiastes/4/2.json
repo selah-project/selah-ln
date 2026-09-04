@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe natombolaki ngai ⟨את⟩ bamufi oyo babombi bafwaki, kuluto bavio oyo bango bavio kino sikoyo.",
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "mpe natombolaki"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bamufi"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "bamufi"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "babombi"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "bafwaki"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuluto"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "bavio"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bango"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "bavio"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "kino sikoyo"
+    }
+  ],
+  "timestamp": "2026-09-03T22:13:57.769349649Z",
+  "model": "glm-5.3"
+}

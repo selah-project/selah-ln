@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 14:9",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Mitsraim balandaki bango mpe bakangaki ⟨את⟩ bango, bafandi pembeni ya ebale — bampunda nyonso, bamiluki ya Parao, mpe bamotoki na ye, mpe mampinga na ye — pembeni ya monoko ya Hiroth, liboso ya Baal Tsefon.",
+  "tokens": [
+    {
+      "surface": "וירדפו",
+      "gloss": "balandaki"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "bango"
+    },
+    {
+      "surface": "וישיגו",
+      "gloss": "mpe bakangaki"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "bango (bafandi pembeni ya ebale)"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "bafandi"
+    },
+    {
+      "surface": "על",
+      "gloss": "pembeni ya"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ebale"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "bampunda"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "bamiluki"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "ופרשיו",
+      "gloss": "mpe bamotoki na ye"
+    },
+    {
+      "surface": "וחילו",
+      "gloss": "mpe mampinga na ye"
+    },
+    {
+      "surface": "על",
+      "gloss": "pembeni ya"
+    },
+    {
+      "surface": "פי",
+      "gloss": "monoko ya"
+    },
+    {
+      "surface": "החירת",
+      "gloss": "Hiroth"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "צפן",
+      "gloss": "Tsefon"
+    }
+  ],
+  "timestamp": "2026-09-03T16:20:42.826010953Z",
+  "model": "glm-5.3"
+}

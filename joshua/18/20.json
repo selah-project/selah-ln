@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 18:20",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Mpe Yarden ezalaki ndelo na ⟨את⟩ yango na lia; oyo bosekeli ya bana ya Binyamin, na bandelo na yango zingazinga, na balibota na bango.",
+  "tokens": [
+    {
+      "surface": "והירדן",
+      "gloss": "mpe Yarden"
+    },
+    {
+      "surface": "יגבל",
+      "gloss": "ezalaki ndelo na"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yango"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "na"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "lia"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "bosekeli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "לגבולתיה",
+      "gloss": "na bandelo na yango"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "zingazinga"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "na balibota na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T17:51:31.960641990Z",
+  "model": "glm-5.3"
+}

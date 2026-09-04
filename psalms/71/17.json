@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 71:17",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 71,
+  "translation": "Elohim, olingwaki ngai utoka na boni, mpe kino oyo nazali kosakana na mapasa na yo.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למדתני",
+      "gloss": "olingwaki ngai"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "utoka na boni"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "mpe kino"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "nazali kosakana"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "mapasa na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T23:35:06.185774742Z",
+  "model": "glm-5.3"
+}

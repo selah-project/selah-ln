@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 50:5",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 50,
+  "translation": "Adonai Yawe afungolaki ngai matoyi, mpe ngai nayingaki te, nsima nayangalaki te.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "afungolaki"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "matoyi"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "mpe ngai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "מריתי",
+      "gloss": "nayingaki"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "nsima"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "נסוגתי",
+      "gloss": "nayangalaki"
+    }
+  ],
+  "timestamp": "2026-09-03T19:35:40.694669112Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 42:21",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 42,
+  "translation": "Yawe alingaki, na ntina ya bosemi na ye, akolisyaki Tora mpe akomisaki yango lokumu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "alingaki"
+    },
+    {
+      "surface": "למען",
+      "gloss": "na ntina ya"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "bosemi na ye"
+    },
+    {
+      "surface": "יגדיל",
+      "gloss": "akolisyaki"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "ויאדיר",
+      "gloss": "mpe akomisaki yango lokumu"
+    }
+  ],
+  "timestamp": "2026-09-03T19:30:22.863378306Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 36:9",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 36,
+  "translation": "Mpe oyo ezali libota ya Esav, tata ya Edom, na ngomba ya Seir.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Mpe oyo"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "libota"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tata ya"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "na ngomba ya"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    }
+  ],
+  "timestamp": "2026-09-03T16:03:00.638194338Z",
+  "model": "glm-5.3"
+}

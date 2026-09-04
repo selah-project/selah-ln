@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 1:5",
+  "book": "judges",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe bamonaki ⟨את⟩ Adoni-Bezek na Bezek, mpe balwanaki na ye, mpe babomaki ⟨את⟩ Mukanaani mpe ⟨את⟩ Muperizi.",
+  "tokens": [
+    {
+      "surface": "וימצאו",
+      "gloss": "mpe bamonaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adoni-Bezek"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoni-"
+    },
+    {
+      "surface": "בזק",
+      "gloss": "Bezek"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "na Bezek"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "mpe balwanaki"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "mpe babomaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mukanaani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Mukanaani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Muperizi"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "Muperizi"
+    }
+  ],
+  "timestamp": "2026-09-03T17:55:21.773060476Z",
+  "model": "glm-5.3"
+}

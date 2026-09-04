@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 1:15",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Oyo ekangami ekoki kobongwama te, mpe oyo elangi ekoki kokomama te.",
+  "tokens": [
+    {
+      "surface": "מעות",
+      "gloss": "ekangami"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ekoki"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "kobongwama"
+    },
+    {
+      "surface": "וחסרון",
+      "gloss": "mpe oyo elangi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ekoki"
+    },
+    {
+      "surface": "להמנות",
+      "gloss": "kokomama"
+    }
+  ],
+  "timestamp": "2026-09-03T22:12:51.281985786Z",
+  "model": "glm-5.3"
+}

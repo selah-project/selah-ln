@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 2:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Senga epai na ngai, mpe nakopesa yo bikolo lokola bosikoloko na yo, mpe bozwi na yo bansuka ya mabele.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "Senga"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "epai na ngai"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "mpe nakopesa"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bikolo"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "bosikoloko na yo"
+    },
+    {
+      "surface": "ואחזתך",
+      "gloss": "mpe bozwi na yo"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "bansuka ya"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T21:00:14.742019425Z",
+  "model": "glm-5.3"
+}

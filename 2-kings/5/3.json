@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 5:3",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Mpe alobaki na nkolo-mwasi na ye: O, soki nkolo na ngai azalaki liboso ya navi oyo azali na Shomron, tango wana ako longolaki ⟨את⟩ ye na kobeta elongi na ye.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "nkolo-mwasi na ye"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "O, soki"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "nkolo na ngai"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "navi oyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo azali"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "na Shomron"
+    },
+    {
+      "surface": "אז",
+      "gloss": "tango wana"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "ako longolaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ye (na kobeta elongi na ye)"
+    },
+    {
+      "surface": "מצרעתו",
+      "gloss": "na kobeta elongi na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T19:01:37.210840822Z",
+  "model": "glm-5.3"
+}

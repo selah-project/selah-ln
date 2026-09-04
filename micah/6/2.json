@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 6:2",
+  "book": "micah",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Bangomba, boyoka ⟨את⟩ likambo ya Yawe, mpe baetanani, mabelo ya mabele; mpo likambo ya Yawe ezali na bato na ye, mpe na Israel akozuela.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Boyoka"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "Bangomba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "likambo ya Yawe"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "likambo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "והאתנים",
+      "gloss": "mpe baetanani"
+    },
+    {
+      "surface": "מסדי",
+      "gloss": "mabelo ya"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "likambo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ya Yawe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bato na ye"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "mpe na"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "יתוכח",
+      "gloss": "akozuela"
+    }
+  ],
+  "timestamp": "2026-09-03T20:50:55.583218901Z",
+  "model": "glm-5.3"
+}

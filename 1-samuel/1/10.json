@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 1:10",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe ye azalaki na mawa na molimo, mpe atolakaki epai ya Yawe, mpe kolila atolaki makasi.",
+  "tokens": [
+    {
+      "surface": "והיא",
+      "gloss": "mpe ye"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "mawa na"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "molimo"
+    },
+    {
+      "surface": "ותתפלל",
+      "gloss": "atolakaki"
+    },
+    {
+      "surface": "על",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "mpe kolila"
+    },
+    {
+      "surface": "תבכה",
+      "gloss": "atolaki makasi"
+    }
+  ],
+  "timestamp": "2026-09-03T18:08:49.286230737Z",
+  "model": "glm-5.3"
+}

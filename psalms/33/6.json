@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 33:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 33,
+  "translation": "Na liloba ya Yawe likolo esalemaki, mpe na mpema ya monoko na yango bibele na yango nyonso.",
+  "tokens": [
+    {
+      "surface": "בדבר",
+      "gloss": "Na liloba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yawe"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "likolo"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "esalemaki"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "mpe na mpema"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "ya monoko na yango"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "bibele na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:07:47.832630589Z",
+  "model": "glm-5.3"
+}

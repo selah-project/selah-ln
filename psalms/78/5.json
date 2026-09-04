@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 78:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 78,
+  "translation": "Mpe atiyaki litatoli na Yaakov, mpe atei Tora na Israel, oyo atindaki ⟨את⟩ ba-tata na biso, mpo bayebisa yango na bana na bango.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "atiyaki"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "litatoli"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "na Yaakov"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "mpe Tora"
+    },
+    {
+      "surface": "שם",
+      "gloss": "atei"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "na Israel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "atindaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ba-tata na biso"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "ba-tata na biso"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "mpo bayebisa bango"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "na bana na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:19:39.661057584Z",
+  "model": "glm-5.3"
+}

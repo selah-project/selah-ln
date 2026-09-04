@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "judges 1:29",
+  "book": "judges",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe Efraim alongosaki te ⟨את⟩ Kanani oyo azalaki kofanda na Gezer, mpe Kanani akofandaki na kati na ye, na Gezer.",
+  "tokens": [
+    {
+      "surface": "ואפרים",
+      "gloss": "Mpe Efraim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "alongosaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kanani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kanani"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "oyo azalaki kofanda"
+    },
+    {
+      "surface": "בגזר",
+      "gloss": "na Gezer"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "mpe akofandaki"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kanani"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "na kati na ye"
+    },
+    {
+      "surface": "בגזר",
+      "gloss": "na Gezer"
+    }
+  ],
+  "timestamp": "2026-09-03T17:55:42.708734897Z",
+  "model": "glm-5.3"
+}

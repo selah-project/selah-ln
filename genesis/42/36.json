@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 42:36",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 42,
+  "translation": "Yaakov tata na bango alobaki na bango: Boyingisaki ⟨את⟩ ngai bana; Yosef azali te, mpe Shimon azali te, mpe ⟨את⟩ Binyamin bokozwa; nyonso ezalaki epai na ngai.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "tata na bango"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ngai"
+    },
+    {
+      "surface": "שכלתם",
+      "gloss": "boyingisaki ngai bana"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "azali te"
+    },
+    {
+      "surface": "ושמעון",
+      "gloss": "mpe Shimon"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "azali te"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Binyamin"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "bokozwa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "epai na ngai"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ezalaki"
+    },
+    {
+      "surface": "כלנה",
+      "gloss": "nyonso"
+    }
+  ],
+  "timestamp": "2026-09-03T16:08:48.548214654Z",
+  "model": "glm-5.3"
+}

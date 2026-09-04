@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 12:15",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Natan akendaki na ndako na ye; mpe Yawe abubaki ⟨את⟩ mwana oyo mwasi ya Uria abotaki epai ya David, mpe abomaki makasi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "akendaki"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ndako na ye"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "abubaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwana"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "abotaki"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mwasi"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "ya Uria"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "epai ya David"
+    },
+    {
+      "surface": "ויאנש",
+      "gloss": "abomaki makasi"
+    }
+  ],
+  "timestamp": "2026-09-03T18:32:43.702207041Z",
+  "model": "glm-5.3"
+}

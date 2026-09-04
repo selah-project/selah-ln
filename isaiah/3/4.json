@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 3:4",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "mpe nakolakisa bana-basali bakonzi na bango, mpe bato ya bosoto bakokamba na bango.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "mpe nakolakisa"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "bana-basali"
+    },
+    {
+      "surface": "שריהם",
+      "gloss": "bakonzi na bango"
+    },
+    {
+      "surface": "ותעלולים",
+      "gloss": "mpe bato ya bosoto"
+    },
+    {
+      "surface": "ימשלו",
+      "gloss": "bakokamba"
+    },
+    {
+      "surface": "בם",
+      "gloss": "na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T19:13:50.684370066Z",
+  "model": "glm-5.3"
+}

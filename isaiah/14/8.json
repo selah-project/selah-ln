@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 14:8",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Ata banzete sepelaki na yo, banzete ya Levanon: uta oyo oliaki, mokataki akokota te na likolo na biso.",
+  "tokens": [
+    {
+      "surface": "גַּם",
+      "gloss": "Ata"
+    },
+    {
+      "surface": "בְּרוֹשִׁים",
+      "gloss": "banzete"
+    },
+    {
+      "surface": "שָׂמְח֥וּ",
+      "gloss": "sepelaki"
+    },
+    {
+      "surface": "לְךָ֖",
+      "gloss": "na yo"
+    },
+    {
+      "surface": "אַרְזֵ֣י",
+      "gloss": "banzete ya"
+    },
+    {
+      "surface": "לְבָנ֑וֹן",
+      "gloss": "Levanon"
+    },
+    {
+      "surface": "מֵאָ֣ז",
+      "gloss": "uta oyo"
+    },
+    {
+      "surface": "שָׁכַ֔בְתָּ",
+      "gloss": "oliaki"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יַעֲלֶ֥ה",
+      "gloss": "akokota"
+    },
+    {
+      "surface": "הַכֹּרֵ֖ת",
+      "gloss": "mokataki"
+    },
+    {
+      "surface": "עָלֵֽינוּ",
+      "gloss": "na likolo na biso"
+    }
+  ],
+  "timestamp": "2026-09-03T19:18:32.950020961Z",
+  "model": "glm-5.3"
+}

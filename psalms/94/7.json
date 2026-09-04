@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 94:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 94,
+  "translation": "Mpe balobi: Ya akomona te, mpe Elohim ya Yaakov asosoli te.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "mpe balobi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "akomona"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "asosoli"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ya"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-03T21:24:01.905559689Z",
+  "model": "glm-5.3"
+}

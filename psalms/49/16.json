@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 49:16",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 49,
+  "translation": "Solo, Elohim akobomba bomoi na ngai na maboko ya Sheol, mpo akondima ngai. Selah.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Solo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "akobomba"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "bomoi na ngai"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "na maboko"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "יקחני",
+      "gloss": "akondima ngai"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-03T21:12:15.160656783Z",
+  "model": "glm-5.3"
+}

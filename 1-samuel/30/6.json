@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 30:6",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 30,
+  "translation": "Mpe mawa makasi ekweyaki na David mingi, mpo bato balobaki kobeta ye mabanga, mpo molimo wa bato nyonso ekomaki mawa, moto na mwana na ye mpe na bana na ye basi; mpe David atombaki nguya na Yawe Elohim na ye.",
+  "tokens": [
+    {
+      "surface": "ותצר",
+      "gloss": "ekweyaki mawa makasi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "na David"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mingi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "balobaki"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "לסקלו",
+      "gloss": "kobeta ye mabanga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "ekomaki mawa"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "molimo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana na ye"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "mpe na"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "bana na ye basi"
+    },
+    {
+      "surface": "ויתחזק",
+      "gloss": "atombaki nguya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "na Yawe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T18:24:01.055204906Z",
+  "model": "glm-5.3"
+}

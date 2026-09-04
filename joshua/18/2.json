@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 18:2",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Mpe bakitisaki kati na bana ya Israel biekolo sambo, oyo babwaki te ⟨את⟩ libota na bango.",
+  "tokens": [
+    {
+      "surface": "ויותרו",
+      "gloss": "bakitisaki"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "kati na bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "babwaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "libota na bango"
+    },
+    {
+      "surface": "נחלתם",
+      "gloss": "libota na bango"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "sambo"
+    },
+    {
+      "surface": "שבטים",
+      "gloss": "biekolo"
+    }
+  ],
+  "timestamp": "2026-09-03T17:51:51.833911392Z",
+  "model": "glm-5.3"
+}

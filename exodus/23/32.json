@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 23:32",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Bokosala bokli na bango te, mpe na banzambe na bango.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "bokosala bokli"
+    },
+    {
+      "surface": "להם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "ולאלהיהם",
+      "gloss": "mpe na banzambe na bango"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "bokli"
+    }
+  ],
+  "timestamp": "2026-09-03T16:26:28.590201356Z",
+  "model": "glm-5.3"
+}

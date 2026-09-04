@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 2:24",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpo na yango mobali akotika ⟨את⟩ tata na ye mpe ⟨את⟩ mama na ye, mpe akokangana na mwasi na ye, mpe bakozala busara moko.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "akotika"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mobali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tata na ye"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "tata na ye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mama na ye"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mama na ye"
+    },
+    {
+      "surface": "ודבק",
+      "gloss": "mpe akokangana na"
+    },
+    {
+      "surface": "באשתו",
+      "gloss": "mwasi na ye"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "mpe bakozala"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "busara"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "moko"
+    }
+  ],
+  "timestamp": "2026-09-03T15:44:57.285723524Z",
+  "model": "glm-5.3"
+}

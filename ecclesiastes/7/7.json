@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mpo ete bonyongo emesaka moyebi sangele, mpe kado ebebisaka ⟨את⟩ motema.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo ete"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "bonyongo"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "emesaka sangele"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "moyebi"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "mpe ebebisaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motema"
+    },
+    {
+      "surface": "לב",
+      "gloss": "motema"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "kado"
+    }
+  ],
+  "timestamp": "2026-09-03T22:14:58.672861859Z",
+  "model": "glm-5.3"
+}

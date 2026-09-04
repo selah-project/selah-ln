@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 2:11",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe mampinga na ye mpe bapesami-motuya na ye: motoba na makumi minei ya nkoto, mpe nkama mitano.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "mpe mampinga na ye"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "mpe bapesami-motuya na ye"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "motoba"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "mpe makumi minei"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ya nkoto"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "mpe mitano"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "nkama"
+    }
+  ],
+  "timestamp": "2026-09-03T16:59:10.873185456Z",
+  "model": "glm-5.3"
+}

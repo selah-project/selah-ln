@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 140:11",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 140,
+  "translation": "Bifuka ya moto bakweyaka likolo na bango; na moto ⟨atumbola bango⟩; na bikuku minene — basimama te ⟨tii na suka⟩.",
+  "tokens": [
+    {
+      "surface": "ימיטו",
+      "gloss": "bakweyaka"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "likolo na bango"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "bifuka"
+    },
+    {
+      "surface": "באש",
+      "gloss": "na moto"
+    },
+    {
+      "surface": "יפלם",
+      "gloss": "atumbola bango"
+    },
+    {
+      "surface": "במהמרות",
+      "gloss": "na bikuku minene"
+    },
+    {
+      "surface": "בל",
+      "gloss": "te"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "basimama"
+    }
+  ],
+  "timestamp": "2026-09-03T21:34:48.925348215Z",
+  "model": "glm-5.3"
+}

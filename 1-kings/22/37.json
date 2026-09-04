@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 22:37",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Mpe mokonzi akufaki, mpe ⟨ye⟩ aingaki na Shomeron, mpe bakundaki ⟨את⟩ mokonzi na Shomeron.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "akufaki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "mpe ⟨ye⟩ aingaki"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "mpe bakundaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mokonzi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "na Shomeron"
+    }
+  ],
+  "timestamp": "2026-09-03T18:57:46.546540395Z",
+  "model": "glm-5.3"
+}

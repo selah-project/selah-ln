@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 23:14",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Efron ayanolaki ⟨את⟩ Avraham, koloba na ye:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ayanolaki"
+    },
+    {
+      "surface": "עפרון",
+      "gloss": "Efron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "koloba"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T15:54:20.153459575Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 142:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 142,
+  "translation": "Libolu na ngai epai ya Yawe nazali kokeba; libolu na ngai epai ya Yawe nazali kosenga ngolu.",
+  "tokens": [
+    {
+      "surface": "ק֭וֹלִי",
+      "gloss": "Libolu na ngai"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "יְהוָ֣ה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אֶזְעָ֑ק",
+      "gloss": "nazali kokeba"
+    },
+    {
+      "surface": "ק֝וֹלִ֗י",
+      "gloss": "libolu na ngai"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אֶתְחַנָּֽן",
+      "gloss": "nazali kosenga ngolu"
+    }
+  ],
+  "timestamp": "2026-09-03T23:36:19.941747658Z",
+  "model": "glm-5.3"
+}

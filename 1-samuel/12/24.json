@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 12:24",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Kaka boyela ⟨את⟩ Yawe, mpe bosalele ⟨את⟩ yě na bosolo, na motema na bino mobimba; mpo bomoni ⟨את⟩ oyo asalaki ye monene elongo na bino.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "kaka"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "boyela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "mpe bosalele"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yě (na bosolo)"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "na bosolo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na mobimba"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "motema na bino"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "bomoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oyo (asalaki monene)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "asalaki monene"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "elongo na bino"
+    }
+  ],
+  "timestamp": "2026-09-04T00:19:51.572541387Z",
+  "model": "glm-5.3"
+}

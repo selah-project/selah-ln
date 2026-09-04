@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 63:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 63,
+  "translation": "Bongo na esika santu namonaki yo, mpo na komona nguya na yo mpe nkembo na yo.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Bongo"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "na esika santu"
+    },
+    {
+      "surface": "חזיתיך",
+      "gloss": "namonaki yo"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "mpo na komona"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "nguya na yo"
+    },
+    {
+      "surface": "וכבודך",
+      "gloss": "mpe nkembo na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:16:20.080446707Z",
+  "model": "glm-5.3"
+}

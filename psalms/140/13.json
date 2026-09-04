@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 140:13",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 140,
+  "translation": "Nazali koyeba ete Yawe akosala bosolo ya moto oyo azali na mawa, mpe mbuya ya babolo.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "Nazali koyeba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "akosala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "דין",
+      "gloss": "bosolo"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ya moto oyo azali na mawa"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "mbuya"
+    },
+    {
+      "surface": "אבינים",
+      "gloss": "ya babolo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:34:17.380103276Z",
+  "model": "glm-5.3"
+}

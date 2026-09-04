@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 8:10",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe esilaki, tango bakoheni babimaki na esika santu, lipata emplaki ⟨את⟩ ndako ya Yawe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mpe esilaki"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "tango babimaki"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "bakoheni"
+    },
+    {
+      "surface": "מן",
+      "gloss": "na"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "esika santu"
+    },
+    {
+      "surface": "והענן",
+      "gloss": "mpe lipata"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "emplaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndako ya Yawe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T18:48:17.019121889Z",
+  "model": "glm-5.3"
+}

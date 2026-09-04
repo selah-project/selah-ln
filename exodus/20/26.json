@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 20:26",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 20,
+  "translation": "Mpe okokota te na matulu likolo ya mizbe na ngai, mpo ete bozangi na yo bikokana te likolo na yango.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Mpe ... te"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "okokota"
+    },
+    {
+      "surface": "במעלת",
+      "gloss": "na matulu"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "mizbe na ngai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "bikokana"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "bozangi na yo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "likolo na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:24:38.025623604Z",
+  "model": "glm-5.3"
+}

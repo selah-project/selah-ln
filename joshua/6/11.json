@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 6:11",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpe azingaki sanduku ya Yawe ⟨את⟩ engumba, kozinga mbala moko, mpe bayaki na kampa mpe balalaki na kampa.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "mpe azingaki"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "engumba"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "engumba"
+    },
+    {
+      "surface": "הקף",
+      "gloss": "kozinga"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "mbala"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "moko"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "mpe bayaki"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kampa"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "mpe balalaki"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "na kampa"
+    }
+  ],
+  "timestamp": "2026-09-03T17:44:12.719241786Z",
+  "model": "glm-5.3"
+}

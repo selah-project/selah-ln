@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 8:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Osalaki ye mokonzi likolo ya misala ya maboko na yo; nyonso otyaki yango na nse ya makolo na ye.",
+  "tokens": [
+    {
+      "surface": "תמשילהו",
+      "gloss": "osalaki ye mokonzi"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "likolo ya misala"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "ya maboko na yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "otyaki yango"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "na nse ya"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "makolo na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:01:48.510472969Z",
+  "model": "glm-5.3"
+}

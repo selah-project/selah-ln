@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 16:12",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Mpe Zimri elimwisaki ⟨את⟩ ndako nyonso ya Baasha, ndenge liloba ya Yawe oyo Yawe alobaki epai ya Baasha na loboko ya Yehu navi.",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "Mpe Zimri elimwisaki"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Mpe Zimri elimwisaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndako nyonso ya Baasha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "ya Baasha"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ndenge liloba ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "na loboko ya"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "navi"
+    }
+  ],
+  "timestamp": "2026-09-03T23:24:49.930476520Z",
+  "model": "glm-5.3"
+}

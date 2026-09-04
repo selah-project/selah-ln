@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 94:22",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 94,
+  "translation": "Mpe Yawe akomaki na ngai mosungi monene, mpe Elohim na ngai litunga, esika ya bobombami na ngai.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mpe akomaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "mosungi monene"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "mpe Elohim na ngai"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "litunga"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "esika ya bobombami na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:23:49.959266220Z",
+  "model": "glm-5.3"
+}

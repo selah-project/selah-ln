@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 106:36",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 106,
+  "translation": "Mpe basembolaki ⟨את⟩ bikeko na bango, mpe bikeko wana ekomaki moku epai na bango.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "Mpe basembolaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bikeko na bango"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "bikeko na bango"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "mpe ... ekomaki"
+    },
+    {
+      "surface": "להם",
+      "gloss": "epai na bango"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "moku"
+    }
+  ],
+  "timestamp": "2026-09-03T21:27:54.464538878Z",
+  "model": "glm-5.3"
+}

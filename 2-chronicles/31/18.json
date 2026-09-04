@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 31:18",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 31,
+  "translation": "mpe na boyokani ya libota na mobimba bana mike na bango, basi na bango, mpe bana mbali na bango mpe bana mwasi na bango, na mobimba ya lisanga, mpo na bondimi na bango bongangami lokola bonsanto",
+  "tokens": [
+    {
+      "surface": "ולהתיחש",
+      "gloss": "mpe na boyokani ya libota"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na mobimba"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "bana mike na bango"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "basi na bango"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "mpe bana mbali na bango"
+    },
+    {
+      "surface": "ובנותיהם",
+      "gloss": "mpe bana mwasi na bango"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "na mobimba ya"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "lisanga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "באמונתם",
+      "gloss": "na bondimi na bango"
+    },
+    {
+      "surface": "יתקדשו",
+      "gloss": "bongangami"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "lokola bonsanto"
+    }
+  ],
+  "timestamp": "2026-09-03T23:08:40.299277879Z",
+  "model": "glm-5.3"
+}

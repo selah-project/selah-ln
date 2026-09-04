@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 63:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 63,
+  "translation": "Molimo na ngai ekangami na nsima ya yo; na ngai loboko na yo ya lokumu etikalaka ngai.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "ekangami"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "molimo na ngai"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "na nsima ya yo"
+    },
+    {
+      "surface": "בי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "תמכה",
+      "gloss": "etikalaka"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "loboko na yo ya lokumu"
+    }
+  ],
+  "timestamp": "2026-09-03T21:15:22.643119370Z",
+  "model": "glm-5.3"
+}

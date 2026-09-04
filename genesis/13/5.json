@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 13:5",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Mpe Lot mpe, oyo azalaki kokende ⟨את⟩ elongo na Avraham, azalaki na bitutu, mpe ngombe, mpe matenti.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Mpe mpe"
+    },
+    {
+      "surface": "ללוט",
+      "gloss": "na Lot"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "oyo azalaki kokende"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ elongo na"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "היה",
+      "gloss": "azalaki na"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "bitutu"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "mpe ngombe"
+    },
+    {
+      "surface": "ואהלים",
+      "gloss": "mpe matenti"
+    }
+  ],
+  "timestamp": "2026-09-03T23:11:19.361007622Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 25:8",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Mpe amemamaki mpema, mpe akufaki Avraham na bokuli ya malamu, moyibi mpe asatuki; mpe boongwanaki na ekolo na ye.",
+  "tokens": [
+    {
+      "surface": "ויגוע",
+      "gloss": "mpe amemamaki mpema"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "mpe akufaki"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "na bokuli"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "ya malamu"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "moyibi"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "mpe asatuki"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "mpe boongwanaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "עמיו",
+      "gloss": "ekolo na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T15:56:51.678868588Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 107:18",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 107,
+  "translation": "Biloko ya kolia nyonso molimo na bango ezalaki koluka, mpe bakitaki kino na bandako ya liwa.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "biloko ya kolia"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "ezalaki koluka"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "molimo na bango"
+    },
+    {
+      "surface": "ויגיעו",
+      "gloss": "mpe bakitaki"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino na"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "bandako"
+    },
+    {
+      "surface": "מות",
+      "gloss": "liwa"
+    }
+  ],
+  "timestamp": "2026-09-03T21:28:22.355209810Z",
+  "model": "glm-5.3"
+}

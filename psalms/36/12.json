@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 36:12",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 36,
+  "translation": "Kasi likau ya bokasi ekoya epai ya ngai te, mpe maboko ya bato mabe okangola ngai libanda te.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Kasi"
+    },
+    {
+      "surface": "תבואני",
+      "gloss": "ekoya epai ya ngai te"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "likau"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "ya bokasi"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "mpe maboko"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ya bato mabe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kasi"
+    },
+    {
+      "surface": "תנדני",
+      "gloss": "okangola ngai libanda te"
+    }
+  ],
+  "timestamp": "2026-09-03T21:08:00.503325033Z",
+  "model": "glm-5.3"
+}

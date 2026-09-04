@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 129:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 129,
+  "translation": "Oyo ekoti te na lokasa ya mokatuki, mpe te na libumu ya mokangisaka makeke ya zete.",
+  "tokens": [
+    {
+      "surface": "שלא",
+      "gloss": "te"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ekoti"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "lokasa ya"
+    },
+    {
+      "surface": "קוצר",
+      "gloss": "mokatuki"
+    },
+    {
+      "surface": "וחצנו",
+      "gloss": "mpe te na libumu"
+    },
+    {
+      "surface": "מעמר",
+      "gloss": "mokangisaka makeke ya zete"
+    }
+  ],
+  "timestamp": "2026-09-03T21:33:29.469293758Z",
+  "model": "glm-5.3"
+}

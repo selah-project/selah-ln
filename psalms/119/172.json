@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 172,
+  "ref": "psalms 119:172",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Monoko na ngai ekoyanola liloba na yo, mpo mibeko na yo nyonso ezali sembe.",
+  "tokens": [
+    {
+      "surface": "תען",
+      "gloss": "ekoyanola"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "monoko na ngai"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "liloba na yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "mibeko na yo"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "sembe"
+    }
+  ],
+  "timestamp": "2026-09-03T21:32:39.099646867Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "numbers 26:55",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "Kaka na gorale mabele ekabwani ⟨את⟩ mabele; na bankombo ya bamate ya batata na bango bakwaka bofungwa.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Kaka"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "na gorale"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "ekabwani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "לשמות",
+      "gloss": "na bankombo"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "ya bamate"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "ya batata na bango"
+    },
+    {
+      "surface": "ינחלו",
+      "gloss": "bakwaka bofungwa"
+    }
+  ],
+  "timestamp": "2026-09-03T17:16:24.792117042Z",
+  "model": "glm-5.3"
+}

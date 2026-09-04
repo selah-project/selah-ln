@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 18:7",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Ekoleya ya tata na yo mpe ekoleya ya mama na yo, okolakisa te; mama na yo ye ⟨ezali⟩ — okolakisa te ekoleya na ye.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "Ekoleya"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ya tata na yo"
+    },
+    {
+      "surface": "וערות",
+      "gloss": "mpe ekoleya"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ya mama na yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "okolakisa"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "mama na yo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "okolakisa"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "ekoleya na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T16:49:04.752980297Z",
+  "model": "glm-5.3"
+}

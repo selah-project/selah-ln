@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 42:1",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 42,
+  "translation": "Yaakov amonaki ete ezali bilei na Mitsraim, mpe Yaakov alobaki na bana na ye: Mpo na nini bozalali kotala bino na bino?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "amonaki"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ezali"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "bilei"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "na Mitsraim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "na bana na ye"
+    },
+    {
+      "surface": "למה",
+      "gloss": "mpo na nini"
+    },
+    {
+      "surface": "תתראו",
+      "gloss": "bozalali kotala bino na bino"
+    }
+  ],
+  "timestamp": "2026-09-03T16:09:19.400612622Z",
+  "model": "glm-5.3"
+}

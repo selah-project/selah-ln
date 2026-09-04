@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 8:2",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Atandi Aharon ⟨את⟩ maboko na ye likolo ya mai ya Mitsraim, mpe batsafarde elekaki mpe ekangaki ⟨את⟩ mabele ya Mitsraim.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "Atandi"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maboko na ye"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "maboko na ye"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "mai"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "mpe elekaki"
+    },
+    {
+      "surface": "הצפרדע",
+      "gloss": "batsafarde"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "mpe ekangaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabele"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    }
+  ],
+  "timestamp": "2026-09-03T16:17:58.972182647Z",
+  "model": "glm-5.3"
+}

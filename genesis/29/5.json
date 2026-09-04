@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 29:5",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 29,
+  "translation": "Mpe alobaki na bango: Boyebi ⟨את⟩ Lavan, mwana ⟨wa⟩ Nahor? Mpe balobaki: Toyebo te — toyebi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "להם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "Boyebi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lavan"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "⟨wa⟩ Nahor"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "Mpe balobaki"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "toyebi"
+    }
+  ],
+  "timestamp": "2026-09-03T15:59:05.058285822Z",
+  "model": "glm-5.3"
+}

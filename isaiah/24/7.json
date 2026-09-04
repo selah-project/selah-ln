@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 24:7",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "Tirosh auelaki na mawa, nzete ya mbila komololaki, nyonso baoyo bazalaki na esengo ya motema bazelaki kosula.",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "auelaki na mawa"
+    },
+    {
+      "surface": "תירוש",
+      "gloss": "Tirosh"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "komololaki"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "nzete ya mbila"
+    },
+    {
+      "surface": "נאנחו",
+      "gloss": "bazelaki kosula"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "שמחי",
+      "gloss": "baoyo bazalaki na esengo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ya motema"
+    }
+  ],
+  "timestamp": "2026-09-03T19:22:26.452833438Z",
+  "model": "glm-5.3"
+}

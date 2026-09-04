@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 9:18",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "mpe ⟨את⟩ Baalata, mpe ⟨את⟩ Tamara, na zando, na mabele.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Baalata"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "Baalata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Tamara"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamara"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "na zando"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T18:49:03.151993609Z",
+  "model": "glm-5.3"
+}

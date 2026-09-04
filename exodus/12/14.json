@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 12:14",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Mpe mokolo oyo ekokomaka na bino likundoli, mpe bolanda ⟨את⟩ fete ya Yawe na bakitani na bino; likanisi ya ntango nyonso bolanda yango fete.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Mpe ekokomaka"
+    },
+    {
+      "surface": "היום",
+      "gloss": "mokolo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "na bino"
+    },
+    {
+      "surface": "לזכרון",
+      "gloss": "likundoli"
+    },
+    {
+      "surface": "וחגתם",
+      "gloss": "mpe bolanda fete"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yango",
+      "marks": "fete"
+    },
+    {
+      "surface": "חג",
+      "gloss": "fete"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ya Yawe"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "na bakitani na bino"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "likanisi"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ya ntango nyonso"
+    },
+    {
+      "surface": "תחגהו",
+      "gloss": "bolanda yango fete"
+    }
+  ],
+  "timestamp": "2026-09-03T16:21:24.993464147Z",
+  "model": "glm-5.3"
+}

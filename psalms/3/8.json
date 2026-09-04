@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 3:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Yema, Yawe; bikisa ngai, Elohim na ngai; mpo omukaki ⟨את⟩ bangwisi na ngai nyonso na lokoko; mano ya babubi obukaki.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Yema"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "bikisa ngai"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim na ngai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "omukaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangwisi na ngai nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "bangwisi na ngai"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "na lokoko"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mano"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ya babubi"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "obukaki"
+    }
+  ],
+  "timestamp": "2026-09-03T23:33:33.033061374Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 1:9",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Alobaki na ekolo na ye: Tala, ekolo ya bana ya Israel ezali monene mpe ya nguya koleka biso.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ekolo na ye"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Tala"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ekolo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "רב",
+      "gloss": "monene"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "mpe ya nguya"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "koleka biso"
+    }
+  ],
+  "timestamp": "2026-09-03T16:12:29.477865878Z",
+  "model": "glm-5.3"
+}

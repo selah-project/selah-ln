@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 42:7",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 42,
+  "translation": "mpo ya kofungola miso ya bapimisi, mpo ya kobimisa ekangami uta na ekango, mpe bafandi na moindo uta na ndako ya bofungo,",
+  "tokens": [
+    {
+      "surface": "לפקח",
+      "gloss": "mpo ya kofungola"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "miso"
+    },
+    {
+      "surface": "עורות",
+      "gloss": "ya bapimisi"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "mpo ya kobimisa"
+    },
+    {
+      "surface": "ממסגר",
+      "gloss": "uta na ekango"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "ekangami"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "uta na ndako"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "ya bofungo"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "bafandi"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "na moindo"
+    }
+  ],
+  "timestamp": "2026-09-03T19:29:50.783075023Z",
+  "model": "glm-5.3"
+}

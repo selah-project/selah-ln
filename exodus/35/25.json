@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 35:25",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 35,
+  "translation": "Mpe basi nyonso oyo bazalaki na bwanya ya motema basalaki filile na maboku na bango, mpe bamemaki filile: ⟨את⟩ langi ya zulu, mpe ⟨את⟩ langi ya motuya, ⟨את⟩ tolé ya moindo, mpe ⟨את⟩ lin.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "mpe … nyonso"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "basi"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "na bwanya"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ya motema"
+    },
+    {
+      "surface": "בידיה",
+      "gloss": "na maboku na bango"
+    },
+    {
+      "surface": "טוו",
+      "gloss": "basalaki filile"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "mpe bamemaki"
+    },
+    {
+      "surface": "מטוה",
+      "gloss": "filile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "langi ya zulu"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "langi ya zulu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "langi ya motuya"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "langi ya motuya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tolé ya moindo"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "tolé ya"
+    },
+    {
+      "surface": "השני",
+      "gloss": "moindo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "lin"
+    },
+    {
+      "surface": "השש",
+      "gloss": "lin"
+    }
+  ],
+  "timestamp": "2026-09-03T16:35:33.431167892Z",
+  "model": "glm-5.3"
+}

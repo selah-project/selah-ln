@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "exodus 25:40",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Mpe tala, mpe sala na boninga na yango, oyo yo ozali komona na ngomba.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "mpe tala"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "mpe sala"
+    },
+    {
+      "surface": "בתבניתם",
+      "gloss": "na boninga na yango"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "ozali komona"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "na ngomba"
+    }
+  ],
+  "timestamp": "2026-09-03T16:27:40.793564719Z",
+  "model": "glm-5.3"
+}

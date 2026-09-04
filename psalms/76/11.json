@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 76:11",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 76,
+  "translation": "Ya solo, kanda ya moto ekokumisa yo; eleki ya kanda okobekela.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ya solo"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "kanda"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ya moto"
+    },
+    {
+      "surface": "תודך",
+      "gloss": "ekokumisa yo"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "eleki"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ya kanda"
+    },
+    {
+      "surface": "תחגר",
+      "gloss": "okobekela"
+    }
+  ],
+  "timestamp": "2026-09-03T21:18:36.815404706Z",
+  "model": "glm-5.3"
+}

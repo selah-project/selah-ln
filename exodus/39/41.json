@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "exodus 39:41",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 39,
+  "translation": "⟨את⟩ bilamba ya bosaleli mpo na kosalela na santu, ⟨את⟩ bilamba ya santu mpo na Aharon kohen, mpe ⟨את⟩ bilamba ya bana na ye mpo na bokohen.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bilamba ya bosaleli"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "bilamba"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "ya bosaleli"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "mpo na kosalela"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "na santu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bilamba ya santu"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "bilamba"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ya santu"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "mpo na Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bilamba ya bana na ye"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "bilamba"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ya bana na ye"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "mpo na bokohen"
+    }
+  ],
+  "timestamp": "2026-09-03T16:38:20.821593962Z",
+  "model": "glm-5.3"
+}

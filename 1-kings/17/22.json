@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 17:22",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 17,
+  "translation": "Mpe Yawe oyokaki lolaka ya Eliyahu, mpe nyumu ya mwana ezongaki na libumu na ye, mpe azalaki na bomoi.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "mpe oyokaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "lolaka ya"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "mpe ezongaki"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nyumu"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ya mwana"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "libumu na ye"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "mpe azalaki na bomoi"
+    }
+  ],
+  "timestamp": "2026-09-03T18:53:18.233676053Z",
+  "model": "glm-5.3"
+}

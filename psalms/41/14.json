@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 41:14",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 41,
+  "translation": "Yawe, Elohim ya Israel, abonami ⟨ezali⟩ uta na libela mpe kino na libela, Amen, mpe Amen.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "abonami"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מהעולם",
+      "gloss": "uta na libela"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "mpe kino"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "na libela"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "mpe Amen"
+    }
+  ],
+  "timestamp": "2026-09-03T21:09:25.756141300Z",
+  "model": "glm-5.3"
+}

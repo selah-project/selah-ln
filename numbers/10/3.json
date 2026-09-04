@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 10:3",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Mpe soki bofulaki na yango, mobimba ya lisanga bakosangana epai na yo, na nzela ya bokoti ya tente ya kokutana.",
+  "tokens": [
+    {
+      "surface": "ותקעו",
+      "gloss": "Mpe soki bofulaki"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "ונועדו",
+      "gloss": "bakosangana"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "epai na yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mobimba ya"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "lisanga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "nzela ya bokoti"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tente"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya kokutana"
+    }
+  ],
+  "timestamp": "2026-09-03T17:04:59.712968733Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 142,
+  "ref": "psalms 119:142",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Bosembo na yo ⟨ezali⟩ bosembo ya likolo ya ntango nyonso, mpe Tora na yo ⟨ezali⟩ solo.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "bosembo na yo"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "bosembo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ya likolo ya ntango nyonso"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "mpe Tora na yo"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "solo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:32:13.082869221Z",
+  "model": "glm-5.3"
+}

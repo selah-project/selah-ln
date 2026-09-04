@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 14:16",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Mpe yo, longola lokasa na yo, mpe toyela maboko na yo likolo ya mai, mpe kokabola yango; mpe bana ya Israel bakokota kati-kati ya mai na mabele moseka.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Mpe yo"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "longola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lokasa na yo"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "lokasa na yo"
+    },
+    {
+      "surface": "ונטה",
+      "gloss": "mpe toyela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maboko na yo"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "maboko na yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "הים",
+      "gloss": "mai"
+    },
+    {
+      "surface": "ובקעהו",
+      "gloss": "mpe kokabola yango"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "mpe bakokota"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "kati-kati ya"
+    },
+    {
+      "surface": "הים",
+      "gloss": "mai"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "na mabele moseka"
+    }
+  ],
+  "timestamp": "2026-09-03T16:20:49.022958459Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 3:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Ya Yawe bobiki; likolo ya bato na yo mapamboli na yo. Selah.",
+  "tokens": [
+    {
+      "surface": "ליהוה",
+      "gloss": "ya Yawe"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "bobiki"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bato na yo"
+    },
+    {
+      "surface": "ברכתך",
+      "gloss": "mapamboli na yo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-03T20:59:03.710524606Z",
+  "model": "glm-5.3"
+}

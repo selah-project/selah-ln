@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 9:20",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Oyo azalaki kobanga ⟨את⟩ liloba ya Yawe kati ya basali ya Parao, atindaki na mbangu ⟨את⟩ basali na ye mpe ⟨את⟩ banyama na ye na bandako.",
+  "tokens": [
+    {
+      "surface": "הירא",
+      "gloss": "oyo azalaki kobanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "liloba"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "liloba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "kati ya basali ya"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "הניס",
+      "gloss": "atindaki na mbangu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "basali na ye"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "basali na ye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "banyama na ye"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "banyama na ye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "bandako"
+    }
+  ],
+  "timestamp": "2026-09-03T16:17:30.983277044Z",
+  "model": "glm-5.3"
+}

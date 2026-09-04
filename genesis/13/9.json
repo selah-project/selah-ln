@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 13:9",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Longo te, mabele mobimba ezali na liboso na yo? Kabola yo moko, na limosa, utai na ngai. Soki ozali na mwambe, mpe na nseko; mpe soki na nseko, mpe na mwambe.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Longo te"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mobimba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "na liboso na yo"
+    },
+    {
+      "surface": "הפרד",
+      "gloss": "Kabola yo moko"
+    },
+    {
+      "surface": "נא",
+      "gloss": "na limosa"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "utai na ngai"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Soki"
+    },
+    {
+      "surface": "השמאל",
+      "gloss": "mwambe"
+    },
+    {
+      "surface": "וְאֵימִנָה",
+      "gloss": "mpe nseko"
+    },
+    {
+      "surface": "וְאִם",
+      "gloss": "mpe soki"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "nseko"
+    },
+    {
+      "surface": "וְאַשְׂמְאִילָה",
+      "gloss": "mpe na mwambe"
+    }
+  ],
+  "timestamp": "2026-09-03T15:49:38.034329709Z",
+  "model": "glm-5.3"
+}

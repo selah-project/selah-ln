@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 98:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 98,
+  "translation": "Bosakana na Yawe, mabele mobimba; bimelá na esengo, mpe kosekana, mpe koyimbela.",
+  "tokens": [
+    {
+      "surface": "הריעו",
+      "gloss": "bosakana"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "na Yawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mobimba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "bimelá na esengo"
+    },
+    {
+      "surface": "ורננו",
+      "gloss": "mpe kosekana"
+    },
+    {
+      "surface": "וזמרו",
+      "gloss": "mpe koyimbela"
+    }
+  ],
+  "timestamp": "2026-09-03T21:26:16.083281191Z",
+  "model": "glm-5.3"
+}

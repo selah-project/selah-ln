@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 24:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "Oyo nde libota ya balukaka Ye, balukaka elongi na yo, o Yaakov. Selah.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Oyo"
+    },
+    {
+      "surface": "דור",
+      "gloss": "libota"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "balukaka Ye"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "balukaka"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "elongi na yo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-03T21:06:38.538551337Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 18:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Bakangi ya liwa babombaki ngai, mpe milulu ya Belial basepisaki ngai.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "babombaki ngai"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "bakangi"
+    },
+    {
+      "surface": "מות",
+      "gloss": "liwa"
+    },
+    {
+      "surface": "ונחלי",
+      "gloss": "mpe milulu"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Belial"
+    },
+    {
+      "surface": "יבעתוני",
+      "gloss": "basepisaki ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:04:13.882718969Z",
+  "model": "glm-5.3"
+}

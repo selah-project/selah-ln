@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 22:27",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Elohim okolapa te, mpe mokonzi na kati ya bato na yo okopeka ofo te.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "okolapa"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "mpe mokonzi"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "na kati ya bato na yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תאור",
+      "gloss": "okopeka ofo"
+    }
+  ],
+  "timestamp": "2026-09-03T16:25:09.866793737Z",
+  "model": "glm-5.3"
+}

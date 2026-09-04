@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 4:2",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mokolo wana, Tsemach ya Yawe ekokanisa mpo na kitoko mpe mpo na nkembo; mpe mboto ya mabele ekokanisa mpo na bokasi mpe mpo na bomali, mpo na bapolami ya Israel.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "mokolo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "wana"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ekokanisa"
+    },
+    {
+      "surface": "צמח",
+      "gloss": "Tsemach"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לצבי",
+      "gloss": "mpo na kitoko"
+    },
+    {
+      "surface": "ולכבוד",
+      "gloss": "mpe mpo na nkembo"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "mpe mboto"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ya mabele"
+    },
+    {
+      "surface": "לגאון",
+      "gloss": "mpo na bokasi"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "mpe mpo na bomali"
+    },
+    {
+      "surface": "לפליטת",
+      "gloss": "mpo na bapolami"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    }
+  ],
+  "timestamp": "2026-09-03T19:14:45.272710162Z",
+  "model": "glm-5.3"
+}

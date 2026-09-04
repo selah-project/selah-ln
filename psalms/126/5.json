@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 126:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 126,
+  "translation": "Bayo bazali kobosa na miso mai bakokanga na loyi.",
+  "tokens": [
+    {
+      "surface": "הַזֹּרְעִים",
+      "gloss": "Bayo bazali kobosa"
+    },
+    {
+      "surface": "בְּדִמְעָה",
+      "gloss": "na miso mai"
+    },
+    {
+      "surface": "בְּרִנָּה",
+      "gloss": "na loyi"
+    },
+    {
+      "surface": "יִקְצֹרוּ",
+      "gloss": "bakokanga"
+    }
+  ],
+  "timestamp": "2026-09-03T21:33:07.048436329Z",
+  "model": "glm-5.3"
+}

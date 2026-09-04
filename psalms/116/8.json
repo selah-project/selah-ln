@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 116:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 116,
+  "translation": "Mpo obimisaki molimo na ngai uta na liwa, ⟨את⟩ miso na ngai uta na milulu, ⟨את⟩ makolo na ngai uta na bokwea.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "חלצת",
+      "gloss": "obimisaki"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "molimo na ngai"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "uta na liwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miso na ngai"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "miso na ngai"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uta na"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "milulu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makolo na ngai"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "makolo na ngai"
+    },
+    {
+      "surface": "מדחי",
+      "gloss": "bokwea"
+    }
+  ],
+  "timestamp": "2026-09-03T21:30:37.332980318Z",
+  "model": "glm-5.3"
+}

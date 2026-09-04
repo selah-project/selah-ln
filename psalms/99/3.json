@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 99:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 99,
+  "translation": "Bato bakumisaka nkombo na yo — monene mpe ya bobangi — yeye ⟨azali⟩ mosantu.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "bakumisaka"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nkombo na yo"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "monene"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "ya bobangi"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "mosantu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yeye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:26:27.707670858Z",
+  "model": "glm-5.3"
+}

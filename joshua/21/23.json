@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 21:23",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Mpe uta na libota ya Dan ⟨את⟩ Elteke mpe ⟨את⟩ esika-bolamba na yango, ⟨את⟩ Giveton mpe ⟨את⟩ esika-bolamba na yango.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "mpe uta na libota"
+    },
+    {
+      "surface": "דן",
+      "gloss": "ya Dan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elteke"
+    },
+    {
+      "surface": "אלתקא",
+      "gloss": "Elteke"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "esika-bolamba na yango"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Giveton"
+    },
+    {
+      "surface": "גבתון",
+      "gloss": "Giveton"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "esika-bolamba na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T17:52:53.756719919Z",
+  "model": "glm-5.3"
+}

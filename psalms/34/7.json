@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 34:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 34,
+  "translation": "Oyo mokunda abengaki, mpe Yawe oyokaki, mpe abikisaki ye na mikakatano na ye nyonso.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "עני",
+      "gloss": "mokunda"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "abengaki"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "mpe Yawe"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "oyokaki"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "mpe na nyonso"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "mikakatano na ye"
+    },
+    {
+      "surface": "הושיעו",
+      "gloss": "abikisaki ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:08:08.147124281Z",
+  "model": "glm-5.3"
+}

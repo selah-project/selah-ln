@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 68:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 68,
+  "translation": "Mpo na mokambi ya miziki, ya David — nzembo, loyembo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Mpo na mokambi ya miziki"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "nzembo"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "loyembo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:16:18.972265252Z",
+  "model": "glm-5.3"
+}

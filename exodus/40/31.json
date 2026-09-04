@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 40:31",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 40,
+  "translation": "Mpe Moshe mpe Aharon mpe bankumba na ye basukolaki na yango ⟨את⟩ maboko na bango mpe ⟨את⟩ makolo na bango.",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "Mpe basukolaki"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "mpe Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "mpe bankumba na ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maboko na bango"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "maboko na bango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "makolo na bango"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "makolo na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:39:11.139105782Z",
+  "model": "glm-5.3"
+}

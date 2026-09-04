@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "malachi 3:16",
+  "book": "malachi",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Na ntango yango babangi ya Yawe balobaki, moto na moto ⟨את⟩ monguna na yango; mpe Yawe atalaki mpe ayokaki, mpe akomaki buku ya kokanisa liboso na ye, mpo na babangi ya Yawe mpe mpo na baoyo bakanisi nkombo na ye.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "na ntango yango"
+    },
+    {
+      "surface": "נדברו",
+      "gloss": "balobaki"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "babangi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yawe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto na moto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "monguna na yango"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "monguna na yango"
+    },
+    {
+      "surface": "ויקשב",
+      "gloss": "mpe Yawe atalaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "mpe ayokaki"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "mpe akomaki"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "buku"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "ya kokanisa"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "liboso na ye"
+    },
+    {
+      "surface": "ליראי",
+      "gloss": "mpo na babangi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yawe"
+    },
+    {
+      "surface": "ולחשבי",
+      "gloss": "mpe mpo na baoyo bakanisi"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nkombo na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:00:44.233238551Z",
+  "model": "glm-5.3"
+}

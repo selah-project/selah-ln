@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 116:13",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 116,
+  "translation": "Kopo ya bosalisi nakolamba, mpe na kombo ya Yawe nakobenga.",
+  "tokens": [
+    {
+      "surface": "כוס",
+      "gloss": "kopo"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "bosalisi"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "nakolamba"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "mpe na kombo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "nakobenga"
+    }
+  ],
+  "timestamp": "2026-09-03T21:30:32.472621662Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 6:10",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpe ⟨את⟩ bato Yehoshua atindaki koloba: Bosakana te, mpe boyebisa te ⟨את⟩ mongongo na bino, mpe liloba moko te akobima na monoko na bino, kino mokolo nakoloba na bino: Bosakana! mpe bosakana.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bato"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "atindaki"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "koloba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "bosakana"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "תשמיעו",
+      "gloss": "boyebisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mongongo na bino"
+    },
+    {
+      "surface": "קולכם",
+      "gloss": "mongongo na bino"
+    },
+    {
+      "surface": "ו לא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "akobima"
+    },
+    {
+      "surface": "מפיכם",
+      "gloss": "na monoko na bino"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "liloba"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mokolo"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "nakoloba"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "na bino"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "bosakana"
+    },
+    {
+      "surface": "והריעתם",
+      "gloss": "mpe bosakana"
+    }
+  ],
+  "timestamp": "2026-09-03T17:44:12.719100835Z",
+  "model": "glm-5.3"
+}

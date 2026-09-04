@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 10:20",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Bango nde bana ya Ham, na bakiti ya libota na bango, na minoko na bango, na mabele na bango, na bikolo na bango.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Bango nde"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ya"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Ham"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "na bakiti ya libota na bango"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "na minoko na bango"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "na mabele na bango"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "na bikolo na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T15:48:45.735320156Z",
+  "model": "glm-5.3"
+}

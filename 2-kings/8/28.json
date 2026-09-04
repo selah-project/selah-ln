@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 8:28",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe akendaki na ⟨את⟩ Yoram mwana wa Ahav na etumba elongo na Hazael, mokonzi wa Aram, na Ramot ya Gilead; mpe baArami baultaki ⟨את⟩ Yoram.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Mpe akendaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoram"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "na Yoram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahav"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "na etumba"
+    },
+    {
+      "surface": "עם",
+      "gloss": "elongo na"
+    },
+    {
+      "surface": "חזהאל",
+      "gloss": "Hazael"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi wa"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ברמת",
+      "gloss": "na Ramot ya"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilead"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "mpe baultaki"
+    },
+    {
+      "surface": "ארמים",
+      "gloss": "baArami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoram"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "Yoram"
+    }
+  ],
+  "timestamp": "2026-09-03T19:03:29.900852689Z",
+  "model": "glm-5.3"
+}

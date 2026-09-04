@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 18:9",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Mpe Shaul atalaki ⟨את⟩ David na mabe, uta mokolo wana mpe liboso.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mpe ekalaki"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "עון",
+      "gloss": "na mabe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מהיום",
+      "gloss": "uta mokolo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "wana"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "mpe liboso"
+    }
+  ],
+  "timestamp": "2026-09-03T18:18:54.717510808Z",
+  "model": "glm-5.3"
+}

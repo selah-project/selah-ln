@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 5:2",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Mpe Bafilisitai baswaki ⟨את⟩ sanduku ya Elohim mpe bakendolaki ⟨את⟩ yango na ndako ya Dagon, mpe batyaki ⟨את⟩ yango pembeni ya Dagon.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Mpe baswaki"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Bafilisitai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduku"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduku"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "mpe bakendolaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yango",
+      "marks": "sanduku"
+    },
+    {
+      "surface": "בית",
+      "gloss": "na ndako"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "ya Dagon"
+    },
+    {
+      "surface": "ויציגו",
+      "gloss": "mpe batyaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yango",
+      "marks": "sanduku"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "pembeni ya"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagon"
+    }
+  ],
+  "timestamp": "2026-09-03T18:11:45.760049742Z",
+  "model": "glm-5.3"
+}

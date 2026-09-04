@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 71:11",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 71,
+  "translation": "balobaki ete: Elohim atiki ye; bolanda mpe bokanga ye, mpo molongosi ya ye azali te.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "balobaki ete"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "atiki ye"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "bolanda"
+    },
+    {
+      "surface": "ותפשוהו",
+      "gloss": "mpe bokanga ye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "azali te"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "molongosi ya ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:16:44.791019158Z",
+  "model": "glm-5.3"
+}

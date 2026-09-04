@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 44:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 44,
+  "translation": "Mpo nazali kondima te na uta na ngai, mpe esele na ngai esalisi ngai te.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "na uta na ngai"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "nazali kondima"
+    },
+    {
+      "surface": "וחרבי",
+      "gloss": "mpe esele na ngai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תושיעני",
+      "gloss": "esalisi ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:10:37.135811637Z",
+  "model": "glm-5.3"
+}

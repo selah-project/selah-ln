@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 37:5",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 37,
+  "translation": "Mpe mampinga ya Parao ebimaki na Mitsraim; mpe Bakasdim, oyo bazalaki kokanga Yerushalaim, bayokaki ⟨את⟩ sango na bango, mpe bamwengaki kati na Yerushalaim.",
+  "tokens": [
+    {
+      "surface": "וחיל",
+      "gloss": "mpe mampinga"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ya Parao"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ebimaki"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "na Mitsraim"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "mpe bayokaki"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "Bakasdim"
+    },
+    {
+      "surface": "הצרים",
+      "gloss": "oyo bazalaki kokanga"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sango na bango"
+    },
+    {
+      "surface": "שמעם",
+      "gloss": "sango na bango"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "mpe bamwengaki"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kati na"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-09-03T20:00:28.939298277Z",
+  "model": "glm-5.3"
+}

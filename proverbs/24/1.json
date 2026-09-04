@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 24:1",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "Kokanka te bato ya mabe, mpe kolinga te ⟨את⟩ kozala ⟨את⟩ na bango.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "kokanka"
+    },
+    {
+      "surface": "באנשי",
+      "gloss": "bato ya"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "ו",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "kolinga"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "⟨את⟩ kozala"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ na bango",
+      "marks": "bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:46:53.529200386Z",
+  "model": "glm-5.3"
+}

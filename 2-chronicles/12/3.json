@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 12:3",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Na nkoto moko mpe nkama mibale bingwa bya bitumba, mpe na nkoto ntuku motoba bapeti ba mapadi; mpe ezali na motango te ya bato oyo bayaki elongo na ye wuti na Mitsraim — Lubim, Sukim, mpe Bakushim.",
+  "tokens": [
+    {
+      "surface": "באלף",
+      "gloss": "na nkoto moko"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "mpe nkama mibale"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "bingwa bya bitumba"
+    },
+    {
+      "surface": "ובששים",
+      "gloss": "mpe na ntuku motoba"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "nkoto"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "bapeti ba mapadi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mpe ezali na ... te"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "motango"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ya bato"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "באו",
+      "gloss": "bayaki"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "elongo na ye"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "wuti na Mitsraim"
+    },
+    {
+      "surface": "לובים",
+      "gloss": "Lubim"
+    },
+    {
+      "surface": "סכיים",
+      "gloss": "Sukim"
+    },
+    {
+      "surface": "וכושים",
+      "gloss": "mpe Bakushim"
+    }
+  ],
+  "timestamp": "2026-09-03T22:58:24.686755828Z",
+  "model": "glm-5.3"
+}

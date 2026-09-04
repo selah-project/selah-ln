@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 10:19",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Bakeli seke na biloko ya kolia, mpe divai esepelisa bomoi, mpe mbongo eyanola ⟨את⟩ nyonso.",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "na seke"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "bakeli"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "biloko ya kolia"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "mpe divai"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "esepelisa"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "bomoi"
+    },
+    {
+      "surface": "והכסף",
+      "gloss": "mpe mbongo"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "eyanola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyonso"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "nyonso"
+    }
+  ],
+  "timestamp": "2026-09-03T22:14:41.963403260Z",
+  "model": "glm-5.3"
+}

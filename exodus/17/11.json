@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 17:11",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 17,
+  "translation": "Mpe esalaki ete, ntango Moshe atombolaki maboko na ye, Israel ezalaki na nguya; mpe ntango atikalaki maboko na ye, Amalek ezalaki na nguya.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "mpe esalaki ete"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ntango"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "atombolaki"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "maboko na ye"
+    },
+    {
+      "surface": "וגבר",
+      "gloss": "ezalaki na nguya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "mpe ntango"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "atikalaki"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "maboko na ye"
+    },
+    {
+      "surface": "וגבר",
+      "gloss": "ezalaki na nguya"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    }
+  ],
+  "timestamp": "2026-09-03T16:22:36.833411606Z",
+  "model": "glm-5.3"
+}

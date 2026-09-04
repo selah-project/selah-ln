@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 143:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 143,
+  "translation": "Longisa ngai kosala mokano na yo, mpo yo nde Eloa na ngai; mopepe na yo malamu, okamba ngai na mabele ya pete.",
+  "tokens": [
+    {
+      "surface": "למדני",
+      "gloss": "Longisa ngai"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kosala"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "mokano na yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo nde"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "Eloa na ngai"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "mopepe na yo"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "malamu"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "okamba ngai"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "ya pete"
+    }
+  ],
+  "timestamp": "2026-09-03T23:35:40.712343934Z",
+  "model": "glm-5.3"
+}

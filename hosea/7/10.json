@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 7:10",
+  "book": "hosea",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mpe bonyenge ya Israel eanaki na elongi na yango; mpe bazongaki te epai ya Yawe Elohim na bango, mpe balukaki yango te na makambo nyonso oyo.",
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "Mpe eanaki"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "bonyenge"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "na elongi na yango"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "bazongaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim na bango"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "בקשהו",
+      "gloss": "balukaki yango"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na nyonso"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "oyo"
+    }
+  ],
+  "timestamp": "2026-09-03T20:39:08.127930981Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 105:42",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 105,
+  "translation": "Mpo alonganaki ⟨את⟩ liloba na yango ya bosantu, ⟨את⟩ Avraham mosali na yango.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "alonganaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "liloba na yango ya bosantu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "liloba"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ya bosantu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "mosali na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:27:15.136423892Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 98:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 98,
+  "translation": "Bokola nzembo epai ya Yawe na kinora, na kinora mpe na lolenge ya nzembo.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Bokola nzembo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "epai ya Yawe"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "na kinora"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "na kinora"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "mpe na lolenge"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "nzembo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:25:56.853847772Z",
+  "model": "glm-5.3"
+}

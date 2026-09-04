@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 10:27",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Mpe Yawe akangaki makasi ⟨את⟩ motema ya Parao, mpe andimaki te kobwaka bango.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "akangaki makasi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motema ya Parao"
+    },
+    {
+      "surface": "לב",
+      "gloss": "motema"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ya Parao"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "andimaki"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "kobwaka bango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:17:52.296592033Z",
+  "model": "glm-5.3"
+}

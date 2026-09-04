@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 3:16",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe lisusu namoni na nse ya moi: na esika ya bososoli, kuna mabe; mpe na esika ya bosolo, kuna mabe.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "mpe lisusu"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "namoni"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "na nse ya"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "moi"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "esika"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "ya bososoli"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "mpe esika"
+    },
+    {
+      "surface": "הצדק",
+      "gloss": "ya bosolo"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "mabe"
+    }
+  ],
+  "timestamp": "2026-09-03T23:38:25.290055965Z",
+  "model": "glm-5.3"
+}

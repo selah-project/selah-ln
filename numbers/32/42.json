@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 32:42",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 32,
+  "translation": "Mpe Novah akendaki mpe amamaki ⟨את⟩ Kenat mpe ⟨את⟩ bibi na yango, mpe abengaki yango Novah na nkombo na yango.",
+  "tokens": [
+    {
+      "surface": "ונבח",
+      "gloss": "Mpe Novah"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "akendaki"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "mpe amamaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenat"
+    },
+    {
+      "surface": "קנת",
+      "gloss": "Kenat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bibi na yango"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "bibi na yango"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "mpe abengaki"
+    },
+    {
+      "surface": "לה",
+      "gloss": "yango"
+    },
+    {
+      "surface": "נבח",
+      "gloss": "Novah"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "na nkombo na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T17:18:26.741728643Z",
+  "model": "glm-5.3"
+}

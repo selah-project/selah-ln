@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 16:10",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Mpe babimisaki te ⟨את⟩ Kanaani oyo azalaki kofanda na Gezer; mpe Kanaani afulaki na kati ya Efrajim kino mokolo oyo, mpe akomaki mosolo, mowumbu-misala.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "הורישו",
+      "gloss": "babimisaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kanaani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kanaani"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "oyo azalaki kofanda"
+    },
+    {
+      "surface": "בגזר",
+      "gloss": "na Gezer"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "mpe afulaki"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kanaani"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "na kati ya"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "היום",
+      "gloss": "mokolo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mpe akomaki"
+    },
+    {
+      "surface": "למס",
+      "gloss": "mosolo"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "mowumbu-misala"
+    }
+  ],
+  "timestamp": "2026-09-03T17:50:52.207506703Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 7:21",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mpe na maloba nyonso oyo balobaka, kotya motema na yo te, mpo yoko koyoka te ⟨את⟩ mosalali na yo oyo akundolaka yo.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Mpe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "na … nyonso"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "maloba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "balobaka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "kotya"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "motema na yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "yoko koyoka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mosalali na yo"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mosalali na yo"
+    },
+    {
+      "surface": "מקללך",
+      "gloss": "akundolaka yo"
+    }
+  ],
+  "timestamp": "2026-09-03T23:39:15.667974101Z",
+  "model": "glm-5.3"
+}

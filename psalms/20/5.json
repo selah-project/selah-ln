@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 20:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 20,
+  "translation": "Apesa yo koyanana na motema na yo, mpe makanisi na yo nyonso akokisa.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "apesa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yo"
+    },
+    {
+      "surface": "כלבבך",
+      "gloss": "koyanana na motema na yo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe nyonso"
+    },
+    {
+      "surface": "עצתך",
+      "gloss": "makanisi na yo"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "akokisa"
+    }
+  ],
+  "timestamp": "2026-09-03T21:04:57.840974928Z",
+  "model": "glm-5.3"
+}

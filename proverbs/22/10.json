@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 22:10",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Bota moseka, mpe likama ekokima, mpe sango mpe liboya ekosikwa.",
+  "tokens": [
+    {
+      "surface": "גרש",
+      "gloss": "Bota"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "moseka"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "mpe ekokima"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "likama"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "mpe ekosikwa"
+    },
+    {
+      "surface": "דין",
+      "gloss": "sango"
+    },
+    {
+      "surface": "וקלון",
+      "gloss": "mpe liboya"
+    }
+  ],
+  "timestamp": "2026-09-03T21:45:18.642077898Z",
+  "model": "glm-5.3"
+}

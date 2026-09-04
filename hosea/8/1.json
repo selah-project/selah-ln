@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 8:1",
+  "book": "hosea",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Tia sopa na monoko na yo; akoya lokola ngwi likolo ya ndako ya Yawe, mpo bakatakaki bondimi na ngai mpe na Tora na ngai bapayaki.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "חכך",
+      "gloss": "monoko na yo"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "sopa"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "ngwi"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "יען",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "bakatakaki"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "bondimi na ngai"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "mpe na"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Tora na ngai"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "bapayaki"
+    }
+  ],
+  "timestamp": "2026-09-03T20:39:54.723695694Z",
+  "model": "glm-5.3"
+}

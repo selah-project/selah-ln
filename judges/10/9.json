@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 10:9",
+  "book": "judges",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Mpe bana ya Amon balatakaki ⟨את⟩ Yarden mpo na kobunda, mpe na Yehuda, mpe na Binyamin, mpe na ndako ya Efrayim; mpe etungisaki Israel mingi.",
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "balatakaki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "ya Amon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "mpo na kobunda"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "na Yehuda"
+    },
+    {
+      "surface": "ובבנימין",
+      "gloss": "mpe na Binyamin"
+    },
+    {
+      "surface": "ובבית",
+      "gloss": "mpe na ndako"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ya Efrayim"
+    },
+    {
+      "surface": "ותצר",
+      "gloss": "mpe etungisaki"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mingi"
+    }
+  ],
+  "timestamp": "2026-09-03T17:59:58.244328175Z",
+  "model": "glm-5.3"
+}

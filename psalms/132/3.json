@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 132:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 132,
+  "translation": "Soki nakokota na lente ya ndako na ngai, soki nakopanda na etanda ya etama na ngai —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Soki"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "nakokota"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "na lente"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "ya ndako na ngai"
+    },
+    {
+      "surface": "אם",
+      "gloss": "soki"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "nakopanda"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "etanda"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "ya etama na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:33:34.696388553Z",
+  "model": "glm-5.3"
+}

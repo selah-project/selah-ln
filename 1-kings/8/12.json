@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 8:12",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Wana Shelomo alobaki ete Yawe alobaki kofanda na dikipingi ya makasi.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "wana"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "kofanda"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "na dikipingi ya makasi"
+    }
+  ],
+  "timestamp": "2026-09-03T18:48:17.019390171Z",
+  "model": "glm-5.3"
+}

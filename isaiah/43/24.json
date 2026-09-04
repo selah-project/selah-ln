@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 43:24",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 43,
+  "translation": "Te osombaki na ngai na mbongo kane, mpe mafuta ya babombi na yo, te onatisaki ngai; kasi osalaki ngai mosala na masumu na yo, otungisaki ngai na mabe na yo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "osombaki"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "na mbongo"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "kane"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "זבחיך",
+      "gloss": "babombi-na-yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "הרויתני",
+      "gloss": "onatisaki-ngai"
+    },
+    {
+      "surface": "אך",
+      "gloss": "kasi"
+    },
+    {
+      "surface": "העבדתני",
+      "gloss": "osalaki-ngai-mosala"
+    },
+    {
+      "surface": "בחטאותיך",
+      "gloss": "na masumu-na-yo"
+    },
+    {
+      "surface": "הוגעתני",
+      "gloss": "otungisaki-ngai"
+    },
+    {
+      "surface": "בעונתיך",
+      "gloss": "na mabe-na-yo"
+    }
+  ],
+  "timestamp": "2026-09-03T19:30:43.840672931Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 21:9",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Mpe mwana mwasi ya mobali kohen, soki aboyisi ⟨ye moko⟩ na kosala bolowani, ⟨את⟩ tata na ye ye moko aboyisi; na moto akotumbwama.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "Mpe mwana mwasi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ya mobali"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "soki"
+    },
+    {
+      "surface": "תחל",
+      "gloss": "aboyisi ⟨ye moko⟩"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "na kosala bolowani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tata na ye"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "tata na ye"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ye moko"
+    },
+    {
+      "surface": "מחללת",
+      "gloss": "aboyisi"
+    },
+    {
+      "surface": "באש",
+      "gloss": "na moto"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "akotumbwama"
+    }
+  ],
+  "timestamp": "2026-09-03T16:52:46.949833875Z",
+  "model": "glm-5.3"
+}

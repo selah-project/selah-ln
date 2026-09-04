@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 18:17",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Babaki ⟨את⟩ Avshalom mpe batelaki yango na bwingi na libulu monene, mpe batongaki likolo na yango litumba ya mabanga monene mingi; mpe Israel nyonso basalaki libulu, moto na moto na tente na ye.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "babaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avshalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "וישליכו",
+      "gloss": "batelaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yango",
+      "marks": "Avshalom"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "na bwingi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "הפחת",
+      "gloss": "libulu"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "monene"
+    },
+    {
+      "surface": "ויצבו",
+      "gloss": "batongaki"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "likolo na yango"
+    },
+    {
+      "surface": "גל",
+      "gloss": "litumba"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "ya mabanga"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "monene"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mingi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe nyonso"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "נסו",
+      "gloss": "basalaki libulu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto na moto"
+    },
+    {
+      "surface": "לאהלו",
+      "gloss": "na tente na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T18:39:25.185944309Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 6:11",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpe mabele ebomamaki liboso ya Elohim, mpe mabele ejukaki bobomi.",
+  "tokens": [
+    {
+      "surface": "ותשחת",
+      "gloss": "mpe ebomamaki"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "mpe ejukaki"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "bobomi"
+    }
+  ],
+  "timestamp": "2026-09-03T15:46:51.505013859Z",
+  "model": "glm-5.3"
+}

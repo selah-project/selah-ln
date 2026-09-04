@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 6:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpo na liwa ezali te kokanisa yo; na Sheol nani akoyoka matondo epai na yo?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ezali te"
+    },
+    {
+      "surface": "במות",
+      "gloss": "na liwa"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "kokanisa yo"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "na Sheol"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nani"
+    },
+    {
+      "surface": "יודה",
+      "gloss": "akoyoka matondo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "epai na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T20:59:32.704937687Z",
+  "model": "glm-5.3"
+}

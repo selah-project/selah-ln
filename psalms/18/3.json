@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 18:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Yawe ⟨ezali⟩ libanga na ngai, mpe etando na ngai, mpe moyokolisi na ngai; El na ngai, libanga na ngai, nakimelaka na yandi; bukliye na ngai, mpe nsongo ya bobombi na ngai, esika ya likolo na ngai.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "libanga na ngai"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "mpe etando na ngai"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "mpe moyokolisi na ngai"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El na ngai"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "libanga na ngai"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "nakimelaka"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na yandi"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "bukliye na ngai"
+    },
+    {
+      "surface": "וקרן",
+      "gloss": "mpe nsongo"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "ya bobombi na ngai"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "esika ya likolo na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:03:13.299670050Z",
+  "model": "glm-5.3"
+}

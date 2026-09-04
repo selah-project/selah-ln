@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 14:18",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Mpe bakoyeba ba-Mitsraim ete ngai ⟨nazali⟩ Yawe, na ntango nakokundolamaka na Parao, na bankami nye mpe na batambwisi ba bakala nye.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "mpe bakoyeba"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ba-Mitsraim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בהכבדי",
+      "gloss": "na ntango nakokundolamaka"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "na Parao"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "na bankami nye"
+    },
+    {
+      "surface": "ובפרשיו",
+      "gloss": "mpe na batambwisi ba bakala nye"
+    }
+  ],
+  "timestamp": "2026-09-03T16:21:35.733212715Z",
+  "model": "glm-5.3"
+}

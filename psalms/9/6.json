@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 9:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Onengaki bikolo, obomaki moto mabe; nkombo na bango osukaki libela na mpe ntango.",
+  "tokens": [
+    {
+      "surface": "גערת",
+      "gloss": "Onengaki"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bikolo"
+    },
+    {
+      "surface": "אבדת",
+      "gloss": "obomaki"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "moto mabe"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "nkombo na bango"
+    },
+    {
+      "surface": "מחית",
+      "gloss": "osukaki"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "libela"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "mpe ntango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:01:51.657796730Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 8:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Okitisaki ye moke na Elohim, mpe nkembo mpe kitoko okonaki ye.",
+  "tokens": [
+    {
+      "surface": "ותחסרהו",
+      "gloss": "mpe okitisaki ye"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "moke"
+    },
+    {
+      "surface": "מאלהים",
+      "gloss": "na Elohim"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "mpe nkembo"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "mpe kitoko"
+    },
+    {
+      "surface": "תעטרהו",
+      "gloss": "okonaki ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:01:48.510340749Z",
+  "model": "glm-5.3"
+}

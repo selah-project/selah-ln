@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 114:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 114,
+  "translation": "Bangomba binaki kosakana lokola bankolo ya bitambala, bangomba ya mike lokola bana ya bitambala?",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "bangomba"
+    },
+    {
+      "surface": "תרקדו",
+      "gloss": "binaki kosakana"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "lokokola bankolo ya bitambala"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "bangomba ya mike"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "lokokola bana"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ya bitambala"
+    }
+  ],
+  "timestamp": "2026-09-03T21:29:37.880234029Z",
+  "model": "glm-5.3"
+}

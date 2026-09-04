@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 11:11",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpe Shem azalaki na bomoi na nsima ya kobota ⟨את⟩ Arpakshad bambula nkoto mitano, mpe abotaki bana mibali mpe bana basi.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "azalaki na bomoi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "na nsima ya"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "kobota na yango"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arpakshad"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arpakshad"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "mitano"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ya nkoto"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "bambula"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "abotaki"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bana mibali"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "mpe bana basi"
+    }
+  ],
+  "timestamp": "2026-09-03T15:49:17.251848401Z",
+  "model": "glm-5.3"
+}

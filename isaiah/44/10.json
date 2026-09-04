@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 44:10",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 44,
+  "translation": "Nani asali nzambe, mpe eteni ya ebomba, oyo esalisaka te?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Nani"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "asali"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nzambe"
+    },
+    {
+      "surface": "ופסל",
+      "gloss": "mpe eteni"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "ya ebomba"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "mpo te"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "esalisaka"
+    }
+  ],
+  "timestamp": "2026-09-03T19:32:21.952844931Z",
+  "model": "glm-5.3"
+}

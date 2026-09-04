@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 140:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 140,
+  "translation": "Motói ya bango oyo bazingi ngai: mabe ya mino na bango ekangisaka bango.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "motói"
+    },
+    {
+      "surface": "מסבי",
+      "gloss": "ya bango oyo bazingi ngai"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "ya mino na bango"
+    },
+    {
+      "surface": "יכסומו",
+      "gloss": "ekangisaka bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:34:48.925210058Z",
+  "model": "glm-5.3"
+}

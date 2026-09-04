@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 96:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 96,
+  "translation": "Pesa na Yawe, mabota ya bikolo; pesa na Yawe nkembo mpe nguya.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "Pesa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "na Yawe"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "mabota"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ya bikolo"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "pesa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "na Yawe"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "nkembo"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "mpe nguya"
+    }
+  ],
+  "timestamp": "2026-09-03T21:24:14.149486176Z",
+  "model": "glm-5.3"
+}

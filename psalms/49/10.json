@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 49:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 49,
+  "translation": "Mpe akovanda na bomoi naino libela, akomona libanga te.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "mpe akovanda na bomoi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "naino"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "libela"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "akomona"
+    },
+    {
+      "surface": "השחת",
+      "gloss": "libanga"
+    }
+  ],
+  "timestamp": "2026-09-03T23:34:46.660591242Z",
+  "model": "glm-5.3"
+}

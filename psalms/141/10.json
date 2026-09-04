@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 141:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 141,
+  "translation": "Babe bakweya o kati ya bapâ na bango elongo, ngai kino nakolaka.",
+  "tokens": [
+    {
+      "surface": "יפלו",
+      "gloss": "bakweya"
+    },
+    {
+      "surface": "במכמריו",
+      "gloss": "o kati ya bapâ na bango"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "Babe"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "elongo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "אעבור",
+      "gloss": "nakolaka"
+    }
+  ],
+  "timestamp": "2026-09-03T21:34:21.716467657Z",
+  "model": "glm-5.3"
+}

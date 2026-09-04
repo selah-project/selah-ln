@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 13:25",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Moto ya bosembo aliaka kino molimo na ye etonda; mpe libumu ya mabe ekokanga ⟨ezali na⟩ te.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "moto ya bosembo"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "aliaka"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "kino etonda"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "molimo na ye"
+    },
+    {
+      "surface": "ובטן",
+      "gloss": "mpe libumu"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ya mabe"
+    },
+    {
+      "surface": "תחסר",
+      "gloss": "ekokanga te"
+    }
+  ],
+  "timestamp": "2026-09-03T21:40:37.928348194Z",
+  "model": "glm-5.3"
+}

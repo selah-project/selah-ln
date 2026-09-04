@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 40:11",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 40,
+  "translation": "Mpe okompozi ⟨את⟩ baseni mpe ⟨את⟩ satandi na yango, mpe okosantisa ⟨את⟩ yango.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "mpe okompozi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baseni"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "baseni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "satandi na yango"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "satandi na yango"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "mpe okosantisa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yango",
+      "marks": "baseni"
+    }
+  ],
+  "timestamp": "2026-09-03T16:38:52.724235634Z",
+  "model": "glm-5.3"
+}

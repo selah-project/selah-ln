@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 8:14",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe akanza ⟨את⟩ masanga na bino, mpe ⟨את⟩ bilanga na bino ya mbila, mpe nzete na bino ya oliva — oyo ezali malamu — mpe akopesa ⟨yango⟩ na basali na ye.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "masanga na bino"
+    },
+    {
+      "surface": "שדותיכם",
+      "gloss": "masanga na bino"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bilanga na bino ya mbila"
+    },
+    {
+      "surface": "כרמיכם",
+      "gloss": "bilanga na bino ya mbila"
+    },
+    {
+      "surface": "וזיתיכם",
+      "gloss": "mpe nzete na bino ya oliva"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "oyo ezali malamu"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "akanza"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "mpe akopesa"
+    },
+    {
+      "surface": "לעבדיו",
+      "gloss": "na basali na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T18:10:36.055756127Z",
+  "model": "glm-5.3"
+}

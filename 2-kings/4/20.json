@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 4:20",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe ayanzaki ye, mpe amemaki ye epai ya mama na ye, mpe afandaki na magulu na ye tee na katikati ya mokolo, mpe akufaki.",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "mpe ayanzaki ye"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "mpe amemaki ye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mama na ye"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "mpe afandaki"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ברכיה",
+      "gloss": "magulu na ye"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tee"
+    },
+    {
+      "surface": "הצהרים",
+      "gloss": "katikati ya mokolo"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "mpe akufaki"
+    }
+  ],
+  "timestamp": "2026-09-03T19:00:27.792379377Z",
+  "model": "glm-5.3"
+}

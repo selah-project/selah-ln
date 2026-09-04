@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 5:4",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Elongi na elongi Yawe alobaki na bino na ngomba, na kati ya moi.",
+  "tokens": [
+    {
+      "surface": "פנים",
+      "gloss": "elongi"
+    },
+    {
+      "surface": "בפנים",
+      "gloss": "na elongi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "na bino"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "na ngomba"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "na kati ya"
+    },
+    {
+      "surface": "האש",
+      "gloss": "moi"
+    }
+  ],
+  "timestamp": "2026-09-03T17:25:15.765876883Z",
+  "model": "glm-5.3"
+}

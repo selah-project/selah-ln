@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 8:6",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe okobatela ⟨את⟩ mibeko ya Yawe Elohim na yo, mpo na kotambola na nzela na ye, mpe kobanga ⟨את⟩ ye.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "Mpe okobatela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mibeko"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "mibeko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim na yo"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "mpo na kotambola"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "na nzela na ye"
+    },
+    {
+      "surface": "וליראה",
+      "gloss": "mpe kobanga"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ye"
+    }
+  ],
+  "timestamp": "2026-09-03T17:27:16.324486974Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 6:10",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Ekotumbama te na mokei; ebagi na bango nasilaki ⟨את⟩ yango, ya ba-ofra-ya-ngia na ngai; yango ezali mosantu ya bamosantu, lokola ⟨את⟩ ofra ya libose mpe ⟨את⟩ ofra ya mabe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תאפה",
+      "gloss": "ekotumbama"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "na mokei"
+    },
+    {
+      "surface": "חלקם",
+      "gloss": "ebagi na bango"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "nasilaki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "yango"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "ya ba-ofra-ya-ngia na ngai"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "mosantu"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ya bamosantu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yango ezali"
+    },
+    {
+      "surface": "כחטאת",
+      "gloss": "lokola ofra ya libose"
+    },
+    {
+      "surface": "וכאשם",
+      "gloss": "mpe ofra ya mabe"
+    }
+  ],
+  "timestamp": "2026-09-03T16:40:53.370980381Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 27:10",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 27,
+  "translation": "Akish alobaki: Bosalaki soki te botumbi lolo? Mpe David alobaki: Epai ya sudi ya Yehuda, mpe epai ya sudi ya Yerahmeeli, mpe epai ya sudi ya Keni.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akish"
+    },
+    {
+      "surface": "אל",
+      "gloss": "soki te"
+    },
+    {
+      "surface": "פשטתם",
+      "gloss": "botumbaki"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lolo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "על",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "sudi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "mpe epai ya"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "sudi"
+    },
+    {
+      "surface": "הירחמאלי",
+      "gloss": "Yerahmeeli"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mpe epai ya"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "sudi"
+    },
+    {
+      "surface": "הקיני",
+      "gloss": "Keni"
+    }
+  ],
+  "timestamp": "2026-09-03T18:23:58.970267277Z",
+  "model": "glm-5.3"
+}

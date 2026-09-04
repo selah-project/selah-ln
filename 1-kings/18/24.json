@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 18:24",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Mpe bóbenga na nkombo ya banzambe na bino, mpe ngai nabengi na nkombo ya Yawe; mpe Elohim oyo ayanolaka na moto, ye ⟨nde⟩ Elohim. Mpe bato nyonso bayanolaki mpe balobaki: Liloba yango ⟨ezali⟩ malamu.",
+  "tokens": [
+    {
+      "surface": "וקראתם",
+      "gloss": "mpe bóbenga"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "na nkombo"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ya banzambe na bino"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "mpe ngai"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "nabengi"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "na nkombo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "mpe ekovanda"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "ayanolaka"
+    },
+    {
+      "surface": "באש",
+      "gloss": "na moto"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ye"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "mpe bayanolaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "mpe balobaki"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "malamu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "liloba yango"
+    }
+  ],
+  "timestamp": "2026-09-03T18:55:17.876817895Z",
+  "model": "glm-5.3"
+}

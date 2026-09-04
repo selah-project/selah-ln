@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 2:20",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe moto abengaki bankombo na banyama nyonso, mpe na ndeke ya likolo, mpe na bambibe nyonso ya bondoba; kasi mpo na moto, azwaki te mosalisi oyo azali kolandanana na ye.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "abengaki"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "moto"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "bankombo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "na nyonso"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "banyama"
+    },
+    {
+      "surface": "ולעוף",
+      "gloss": "mpe na ndeke"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ya likolo"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "mpe na nyonso"
+    },
+    {
+      "surface": "חית",
+      "gloss": "bambibe"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ya bondoba"
+    },
+    {
+      "surface": "ולאדם",
+      "gloss": "kasi mpo na moto"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "azwaki"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "mosalisi"
+    },
+    {
+      "surface": "כנגדו",
+      "gloss": "oyo azali kolandanana na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T15:44:46.399549841Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 42:3",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 42,
+  "translation": "Ete Yawe Elohim na yo abimbisela biso ⟨את⟩ nzela oyo tokende na yango, mpe ⟨את⟩ eloko oyo tosala.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "abimbisela"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "biso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim na yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nzela"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "nzela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "tokende"
+    },
+    {
+      "surface": "בה",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "eloko"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "eloko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "tosala"
+    }
+  ],
+  "timestamp": "2026-09-03T20:02:43.253090537Z",
+  "model": "glm-5.3"
+}

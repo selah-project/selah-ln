@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 2:19",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Balobaki: Moto ya Mitsraim alongisaki biso na loboko ya bakoli ya banyama, mpe atadolaki andalaki mai mpona biso, mpe amelisaki ⟨את⟩ banyama.",
+  "tokens": [
+    {
+      "surface": "ותאמרן",
+      "gloss": "Balobaki"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "ya Mitsraim"
+    },
+    {
+      "surface": "הצילנו",
+      "gloss": "alongisaki biso"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "na loboko ya"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "bakoli ya banyama"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "דלה",
+      "gloss": "atadolaki"
+    },
+    {
+      "surface": "דלה",
+      "gloss": "andalaki"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mai mpona biso"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "amelisaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "banyama"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "banyama"
+    }
+  ],
+  "timestamp": "2026-09-03T16:13:02.130416132Z",
+  "model": "glm-5.3"
+}

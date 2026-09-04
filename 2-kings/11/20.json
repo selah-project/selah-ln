@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 11:20",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpe bato nyonso ya mabele bakosekanaki, mpe mboka kimyangalalaki; mpe ⟨את⟩ Atalyahu babomaki na epaia, na ndako ya mokonzi.",
+  "tokens": [
+    {
+      "surface": "וישמח",
+      "gloss": "mpe bakosekanaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ya mabele"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "mpe mboka"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "kimyangalalaki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Atalyahu"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalyahu"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "babomaki"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "na epaia"
+    },
+    {
+      "surface": "בית",
+      "gloss": "na ndako"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ya mokonzi"
+    }
+  ],
+  "timestamp": "2026-09-03T19:05:33.984281128Z",
+  "model": "glm-5.3"
+}

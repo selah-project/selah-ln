@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 75:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 75,
+  "translation": "Botelemisa te likolo lilanga na bino; Boloba te na mokongo makasi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "Botelemisa"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "likolo"
+    },
+    {
+      "surface": "קרנכם",
+      "gloss": "lilanga na bino"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "Boloba"
+    },
+    {
+      "surface": "בצואר",
+      "gloss": "na mokongo"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "makasi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:19:25.480764510Z",
+  "model": "glm-5.3"
+}

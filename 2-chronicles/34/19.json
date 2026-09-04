@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 34:19",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 34,
+  "translation": "Mpe esalaki, ntango mokonzi oyoki ⟨את⟩ maloba ya Tora, akangolaki ⟨את⟩ bilamba na ye.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mpe esalaki"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "ntango oyoki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maloba"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "maloba"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "ya Tora"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "akangolaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bilamba na ye"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "bilamba na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T23:09:58.290212877Z",
+  "model": "glm-5.3"
+}

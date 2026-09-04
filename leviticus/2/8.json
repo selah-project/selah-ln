@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 2:8",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe okoya ⟨את⟩ mincha oyo esalelamaka na biteni oyo epai ya Yawe; mpe akomema yango epai ya kohen, mpe ayeisa yango epai ya auteli.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "Mpe okoya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mincha"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "mincha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "esalelamaka"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "na biteni oyo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "epai ya Yawe"
+    },
+    {
+      "surface": "והקריבה",
+      "gloss": "mpe akomema yango"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "והגישה",
+      "gloss": "mpe ayeisa yango"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "auteli"
+    }
+  ],
+  "timestamp": "2026-09-03T16:39:11.443613822Z",
+  "model": "glm-5.3"
+}

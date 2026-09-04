@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 69:24",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 69,
+  "translation": "Miso na bango ezalaka moindo ete bamona te, mpe libumu na bango ekangamaka ntango nyonso.",
+  "tokens": [
+    {
+      "surface": "תחשכנה",
+      "gloss": "ezalaka moindo"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "miso na bango"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "bamona te"
+    },
+    {
+      "surface": "ומתניהם",
+      "gloss": "mpe libumu na bango"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ntango nyonso"
+    },
+    {
+      "surface": "המעד",
+      "gloss": "ekangamaka"
+    }
+  ],
+  "timestamp": "2026-09-03T21:16:28.130568683Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 8:1",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe na nsima ya yango David abubaki ⟨את⟩ Bapalisitia mpe atombwisaki bango bawa; mpe David awaki ⟨את⟩ meteg ya amama na maboko ya Bapalisitia.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mpe ekalaki"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "na nsima"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ya yango"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "abubaki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bapalisitia"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Bapalisitia"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "mpe atombwisaki bango bawa"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "mpe awaki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meteg ya amama"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "meteg"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "ya amama"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "na maboko"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ya Bapalisitia"
+    }
+  ],
+  "timestamp": "2026-09-03T23:22:58.889120816Z",
+  "model": "glm-5.3"
+}

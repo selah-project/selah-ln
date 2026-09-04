@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 3:24",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe abungisaki ⟨את⟩ moto, mpe afandisaki na esti ya jardin ya Eden ⟨את⟩ bakerubi mpe ⟨את⟩ moto oyo ezali kolangwa ya mbele oyo ezali kozongozango, mpo na kobatela ⟨את⟩ nzela ya nzete ya bomoi.",
+  "tokens": [
+    {
+      "surface": "ויגרש",
+      "gloss": "abungisaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moto"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "moto"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "afandisaki"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "na esti"
+    },
+    {
+      "surface": "לגן",
+      "gloss": "na jardin"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bakerubi"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "bakerubi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "moto oyo ezali kolangwa"
+    },
+    {
+      "surface": "להט",
+      "gloss": "moto oyo ezali kolangwa"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "ya mbele"
+    },
+    {
+      "surface": "המתהפכת",
+      "gloss": "oyo ezali kozongozango"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "mpo na kobatela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nzela"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "nzela"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "nzete"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ya bomoi"
+    }
+  ],
+  "timestamp": "2026-09-03T15:46:04.047157332Z",
+  "model": "glm-5.3"
+}

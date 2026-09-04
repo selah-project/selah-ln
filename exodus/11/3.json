@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 11:3",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpe Yawe apesaki ⟨את⟩ ngolu ⟨ya⟩ bato na miso ya ba-Mitsraim; ata moto Moshe azalaki monene mpenza na mabele ya Mitsraim, na miso ya basumbu ya Parao mpe na miso ya bato.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Mpe apesaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngolu"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ngolu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ya bato"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "na miso ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ba-Mitsraim"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ata"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "monene"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mpenza"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "na miso ya"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "basumbu"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "mpe na miso ya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    }
+  ],
+  "timestamp": "2026-09-03T23:12:33.491570030Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 63:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 63,
+  "translation": "Elohim, Eloa na ngai, yo ⟨ozali⟩; nakeni yo na tongo; molimo na ngai ezali na nzala ya mai na yo, libumu na ngai ezali koluka yo, na mabele ya seke mpe ya bozangi makasi, kozanga mai.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Eloa na ngai"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "אשחרך",
+      "gloss": "nakeni yo na tongo"
+    },
+    {
+      "surface": "צמאה",
+      "gloss": "ezali na nzala ya mai"
+    },
+    {
+      "surface": "לך",
+      "gloss": "na yo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "molimo na ngai"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "ezali koluka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "na yo"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "libumu na ngai"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "ya seke"
+    },
+    {
+      "surface": "ועיף",
+      "gloss": "mpe ya bozangi makasi"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "kozanga"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:16:20.080316862Z",
+  "model": "glm-5.3"
+}

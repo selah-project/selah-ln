@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 146:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 146,
+  "translation": "Yawe afungolaka miso ya bikepi, Yawe atombolaka bapemi, Yawe alingaka basolo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "afungolaka miso"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "bikepi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "זקף",
+      "gloss": "atombolaka"
+    },
+    {
+      "surface": "כפופים",
+      "gloss": "bapemi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "alingaka"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "basolo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:36:53.623570476Z",
+  "model": "glm-5.3"
+}

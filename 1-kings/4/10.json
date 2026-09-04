@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 4:10",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Ben-Hesed na Arubot; Sokoh mpe mabele nyonso ya Chefer ezalaki ⟨na ye⟩.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Ben"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "Hesed"
+    },
+    {
+      "surface": "בארבות",
+      "gloss": "na Arubot"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "Sokoh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe nyonso"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "ya Chefer"
+    }
+  ],
+  "timestamp": "2026-09-04T00:19:40.052022541Z",
+  "model": "glm-5.3"
+}

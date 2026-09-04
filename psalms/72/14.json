@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 72:14",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 72,
+  "translation": "Kati ya ⟨bokosi⟩ mpe mpiko akokangola milimo na bango, mpe makila na bango ezali ya makasi na miso na ye.",
+  "tokens": [
+    {
+      "surface": "מתוך",
+      "gloss": "kati ya ⟨bokosi⟩"
+    },
+    {
+      "surface": "ומחמס",
+      "gloss": "mpe mpiko"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "akokangola"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "milimo na bango"
+    },
+    {
+      "surface": "ויקר",
+      "gloss": "mpe ⟨ezali⟩ ya makasi"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "makila na bango"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "na miso na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:18:02.190012355Z",
+  "model": "glm-5.3"
+}

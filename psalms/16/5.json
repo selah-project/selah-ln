@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 16:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Yawe ⟨azali⟩ lingomba lya sika lya ngai mpe lya bomesi na ngai; yo, ozali kotombola likata lya ngai.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "lingomba"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "lya sika lya ngai"
+    },
+    {
+      "surface": "וכוסי",
+      "gloss": "mpe lya bomesi na ngai"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "תומיך",
+      "gloss": "ozali kotombola"
+    },
+    {
+      "surface": "גורלי",
+      "gloss": "likata lya ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:02:29.865555511Z",
+  "model": "glm-5.3"
+}

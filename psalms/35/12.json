@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 35:12",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 35,
+  "translation": "Bafuta ngai na mabe na esika ya malamu, bobungi ya molimo na ngai.",
+  "tokens": [
+    {
+      "surface": "ישלמוני",
+      "gloss": "Bafuta ngai"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "na mabe"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "na esika ya"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "malamu"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "bobungi"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "ya molimo na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:08:24.977023039Z",
+  "model": "glm-5.3"
+}

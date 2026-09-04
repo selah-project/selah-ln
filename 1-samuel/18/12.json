@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 18:12",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Mpe Shaul abangaki epai ya David, mpo Yawe azalaki na ye, mpe atikaki Shaul.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Mpe abangaki"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "היה",
+      "gloss": "azalaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "ומעם",
+      "gloss": "mpe epai ya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "סר",
+      "gloss": "atikaki"
+    }
+  ],
+  "timestamp": "2026-09-03T18:18:54.718502567Z",
+  "model": "glm-5.3"
+}

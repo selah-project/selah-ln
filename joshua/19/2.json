@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 19:2",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Mpe ezalaki na bango, na bofungwami na bango ⟨na⟩ Beer-Sheva, mpe Sheva, mpe Molada.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mpe ezalaki"
+    },
+    {
+      "surface": "להם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "בנחלתם",
+      "gloss": "na bofungwami na bango"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "mpe Sheva"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "mpe Molada"
+    }
+  ],
+  "timestamp": "2026-09-03T17:52:21.754273051Z",
+  "model": "glm-5.3"
+}

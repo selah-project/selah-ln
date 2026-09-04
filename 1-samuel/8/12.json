@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 8:12",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe etya ye bakambi ya nkoto mpe bakambi ya ntuku mitano, mpe kobela elanga na ye, mpe kokamba mboto na ye, mpe kosala bileko ya bitumba na ye mpe bileko ya masini na ye.",
+  "tokens": [
+    {
+      "surface": "ולשום",
+      "gloss": "Mpe etya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "bakambi"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ya nkoto"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "mpe bakambi"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ya ntuku mitano"
+    },
+    {
+      "surface": "ולחרש",
+      "gloss": "mpe kobela"
+    },
+    {
+      "surface": "חרישׁו",
+      "gloss": "elanga na ye"
+    },
+    {
+      "surface": "ולקצר",
+      "gloss": "mpe kokamba"
+    },
+    {
+      "surface": "קצירו",
+      "gloss": "mboto na ye"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "mpe kosala"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "bileko"
+    },
+    {
+      "surface": "מלחמתו",
+      "gloss": "ya bitumba na ye"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "mpe bileko"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "ya masini na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T18:10:55.471808558Z",
+  "model": "glm-5.3"
+}

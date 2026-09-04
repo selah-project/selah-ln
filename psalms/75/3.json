@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 75:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 75,
+  "translation": "Sango nazwa ntango ya kokanisa, ngai moko nazali kokata bosembo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "sango"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "nazwa"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ntango ya kokanisa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai moko"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "bosembo"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "nazali kokata"
+    }
+  ],
+  "timestamp": "2026-09-03T21:19:06.891975137Z",
+  "model": "glm-5.3"
+}

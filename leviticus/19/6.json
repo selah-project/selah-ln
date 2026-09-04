@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 19:6",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Na mokolo ya zebá na bino ekoliama, mpe na mokolo ya nsima, mpe oyo etikali kino mokolo ya misato ekotumbwa na moi.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "na mokolo ya"
+    },
+    {
+      "surface": "זבחכם",
+      "gloss": "zebá na bino"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ekoliama"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "mpe na mokolo ya nsima"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "mpe oyo etikali"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mokolo"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ya misato"
+    },
+    {
+      "surface": "באש",
+      "gloss": "na moi"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "ekotumbwa"
+    }
+  ],
+  "timestamp": "2026-09-03T16:50:31.924110792Z",
+  "model": "glm-5.3"
+}

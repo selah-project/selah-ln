@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 11:12",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mabele oyo Yawe Elohim na yo azali koluka ⟨את⟩ yango ntango nyonso — miso ya Yawe Elohim na yo ezali na yango, uta na ebandeli ya mbula tii na suka ya mbula.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "Mabele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim na yo"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "azali koluka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "yango (mabele)"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ntango nyonso"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "miso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim na yo"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ezali na yango"
+    },
+    {
+      "surface": "מרשית",
+      "gloss": "uta na ebandeli"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "ya mbula"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "mpe tii"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "na suka"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ya mbula"
+    }
+  ],
+  "timestamp": "2026-09-03T17:27:43.081700721Z",
+  "model": "glm-5.3"
+}

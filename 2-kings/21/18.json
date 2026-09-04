@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 21:18",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Menashshe alalisamaki elongo na batata na ye, mpe akundamaki na ekuli ya ndako na ye, na ekuli ya Uza; mpe Amon mwana na ye akomaki bokonzi na esika na ye.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "alalisamaki"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashshe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "elongo na"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "batata na ye"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "mpe akundamaki"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "na ekuli"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ya ndako na ye"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "na ekuli"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "ya Uza"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "akomaki bokonzi"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana na ye"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "na esika na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T19:09:54.723969930Z",
+  "model": "glm-5.3"
+}

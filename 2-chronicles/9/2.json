@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 9:2",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Mpe Shelomo atangaki na ye ⟨את⟩ makambo na ye nyonso; mpe likambo moko te ebombaki na Shelomo oyo atangaki te na ye.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "mpe atangaki"
+    },
+    {
+      "surface": "לה",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makambo nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "דבריה",
+      "gloss": "makambo na ye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "ebombaki"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "likambo"
+    },
+    {
+      "surface": "משלמה",
+      "gloss": "na Shelomo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "atangaki"
+    },
+    {
+      "surface": "לה",
+      "gloss": "na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T22:58:27.645217676Z",
+  "model": "glm-5.3"
+}

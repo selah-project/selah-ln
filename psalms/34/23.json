@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 34:23",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 34,
+  "translation": "Yawe abolisi bomoi ya basaleli na ye, mpe baye bazali komitungela ye nyonso bakosambama te.",
+  "tokens": [
+    {
+      "surface": "פודה",
+      "gloss": "abolisi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "bomoi"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ya basaleli na ye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe ... te"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "bakosambama"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "החסים",
+      "gloss": "baye bazali komitungela"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:07:43.465851028Z",
+  "model": "glm-5.3"
+}

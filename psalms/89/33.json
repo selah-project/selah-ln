@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 89:33",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 89,
+  "translation": "Nakoswiga masumu na bango na nzete, mpe mabe na bango na mapema.",
+  "tokens": [
+    {
+      "surface": "ופקדתי",
+      "gloss": "Nakoswiga"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "na nzete"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "masumu na bango"
+    },
+    {
+      "surface": "ובנגעים",
+      "gloss": "mpe na mapema"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "mabe na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:22:54.606256773Z",
+  "model": "glm-5.3"
+}

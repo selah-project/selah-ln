@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 92:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 92,
+  "translation": "Mpo ozalisaki ngai esengo, Yawe, na mosala na yo; na misala ya maboko na yo nakoyimbaka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "שמחתני",
+      "gloss": "ozalisaki ngai esengo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בפעלך",
+      "gloss": "na mosala na yo"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "na misala ya"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "maboko na yo"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "nakoyimbaka"
+    }
+  ],
+  "timestamp": "2026-09-03T21:24:55.287522041Z",
+  "model": "glm-5.3"
+}

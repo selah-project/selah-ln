@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 88:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 88,
+  "translation": "Otyaki ngai na bókó ya se, na molili, na bozindo.",
+  "tokens": [
+    {
+      "surface": "שתני",
+      "gloss": "Otyaki ngai"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "na bókó"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "ya se"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "na molili"
+    },
+    {
+      "surface": "במצלות",
+      "gloss": "na bozindo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:23:04.237694484Z",
+  "model": "glm-5.3"
+}

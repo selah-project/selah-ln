@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 23:1",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Mosala-mabe ya Tsor. Bolila, masuwa ya Tarshish, mpo ebombami, ndako etikali te, bokoti etikali te; uta na mabele ya Kitim ebimbolamaki epai na bango.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Mosala-mabe"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ya Tsor"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "Bolila"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "masuwa"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "ya Tarshish"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "ebombami"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ndako etikali te"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "bokoti etikali te"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "uta na mabele"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "ya Kitim"
+    },
+    {
+      "surface": "נגלה",
+      "gloss": "ebimbolamaki"
+    },
+    {
+      "surface": "למו",
+      "gloss": "epai na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T19:22:56.328788846Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 60:11",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 60,
+  "translation": "Nani akomema ngai na mboka ya makasi? Nani akolamba ngai kino Edom?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Nani"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "akomema ngai"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "na mboka"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "ya makasi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Nani"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "akolamba ngai"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-09-03T21:15:01.788451788Z",
+  "model": "glm-5.3"
+}

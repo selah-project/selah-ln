@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 19:17",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Solo, Yawe, bakonzi ya Ashur babomaki ⟨את⟩ bikolo mpe ⟨את⟩ mabele na bango.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Solo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "babomaki"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "bakonzi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bikolo"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bikolo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mabele na bango"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "mabele na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T19:09:38.833778657Z",
+  "model": "glm-5.3"
+}

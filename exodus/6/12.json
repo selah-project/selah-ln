@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 6:12",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpe Moshe alobaki liboso ya Yawe, na koloba ete: Talá, bana ya Israel bayokaki te ngai, mpe nini Parao akoyoka ngai, mpe ngai nazali moto ya milomo mibongwami te?",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na koloba ete"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Talá"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "bayokaki"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "mpe nini"
+    },
+    {
+      "surface": "ישמעני",
+      "gloss": "akoyoka ngai"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "mpe ngai"
+    },
+    {
+      "surface": "ערל",
+      "gloss": "moto ya ... mibongwami te"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "milomo"
+    }
+  ],
+  "timestamp": "2026-09-03T16:14:41.057874568Z",
+  "model": "glm-5.3"
+}

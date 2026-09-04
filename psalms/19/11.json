@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 19:11",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Ezali na motuya koleka nsango ya wolo, mpe koleka wolo ya malamu mingi; mpe ezali motungisi koleka dini ya nyuki mpe nyuki ya moke oyo ezali kitaka.",
+  "tokens": [
+    {
+      "surface": "הנחמדים",
+      "gloss": "ezali na motuya koleka"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "nsango ya wolo"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "mpe koleka wolo ya malamu"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mingi"
+    },
+    {
+      "surface": "ומתוקים",
+      "gloss": "mpe ezali motungisi koleka"
+    },
+    {
+      "surface": "מדבש",
+      "gloss": "dini ya nyuki"
+    },
+    {
+      "surface": "ונפת",
+      "gloss": "mpe nyuki ya moke oyo ezali kitaka"
+    },
+    {
+      "surface": "צופים",
+      "gloss": "ya ndako ya nyuki"
+    }
+  ],
+  "timestamp": "2026-09-03T21:04:06.908567067Z",
+  "model": "glm-5.3"
+}

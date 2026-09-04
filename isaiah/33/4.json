@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 33:4",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 33,
+  "translation": "Mpe botolemoli na bino ekozangama, ndenge senene ekangaka; lokola bosakana kwa basenene, bazali kosakana na yango.",
+  "tokens": [
+    {
+      "surface": "ואסף",
+      "gloss": "mpe ekozangama"
+    },
+    {
+      "surface": "שללכם",
+      "gloss": "botolemoli na bino"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "kokanga"
+    },
+    {
+      "surface": "החסיל",
+      "gloss": "senene"
+    },
+    {
+      "surface": "כמשק",
+      "gloss": "ndenge"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "basenene"
+    },
+    {
+      "surface": "שוקק",
+      "gloss": "kosakana"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T19:26:17.167271830Z",
+  "model": "glm-5.3"
+}

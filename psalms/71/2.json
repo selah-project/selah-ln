@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 71:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 71,
+  "translation": "Na bosolo na yo okangola ngai mpe obimisa ngai; yokanisa matoyi na yo epai na ngai mpe bokola ngai.",
+  "tokens": [
+    {
+      "surface": "בצדקתך",
+      "gloss": "Na bosolo na yo"
+    },
+    {
+      "surface": "תצילני",
+      "gloss": "okangola ngai"
+    },
+    {
+      "surface": "ותפלטני",
+      "gloss": "mpe obimisa ngai"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "yokanisa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "epai na ngai"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "matoyi na yo"
+    },
+    {
+      "surface": "והושיעני",
+      "gloss": "mpe bokola ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:17:47.478709115Z",
+  "model": "glm-5.3"
+}

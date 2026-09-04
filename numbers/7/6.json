@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 7:6",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mpe Moshe azwaki ⟨את⟩ bashari mpe ⟨את⟩ ngombe, mpe apesaki ⟨את⟩ yango epai ya Balevi.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "mpe azwaki"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bashari"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "bashari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "ngombe"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ngombe"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "mpe apesaki"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "yango"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Balevi"
+    }
+  ],
+  "timestamp": "2026-09-03T17:01:44.196312620Z",
+  "model": "glm-5.3"
+}

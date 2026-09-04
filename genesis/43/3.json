@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 43:3",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 43,
+  "translation": "Mpe Yehuda alobaki na ye alobaki ete: ⟨את⟩ Moto yango atondisaki biso na masolo, alobaki ete: Bokomona elongi na ngai te, soki ndeko na bino azali ⟨את⟩ elongo na bino te.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "alobaki ete"
+    },
+    {
+      "surface": "העד",
+      "gloss": "atondisaki"
+    },
+    {
+      "surface": "העד",
+      "gloss": "na masolo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "biso"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "Moto yango"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "alobaki ete"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "Bokomona"
+    },
+    {
+      "surface": "פני",
+      "gloss": "elongi"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "soki"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "ndeko na bino"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "elongo na bino"
+    }
+  ],
+  "timestamp": "2026-09-03T16:08:46.571561217Z",
+  "model": "glm-5.3"
+}

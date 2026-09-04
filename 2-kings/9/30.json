@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 9:30",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Mpe Yehu ayingelaki Yizreel, mpe Izebel ayokaki, mpe atyaki farda na miso na ye, mpe abongisaki ⟨את⟩ motó na ye, mpe ataliaki na lininisa.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "Mpe Yehu ayingelaki"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "יזרעאלה",
+      "gloss": "Yizreel"
+    },
+    {
+      "surface": "ואיזבל",
+      "gloss": "mpe Izebel"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "ayokaki"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "mpe atyaki"
+    },
+    {
+      "surface": "בפוך",
+      "gloss": "farda na miso na ye"
+    },
+    {
+      "surface": "עיניה",
+      "gloss": "⟨miso na ye⟩"
+    },
+    {
+      "surface": "ותיטב",
+      "gloss": "mpe abongisaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motó na ye"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "motó na ye"
+    },
+    {
+      "surface": "ותשקף",
+      "gloss": "mpe ataliaki"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "na"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "lininisa"
+    }
+  ],
+  "timestamp": "2026-09-03T19:02:03.769802946Z",
+  "model": "glm-5.3"
+}

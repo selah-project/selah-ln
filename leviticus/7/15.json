@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 7:15",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mpe masini ya sarako ya matondo ya shelamaw na ye ekali koliama na mokolo ya opelisami na ye; akotika eloko te na yango tee na tongo.",
+  "tokens": [
+    {
+      "surface": "ובשר",
+      "gloss": "mpe masini"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ya sarako"
+    },
+    {
+      "surface": "תודת",
+      "gloss": "ya matondo"
+    },
+    {
+      "surface": "שלמיו",
+      "gloss": "shelamaw na ye"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na mokolo"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "ya opelisami na ye"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ekali koliama"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "akotika"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tee na"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "tongo"
+    }
+  ],
+  "timestamp": "2026-09-03T16:41:38.356152701Z",
+  "model": "glm-5.3"
+}

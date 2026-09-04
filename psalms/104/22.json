@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 104:22",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 104,
+  "translation": "Moi tango etomaki, ⟨bango⟩ basanganaki, mpe na bandako na bango balalaki.",
+  "tokens": [
+    {
+      "surface": "תזרח",
+      "gloss": "etomaki"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "moi"
+    },
+    {
+      "surface": "יאספון",
+      "gloss": "basanganaki"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mpe na"
+    },
+    {
+      "surface": "מעונותם",
+      "gloss": "bandako na bango"
+    },
+    {
+      "surface": "ירבצון",
+      "gloss": "balalaki"
+    }
+  ],
+  "timestamp": "2026-09-03T21:26:15.685615122Z",
+  "model": "glm-5.3"
+}

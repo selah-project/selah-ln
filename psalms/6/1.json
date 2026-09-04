@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 6:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpo na mokambi, na binze, likolo ya sheminit. Mizmor ya David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Mpo na mokambi"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "na binze"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "sheminit"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya David"
+    }
+  ],
+  "timestamp": "2026-09-03T20:59:58.847313465Z",
+  "model": "glm-5.3"
+}

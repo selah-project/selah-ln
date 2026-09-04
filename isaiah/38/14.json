@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 38:14",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 38,
+  "translation": "Lokola nsusu mpe bogwi, boye nalobolobo; nakeka lokola ndundu; miso na ngai ezali kokoka na koluka likolo; Adonai, mabebe ezali na ngai, zwa ngai na maboko.",
+  "tokens": [
+    {
+      "surface": "כסוס",
+      "gloss": "Lokola nsusu"
+    },
+    {
+      "surface": "עגור",
+      "gloss": "mpe bogwi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "boye"
+    },
+    {
+      "surface": "אצפצף",
+      "gloss": "nalobolobo"
+    },
+    {
+      "surface": "אהגה",
+      "gloss": "nakeka"
+    },
+    {
+      "surface": "כיונה",
+      "gloss": "lokola ndundu"
+    },
+    {
+      "surface": "דלו",
+      "gloss": "ezali kokoka"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "miso na ngai"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "na koluka likolo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עשקה",
+      "gloss": "mabebe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "ערבני",
+      "gloss": "zwa ngai na maboko"
+    }
+  ],
+  "timestamp": "2026-09-03T19:27:18.976186204Z",
+  "model": "glm-5.3"
+}

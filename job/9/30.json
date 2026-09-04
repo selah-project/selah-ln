@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 9:30",
+  "book": "job",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Soki nakulisaki ngai na neje, mpe nakakisaki maboko na ngai na ⟨soda⟩ —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Soki"
+    },
+    {
+      "surface": "התרחצתי",
+      "gloss": "nakulisaki ngai"
+    },
+    {
+      "surface": "במו",
+      "gloss": "na"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "neje"
+    },
+    {
+      "surface": "והזכותי",
+      "gloss": "mpe nakakisaki"
+    },
+    {
+      "surface": "בבר",
+      "gloss": "na ⟨soda⟩"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "maboko na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T23:36:35.139975081Z",
+  "model": "glm-5.3"
+}

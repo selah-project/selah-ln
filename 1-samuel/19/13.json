@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 19:13",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Mpe Mikal amaki ⟨את⟩ biterafim mpe atyaki yango na kitanda, mpe ⟨את⟩ kago ya mboyo ya mboli atyaki yango na motó na yango, mpe akangaki yango na elamba.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "mpe amaki"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "biterafim"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "biterafim"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "mpe atyaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "kitanda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "kago ya mboyo ya mboli"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "kago"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "ya mboli"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "atyaki yango"
+    },
+    {
+      "surface": "מראשתיו",
+      "gloss": "na motó na yango"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "mpe akangaki"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "na elamba"
+    }
+  ],
+  "timestamp": "2026-09-03T18:19:03.892143010Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 18:28",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Mpo ete yo obalisa bato ya mawa, mpe miso ya likolo okitisa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ya mawa"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "obalisa"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "mpe miso"
+    },
+    {
+      "surface": "רמות",
+      "gloss": "ya likolo"
+    },
+    {
+      "surface": "תשפיל",
+      "gloss": "okitisa"
+    }
+  ],
+  "timestamp": "2026-09-03T21:04:32.440115010Z",
+  "model": "glm-5.3"
+}

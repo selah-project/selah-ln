@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 20:10",
+  "book": "ezekiel",
+  "lang": "ln",
+  "chapter": 20,
+  "translation": "Mpe nabimisaki bango na mabele ya Mitsraim, mpe nakomisaki bango na eteno.",
+  "tokens": [
+    {
+      "surface": "ואוציאם",
+      "gloss": "mpe nabimisaki bango"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Mitsraim"
+    },
+    {
+      "surface": "ואבאם",
+      "gloss": "mpe nakomisaki bango"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "eteno"
+    }
+  ],
+  "timestamp": "2026-09-03T20:19:43.598641160Z",
+  "model": "glm-5.3"
+}

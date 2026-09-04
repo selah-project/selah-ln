@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 131,
+  "ref": "psalms 119:131",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Nafungolaki monoko na ngai mpe nazelaki mpepe, mpo malako na yo nazalaki na posa yango.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "monoko na ngai"
+    },
+    {
+      "surface": "פערתי",
+      "gloss": "nafungolaki"
+    },
+    {
+      "surface": "ואשאפה",
+      "gloss": "mpe nazelaki mpepe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "למצותיך",
+      "gloss": "malako na yo"
+    },
+    {
+      "surface": "יאבתי",
+      "gloss": "nazalaki na posa yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:32:29.562320187Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "micah 7:6",
+  "book": "micah",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mpo mwana abebisi tata, mwana mwasi ayangi mama na ye, mwasi ya mwana ayangi mama-nkulu na ye; banganga ya moto bazali bato ya ndako na ye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "מנבל",
+      "gloss": "abebisi"
+    },
+    {
+      "surface": "אב",
+      "gloss": "tata"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana mwasi"
+    },
+    {
+      "surface": "קמה",
+      "gloss": "ayangi"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "mama na ye"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "mwasi ya mwana"
+    },
+    {
+      "surface": "בחמתה",
+      "gloss": "mama-nkulu na ye"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "banganga"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ya moto"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "bazali bato"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ya ndako na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T20:50:21.640781938Z",
+  "model": "glm-5.3"
+}

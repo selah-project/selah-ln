@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 3:4",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Ntango ya koliala, mpe ntango ya koseka; ntango ya kumela, mpe ntango ya koyemba.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "ntango"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "ya koliala"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "mpe ntango"
+    },
+    {
+      "surface": "לשחוק",
+      "gloss": "ya koseka"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ntango"
+    },
+    {
+      "surface": "ספוד",
+      "gloss": "ya kumela"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "mpe ntango"
+    },
+    {
+      "surface": "רקוד",
+      "gloss": "ya koyemba"
+    }
+  ],
+  "timestamp": "2026-09-03T22:13:01.482708193Z",
+  "model": "glm-5.3"
+}

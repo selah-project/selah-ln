@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 9:7",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "mpe okobeta ⟨את⟩ ndako ya Ahav nkolo na yo, mpe nakosomba makila ya basaleli na ngai banvie, mpe makila ya basaleli nyonso ya Yawe, na maboko ya Izevel.",
+  "tokens": [
+    {
+      "surface": "והכיתה",
+      "gloss": "mpe okobeta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndako ya Ahav nkolo na yo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ya Ahav"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "nkolo na yo"
+    },
+    {
+      "surface": "ונקמתי",
+      "gloss": "mpe nakosomba"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "makila"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ya basaleli na ngai"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "banvie"
+    },
+    {
+      "surface": "ודמי",
+      "gloss": "mpe makila"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ya basaleli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yawe"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "na maboko"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "ya Izevel"
+    }
+  ],
+  "timestamp": "2026-09-03T19:02:20.943556975Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 21:11",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Mpe bayebisaki David ⟨את⟩ oyo Ritspah mwana ya Aya, mwasi ya mibale ya Shaul, asali.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "mpe bayebisaki"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oyo Ritspah asali"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "asali"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "Ritspah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana ya"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Aya"
+    },
+    {
+      "surface": "פלגש",
+      "gloss": "mwasi ya mibale"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    }
+  ],
+  "timestamp": "2026-09-03T18:38:43.051981616Z",
+  "model": "glm-5.3"
+}

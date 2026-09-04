@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 73:20",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 73,
+  "translation": "Lokola lilo ntango moto asilisaka yango, Adonai, ntango osekwisi, oboyaka elilingi na bango.",
+  "tokens": [
+    {
+      "surface": "כחלום",
+      "gloss": "Lokola lilo"
+    },
+    {
+      "surface": "מהקיץ",
+      "gloss": "ntango moto asilisaka yango"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ntango osekwisi"
+    },
+    {
+      "surface": "צלמם",
+      "gloss": "elilingi na bango"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "oboyaka"
+    }
+  ],
+  "timestamp": "2026-09-03T21:18:23.902505816Z",
+  "model": "glm-5.3"
+}

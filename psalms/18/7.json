@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 18:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Na mawa na ngai nabengaki Yawe, mpe na Elohim na ngai nayebolaki; aboyokaki mongongo na ngai uta na heikal na ye, mpe bobengi na ngai eyaki liboso na ye, kati na matoyi na ye.",
+  "tokens": [
+    {
+      "surface": "בצר",
+      "gloss": "na mawa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "nabengaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mpe na"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim na ngai"
+    },
+    {
+      "surface": "אשוע",
+      "gloss": "nayebolaki"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "aboyokaki"
+    },
+    {
+      "surface": "מהיכלו",
+      "gloss": "uta na heikal na ye"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "mongongo na ngai"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "mpe bobengi na ngai"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "liboso na ye"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "eyaki"
+    },
+    {
+      "surface": "באזניו",
+      "gloss": "kati na matoyi na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:04:13.883066738Z",
+  "model": "glm-5.3"
+}

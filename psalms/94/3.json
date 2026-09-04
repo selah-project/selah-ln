@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 94:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 94,
+  "translation": "Tee ntango nini, Yawe, bato mabe; tee ntango nini bato mabe bakosekela?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Tee"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ntango nini"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bato mabe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tee"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ntango nini"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bato mabe"
+    },
+    {
+      "surface": "יעלזו",
+      "gloss": "bakosekela"
+    }
+  ],
+  "timestamp": "2026-09-03T21:25:01.066302735Z",
+  "model": "glm-5.3"
+}

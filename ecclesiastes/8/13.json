@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 8:13",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe eloko malamu ekotelema te epai ya mabe, mpe mikolo na ye ekokaki te ndenge lipemi, mpo azali kobanga te liboso ya Elohim.",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "mpe eloko malamu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ekotelema"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "epai ya mabe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "ekokaki te"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mikolo"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "ndenge lipemi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ye azali te"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "kobanga"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-03T22:15:54.793127764Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 139:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 139,
+  "translation": "Ata kuna loboko nayo ekolamba ngai, mpe ya mobali nako ekangaka ngai.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ata"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "loboko nayo"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "ekolamba ngai"
+    },
+    {
+      "surface": "ותאחזני",
+      "gloss": "mpe ekangaka ngai"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ya mobali nako"
+    }
+  ],
+  "timestamp": "2026-09-03T21:34:57.798576962Z",
+  "model": "glm-5.3"
+}

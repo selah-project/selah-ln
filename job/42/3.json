@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 42:3",
+  "book": "job",
+  "lang": "ln",
+  "chapter": 42,
+  "translation": "Nani ye oyo abombaki makanisi na boyebi te? Yango wana nanidi mpe singa natambwisi te; makambo ya kokamwa uta epai ngai, mpe nakoyeba te.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Nani"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ye"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "abombaki"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "makanisi"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "na te"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "boyebi"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "yango wana"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "nanidi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "natambwisi"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "makambo ya kokamwa"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "uta epai ngai"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "nakoyeba"
+    }
+  ],
+  "timestamp": "2026-09-03T22:05:13.551483772Z",
+  "model": "glm-5.3"
+}

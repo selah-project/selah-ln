@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 14:5",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Libanga ya makasi, moko, ezali na nordi liboso ya Mikhmash, mpe moko na sudi liboso ya Gueba.",
+  "tokens": [
+    {
+      "surface": "הַשֵּׁן",
+      "gloss": "ya makasi"
+    },
+    {
+      "surface": "הָאֶחָד",
+      "gloss": "moko"
+    },
+    {
+      "surface": "מָצוּק",
+      "gloss": "libanga"
+    },
+    {
+      "surface": "מִצָּפוֹן",
+      "gloss": "na nordi"
+    },
+    {
+      "surface": "מוּל",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "מִכְמָשׂ",
+      "gloss": "Mikhmash"
+    },
+    {
+      "surface": "וְהָאֶחָד",
+      "gloss": "mpe moko"
+    },
+    {
+      "surface": "מִנֶּגֶב",
+      "gloss": "na sudi"
+    },
+    {
+      "surface": "מוּל",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "גֶּבַע",
+      "gloss": "Gueba"
+    }
+  ],
+  "timestamp": "2026-09-03T18:15:02.241983613Z",
+  "model": "glm-5.3"
+}

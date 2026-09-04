@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 69:30",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 69,
+  "translation": "Kasi ngai nazali mawa mpe na mpasi; bobiki na yo, Elohim, akotombisa ngai.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "kasi ngai"
+    },
+    {
+      "surface": "עני",
+      "gloss": "nazali mawa"
+    },
+    {
+      "surface": "וכואב",
+      "gloss": "mpe na mpasi"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "bobiki na yo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "akotombisa ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:17:34.246396907Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 2:12",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Korban ya liboso bokopekisa ⟨את⟩ bango epai ya Yawe; kasi epai na awteli bakokota te, lokola nimolulu malamu.",
+  "tokens": [
+    {
+      "surface": "קרבן",
+      "gloss": "korban"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "ya liboso"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "bokopekisa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bango (seor mpe devash)"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "epai ya Yawe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kasi epai na"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "awteli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "bakokota"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "lokola nimolulu"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "malamu"
+    }
+  ],
+  "timestamp": "2026-09-03T16:39:10.438046970Z",
+  "model": "glm-5.3"
+}

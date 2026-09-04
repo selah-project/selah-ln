@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 145:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 145,
+  "translation": "Bokembo bonene ya nkembo ya ndenge na yo, mpe maloba ya makambo na yo ya kokamwisa, nakanisaka na yango.",
+  "tokens": [
+    {
+      "surface": "הדר",
+      "gloss": "bokembo bonene"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "nkembo"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "ya ndenge na yo"
+    },
+    {
+      "surface": "ודברי",
+      "gloss": "mpe maloba ya"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "makambo na yo ya kokamwisa"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "nakanisaka na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:36:25.394423198Z",
+  "model": "glm-5.3"
+}

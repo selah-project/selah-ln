@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 138:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 138,
+  "translation": "Mpo Yawe azali likolo, kasi amonaka mawa; mpe oyo azali na nguya, mosika ayebaka ⟨ye⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "רם",
+      "gloss": "azali likolo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "kasi mawa"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "amonaka"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "mpe oyo na nguya"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "mosika"
+    },
+    {
+      "surface": "יידע",
+      "gloss": "ayebaka"
+    }
+  ],
+  "timestamp": "2026-09-03T21:35:13.654435233Z",
+  "model": "glm-5.3"
+}

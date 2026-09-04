@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 6:20",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Batela, mwana na ngai, malako ya tata na yo, mpe kotika te Tora ya mama na yo.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "batela"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mwana na ngai"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "malako"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ya tata na yo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "תטש",
+      "gloss": "kotika"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ya mama na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:39:06.016021516Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 3:11",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe ⟨Ishboshet⟩ asalaki makasi te lisusu mpo na koyanola ⟨את⟩ Avner liloba, mpo na bobangi na ye ⟨את⟩ epai ya ye.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "asalaki makasi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lisusu"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "mpo na koyanola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avner"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "liloba"
+    },
+    {
+      "surface": "מיראתו",
+      "gloss": "mpo na bobangi na ye"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ epai ya ye"
+    }
+  ],
+  "timestamp": "2026-09-03T18:26:26.160744566Z",
+  "model": "glm-5.3"
+}

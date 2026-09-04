@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 6:4",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpe akendaki ⟨את⟩ bango, mpe bakomaki na Yarden, mpe bakatakaki banzete.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "akendaki"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bango"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "mpe bakomaki"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "na Yarden"
+    },
+    {
+      "surface": "ויגזרו",
+      "gloss": "mpe bakatakaki"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "banzete"
+    }
+  ],
+  "timestamp": "2026-09-03T19:00:52.406057326Z",
+  "model": "glm-5.3"
+}

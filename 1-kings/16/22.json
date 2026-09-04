@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 16:22",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Mpe bato oyo bazalaki na sima ya Omri bamonisaki nguya likolo ya ⟨את⟩ bato oyo bazalaki na sima ya Tivni mwana wa Ginat; mpe Tivni akufaki, mpe Omri akokanaki lokola mokonzi.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "mpe bamonisaki nguya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "na sima ya"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bato"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "na sima ya"
+    },
+    {
+      "surface": "תבני",
+      "gloss": "Tivni"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "גינת",
+      "gloss": "wa Ginat"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "mpe akufaki"
+    },
+    {
+      "surface": "תבני",
+      "gloss": "Tivni"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "mpe akokanaki lokola mokonzi"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    }
+  ],
+  "timestamp": "2026-09-03T18:54:07.390670055Z",
+  "model": "glm-5.3"
+}

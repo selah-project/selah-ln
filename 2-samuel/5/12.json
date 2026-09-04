@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 5:12",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Mpe David ayebaki ete Yawe atyelaki ye lokola mokonzi likolo ya Israel, mpe ete atombolaki bokonzi na ye mpo na mboka na ye Israel.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "mpe ayebaki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "הכינו",
+      "gloss": "atyelaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "lokola mokonzi"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "mpe ete"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "atombolaki"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "bokonzi na ye"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "mpo na"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "mboka na ye"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-03T18:30:17.918358611Z",
+  "model": "glm-5.3"
+}

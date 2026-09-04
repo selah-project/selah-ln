@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 21:5",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Makanisi ya moto ya makasi ezali kaka na bokoi, kasi moto nyonso ya lombango ezali kaka na bosusi.",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "Makanisi"
+    },
+    {
+      "surface": "חרוץ",
+      "gloss": "ya moto ya makasi"
+    },
+    {
+      "surface": "אך",
+      "gloss": "kaka"
+    },
+    {
+      "surface": "למותר",
+      "gloss": "na bokoi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kasi moto nyonso"
+    },
+    {
+      "surface": "אץ",
+      "gloss": "ya lombango"
+    },
+    {
+      "surface": "אך",
+      "gloss": "kaka"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "na bosusi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:44:38.236602935Z",
+  "model": "glm-5.3"
+}

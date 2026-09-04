@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 76:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 76,
+  "translation": "Epai ya mokambi, na bipoli ya biniaulo; nzembo ea Asaf, moyembo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Epai ya mokambi"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "na bipoli ya biniaulo"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "nzembo"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ea Asaf"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "moyembo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:18:50.031467095Z",
+  "model": "glm-5.3"
+}

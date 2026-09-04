@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 3:7",
+  "book": "zechariah",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Boye Yawe Tsebaot alobaki: Soki otambolaka na nzela na ngai, mpe soki obatelaka ⟨את⟩ libateli na ngai, yo mpe okosambisa ⟨את⟩ ndako na ngai, mpe okobatela ⟨את⟩ bipela na ngai; mpe nakei kopesa yo nzela ya kotambola kati ya bawoyo batelemi oyo.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Boye"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Soki"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "na nzela na ngai"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "otambolaka"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "mpe soki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "libateli na ngai"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "libateli na ngai"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "obatelaka"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "תדין",
+      "gloss": "okosambisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndako na ngai"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "ndako na ngai"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "okobatela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bipela na ngai"
+    },
+    {
+      "surface": "חצרי",
+      "gloss": "bipela na ngai"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "mpe nakei kopesa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yo"
+    },
+    {
+      "surface": "מהלכים",
+      "gloss": "nzela ya kotambola"
+    },
+    {
+      "surface": "בין",
+      "gloss": "kati ya"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "bawoyo batelemi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "oyo"
+    }
+  ],
+  "timestamp": "2026-09-03T20:56:36.955270405Z",
+  "model": "glm-5.3"
+}

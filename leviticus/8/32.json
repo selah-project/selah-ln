@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 8:32",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe oyo ekitaki na nyama mpe na pan, na moto bofela yango.",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "Mpe oyo ekitaki"
+    },
+    {
+      "surface": "בבשר",
+      "gloss": "na nyama"
+    },
+    {
+      "surface": "ובלחם",
+      "gloss": "mpe na pan"
+    },
+    {
+      "surface": "באש",
+      "gloss": "na moto"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "bofela yango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:44:46.487218808Z",
+  "model": "glm-5.3"
+}

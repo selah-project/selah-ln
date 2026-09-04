@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 15:12",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 15,
+  "translation": "Mpe abimisaki bakadesha na mabele, mpe alongolaki ⟨את⟩ bikeko nyonso oyo baboti na yango basalaki.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "Mpe abimisaki"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "bakadesha"
+    },
+    {
+      "surface": "מן",
+      "gloss": "na"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "mpe alongolaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bikeko nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "bikeko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "basalaki"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "baboti na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T18:52:57.464903172Z",
+  "model": "glm-5.3"
+}

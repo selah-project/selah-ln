@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 29:19",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 29,
+  "translation": "Mpe Lavan alobaki: Ezali malamu nakopesa ⟨את⟩ ye epai na yo, koleka nakopesa ⟨את⟩ ye na moto mosusu; fanda elongo na ngai.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe Lavan alobaki"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Mpe Lavan alobaki"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Ezali malamu"
+    },
+    {
+      "surface": "תתי",
+      "gloss": "nakopesa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ye (Rahel)"
+    },
+    {
+      "surface": "לך",
+      "gloss": "epai na yo"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "koleka nakopesa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "moto mosusu"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "na moto"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "mosusu"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "fanda"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "elongo na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T15:59:14.069820002Z",
+  "model": "glm-5.3"
+}

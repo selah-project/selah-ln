@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 12:17",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Makutu ya ashame mpe makutu ya masumu ekotaki te na ndako ya Yawe; ezalaki ⟨ya⟩ bakohen.",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "makutu"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "ashame"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "mpe makutu"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "masumu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יובא",
+      "gloss": "ekotaki"
+    },
+    {
+      "surface": "בית",
+      "gloss": "na ndako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "na bakohen"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ezalaki ⟨ya⟩"
+    }
+  ],
+  "timestamp": "2026-09-03T19:05:09.916099868Z",
+  "model": "glm-5.3"
+}

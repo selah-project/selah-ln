@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 28:4",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 28,
+  "translation": "Mpe litonono eboleli, bokembo ya kitoko na yango, oyo ezali na motó ya zela ya mafuta, ekokoma lokoku ya liboso, liboso ya mbala; yango moto oyo amonaka ⟨את⟩ yango, na ntango ezali kaka na maboko na yango, akomelaka yango.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "Mpe ekokoma"
+    },
+    {
+      "surface": "ציצת",
+      "gloss": "litonono"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "eboleli"
+    },
+    {
+      "surface": "צבי",
+      "gloss": "bokembo"
+    },
+    {
+      "surface": "תפארתו",
+      "gloss": "kitoko na yango"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "motó"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "zela"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "כבכורה",
+      "gloss": "lokoku ya liboso"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "mbala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "amonaka"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "oyo atali"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "yango"
+    },
+    {
+      "surface": "בעודה",
+      "gloss": "na ntango ezali kaka"
+    },
+    {
+      "surface": "בכפו",
+      "gloss": "na maboko na yango"
+    },
+    {
+      "surface": "יבלענה",
+      "gloss": "akomelaka yango"
+    }
+  ],
+  "timestamp": "2026-09-03T19:23:50.292997531Z",
+  "model": "glm-5.3"
+}

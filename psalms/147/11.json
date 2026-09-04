@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 147:11",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 147,
+  "translation": "Yawe asepeli ⟨את⟩ babangi na ye, ⟨את⟩ baye bazali kolikia hesed na ye (bolingo na bobato) na ye.",
+  "tokens": [
+    {
+      "surface": "רוצה",
+      "gloss": "asepeli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "babangi na ye"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "babangi na ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baye bazali kolikia"
+    },
+    {
+      "surface": "המיחלים",
+      "gloss": "baye bazali kolikia"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "na hesed na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:36:00.012400166Z",
+  "model": "glm-5.3"
+}

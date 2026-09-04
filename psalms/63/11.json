@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 63:11",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 63,
+  "translation": "Bakobwaka bango na maboko ya mapanga; bakokoma mboka ya bambwa ya zamba.",
+  "tokens": [
+    {
+      "surface": "יגירהו",
+      "gloss": "bakobwaka bango"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "maboko"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "mapanga"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "mboka"
+    },
+    {
+      "surface": "שעלים",
+      "gloss": "ya bambwa ya zamba"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bakokoma"
+    }
+  ],
+  "timestamp": "2026-09-03T21:15:22.643466929Z",
+  "model": "glm-5.3"
+}

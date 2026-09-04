@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 147:19",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 147,
+  "translation": "Amonisi liloba na ye epai ya Yaakov, mibeko na ye mpe makomi na ye epai ya Israel.",
+  "tokens": [
+    {
+      "surface": "מגיד",
+      "gloss": "Amonisi"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "liloba na ye"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "epai ya Yaakov"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "mibeko na ye"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "mpe makomi na ye"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "epai ya Israel"
+    }
+  ],
+  "timestamp": "2026-09-03T21:36:28.760576560Z",
+  "model": "glm-5.3"
+}

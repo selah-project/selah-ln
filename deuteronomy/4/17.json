@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 4:17",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "elongi ya nyama nyonso oyo ezali na mabele, elongi ya ndeke ya mapapa nyonso oyo ezali kopapasa na likolo",
+  "tokens": [
+    {
+      "surface": "תבנית",
+      "gloss": "elongi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "elongi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "ndeke"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "ya mapapa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "תעוף",
+      "gloss": "ezali kopapasa"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "na likolo"
+    }
+  ],
+  "timestamp": "2026-09-03T17:26:22.653288933Z",
+  "model": "glm-5.3"
+}

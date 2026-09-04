@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 58:8",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 58,
+  "translation": "Na ntango wana polele na yo ekobukana lokola tongo, mpe bomeli malamu na yo noki noki ekokota; bosolo na yo ekende liboso na yo, nkembo ya Yawe ekosangisa yo.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Na ntango wana"
+    },
+    {
+      "surface": "יבקע",
+      "gloss": "ekobukana"
+    },
+    {
+      "surface": "כשחר",
+      "gloss": "lokola tongo"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "polele na yo"
+    },
+    {
+      "surface": "וארכתך",
+      "gloss": "mpe bomeli malamu na yo"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "noki noki"
+    },
+    {
+      "surface": "תצמח",
+      "gloss": "ekokota"
+    },
+    {
+      "surface": "והלך",
+      "gloss": "mpe ekende"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "liboso na yo"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "bosolo na yo"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "nkembo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yawe"
+    },
+    {
+      "surface": "יאספך",
+      "gloss": "ekosangisa yo"
+    }
+  ],
+  "timestamp": "2026-09-03T19:39:06.893336706Z",
+  "model": "glm-5.3"
+}

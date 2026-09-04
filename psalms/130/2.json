@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 130:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 130,
+  "translation": "Adonai, yoka mongongo na ngai; matoyi na yo ezala na bokengi na mongongo ya malamba na ngai.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "yoka"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "mongongo na ngai"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "ezala"
+    },
+    {
+      "surface": "אזניך",
+      "gloss": "matoyi na yo"
+    },
+    {
+      "surface": "קשבות",
+      "gloss": "na bokengi"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "na mongongo"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "ya malamba na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:33:32.175519330Z",
+  "model": "glm-5.3"
+}

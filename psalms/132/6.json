@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 132:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 132,
+  "translation": "Talá, toyokaki yango na Efrata, tokutaki yango na mapanga ya nzete.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Talá"
+    },
+    {
+      "surface": "שמענוה",
+      "gloss": "toyokaki yango"
+    },
+    {
+      "surface": "באפרתה",
+      "gloss": "na Efrata"
+    },
+    {
+      "surface": "מצאנוה",
+      "gloss": "tokutaki yango"
+    },
+    {
+      "surface": "בשדי",
+      "gloss": "na mapanga"
+    },
+    {
+      "surface": "יער",
+      "gloss": "ya nzete"
+    }
+  ],
+  "timestamp": "2026-09-03T21:33:59.524574128Z",
+  "model": "glm-5.3"
+}

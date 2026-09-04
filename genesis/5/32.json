@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 5:32",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Mpe Noa azalaki na mbula 500, mpe Noa abotaki ⟨את⟩ Shem, ⟨את⟩ Ham, mpe ⟨את⟩ Yafet.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "azalaki"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "5"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "nkama"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ya mbula"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "abotaki"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ham"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Ham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Yafet"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Yafet"
+    }
+  ],
+  "timestamp": "2026-09-03T15:46:24.496081197Z",
+  "model": "glm-5.3"
+}

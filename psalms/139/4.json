@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 139:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 139,
+  "translation": "Mpo liloba moko te ezali na monoko na ngai — talá, Yawe, oyaki yango mobimba.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ezali te"
+    },
+    {
+      "surface": "מלה",
+      "gloss": "liloba moko"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "na monoko na ngai"
+    },
+    {
+      "surface": "הן",
+      "gloss": "talá"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "oyaki"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "yango mobimba"
+    }
+  ],
+  "timestamp": "2026-09-03T21:34:46.479299708Z",
+  "model": "glm-5.3"
+}

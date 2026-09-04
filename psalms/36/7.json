@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 36:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 36,
+  "translation": "Bolamu na yo bonene lokola bangomba ya El; mibeko na yo ezali mbu monene; moto mpe nyama obikaka, Yawe.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "bolamu na yo"
+    },
+    {
+      "surface": "כהררי",
+      "gloss": "lokola bangomba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "משפטך",
+      "gloss": "mibeko na yo"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "mbu monene"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "monene"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moto"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "mpe nyama"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "obikaka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T21:08:49.439312735Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 16:31",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Shabat Shabaton ⟨ezali⟩ na bino, mpe bokokesa ⟨את⟩ milimo na bino — mibeko ya ntango ya libela.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Shabat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "Shabaton"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ezali⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "na bino"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "mpe bokokesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "milimo na bino"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "milimo na bino"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "mibeko ya"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ntango ya libela"
+    }
+  ],
+  "timestamp": "2026-09-03T16:50:44.680117978Z",
+  "model": "glm-5.3"
+}

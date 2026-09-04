@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 78:34",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 78,
+  "translation": "Soki abomaki bango, balukaki ye, mpe bazongaki mpe basalaki bolukielo El na ntongo.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "soki"
+    },
+    {
+      "surface": "הרגם",
+      "gloss": "abomaki bango"
+    },
+    {
+      "surface": "ודרשוהו",
+      "gloss": "balukaki ye"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "mpe bazongaki"
+    },
+    {
+      "surface": "ושחרו",
+      "gloss": "mpe basalaki bolukielo na ntongo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-03T21:19:52.378145002Z",
+  "model": "glm-5.3"
+}

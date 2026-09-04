@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 33:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 33,
+  "translation": "Mpo yandi alobaki mpe ezalaki; yandi alongaki mpe etelemaki.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yandi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mpe ezalaki"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yandi"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "alongaki"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "mpe etelemaki"
+    }
+  ],
+  "timestamp": "2026-09-03T21:07:50.114446637Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 30:9",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 30,
+  "translation": "Mpe bakokolaka ⟨את⟩ Yawe Elohim na bango, mpe ⟨את⟩ David mokonzi na bango, oyo nakotombolaka bango.",
+  "tokens": [
+    {
+      "surface": "ועבדו",
+      "gloss": "mpe bakokolaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe Elohim na bango"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim na bango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "mokonzi na bango"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "nakotombolaka"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bango"
+    }
+  ],
+  "timestamp": "2026-09-03T19:55:29.963532446Z",
+  "model": "glm-5.3"
+}

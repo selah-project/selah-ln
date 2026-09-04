@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 7:5",
+  "book": "ezra",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "mwana wa Avishua, mwana wa Pinehas, mwana wa Elazar, mwana wa Aharon, kohen mokonzi",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "wa Avishua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "wa Pinehas"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "wa Elazar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "wa Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "mokonzi"
+    }
+  ],
+  "timestamp": "2026-09-03T22:30:43.786829884Z",
+  "model": "glm-5.3"
+}

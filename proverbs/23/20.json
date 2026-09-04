@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 23:20",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Ozala te na banwami ya vino, na baboli ya mosolo, bango moko.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "ozala"
+    },
+    {
+      "surface": "בסבאי",
+      "gloss": "na banwami"
+    },
+    {
+      "surface": "יין",
+      "gloss": "ya vino"
+    },
+    {
+      "surface": "בזללי",
+      "gloss": "na baboli"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ya mosolo"
+    },
+    {
+      "surface": "למו",
+      "gloss": "bango moko"
+    }
+  ],
+  "timestamp": "2026-09-03T21:46:47.845290086Z",
+  "model": "glm-5.3"
+}

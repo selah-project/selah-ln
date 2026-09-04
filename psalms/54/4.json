@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 54:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 54,
+  "translation": "Elohim, yoka lilomba na ngai; patula matoyi na maloba ya monoko na ngai.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "yoka"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "lilomba na ngai"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "patula matoyi"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "na maloba"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ya monoko na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:13:51.542994764Z",
+  "model": "glm-5.3"
+}

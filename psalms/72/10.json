@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 72:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 72,
+  "translation": "Bakonzi ya Tarshish mpe ya zile bakopesa mokabo, bakonzi ya Sheba mpe ya Saba bakopesa mosolo.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "bakonzi"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarshish"
+    },
+    {
+      "surface": "ואיים",
+      "gloss": "mpe ya zile"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "mokabo"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "bakopesa"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "bakonzi"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "mpe ya Saba"
+    },
+    {
+      "surface": "אשכר",
+      "gloss": "mosolo"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "bakopesa"
+    }
+  ],
+  "timestamp": "2026-09-03T21:16:59.501653975Z",
+  "model": "glm-5.3"
+}

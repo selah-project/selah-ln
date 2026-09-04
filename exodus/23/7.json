@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 23:7",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Na likambo ya lokuta okatana ⟨mpe⟩; moto oyo azangami mabe mpe moto ya sembo koboma te; mpo nakolimbisa te moto mabe.",
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "likambo"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ya lokuta"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "okatana"
+    },
+    {
+      "surface": "ונקי",
+      "gloss": "mpe moto oyo azangami mabe"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "mpe moto ya sembo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "koboma te"
+    },
+    {
+      "surface": "תהרג",
+      "gloss": "koboma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "אצדיק",
+      "gloss": "nakolimbisa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "moto mabe"
+    }
+  ],
+  "timestamp": "2026-09-03T16:25:00.923211494Z",
+  "model": "glm-5.3"
+}

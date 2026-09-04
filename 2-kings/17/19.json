@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 17:19",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 17,
+  "translation": "Yehuda mpe abatelaki te ⟨את⟩ malako ya Yawe Elohim na bango, mpe bankendaki na bileko oyo Israel basalaki.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "abatelaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malako"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "malako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim na bango"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "mpe bankendaki"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "na bileko"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "basalaki"
+    }
+  ],
+  "timestamp": "2026-09-03T19:07:45.691025311Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "malachi 3:4",
+  "book": "malachi",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe mbeka ya Yehuda mpe ya Yerushalaim ekoya na lopito epai ya Yawe, lokola mokolo ya ntango ya kala mpe lokola bambula ya liboso.",
+  "tokens": [
+    {
+      "surface": "וערבה",
+      "gloss": "ekoya na lopito"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "epai ya Yawe"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "mbeka ya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "mpe Yerushalaim"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "lokola mokolo ya"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ntango ya kala"
+    },
+    {
+      "surface": "וכשנים",
+      "gloss": "mpe lokola bambula"
+    },
+    {
+      "surface": "קדמניות",
+      "gloss": "ya liboso"
+    }
+  ],
+  "timestamp": "2026-09-03T21:01:00.211113852Z",
+  "model": "glm-5.3"
+}

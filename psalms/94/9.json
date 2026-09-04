@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 94,
+  "translation": "Oyo atoki matoyi, akoyoka te? To oyo asalaka miso, akomona te?",
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "oyo atoki"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "matoyi"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "akoyoka"
+    },
+    {
+      "surface": "אם",
+      "gloss": "to"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "asalaka"
+    },
+    {
+      "surface": "עין",
+      "gloss": "miso"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "akomona"
+    }
+  ],
+  "timestamp": "2026-09-03T21:24:07.964985370Z",
+  "model": "glm-5.3"
+}

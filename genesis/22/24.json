@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 22:24",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "mpe sangara na ye, kombo na ye Reuma, yango mpe abotaki ⟨את⟩ Tevah, mpe ⟨את⟩ Gaham, mpe ⟨את⟩ Tahash, mpe ⟨את⟩ Maaka.",
+  "tokens": [
+    {
+      "surface": "ופילגשו",
+      "gloss": "mpe sangara na ye"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "kombo na ye"
+    },
+    {
+      "surface": "ראומה",
+      "gloss": "Reuma"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "abotaki"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yango"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tevah"
+    },
+    {
+      "surface": "טבח",
+      "gloss": "Tevah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Gaham"
+    },
+    {
+      "surface": "גחם",
+      "gloss": "Gaham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Tahash"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "Tahash"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Maaka"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maaka"
+    }
+  ],
+  "timestamp": "2026-09-03T15:54:05.131656973Z",
+  "model": "glm-5.3"
+}

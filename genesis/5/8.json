@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 5:8",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Mikolo nyonso ya Sete ezalaki bambula zomi na mibale na mikota libwa ya bambula, mpe akufaki.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ezalaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "Mikolo"
+    },
+    {
+      "surface": "שת",
+      "gloss": "ya Sete"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "zomi na"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "bambula"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "libwa"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mikota"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ya bambula"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "mpe akufaki"
+    }
+  ],
+  "timestamp": "2026-09-03T15:46:10.716613552Z",
+  "model": "glm-5.3"
+}

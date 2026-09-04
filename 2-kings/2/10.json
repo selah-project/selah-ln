@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 2:10",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe alobaki: Osengi likambo ya mpasi mpo na kosenga; soki omoni ngai ⟨את⟩ soki nakozwama utie ⟨את⟩ epai ya yo, ezala bongo mpo na yo; mpe soki te, ekokoki te.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "הקשית",
+      "gloss": "osengi likambo ya mpasi"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "mpo na kosenga"
+    },
+    {
+      "surface": "אם",
+      "gloss": "soki"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "omoni"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ngai"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "nakozwama"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "utie ⟨את⟩ epai ya yo"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ezala"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mpo na yo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bongo"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "mpe soki"
+    },
+    {
+      "surface": "אין",
+      "gloss": "te"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ekokoki"
+    }
+  ],
+  "timestamp": "2026-09-03T18:58:29.215084227Z",
+  "model": "glm-5.3"
+}

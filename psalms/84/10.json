@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 84:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 84,
+  "translation": "Mokengi na biso, tala, Elohim, mpe talá elongi ya Mashiah na yo.",
+  "tokens": [
+    {
+      "surface": "מגננו",
+      "gloss": "Mokengi na biso"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "tala"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והבט",
+      "gloss": "mpe talá"
+    },
+    {
+      "surface": "פני",
+      "gloss": "elongi ya"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "Mashiah na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:22:36.450655394Z",
+  "model": "glm-5.3"
+}

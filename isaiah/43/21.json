@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 43:21",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 43,
+  "translation": "Mbongo oyo nasalaki na ngai, lokumu na ngai bakolobaka.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "mbongo"
+    },
+    {
+      "surface": "זו",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "יצרתי",
+      "gloss": "nasalaki"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "lokumu-na-ngai"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "bakolobaka"
+    }
+  ],
+  "timestamp": "2026-09-03T19:30:43.840159834Z",
+  "model": "glm-5.3"
+}

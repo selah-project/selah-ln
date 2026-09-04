@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 31:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 31,
+  "translation": "Na yo, Yawe, nasili kobomba; nazala na mawa te, libela; na bosembo na yo bolinga ngai.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "Na yo"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "חָסִיתִי",
+      "gloss": "nasili kobomba"
+    },
+    {
+      "surface": "אַל",
+      "gloss": "te"
+    },
+    {
+      "surface": "אֵבוֹשָׁה",
+      "gloss": "nazala na mawa"
+    },
+    {
+      "surface": "לְעוֹלָם",
+      "gloss": "libela"
+    },
+    {
+      "surface": "בְּצִדְקָתְךָ",
+      "gloss": "na bosembo na yo"
+    },
+    {
+      "surface": "פַּלְטֵנִי",
+      "gloss": "bolinga ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T23:34:01.549806976Z",
+  "model": "glm-5.3"
+}

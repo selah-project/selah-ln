@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 8:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Ya mokambi ya bayimbi, na Gittit, miziki ya David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ya mokambi ya bayimbi"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "Gittit"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "miziki"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya David"
+    }
+  ],
+  "timestamp": "2026-09-03T21:01:08.585055452Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 10:8",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Mpe Kush abotaki ⟨את⟩ Nimrod; yye nde abandaki kozala mogangi na mabele.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "Mpe Kush"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "abotaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimrod"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yye nde"
+    },
+    {
+      "surface": "החל",
+      "gloss": "abandaki"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "kozala"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "mogangi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T15:48:06.296797039Z",
+  "model": "glm-5.3"
+}

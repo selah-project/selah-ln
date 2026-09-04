@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 78:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 78,
+  "translation": "Nakofungola monoko na ngai na masese; nakobimisa bomaloba ya bomibomikeni, uta na ntango ya kala.",
+  "tokens": [
+    {
+      "surface": "אפתחה",
+      "gloss": "Nakofungola"
+    },
+    {
+      "surface": "במשל",
+      "gloss": "na masese"
+    },
+    {
+      "surface": "פי",
+      "gloss": "monoko na ngai"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "nakobimisa"
+    },
+    {
+      "surface": "חידות",
+      "gloss": "bomaloba ya bomibomikeni"
+    },
+    {
+      "surface": "מני",
+      "gloss": "uta na"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ntango ya kala"
+    }
+  ],
+  "timestamp": "2026-09-03T21:19:48.917567613Z",
+  "model": "glm-5.3"
+}

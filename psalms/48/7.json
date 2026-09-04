@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 48:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 48,
+  "translation": "Bosanzi ebwaki bango kuna, mpasi ya mboto, lokola ya mwasi azali kobota.",
+  "tokens": [
+    {
+      "surface": "רעדה",
+      "gloss": "Bosanzi"
+    },
+    {
+      "surface": "אחזתם",
+      "gloss": "ebwaki bango"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "mpasi ya mboto"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "lokola ya mwasi azali kobota"
+    }
+  ],
+  "timestamp": "2026-09-03T21:11:51.105109145Z",
+  "model": "glm-5.3"
+}

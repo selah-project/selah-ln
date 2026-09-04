@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 21:4",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Mpe Avraham akomolaki ⟨את⟩ Yitshak mwana na ye, mwana ya mikolo mwambe, ndenge Elohim atindaki ⟨את⟩ ye.",
+  "tokens": [
+    {
+      "surface": "וימל",
+      "gloss": "mpe akomolaki"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitshak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana na ye"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "mwambe"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mikolo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ndenge"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "atindaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ye",
+      "marks": "ye (Avraham)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-03T23:12:16.343932834Z",
+  "model": "glm-5.3"
+}

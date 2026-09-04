@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 11:25",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpe azalaki motomboki na Israel mikolo nyonso ya Shelomo, mpe ⟨את⟩ mabe oyo Hadad ⟨asalaki⟩; mpe amonaki mawa na Israel, mpe akomaki mokonzi na Aram.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mpe azalaki"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "motomboki"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "na Israel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mikolo ya"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mabe"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "ויקץ",
+      "gloss": "amonaki mawa"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "na Israel"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "akomaki mokonzi"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-09-03T18:51:11.673074705Z",
+  "model": "glm-5.3"
+}

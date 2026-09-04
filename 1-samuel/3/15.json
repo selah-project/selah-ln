@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 3:15",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Shemuel alali tio tongo, mpe afungolaki ⟨את⟩ baporti ya ndako ya Yawe; mpe Shemuel azalaki kobanga koloba ⟨את⟩ moniseli epai ya Eli.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "alali"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tio"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "tongo"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "mpe afungolaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baporti ya ndako ya Yawe"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "baporti"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "mpe Shemuel"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "azalaki kobanga"
+    },
+    {
+      "surface": "מהגיד",
+      "gloss": "koloba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moniseli"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "moniseli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    }
+  ],
+  "timestamp": "2026-09-03T18:10:40.708317113Z",
+  "model": "glm-5.3"
+}

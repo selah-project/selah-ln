@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 6:43",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "mpe ⟨את⟩ Hilez mpe ⟨את⟩ mabele na yango, ⟨את⟩ Devir mpe ⟨את⟩ mabele na yango.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Hilez"
+    },
+    {
+      "surface": "חילז",
+      "gloss": "Hilez"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mabele na yango"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "mabele na yango"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Devir"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "Devir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mabele na yango"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "mabele na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T22:42:49.076981524Z",
+  "model": "glm-5.3"
+}

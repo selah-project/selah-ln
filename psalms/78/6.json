@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 78:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 78,
+  "translation": "Mpo mbongwana ya nsuka bayeba, mpe bana oyo bakobotama, batelama mpe bayanzela yango na bana na bango.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "יידעו",
+      "gloss": "bayeba"
+    },
+    {
+      "surface": "דור",
+      "gloss": "mbongwana"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "ya nsuka"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bana"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "bakobotama"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "batelama"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "mpe bayanzela"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "na bana na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:19:39.661243795Z",
+  "model": "glm-5.3"
+}

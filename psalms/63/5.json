@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 63:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 63,
+  "translation": "Bongo na bomoi na ngai nakopesa yo bolamu, na nkombo na yo nakokamola maboko na ngai.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Bongo"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "nakopesa yo bolamu"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "na bomoi na ngai"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "na nkombo na yo"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "nakokamola"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "maboko na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:16:21.405089228Z",
+  "model": "glm-5.3"
+}

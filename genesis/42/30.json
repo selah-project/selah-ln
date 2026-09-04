@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 42:30",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 42,
+  "translation": "Moto yango, nkolo ya mabele, alobaki ⟨את⟩ na biso maloba ma makasi, mpe apesaki ⟨את⟩ biso lokola bato ya koluka ⟨את⟩ mabele.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "moto yango"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "nkolo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ya mabele"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ na biso"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "maloba ma makasi"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "mpe apesaki"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ biso",
+      "marks": "biso"
+    },
+    {
+      "surface": "כמרגלים",
+      "gloss": "lokola bato ya koluka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T16:09:31.342080044Z",
+  "model": "glm-5.3"
+}

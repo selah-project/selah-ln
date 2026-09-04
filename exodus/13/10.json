@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 13:10",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Mpe okobatela ⟨את⟩ mibeko oyo na ntango na yango etielami, mikonzo na mikonzo.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "okobatela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mibeko oyo"
+    },
+    {
+      "surface": "החקה",
+      "gloss": "mibeko"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "למועדה",
+      "gloss": "na ntango na yango etielami"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "mikonzo"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "na mikonzo"
+    }
+  ],
+  "timestamp": "2026-09-03T16:20:08.906160346Z",
+  "model": "glm-5.3"
+}

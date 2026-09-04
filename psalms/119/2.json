@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 119:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Esengo ezali na bato oyo babateli bitatoli na ye, na motima mobimba balukaka ⟨ye⟩.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "esengo"
+    },
+    {
+      "surface": "נצרי",
+      "gloss": "babateli"
+    },
+    {
+      "surface": "עדתיו",
+      "gloss": "bitatoli na ye"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na mobimba"
+    },
+    {
+      "surface": "לב",
+      "gloss": "motima"
+    },
+    {
+      "surface": "ידרשוהו",
+      "gloss": "balukaka ⟨ye⟩"
+    }
+  ],
+  "timestamp": "2026-09-03T21:30:57.710771117Z",
+  "model": "glm-5.3"
+}

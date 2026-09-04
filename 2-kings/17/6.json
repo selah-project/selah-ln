@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 17:6",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 17,
+  "translation": "Na mbula ya libwa ya Hoshea, mokonzi ya Ashur azwaki ⟨את⟩ Shomeron, mpe atindaki ⟨את⟩ Israel na Ashur, mpe afundisaki ⟨את⟩ bango na Halah mpe na Havor, mokoke ya Gozan, mpe na bamboka ya Medi.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "Na mbula"
+    },
+    {
+      "surface": "התשיעית",
+      "gloss": "ya libwa"
+    },
+    {
+      "surface": "להושע",
+      "gloss": "ya Hoshea"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "azwaki"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shomeron"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "mpe atindaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "na Ashur"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "mpe afundisaki"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bango"
+    },
+    {
+      "surface": "בחלח",
+      "gloss": "na Halah"
+    },
+    {
+      "surface": "ובחבור",
+      "gloss": "mpe na Havor"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "mokoke"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "ya Gozan"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "mpe na bamboka"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "ya Medi"
+    }
+  ],
+  "timestamp": "2026-09-03T19:07:39.636009007Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 30:1",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 30,
+  "translation": "Mpe ekaki, ntango David mpe bato na ye bayaki na Tsiklag na mokolo ya misato, mpe Baamaleki baaki na nse na Negev mpe na Tsiklag, mpe bakubolaki ⟨את⟩ Tsiklag mpe bayakaki ⟨את⟩ yango na moto.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mpe ekaki"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "ntango bayaki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "mpe bato na ye"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklag"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na mokolo"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ya misato"
+    },
+    {
+      "surface": "ועמלקי",
+      "gloss": "mpe Baamaleki"
+    },
+    {
+      "surface": "פשטו",
+      "gloss": "baaki na nse"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "Negev"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mpe na"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklag"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "bakubolaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiklag"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklag"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "mpe bayakaki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ yango",
+      "marks": "moto"
+    },
+    {
+      "surface": "באש",
+      "gloss": "na moto"
+    }
+  ],
+  "timestamp": "2026-09-03T18:24:32.516572596Z",
+  "model": "glm-5.3"
+}

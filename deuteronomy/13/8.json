@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 13:8",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "ya banzambe ya bikolo oyo bizali zingazinga na bino, oyo bazali pene na bino to oyo bazali mosika na bino, uta nsuka ya mabele kino nsuka ya mabele",
+  "tokens": [
+    {
+      "surface": "מאלהי",
+      "gloss": "ya banzambe"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ya bikolo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "סביבתיכם",
+      "gloss": "bizali zingazinga na bino"
+    },
+    {
+      "surface": "הקרבים",
+      "gloss": "oyo bazali pene"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "na bino"
+    },
+    {
+      "surface": "או",
+      "gloss": "to"
+    },
+    {
+      "surface": "הרחקים",
+      "gloss": "oyo bazali mosika"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "na bino"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "uta nsuka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ya mabele"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "nsuka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ya mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T23:18:04.608169383Z",
+  "model": "glm-5.3"
+}

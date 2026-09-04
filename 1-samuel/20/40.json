@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-samuel 20:40",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 20,
+  "translation": "Mpe Yehonatan apesaki ⟨את⟩ biloko na ye epai ya mwana oyo azalaki na ye, mpe alobaki na ye: Kende, kotombola na mboka.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "apesaki"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "biloko na ye"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "biloko na ye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "azalaki na ye"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kende"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "kotombola"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mboka"
+    }
+  ],
+  "timestamp": "2026-09-03T18:20:26.547124052Z",
+  "model": "glm-5.3"
+}

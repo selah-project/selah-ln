@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 23:18",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "na Avraham lokola bonzela, na miso ya bana ya Heta, na bato nyonso bayei na nzela ya kokota ya mboka na yango.",
+  "tokens": [
+    {
+      "surface": "לאברהם",
+      "gloss": "na Avraham"
+    },
+    {
+      "surface": "למקנה",
+      "gloss": "lokola bonzela"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "na miso ya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Heta"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na nyonso ya"
+    },
+    {
+      "surface": "באי",
+      "gloss": "bayei"
+    },
+    {
+      "surface": "שער",
+      "gloss": "na nzela ya kokota"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "mboka na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T15:55:12.681068048Z",
+  "model": "glm-5.3"
+}

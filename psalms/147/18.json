@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 147:18",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 147,
+  "translation": "Atindaki liloba na ye mpe ayeiselaki bongo; apekisaki mpema na ye, mai ekolaki.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Atindaki"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "liloba na ye"
+    },
+    {
+      "surface": "וימסם",
+      "gloss": "mpe ayeiselaki bongo"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "apekisaki"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "mpema na ye"
+    },
+    {
+      "surface": "יזלו",
+      "gloss": "ekolaki"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:36:28.760433164Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 9:8",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Yawe alobaki epai ya Moshe mpe epai ya Aharon: Bózwa mpo na bino botondi ya maboko na bino, mpumpu ya lifolo, mpe Moshe atukaka yango na likolo, miso na Parao.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mpe epai ya"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "Bózwa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mpo na bino"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "botondi"
+    },
+    {
+      "surface": "חפניכם",
+      "gloss": "ya maboko na bino"
+    },
+    {
+      "surface": "פיח",
+      "gloss": "mpumpu"
+    },
+    {
+      "surface": "כבשן",
+      "gloss": "ya lifolo"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "mpe atukaka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "na likolo"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "miso na"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    }
+  ],
+  "timestamp": "2026-09-03T23:12:44.049708518Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 4:4",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe Yehoshua abengaki bato zomi na ⟨na⟩ mibale oyo atieaki kati ya bana ya Israel, moto moko, moto moko uta na libota.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Mpe abengaki"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "העשר",
+      "gloss": "zomi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bato"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "atieaki"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "kati ya bana ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "moko"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "moko"
+    },
+    {
+      "surface": "משבט",
+      "gloss": "uta na libota"
+    }
+  ],
+  "timestamp": "2026-09-03T17:44:16.183595009Z",
+  "model": "glm-5.3"
+}

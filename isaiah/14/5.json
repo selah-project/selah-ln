@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 14:5",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Yawe abukaki mokeke ya babubi, mokeke ya bakonzi.",
+  "tokens": [
+    {
+      "surface": "שָׁבַר",
+      "gloss": "abukaki"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מַטֵּה",
+      "gloss": "mokeke"
+    },
+    {
+      "surface": "רְשָׁעִים",
+      "gloss": "ya babubi"
+    },
+    {
+      "surface": "שֵׁבֶט",
+      "gloss": "mokeke"
+    },
+    {
+      "surface": "מֹשְׁלִים",
+      "gloss": "ya bakonzi"
+    }
+  ],
+  "timestamp": "2026-09-03T19:18:32.949502137Z",
+  "model": "glm-5.3"
+}

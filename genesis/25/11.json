@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 25:11",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Mpe esalamaki nsima ya liwa ya Avraham, Elohim atokaki ⟨את⟩ Yitshak mwana na ye; mpe Yitshak afandaki epai ya Beer-Lachai-Roi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mpe esalamaki"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nsima ya"
+    },
+    {
+      "surface": "מות",
+      "gloss": "liwa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "mpe atokaki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitshak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana na ye"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "mpe afandaki"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    },
+    {
+      "surface": "עם",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "Lachai"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "Roi"
+    }
+  ],
+  "timestamp": "2026-09-03T15:56:50.197388830Z",
+  "model": "glm-5.3"
+}

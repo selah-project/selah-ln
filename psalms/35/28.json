@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 35:28",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 35,
+  "translation": "Mpe monoko na ngai ekolobaka bosolo na yo, mokolo nyonso lokumu na yo.",
+  "tokens": [
+    {
+      "surface": "ולשוני",
+      "gloss": "mpe monoko na ngai"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "ekolobaka"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "bosolo na yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ya mokolo"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "lokumu na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:09:08.479952405Z",
+  "model": "glm-5.3"
+}

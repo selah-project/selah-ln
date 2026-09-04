@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 15:11",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 15,
+  "translation": "Mpe Asa asalaki bosembo na miso ya Yawe, lokola David tata na yango.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "asalaki"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Mpe Asa"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "bosembo"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "na miso ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כדוד",
+      "gloss": "lokola David"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "tata na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T18:52:57.464763688Z",
+  "model": "glm-5.3"
+}

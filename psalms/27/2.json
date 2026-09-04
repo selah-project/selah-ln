@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 27:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 27,
+  "translation": "Soki babubi bawei na ngai bamela ⟨את⟩ nitu na ngai — banguna na ngai mpe batati na ngai — bakanaki mpe bakweki.",
+  "tokens": [
+    {
+      "surface": "בקרב",
+      "gloss": "soki bawei"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "babubi"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "bamela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nitu na ngai"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "nitu na ngai"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "banguna na ngai"
+    },
+    {
+      "surface": "ויאבי",
+      "gloss": "mpe batati na ngai"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bango"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "bakanaki"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "mpe bakweki"
+    }
+  ],
+  "timestamp": "2026-09-03T21:07:26.727857843Z",
+  "model": "glm-5.3"
+}

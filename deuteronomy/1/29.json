@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 1:29",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe nalobaki na bino: Boyoka monganga te, mpe bobanga te epai na bango.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Mpe nalobaki"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "na bino"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תערצון",
+      "gloss": "boyoka monganga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe … te"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "bobanga"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "epai na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T17:23:10.011261063Z",
+  "model": "glm-5.3"
+}

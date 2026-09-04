@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 98:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 98,
+  "translation": "Yawe amonisaki lobiko na ye; na miso ya bikolo amonisi bosolo na ye.",
+  "tokens": [
+    {
+      "surface": "הודיע",
+      "gloss": "amonisaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "lobiko na ye"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "na miso ya"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bikolo"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "amonisi na polele"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "bosolo na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:26:16.083023037Z",
+  "model": "glm-5.3"
+}

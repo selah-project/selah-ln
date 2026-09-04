@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 3:10",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe Yehoshua alobaki ete: Na oyo bino boyeba ete El ya bomoi azali kati na bino, mpe apusa moke te liboso ya bino ⟨את⟩ Bakanana mpe ⟨את⟩ Bahiti mpe ⟨את⟩ Bahivi mpe ⟨את⟩ Baperizi mpe ⟨את⟩ Bagirgashi, mpe Baamori mpe Bayebusi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "Na oyo"
+    },
+    {
+      "surface": "תדעון",
+      "gloss": "bino boyeba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ya bomoi"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "azali kati na bino"
+    },
+    {
+      "surface": "והורש",
+      "gloss": "mpe apusa"
+    },
+    {
+      "surface": "יוריש",
+      "gloss": "moke te"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "liboso ya bino"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bakanana"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Bakanana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Bahiti"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Bahiti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Bahivi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Bahivi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Baperizi"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "Baperizi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Bagirgashi"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "Bagirgashi"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "mpe Baamori"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "mpe Bayebusi"
+    }
+  ],
+  "timestamp": "2026-09-03T23:19:11.112539440Z",
+  "model": "glm-5.3"
+}

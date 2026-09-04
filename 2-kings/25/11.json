@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 25:11",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Mpe Nebuzaradan, mokambi ya basalisi, awindolaki ⟨את⟩ baki ya bato oyo batikaki na mboka, mpe ⟨את⟩ baye bakweyaki epai ya mokonzi ya Bavel, mpe ⟨את⟩ baki ya bato ebele.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "baki ya bato"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "baki"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ya bato"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "oyo batikaki"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "na mboka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "baye bakweyaki"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "baye bakweyaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "bakweyaki"
+    },
+    {
+      "surface": "על",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ya Bavel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "baki"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "baki"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "ya bato ebele"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "awindolaki"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "Nebuzaradan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mokambi"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "ya basalisi"
+    }
+  ],
+  "timestamp": "2026-09-03T19:12:15.811853059Z",
+  "model": "glm-5.3"
+}

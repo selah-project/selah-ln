@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 3:5",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe bana ya Aharon bakotumbela ⟨את⟩ yango na autel, likolo ya boloko, oyo ezali likolo ya bala, oyo ezali likolo ya moto — ofa ya moto, nketto ya kolinga epai ya Yawe.",
+  "tokens": [
+    {
+      "surface": "והקטירו",
+      "gloss": "bakotumbela"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yango",
+      "marks": "yango (mafuta)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ya Aharon"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "na autel"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "boloko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "bala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "האש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ofa ya moto"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "nketto"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "ya kolinga"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "epai ya Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T16:40:15.777001969Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 25:21",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Bokoki ya motema mpe bokwo ebatele ngai, mpo nazali zela yo.",
+  "tokens": [
+    {
+      "surface": "תם",
+      "gloss": "bokoki ya motema"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "mpe bokwo"
+    },
+    {
+      "surface": "יצרוני",
+      "gloss": "ebatele ngai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "קויתיך",
+      "gloss": "nazali zela yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:05:29.693055578Z",
+  "model": "glm-5.3"
+}

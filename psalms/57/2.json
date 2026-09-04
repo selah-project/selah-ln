@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 57:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 57,
+  "translation": "Pesa ngai ngolu, Elohim, pesa ngai ngolu, mpo na yo bomoi na ngai akomaki, mpe na etando ya bipapawu na yo nakokahoma, kino mabe ekokwea.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Pesa ngai ngolu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "Pesa ngai ngolu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "בך",
+      "gloss": "na yo"
+    },
+    {
+      "surface": "חסיה",
+      "gloss": "akomaki"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "bomoi na ngai"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "mpe na etando"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "ya bipapawu na yo"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "nakokahoma"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "ekokwea"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "mabe"
+    }
+  ],
+  "timestamp": "2026-09-03T21:14:51.396588182Z",
+  "model": "glm-5.3"
+}

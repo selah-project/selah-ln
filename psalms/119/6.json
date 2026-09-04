@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 119:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Na ntango wana nakokumiswa te, ntango nazali kotala mibeko na yo nyonso.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "na ntango wana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "nakokumiswa"
+    },
+    {
+      "surface": "בהביטי",
+      "gloss": "ntango nazali kotala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨epai ya⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "mibeko na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:30:32.303851927Z",
+  "model": "glm-5.3"
+}

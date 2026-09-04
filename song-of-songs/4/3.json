@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 4:3",
+  "book": "song-of-songs",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Bino miso na yo?—nzela: Mabenu na yo ezali lokola mposo ya bopeto?—lokota ya nguya—nzela: Mabenu na yo ezali lokola molangi ya moindo, mpe koloba na yo ezali kitoko; mokili ya motó na yo ezali lokola lekata ya grenad, na nsima ya voile na yo.",
+  "tokens": [
+    {
+      "surface": "כחוט",
+      "gloss": "lokola molangi"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ya moindo"
+    },
+    {
+      "surface": "שפתתיך",
+      "gloss": "mabenu na yo"
+    },
+    {
+      "surface": "ומדבריך",
+      "gloss": "mpe koloba na yo"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "ezali kitoko"
+    },
+    {
+      "surface": "כפלח",
+      "gloss": "lokola lekata"
+    },
+    {
+      "surface": "הרמון",
+      "gloss": "ya grenad"
+    },
+    {
+      "surface": "רקתך",
+      "gloss": "mokili ya motó na yo"
+    },
+    {
+      "surface": "מבעד",
+      "gloss": "na nsima"
+    },
+    {
+      "surface": "לצמתך",
+      "gloss": "ya voile na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T22:07:14.938477792Z",
+  "model": "glm-5.3"
+}

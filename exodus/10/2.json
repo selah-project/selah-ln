@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 10:2",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Mpe mpo olobi na matoyi ya mwana na yo mpe ya mwana ya mwana na yo ⟨את⟩ oyo nasalaki na Mitsraim mpe ⟨את⟩ bilembo na ngai oyo natyaki kati na bango, mpe boyebi ete ngai nazali Yawe.",
+  "tokens": [
+    {
+      "surface": "ולמען",
+      "gloss": "Mpe mpo"
+    },
+    {
+      "surface": "תספר",
+      "gloss": "olobi"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "na matoyi ya"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "mwana na yo"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "mpe mwana"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "mwana na yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oyo nasalaki na Mitsraim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "התעללתי",
+      "gloss": "nasalaki"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "na Mitsraim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bilembo na ngai"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "bilembo na ngai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "natyaki"
+    },
+    {
+      "surface": "בם",
+      "gloss": "kati na bango"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "mpe boyebi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T16:18:44.362037814Z",
+  "model": "glm-5.3"
+}

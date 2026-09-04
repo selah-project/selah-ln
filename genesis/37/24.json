@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 37:24",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 37,
+  "translation": "Mpe bayaki ye mpe bakitisaki ⟨את⟩ ye o kavia; mpe kavia ezalaki mokei, mai ezalaki te na kati na yango.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "Mpe bayaki ye"
+    },
+    {
+      "surface": "וישלכו",
+      "gloss": "mpe bakitisaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "o kavia"
+    },
+    {
+      "surface": "הברה",
+      "gloss": "o kavia"
+    },
+    {
+      "surface": "והבור",
+      "gloss": "mpe kavia"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ezalaki mokei"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ezalaki te"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na kati na yango"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mai"
+    }
+  ],
+  "timestamp": "2026-09-03T16:05:29.695339779Z",
+  "model": "glm-5.3"
+}

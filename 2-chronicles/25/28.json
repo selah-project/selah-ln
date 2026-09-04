@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-chronicles 25:28",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Mpe bamemaki ye likolo ya basivala, mpe bakundaki ⟨את⟩ ye elongo na batata na ye na mboka ya Yehuda.",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "bamemaki ye"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "basivala"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "mpe bakundaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ye",
+      "marks": "ye"
+    },
+    {
+      "surface": "עם",
+      "gloss": "elongo na"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "batata na ye"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "na mboka"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-09-03T23:06:03.723743092Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 138:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 138,
+  "translation": "Yawe akosilisa mpo na ngai; Yawe, hesed na yo (bolingo na bopesi) ezali libela; misala ya maboko na yo, kotika te.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "יגמר",
+      "gloss": "akosilisa"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "mpo na ngai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed na yo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "libela"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "misala"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "ya maboko na yo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תרף",
+      "gloss": "kotika"
+    }
+  ],
+  "timestamp": "2026-09-03T21:35:13.654772385Z",
+  "model": "glm-5.3"
+}

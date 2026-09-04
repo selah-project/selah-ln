@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zechariah 12:12",
+  "book": "zechariah",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Mpe mabele ekokunga, libota na libota kaka; libota ya ndako ya David kaka, mpe basi na bango kaka; libota ya ndako ya Natan kaka, mpe basi na bango kaka.",
+  "tokens": [
+    {
+      "surface": "וספדה",
+      "gloss": "Mpe ekokunga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "libota"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "na libota"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "kaka"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "libota"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ya ndako"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ya David"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "kaka"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "mpe basi na bango"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "kaka"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "libota"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ya ndako"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ya Natan"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "kaka"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "mpe basi na bango"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "kaka"
+    }
+  ],
+  "timestamp": "2026-09-03T20:57:24.900474324Z",
+  "model": "glm-5.3"
+}

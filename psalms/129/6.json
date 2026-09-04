@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 129:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 129,
+  "translation": "Bazala lokola zete ya mapando, oyo emi liboso ya kolongwa.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "Bazala"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "lokola zete"
+    },
+    {
+      "surface": "גגות",
+      "gloss": "ya mapando"
+    },
+    {
+      "surface": "שקדמת",
+      "gloss": "liboso ya kolongwa"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "kolongwa"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "emi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:33:29.469129339Z",
+  "model": "glm-5.3"
+}

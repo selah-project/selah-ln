@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "hosea 9:17",
+  "book": "hosea",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Elohim na ngai aboyaka bango, mpamba te baboyaki koyoka Yawe; mpe bakozala bandombe kati ya bikolo.",
+  "tokens": [
+    {
+      "surface": "יִמְאָסֵם",
+      "gloss": "aboyaka bango"
+    },
+    {
+      "surface": "אֱלֹהַי",
+      "gloss": "Elohim na ngai"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "mpamba te"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "te"
+    },
+    {
+      "surface": "שָׁמְעוּ",
+      "gloss": "baboyaki koyoka"
+    },
+    {
+      "surface": "לוֹ",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וְיִהְיוּ",
+      "gloss": "mpe bakozala"
+    },
+    {
+      "surface": "נֹדְדִים",
+      "gloss": "bandombe"
+    },
+    {
+      "surface": "בַּגּוֹיִם",
+      "gloss": "kati ya bikolo"
+    }
+  ],
+  "timestamp": "2026-09-03T20:38:39.947623578Z",
+  "model": "glm-5.3"
+}

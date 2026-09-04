@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 41:10",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 41,
+  "translation": "Kobanga te, mpo ngai nazali elongo na yo; kotalela ⟨libanda⟩ te, mpo ngai nazali Elohim na yo; namatisaki nguya na yo, mpe nasalisaki yo, mpe nakangaki yo na loboko ya moyemi na ngai, na boyengebene na ngai.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "kobanga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "elongo na yo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תשתע",
+      "gloss": "kotalela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim na yo"
+    },
+    {
+      "surface": "אמצתיך",
+      "gloss": "namatisaki nguya na yo"
+    },
+    {
+      "surface": "אף",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "עזרתיך",
+      "gloss": "nasalisaki yo"
+    },
+    {
+      "surface": "אף",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "תמכתיך",
+      "gloss": "nakangaki yo"
+    },
+    {
+      "surface": "בימין",
+      "gloss": "na loboko ya moyemi"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "boyengebene na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T19:30:20.612765838Z",
+  "model": "glm-5.3"
+}

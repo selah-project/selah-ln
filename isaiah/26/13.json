@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 26:13",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "Yawe Elohim na biso, bankolo basalaki biso banyokoli na botiki yo; kaka na yo tokotanga nkombo na yo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim na biso"
+    },
+    {
+      "surface": "בעלונו",
+      "gloss": "basalaki biso banyokoli"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "bankolo"
+    },
+    {
+      "surface": "זולתך",
+      "gloss": "na botiki yo"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "kaka"
+    },
+    {
+      "surface": "בך",
+      "gloss": "na yo"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "tokotanga"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nkombo na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T19:21:52.789083685Z",
+  "model": "glm-5.3"
+}

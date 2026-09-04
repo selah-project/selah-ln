@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 18:22",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Mpo nabatelaki banzela ya Yawe, mpe nasalaki bobubi te na Elohim na ngai.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "nabatelaki"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "banzela ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe ... te"
+    },
+    {
+      "surface": "רשעתי",
+      "gloss": "nasalaki bobubi"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "na Elohim na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:03:52.501310884Z",
+  "model": "glm-5.3"
+}

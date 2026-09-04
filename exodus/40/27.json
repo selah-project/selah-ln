@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 40:27",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 40,
+  "translation": "Mpe abulaki likaya ya nkunzia likolo na yango, ndenge Yawe atindaki ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ויקטר",
+      "gloss": "abulaki likaya"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "likolo na yango"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ya likaya"
+    },
+    {
+      "surface": "סמים",
+      "gloss": "ya nkunzia"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ndenge"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "atindaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-03T16:37:59.991063337Z",
+  "model": "glm-5.3"
+}

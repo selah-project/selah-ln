@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 91:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 91,
+  "translation": "Oyo afandi na bobombami ya Elyion, na mosika ya Shadai (Mozwi-ya-Nguya-Nyonso) akokota.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "afandi"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "na bobombami"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyion"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "na mosika"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadai"
+    },
+    {
+      "surface": "יתלונן",
+      "gloss": "akokota"
+    }
+  ],
+  "timestamp": "2026-09-03T21:25:12.539822756Z",
+  "model": "glm-5.3"
+}

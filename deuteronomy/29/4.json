@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 29:4",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 29,
+  "translation": "mpe natambwisaki bino makumi minei ya mbula na bozenga; elamba na bino ekokaki te na bino, mpe sandali na yo esilaki koka te na lisolo na yo.",
+  "tokens": [
+    {
+      "surface": "ואולך",
+      "gloss": "mpe natambwisaki"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ bino"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "makumi minei"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ya mbula"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "na bozenga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "ekokaki"
+    },
+    {
+      "surface": "שלמתיכם",
+      "gloss": "elamba na bino"
+    },
+    {
+      "surface": "מעליכם",
+      "gloss": "na bino"
+    },
+    {
+      "surface": "ונעלך",
+      "gloss": "mpe sandali na yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "esilaki koka"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "na lisolo na"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "yo"
+    }
+  ],
+  "timestamp": "2026-09-03T17:39:22.756608406Z",
+  "model": "glm-5.3"
+}

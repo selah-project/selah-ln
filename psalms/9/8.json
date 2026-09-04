@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 9:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Mpe Yawe azali kanda na libela; atandisaki kiti na ye mpo na bosambisi.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Mpe Yawe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na libela"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "azali kanda"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "atandisaki"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "mpo na bosambisi"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "kiti na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:01:51.658090786Z",
+  "model": "glm-5.3"
+}

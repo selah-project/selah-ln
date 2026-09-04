@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 14:2",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Mpe Shaul afandaki na nsuka ya Giva, na nse ya Rimon oyo ezali na Migron; mpe bato oyo bazalaki na ye bakomi nkama motoba ya bato.",
+  "tokens": [
+    {
+      "surface": "ושאול",
+      "gloss": "mpe Shaul"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "afandaki"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "na nsuka"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "Giva"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "na nse"
+    },
+    {
+      "surface": "הרמון",
+      "gloss": "Rimon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "במגרון",
+      "gloss": "na Migron"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "mpe bato"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "כשש",
+      "gloss": "bakomi"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "nkama"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bato"
+    }
+  ],
+  "timestamp": "2026-09-03T18:14:55.660912498Z",
+  "model": "glm-5.3"
+}

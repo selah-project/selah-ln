@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 17:7",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 17,
+  "translation": "Mpe esalemaki mpo ete bana ya Israel basalaki masumu epai ya Yawe Elohim na bango, oyo atombisaki ⟨את⟩ bango na mabele ya Mitsraim, na nse ya loboko ya Parao mokonzi ya Mitsraim, mpe batyaki bobangi banzambe basusu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mpe esalemaki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "basalaki masumu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "epai ya Yawe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim na bango"
+    },
+    {
+      "surface": "המעלה",
+      "gloss": "oyo atombisaki"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bango"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Mitsraim"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "na nse"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ya loboko"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ya Parao"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Mitsraim"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "mpe batyaki bobangi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "banzambe"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "basusu"
+    }
+  ],
+  "timestamp": "2026-09-03T19:07:39.636201855Z",
+  "model": "glm-5.3"
+}

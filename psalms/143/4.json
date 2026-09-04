@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 143:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 143,
+  "translation": "Mpe mpema na ngai emekamaki likolo na ngai, motema na ngai kati na ngai ekangamaki.",
+  "tokens": [
+    {
+      "surface": "ותתעטף",
+      "gloss": "emekamaki"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "likolo na ngai"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "mpema na ngai"
+    },
+    {
+      "surface": "בתוכי",
+      "gloss": "kati na ngai"
+    },
+    {
+      "surface": "ישתומם",
+      "gloss": "ekangamaki"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "motema na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:35:22.737858658Z",
+  "model": "glm-5.3"
+}

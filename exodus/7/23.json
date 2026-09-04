@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 7:23",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mpe Parao atumboki, mpe akotaki na ndako na ye, mpe atyeaki motema na ye te ata na oyo.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "mpe atumboki"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "mpe akotaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ndako na ye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "שת",
+      "gloss": "atyeaki"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "motema na ye"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ata"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "na oyo"
+    }
+  ],
+  "timestamp": "2026-09-03T16:14:42.585121155Z",
+  "model": "glm-5.3"
+}

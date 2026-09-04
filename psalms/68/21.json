@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 68:21",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 68,
+  "translation": "Elohim azali epai ya biso El ya bomokeli, mpe epai ya Yawe Adonai ezali bokita ya liwa.",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "epai ya biso"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "למושעות",
+      "gloss": "ya bomokeli"
+    },
+    {
+      "surface": "וליהו״ה",
+      "gloss": "mpe epai ya Yawe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ya liwa"
+    },
+    {
+      "surface": "תוצאות",
+      "gloss": "bokita"
+    }
+  ],
+  "timestamp": "2026-09-03T23:35:26.993337285Z",
+  "model": "glm-5.3"
+}

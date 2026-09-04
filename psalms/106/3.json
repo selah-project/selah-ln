@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 106:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 106,
+  "translation": "Bolamu ya baye batondi bosolo, mpe basalaka bomalamu na ntango nyonso.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Bolamu"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "baye batondi"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "bosolo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "basalaka"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "bomalamu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na ntango"
+    },
+    {
+      "surface": "עת",
+      "gloss": "nyonso"
+    }
+  ],
+  "timestamp": "2026-09-03T21:28:03.445712761Z",
+  "model": "glm-5.3"
+}

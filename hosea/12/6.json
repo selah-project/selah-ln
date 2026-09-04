@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 12:6",
+  "book": "hosea",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Mpe Yawe Elohim Tsebaot — Yawe ⟨ezali⟩ likanisu na ye.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "mpe Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "likanisu na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T20:39:30.485638717Z",
+  "model": "glm-5.3"
+}

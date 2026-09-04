@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 69:19",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 69,
+  "translation": "Pesa molimo na ngai okoka, bozwisi; mpo na banguna na ngai, bobombi ngai.",
+  "tokens": [
+    {
+      "surface": "קרבה",
+      "gloss": "pesa… okoka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "molimo na ngai"
+    },
+    {
+      "surface": "גאלה",
+      "gloss": "bozwisi"
+    },
+    {
+      "surface": "למען",
+      "gloss": "mpo na"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "banguna na ngai"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "bobombi ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:17:15.447990392Z",
+  "model": "glm-5.3"
+}

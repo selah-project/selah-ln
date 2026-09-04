@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 9:10",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Bakaki ⟨את⟩ mbuma ya topeto, mpe batelaki liboso ya Parao; mpe Moshe abwakaki ⟨את⟩ yango likolo; mpe bilonda bonene bitombwaki na bato mpe na banyama.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Bakaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbuma ya topeto"
+    },
+    {
+      "surface": "פיח",
+      "gloss": "mbuma"
+    },
+    {
+      "surface": "הכבשן",
+      "gloss": "topeto"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "mpe batelaki"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "mpe abwakaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yango",
+      "marks": "mbuma (את + suffix)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "likolo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mpe ekomalaki"
+    },
+    {
+      "surface": "שחין",
+      "gloss": "bilonda"
+    },
+    {
+      "surface": "אבעבעת",
+      "gloss": "bonene"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "bitombwaki"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "na bato"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "mpe na banyama"
+    }
+  ],
+  "timestamp": "2026-09-03T16:17:23.032602104Z",
+  "model": "glm-5.3"
+}

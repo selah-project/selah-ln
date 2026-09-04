@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 24:5",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "Moto wa mayele azali na nguya, mpe moto ya boyebi amatisaka nguya.",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "moto"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "wa mayele"
+    },
+    {
+      "surface": "בעוז",
+      "gloss": "na nguya"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "mpe moto"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ya boyebi"
+    },
+    {
+      "surface": "מאמץ",
+      "gloss": "amatisaka"
+    },
+    {
+      "surface": "כח",
+      "gloss": "nguya"
+    }
+  ],
+  "timestamp": "2026-09-03T23:36:09.933926228Z",
+  "model": "glm-5.3"
+}

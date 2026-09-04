@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 7:24",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mpe bikuku na nse ya lutuku na yango, na zingazinga, bazalaki kozinga ⟨את⟩ yango — zomi na kito bazalaki kozala na zingazinga ya ⟨את⟩ mbu na zingazinga — bikuku mibale na milongo mibale, ba bombanaki na bombo na yango.",
+  "tokens": [
+    {
+      "surface": "ופקעים",
+      "gloss": "mpe bikuku"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "na nse ya"
+    },
+    {
+      "surface": "לשפתו",
+      "gloss": "lutuku na yango"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "na zingazinga"
+    },
+    {
+      "surface": "סבבים",
+      "gloss": "bazalaki kozinga"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yango",
+      "marks": "mbu"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "zomi"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "na kito"
+    },
+    {
+      "surface": "מקפים",
+      "gloss": "bazalaki kozala na zingazinga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbu"
+    },
+    {
+      "surface": "הים",
+      "gloss": "mbu"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "na zingazinga"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "טורים",
+      "gloss": "na milongo"
+    },
+    {
+      "surface": "הפקעים",
+      "gloss": "bikuku"
+    },
+    {
+      "surface": "יצקים",
+      "gloss": "ba bombanaki"
+    },
+    {
+      "surface": "ביצקתו",
+      "gloss": "na bombo na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T18:46:39.306439771Z",
+  "model": "glm-5.3"
+}

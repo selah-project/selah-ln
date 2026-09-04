@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 9:2",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Kasi soki yo oyangali kotika bango, mpe okangi kaka na bango,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kasi soki"
+    },
+    {
+      "surface": "אם",
+      "gloss": "te"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "oyangali"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "kotika bango"
+    },
+    {
+      "surface": "ועודך",
+      "gloss": "mpe okangi kaka"
+    },
+    {
+      "surface": "מחזיק",
+      "gloss": "na"
+    },
+    {
+      "surface": "בם",
+      "gloss": "bango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:18:07.763271868Z",
+  "model": "glm-5.3"
+}

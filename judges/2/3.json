@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 2:3",
+  "book": "judges",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe nalobaki mpe: Nakolaka bango te ⟨את⟩ liboso na bino; bakokokola bino ba na mbengu, mpe banzambe na bango bakokokola bino lokola momeki.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "mpe mpe"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nalobaki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "אגרש",
+      "gloss": "nakolaka"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ bango",
+      "marks": "bango (bano ya mabele)"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "liboso na bino"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "mpe bakokokola"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bino"
+    },
+    {
+      "surface": "לצדים",
+      "gloss": "ba na mbengu"
+    },
+    {
+      "surface": "ואלהיהם",
+      "gloss": "mpe banzambe na bango"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bakokokola"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bino"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "lokola momeki"
+    }
+  ],
+  "timestamp": "2026-09-03T17:56:27.623653109Z",
+  "model": "glm-5.3"
+}

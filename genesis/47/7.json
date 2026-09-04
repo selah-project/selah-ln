@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 47:7",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 47,
+  "translation": "Mpe Yosef amemaki ⟨את⟩ Yaakov tata ye, mpe atyelaki ye liboso ya Parao; mpe Yaakov abonkaki ⟨את⟩ Parao.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Mpe amemaki"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "tata ye"
+    },
+    {
+      "surface": "ויעמדהו",
+      "gloss": "mpe atyelaki ye"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "mpe abonkaki"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Parao"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    }
+  ],
+  "timestamp": "2026-09-03T16:11:18.297327537Z",
+  "model": "glm-5.3"
+}

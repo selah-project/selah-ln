@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 22:7",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Longola, longola ⟨את⟩ mama, mpe ⟨את⟩ bana okomema na yo, mpo ete ezala malamu na yo mpe okolakisaka mikolo.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Longola"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "olongola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mama"
+    },
+    {
+      "surface": "האם",
+      "gloss": "mama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bana"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "bana"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "okomema"
+    },
+    {
+      "surface": "לך",
+      "gloss": "na yo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "ezala malamu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "na yo"
+    },
+    {
+      "surface": "והארכת",
+      "gloss": "mpe okolakisaka"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mikolo"
+    }
+  ],
+  "timestamp": "2026-09-03T17:34:26.257269006Z",
+  "model": "glm-5.3"
+}

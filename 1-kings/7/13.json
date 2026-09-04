@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 7:13",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mokonzi Shelomo atindaki, mpe amemaki ⟨את⟩ Hiram na Tsor.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "atindaki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "mpe amemaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hiram"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hiram"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "na Tsor"
+    }
+  ],
+  "timestamp": "2026-09-03T18:46:51.740020415Z",
+  "model": "glm-5.3"
+}

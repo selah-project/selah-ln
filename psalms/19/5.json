@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 19:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Na mabele mobimba ebimi ndongola na bango, mpe na nsuka ya mokili maloba na bango; mpo na mwesi Yawe atyi ndako-na-bagasi kati na yango.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "na mobimba ya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ebimi"
+    },
+    {
+      "surface": "קום",
+      "gloss": "ndongola na bango"
+    },
+    {
+      "surface": "ובקצה",
+      "gloss": "mpe na nsuka ya"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "mokili"
+    },
+    {
+      "surface": "מליהם",
+      "gloss": "maloba na bango"
+    },
+    {
+      "surface": "לשמש",
+      "gloss": "mpo na mwesi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "atyi"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ndako-na-bagasi"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kati na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:05:08.248093676Z",
+  "model": "glm-5.3"
+}

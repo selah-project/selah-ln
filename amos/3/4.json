@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 3:4",
+  "book": "amos",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Nkoi akorwa na zamba, mpe mosolo ezali na ye te? Mwana nkoi akopesa mongongo na ye wuta na esika na ye, soki aswaki te?",
+  "tokens": [
+    {
+      "surface": "הישאג",
+      "gloss": "akorwa"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "Nkoi"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "na zamba"
+    },
+    {
+      "surface": "וטרף",
+      "gloss": "mpe mosolo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ezali te"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "היתן",
+      "gloss": "akopesa"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "Mwana nkoi"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "mongongo na ye"
+    },
+    {
+      "surface": "ממענתו",
+      "gloss": "wuta na esika na ye"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "te"
+    },
+    {
+      "surface": "אם",
+      "gloss": "soki"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "aswaki"
+    }
+  ],
+  "timestamp": "2026-09-03T20:42:28.340801074Z",
+  "model": "glm-5.3"
+}

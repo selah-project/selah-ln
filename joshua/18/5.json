@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 18:5",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Mpe bakabola ⟨את⟩ yango na biteni nsambo: Yehuda akotikala na ndelo na ye na sudi, mpe ndako ya Yosef bakotikala na ndelo na bango na nordi.",
+  "tokens": [
+    {
+      "surface": "והתחלקו",
+      "gloss": "mpe bakabola"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ yango",
+      "marks": "yango"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "na biteni nsambo"
+    },
+    {
+      "surface": "חלקים",
+      "gloss": "biteni"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "akotikala"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "גבולו",
+      "gloss": "ndelo na ye"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "na sudi"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "mpe ndako"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ya Yosef"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "bakotikala"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "ndelo na bango"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "na nordi"
+    }
+  ],
+  "timestamp": "2026-09-03T17:52:02.138444596Z",
+  "model": "glm-5.3"
+}

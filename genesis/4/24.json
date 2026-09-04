@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 4:24",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpo ete epai ya Kayin litumbu esalemaki mbala sambo; kasi epai ya Lamek, mbala ntuku sambo na sambo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo ete"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "mbala sambo"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "litumbu esalemaki"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    },
+    {
+      "surface": "ולמך",
+      "gloss": "kasi epai ya Lamek"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ntuku sambo"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "na sambo"
+    }
+  ],
+  "timestamp": "2026-09-03T15:45:31.887977706Z",
+  "model": "glm-5.3"
+}

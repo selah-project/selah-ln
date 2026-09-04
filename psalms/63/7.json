@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 63:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 63,
+  "translation": "Soki nayebi yo likolo ya buto na ngai, na milonge ya butu natadila yo.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Soki"
+    },
+    {
+      "surface": "זכרתיך",
+      "gloss": "nayebi yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "buto na ngai"
+    },
+    {
+      "surface": "באשמרות",
+      "gloss": "na milonge ya butu"
+    },
+    {
+      "surface": "אהגה",
+      "gloss": "natadila yo"
+    },
+    {
+      "surface": "בך",
+      "gloss": "yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:16:21.405433292Z",
+  "model": "glm-5.3"
+}

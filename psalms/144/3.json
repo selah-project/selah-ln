@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 144:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 144,
+  "translation": "Yawe, moto ⟨ezali⟩ nini, nde oyebi ye; mwana ya moto, nde okanisi ye?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moto"
+    },
+    {
+      "surface": "ותדעהו",
+      "gloss": "nde oyebi ye"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ya moto"
+    },
+    {
+      "surface": "ותחשבהו",
+      "gloss": "nde okanisi ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:35:44.252339250Z",
+  "model": "glm-5.3"
+}

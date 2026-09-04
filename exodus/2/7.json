@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 2:7",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe ndeko-mwasi na ye alobaki na mwana-mwasi ya Parao: Nakokende, mpe nakobenga mpo na yo mwasi molaki-mwana kati ya Baivrim, mpe atolaka ⟨את⟩ mwana mpo na yo?",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "ndeko-mwasi na ye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana-mwasi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ya Parao"
+    },
+    {
+      "surface": "האלך",
+      "gloss": "Nakokende"
+    },
+    {
+      "surface": "וְקָרָאתִי",
+      "gloss": "mpe nakobenga"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mpo na yo"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mwasi"
+    },
+    {
+      "surface": "מינקת",
+      "gloss": "molaki-mwana"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kati ya"
+    },
+    {
+      "surface": "העברית",
+      "gloss": "Baivrim"
+    },
+    {
+      "surface": "ותינק",
+      "gloss": "mpe atolaka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mpo na yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwana"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "mwana"
+    }
+  ],
+  "timestamp": "2026-09-03T16:12:48.803681968Z",
+  "model": "glm-5.3"
+}

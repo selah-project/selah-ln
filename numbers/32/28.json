@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 32:28",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 32,
+  "translation": "Mpe Moshe atindaki mpo na bango ⟨את⟩ Elazar kohen, mpe ⟨את⟩ Yehoshua mwana ya Nun, mpe ⟨את⟩ bankolo ya bibota ya matomba ya bana ya Israel.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Mpe atindaki"
+    },
+    {
+      "surface": "להם",
+      "gloss": "mpo na bango"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elazar"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Yehoshua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana ya"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Nun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bankolo ya bibota"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "bankolo"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "ya bibota"
+    },
+    {
+      "surface": "המטות",
+      "gloss": "ya matomba"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ya bana ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-03T17:19:59.680996537Z",
+  "model": "glm-5.3"
+}

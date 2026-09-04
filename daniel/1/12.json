@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 1:12",
+  "book": "daniel",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Teme ⟨את⟩ bawana na yo, tolobeli, miku zomi; mpe bapea biso na bibie, mpe tolia, mpe mai, mpe tomel.",
+  "tokens": [
+    {
+      "surface": "נס",
+      "gloss": "Teme"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tolobeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bawana na yo"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "bawana na yo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "miku"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "zomi"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "mpe bapea"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "biso"
+    },
+    {
+      "surface": "מן",
+      "gloss": "na"
+    },
+    {
+      "surface": "הזרעים",
+      "gloss": "bibie"
+    },
+    {
+      "surface": "ונאכלה",
+      "gloss": "mpe tolia"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "mpe mai"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "mpe tomel"
+    }
+  ],
+  "timestamp": "2026-09-03T22:19:23.553956449Z",
+  "model": "glm-5.3"
+}

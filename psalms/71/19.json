@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 71:19",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 71,
+  "translation": "Mpe botosi na yo, Elohim, ekoki tii na likolo; oyo osali bisalu minene — Elohim, nani azali lokola yo?",
+  "tokens": [
+    {
+      "surface": "וצדקתך",
+      "gloss": "mpe botosi na yo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tii"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "na likolo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "osali"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "bisalu minene"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nani"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "lokola yo"
+    }
+  ],
+  "timestamp": "2026-09-03T23:35:33.975304096Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 17:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 17,
+  "translation": "Liboso na yo bokatai na ngai ebimaki; misu na yo etali makambo ya lokoku.",
+  "tokens": [
+    {
+      "surface": "מלפניך",
+      "gloss": "Liboso na yo"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "bokatai na ngai"
+    },
+    {
+      "surface": "יֵצֵא",
+      "gloss": "ebimaki"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "misu na yo"
+    },
+    {
+      "surface": "תחזינה",
+      "gloss": "etali"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "makambo ya lokoku"
+    }
+  ],
+  "timestamp": "2026-09-03T21:02:50.304443780Z",
+  "model": "glm-5.3"
+}

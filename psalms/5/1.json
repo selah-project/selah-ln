@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 5:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Ya mokambi, na ⟨Nechilot⟩, nzembo ya David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ya mokambi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "הנחילות",
+      "gloss": "⟨Nechilot⟩"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "nzembo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya David"
+    }
+  ],
+  "timestamp": "2026-09-03T21:00:04.491945176Z",
+  "model": "glm-5.3"
+}

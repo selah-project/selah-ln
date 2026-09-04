@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 9:2",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Mpe okokota kuna, mpe okomona kuna Yehu mwana ya Yehoshafat mwana ya Nimshi, mpe okokota mpe okotelisi ye kati ya bandeko na ye, mpe okomema ⟨את⟩ ye na ndako ya kati ya ndako ya kati.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "mpe okokota"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "mpe okomona"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "ya Yehoshafat"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "נמשי",
+      "gloss": "ya Nimshi"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "mpe okokota"
+    },
+    {
+      "surface": "והקמתו",
+      "gloss": "mpe okotelisi ye"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "kati"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ya bandeko na ye"
+    },
+    {
+      "surface": "והביאת",
+      "gloss": "mpe okomema"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ye (Yehu)"
+    },
+    {
+      "surface": "חדר",
+      "gloss": "ndako ya kati"
+    },
+    {
+      "surface": "בחדר",
+      "gloss": "ya ndako ya kati"
+    }
+  ],
+  "timestamp": "2026-09-03T19:02:25.719458314Z",
+  "model": "glm-5.3"
+}

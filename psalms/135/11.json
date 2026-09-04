@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 135:11",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 135,
+  "translation": "Sihon mokonzi ya Baamori, mpe Og mokonzi ya Bashan, mpe bomokonzi nyonso ya Kenaan;",
+  "tokens": [
+    {
+      "surface": "לסיחון",
+      "gloss": "Sihon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ya Baamori"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "mpe Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "ya Bashan"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "mpe nyonso"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "bomokonzi"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ya Kenaan"
+    }
+  ],
+  "timestamp": "2026-09-03T21:33:28.773317731Z",
+  "model": "glm-5.3"
+}

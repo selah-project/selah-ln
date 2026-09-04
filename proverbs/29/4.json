@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 29:4",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 29,
+  "translation": "Mokonzi na bosambisi asemelaka mabele; mpe moto ya mapesa abukaka yango.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "na bosambisi"
+    },
+    {
+      "surface": "יעמיד",
+      "gloss": "asemelaka"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "mpe moto"
+    },
+    {
+      "surface": "תרומות",
+      "gloss": "ya mapesa"
+    },
+    {
+      "surface": "יהרסנה",
+      "gloss": "abukaka yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:48:53.227994833Z",
+  "model": "glm-5.3"
+}

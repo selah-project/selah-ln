@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 18:17",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Mpe tango Ahab amonaki ⟨את⟩ Eliyahu, Ahab alobaki na ye: Yo wana nde ozali mobebisi ya Israel?",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mpe esalemaki"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "tango amonaki"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliyahu"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "wana"
+    },
+    {
+      "surface": "עכר",
+      "gloss": "mobebisi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    }
+  ],
+  "timestamp": "2026-09-03T18:55:01.503510265Z",
+  "model": "glm-5.3"
+}

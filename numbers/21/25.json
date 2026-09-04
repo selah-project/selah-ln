@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 21:25",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Mpe Israel azuaki ⟨את⟩ bamboka nyonso oyo, mpe Israel afandaki na bamboka nyonso ya Baamori, na Heshbon mpe na bana na yango nyonso.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "mpe azuaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bamboka nyonso oyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "bamboka"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "mpe afandaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "bamboka nyonso"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ya Baamori"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "na Heshbon"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "mpe na"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "bana na yango nyonso"
+    }
+  ],
+  "timestamp": "2026-09-03T17:12:33.282007713Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 2:35",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe mokonzi atyaki ⟨את⟩ Benayahu mwana ya Yehoyada na esika na ye likolo ya mampinga; mpe ⟨את⟩ Tsadok kohen, mokonzi atyaki ye na esika ya Avyatar.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "atyaki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Benayahu"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "Benayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana ya"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehoyada"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "na esika na ye"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "mampinga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Tsadok"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadok"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "atyaki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "na esika ya"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Avyatar"
+    }
+  ],
+  "timestamp": "2026-09-03T18:43:12.093625895Z",
+  "model": "glm-5.3"
+}

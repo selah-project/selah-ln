@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 64:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 64,
+  "translation": "Yoka, Elohim, dongi na ngai na malita na ngai; obatela bomoi na ngai na bobangi ya monguna.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Yoka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "dongi na ngai"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "na malita na ngai"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "na bobangi"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ya monguna"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "obatela"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "bomoi na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:15:58.568294863Z",
+  "model": "glm-5.3"
+}

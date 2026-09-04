@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 22:16",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Mokonzi alobaki: Okufa kokufa, Ahimelek, yo mpe ndako mobimba ya tata na yo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Mokonzi"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kufa"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "kokufa"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Ahimelek"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe mobimba"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tata na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T23:21:22.464744837Z",
+  "model": "glm-5.3"
+}

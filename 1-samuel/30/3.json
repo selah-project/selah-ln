@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 30:3",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 30,
+  "translation": "Mpe David mpe bato na ye bayaki na mboka, mpe talá, ezalaki yayaki na moto, mpe basi na bango mpe bana mbalaye na bango mpe bana mwasi na bango babotamaki.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Mpe bayaki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "mpe bato na ye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mboka"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mpe talá"
+    },
+    {
+      "surface": "שרופה",
+      "gloss": "ezalaki yayaki"
+    },
+    {
+      "surface": "באש",
+      "gloss": "na moto"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "mpe basi na bango"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "mpe bana mbalaye na bango"
+    },
+    {
+      "surface": "ובנתיהם",
+      "gloss": "mpe bana mwasi na bango"
+    },
+    {
+      "surface": "נשבו",
+      "gloss": "babotamaki"
+    }
+  ],
+  "timestamp": "2026-09-03T18:24:32.517022551Z",
+  "model": "glm-5.3"
+}

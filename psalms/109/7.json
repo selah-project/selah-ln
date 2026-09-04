@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 109:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 109,
+  "translation": "Na kotosamama na ye akima moto mabe, mpe losambo na ye ezala masumu.",
+  "tokens": [
+    {
+      "surface": "בהשפטו",
+      "gloss": "na kotosamama na ye"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "akima"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "moto mabe"
+    },
+    {
+      "surface": "ותפלתו",
+      "gloss": "mpe losambo na ye"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ezala"
+    },
+    {
+      "surface": "לחטאה",
+      "gloss": "masumu"
+    }
+  ],
+  "timestamp": "2026-09-03T21:29:06.660948364Z",
+  "model": "glm-5.3"
+}

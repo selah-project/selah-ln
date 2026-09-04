@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 43:12",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 43,
+  "translation": "Ngai nayebisaki, mpe nabikisi, mpe nabakisaki ⟨bino⟩ koyoka, mopaya azali te na kati na bino; mpe bino bozali batatoli na ngai, liloba ya Yawe, mpe ngai nazali El.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ngai"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "nayebisaki"
+    },
+    {
+      "surface": "והושעתי",
+      "gloss": "mpe nabikisi"
+    },
+    {
+      "surface": "והשמעתי",
+      "gloss": "mpe nabakisaki koyoka"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mpe azali te"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "na kati na bino"
+    },
+    {
+      "surface": "זר",
+      "gloss": "mopaya"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "mpe bino"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "batatoli na ngai"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "liloba ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "mpe ngai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-03T19:29:41.559537922Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 78:16",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 78,
+  "translation": "Mpe abimisaki mai oyo ezali kolokana utoka na libanga, mpe matisaki mai kokita lokola bibale.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "mpe abimisaki"
+    },
+    {
+      "surface": "נוזלים",
+      "gloss": "mai oyo ezali kolokana"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "utoka na libanga"
+    },
+    {
+      "surface": "ויורד",
+      "gloss": "mpe matisaki kokita"
+    },
+    {
+      "surface": "כנהרות",
+      "gloss": "lokola bibale"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:19:38.183481940Z",
+  "model": "glm-5.3"
+}

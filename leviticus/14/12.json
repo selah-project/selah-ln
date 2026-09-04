@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 14:12",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Mpe kohen azwa ⟨את⟩ tolé moko, mpe apesa ⟨את⟩ yango lokola asham, mpe ⟨את⟩ log ya mafuta; mpe akomata ⟨את⟩ bango tenufa, liboso ya Yawe.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "mpe azwa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tolé moko"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "tolé"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "moko"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "mpe apesa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yango",
+      "marks": "tolé moko"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "lokola asham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "log ya mafuta"
+    },
+    {
+      "surface": "לג",
+      "gloss": "log"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "ya mafuta"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "mpe akomata"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bango",
+      "marks": "tolé moko mpe log ya mafuta"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "tenufa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T16:47:16.196342596Z",
+  "model": "glm-5.3"
+}

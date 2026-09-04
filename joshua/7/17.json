@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 7:17",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mpe apegaki ⟨את⟩ libota ya Yehuda, mpe ⟨את⟩ libota ya bazerhi eyangamaki; mpe apegaki ⟨את⟩ libota ya bazerhi na bato, mpe Zavdi eyangamaki.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "apegaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "libota ya Yehuda"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "libota"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "eyangamaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "libota ya bazerhi"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "libota"
+    },
+    {
+      "surface": "הזרחי",
+      "gloss": "ya bazerhi"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "apegaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "libota ya bazerhi"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "libota"
+    },
+    {
+      "surface": "הזרחי",
+      "gloss": "ya bazerhi"
+    },
+    {
+      "surface": "לגברים",
+      "gloss": "na bato"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "eyangamaki"
+    },
+    {
+      "surface": "זבדי",
+      "gloss": "Zavdi"
+    }
+  ],
+  "timestamp": "2026-09-03T17:47:30.346095945Z",
+  "model": "glm-5.3"
+}

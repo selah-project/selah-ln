@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "judges 6:34",
+  "book": "judges",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpe mpema ya Yawe elataki ⟨את⟩ Gideon, mpe akwingaki na shofar, mpe Abiezer babengaki na nsima na ye.",
+  "tokens": [
+    {
+      "surface": "ורוח",
+      "gloss": "mpe mpema"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לבשה",
+      "gloss": "elataki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gideon"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gideon"
+    },
+    {
+      "surface": "ויתקע",
+      "gloss": "mpe akwingaki"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "na shofar"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "mpe babengaki"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "Abiezer"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "na nsima na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T17:59:10.061675033Z",
+  "model": "glm-5.3"
+}

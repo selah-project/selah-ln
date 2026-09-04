@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 52:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 52,
+  "translation": "Olingaki mabe koleka bolamu, mpe lokuta koleka koloba bosemi. Sela.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "olingaki"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "koleka bolamu"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lokuta"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "koleka koloba"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "bosemi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-03T21:14:17.553282424Z",
+  "model": "glm-5.3"
+}

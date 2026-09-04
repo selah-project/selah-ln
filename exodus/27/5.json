@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 27:5",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 27,
+  "translation": "Mpe okotya ⟨את⟩ teke na nsé ya molongo ya autel, na nsé, mpe lilanga ekokima tee na katikati ya autel.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "mpe okotya"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "teke"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "teke"
+    },
+    {
+      "surface": "כרכב",
+      "gloss": "molongo"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "autel"
+    },
+    {
+      "surface": "מלמטה",
+      "gloss": "na nsé"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "mpe ekokima"
+    },
+    {
+      "surface": "הרשת",
+      "gloss": "lilanga"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tee"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "katikati"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "autel"
+    }
+  ],
+  "timestamp": "2026-09-03T16:28:04.025487178Z",
+  "model": "glm-5.3"
+}

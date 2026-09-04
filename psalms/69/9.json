@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 69:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 69,
+  "translation": "Nazalaki moto ya mboka mosusu epai ya bandeko na ngai, mpe moto ya libanda epai ya bana ya mama na ngai.",
+  "tokens": [
+    {
+      "surface": "מוזר",
+      "gloss": "moto ya mboka mosusu"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "nazalaki"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "epai ya bandeko na ngai"
+    },
+    {
+      "surface": "ונכרי",
+      "gloss": "mpe moto ya libanda"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "epai ya bana"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ya mama na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:16:24.884397087Z",
+  "model": "glm-5.3"
+}

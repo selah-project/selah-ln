@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 65:21",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 65,
+  "translation": "Bakotonga bandako mpe bakofanda; bakobomba balanga mpe bakolia mbote na yango.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "bakotonga"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "bandako"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "mpe bakofanda"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "mpe bakobomba"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "balanga"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "mpe bakolia"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "mbote na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T19:39:51.650226707Z",
+  "model": "glm-5.3"
+}

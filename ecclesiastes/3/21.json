@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 3:21",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Nani ayebi ⟨soki⟩ elimo ya bana ya moto ezali kokwela likolo, mpe elimo ya nyama, yango nde ezali kokita nse na mabele?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Nani"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ayebi"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "elimo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ya moto"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ezali kokwela"
+    },
+    {
+      "surface": "היא",
+      "gloss": "yango"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "likolo"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "mpe elimo"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ya nyama"
+    },
+    {
+      "surface": "הירדת",
+      "gloss": "ezali kokita"
+    },
+    {
+      "surface": "היא",
+      "gloss": "yango"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "nse"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "na mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T22:12:44.206724085Z",
+  "model": "glm-5.3"
+}

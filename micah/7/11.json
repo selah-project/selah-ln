@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "micah 7:11",
+  "book": "micah",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mokolo ya kolonga bingazi na yo — mokolo wana ndelo ekozala mosika.",
+  "tokens": [
+    {
+      "surface": "יוֹם",
+      "gloss": "mokolo"
+    },
+    {
+      "surface": "לִבְנוֹת",
+      "gloss": "ya kolonga"
+    },
+    {
+      "surface": "גְּדֵרָיִךְ",
+      "gloss": "bingazi na yo"
+    },
+    {
+      "surface": "יוֹם",
+      "gloss": "mokolo"
+    },
+    {
+      "surface": "הַהוּא",
+      "gloss": "wana"
+    },
+    {
+      "surface": "יִרְחַק",
+      "gloss": "ekozala mosika"
+    },
+    {
+      "surface": "חֹק",
+      "gloss": "ndelo"
+    }
+  ],
+  "timestamp": "2026-09-03T20:50:15.467333456Z",
+  "model": "glm-5.3"
+}

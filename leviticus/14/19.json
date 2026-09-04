@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 14:19",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Mpe kohen asalaki ⟨את⟩ chatat, mpe akokanga masumu na mobongwani likolo ya mbotama na yango, mpe nsima abebisi ⟨את⟩ ola.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "Mpe asalaki"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "chatat"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "chatat"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "mpe akokanga masumu"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "mobongwani"
+    },
+    {
+      "surface": "מטמאתו",
+      "gloss": "likolo ya mbotama na yango"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "mpe nsima"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "abebisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ola"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ola"
+    }
+  ],
+  "timestamp": "2026-09-03T16:46:41.302669421Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 22:12",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Mpo na esika oyo bakangisaki ⟨את⟩ ye, kuna akofa, mpe ⟨את⟩ mabele oyo akomona te lisusu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "na esika"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "bakangisaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ye",
+      "marks": "Shalum"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "akofa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mabele oyo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "akomona"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lisusu"
+    }
+  ],
+  "timestamp": "2026-09-03T23:28:23.843539930Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 13:12",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Nakokesa moto koleka wolo ya pazu, mpe moto koleka wolo ya solo ya Ofir.",
+  "tokens": [
+    {
+      "surface": "אוקיר",
+      "gloss": "Nakokesa"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "מפז",
+      "gloss": "koleka wolo ya pazu"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "mpe moto"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "koleka wolo ya solo"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "ya Ofir"
+    }
+  ],
+  "timestamp": "2026-09-03T19:17:24.499363017Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 8:9",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe Yawe asalaki ndenge liloba ya Moshe; mpe bangwanya bakufaki na bandako, na bisika ya libanda ya bandako, mpe na mabel.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "asalaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ndenge liloba ya"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "mpe bakufaki"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "bangwanya"
+    },
+    {
+      "surface": "מן",
+      "gloss": "na"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "bandako"
+    },
+    {
+      "surface": "מן",
+      "gloss": "na"
+    },
+    {
+      "surface": "החצרת",
+      "gloss": "bisika ya libanda"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "mpe na"
+    },
+    {
+      "surface": "השדת",
+      "gloss": "mabel"
+    }
+  ],
+  "timestamp": "2026-09-03T16:17:20.479839237Z",
+  "model": "glm-5.3"
+}

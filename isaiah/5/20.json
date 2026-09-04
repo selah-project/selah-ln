@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 5:20",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Mawa epai ya baye balobi na mabe malamu, mpe na malamu mabe; batyaka moimo na moi, mpe moi na moimo; batyaka moto na sukali, mpe sukali na moto.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Mawa"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "baye balobi"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "na mabe"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "malamu"
+    },
+    {
+      "surface": "ולטוב",
+      "gloss": "mpe na malamu"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "batyaka"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "moimo"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "na moi"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "mpe moi"
+    },
+    {
+      "surface": "לחשך",
+      "gloss": "na moimo"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "batyaka"
+    },
+    {
+      "surface": "מר",
+      "gloss": "moto"
+    },
+    {
+      "surface": "למתוק",
+      "gloss": "na sukali"
+    },
+    {
+      "surface": "ומתוק",
+      "gloss": "mpe sukali"
+    },
+    {
+      "surface": "למר",
+      "gloss": "na moto"
+    }
+  ],
+  "timestamp": "2026-09-03T19:15:43.974559088Z",
+  "model": "glm-5.3"
+}

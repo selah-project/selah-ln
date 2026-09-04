@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 10:14",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Mpe ⟨את⟩ Pathrusim, mpe ⟨את⟩ Kasluhim — oyo bawutaki kuna ⟨⟨ezipami te⟩⟩ Plishitim — mpe ⟨את⟩ Kaphtorim.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Pathrusim"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "Pathrusim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Kasluhim"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "Kasluhim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "bawutaki"
+    },
+    {
+      "surface": "משם",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Plishitim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Kaphtorim"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "Kaphtorim"
+    }
+  ],
+  "timestamp": "2026-09-03T15:48:48.443867559Z",
+  "model": "glm-5.3"
+}

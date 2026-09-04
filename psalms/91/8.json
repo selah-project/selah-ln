@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 91:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 91,
+  "translation": "Kaka na miso na yo okotala, mpe lifuti ya babubi okomona.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "kaka"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "na miso na yo"
+    },
+    {
+      "surface": "תביט",
+      "gloss": "okotala"
+    },
+    {
+      "surface": "ושלמת",
+      "gloss": "mpe lifuti"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ya babubi"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "okomona"
+    }
+  ],
+  "timestamp": "2026-09-03T21:25:02.531260854Z",
+  "model": "glm-5.3"
+}

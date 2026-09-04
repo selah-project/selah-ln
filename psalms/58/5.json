@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 58,
+  "translation": "Mokuwa na bango ezali ndenge ya mokuwa ya nzoka, lokola nzoka ya matoyi mabe oyo etyaki motoyi na yango.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "mokuwa"
+    },
+    {
+      "surface": "למו",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "ndenge"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "mokuwa"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "nzoka"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "lokola"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "nzoka"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ya matoyi mabe"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "etyaki"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "motoyi na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:14:24.202827284Z",
+  "model": "glm-5.3"
+}

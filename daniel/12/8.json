@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 12:8",
+  "book": "daniel",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Mpe ngai nayokaki, kasi namonaki ntina te; mpe nalobaki: Adonai, nini nsuka ya mambo oyo?",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "mpe ngai"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "nayokaki"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kasi te"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "namonaki ntina"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "mpe nalobaki"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "nsuka"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ya mambo oyo"
+    }
+  ],
+  "timestamp": "2026-09-03T22:29:11.693227148Z",
+  "model": "glm-5.3"
+}

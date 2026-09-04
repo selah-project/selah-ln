@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 5:3",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Soki obalaka lilaka epai ya Elohim, kanga te na kosilisa yango; mpo ⟨ezali⟩ te kolinga na bapooli; ⟨את⟩ oyo obalaki, silisa.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Soki"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "obalaka"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "lilaka"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "epai ya Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "kanga"
+    },
+    {
+      "surface": "לשלמו",
+      "gloss": "na kosilisa yango"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ezali te"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "kolinga"
+    },
+    {
+      "surface": "בכסילים",
+      "gloss": "na bapooli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oyo obalaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "obalaki"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "silisa"
+    }
+  ],
+  "timestamp": "2026-09-03T22:13:55.510442718Z",
+  "model": "glm-5.3"
+}

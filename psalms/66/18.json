@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 66:18",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 66,
+  "translation": "Masumu, soki namonaki yango na motema na ngai, Adonai akoyoka te.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "masumu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "soki"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "namonaki"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "na motema na ngai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "akoyoka"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:15:20.832762304Z",
+  "model": "glm-5.3"
+}

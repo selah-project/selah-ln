@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 14:10",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Banso bayanoli mpe balobi na yo: mpe yo okweyaki ndenge na biso, okomi lokola biso.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "Banso"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "bayanoli"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "mpe balobi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "na yo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "okweyaki"
+    },
+    {
+      "surface": "כמונו",
+      "gloss": "ndenge na biso"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "na biso"
+    },
+    {
+      "surface": "נמשלת",
+      "gloss": "okomi lokola biso"
+    }
+  ],
+  "timestamp": "2026-09-03T19:16:45.898947754Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 70:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 70,
+  "translation": "Ya Mokambi ya miziki, nzembo ya David, mpo na kokanisa.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ya Mokambi ya miziki"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "nzembo ya David"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "mpo na kokanisa"
+    }
+  ],
+  "timestamp": "2026-09-03T21:17:08.087556624Z",
+  "model": "glm-5.3"
+}

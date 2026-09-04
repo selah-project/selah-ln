@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 31:9",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 31,
+  "translation": "Mpe libanga na yango akolika na bobangi, mpe bakambi na yango bakangamaki na etanda — liloba ya Yawe, oyo azali na moto na Tsion mpe na etano na Yerushalaim.",
+  "tokens": [
+    {
+      "surface": "וְסַלְעוֹ",
+      "gloss": "mpe libanga na yango"
+    },
+    {
+      "surface": "מִמָּגוֹר",
+      "gloss": "na bobangi"
+    },
+    {
+      "surface": "יַֽעֲבֹר",
+      "gloss": "akolika"
+    },
+    {
+      "surface": "וְחַתּוּ",
+      "gloss": "mpe bakangamaki"
+    },
+    {
+      "surface": "מִנֵּס",
+      "gloss": "na etanda"
+    },
+    {
+      "surface": "שָׂרָיו",
+      "gloss": "bakambi na yango"
+    },
+    {
+      "surface": "נְאֻם",
+      "gloss": "liloba ya"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אוּר",
+      "gloss": "moto"
+    },
+    {
+      "surface": "לוֹ",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "בְּצִיּוֹן",
+      "gloss": "na Tsion"
+    },
+    {
+      "surface": "וְתַנּוּר",
+      "gloss": "mpe etano"
+    },
+    {
+      "surface": "לוֹ",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "בִּירוּשָׁׁלִַֽם",
+      "gloss": "na Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-09-03T19:23:33.645987236Z",
+  "model": "glm-5.3"
+}

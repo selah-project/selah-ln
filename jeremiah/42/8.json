@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 42:8",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 42,
+  "translation": "Mpe abengaki epai na Yohanan, mwana wa Kareah, mpe epai na bakonzi nyonso ya basoda oyo bazalaki ⟨את⟩ elongo na ye, mpe na bato nyonso, ya moke kino ya monene.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Mpe abengaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai na"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Yohanan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Kareah"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mpe epai na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "bakonzi ya"
+    },
+    {
+      "surface": "החילים",
+      "gloss": "basoda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ elongo na ye",
+      "marks": "bakonzi ya basoda"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "mpe na"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato nyonso"
+    },
+    {
+      "surface": "למקטן",
+      "gloss": "ya moke"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ya monene"
+    }
+  ],
+  "timestamp": "2026-09-03T20:03:19.107145161Z",
+  "model": "glm-5.3"
+}

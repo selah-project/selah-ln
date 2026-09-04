@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 3:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Ngai, nakitakaki mpe nalalaki; nakamwaki, mpo Yawe asungaki ngai.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ngai"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "nakitakaki"
+    },
+    {
+      "surface": "ואישנה",
+      "gloss": "mpe nalalaki"
+    },
+    {
+      "surface": "הקיצותי",
+      "gloss": "nakamwaki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "יסמכני",
+      "gloss": "asungaki ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T23:33:23.079579416Z",
+  "model": "glm-5.3"
+}

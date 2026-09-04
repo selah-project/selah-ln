@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 38:19",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 38,
+  "translation": "Mpo nakoloba masumu na ngai; nazali na mawa mpo ya masumu na ngai.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "masumu na ngai"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "nakoloba"
+    },
+    {
+      "surface": "אדאג",
+      "gloss": "nazali na mawa"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "mpo ya masumu na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:09:51.182026317Z",
+  "model": "glm-5.3"
+}

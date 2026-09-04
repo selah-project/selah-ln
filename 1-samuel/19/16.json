@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 19:16",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Mpe batindami bakomaki, mpe talá, biterafim ezali na kitanda, mpe kago ya mboyo ya mboli na motó na yango.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "mpe bakomaki"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "batindami"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mpe talá"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "biterafim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "kitanda"
+    },
+    {
+      "surface": "וכביר",
+      "gloss": "mpe kago"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "ya mboli"
+    },
+    {
+      "surface": "מראשתיו",
+      "gloss": "na motó na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T18:19:03.893116049Z",
+  "model": "glm-5.3"
+}

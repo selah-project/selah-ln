@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 137:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 137,
+  "translation": "Mwana mwasi ya Babeli, oyo ebebisami: esengo ya moto oyo akofutela yo ⟨את⟩ misala na yo oyo osalaki biso.",
+  "tokens": [
+    {
+      "surface": "בת",
+      "gloss": "mwana mwasi ya"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babeli"
+    },
+    {
+      "surface": "השדודה",
+      "gloss": "oyo ebebisami"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "esengo ya"
+    },
+    {
+      "surface": "שישלם",
+      "gloss": "moto oyo akofutela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "misala na yo"
+    },
+    {
+      "surface": "גמולך",
+      "gloss": "misala na yo"
+    },
+    {
+      "surface": "שגמלת",
+      "gloss": "osalaki"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "biso"
+    }
+  ],
+  "timestamp": "2026-09-03T21:35:30.061527241Z",
+  "model": "glm-5.3"
+}

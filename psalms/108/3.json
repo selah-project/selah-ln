@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 108:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 108,
+  "translation": "Lamuka, nevel mpe kinor; nakolamusa tongo.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "lamuka"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "nevel"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "mpe kinor"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "nakolamusa"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "tongo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:28:58.051204898Z",
+  "model": "glm-5.3"
+}

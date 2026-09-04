@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 1:23",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Babokoli na bango, mpo na libota ya Shimon: libwa mpe ntuku mitano nkoto mpe misato nkama.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "babokoli na bango"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "mpo na libota ya"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimon"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "libwa"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "mpe ntuku mitano"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "nkoto"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "mpe misato"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "nkama"
+    }
+  ],
+  "timestamp": "2026-09-03T16:57:46.397065163Z",
+  "model": "glm-5.3"
+}

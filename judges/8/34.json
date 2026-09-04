@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "judges 8:34",
+  "book": "judges",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Bana ya Israel bakanakanaki te ⟨את⟩ Yawe Elohim na bango, oyo azalaki kobombela ⟨את⟩ bango na maboko ya banguna na bango nyonso oyo bazalaki na zingazinga.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Mpe ... te"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "bakanakanaki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim na bango"
+    },
+    {
+      "surface": "המציל",
+      "gloss": "oyo azalaki kobombela"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ bango",
+      "marks": "bango"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "na maboko ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "banguna na bango"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "oyo bazalaki na zingazinga"
+    }
+  ],
+  "timestamp": "2026-09-03T17:59:57.761556244Z",
+  "model": "glm-5.3"
+}

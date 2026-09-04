@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 51:14",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 51,
+  "translation": "Zongisa na ngai esa ya bobombi na yo, mpe elimo ya mokembe ekosungisa ngai.",
+  "tokens": [
+    {
+      "surface": "השיבה",
+      "gloss": "Zongisa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "esa"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "ya bobombi na yo"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "mpe elimo"
+    },
+    {
+      "surface": "נדיבה",
+      "gloss": "ya mokembe"
+    },
+    {
+      "surface": "תסמכני",
+      "gloss": "ekosungisa ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:13:59.189560809Z",
+  "model": "glm-5.3"
+}

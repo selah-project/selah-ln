@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 4:21",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe nkombo ya ndeko na ye Yubal: yango azalaki tata ya bato nyonso oyo basololaka kinora mpe ugaba.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "Mpe nkombo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ya ndeko na ye"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "Yubal"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yango"
+    },
+    {
+      "surface": "היה",
+      "gloss": "azalaki"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ya bato nyonso"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "basololaka"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "kinora"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "mpe ugaba"
+    }
+  ],
+  "timestamp": "2026-09-03T15:45:31.887191231Z",
+  "model": "glm-5.3"
+}

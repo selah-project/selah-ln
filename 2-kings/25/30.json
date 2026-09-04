@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 25:30",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Mpe kelo na ye — kelo ya ntango nyonso — epesamaki ye epai ya ⟨את⟩ mokonzi: kelo ya mokolo, mokolo na mokolo na yango, mikolo nyonso ya bomoi na ye.",
+  "tokens": [
+    {
+      "surface": "וארחתו",
+      "gloss": "Mpe kelo na ye"
+    },
+    {
+      "surface": "ארחת",
+      "gloss": "kelo"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ya ntango nyonso"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "epesamaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "mokonzi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kelo ya mokolo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mokolo"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "mokolo na mokolo na yango"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mikolo"
+    },
+    {
+      "surface": "חיו",
+      "gloss": "ya bomoi na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T19:11:11.322577341Z",
+  "model": "glm-5.3"
+}

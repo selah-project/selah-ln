@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 23:2",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Mpe akangaki ⟨את⟩ bansori nyonso ya Israel, mpe bakoheni mpe balevi.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "Mpe akangaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bansori nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "bansori"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "mpe bakoheni"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "mpe balevi"
+    }
+  ],
+  "timestamp": "2026-09-03T22:50:56.061615756Z",
+  "model": "glm-5.3"
+}

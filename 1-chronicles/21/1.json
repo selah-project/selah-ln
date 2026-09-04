@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 21:1",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Satan atelemaki likolo ya Israel, mpe amemaki ⟨את⟩ David mpo na kopala ⟨את⟩ Israel.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "atelemaki"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "Satan"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויסת",
+      "gloss": "mpe amemaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "למנות",
+      "gloss": "mpo na kopala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-03T22:48:45.195744464Z",
+  "model": "glm-5.3"
+}

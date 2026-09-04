@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 56:11",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 56,
+  "translation": "Na Elohim nakumisa liloba; na Yawe nakumisa liloba.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Na Elohim"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "nakumisa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "liloba"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "na Yawe"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "nakumisa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "liloba"
+    }
+  ],
+  "timestamp": "2026-09-03T21:13:38.203763701Z",
+  "model": "glm-5.3"
+}

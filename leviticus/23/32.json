@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 23:32",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Shabat ya bozembo ⟨ezali⟩ ya bino, mpe bonyokwama ⟨את⟩ bomoi na bino; na mokola ya libwa ya sanza, na mpokwa, kobanda mpokwa kino mpokwa bozemba Shabat na bino.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Shabat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "ya bozembo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ezali⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ya bino"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "mpe bonyokwama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bomoi na bino"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "bomoi na bino"
+    },
+    {
+      "surface": "בתשעה",
+      "gloss": "na mokola ya libwa"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ya sanza"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "na mpokwa"
+    },
+    {
+      "surface": "מערב",
+      "gloss": "kobanda mpokwa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "mpokwa"
+    },
+    {
+      "surface": "תשבתו",
+      "gloss": "bozemba"
+    },
+    {
+      "surface": "שבתכם",
+      "gloss": "Shabat na bino"
+    }
+  ],
+  "timestamp": "2026-09-03T16:55:03.517318545Z",
+  "model": "glm-5.3"
+}

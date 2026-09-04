@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 8:11",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe afulaki na yango likoló ya autelo mbala sambo, mpe atombolaki ⟨את⟩ autelo mpe ⟨את⟩ bilelo bya yango nyonso, mpe ⟨את⟩ basen mpe ⟨את⟩ ntsimba na yango, mpo na kosantola bango.",
+  "tokens": [
+    {
+      "surface": "ויז",
+      "gloss": "Mpe afulaki"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "על",
+      "gloss": "likoló ya"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "autelo"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sambo"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "mbala"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "mpe atombolaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "autelo"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "autelo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bilelo bya yango nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "bilelo bya yango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "basen"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "basen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "ntsimba na yango"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "ntsimba na yango"
+    },
+    {
+      "surface": "לקדשם",
+      "gloss": "mpo na kosantola bango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:43:37.468724469Z",
+  "model": "glm-5.3"
+}

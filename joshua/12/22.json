@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 12:22",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Mokonzi ya Kedesh, moko; mokonzi ya Yokneam, na Karmel, moko.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "Mokonzi"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kedesh"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "moko"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Mokonzi"
+    },
+    {
+      "surface": "יקנעם",
+      "gloss": "Yokneam"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "na Karmel"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "moko"
+    }
+  ],
+  "timestamp": "2026-09-03T17:48:19.185409939Z",
+  "model": "glm-5.3"
+}

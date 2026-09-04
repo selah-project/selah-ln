@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 24:9",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "Kanisa ⟨את⟩ oyo Yawe Elohim na yo asalaki na Miriam, na nzela, tango bobimaki na bino na Mitsraim.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Kanisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oyo Yawe asalaki na Miriam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "asalaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim na yo"
+    },
+    {
+      "surface": "למרים",
+      "gloss": "na Miriam"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "na nzela"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "tango bobimaki na bino"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "na Mitsraim"
+    }
+  ],
+  "timestamp": "2026-09-03T17:34:58.973666629Z",
+  "model": "glm-5.3"
+}

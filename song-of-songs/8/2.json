@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 8:2",
+  "book": "song-of-songs",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Nakokamba yo, nakomema yo na ndako ya mama na ngai; olongisa ngai; nakomeka yo vinu ya matomba, memi ya mapome na ngai.",
+  "tokens": [
+    {
+      "surface": "אֶנְהָֽגֲךָ",
+      "gloss": "nakokamba yo"
+    },
+    {
+      "surface": "אֲבִֽיאֲךָ",
+      "gloss": "nakomema yo"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "na"
+    },
+    {
+      "surface": "בֵּית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "אִמִּי",
+      "gloss": "ya mama na ngai"
+    },
+    {
+      "surface": "תְּלַמְּדֵ֑נִי",
+      "gloss": "olongisa ngai"
+    },
+    {
+      "surface": "אַשְׁקְךָ֙",
+      "gloss": "nakomeka yo"
+    },
+    {
+      "surface": "מִיַּ֣יִן",
+      "gloss": "vinu"
+    },
+    {
+      "surface": "הָרֶ֔קַח",
+      "gloss": "ya matomba"
+    },
+    {
+      "surface": "מֵעֲסִ֖יס",
+      "gloss": "memi"
+    },
+    {
+      "surface": "רִמֹּנִֽי",
+      "gloss": "ya mapome na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T22:08:16.536152041Z",
+  "model": "glm-5.3"
+}

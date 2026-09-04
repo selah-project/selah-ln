@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 19:18",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Koluka nsolo te, mpe kokanisa mabe te ⟨את⟩ bana ya bato na yo; olinga moninga na yo lokola yo moko. Ngai Yawe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תקם",
+      "gloss": "koluka nsolo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "תטר",
+      "gloss": "kokanisa mabe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bana"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ya bato na yo"
+    },
+    {
+      "surface": "ואהבת",
+      "gloss": "olinga"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "moninga na yo"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "lokola yo moko"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ngai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T16:52:33.257975168Z",
+  "model": "glm-5.3"
+}

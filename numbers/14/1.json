@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 14:1",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Mpe mobimba ya lisanga batombwaki ⟨את⟩ mongongo na bango, mpe bato balalaki na butu wana.",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "Mpe batombwaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mobimba ya"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "lisanga"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "bapesaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mongongo na bango"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "mongongo na bango"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "mpe balalaki"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "na butu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "wana"
+    }
+  ],
+  "timestamp": "2026-09-03T17:07:50.786593235Z",
+  "model": "glm-5.3"
+}

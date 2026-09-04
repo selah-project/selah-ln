@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 7:8",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Azalaki koleka na nzela ya misolo, penepene ya likata na yango, mpe na nzela ya ndako na yango atambolaki.",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "azalaki koleka"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "na nzela ya misolo"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "penepene"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "ya likata na yango"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "mpe na nzela"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ya ndako na yango"
+    },
+    {
+      "surface": "יצעד",
+      "gloss": "atambolaki"
+    }
+  ],
+  "timestamp": "2026-09-03T21:39:35.470548688Z",
+  "model": "glm-5.3"
+}

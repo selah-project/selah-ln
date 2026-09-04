@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 77:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 77,
+  "translation": "Loloba na ngai epai ya Elohim, mpe nakolaka; loloba na ngai epai ya Elohim, mpe ⟨את⟩ asunga matoyi epai na ngai.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "Loloba na ngai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואצעקה",
+      "gloss": "mpe nakolaka"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "Loloba na ngai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והאזין",
+      "gloss": "mpe asunga matoyi epai na ngai"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "epai na ngai"
+    }
+  ],
+  "timestamp": "2026-09-04T00:29:01.784648218Z",
+  "model": "glm-5.3"
+}

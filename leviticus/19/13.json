@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 19:13",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Okoki kobuba ⟨את⟩ moninga na yo te, mpe okoki kozwaka na makasi te; musala wa mosali ya mokolo ekotelama ⟨את⟩ epai na yo te kino tongo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תעשק",
+      "gloss": "kobuba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moninga na yo"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "moninga na yo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe ... te"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "kozwaka na makasi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "ekotelama"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "musala"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "ya mosali ya mokolo"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ epai na yo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "tongo"
+    }
+  ],
+  "timestamp": "2026-09-03T16:51:48.991135233Z",
+  "model": "glm-5.3"
+}

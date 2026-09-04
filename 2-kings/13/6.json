@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 13:6",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Kasi bawumelaki te na mabebe ya ndako ya Yarovam, oyo asingisaki ⟨את⟩ Israel kosala mabebe, bazalaki kotambola na yango; mpe ata Ashera etelemaki na Shomron.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "kasi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "bawumelaki"
+    },
+    {
+      "surface": "מחטאות",
+      "gloss": "na mabebe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ya ndako"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ya Yarovam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "החטי",
+      "gloss": "asingisaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בה",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "bazalaki kotambola"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "mpe ata"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "Ashera"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "etelemaki"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "na Shomron"
+    }
+  ],
+  "timestamp": "2026-09-03T19:06:17.633567350Z",
+  "model": "glm-5.3"
+}

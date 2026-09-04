@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 20:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 20,
+  "translation": "Bango bapingamaki mpe bakweyaki, kasi biso totombaki mpe totelemaki nakotalela likolo.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Bango"
+    },
+    {
+      "surface": "כרעו",
+      "gloss": "bapingamaki"
+    },
+    {
+      "surface": "וונפלו",
+      "gloss": "mpe bakweyaki"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "kasi biso"
+    },
+    {
+      "surface": "קמנו",
+      "gloss": "totombaki"
+    },
+    {
+      "surface": "ונתעודד",
+      "gloss": "mpe totelemaki nakotalela likolo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:03:39.697212108Z",
+  "model": "glm-5.3"
+}

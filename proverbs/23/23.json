@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 23:23",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Somba bosolo, mpe kosela te — bwanya, mpe boteyami, mpe bokanisi.",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "bosolo"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "Somba"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mpe ⟨te⟩"
+    },
+    {
+      "surface": "תמכר",
+      "gloss": "kosela"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "bwanya"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "mpe boteyami"
+    },
+    {
+      "surface": "ובינה",
+      "gloss": "mpe bokanisi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:46:25.669137470Z",
+  "model": "glm-5.3"
+}

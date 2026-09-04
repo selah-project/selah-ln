@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 21:15",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Mpe ⟨את⟩ Holon na ⟨את⟩ bipembe na yango, mpe ⟨את⟩ Devir na ⟨את⟩ bipembe na yango.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Holon"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "Holon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "bipembe na yango"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "bipembe na yango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Devir"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Devir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "bipembe na yango"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "bipembe na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T17:53:02.881346644Z",
+  "model": "glm-5.3"
+}

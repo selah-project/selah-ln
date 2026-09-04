@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 2:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Na ntango wana ⟨ye⟩ akoloba na bango na likebi na ye, mpe na mbuma na ye akobangisa bango.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Na ntango wana"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "akoloba"
+    },
+    {
+      "surface": "אלימו",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "na likebi na ye"
+    },
+    {
+      "surface": "ובחרונו",
+      "gloss": "mpe na mbuma na ye"
+    },
+    {
+      "surface": "יבהלמו",
+      "gloss": "akobangisa bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:00:14.741490822Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 31:11",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 31,
+  "translation": "Mpe bazwaki ⟨את⟩ nyonso bozwi mpe ⟨את⟩ nyonso bopiolu, na bato mpe na banyama.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "bazwaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyonso bozwi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "bozwi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "nyonso bopiolu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "המלקוח",
+      "gloss": "bopiolu"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "na bato"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "mpe na banyama"
+    }
+  ],
+  "timestamp": "2026-09-03T17:19:51.036719167Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 25:15",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Miso na ngai ezali ntango nyonso epai ya Yawe, mpo ete ye akobimisa makolo na ngai na mokuwa.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "miso na ngai"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ntango nyonso"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ye"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "akobimisa"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "na mokuwa"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "makolo na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:05:58.302602383Z",
+  "model": "glm-5.3"
+}

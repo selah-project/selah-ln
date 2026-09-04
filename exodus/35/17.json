@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 35:17",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 35,
+  "translation": "⟨את⟩ bilamba ya esika ya libanda, ⟨את⟩ bikolo na yango mpe ⟨את⟩ mabanga na yango, mpe ⟨את⟩ elamba ya lipata ya esika ya libanda,",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bilamba ya esika ya libanda"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "bilamba"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "esika ya libanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bikolo na yango"
+    },
+    {
+      "surface": "עמדיו",
+      "gloss": "bikolo na yango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mabanga na yango"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "mabanga na yango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "elamba ya lipata"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "elamba"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ya lipata"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "esika ya libanda"
+    }
+  ],
+  "timestamp": "2026-09-03T16:33:13.919778547Z",
+  "model": "glm-5.3"
+}

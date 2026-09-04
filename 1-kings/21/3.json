@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 21:3",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Mpe Navote alobaki na Ahav: Libela na ngai, na Yawe, nakopesa ⟨את⟩ bofungwa ya batata na ngai yo!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Navote"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahav"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "libela"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "na Yawe"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "nakopesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bofungwa ya batata na ngai"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "bofungwa"
+    },
+    {
+      "surface": "אבתי",
+      "gloss": "ya batata na ngai"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yo"
+    }
+  ],
+  "timestamp": "2026-09-03T18:56:58.387691665Z",
+  "model": "glm-5.3"
+}

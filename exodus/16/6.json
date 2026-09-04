@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 16:6",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Moshe mpe Aharon balobaki epai ya bana nyonso ya Israel: Na bokati nsima boyebi ete Yawe abimaki ⟨את⟩ bino na mabele ya Mitsraim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "balobaki"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "mpe Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "na bokati nsima"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "boyebi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "abimaki"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ bino",
+      "marks": "bino"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Mitsraim"
+    }
+  ],
+  "timestamp": "2026-09-03T16:24:18.354077854Z",
+  "model": "glm-5.3"
+}

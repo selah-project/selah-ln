@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 32:10",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 32,
+  "translation": "Mpe Yaakov alobaki: Elohim ya tata na ngai Avraham, mpe Elohim ya tata na ngai Yitshak, Yawe oyo alobaki epai na ngai: Longoka na mabele na yo mpe na mboto na yo, mpe nakosalisa yo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ya"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tata na ngai"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "mpe Elohim ya"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tata na ngai"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "oyo alobaki"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "epai na ngai"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "Longoka"
+    },
+    {
+      "surface": "לארצך",
+      "gloss": "na mabele na yo"
+    },
+    {
+      "surface": "ולמולדתך",
+      "gloss": "mpe na mboto na yo"
+    },
+    {
+      "surface": "ואיטיבה",
+      "gloss": "mpe nakosalisa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "yo"
+    }
+  ],
+  "timestamp": "2026-09-03T16:02:39.043299159Z",
+  "model": "glm-5.3"
+}

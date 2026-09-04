@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 16:32",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Mpe kohen oyo bamelia mafuta ⟨את⟩ yeye, mpe oyo akotonda ⟨את⟩ mokono na yeye mpo na kala kohen na esika ya tata na yeye, ye akosomba, mpe akokena ⟨את⟩ bilamba ya lin, bilamba ya mosantu.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "akosomba"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ימשח",
+      "gloss": "bamelia mafuta"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yeye"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "mpe oyo"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "akotonda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mokono na yeye"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "mokono na yeye"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "mpo na kala kohen"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "na esika ya"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "tata na yeye"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "mpe akokena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bilamba ya lin"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "bilamba ya"
+    },
+    {
+      "surface": "הבד",
+      "gloss": "lin"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "bilamba ya"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "mosantu"
+    }
+  ],
+  "timestamp": "2026-09-03T16:50:44.680262770Z",
+  "model": "glm-5.3"
+}

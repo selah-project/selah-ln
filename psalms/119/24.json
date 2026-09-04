@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 119:24",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Ata batembe na yo ⟨ezali⟩ esengo na ngai, bato ya likebi na ngai.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ata"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "batembe na yo"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "esengo na ngai"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "bato ya"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "likebi na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:31:18.246325566Z",
+  "model": "glm-5.3"
+}

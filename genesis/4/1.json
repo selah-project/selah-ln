@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 4:1",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe moto ayebaki Hava mwasi na ye, mpe amemaki mpe abotaki ⟨את⟩ Kayin, mpe alobaki: Nasombi moto ⟨na⟩ Yawe.",
+  "tokens": [
+    {
+      "surface": "והאדם",
+      "gloss": "Mpe moto"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ayebaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hava"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Hava"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mwasi na ye"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "amemaki"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "abotaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kayin"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "Nasombi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ na",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T15:45:52.833418417Z",
+  "model": "glm-5.3"
+}

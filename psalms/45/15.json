@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 45:15",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 45,
+  "translation": "Akomemama na bilamba ya misala ya maboko epai ya mokonzi; bankumbi na sima na yango, basanganisi na yango, bamemami epai ya yo.",
+  "tokens": [
+    {
+      "surface": "לרקמות",
+      "gloss": "na bilamba ya misala ya maboko"
+    },
+    {
+      "surface": "תובל",
+      "gloss": "akomemama"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "epai ya mokonzi"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "bankumbi"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "na sima na yango"
+    },
+    {
+      "surface": "רעותיה",
+      "gloss": "basanganisi na yango"
+    },
+    {
+      "surface": "מובאות",
+      "gloss": "bamemami"
+    },
+    {
+      "surface": "לך",
+      "gloss": "epai ya yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:12:12.077507958Z",
+  "model": "glm-5.3"
+}

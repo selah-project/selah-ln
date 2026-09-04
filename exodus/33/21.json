@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 33:21",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 33,
+  "translation": "Mpe Yawe alobaki: Talá, esika ezali ⟨את⟩ epai na ngai, mpe okotelema likolo ya libanga.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe Yawe alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Talá"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "esika ezali"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ epai na ngai"
+    },
+    {
+      "surface": "ונצבת",
+      "gloss": "mpe okotelema"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "libanga"
+    }
+  ],
+  "timestamp": "2026-09-03T16:32:28.117867857Z",
+  "model": "glm-5.3"
+}

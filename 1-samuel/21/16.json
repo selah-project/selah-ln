@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 21:16",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Kite ya bakoluku nazali na yango, ete bomemaki ⟨את⟩ oyo mpo na koluka epai ya ngai? Oyo akokota epai ya ndako na ngai?",
+  "tokens": [
+    {
+      "surface": "חסר",
+      "gloss": "kite ya"
+    },
+    {
+      "surface": "משגעים",
+      "gloss": "bakoluku"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "bomemaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oyo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "להשתגע",
+      "gloss": "mpo na koluka"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "epai ya ngai"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "akokota"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "ndako na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T18:20:43.461909345Z",
+  "model": "glm-5.3"
+}

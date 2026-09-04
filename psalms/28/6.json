@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 28:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 28,
+  "translation": "Yawe atondoami, mpo ayokaki domo ya maloba ya bolomba na ngai.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "atondoami"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ayokaki"
+    },
+    {
+      "surface": "קול",
+      "gloss": "domo"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "maloba ya bolomba na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:06:24.402343893Z",
+  "model": "glm-5.3"
+}

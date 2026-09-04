@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 124:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 124,
+  "translation": "Yawe atombwami, oyo abeyaki biso ⟨te⟩ lokolia na meno na bango.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "atombwami"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "שלא",
+      "gloss": "⟨te⟩"
+    },
+    {
+      "surface": "נתננו",
+      "gloss": "abeyaki biso"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "lokolia"
+    },
+    {
+      "surface": "לשניהם",
+      "gloss": "na meno na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:34:03.099917807Z",
+  "model": "glm-5.3"
+}

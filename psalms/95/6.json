@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 95:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 95,
+  "translation": "Boya, tokumbama mpe tobombama; tofanda na maboku liboso ya Yawe, mokeli na biso.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "Boya"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "tokumbama"
+    },
+    {
+      "surface": "ונכרעה",
+      "gloss": "mpe tobombama"
+    },
+    {
+      "surface": "נברכה",
+      "gloss": "tofanda na maboku"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "mokeli na biso"
+    }
+  ],
+  "timestamp": "2026-09-03T23:34:50.610929438Z",
+  "model": "glm-5.3"
+}

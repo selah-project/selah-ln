@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 33:3",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 33,
+  "translation": "Mpe ye moko alekaki liboso na bango, mpe akundolaki na mabele mbala sambo, kino akomaki pene ya ndeko na ye.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "ye moko"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "alekaki"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "liboso na bango"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "akundolaki"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sambo"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "mbala"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "גשתו",
+      "gloss": "akomaki pene"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ndeko na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T16:02:50.652737906Z",
+  "model": "glm-5.3"
+}

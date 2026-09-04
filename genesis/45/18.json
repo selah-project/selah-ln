@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 45:18",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 45,
+  "translation": "Mpe bozwa ⟨את⟩ tata na bino mpe ⟨את⟩ bandako na bino, mpe boyeya epai na ngai, mpe nakopesa na bino ⟨את⟩ bolamu bwa mabele ya Mitsraim, mpe bolia ⟨את⟩ mavuta bwa mabele.",
+  "tokens": [
+    {
+      "surface": "וקחו",
+      "gloss": "Mpe bozwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tata na bino"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "tata na bino"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bandako na bino"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "bandako na bino"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "mpe boyeya"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "epai na ngai"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "mpe nakopesa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "na bino"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bolamu"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bolamu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bwa mabele"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Mitsraim"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "mpe bolia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mavuta"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "mavuta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bwa mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T16:11:09.836014490Z",
+  "model": "glm-5.3"
+}

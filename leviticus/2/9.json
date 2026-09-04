@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 2:9",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe kohen akolimwa uta na mincha ⟨את⟩ likanisi na yango, mpe akofula yango na awteli, ofele, nimolulu malamu, epai ya Yawe.",
+  "tokens": [
+    {
+      "surface": "והרים",
+      "gloss": "mpe akolimwa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uta na"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "mincha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "likanisi na yango"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "likanisi na yango"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "mpe akofula"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "na awteli"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ofele"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "nimolulu"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "malamu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "epai ya Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T16:39:10.437464375Z",
+  "model": "glm-5.3"
+}

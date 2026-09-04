@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 21:11",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Mpe epai ya nyonso oyo bomoi na ye akufi, akokota te; mpo na tata na ye mpe mpo na mama na ye akosuwama te.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "Mpe epai ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "bomoi"
+    },
+    {
+      "surface": "מת",
+      "gloss": "akufi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "akokota"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "mpo na tata na ye"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "mpe mpo na mama na ye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "akosuwama"
+    }
+  ],
+  "timestamp": "2026-09-03T16:52:46.950265598Z",
+  "model": "glm-5.3"
+}

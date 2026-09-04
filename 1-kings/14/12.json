@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 14:12",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Mpe yo, damana, zela na ndako na yo; ntango makolo na yo kokota na mboka, mpe mwana akufi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe yo"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "damana"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "zela"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "na ndako na yo"
+    },
+    {
+      "surface": "בבאה",
+      "gloss": "ntango kokota"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "makolo na yo"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "na mboka"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "mpe akufi"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "mwana"
+    }
+  ],
+  "timestamp": "2026-09-03T18:52:13.385569479Z",
+  "model": "glm-5.3"
+}

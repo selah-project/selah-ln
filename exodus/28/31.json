@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 28:31",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 28,
+  "translation": "Mpe osali ⟨את⟩ robo ya efod na tekhelet mobimba (bongangi ya buluu).",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "mpe osali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "robo"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "robo"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "ya efod"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "mobimba"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tekhelet"
+    }
+  ],
+  "timestamp": "2026-09-03T16:31:38.160602919Z",
+  "model": "glm-5.3"
+}

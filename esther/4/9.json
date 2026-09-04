@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 4:9",
+  "book": "esther",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe Hataki ayeaki, mpe alobaki na Ester ⟨את⟩ maloba ya Mordekai.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "Mpe ayeaki"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Hataki"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "na Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maloba"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "maloba"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "ya Mordekai"
+    }
+  ],
+  "timestamp": "2026-09-03T22:16:23.945814218Z",
+  "model": "glm-5.3"
+}

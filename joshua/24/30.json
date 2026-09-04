@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 24:30",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "Mpe bakundaki ⟨את⟩ ye na ndelo ya bozwi na ye, na Timnat-Serah, oyo ezali na ngomba ya Efrayim, na nordi ya ngomba Gaash.",
+  "tokens": [
+    {
+      "surface": "ויקברו",
+      "gloss": "Mpe bakundaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ye (Yehoshua)"
+    },
+    {
+      "surface": "בגבול",
+      "gloss": "na ndelo"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "ya bozwi na ye"
+    },
+    {
+      "surface": "בתמנת",
+      "gloss": "na Timnat"
+    },
+    {
+      "surface": "סרח",
+      "gloss": "Serah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "na ngomba"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ya Efrayim"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "na nordi"
+    },
+    {
+      "surface": "להר",
+      "gloss": "ya ngomba"
+    },
+    {
+      "surface": "געש",
+      "gloss": "Gaash"
+    }
+  ],
+  "timestamp": "2026-09-03T17:55:49.830862820Z",
+  "model": "glm-5.3"
+}

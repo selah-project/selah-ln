@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 36:23",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 36,
+  "translation": "Mpe asalaki ⟨את⟩ bakaresi mpo na Misken: bakaresi ntuku mibale mpo na ngambo ya sudi, na sudi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "mpe asalaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bakaresi"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "bakaresi"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "mpo na Misken"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ntuku mibale"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "bakaresi"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "mpo na ngambo"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "sudi"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "sudi"
+    }
+  ],
+  "timestamp": "2026-09-03T16:36:24.773093301Z",
+  "model": "glm-5.3"
+}

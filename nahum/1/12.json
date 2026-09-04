@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nahum 1:12",
+  "book": "nahum",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Bongo Yawe alobi: Ata soki bakomate mpe bazingi bongo bakotoka mpe akokweya te; mpe nakomboki yo, nakomboki yo lisusu te.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "bongo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "alobi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ata soki"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "bakomate"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "mpe bongo"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "bazingi"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "bongo"
+    },
+    {
+      "surface": "נגזו",
+      "gloss": "bakotoka"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "mpe akokweya te"
+    },
+    {
+      "surface": "וענתך",
+      "gloss": "mpe nakomboki yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "אענך",
+      "gloss": "nakomboki yo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lisusu"
+    }
+  ],
+  "timestamp": "2026-09-03T20:49:27.161352307Z",
+  "model": "glm-5.3"
+}

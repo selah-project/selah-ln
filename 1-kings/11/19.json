@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 11:19",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpe Hadad amonaki ngolu mingi na miso ya Parao, mpe apesaki ye mwasi: ⟨את⟩ ndeko ya mwasi na ye, ndeko ya Tahpenes, mwasi ya nguya.",
+  "tokens": [
+    {
+      "surface": "וימצא",
+      "gloss": "mpe amonaki"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ngolu"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "na miso ya"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mingi"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "mpe apesaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mwasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndeko (ya mwasi na ye)"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "ndeko"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ya mwasi na ye"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "ndeko"
+    },
+    {
+      "surface": "תחפניס",
+      "gloss": "ya Tahpenes"
+    },
+    {
+      "surface": "הגבירה",
+      "gloss": "mwasi ya nguya"
+    }
+  ],
+  "timestamp": "2026-09-03T18:51:37.809606945Z",
+  "model": "glm-5.3"
+}

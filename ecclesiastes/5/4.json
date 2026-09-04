@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Malamu obalaka te, koleka obalaka mpe osilisa te.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Malamu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "obalaka"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "obalaka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "osilisa"
+    }
+  ],
+  "timestamp": "2026-09-03T22:13:55.510605880Z",
+  "model": "glm-5.3"
+}

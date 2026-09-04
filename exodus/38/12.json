@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 38:12",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 38,
+  "translation": "Mpe na côte ya wes, bilamba ntano na bama; bapiliye na bango zomi, mpe bandako na bango zomi; bakeke ya bapiliye mpe bikangisi na bango ezalaki ya fede.",
+  "tokens": [
+    {
+      "surface": "ולפאת",
+      "gloss": "mpe na côte ya"
+    },
+    {
+      "surface": "ים",
+      "gloss": "wes"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "bilamba"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ntano"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "na bama"
+    },
+    {
+      "surface": "עמודיהם",
+      "gloss": "bapiliye na bango"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "zomi"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "mpe bandako na bango"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "zomi"
+    },
+    {
+      "surface": "וקי",
+      "gloss": "bakeke"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "ya bapiliye"
+    },
+    {
+      "surface": "וחשוקים",
+      "gloss": "mpe bikangisi na bango"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ya fede"
+    }
+  ],
+  "timestamp": "2026-09-03T16:35:48.879730731Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "micah 6:6",
+  "book": "micah",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Na nini nakokuta na liboso ya Yawe, nakokunda na Elohim ya likolo? Nakomema epai na ye na bikelo bya moto, na bana ba ngombe ya mbula moko?",
+  "tokens": [
+    {
+      "surface": "במה",
+      "gloss": "na nini"
+    },
+    {
+      "surface": "אקדם",
+      "gloss": "nakokuta na liboso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אכף",
+      "gloss": "nakokunda"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "na Elohim"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "ya likolo"
+    },
+    {
+      "surface": "האקדמנו",
+      "gloss": "nakomema epai na ye"
+    },
+    {
+      "surface": "בעולות",
+      "gloss": "na bikelo bya moto"
+    },
+    {
+      "surface": "בעגלים",
+      "gloss": "na bana ba ngombe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ya"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mbula moko"
+    }
+  ],
+  "timestamp": "2026-09-03T20:51:36.281804883Z",
+  "model": "glm-5.3"
+}

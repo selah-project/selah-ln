@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 55:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 55,
+  "translation": "Motema na ngai ezali kozunga kati na ngai, mpe bobangi ya liwa ekweyi na ngai.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "Motema na ngai"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "ezali kozunga"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "kati na ngai"
+    },
+    {
+      "surface": "ואימות",
+      "gloss": "mpe bobangi"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ya liwa"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ekweyi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:13:28.451359367Z",
+  "model": "glm-5.3"
+}

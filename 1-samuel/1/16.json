@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 1:16",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Bokatani te ⟨את⟩ mosali na yo na liboso ya mwana mwasi ya mabe; elo mpo na bonene ya maloba na ngai mpe mungwa na ngai nde nalobaki kino wana.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "Bokatani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mosali na yo"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "mosali na yo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "na liboso ya"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana mwasi"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "ya mabe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "elo mpo na"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "bonene ya"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "maloba na ngai"
+    },
+    {
+      "surface": "וכעסי",
+      "gloss": "mpe mungwa na ngai"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "nde nalobaki"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "wana"
+    }
+  ],
+  "timestamp": "2026-09-03T18:08:54.636304928Z",
+  "model": "glm-5.3"
+}

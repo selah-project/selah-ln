@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 12:19",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Mpo na nini olobaki ete ndeko na ngai ya mwasi ⟨azali⟩, mpe najaki ⟨את⟩ ye ngai lokola mwasi? Sikoyo tala, mwasi na yo — zwa mpe zonga.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Mpo na nini"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "olobaki"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "ndeko na ngai ya mwasi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨azali⟩"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "mpe najaki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ye",
+      "marks": "ye — Sarai"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "lokola mwasi"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "sikoyo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tala"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "mwasi na yo"
+    },
+    {
+      "surface": "קח",
+      "gloss": "zwa"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "mpe zonga"
+    }
+  ],
+  "timestamp": "2026-09-03T15:49:50.266353499Z",
+  "model": "glm-5.3"
+}

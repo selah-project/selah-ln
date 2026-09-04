@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 2:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe sikoyo, ⟨ee⟩ bakonzi, bozala na mayele; bozwa mbandisi, ⟨ee⟩ baponi ya mabele.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "mpe sikoyo"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "bakonzi"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "bozala na mayele"
+    },
+    {
+      "surface": "הוסרו",
+      "gloss": "bozwa mbandisi"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "baponi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ya mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T20:59:47.375592867Z",
+  "model": "glm-5.3"
+}

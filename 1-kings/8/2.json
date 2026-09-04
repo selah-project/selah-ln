@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 8:2",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe moto nyonso ya Israel ayanaki na likita epai ya mokonzi Shelomo, na sanza ya Etanim, na fete — yango sanza ya sambo.",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "ayanaki na likita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "na sanza ya"
+    },
+    {
+      "surface": "האתנים",
+      "gloss": "Etanim"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "na fete"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yango"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "sanza"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ya sambo"
+    }
+  ],
+  "timestamp": "2026-09-03T18:48:02.465202612Z",
+  "model": "glm-5.3"
+}

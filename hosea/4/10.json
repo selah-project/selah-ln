@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 4:10",
+  "book": "hosea",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Bakolia kasi bakoswela te; basali boloto kasi bakobakana te; mpo baboyaki kokanga ⟨את⟩ Yawe.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "bakolia"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kasi te"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "bakoswela"
+    },
+    {
+      "surface": "הזנו",
+      "gloss": "basali boloto"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kasi te"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "bakobakana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "baboyaki"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "kokanga"
+    }
+  ],
+  "timestamp": "2026-09-03T23:32:09.032906823Z",
+  "model": "glm-5.3"
+}

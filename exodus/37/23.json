@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 37:23",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 37,
+  "translation": "Asalaki ⟨את⟩ bikangi na yango sambo, mpe bikangisi na yango, mpe bipateli na yango, na wolo ya pete.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "asalaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bikangi na yango sambo"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "bikangi na yango"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "sambo"
+    },
+    {
+      "surface": "ומלקחיה",
+      "gloss": "mpe bikangisi na yango"
+    },
+    {
+      "surface": "ומחתתיה",
+      "gloss": "mpe bipateli na yango"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "wolo"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ya pete"
+    }
+  ],
+  "timestamp": "2026-09-03T16:35:45.910057721Z",
+  "model": "glm-5.3"
+}

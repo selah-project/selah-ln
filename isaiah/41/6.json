@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 41:6",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 41,
+  "translation": "Moto moko ⟨את⟩ moninga na ye asalisaka, mpe na ndeko na ye alobaka: Koba makasi.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "moto moko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moninga na ye"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "moninga na ye"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "asalisaka"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "mpe na ndeko na ye"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "alobaka"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "Koba makasi"
+    }
+  ],
+  "timestamp": "2026-09-03T19:30:14.021978837Z",
+  "model": "glm-5.3"
+}

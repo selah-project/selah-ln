@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 8:10",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe okomema ⟨את⟩ balevi liboso ya Yawe, mpe bana ya Israel bakotya ⟨את⟩ maboko na bango na balevi.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "mpe okomema"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balevi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "balevi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "mpe bakotya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maboko na bango"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "maboko na bango"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "balevi"
+    }
+  ],
+  "timestamp": "2026-09-03T17:04:19.538971428Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 4:5",
+  "book": "hosea",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Okokweya na mokolo, mpe navi mpe akokweya na yo na butu, mpe nabebaki mama na yo.",
+  "tokens": [
+    {
+      "surface": "וכשלת",
+      "gloss": "okokweya"
+    },
+    {
+      "surface": "היום",
+      "gloss": "na mokolo"
+    },
+    {
+      "surface": "וכשל",
+      "gloss": "akokweya"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "navi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "na yo"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "na butu"
+    },
+    {
+      "surface": "ודמיתי",
+      "gloss": "mpe nabebaki"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "mama na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T20:37:55.967979556Z",
+  "model": "glm-5.3"
+}

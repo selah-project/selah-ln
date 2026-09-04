@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 96:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 96,
+  "translation": "Boyimba na Yawe nzembo ya sika; boyimba na Yawe, mabele mobimba.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Boyimba"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "na Yawe"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "nzembo"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ya sika"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "boyimba"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "na Yawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mobimba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T21:24:31.575785213Z",
+  "model": "glm-5.3"
+}

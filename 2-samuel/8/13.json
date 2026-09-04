@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 8:13",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe David asalaki nkombo na bongweli na ye na koboma ⟨את⟩ Aram na ebale ya mungwa — zomi na mwambe nkoto.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "asalaki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nkombo"
+    },
+    {
+      "surface": "בשבו",
+      "gloss": "na bongweli na ye"
+    },
+    {
+      "surface": "מהכותו",
+      "gloss": "na koboma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "na ebale"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "ya mungwa"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "zomi na mwambe"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    },
+    {
+      "surface": "אלף",
+      "gloss": "nkoto"
+    }
+  ],
+  "timestamp": "2026-09-03T18:30:31.887608240Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 2:16",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe ekalemaki, ntango bato ya etumba nyonso basilaki kufa uti na kati ya bato.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mpe ekalemaki"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ntango"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "basilaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "bato"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ya etumba"
+    },
+    {
+      "surface": "למות",
+      "gloss": "kufa"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "uti na kati"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ya bato"
+    }
+  ],
+  "timestamp": "2026-09-03T17:22:37.554387718Z",
+  "model": "glm-5.3"
+}

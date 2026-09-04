@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 8:1",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Nani akokani na moye na mayele, mpe nani ayebi ndimbola ya liloba? Mayele ya moto ememaka polele na elongo na yango, mpe nguya ya elongo na yango ekobongwana.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Nani"
+    },
+    {
+      "surface": "כהחכם",
+      "gloss": "akokani na moye na mayele"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "mpe nani"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ayebi"
+    },
+    {
+      "surface": "פשר",
+      "gloss": "ndimbola"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ya liloba"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "mayele"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ya moto"
+    },
+    {
+      "surface": "תאיר",
+      "gloss": "ememaka polele"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "na elongo na yango"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "mpe nguya"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ya elongo na yango"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "ekobongwana"
+    }
+  ],
+  "timestamp": "2026-09-03T22:14:57.832457798Z",
+  "model": "glm-5.3"
+}

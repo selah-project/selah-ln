@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 1:5",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe bankombo oya ya bato oyo bakotelema elongo na bino: mpo na Reuven, Elitsur mwana ya Shedejur.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Mpe bankombo oya"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "bankombo"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ya bato"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "bakotelema"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ elongo na bino",
+      "marks": "elongo na bino"
+    },
+    {
+      "surface": "לראובן",
+      "gloss": "mpo na Reuven"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "Elitsur"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "ya Shedejur"
+    }
+  ],
+  "timestamp": "2026-09-03T16:56:18.887449619Z",
+  "model": "glm-5.3"
+}

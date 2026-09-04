@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 104:23",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 104,
+  "translation": "Moto abimaki mpo na mosala na ye, mpe mpo na kosala na ye, kino mpokwa.",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "abimaki"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moto"
+    },
+    {
+      "surface": "לפעלו",
+      "gloss": "mpo na mosala na ye"
+    },
+    {
+      "surface": "ולעבדתו",
+      "gloss": "mpe mpo na kosala na ye"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "kino"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "mpokwa"
+    }
+  ],
+  "timestamp": "2026-09-03T21:26:15.685751882Z",
+  "model": "glm-5.3"
+}

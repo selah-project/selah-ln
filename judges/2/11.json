@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 2:11",
+  "book": "judges",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe bana ya Israel basalaki ⟨את⟩ mabe na miso ya Yawe, mpe basalelaki ⟨את⟩ Baalim.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "mpe basalaki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabe"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "na miso ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "mpe basalelaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baalim"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baalim"
+    }
+  ],
+  "timestamp": "2026-09-03T17:55:42.349493350Z",
+  "model": "glm-5.3"
+}

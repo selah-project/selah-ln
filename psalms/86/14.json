@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 86:14",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 86,
+  "translation": "Elohim, bato ya lokoto batimelaki likolo na ngai, mpe lisanga ya bato ya makasi balukaki molimo na ngai, mpe batyaki yo te liboso na bango.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "bato ya lokoto"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "batimelaki"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "likolo na ngai"
+    },
+    {
+      "surface": "ועדת",
+      "gloss": "mpe lisanga"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "ya bato ya makasi"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "balukaki"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "molimo na ngai"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe ... te"
+    },
+    {
+      "surface": "שמוך",
+      "gloss": "batyaki yo"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "liboso na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:22:09.417036334Z",
+  "model": "glm-5.3"
+}

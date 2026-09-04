@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 8:2",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe bibanga ya tehome esekamaki, mpe minzoto ya likolo esekamaki, mpe mbula esilaki kituka na likolo.",
+  "tokens": [
+    {
+      "surface": "ויסכרו",
+      "gloss": "esekamaki"
+    },
+    {
+      "surface": "מעינת",
+      "gloss": "bibanga ya"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "tehome"
+    },
+    {
+      "surface": "וארבת",
+      "gloss": "mpe minzoto"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "likolo"
+    },
+    {
+      "surface": "ויכלא",
+      "gloss": "esilaki"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "mbula"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kituka na"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "likolo"
+    }
+  ],
+  "timestamp": "2026-09-03T15:47:44.167776848Z",
+  "model": "glm-5.3"
+}

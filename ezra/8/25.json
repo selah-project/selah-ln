@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezra 8:25",
+  "book": "ezra",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe nakomeki na bango ⟨את⟩ feda mpe ⟨את⟩ ngola mpe ⟨את⟩ biloko, ofele ya ndako ya Elohim na biso, oyo mokonzi mpe banabweyi na ye mpe bakonzi na ye mpe Israel nyonso oyo bazalaki po batyaki.",
+  "tokens": [
+    {
+      "surface": "ואשקולה",
+      "gloss": "mpe nakomeki"
+    },
+    {
+      "surface": "להם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "feda"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "feda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "ngola"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ngola"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "biloko"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "biloko"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "ofele"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ya ndako"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim na biso"
+    },
+    {
+      "surface": "ההרימו",
+      "gloss": "oyo batyaki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "ויעציו",
+      "gloss": "mpe banabweyi na ye"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "mpe bakonzi na ye"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe nyonso"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "oyo bazalaki po"
+    }
+  ],
+  "timestamp": "2026-09-03T22:32:09.503782035Z",
+  "model": "glm-5.3"
+}

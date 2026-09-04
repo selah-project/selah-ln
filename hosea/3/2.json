@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 3:2",
+  "book": "hosea",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe nakomba yango na ngai na zomi na mitano ya fenta, mpe homer ya mbila, mpe leteh ya mbila.",
+  "tokens": [
+    {
+      "surface": "ואכרה",
+      "gloss": "nakomba"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "בחמשה",
+      "gloss": "na zomi na"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "mitano"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ya fenta"
+    },
+    {
+      "surface": "וחמר",
+      "gloss": "mpe homer"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "ya mbila"
+    },
+    {
+      "surface": "ולתך",
+      "gloss": "mpe leteh"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "ya mbila"
+    }
+  ],
+  "timestamp": "2026-09-03T20:38:14.980985004Z",
+  "model": "glm-5.3"
+}

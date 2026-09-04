@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 116:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 116,
+  "translation": "Nalingaki, mpo Yawe ayokaka ⟨את⟩ liloba na ngai, mabondeli na ngai.",
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "Nalingaki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ayokaka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "liloba na ngai"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "liloba na ngai"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "mabondeli na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:30:35.970298517Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 45:24",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 45,
+  "translation": "Mpe atindaki ⟨את⟩ bandeko na ye, mpe bakendaki; mpe alobaki na bango: bokota na mawa te na nzela.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "mpe atindaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bandeko na ye"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "bandeko na ye"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "mpe bakendaki"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תרגזו",
+      "gloss": "bokota na mawa"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "na nzela"
+    }
+  ],
+  "timestamp": "2026-09-03T16:10:17.261387080Z",
+  "model": "glm-5.3"
+}

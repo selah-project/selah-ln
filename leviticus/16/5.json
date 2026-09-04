@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 16:5",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Mpe uta ⟨את⟩ esanga ya bana ya Israel akaki mbete mibale ya bbe mpo na masumu, mpe tolo moko mpo na ntalo.",
+  "tokens": [
+    {
+      "surface": "ומאת",
+      "gloss": "mpe uta ⟨את⟩",
+      "marks": "esanga ya bana ya Israel"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "esanga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "akaki"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "שעירי",
+      "gloss": "mbete"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "bbe"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "mpo na masumu"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "mpe tolo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "moko"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "mpo na ntalo"
+    }
+  ],
+  "timestamp": "2026-09-03T16:49:43.263774583Z",
+  "model": "glm-5.3"
+}

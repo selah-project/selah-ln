@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 42:11",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 42,
+  "translation": "Mapopa mpe mboka na yango batasetola mongongo, bandako oyo Kedar afandi na yango; bafandi ya Sela bayimbaka, uta na moke ya bangomba bakanga mongongo.",
+  "tokens": [
+    {
+      "surface": "ישאו",
+      "gloss": "batetola"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "Mapopa"
+    },
+    {
+      "surface": "ועריו",
+      "gloss": "mpe mboka na yango"
+    },
+    {
+      "surface": "חצרים",
+      "gloss": "bandako"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "afandi"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "Kedar"
+    },
+    {
+      "surface": "ירנו",
+      "gloss": "bayimbaka"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "bafandi"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "Sela"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "uta na moke"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ya bangomba"
+    },
+    {
+      "surface": "יצוחו",
+      "gloss": "bakanga mongongo"
+    }
+  ],
+  "timestamp": "2026-09-03T19:29:33.874723525Z",
+  "model": "glm-5.3"
+}

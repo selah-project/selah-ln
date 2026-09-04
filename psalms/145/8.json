@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 145:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 145,
+  "translation": "Yawe atonda ngolu mpe mawa, malembe na likeo, mpe monene na hesed (bolamu ya kokangama te).",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "atonda ngolu"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "mpe mawa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "malembe"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "na likeo"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "mpe monene na"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    }
+  ],
+  "timestamp": "2026-09-03T21:36:25.394937062Z",
+  "model": "glm-5.3"
+}

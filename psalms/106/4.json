@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 106:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 106,
+  "translation": "Kanisa ngai, Yawe, na boboto na yo oyo ozali na bato na yo, tala ngai na bokengeli na yo.",
+  "tokens": [
+    {
+      "surface": "זכרני",
+      "gloss": "Kanisa ngai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ברצון",
+      "gloss": "na boboto"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bato na yo"
+    },
+    {
+      "surface": "פקדני",
+      "gloss": "tala ngai"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "na bokengeli na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:28:03.445870755Z",
+  "model": "glm-5.3"
+}

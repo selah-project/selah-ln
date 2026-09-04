@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 22:16",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Soki tata na ye aboyaki nde aboya kopea ye epai na ye, akomeka mbongo, ndenge mbongo ya libala ya batokolo ezali.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Soki"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "aboyaki nde"
+    },
+    {
+      "surface": "ימאן",
+      "gloss": "aboya"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "tata na ye"
+    },
+    {
+      "surface": "לתתה",
+      "gloss": "kopea ye"
+    },
+    {
+      "surface": "לו",
+      "gloss": "epai na ye"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "mbongo"
+    },
+    {
+      "surface": "ישקל",
+      "gloss": "akomeka"
+    },
+    {
+      "surface": "כמהר",
+      "gloss": "ndenge mbongo ya libala"
+    },
+    {
+      "surface": "הבתולת",
+      "gloss": "ya batokolo"
+    }
+  ],
+  "timestamp": "2026-09-03T16:25:32.141188801Z",
+  "model": "glm-5.3"
+}

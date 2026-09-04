@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 21:17",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Mpe uta na libota ya Binyamin ⟨את⟩ Givon na etando na yango, mpe ⟨את⟩ Geva na etando na yango.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "Mpe uta na libota"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "ya Binyamin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Givon"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Givon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "etando na yango"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "na etando na yango"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Geva"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Geva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "etando na yango"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "na etando na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T17:53:11.065925943Z",
+  "model": "glm-5.3"
+}

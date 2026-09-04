@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 91:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 91,
+  "translation": "Mpo yo, Yawe, ozali esika ya bombami na ngai; Elyon wayaki lokola esika ya bobaki na yo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "esika ya bombami na ngai"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "wayaki"
+    },
+    {
+      "surface": "מעונך",
+      "gloss": "esika ya bobaki na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:23:59.481286776Z",
+  "model": "glm-5.3"
+}

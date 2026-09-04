@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 10:16",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Parao atombaki noki kobenga Moshe mpe Aharon, mpe alobaki: Nasali masumu epai ya Yawe Elohim na bino, mpe epai na bino.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "atombaki noki"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "kobenga"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "mpe Aharon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "nasali masumu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "epai ya Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim na bino"
+    },
+    {
+      "surface": "ולכם",
+      "gloss": "mpe epai na bino"
+    }
+  ],
+  "timestamp": "2026-09-03T16:18:12.290007800Z",
+  "model": "glm-5.3"
+}

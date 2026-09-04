@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 11:6",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpe David atindaki epai ya Yowab: Tinda epai ngai ⟨את⟩ Uriya Muhiti; mpe Yowab atindaki ⟨את⟩ Uriya epai ya David.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Mpe ... atindaki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yowab"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Tinda"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "epai ngai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriya"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Muhiti"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "mpe ... atindaki"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yowab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriya"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-09-03T18:32:45.698647477Z",
+  "model": "glm-5.3"
+}

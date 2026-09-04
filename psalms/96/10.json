@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 96:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 96,
+  "translation": "Boloba na kati ya bikolo: Yawe akonji; ata mokili etandamaki, te eketeki; akozuela bato na bosolo.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Boloba"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "na kati ya bikolo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "akonji"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ata"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "etandamaki"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "mokili"
+    },
+    {
+      "surface": "בל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "eketeki"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "akozuela"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "bato"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "na bosolo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:24:21.518833874Z",
+  "model": "glm-5.3"
+}

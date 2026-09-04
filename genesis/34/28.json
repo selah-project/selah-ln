@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 34:28",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 34,
+  "translation": "⟨את⟩ bibi na bango mpe ⟨את⟩ ngombe na bango mpe ⟨את⟩ bangondo na bango, mpe ⟨את⟩ oyo ezalaki na mboka mpe ⟨את⟩ oyo ezalaki na shanga, bazwaki.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bibi na bango"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "bibi na bango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "ngombe na bango"
+    },
+    {
+      "surface": "בקרם",
+      "gloss": "ngombe na bango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bangondo na bango"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "bangondo na bango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "oyo ezalaki na mboka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "na mboka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "oyo ezalaki na shanga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "na shanga"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "bazwaki"
+    }
+  ],
+  "timestamp": "2026-09-03T16:03:38.100021101Z",
+  "model": "glm-5.3"
+}

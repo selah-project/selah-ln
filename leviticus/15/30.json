@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 15:30",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 15,
+  "translation": "Mpe kohen asali ⟨את⟩ moko mbeka ya masumu, mpe ⟨את⟩ moko mbeka ya nuta; mpe kohen abongisi ye liboso ya Yawe, mpo na mpota ya botungi na ye.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "Mpe asali"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moko"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "moko"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "mbeka ya masumu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "moko"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "moko"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "mbeka ya nuta"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "mpe abongisi"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ye"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מזוב",
+      "gloss": "mpota"
+    },
+    {
+      "surface": "טמאתה",
+      "gloss": "botungi na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T16:49:57.985281847Z",
+  "model": "glm-5.3"
+}

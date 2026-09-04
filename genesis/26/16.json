@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 26:16",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "Mpe Abimelekh alobaki epai ya Yitshak: Kende mosika na biso, mpo ozali makasi koleka biso mingi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimelekh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Kende"
+    },
+    {
+      "surface": "מעמנו",
+      "gloss": "mosika na biso"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "עצמת",
+      "gloss": "ozali makasi"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "koleka biso"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mingi"
+    }
+  ],
+  "timestamp": "2026-09-03T15:57:49.750653897Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 9:10",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Mpe ekalaki na suka ya mbula ntuku mibale oyo Shelomo atongaki ⟨את⟩ bandako mibale, ⟨את⟩ ndako ya Yawe mpe ⟨את⟩ ndako ya mokonzi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mpe ekalaki"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "na suka ya"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ntuku mibale"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mbula"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "atongaki"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bandako mibale"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "bandako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndako ya Yawe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "ndako ya mokonzi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya mokonzi"
+    }
+  ],
+  "timestamp": "2026-09-03T18:47:55.339901463Z",
+  "model": "glm-5.3"
+}

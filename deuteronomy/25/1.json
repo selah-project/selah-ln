@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 25:1",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Soki kosuana ezali kati ya bato, mpe bayaki epai ya bosambisi, mpe basambisaki bango; mpe bakoloba ete ⟨את⟩ moyengebene azali moyengebene, mpe bakoloba ete ⟨את⟩ mokosi azali mokosi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Soki"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ezali"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "kosuana"
+    },
+    {
+      "surface": "בין",
+      "gloss": "kati"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "ya bato"
+    },
+    {
+      "surface": "ונגשו",
+      "gloss": "mpe bayaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "ya bosambisi"
+    },
+    {
+      "surface": "ושפטום",
+      "gloss": "mpe basambisaki bango"
+    },
+    {
+      "surface": "והצדיקו",
+      "gloss": "mpe bakoloba ete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moyengebene"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "moyengebene azali moyengebene"
+    },
+    {
+      "surface": "והרשיעו",
+      "gloss": "mpe bakoloba ete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mokosi"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "mokosi azali mokosi"
+    }
+  ],
+  "timestamp": "2026-09-03T17:35:34.974948622Z",
+  "model": "glm-5.3"
+}

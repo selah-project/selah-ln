@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 2:1",
+  "book": "esther",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Na nsima ya makambo oyo, ntango sansi ya mokonzi Ahashuerosh ekitikaki, akanaki ⟨את⟩ Vashati, mpe oyo asalaki, mpe oyo bakangaki likolo na ye.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "Na nsima"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ya makambo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "כשך",
+      "gloss": "ekitikaki"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "sansi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya mokonzi"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahashuerosh"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "akanaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Vashati"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Vashati"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "oyo asalaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "asalaki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "oyo bakangaki likolo na ye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "bakangaki"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "likolo na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T22:17:41.697834407Z",
+  "model": "glm-5.3"
+}

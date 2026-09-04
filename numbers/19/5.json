@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 19:5",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Mpe akotela ⟨את⟩ paba na miso na ye; ⟨את⟩ lipundi na yango, mpe ⟨את⟩ biboyi na yango, mpe ⟨את⟩ makila na yango, na fini na yango, akotelaka ⟨yango⟩.",
+  "tokens": [
+    {
+      "surface": "ושרף",
+      "gloss": "mpe akotela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paba"
+    },
+    {
+      "surface": "הפרה",
+      "gloss": "paba"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "na miso na ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lipundi na yango"
+    },
+    {
+      "surface": "ערה",
+      "gloss": "lipundi na yango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "biboyi na yango"
+    },
+    {
+      "surface": "בשרה",
+      "gloss": "biboyi na yango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "makila na yango"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "makila na yango"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "פרשה",
+      "gloss": "fini na yango"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "akotelaka ⟨yango⟩"
+    }
+  ],
+  "timestamp": "2026-09-03T17:12:01.767932736Z",
+  "model": "glm-5.3"
+}

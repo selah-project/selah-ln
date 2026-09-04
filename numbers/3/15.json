@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 3:15",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Palanganisa ⟨את⟩ bana ya Levi na ndako ya batata na bango, na balibota na bango; mobali nyonso kowuta na mwana ya sanza mpe likolo opalanganisaka bango.",
+  "tokens": [
+    {
+      "surface": "פקד",
+      "gloss": "Palanganisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bana ya Levi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "na ndako"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "ya batata na bango"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "na balibota na bango"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mobali"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "kowuta na mwana"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ya sanza"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "mpe likolo"
+    },
+    {
+      "surface": "תפקדם",
+      "gloss": "opalanganisaka bango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:59:48.288342108Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 1:4",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe Elohim amonaki ⟨את⟩ mongongo, ete ezali malamu, mpe Elohim akabolaki kati na mongongo mpe kati na molili.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Mpe Elohim amonaki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mongongo"
+    },
+    {
+      "surface": "האור",
+      "gloss": "mongongo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ezali malamu"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "mpe Elohim akabolaki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בין",
+      "gloss": "kati na"
+    },
+    {
+      "surface": "האור",
+      "gloss": "mongongo"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "mpe kati na"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "molili"
+    }
+  ],
+  "timestamp": "2026-09-03T15:43:36.742108972Z",
+  "model": "glm-5.3"
+}

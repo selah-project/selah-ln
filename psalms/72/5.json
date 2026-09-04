@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 72:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 72,
+  "translation": "Bakobanga ⟨yo⟩ elongo na moyi, mpe liboso ya sanza, libota na mibota.",
+  "tokens": [
+    {
+      "surface": "ייראוך",
+      "gloss": "Bakobanga ⟨yo⟩"
+    },
+    {
+      "surface": "עם",
+      "gloss": "elongo na"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "moyi"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "mpe liboso ya"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "sanza"
+    },
+    {
+      "surface": "דור",
+      "gloss": "libota"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "mibota"
+    }
+  ],
+  "timestamp": "2026-09-03T21:17:56.856432233Z",
+  "model": "glm-5.3"
+}

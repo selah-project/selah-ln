@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 37:16",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 37,
+  "translation": "Mpe alobaki: ⟨את⟩ bandeko na ngai nazali koluka; bandisa ngai nimi, ezali wapi bango balalisaka bibiye?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bandeko na ngai"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "bandeko na ngai"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "nazali koluka"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "bandisa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nimi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "ezali wapi"
+    },
+    {
+      "surface": "הם",
+      "gloss": "bango"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "balalisaka bibiye"
+    }
+  ],
+  "timestamp": "2026-09-03T16:04:37.636839966Z",
+  "model": "glm-5.3"
+}

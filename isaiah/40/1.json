@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 40:1",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 40,
+  "translation": "Ndimbole, ndimbole ekolo na ngai, Elohim na bino alobi.",
+  "tokens": [
+    {
+      "surface": "נחמו",
+      "gloss": "Ndimbole"
+    },
+    {
+      "surface": "נחמו",
+      "gloss": "ndimbole"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ekolo na ngai"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "alobi"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim na bino"
+    }
+  ],
+  "timestamp": "2026-09-03T19:30:48.172317043Z",
+  "model": "glm-5.3"
+}

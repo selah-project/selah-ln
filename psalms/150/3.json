@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 150:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 150,
+  "translation": "Bokumisa ye na naoku ya shofar, bokumisa ye na nevel mpe kinor.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Bokumisa ye"
+    },
+    {
+      "surface": "בתקע",
+      "gloss": "na naoku"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "ya shofar"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "bokumisa ye"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "na nevel"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "mpe kinor"
+    }
+  ],
+  "timestamp": "2026-09-03T21:35:53.877421553Z",
+  "model": "glm-5.3"
+}

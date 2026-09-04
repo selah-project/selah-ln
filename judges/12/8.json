@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 12:8",
+  "book": "judges",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Mpe sima na yandi Ibtsana ya Betlehema asembaki ⟨את⟩ Israel.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "asembaki"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "sima na yandi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "Ibtsana"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ya"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Betlehema"
+    }
+  ],
+  "timestamp": "2026-09-03T18:03:08.032706627Z",
+  "model": "glm-5.3"
+}

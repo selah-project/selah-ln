@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 11:13",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Kaka ⟨את⟩ bokonzi yonso nakokaka te; libota moko nakopesa na mwana na yo, mpo na David mosali na ngai, mpe mpo na Yerushalaim oyo nalaki.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Kaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bokonzi yonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonso"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "bokonzi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "אקרע",
+      "gloss": "nakokaka"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "libota"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "moko"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "nakopesa"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "na mwana na yo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "mpo na"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mosali na ngai"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "mpe mpo na"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "nalaki"
+    }
+  ],
+  "timestamp": "2026-09-03T18:50:27.370746609Z",
+  "model": "glm-5.3"
+}

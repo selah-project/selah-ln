@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 8:10",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe alindaki naino miku sambo ya misusu, mpe abakisaki kotinda ⟨את⟩ ndundu uta na teba.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "mpe alindaki"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "naino"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sambo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "miku"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ya misusu"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "mpe abakisaki"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "kotinda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndundu"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "ndundu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uta na"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "teba"
+    }
+  ],
+  "timestamp": "2026-09-03T15:46:59.886267567Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 2:19",
+  "book": "hosea",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe nakolongola ⟨את⟩ bankombo ya Baalim na monoko na ye, mpe bakokanisa lisusu te na nkombo na bango.",
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "Mpe nakolongola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bankombo ya Baalim"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "bankombo"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "ya Baalim"
+    },
+    {
+      "surface": "מפיה",
+      "gloss": "na monoko na ye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe ... te"
+    },
+    {
+      "surface": "יזזכרו",
+      "gloss": "bakokanisa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lisusu"
+    },
+    {
+      "surface": "בשמם",
+      "gloss": "na nkombo na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T20:38:34.503524608Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 39:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 39,
+  "translation": "Motema na ngai ezalaki moto na kati na ngai; na ntango nazalaki koloba na motuya, moto ezwaki nguya; mpe nalobaki na monoko na ngai.",
+  "tokens": [
+    {
+      "surface": "חם",
+      "gloss": "ezalaki moto"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "Motema na ngai"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "na kati na ngai"
+    },
+    {
+      "surface": "בהגיגי",
+      "gloss": "na ntango nazalaki koloba na motuya"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "ezwaki nguya"
+    },
+    {
+      "surface": "אש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "nalobaki"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "na monoko na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:10:07.988350144Z",
+  "model": "glm-5.3"
+}

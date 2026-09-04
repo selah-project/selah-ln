@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 25:11",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Mpe nakokamata ⟨את⟩ mokele na ngai mpe ⟨את⟩ mai na ngai mpe ⟨את⟩ nyama na ngai oyo nakolaki mpo na bacoboli ba ngai, mpe nakopesa na bato oyo nayebi te — wapi bango uta?",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "mpe nakokamata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mokele na ngai"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "mokele na ngai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mai na ngai"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "mai na ngai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "nyama na ngai"
+    },
+    {
+      "surface": "טבחתי",
+      "gloss": "nyama na ngai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "טבחתי",
+      "gloss": "nakolaki"
+    },
+    {
+      "surface": "לגזזי",
+      "gloss": "mpo na bacoboli ba ngai"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "mpe nakopesa"
+    },
+    {
+      "surface": "לאנשים",
+      "gloss": "na bato"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "nayebi"
+    },
+    {
+      "surface": "אי",
+      "gloss": "wapi"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "uta"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bango"
+    }
+  ],
+  "timestamp": "2026-09-03T18:21:40.963478959Z",
+  "model": "glm-5.3"
+}

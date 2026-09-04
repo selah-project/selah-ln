@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 21:2",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Botuna, to, mpo na biso ⟨את⟩ Yawe, mpamba te Nevukadnetstsar mokonzi ya Baveli azali kobunda likolo ya biso; yaka kanisa Yawe akosala biso ndenge na mawele na ye nyonso, mpe akokima na biso.",
+  "tokens": [
+    {
+      "surface": "דרש",
+      "gloss": "Botuna"
+    },
+    {
+      "surface": "נא",
+      "gloss": "to"
+    },
+    {
+      "surface": "בעדנו",
+      "gloss": "mpo na biso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpamba te"
+    },
+    {
+      "surface": "נבוכדראצר",
+      "gloss": "Nevukadnetstsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ya Baveli"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "azali kobunda"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "likolo ya biso"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "yaka kanisa"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "akosala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אותנו",
+      "gloss": "⟨את⟩ biso",
+      "marks": "⟨את⟩ biso"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ndenge na … nyonso"
+    },
+    {
+      "surface": "נפלאתיו",
+      "gloss": "mawele na ye"
+    },
+    {
+      "surface": "ויעלה",
+      "gloss": "mpe akokima"
+    },
+    {
+      "surface": "מעלינו",
+      "gloss": "na biso"
+    }
+  ],
+  "timestamp": "2026-09-03T19:52:15.218317132Z",
+  "model": "glm-5.3"
+}

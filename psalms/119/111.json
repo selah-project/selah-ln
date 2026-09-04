@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 111,
+  "ref": "psalms 119:111",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Matemo na yo nalisaki lokola bosekwa kino ntango nyonso, mpo kosekwa ya motema na ngai nde yango.",
+  "tokens": [
+    {
+      "surface": "נחלתי",
+      "gloss": "nalisaki"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "Matemo na yo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kino ntango nyonso"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "kosekwa"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "motema na ngai"
+    },
+    {
+      "surface": "המה",
+      "gloss": "nde yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:32:10.489955675Z",
+  "model": "glm-5.3"
+}

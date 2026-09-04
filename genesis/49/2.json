@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 49:2",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 49,
+  "translation": "Bokanganá, mpe bowei, bana ya Yaakov, mpe bowei epai ya Israel tata na bino.",
+  "tokens": [
+    {
+      "surface": "הקבצו",
+      "gloss": "Bokanganá"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "mpe bowei"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "mpe bowei"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "tata na bino"
+    }
+  ],
+  "timestamp": "2026-09-03T23:13:01.071543807Z",
+  "model": "glm-5.3"
+}

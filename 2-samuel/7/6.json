@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 7:6",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mpo ete nafandaki na ndako te, uta mokolo nakolaki ⟨את⟩ bana ya Israel uta Mitsraim tee na mokolo oyo, mpe nazalaki kotambola na tente mpe na tabernakelo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo ete"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "nafandaki"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "na ndako"
+    },
+    {
+      "surface": "למיום",
+      "gloss": "uta mokolo"
+    },
+    {
+      "surface": "העלתי",
+      "gloss": "nakolaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bana ya Israel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "uta Mitsraim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "mpe tee na"
+    },
+    {
+      "surface": "היום",
+      "gloss": "mokolo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "mpe nazalaki"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "kotambola"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "na tente"
+    },
+    {
+      "surface": "ובמשכן",
+      "gloss": "mpe na tabernakelo"
+    }
+  ],
+  "timestamp": "2026-09-03T18:31:30.846294114Z",
+  "model": "glm-5.3"
+}

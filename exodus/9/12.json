@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 9:12",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Yawe amatisaki makasi ⟨את⟩ motema ya Parao, mpe ayokelaki bango te, ndenge Yawe alobaki na Moshe.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "amatisaki makasi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motema"
+    },
+    {
+      "surface": "לב",
+      "gloss": "motema"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ayokelaki"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "bango"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ndenge"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-03T16:17:23.032913622Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 24:12",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "ya zomi na moko epai ya Elyashib, ya zomi na mibale epai ya Yakim.",
+  "tokens": [
+    {
+      "surface": "לאלישיב",
+      "gloss": "epai ya Elyashib"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "ya zomi na moko"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨zomi⟩"
+    },
+    {
+      "surface": "ליקים",
+      "gloss": "epai ya Yakim"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "zomi"
+    }
+  ],
+  "timestamp": "2026-09-03T22:49:45.084871240Z",
+  "model": "glm-5.3"
+}

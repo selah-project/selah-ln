@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 16:28",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Mpe Omri alalaki na batata na ye, mpe bakundaki ye na Shomron; mpe Ahav mwana na ye akomaki mokonzi na esika na ye.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "alalaki"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "batata na ye"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "mpe bakundaki ye"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "na Shomron"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "akomaki mokonzi"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahav"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana na ye"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "na esika na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T18:52:50.790425641Z",
+  "model": "glm-5.3"
+}

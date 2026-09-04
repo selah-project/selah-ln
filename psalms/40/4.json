@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 40:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 40,
+  "translation": "Mpe atyaki na monoko na ngai nzembo ya sika, lokumu epai ya Elohim na biso; bato ebele bakomona, mpe bakokobanga, mpe bakokotama na Yawe.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Mpe atyaki"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "na monoko na ngai"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "nzembo"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ya sika"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "lokomu"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "epai ya Elohim na biso"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "bakomona"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "bato ebele"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "mpe bakokobanga"
+    },
+    {
+      "surface": "ויבטחו",
+      "gloss": "mpe bakokotama"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "na Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T21:10:18.939408175Z",
+  "model": "glm-5.3"
+}

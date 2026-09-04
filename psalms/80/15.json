@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 80:15",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 80,
+  "translation": "Elohim Tsebaot, zonga na biso talo, tala uta likolo mpe mona, mpe luka nzete oyo!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "zonga"
+    },
+    {
+      "surface": "נא",
+      "gloss": "na biso talo"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "tala"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "uta likolo"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "mpe mona"
+    },
+    {
+      "surface": "ופקד",
+      "gloss": "mpe luka"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "nzete"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "oyo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:21:11.181216334Z",
+  "model": "glm-5.3"
+}

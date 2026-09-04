@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 139:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 139,
+  "translation": "Nakokende wapi uta na mopema na yo? Mpe nakofuka wapi liboso ya elongi na yo?",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "wapi"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "nakokende"
+    },
+    {
+      "surface": "מרוחך",
+      "gloss": "uta na mopema na yo"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "mpe wapi"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "liboso ya elongi na yo"
+    },
+    {
+      "surface": "אברח",
+      "gloss": "nakofuka"
+    }
+  ],
+  "timestamp": "2026-09-03T21:34:50.516983727Z",
+  "model": "glm-5.3"
+}

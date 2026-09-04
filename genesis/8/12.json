@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 8:12",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe alindaki naino miku sambo ya misusu, mpe atindaki ⟨את⟩ ndundu, mpe ebakisaki kozonga epai na ye naino te.",
+  "tokens": [
+    {
+      "surface": "וייחל",
+      "gloss": "mpe alindaki"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "naino"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sambo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "miku"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ya misusu"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "mpe atindaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndundu"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "ndundu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "יספה",
+      "gloss": "ebakisaki"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "kozonga"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "epai na ye"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "naino"
+    }
+  ],
+  "timestamp": "2026-09-03T15:46:59.886567978Z",
+  "model": "glm-5.3"
+}

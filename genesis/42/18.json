@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 42:18",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 42,
+  "translation": "Mpe Yosefe alobaki epai na bango na mokolo ya misato, ete: Bolai oyo mpe bokokana; ⟨את⟩ Elohim ngai nazali kobanga.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "epai na bango"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na mokolo"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ya misato"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "bolai"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "mpe bokokana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "nazali kobanga"
+    }
+  ],
+  "timestamp": "2026-09-03T16:09:13.559319172Z",
+  "model": "glm-5.3"
+}

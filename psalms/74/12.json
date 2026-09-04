@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 74:12",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 74,
+  "translation": "Mpe Elohim, mokonzi na ngai, asalaki bokolongono na kati ya mabele uta na tango ya kala.",
+  "tokens": [
+    {
+      "surface": "ואלהים",
+      "gloss": "mpe Elohim"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mokonzi na ngai"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "uta na tango ya kala"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "asalaki"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "bokolongono"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "na kati"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ya mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T21:18:46.100350943Z",
+  "model": "glm-5.3"
+}

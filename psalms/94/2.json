@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 94:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 94,
+  "translation": "Yenga likolo, mokonzi wa mabele; zonga pesa lifutu epai ya bato ya kikuku.",
+  "tokens": [
+    {
+      "surface": "הנשא",
+      "gloss": "Yenga likolo"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "wa mabele"
+    },
+    {
+      "surface": "השב",
+      "gloss": "zonga pesa"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "lifutu"
+    },
+    {
+      "surface": "על",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "bato ya kikuku"
+    }
+  ],
+  "timestamp": "2026-09-03T21:25:01.066168560Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 47:5",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 47,
+  "translation": "Mpe Parao alobaki na Yosef alobi: tata yo mpe bandeko yo bailaki epai yo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "alobi"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tata yo"
+    },
+    {
+      "surface": "ואחיך",
+      "gloss": "mpe bandeko yo"
+    },
+    {
+      "surface": "באו",
+      "gloss": "bailaki"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "epai yo"
+    }
+  ],
+  "timestamp": "2026-09-03T16:11:18.296911945Z",
+  "model": "glm-5.3"
+}

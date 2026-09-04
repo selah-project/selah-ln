@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 8:4",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Moshe salaki ndenge Yawe atindaki ⟨את⟩ yango; mpe lisanga esangisamaki na mbenge ya dampara ya bokutani.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "salaki"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ndenge"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "atindaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yango",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "ותקהל",
+      "gloss": "esangisamaki"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "lisanga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "mbenge"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "dampara"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya bokutani"
+    }
+  ],
+  "timestamp": "2026-09-03T16:42:53.524631885Z",
+  "model": "glm-5.3"
+}

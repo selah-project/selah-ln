@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 5:12",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Mpe bato nyonso oyo basanganaka na yo bakese; bakumaka libela nyonso, mpe ⟨yo⟩ ozipa bango; mpe baye bolingaka nkombo na yo bamonaka esengo na yo.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "Mpe ... bakese"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bato nyonso"
+    },
+    {
+      "surface": "חוסי",
+      "gloss": "oyo basanganaka"
+    },
+    {
+      "surface": "בך",
+      "gloss": "na yo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "libela nyonso"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "bakumaka"
+    },
+    {
+      "surface": "ותסך",
+      "gloss": "Mpe ozipa"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "bango"
+    },
+    {
+      "surface": "ויעלצו",
+      "gloss": "Mpe bamonaka esengo"
+    },
+    {
+      "surface": "בך",
+      "gloss": "na yo"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "baye bolingaka"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nkombo na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T20:59:33.105182448Z",
+  "model": "glm-5.3"
+}

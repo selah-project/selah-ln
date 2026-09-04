@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 3:5",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe bato bakangamaka moto na moto, mpe moto na monzoi na ye; motoko akweyaka na bogangi na nkulutu, mpe oyo moke na oyo ya lokumu.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "mpe bakangamaka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "na moto"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "mpe moto"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "na monzoi na ye"
+    },
+    {
+      "surface": "ירהבו",
+      "gloss": "akweyaka na bogangi"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "motoko"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "na nkulutu"
+    },
+    {
+      "surface": "והנקלה",
+      "gloss": "mpe oyo moke"
+    },
+    {
+      "surface": "בנכבד",
+      "gloss": "na oyo ya lokumu"
+    }
+  ],
+  "timestamp": "2026-09-03T19:13:31.813145298Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 136:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 136,
+  "translation": "Epai ya Oyo asali ⟨makambo⟩ ya kokamwisa minene yango yoko, mpo ete na seko hesed na ye.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "Epai ya Oyo asali"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "ya kokamwisa"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "minene"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "yango yoko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na seko"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:34:30.119390407Z",
+  "model": "glm-5.3"
+}

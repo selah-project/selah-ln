@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 21:17",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Mpe akutola tata na ye to mama na ye, liwa, akufisama na penepene.",
+  "tokens": [
+    {
+      "surface": "ומקלל",
+      "gloss": "Mpe akutola"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "tata na ye"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "to mama na ye"
+    },
+    {
+      "surface": "מות",
+      "gloss": "liwa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "akufisama na penepene"
+    }
+  ],
+  "timestamp": "2026-09-03T16:26:37.218604237Z",
+  "model": "glm-5.3"
+}

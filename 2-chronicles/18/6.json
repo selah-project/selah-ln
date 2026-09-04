@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 18:6",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Mpe Yehoshafat alobaki: Boye mopakoli mosusu ya Yawe azali te awa, mpe totuna ⟨את⟩ na yango?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "האין",
+      "gloss": "boye … azali te"
+    },
+    {
+      "surface": "פה",
+      "gloss": "awa"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "mopakoli"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ya Yawe"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mosusu"
+    },
+    {
+      "surface": "וונדרשה",
+      "gloss": "mpe totuna"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩",
+      "marks": "na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T23:01:19.198231259Z",
+  "model": "glm-5.3"
+}

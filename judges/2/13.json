@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 2:13",
+  "book": "judges",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe batikaki ⟨את⟩ Yawe, mpe basambelaki Baal mpe Ashtarot.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "mpe batikaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "mpe basambelaki"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "Baal"
+    },
+    {
+      "surface": "ולעשתרות",
+      "gloss": "mpe Ashtarot"
+    }
+  ],
+  "timestamp": "2026-09-03T17:55:07.359109988Z",
+  "model": "glm-5.3"
+}

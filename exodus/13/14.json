@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 13:14",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Mpe ekokoma, ntango mwana na yo akotuna yo lobi, na koloba: Oyo nini? Oloba na yango: Na nguya ya maboko Yawe abimisaki biso epai ya Mitsraim, na ndako ya boleklongolo.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Mpe ekokoma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ntango"
+    },
+    {
+      "surface": "ישאלך",
+      "gloss": "akotuna yo"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "mwana na yo"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "lobi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na koloba"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Oyo nini?"
+    },
+    {
+      "surface": "זאת",
+      "gloss": ""
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "Oloba"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "Na nguya"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ya maboko"
+    },
+    {
+      "surface": "הוציאנו",
+      "gloss": "abimisaki biso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "epai ya Mitsraim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "na ndako"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "ya boleklongolo"
+    }
+  ],
+  "timestamp": "2026-09-03T16:21:01.371016795Z",
+  "model": "glm-5.3"
+}

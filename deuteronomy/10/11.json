@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 10:11",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Mpe Yawe alobaki na ngai: Yuka, kokende na nzela liboso ya bato, mpe bakota mpe bakozua ⟨את⟩ mabele oyo nasapaki na bankoko na bango na kopesa bango.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe Yawe alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Yuka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kokende"
+    },
+    {
+      "surface": "למסע",
+      "gloss": "na nzela"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "mpe bakota"
+    },
+    {
+      "surface": "וירשו",
+      "gloss": "mpe bakozua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "nasapaki"
+    },
+    {
+      "surface": "לאבתם",
+      "gloss": "na bankoko na bango"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "na kopesa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bango"
+    }
+  ],
+  "timestamp": "2026-09-03T17:27:44.873106487Z",
+  "model": "glm-5.3"
+}

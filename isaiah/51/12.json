@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 51:12",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 51,
+  "translation": "Ngai, ngai nde moi oyo abotami bino. Nani yo, mpe ozali kobanga moto oyo akufi, mpe mwana ya moto oyo etiemama lokola gasya?",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "moi"
+    },
+    {
+      "surface": "מנחמכם",
+      "gloss": "abotami bino"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nani"
+    },
+    {
+      "surface": "את",
+      "gloss": "yo",
+      "marks": "ozali kobanga moto"
+    },
+    {
+      "surface": "ותיראי",
+      "gloss": "ozali kobanga"
+    },
+    {
+      "surface": "מאנוש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "akufi"
+    },
+    {
+      "surface": "ומבן",
+      "gloss": "mpe mwana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ya moto"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "gasya"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "etiemama"
+    }
+  ],
+  "timestamp": "2026-09-03T19:35:00.334675967Z",
+  "model": "glm-5.3"
+}

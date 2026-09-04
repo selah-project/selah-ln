@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 141:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 141,
+  "translation": "Mosemboli abeta ngai na hesed (bolingo), mpe amonisi ngai mabe; ezali mafuta ya motó — motó na ngai eboya te yango, mpo ete losambo na ngai ezali kaka kati na mabe na bango.",
+  "tokens": [
+    {
+      "surface": "יהלמני",
+      "gloss": "abeta ngai"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "mosemboli"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ויוכיחני",
+      "gloss": "mpe amonisi ngai mabe"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ya motó"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "יני",
+      "gloss": "eboya"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "motó na ngai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kaka"
+    },
+    {
+      "surface": "ותפלתי",
+      "gloss": "mpe losambo na ngai"
+    },
+    {
+      "surface": "ברעותיהם",
+      "gloss": "kati na mabe na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:35:36.455569523Z",
+  "model": "glm-5.3"
+}

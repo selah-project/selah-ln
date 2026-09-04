@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 26:5",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "Kokaka ekokóma na bino tii ⟨את⟩ kokunga, mpe kokunga ekokóma tii ⟨את⟩ boboti; mpe bokolia bolamu na bino kino bokoka, mpe bokofanda na libateli na mabele na bino.",
+  "tokens": [
+    {
+      "surface": "והשיג",
+      "gloss": "ekokóma"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "na bino"
+    },
+    {
+      "surface": "דיש",
+      "gloss": "kokaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kokunga"
+    },
+    {
+      "surface": "בציר",
+      "gloss": "kokunga"
+    },
+    {
+      "surface": "ובציר",
+      "gloss": "mpe kokunga"
+    },
+    {
+      "surface": "ישיג",
+      "gloss": "ekokóma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boboti"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "boboti"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "mpe bokolia"
+    },
+    {
+      "surface": "לחמכם",
+      "gloss": "bolamu na bino"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "kino bokoka"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "mpe bokofanda"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "na libateli"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "na mabele na bino"
+    }
+  ],
+  "timestamp": "2026-09-03T23:16:07.390210678Z",
+  "model": "glm-5.3"
+}

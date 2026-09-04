@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 5:20",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Mpe mikolo nyonso ya Yared ezalaki mibale mpe ntuku motoba ya bambula, mpe libwa nkama ya bambula, mpe akufaki.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "mpe ezalaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mikolo"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "Yared"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "mpe ntuku motoba"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ya bambula"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "mpe libwa"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "nkama"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ya bambula"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "mpe akufaki"
+    }
+  ],
+  "timestamp": "2026-09-03T15:46:09.891408002Z",
+  "model": "glm-5.3"
+}

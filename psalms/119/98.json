@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 98,
+  "ref": "psalms 119:98",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Mibeko na yo esalisi ngai mayele koleka banguna na ngai, mpo yango ezali na ngai tio nyonso.",
+  "tokens": [
+    {
+      "surface": "מאיבי",
+      "gloss": "koleka banguna na ngai"
+    },
+    {
+      "surface": "תחכמני",
+      "gloss": "esalisi ngai mayele"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "mibeko na yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tio nyonso"
+    },
+    {
+      "surface": "היא",
+      "gloss": "yango"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:32:13.829824399Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 19:21",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Mpe azongaki nsima na ye, mpe azwaki ⟨את⟩ tsimba ya bambi, mpe abomaki yango, mpe na bisaleli ya bambi asalaki nyama, mpe apesaki bato, mpe balyaki; mpe atombaki, mpe akendaki sima ya Eliyahu, mpe asalelaki ye.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "mpe azongaki"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "nsima na ye"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "mpe azwaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsimba ya bambi"
+    },
+    {
+      "surface": "צמד",
+      "gloss": "tsimba"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ya bambi"
+    },
+    {
+      "surface": "ויזבחהו",
+      "gloss": "mpe abomaki yango"
+    },
+    {
+      "surface": "ובכלי",
+      "gloss": "mpe na bisaleli"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ya bambi"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "asalaki"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "mpe apesaki"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "mpe balyaki"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "mpe atombaki"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "mpe akendaki"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sima ya"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "וישרתהו",
+      "gloss": "mpe asalelaki ye"
+    }
+  ],
+  "timestamp": "2026-09-03T18:54:30.040954165Z",
+  "model": "glm-5.3"
+}

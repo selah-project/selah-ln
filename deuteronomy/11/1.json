@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 11:1",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpe bolinga ⟨את⟩ Yawe Elohim na bino, mpe bobatela mokoki na yango ya kobatela, mpe bankomo na yango, mpe mibeko na yango, mpe mitinda na yango, mokolo nyonso.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "mpe bolinga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe Elohim na bino"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim na bino"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "mpe bobatela"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "mokoki na yango ya kobatela"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "mpe bankomo na yango"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "mpe mibeko na yango"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "mpe mitinda na yango"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "mokolo"
+    }
+  ],
+  "timestamp": "2026-09-03T17:28:58.054329610Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 8:20",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe ⟨את⟩ sanzo akatakaki na biteni na yango, mpe Moshe asraelaki na moto ⟨את⟩ motwe mpe ⟨את⟩ biteni mpe ⟨את⟩ mafuta.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "sanzo"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "sanzo"
+    },
+    {
+      "surface": "נתח",
+      "gloss": "akatakaki"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "na biteni na yango"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "mpe asraelaki na moto"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motwe"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "motwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "biteni"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "biteni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mafuta"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "mafuta"
+    }
+  ],
+  "timestamp": "2026-09-03T16:44:29.864867870Z",
+  "model": "glm-5.3"
+}

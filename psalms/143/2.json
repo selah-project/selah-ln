@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 143:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 143,
+  "translation": "Mpe ekota te na lipami ⟨את⟩ mosali na yo, ete moto nyonso oyo azali na bomoi akozala mosemi te liboso na yo.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Mpe ... te"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ekota"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "na lipami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mosali na yo"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mosali na yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "akozala mosemi"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "liboso na yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "חי",
+      "gloss": "oyo azali na bomoi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:35:22.737533939Z",
+  "model": "glm-5.3"
+}

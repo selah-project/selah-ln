@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 59:15",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 59,
+  "translation": "Mpe bazongaka na mpokwa, bakelengelaka lokola mbwa, mpe bazali kopota na mboka.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "mpe bazongaka"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "na mpokwa"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "bakelengelaka"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "lokola mbwa"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "mpe bazali kopota"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "na mboka"
+    }
+  ],
+  "timestamp": "2026-09-03T21:15:12.221797641Z",
+  "model": "glm-5.3"
+}

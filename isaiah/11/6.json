@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 11:6",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpe mbwa-zamba akofanda elongo na toke, mpe nkoi akovanda elongo na mwana pulu; mpe mwana ngombe mpe mwana nkoi mpe nyama ya mafuta elongo, mpe mwana moke akomemaka bango.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "mpe akofanda"
+    },
+    {
+      "surface": "זאב",
+      "gloss": "mbwa-zamba"
+    },
+    {
+      "surface": "עם",
+      "gloss": "elongo na"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "toke"
+    },
+    {
+      "surface": "ונמר",
+      "gloss": "mpe nkoi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "elongo na"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "mwana pulu"
+    },
+    {
+      "surface": "ירבץ",
+      "gloss": "akovanda"
+    },
+    {
+      "surface": "ועגל",
+      "gloss": "mpe mwana ngombe"
+    },
+    {
+      "surface": "וכפיר",
+      "gloss": "mpe mwana nkoi"
+    },
+    {
+      "surface": "ומריא",
+      "gloss": "mpe nyama ya mafuta"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "elongo"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "mpe mwana"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "moke"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "akomemaka"
+    },
+    {
+      "surface": "בם",
+      "gloss": "bango"
+    }
+  ],
+  "timestamp": "2026-09-03T19:18:00.065458887Z",
+  "model": "glm-5.3"
+}

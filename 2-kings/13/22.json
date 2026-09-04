@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 13:22",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Mpe Hazael, mokonzi ya Aram, atungisaki ⟨את⟩ Israel mikolo nyonso ya Yehoahaz.",
+  "tokens": [
+    {
+      "surface": "וחזאל",
+      "gloss": "Mpe Hazael"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ya Aram"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "atungisaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mikolo ya"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoahaz"
+    }
+  ],
+  "timestamp": "2026-09-03T19:05:01.447569956Z",
+  "model": "glm-5.3"
+}

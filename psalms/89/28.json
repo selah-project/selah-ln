@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 89:28",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 89,
+  "translation": "Ngai mpe, nametya ye mobotami ya liboso, likolo koleka bakonzi ya mabele.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "mobotami ya liboso"
+    },
+    {
+      "surface": "אתנהו",
+      "gloss": "nametya ye"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "likolo koleka"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "bakonzi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ya mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T21:22:06.020477293Z",
+  "model": "glm-5.3"
+}

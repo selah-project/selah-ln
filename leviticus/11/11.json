@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 11:11",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpe ekweso bongo bokozala na bino; na misusu na bango bokolía te, mpe ⟨את⟩ nzoto na bango bokoya yango mawa.",
+  "tokens": [
+    {
+      "surface": "ושקץ",
+      "gloss": "Mpe ekweso"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bokozala"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "na bino"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "na misusu na bango"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "bokolía"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "nzoto na bango"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "nzoto na bango"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "bokoya yango mawa"
+    }
+  ],
+  "timestamp": "2026-09-03T16:43:52.966819813Z",
+  "model": "glm-5.3"
+}

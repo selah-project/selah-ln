@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 121:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 121,
+  "translation": "Nzembo ya bitamboli. Nakolimbola misu na ngai na ngomba — na wapi lisalisi na ngai ekoyaki?",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Nzembo"
+    },
+    {
+      "surface": "למעלות",
+      "gloss": "ya bitamboli"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "Nakolimbola"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "misu na ngai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "ngomba"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "na wapi"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ekoyaki"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "lisalisi na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:32:38.588549779Z",
+  "model": "glm-5.3"
+}

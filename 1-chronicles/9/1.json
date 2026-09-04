@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 9:1",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Mpe Israel nyonso bakomamaki na molongo ya bandeko, mpe talá, bakomamaki na buku ya bakonzi ya Israel mpe ya Yehuda; bakimisamaki na Bavel na likama na bango.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Mpe ... nyonso"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "התיחשו",
+      "gloss": "bakomamaki na molongo ya bandeko"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "mpe talá"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "bakomamaki"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "buku"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ya bakonzi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "mpe ya Yehuda"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "bakimisamaki"
+    },
+    {
+      "surface": "לבבל",
+      "gloss": "na Bavel"
+    },
+    {
+      "surface": "במעלם",
+      "gloss": "na likama na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T22:44:39.454747730Z",
+  "model": "glm-5.3"
+}

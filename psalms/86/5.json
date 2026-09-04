@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 86:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 86,
+  "translation": "Mpo yo, Adonai, ⟨ozali⟩ malamu mpe molimbisi, mpe ojangi hesed (bolingo ya kokanga kati te) epai ya banso baye bakobenga yo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ozali malamu"
+    },
+    {
+      "surface": "וסלח",
+      "gloss": "mpe molimbisi"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "mpe ojangi"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "epai ya banso"
+    },
+    {
+      "surface": "קראיך",
+      "gloss": "baye bakobenga yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:22:22.448573174Z",
+  "model": "glm-5.3"
+}

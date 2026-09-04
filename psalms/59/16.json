@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 59:16",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 59,
+  "translation": "Bango moko bazali kozingazinga koluka bilei; soki basili te kolia, balalaka na butu.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "bango moko"
+    },
+    {
+      "surface": "ינועון",
+      "gloss": "bazali kozingazinga"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "koluka bilei"
+    },
+    {
+      "surface": "אם",
+      "gloss": "soki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "basili te kolia"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "balalaka na butu"
+    }
+  ],
+  "timestamp": "2026-09-03T21:15:12.221955635Z",
+  "model": "glm-5.3"
+}

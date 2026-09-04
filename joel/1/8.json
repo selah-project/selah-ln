@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joel 1:8",
+  "book": "joel",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Bolei, mwana mwali, oyo asengoli sampu, mpo na mobali ya buku na yango.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "Bolei"
+    },
+    {
+      "surface": "כבתולה",
+      "gloss": "mwana mwali"
+    },
+    {
+      "surface": "חגרת",
+      "gloss": "asengoli"
+    },
+    {
+      "surface": "שק",
+      "gloss": "sampu"
+    },
+    {
+      "surface": "על",
+      "gloss": "mpo na"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "mobali"
+    },
+    {
+      "surface": "נעוריה",
+      "gloss": "ya buku na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T20:40:55.911733046Z",
+  "model": "glm-5.3"
+}

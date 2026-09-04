@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 24:10",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "Na ntango wana bakumbi ya Nevukadnetsar, mokonzi ya Bavel, bakwelaki na Yerushalaim, mpe mboka ekotaki na bokangami.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "na ntango"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "wana"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "bakwelaki"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "bakumbi ya"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "Nevukadnetsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi ya"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "mpe ekotaki"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mboka"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "na bokangami"
+    }
+  ],
+  "timestamp": "2026-09-03T19:11:33.623502972Z",
+  "model": "glm-5.3"
+}

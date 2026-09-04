@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 50:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 50,
+  "translation": "Elohim na biso ayei, mpe akangi monoko te: moto ekolia liboso na ye, mpe na zingazinga na ye ekabwani makasi.",
+  "tokens": [
+    {
+      "surface": "יבא",
+      "gloss": "ayei"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim na biso"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mpe ⟨te⟩"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "akangi monoko"
+    },
+    {
+      "surface": "אש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "liboso na ye"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ekolia"
+    },
+    {
+      "surface": "וסביביו",
+      "gloss": "mpe na zingazinga na ye"
+    },
+    {
+      "surface": "נשערה",
+      "gloss": "ekabwani"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "makasi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:12:39.448776431Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 40:21",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 40,
+  "translation": "Aboyisi ⟨את⟩ mokambi ya bameli-mai na esika na ye ya komeka, mpe atyaki mbunda na maboko ya Parao.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "aboyisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mokambi ya bameli-mai"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mokambi"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "ya bameli-mai"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "משקהו",
+      "gloss": "esika na ye ya komeka"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "mpe atyaki"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "mbunda"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כף",
+      "gloss": "maboko"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ya Parao"
+    }
+  ],
+  "timestamp": "2026-09-03T23:13:23.210935986Z",
+  "model": "glm-5.3"
+}

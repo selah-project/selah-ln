@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 32:11",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 32,
+  "translation": "Bozala na esengo na Yawe, mpe bokanisama, bato sembo; mpe bolobange, bato nyonso baoyo motema na bango ezali sembo.",
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "Bozala na esengo"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "na Yawe"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "mpe bokanisama"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "bato sembo"
+    },
+    {
+      "surface": "והרנינו",
+      "gloss": "mpe bolobange"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bato nyonso"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "baoyo ... ezali sembo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "motema"
+    }
+  ],
+  "timestamp": "2026-09-03T21:07:54.184992747Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 9:14",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Mpe afandi na libanda ya ndako ⟨na ye⟩, na kiti ya likolo ya mboka.",
+  "tokens": [
+    {
+      "surface": "וישבה",
+      "gloss": "mpe afandi"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "na libanda"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ya ndako na ye"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "kiti"
+    },
+    {
+      "surface": "מרמי",
+      "gloss": "ya likolo"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "ya mboka"
+    }
+  ],
+  "timestamp": "2026-09-03T21:40:01.437404525Z",
+  "model": "glm-5.3"
+}

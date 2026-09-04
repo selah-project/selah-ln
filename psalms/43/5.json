@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 43:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 43,
+  "translation": "Mawa nini okweyi, molimo na ngai, mpe mawa nini ozali kolia na ngai? Zela Elohim, mpo nakokumisa ⟨את⟩ ye naino, yeye azali bobombi ya elongi na ngai, mpe Elohim na ngai.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "mawa nini"
+    },
+    {
+      "surface": "תשתוחחי",
+      "gloss": "okweyi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "molimo na ngai"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "mpe mawa nini"
+    },
+    {
+      "surface": "תהמי",
+      "gloss": "ozali kolia"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "הוחילי",
+      "gloss": "zela"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "naino"
+    },
+    {
+      "surface": "אודנו",
+      "gloss": "nakokumisa ye"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "bobombi ya elongi na ngai"
+    },
+    {
+      "surface": "פני",
+      "gloss": "(elongi na ngai)"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "mpe Elohim na ngai"
+    }
+  ],
+  "timestamp": "2026-09-04T00:29:01.786092300Z",
+  "model": "glm-5.3"
+}

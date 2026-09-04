@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 1:22",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe Elohim aboyiki ⟨את⟩ bango, alobaki ete: Bota, mpe bokitisa ebele, mpe bojisa ⟨את⟩ mai na mbu; mpe ndeke abakisi na mabele.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "Mpe aboyiki"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bango"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "alobaki ete"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "Bota"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "mpe bokitisa ebele"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "mpe bojisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mai"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mai"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "na mbu"
+    },
+    {
+      "surface": "והעוף",
+      "gloss": "mpe ndeke"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "abakisi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T15:44:04.332915034Z",
+  "model": "glm-5.3"
+}

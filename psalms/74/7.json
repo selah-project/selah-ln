@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 74:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 74,
+  "translation": "Batindaki moto na esika nsembe na yo; na mabele bebisaki esika ya kofanda ya Nkombo na yo.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "Batindaki"
+    },
+    {
+      "surface": "באש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "מקדשך",
+      "gloss": "na esika nsembe na yo"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "bebisaki"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "esika ya kofanda"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ya Nkombo na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:19:07.724412385Z",
+  "model": "glm-5.3"
+}

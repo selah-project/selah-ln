@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 27:16",
+  "book": "ezekiel",
+  "lang": "ln",
+  "chapter": 27,
+  "translation": "Aram azalaki mobongisi na yo na bonene ya misala na yo; na ndambo, bilamba ya mongongo, bilamba ya makomi, bilamba ya kitoko, bilanga ya mai, mpe ndambo mosusu bapesaki na belo na yo.",
+  "tokens": [
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "סחרתך",
+      "gloss": "azalaki mobongisi na yo"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "na bonene"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ya misala na yo"
+    },
+    {
+      "surface": "בנפך",
+      "gloss": "na ndambo"
+    },
+    {
+      "surface": "ארגמן",
+      "gloss": "bilamba ya mongongo"
+    },
+    {
+      "surface": "ורקמה",
+      "gloss": "mpe bilamba ya makomi"
+    },
+    {
+      "surface": "ובוץ",
+      "gloss": "mpe bilamba ya kitoko"
+    },
+    {
+      "surface": "וראמות",
+      "gloss": "mpe bilanga ya mai"
+    },
+    {
+      "surface": "וכדכד",
+      "gloss": "mpe ndambo mosusu"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "bapesaki"
+    },
+    {
+      "surface": "בעזבוניך",
+      "gloss": "na belo na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T20:25:21.686608457Z",
+  "model": "glm-5.3"
+}

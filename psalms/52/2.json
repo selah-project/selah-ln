@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 52:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 52,
+  "translation": "Ntango Doeg, moto ya Edome, ayeaki mpe atangaki epai ya Shaul, mpe alobaki na ye ete: David ayeaki na ndako ya Ahimelekh.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "Ntango... ayeaki"
+    },
+    {
+      "surface": "דואג",
+      "gloss": "Doeg"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "moto ya Edome"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "mpe atangaki"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "epai ya Shaul"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ayeaki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "ya Ahimelekh"
+    }
+  ],
+  "timestamp": "2026-09-03T21:14:24.805563526Z",
+  "model": "glm-5.3"
+}

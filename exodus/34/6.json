@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 34:6",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 34,
+  "translation": "Mpe Yawe atambolaki na biso na ye, mpe abengaki: Yawe, Yawe, El owei mawa mpe mongene, molai na kanda, mpe monene hesed (bolingo) mpe bosolo.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "mpe atambolaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "biso na ye"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "mpe abengaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "owei mawa"
+    },
+    {
+      "surface": "ו חנון",
+      "gloss": "mpe mongene"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "molai"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "kanda"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "mpe monene"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "mpe bosolo"
+    }
+  ],
+  "timestamp": "2026-09-03T16:34:03.489103094Z",
+  "model": "glm-5.3"
+}

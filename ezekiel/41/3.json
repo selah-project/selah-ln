@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 41:3",
+  "book": "ezekiel",
+  "lang": "ln",
+  "chapter": 41,
+  "translation": "Mpe akotaki na kati, mpe atangaki pote ya lombango mibale makobo, mpe lombango motoba makobo, mpe bonene ya lombango sambo makobo.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "mpe akotaki"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "na kati"
+    },
+    {
+      "surface": "וימד",
+      "gloss": "mpe atangaki"
+    },
+    {
+      "surface": "איל",
+      "gloss": "pote"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "ya lombango"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "makobo"
+    },
+    {
+      "surface": "והפתח",
+      "gloss": "mpe lombango"
+    },
+    {
+      "surface": "שש",
+      "gloss": "motoba"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "makobo"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "mpe bonene"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "ya lombango"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sambo"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "makobo"
+    }
+  ],
+  "timestamp": "2026-09-03T20:33:09.672522863Z",
+  "model": "glm-5.3"
+}

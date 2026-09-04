@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 37:22",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 37,
+  "translation": "Mpo babokami na ye bakoza mabele, mpe bakundami na ye bakokatama.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "מברכיו",
+      "gloss": "babokami na ye"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "bakoza"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "ומקלליו",
+      "gloss": "mpe bakundami na ye"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "bakokatama"
+    }
+  ],
+  "timestamp": "2026-09-03T21:09:49.744326963Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 76:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 76,
+  "translation": "Babwaki bongo bato ya nguya ya mitima; balalaki butu na bango; mpe bato nyonso ya nguya bayebaki te maboko na bango.",
+  "tokens": [
+    {
+      "surface": "אשתוללו",
+      "gloss": "babwaki bongo"
+    },
+    {
+      "surface": "אבירי",
+      "gloss": "bato ya nguya"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ya mitima"
+    },
+    {
+      "surface": "נמו",
+      "gloss": "balalaki"
+    },
+    {
+      "surface": "שנתם",
+      "gloss": "butu na bango"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe ... te"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "bayebaki te"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bato nyonso"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "bato"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ya nguya"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "maboko na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:19:10.573199533Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 137:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 137,
+  "translation": "Liloba na ngai ekangama na mino na ngai, soki nakokanaka yo te, soki natombolaka te ⟨את⟩ Yerushalaim likolo ya motuya ya sepo na ngai.",
+  "tokens": [
+    {
+      "surface": "תדבק",
+      "gloss": "ekangama na"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "liloba na ngai"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "mino na ngai"
+    },
+    {
+      "surface": "אם",
+      "gloss": "soki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "אזכרכי",
+      "gloss": "nakokanaka yo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "soki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "natombolaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalaim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "motuya"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "sepo na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:35:30.061239960Z",
+  "model": "glm-5.3"
+}

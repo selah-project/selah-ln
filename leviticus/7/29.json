@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 7:29",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Loba na bana ya Israel koloba: oyo atindi ⟨את⟩ zabhe ya kimya na ye epai ya Yawe, akoyisa ⟨את⟩ pesa na ye epai ya Yawe, uta na zabhe ya kimya na ye.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Loba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "koloba"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "oyo atindi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zabhe ya kimya na ye"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "zabhe"
+    },
+    {
+      "surface": "שלמיו",
+      "gloss": "ya kimya na ye"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "epai ya Yawe"
+    },
+    {
+      "surface": "יביא",
+      "gloss": "akoyisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pesa na ye"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "pesa na ye"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "epai ya Yawe"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "uta na zabhe"
+    },
+    {
+      "surface": "שלמיו",
+      "gloss": "ya kimya na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T16:41:07.455160122Z",
+  "model": "glm-5.3"
+}

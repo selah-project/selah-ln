@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 26:11",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "Mpe nakopesa hema na ngai kati na bino, mpe bomoi na ngai ekoboya ⟨את⟩ bino te.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "mpe nakopesa"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "hema na ngai"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "kati na bino"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "ekoboya"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "bomoi na ngai"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ bino",
+      "marks": "bino"
+    }
+  ],
+  "timestamp": "2026-09-03T16:55:56.027842433Z",
+  "model": "glm-5.3"
+}

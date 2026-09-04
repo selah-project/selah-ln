@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 16:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Mikhtam ya David. Batela ngai, El, mpo namíi na yo.",
+  "tokens": [
+    {
+      "surface": "מכתם",
+      "gloss": "Mikhtam"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya David"
+    },
+    {
+      "surface": "שמרני",
+      "gloss": "Batela ngai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "namíi"
+    },
+    {
+      "surface": "בך",
+      "gloss": "na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:02:23.377843866Z",
+  "model": "glm-5.3"
+}

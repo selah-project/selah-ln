@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 12:4",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Papa na yo amakisaki ⟨את⟩ mpenzoko na biso; yo sikoyo kalemisa mosala ya papa na yo makasi mpe mpenzoko ya nkenda oyo atyaki likolo ya biso, mpe tokosalela yo.",
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "Papa na yo"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "amakisaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mpenzoko na biso"
+    },
+    {
+      "surface": "עלנו",
+      "gloss": "mpenzoko na biso"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "mpe yo"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "sikoyo"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "kalemisa"
+    },
+    {
+      "surface": "מעבדת",
+      "gloss": "mosala ya"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "papa na yo"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "makasi"
+    },
+    {
+      "surface": "ומעלו",
+      "gloss": "mpe mpenzoko"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "ya nkenda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "atyaki"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "likolo ya biso"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "mpe tokosalela yo"
+    }
+  ],
+  "timestamp": "2026-09-03T18:51:39.784523383Z",
+  "model": "glm-5.3"
+}

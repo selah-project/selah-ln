@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 1:42",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe Yawe alobaki na ngai: Loba na bango: Bolime te, mpe bobunde te, mpo ete nazali te kati na bino, mpe bopwana te liboso ya banguna na bino.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Loba"
+    },
+    {
+      "surface": "להם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "Bolime"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "תלחמו",
+      "gloss": "bobunde"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "nazali te"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "kati na bino"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "תנגפו",
+      "gloss": "bopwana"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "banguna na bino"
+    }
+  ],
+  "timestamp": "2026-09-03T17:22:43.902951102Z",
+  "model": "glm-5.3"
+}

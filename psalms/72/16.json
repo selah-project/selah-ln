@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 72:16",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 72,
+  "translation": "Ezala bonene ya bilanga na mabele, na likolo ya bangomba; mboto na yango ekoyemba lokola Lebanone; mpe bakotondi bomoi kati ya mboka, lokola bansengo ya mabele.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ezala"
+    },
+    {
+      "surface": "פסת",
+      "gloss": "bonene"
+    },
+    {
+      "surface": "בר",
+      "gloss": "ya bilanga"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "na likolo"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ya bangomba"
+    },
+    {
+      "surface": "ירעש",
+      "gloss": "ekoyemba"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "lokola Lebanone"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "mboto na yango"
+    },
+    {
+      "surface": "ויציצו",
+      "gloss": "mpe bakotondi bomoi"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "kati ya mboka"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "lokola bansengo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ya mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T21:18:02.190315Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 21:1",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Masa ya zela ya mbu. Lokola bangiya na Negev mpo na koleka, uta na zela ayei, uta na mokili ya bobangi.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Masa"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "zela"
+    },
+    {
+      "surface": "ים",
+      "gloss": "mbu"
+    },
+    {
+      "surface": "כסופות",
+      "gloss": "lokola bangiya"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "na Negev"
+    },
+    {
+      "surface": "לחלוף",
+      "gloss": "mpo na koleka"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "uta na zela"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ayei"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "uta na mokili"
+    },
+    {
+      "surface": "נוראה",
+      "gloss": "ya bobangi"
+    }
+  ],
+  "timestamp": "2026-09-03T19:20:19.339649203Z",
+  "model": "glm-5.3"
+}

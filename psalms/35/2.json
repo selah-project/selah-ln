@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 35:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 35,
+  "translation": "Bosumba nguba mpe lipa, mpe sima na lisalisi na ngai.",
+  "tokens": [
+    {
+      "surface": "החזק",
+      "gloss": "Bosumba"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "nguba"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "mpe lipa"
+    },
+    {
+      "surface": "וקומה",
+      "gloss": "mpe sima"
+    },
+    {
+      "surface": "בעזרתי",
+      "gloss": "na lisalisi na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:08:45.169191590Z",
+  "model": "glm-5.3"
+}

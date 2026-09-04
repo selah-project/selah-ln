@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 19:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Mokolo na mokolo ebimisaka liloba, mpe butu na butu emonisaka boyebi.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "Mokolo"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "na mokolo"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "ebimisaka"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "liloba"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "mpe butu"
+    },
+    {
+      "surface": "ללילה",
+      "gloss": "na butu"
+    },
+    {
+      "surface": "יחוה",
+      "gloss": "emonisaka"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "boyebi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:04:49.640308008Z",
+  "model": "glm-5.3"
+}

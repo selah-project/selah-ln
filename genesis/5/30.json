@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 5:30",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Mpe Lemek ezalaki na bomoi, sima ya kobota ⟨את⟩ Noa, mbula 95 na nkama 5 ya mbula, mpe abotaki bana mibali mpe bana basi.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ezalaki na bomoi"
+    },
+    {
+      "surface": "למך",
+      "gloss": "Lemek"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sima ya"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "kobota"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noa"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "5"
+    },
+    {
+      "surface": "ותשעים",
+      "gloss": "mpe 90"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mbula"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "mpe 5"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "nkama"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ya mbula"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "abotaki"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bana mibali"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "mpe bana basi"
+    }
+  ],
+  "timestamp": "2026-09-03T15:46:24.495496858Z",
+  "model": "glm-5.3"
+}

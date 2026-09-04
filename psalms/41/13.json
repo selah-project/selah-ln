@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 41:13",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 41,
+  "translation": "Mpe ngai, na bosembo na ngai osungaki ngai, mpe otandisaki ngai liboso na yo mpo na libela.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Mpe ngai"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "na bosembo na ngai"
+    },
+    {
+      "surface": "תמכת",
+      "gloss": "osungaki"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "ותציבני",
+      "gloss": "mpe otandisaki ngai"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "liboso na yo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mpo na libela"
+    }
+  ],
+  "timestamp": "2026-09-03T21:09:25.755851225Z",
+  "model": "glm-5.3"
+}

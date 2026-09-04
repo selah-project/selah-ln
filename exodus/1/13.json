@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 1:13",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe bato ya Mitsraim basalakaki ⟨את⟩ bana ya Israel na bokatumo.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "mpe basalakaki"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "bato ya Mitsraim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bana ya Israel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "na bokatumo"
+    }
+  ],
+  "timestamp": "2026-09-03T16:13:13.422449158Z",
+  "model": "glm-5.3"
+}

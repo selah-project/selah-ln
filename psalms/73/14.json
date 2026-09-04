@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 73:14",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 73,
+  "translation": "Mpe nakomamaki mokolo mobimba, mpe tokya na ngai tongo na tongo.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "nakomamaki"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "nakomamaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mobimba"
+    },
+    {
+      "surface": "היום",
+      "gloss": "mokolo"
+    },
+    {
+      "surface": "ותוכחתי",
+      "gloss": "mpe tokya na ngai"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "tongo na tongo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:18:25.362458145Z",
+  "model": "glm-5.3"
+}

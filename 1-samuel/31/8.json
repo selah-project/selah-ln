@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 31:8",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 31,
+  "translation": "Mpe esalemaki na mokolo ya sima, Bafilisiti bayaki mpo na kolonga ⟨את⟩ bakufaki, mpe bakutaki ⟨את⟩ Shaul mpe ⟨את⟩ bana na ye misato bawei na ngomba ya Gilboa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mpe esalemaki"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "na mokolo ya sima"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "bayaki"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Bafilisiti"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "mpo na kolonga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bakufaki"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "bakufaki"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "mpe bakutaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shaul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bana na ye misato"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "misato"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bana na ye"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "bawei"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "na ngomba"
+    },
+    {
+      "surface": "הגלבע",
+      "gloss": "Gilboa"
+    }
+  ],
+  "timestamp": "2026-09-03T18:27:21.420180561Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 25:11",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Mpe Amatsia asalaki makasi, mpe akambaki ⟨את⟩ bato na ye, mpe akendaki na libulu ya mungwa, mpe abomaki ⟨את⟩ bana ya Seir, bapambo zomi.",
+  "tokens": [
+    {
+      "surface": "ואמציהו",
+      "gloss": "Mpe Amatsia"
+    },
+    {
+      "surface": "התחזק",
+      "gloss": "asalaki makasi"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "mpe akambaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bato na ye"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bato na ye"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "mpe akendaki"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "libulu"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "ya mungwa"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "mpe abomaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bana ya Seir"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "ya Seir"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "zomi"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "bapambo"
+    }
+  ],
+  "timestamp": "2026-09-03T23:04:57.123922168Z",
+  "model": "glm-5.3"
+}

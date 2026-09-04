@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 21:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Mpo na mokambi. Nzembo ya David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Mpo na mokambi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Nzembo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya David"
+    }
+  ],
+  "timestamp": "2026-09-03T21:04:59.529708989Z",
+  "model": "glm-5.3"
+}

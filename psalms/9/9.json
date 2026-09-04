@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 9:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Mpe ⟨yo⟩ akokoka kozwa ekolo na bosemi, akoyokisa mboka na bosololó.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "mpe ⟨yo⟩"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "akokoka kozwa"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ekolo"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "na bosemi"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "akoyokisa"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "mboka"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "na bosololó"
+    }
+  ],
+  "timestamp": "2026-09-03T21:01:25.514591367Z",
+  "model": "glm-5.3"
+}

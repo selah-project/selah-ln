@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 3:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mizmor na David, ntango akimaki liboso ya Avshalom mwana na ye.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "na David"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "ntango akimaki"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T20:59:54.074592433Z",
+  "model": "glm-5.3"
+}

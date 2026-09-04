@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 105:14",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 105,
+  "translation": "Atikaki moto ⟨ata moko⟩ te asuma bango; akanaki mpe bakonzi mpo na bango.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "atikaki"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moto"
+    },
+    {
+      "surface": "לעשקם",
+      "gloss": "asuma bango"
+    },
+    {
+      "surface": "ויוכח",
+      "gloss": "mpe akanaki"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "mpo na bango"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "bakonzi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:27:44.008087842Z",
+  "model": "glm-5.3"
+}

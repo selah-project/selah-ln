@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joel 3:2",
+  "book": "joel",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe ata likolo ya bawumbu mpe likolo ya bawumbu basi, na mikolo oyo nakofula ⟨את⟩ mpema na ngai.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Mpe ata"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "bawumbu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "mpe likolo ya"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "bawumbu basi"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "na mikolo"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אשפוך",
+      "gloss": "nakofula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mpema na ngai"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "mpema na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T20:42:39.482713406Z",
+  "model": "glm-5.3"
+}

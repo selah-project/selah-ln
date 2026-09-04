@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 18:3",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Alobaki: Adonai, soki olingi, nazwaki boboto na miso na yo, kanga kopasa libanda epai ya mosali na yo te, na limemyi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אם",
+      "gloss": "soki"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨soki olingi⟩"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "nazwaki"
+    },
+    {
+      "surface": "חן",
+      "gloss": "boboto"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "na miso na yo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kanga ... te"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨na limemyi⟩"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "kopasa libanda"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mosali na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T15:52:35.539061029Z",
+  "model": "glm-5.3"
+}

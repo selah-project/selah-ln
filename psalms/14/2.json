@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 14:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Yawe uta na likolo atalaki ata se bana ya bato, mpo na komona soki ezali oyo azali na mayele, oyo alukaka ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "uta na likolo"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "atalaki ata se"
+    },
+    {
+      "surface": "על",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ya bato"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "mpo na komona"
+    },
+    {
+      "surface": "היש",
+      "gloss": "soki ezali"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "oyo azali na mayele"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "oyo alukaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-03T21:02:46.335283560Z",
+  "model": "glm-5.3"
+}

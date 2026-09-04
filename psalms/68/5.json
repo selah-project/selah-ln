@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 68:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 68,
+  "translation": "Yimbelaka Elohim, yimbelaka na nkombo na ye; bomateli ⟨ye⟩ oyo azali komaka na mapata; na Ya nkombo na ye, mpe bozalisama liboso na ye.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "yimbelaka"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "yimbelaka na"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nkombo na ye"
+    },
+    {
+      "surface": "סלו",
+      "gloss": "bomateli"
+    },
+    {
+      "surface": "לרכב",
+      "gloss": "oyo azali komaka"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "na mapata"
+    },
+    {
+      "surface": "ביה",
+      "gloss": "na Ya"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nkombo na ye"
+    },
+    {
+      "surface": "ועלזו",
+      "gloss": "mpe bozalisama"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "liboso na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:16:45.005674533Z",
+  "model": "glm-5.3"
+}

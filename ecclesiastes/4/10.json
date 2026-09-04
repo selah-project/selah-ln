@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 4:10",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpamba te soki bakweyi, moko akotombola ⟨את⟩ moninga na ye; kasi moko soki akweyi, ozali na mbale te ya kotombola ye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpamba te"
+    },
+    {
+      "surface": "אם",
+      "gloss": "soki"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "bakweyi"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "moko"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "akotombola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moninga na ye"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "moninga na ye"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "kasi"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "moko"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "akweyi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ozali na … te"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mbale"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "ya kotombola ye"
+    }
+  ],
+  "timestamp": "2026-09-03T22:12:49.569087089Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 40:3",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 40,
+  "translation": "Mpe otya awa ⟨את⟩ Aron ya bomoi, mpe ozwa ndako ya Aron na ⟨את⟩ Paro'ket.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "Mpe otya"
+    },
+    {
+      "surface": "שם",
+      "gloss": "awa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aron"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "ya bomoi"
+    },
+    {
+      "surface": "וסכת",
+      "gloss": "mpe ozwa ndako ya"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paro'ket"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "Paro'ket"
+    }
+  ],
+  "timestamp": "2026-09-03T16:39:22.799305801Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 2:13",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "mpe mampinga na ye, mpe baoyo bakobotisamaki bangano — ⟨ezali⟩ nkoto libwa na ntuku mitano mpe nkama misato",
+  "tokens": [
+    {
+      "surface": "וּצְבָאוֹ",
+      "gloss": "mpe mampinga na ye"
+    },
+    {
+      "surface": "וּפְקֻדֵיהֶם",
+      "gloss": "mpe baoyo bakobotisamaki bangano"
+    },
+    {
+      "surface": "תִּשְׁעָה",
+      "gloss": "libwa"
+    },
+    {
+      "surface": "וַחֲמִשִּׁים",
+      "gloss": "na ntuku mitano"
+    },
+    {
+      "surface": "אֶלֶף",
+      "gloss": "nkoto"
+    },
+    {
+      "surface": "וּשְׁלֹשׁ",
+      "gloss": "mpe misato"
+    },
+    {
+      "surface": "מֵאוֹת",
+      "gloss": "nkama"
+    }
+  ],
+  "timestamp": "2026-09-04T00:18:13.594906533Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 6:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Nagangi na mabe na ngai; na mobimba nkita nazali kotambwisa na mai mpanda na ngai; na miso na ngai nazali kondimola esika-ya-bolai na ngai.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "Nagangi"
+    },
+    {
+      "surface": "באנחתי",
+      "gloss": "na mabe na ngai"
+    },
+    {
+      "surface": "אשחה",
+      "gloss": "nazali kotambwisa na mai"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na mobimba"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "nkita"
+    },
+    {
+      "surface": "מטתי",
+      "gloss": "mpanda na ngai"
+    },
+    {
+      "surface": "בדמעתי",
+      "gloss": "na miso na ngai"
+    },
+    {
+      "surface": "ערשי",
+      "gloss": "esika-ya-bolai na ngai"
+    },
+    {
+      "surface": "אמסה",
+      "gloss": "nazali kondimola"
+    }
+  ],
+  "timestamp": "2026-09-03T20:59:32.705074448Z",
+  "model": "glm-5.3"
+}

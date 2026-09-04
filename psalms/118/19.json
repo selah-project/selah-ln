@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 118:19",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 118,
+  "translation": "Bulula na ngai minzela ya bokoki, nakokota na yango, nakosembola Ya.",
+  "tokens": [
+    {
+      "surface": "פתחו",
+      "gloss": "Bulula"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "minzela"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ya bokoki"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "nakokota"
+    },
+    {
+      "surface": "בם",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "nakosembola"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    }
+  ],
+  "timestamp": "2026-09-03T21:30:30.666708808Z",
+  "model": "glm-5.3"
+}

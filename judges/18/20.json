@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 18:20",
+  "book": "judges",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Mpe motema ya kohen esepelaki, mpe azwaki ⟨את⟩ epode mpe ⟨את⟩ terafime mpe ⟨את⟩ peseli, mpe akotaki kati ya bato.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "esepelaki"
+    },
+    {
+      "surface": "לב",
+      "gloss": "motema"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ya kohen"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "mpe azwaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "epode"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "epode"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "terafime"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "terafime"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "peseli"
+    },
+    {
+      "surface": "הפסל",
+      "gloss": "peseli"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "mpe akotaki"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "kati"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ya bato"
+    }
+  ],
+  "timestamp": "2026-09-03T18:06:27.335674908Z",
+  "model": "glm-5.3"
+}

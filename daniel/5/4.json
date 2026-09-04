@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 5:4",
+  "book": "daniel",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Banzoki divai, mpe basanjaki banzambe ya ndako, mpe ya mongondo, ya mkoba, ya libelo, ya nzete, mpe ya libanga.",
+  "tokens": [
+    {
+      "surface": "אשתיו",
+      "gloss": "Banzoki"
+    },
+    {
+      "surface": "חמרא",
+      "gloss": "divai"
+    },
+    {
+      "surface": "ושבחו",
+      "gloss": "mpe basanjaki"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "banzambe"
+    },
+    {
+      "surface": "דהבא",
+      "gloss": "ya ndako"
+    },
+    {
+      "surface": "וכספא",
+      "gloss": "mpe ya mongondo"
+    },
+    {
+      "surface": "נחשא",
+      "gloss": "ya mkoba"
+    },
+    {
+      "surface": "פרזלא",
+      "gloss": "ya libelo"
+    },
+    {
+      "surface": "אעא",
+      "gloss": "ya nzete"
+    },
+    {
+      "surface": "ואבנא",
+      "gloss": "mpe ya libanga"
+    }
+  ],
+  "timestamp": "2026-09-03T23:39:37.944316942Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 144:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 144,
+  "translation": "oyo monoko na bango elobi bopaya, mpe loboko na bango ya mobali ⟨ezali⟩ loboko ya lokuta.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "monoko na bango"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "elobi"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "bopaya"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "mpe loboko na bango ya mobali"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "loboko ya mobali"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ya lokuta"
+    }
+  ],
+  "timestamp": "2026-09-03T21:36:18.132099998Z",
+  "model": "glm-5.3"
+}

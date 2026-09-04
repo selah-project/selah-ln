@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 21:11",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Mpe David atombaki mpe achapaki mokolo yango, na miso ya Shaul, mpe akotaki epai ya Akish, mokonzi ya Gat.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "atombaki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "achapaki"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "mokolo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yango"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "na miso ya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "akotaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akish"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "גת",
+      "gloss": "ya Gat"
+    }
+  ],
+  "timestamp": "2026-09-03T18:21:24.305524354Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 46:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 46,
+  "translation": "Elohim azali na kati na yongo, ekokangama te; Elohim asalisaka yango liboso ya tongo.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "na kati na yongo"
+    },
+    {
+      "surface": "בל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "ekokangama"
+    },
+    {
+      "surface": "יעזרה",
+      "gloss": "asalisaka yango"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "tongo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:11:56.870792284Z",
+  "model": "glm-5.3"
+}

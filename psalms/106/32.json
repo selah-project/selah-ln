@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 106:32",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 106,
+  "translation": "Bakisaki ⟨Yawe⟩ na mai ya Meriba, mpe mabe ekotaki na Moshe mpo na bango.",
+  "tokens": [
+    {
+      "surface": "ויקציפו",
+      "gloss": "Bakisaki"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mai"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "Meriba"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "mpe mabe ekotaki"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "na Moshe"
+    },
+    {
+      "surface": "בעבורם",
+      "gloss": "mpo na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:28:06.078176526Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 24:13",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "Yawe alongosi kati na ngai mpe kati na yo, mpe Yawe akonga lisusu mpo na ngai epai ya yo, mpe loboko na ngai ekokala kati na yo te.",
+  "tokens": [
+    {
+      "surface": "ישפט",
+      "gloss": "alongosi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "kati na ngai"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "mpe kati na yo"
+    },
+    {
+      "surface": "ונקמני",
+      "gloss": "mpe akonga lisusu mpo na ngai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "epai ya yo"
+    },
+    {
+      "surface": "וידי",
+      "gloss": "mpe loboko na ngai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ekokala"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kati na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T18:20:59.609929607Z",
+  "model": "glm-5.3"
+}

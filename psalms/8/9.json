@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Ndeke ya likolo, mpe mbisi ya mbu, oyo azali kotambola ⟨kati⟩ ya banzela ya mbu.",
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "ndeke"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "likolo"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "mpe mbisi"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ya mbu"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "oyo azali kotambola"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "banzela"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ya mbu"
+    }
+  ],
+  "timestamp": "2026-09-03T21:01:29.133534296Z",
+  "model": "glm-5.3"
+}

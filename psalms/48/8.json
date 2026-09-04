@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 48:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 48,
+  "translation": "Na mpema ya esita obukaka masowa ya Tarshish.",
+  "tokens": [
+    {
+      "surface": "ברוח",
+      "gloss": "Na mpema"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "ya esita"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "obukaka"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "masowa"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "ya Tarshish"
+    }
+  ],
+  "timestamp": "2026-09-03T21:11:51.105208886Z",
+  "model": "glm-5.3"
+}

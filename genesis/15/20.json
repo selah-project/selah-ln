@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 15:20",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 15,
+  "translation": "mpe ⟨את⟩ baHiti mpe ⟨את⟩ baPerizi mpe ⟨את⟩ baRefaim",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "baHiti"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "baHiti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "baPerizi"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "baPerizi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "baRefaim"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "baRefaim"
+    }
+  ],
+  "timestamp": "2026-09-03T15:50:56.606486489Z",
+  "model": "glm-5.3"
+}

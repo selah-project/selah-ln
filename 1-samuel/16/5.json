@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 16:5",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Mpe alobaki: Shalom (embo); nayei na kosala mbanzo ya Yawe; bosantola bino mimo, mpe boya na ngai ⟨את⟩ na mbanzo. Mpe asantolaki ⟨את⟩ Yishai mpe ⟨את⟩ bana na ye, mpe abengaki bango na mbanzo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shalom"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "na kosala mbanzo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ya Yawe"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "nayei"
+    },
+    {
+      "surface": "התקדשו",
+      "gloss": "bosantola bino mimo"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "mpe boya"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "na ngai ⟨את⟩",
+      "marks": "na mbanzo"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "na mbanzo"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "mpe asantolaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yishai"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bana na ye"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bana na ye"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "mpe abengaki"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bango"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "na mbanzo"
+    }
+  ],
+  "timestamp": "2026-09-03T18:16:24.315875774Z",
+  "model": "glm-5.3"
+}

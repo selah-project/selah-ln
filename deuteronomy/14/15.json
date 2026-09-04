@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 14:15",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "mpe ⟨את⟩ mwana ya Yeana, mpe ⟨את⟩ Tahmas, mpe ⟨את⟩ Shahaf, mpe ⟨את⟩ Nets, ya ndenge na yango",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mwana ya Yeana"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "Yeana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Tahmas"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "Tahmas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Shahaf"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "Shahaf"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Nets"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "Nets"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "ya ndenge na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T17:29:29.841377822Z",
+  "model": "glm-5.3"
+}

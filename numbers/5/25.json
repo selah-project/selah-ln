@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 5:25",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Mpe kohen asanganaki ⟨את⟩ mincha ya kenesa uta na loboko ya mwasi, mpe akitisaki ⟨את⟩ mincha liboso ya Yawe, mpe apesaki ⟨את⟩ na epai ya autelo.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "mpe asanganaki"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "uta na loboko"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ya mwasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mincha ya kenesa"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "mincha"
+    },
+    {
+      "surface": "הקנאת",
+      "gloss": "ya kenesa"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "mpe akitisaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mincha"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "mincha"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "mpe apesaki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "na epai ya autelo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na epai ya"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "autelo"
+    }
+  ],
+  "timestamp": "2026-09-03T17:02:35.430225555Z",
+  "model": "glm-5.3"
+}

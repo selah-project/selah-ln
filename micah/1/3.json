@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 1:3",
+  "book": "micah",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpo talá, Yawe akobima uta na esika na ye, mpe akokita, mpe akotekola likolo ya bangomba ya mabele.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "talá"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "akobima"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "uta na esika na ye"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "mpe akokita"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "mpe akotekola"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "במותי",
+      "gloss": "bangomba ya"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T20:48:34.115320170Z",
+  "model": "glm-5.3"
+}

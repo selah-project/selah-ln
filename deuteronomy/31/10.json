@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 31:10",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 31,
+  "translation": "Mpe Moshe atindaki ⟨את⟩ bango koloba: na nsuka ya mibu sambo, na ntango ya ekoti, na mbula ya bobimi, na fete ya Suka.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "atindaki"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ bango",
+      "marks": "bakohen mpe bamikolo (v.9)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "koloba"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "na nsuka ya"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sambo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mibu"
+    },
+    {
+      "surface": "במעד",
+      "gloss": "na ntango ya ekoti"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "na mbula"
+    },
+    {
+      "surface": "השמטה",
+      "gloss": "ya bobimi"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "na fete"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "Suka"
+    }
+  ],
+  "timestamp": "2026-09-03T23:18:12.614245440Z",
+  "model": "glm-5.3"
+}

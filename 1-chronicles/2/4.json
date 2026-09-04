@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 2:4",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe Tamar, mwasi ya mwana na ye, amwelelaki na ye ⟨את⟩ Perets mpe ⟨את⟩ Zerach; bana ya Yehudah nyonso ezalaki ⟨mitano⟩.",
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "Mpe Tamar"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "mwasi ya mwana na ye"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "amwelelaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Perets"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Perets"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Zerach"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Zerach"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ya Yehudah"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "mitano"
+    }
+  ],
+  "timestamp": "2026-09-03T22:40:30.926936376Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 136:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 136,
+  "translation": "Bondimela Elohim ya banzambe, mpo ete na seko hesed na ye.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Bondimela"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "epai ya Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ya banzambe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na seko"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:34:30.119173113Z",
+  "model": "glm-5.3"
+}

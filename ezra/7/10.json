@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 7:10",
+  "book": "ezra",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mpo ete Ezra atyaki motema na ye na koluka ⟨את⟩ Tora ya Yawe, mpe na kosala, mpe na kotangisa na Israel libeko mpe mokano.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo ete"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezra"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "atyaki"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "motema na ye"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "na koluka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tora"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yawe"
+    },
+    {
+      "surface": "ולעשת",
+      "gloss": "mpe na kosala"
+    },
+    {
+      "surface": "וללמד",
+      "gloss": "mpe na kotangisa"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "na Israel"
+    },
+    {
+      "surface": "חק",
+      "gloss": "libeko"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "mpe mokano"
+    }
+  ],
+  "timestamp": "2026-09-03T22:30:35.954945372Z",
+  "model": "glm-5.3"
+}

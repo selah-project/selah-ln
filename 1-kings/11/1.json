@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 11:1",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpe mokonzi Shelomo alingaki basi bapaya ebele, mpe ⟨את⟩ mwana ya mwasi ya Parao, bana basi ya Moab, ba Amon, ba Edom, ba Tsidon, mpe ba Hiti.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Mpe mokonzi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "alingaki"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "basi"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "bapaya"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "ebelé"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mwana ya mwasi ya Parao"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana ya mwasi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "מואביות",
+      "gloss": "bana basi ya Moab"
+    },
+    {
+      "surface": "עמניות",
+      "gloss": "ba Amon"
+    },
+    {
+      "surface": "אדמית",
+      "gloss": "ba Edom"
+    },
+    {
+      "surface": "צדנית",
+      "gloss": "ba Tsidon"
+    },
+    {
+      "surface": "חתית",
+      "gloss": "ba Hiti"
+    }
+  ],
+  "timestamp": "2026-09-03T18:52:01.814006739Z",
+  "model": "glm-5.3"
+}

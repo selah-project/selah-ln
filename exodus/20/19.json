@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 20:19",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 20,
+  "translation": "Mpe balobaki epai ya Moshe: Oloba yo na biso mpe toyokaka; ⟨kasi⟩ Elohim aloba na biso te, mpo tokufa.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Mpe balobaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "oloba"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "na biso"
+    },
+    {
+      "surface": "ונשמעה",
+      "gloss": "mpe toyokaka"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "te"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "aloba"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "na biso"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "פן",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "tokufa"
+    }
+  ],
+  "timestamp": "2026-09-03T16:23:43.399350732Z",
+  "model": "glm-5.3"
+}

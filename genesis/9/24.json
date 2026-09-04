@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 9:24",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Mpe Noa asilikaki na divai na yango, mpe ayebaki ⟨את⟩ oyo mokolo na yango ya moke asalaki ye.",
+  "tokens": [
+    {
+      "surface": "וייקץ",
+      "gloss": "mpe asilikaki"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    },
+    {
+      "surface": "מיינו",
+      "gloss": "na divai na yango"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "mpe ayebaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oyo mokolo na yango ya moke asalaki ye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "asalaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mokolo na yango"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "ya moke"
+    }
+  ],
+  "timestamp": "2026-09-03T15:47:05.744723441Z",
+  "model": "glm-5.3"
+}

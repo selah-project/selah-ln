@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 24:28",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "Mpe Yehoshua atindaki ⟨את⟩ bato, moto na moto na bolekwa na yango.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "atindaki"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bato"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto na moto"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "na bolekwa na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T17:54:34.622501280Z",
+  "model": "glm-5.3"
+}

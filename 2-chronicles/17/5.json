@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 17:5",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 17,
+  "translation": "Mpe Yawe asemelaki ⟨את⟩ bokonzi na maboko na ye, mpe Yehuda nyonso bapesaki lope na Yehoshafat, mpe azwaki na ye bomengo mpe nkembo mingi.",
+  "tokens": [
+    {
+      "surface": "ויכן",
+      "gloss": "asemelaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bokonzi"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "bokonzi"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "na maboko na ye"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "mpe bapesaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "lope"
+    },
+    {
+      "surface": "ליהושפט",
+      "gloss": "na Yehoshafat"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mpe azwaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "bomengo"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "mpe nkembo"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "mingi"
+    }
+  ],
+  "timestamp": "2026-09-03T23:00:21.288026218Z",
+  "model": "glm-5.3"
+}

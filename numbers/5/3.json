@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 5:3",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Kowuta na mobali tee na mwasi botinda; na libanda ya kamp botinda bango; mpe babebisa te ⟨את⟩ kamp na bango, oyo ngai nazali kofanda kati na bango.",
+  "tokens": [
+    {
+      "surface": "מזכר",
+      "gloss": "Kowuta na mobali"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tee na"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "mwasi"
+    },
+    {
+      "surface": "תשלחו",
+      "gloss": "botinda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "libanda"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ya kamp"
+    },
+    {
+      "surface": "תשלחום",
+      "gloss": "botinda bango"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe ... te"
+    },
+    {
+      "surface": "יטמאו",
+      "gloss": "babebisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kamp na bango"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "kamp na bango"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "nazali kofanda"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "kati na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T17:02:58.900828712Z",
+  "model": "glm-5.3"
+}

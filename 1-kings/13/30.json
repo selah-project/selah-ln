@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 13:30",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Mpe atyaki ⟨את⟩ nzoto na yango na litomba na yango, mpe bakangaki mawa likolo na yango, ⟨na koloba⟩: Mawa, ndeko na ngai!",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "atyaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nzoto na yango"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "nzoto na yango"
+    },
+    {
+      "surface": "בקברו",
+      "gloss": "na litomba na yango"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "bakangaki mawa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "likolo na yango"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "Mawa"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ndeko na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T18:51:47.209854229Z",
+  "model": "glm-5.3"
+}

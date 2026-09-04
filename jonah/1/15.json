@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jonah 1:15",
+  "book": "jonah",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe bakwataki ⟨את⟩ Yona, mpe batindaki ye na mbu, mpe mbu etelemaki na zangi na yango.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "bakwataki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yona"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yona"
+    },
+    {
+      "surface": "ויטלהו",
+      "gloss": "mpe batindaki ye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "הים",
+      "gloss": "mbu"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "mpe etelemaki"
+    },
+    {
+      "surface": "הים",
+      "gloss": "mbu"
+    },
+    {
+      "surface": "מזעפו",
+      "gloss": "na zangi na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T20:47:28.208471444Z",
+  "model": "glm-5.3"
+}

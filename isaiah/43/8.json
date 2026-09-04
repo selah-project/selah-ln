@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 43:8",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 43,
+  "translation": "Bimisa ekolo libanga oyo ⟨ezali⟩ na miso, mpe bakufa matoyi oyo bazali na matoyi.",
+  "tokens": [
+    {
+      "surface": "הוציא",
+      "gloss": "bimisa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ekolo"
+    },
+    {
+      "surface": "עור",
+      "gloss": "libanga"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "mpe miso"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ezali na yango"
+    },
+    {
+      "surface": "וחרשים",
+      "gloss": "mpe bakufa matoyi"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "mpe matoyi"
+    },
+    {
+      "surface": "למו",
+      "gloss": "bazali na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T19:29:46.182947078Z",
+  "model": "glm-5.3"
+}

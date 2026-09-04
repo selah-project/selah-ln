@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 114:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 114,
+  "translation": "Oyo abongolaki libanga etanga ya mai, libanga ya makasi na masanga ya mai.",
+  "tokens": [
+    {
+      "surface": "ההפכי",
+      "gloss": "Oyo abongolaki"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "libanga"
+    },
+    {
+      "surface": "אגם",
+      "gloss": "etanga"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ya mai"
+    },
+    {
+      "surface": "חלמיש",
+      "gloss": "libanga ya makasi"
+    },
+    {
+      "surface": "למעינו",
+      "gloss": "na masanga"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ya mai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:29:37.880534511Z",
+  "model": "glm-5.3"
+}

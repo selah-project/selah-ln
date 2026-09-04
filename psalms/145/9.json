@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 145:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 145,
+  "translation": "Yawe azali malamu epai ya banso, mpe ngolu na ye ezali likolo ya misala na ye nyonso.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "azali malamu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "epai ya banso"
+    },
+    {
+      "surface": "ורחמיו",
+      "gloss": "mpe ngolu na ye"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "banso"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "misala na ye nyonso"
+    }
+  ],
+  "timestamp": "2026-09-03T21:36:11.581528931Z",
+  "model": "glm-5.3"
+}

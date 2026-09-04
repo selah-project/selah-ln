@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 25:42",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Mpo bangi basali na ngai, oyo namemaki ⟨את⟩ bango na mabele ya Mitsraim; bakofundwama te na motango ya mosali.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "basali na ngai"
+    },
+    {
+      "surface": "הם",
+      "gloss": "bangi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "namemaki"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bango",
+      "marks": "bango"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "na mabele ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ימכרו",
+      "gloss": "bakofundwama"
+    },
+    {
+      "surface": "ממכרת",
+      "gloss": "na motango"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ya mosali"
+    }
+  ],
+  "timestamp": "2026-09-03T16:54:57.041645352Z",
+  "model": "glm-5.3"
+}

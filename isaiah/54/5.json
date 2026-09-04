@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 54:5",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 54,
+  "translation": "Mpo Mokei na yo azali mobali na yo, Yawe Tsebaot nkombo na ye; mpe Mokimi na yo, Mosantu wa Israel, Elohim ya mabele mobimba akobengama.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "בעליך",
+      "gloss": "mobali na yo"
+    },
+    {
+      "surface": "עשיך",
+      "gloss": "Mokei na yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nkombo na ye"
+    },
+    {
+      "surface": "וגאלך",
+      "gloss": "mpe Mokimi na yo"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Mosantu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Israel"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ya mabele mobimba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "akobengama"
+    }
+  ],
+  "timestamp": "2026-09-03T19:35:11.783110172Z",
+  "model": "glm-5.3"
+}

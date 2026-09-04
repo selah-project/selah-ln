@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 41:11",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 41,
+  "translation": "Mpe yo, Yawe, lemela ngai, mpe tombisa ngai, mpe nakobongisa bango.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Mpe yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "lemela ngai"
+    },
+    {
+      "surface": "והקימני",
+      "gloss": "mpe tombisa ngai"
+    },
+    {
+      "surface": "ואשלמה",
+      "gloss": "mpe nakobongisa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:10:04.020288258Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 20:21",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 20,
+  "translation": "Bato etalemaki na mosika, mpe Moshe akokaki pene na lipata ya molili oyo Elohim ⟨azalaki⟩ kuna.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "etalemaki"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "na mosika"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "mpe Moshe"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "akokaki pene"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "הערפל",
+      "gloss": "lipata ya molili"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-03T16:23:27.097789848Z",
+  "model": "glm-5.3"
+}

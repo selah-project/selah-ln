@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 27:20",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 27,
+  "translation": "Mpe yo, okanisa ⟨את⟩ bana ya Israel, mpe batalela yo mafuta ya oliva ya motena, ya kotelemama, mpo na moleli, mpo na kolamula tigi ntango nyonso.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Mpe yo"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "okanisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bana ya Israel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "mpe batalela"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "yo"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "זית",
+      "gloss": "ya oliva"
+    },
+    {
+      "surface": "זך",
+      "gloss": "ya motena"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "ya kotelemama"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "mpo na moleli"
+    },
+    {
+      "surface": "להעלת",
+      "gloss": "mpo na kolamula"
+    },
+    {
+      "surface": "נר",
+      "gloss": "tigi"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ntango nyonso"
+    }
+  ],
+  "timestamp": "2026-09-03T16:28:31.401089422Z",
+  "model": "glm-5.3"
+}

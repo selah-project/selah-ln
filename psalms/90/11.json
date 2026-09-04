@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 90:11",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 90,
+  "translation": "Nani ayebi nguya ya nkanda na yo, mpe na bobangi na yo, likunya na yo?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Nani"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ayebi"
+    },
+    {
+      "surface": "עז",
+      "gloss": "nguya"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "nkanda na yo"
+    },
+    {
+      "surface": "וכיראתך",
+      "gloss": "mpe na bobangi na yo"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "likunya na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:24:03.045658946Z",
+  "model": "glm-5.3"
+}

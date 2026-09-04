@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 2:17",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Bakoli ya banyama bayaki mpe bakingaki bango; Moshe atombwaki mpe alongisaki bango, mpe amelisaki ⟨את⟩ banyama na bango.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "bayaki"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "bakoli ya banyama"
+    },
+    {
+      "surface": "ויגרשום",
+      "gloss": "bakingaki bango"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "atombwaki"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויושען",
+      "gloss": "alongisaki bango"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "amelisaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "banyama na bango"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "banyama na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:13:02.130050691Z",
+  "model": "glm-5.3"
+}

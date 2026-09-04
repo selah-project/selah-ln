@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 119:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Yo otelemisi mitinda na yo, mpo na kobatela ⟨yango⟩ makasi.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Yo"
+    },
+    {
+      "surface": "צויתה",
+      "gloss": "otelemisi"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "mitinda na yo"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "mpo na kobatela"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "makasi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:30:57.711199837Z",
+  "model": "glm-5.3"
+}

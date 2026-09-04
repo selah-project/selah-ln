@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 11:3",
+  "book": "hosea",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpe ngai, nayekolisaki Efraim kotambola, natomaki bango na maboko na bango, kasi bayebaki ⟨te⟩ ete nabikisaki bango.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "mpe ngai"
+    },
+    {
+      "surface": "תרגלתי",
+      "gloss": "nayekolisaki kotambola"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "קחם",
+      "gloss": "natomaki bango"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "זרועתיו",
+      "gloss": "maboko na bango"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "bayebaki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "רפאתים",
+      "gloss": "nabikisaki bango"
+    }
+  ],
+  "timestamp": "2026-09-03T20:39:39.364586440Z",
+  "model": "glm-5.3"
+}

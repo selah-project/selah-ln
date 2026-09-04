@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 90:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 90,
+  "translation": "Losambo ya Moshe, moto ya Elohim. Adonai, esika ya bobateli yo ozalaki epai ya biso, na mbula mpe na mbula.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Losambo"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "ya Moshe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "esika ya bobateli"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ozalaki"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "epai ya biso"
+    },
+    {
+      "surface": "בדר",
+      "gloss": "na mbula"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "mpe na mbula"
+    }
+  ],
+  "timestamp": "2026-09-03T21:24:29.000945179Z",
+  "model": "glm-5.3"
+}

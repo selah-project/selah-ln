@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 28:14",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 28,
+  "translation": "Mpe basoda atikaki ⟨את⟩ bampamba mpe ⟨את⟩ bolulu liboso ya bakonzi mpe lisanga nyonso.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "mpe atikaki"
+    },
+    {
+      "surface": "החלוץ",
+      "gloss": "basoda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bampamba"
+    },
+    {
+      "surface": "השביה",
+      "gloss": "bampamba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bolulu"
+    },
+    {
+      "surface": "הבזה",
+      "gloss": "bolulu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "bakonzi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "lisanga nyonso"
+    }
+  ],
+  "timestamp": "2026-09-03T23:05:06.988007257Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 28:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 28,
+  "translation": "Yoka loninga ya mabondeli na ngai, ntango nazali kosenga lisalisi epai nawe, ntango nazali kolamusa maboko na ngai epai ya esika nsantu ya bosantu na yo.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Yoka"
+    },
+    {
+      "surface": "קול",
+      "gloss": "loninga"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "ya mabondeli na ngai"
+    },
+    {
+      "surface": "בשועי",
+      "gloss": "ntango nazali kosenga lisalisi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "epai nawe"
+    },
+    {
+      "surface": "בנשאי",
+      "gloss": "ntango nazali kolamusa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "maboko na ngai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "esika nsantu"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "ya bosantu na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:06:55.770370826Z",
+  "model": "glm-5.3"
+}

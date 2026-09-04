@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 84:12",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 84,
+  "translation": "Mpo Yawe Elohim azali moi mpe mokengi; Yawe apesi ngolu mpe nkembo; eloko malamu Yawe abombaka te epai ya baye batambola na bosembo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "moi"
+    },
+    {
+      "surface": "ומגן",
+      "gloss": "mpe mokengi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ngolu"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "mpe nkembo"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "apesi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ימנע",
+      "gloss": "abombaka"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "eloko malamu"
+    },
+    {
+      "surface": "להלכים",
+      "gloss": "epai ya baye batambola"
+    },
+    {
+      "surface": "בתמים",
+      "gloss": "na bosembo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:22:36.451081809Z",
+  "model": "glm-5.3"
+}

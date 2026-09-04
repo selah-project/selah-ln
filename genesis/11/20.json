@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 11:20",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpe Reu avaki bomoi bambula mibale na ntuku misato, mpe abotaki ⟨את⟩ Serug.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "avaki bomoi"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Reu"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "na ntuku misato"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "bambula"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "mpe abotaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serug"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Serug"
+    }
+  ],
+  "timestamp": "2026-09-03T15:49:05.437853061Z",
+  "model": "glm-5.3"
+}

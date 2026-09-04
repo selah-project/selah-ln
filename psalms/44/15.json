@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 44:15",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 44,
+  "translation": "Otelemisi biso mokosa kati ya bikolo, bobwaku ya motó kati ya bambe.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "Otelemisi biso"
+    },
+    {
+      "surface": "משל",
+      "gloss": "mokosa"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "kati ya bikolo"
+    },
+    {
+      "surface": "מנוד",
+      "gloss": "bobwaku"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ya motó"
+    },
+    {
+      "surface": "בל",
+      "gloss": "kati ya"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "bambe"
+    }
+  ],
+  "timestamp": "2026-09-03T21:11:12.220399813Z",
+  "model": "glm-5.3"
+}

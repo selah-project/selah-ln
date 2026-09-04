@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 9:8",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Mpe na Horeb bobangisaki ⟨את⟩ Yawe, mpe Yawe akangaki nganya na bino mpo abomela bino.",
+  "tokens": [
+    {
+      "surface": "ובחרב",
+      "gloss": "mpe na Horeb"
+    },
+    {
+      "surface": "הקצפתם",
+      "gloss": "bobangisaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויתאנף",
+      "gloss": "mpe akangaki nganya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "na bino"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "mpo abomela"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ bino"
+    }
+  ],
+  "timestamp": "2026-09-03T17:28:09.443689389Z",
+  "model": "glm-5.3"
+}

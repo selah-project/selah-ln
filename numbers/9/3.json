@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 9:3",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Na mokolo ya zomi na minei na sanza oyo, kati ya mpokwa, bokosala ⟨את⟩ yango na ntango na yango; ndenge nyonso ya mikanda na yango mpe ndenge nyonso ya mibeko na yango bokosala ⟨את⟩ yango.",
+  "tokens": [
+    {
+      "surface": "בארבעה",
+      "gloss": "na"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "zomi na minei"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mokolo"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "na sanza"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "בין",
+      "gloss": "kati"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "ya mpokwa"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "bokosala"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yango",
+      "marks": "yango (Paka)"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "na ntango na yango"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ndenge nyonso"
+    },
+    {
+      "surface": "חקתיו",
+      "gloss": "ya mikanda na yango"
+    },
+    {
+      "surface": "וככל",
+      "gloss": "mpe ndenge nyonso"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "ya mibeko na yango"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "bokosala"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yango",
+      "marks": "yango (Paka)"
+    }
+  ],
+  "timestamp": "2026-09-03T17:05:54.360056599Z",
+  "model": "glm-5.3"
+}

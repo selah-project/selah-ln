@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 1:10",
+  "book": "judges",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Yehuda ameki epai ya Kenaani oyo azali kofanda na Hevron — mpe kombo ya Hevron na tango ya kala ⟨ezalaki⟩ Kiryat-Arba — mpe bawumbaki ⟨את⟩ Sheshai mpe ⟨את⟩ Akhiman mpe ⟨את⟩ Talmai.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ameki"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaani"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "oyo azali kofanda"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "na Hevron"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "mpe kombo"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "ya Hevron"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "na tango ya kala"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "bawumbaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheshai"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "Sheshai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Akhiman"
+    },
+    {
+      "surface": "אחימן",
+      "gloss": "Akhiman"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Talmai"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "Talmai"
+    }
+  ],
+  "timestamp": "2026-09-03T17:54:51.968383352Z",
+  "model": "glm-5.3"
+}

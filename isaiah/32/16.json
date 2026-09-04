@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 32:16",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 32,
+  "translation": "Mpe bosolo akofanda na tanga, mpe boyengebene afandaka na ndamba ya bokwei.",
+  "tokens": [
+    {
+      "surface": "ושכן",
+      "gloss": "Mpe akofanda"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "na tanga"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "bosolo"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "mpe boyengebene"
+    },
+    {
+      "surface": "בכרמל",
+      "gloss": "na ndamba ya bokwei"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "afandaka"
+    }
+  ],
+  "timestamp": "2026-09-03T19:24:10.305578478Z",
+  "model": "glm-5.3"
+}

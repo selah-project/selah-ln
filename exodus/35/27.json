@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 35:27",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 35,
+  "translation": "Mpe bakonzi bamemaki ⟨את⟩ mabelé ya shoham mpe ⟨את⟩ mabelé ya botyami, mpo na efode mpe mpo na hoshen.",
+  "tokens": [
+    {
+      "surface": "והנשאם",
+      "gloss": "mpe bakonzi"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "bamemaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabelé ya shoham"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "mabelé ya"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "shoham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mabelé ya botyami"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "mabelé ya"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "botyami"
+    },
+    {
+      "surface": "לאפוד",
+      "gloss": "mpo na efode"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "mpe mpo na hoshen"
+    }
+  ],
+  "timestamp": "2026-09-03T16:35:33.431722687Z",
+  "model": "glm-5.3"
+}

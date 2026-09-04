@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 30:26",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 30,
+  "translation": "Mpe okonyata na yango ⟨את⟩ tente ya bokutani, mpe ⟨את⟩ sanduku ya temo.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "Mpe okonyata"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tente ya bokutani"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tente"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya bokutani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "sanduku ya temo"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduku"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ya temo"
+    }
+  ],
+  "timestamp": "2026-09-03T16:31:05.630207725Z",
+  "model": "glm-5.3"
+}

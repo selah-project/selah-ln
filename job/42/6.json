@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 42:6",
+  "book": "job",
+  "lang": "ln",
+  "chapter": 42,
+  "translation": "Mpo na yango naboyi ⟨yango⟩ mpe nazongaki na mpufpa mpe ntolo.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "na yango wana"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "naboyi"
+    },
+    {
+      "surface": "ונחמתי",
+      "gloss": "mpe nazongaki"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "mpufpa"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "mpe ntolo"
+    }
+  ],
+  "timestamp": "2026-09-03T22:07:25.467586693Z",
+  "model": "glm-5.3"
+}

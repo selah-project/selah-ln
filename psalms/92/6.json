@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 92:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 92,
+  "translation": "Yawe, ndenge nini misala na yo ezali monene! Makanisi na yo ⟨ezali⟩ molai mingi.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ndenge nini"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "ezali monene"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "misala na yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mingi"
+    },
+    {
+      "surface": "עמקו",
+      "gloss": "molai"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "makanisi na yo"
+    }
+  ],
+  "timestamp": "2026-09-04T00:21:48.275846251Z",
+  "model": "glm-5.3"
+}

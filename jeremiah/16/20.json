@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 16:20",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Soki moto asalaka banzambe ya ye moko, kasi yango ezali banzambe te?",
+  "tokens": [
+    {
+      "surface": "היעשה",
+      "gloss": "Soki asalaka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya ye moko"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moto"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "banzambe"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "kasi yango"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "banzambe"
+    }
+  ],
+  "timestamp": "2026-09-03T19:48:46.414051182Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 13:7",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Mpe Baebele balatakaki ⟨את⟩ Yarden, na mabele ya Gad mpe Gilada; mpe Shaul ⟨azalaki⟩ kaka na Gilgala, mpe bato nyonso balandaki ye na kobangela.",
+  "tokens": [
+    {
+      "surface": "ועברים",
+      "gloss": "Mpe Baebele"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "balatakaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ya Gad"
+    },
+    {
+      "surface": "וגלעד",
+      "gloss": "mpe Gilada"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "mpe Shaul"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "kaka"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "na Gilgala"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe bato nyonso"
+    },
+    {
+      "surface": "העם",
+      "gloss": ""
+    },
+    {
+      "surface": "חרדו",
+      "gloss": "balandaki"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ye na kobangela"
+    }
+  ],
+  "timestamp": "2026-09-03T18:13:29.412345805Z",
+  "model": "glm-5.3"
+}

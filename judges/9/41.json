@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "judges 9:41",
+  "book": "judges",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Mpe Avimelekh afandaki na Aruma, mpe Zebul atiyaki libanda ⟨את⟩ Gaal mpe ⟨את⟩ bandeko na ye, bafanda na Shekhem te.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "afandaki"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekh"
+    },
+    {
+      "surface": "בארומה",
+      "gloss": "na Aruma"
+    },
+    {
+      "surface": "ויגרש",
+      "gloss": "atiyaki libanda"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "Zebul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gaal"
+    },
+    {
+      "surface": "געל",
+      "gloss": "Gaal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bandeko na ye"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "bandeko na ye"
+    },
+    {
+      "surface": "משבת",
+      "gloss": "kofanda"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "na Shekhem"
+    }
+  ],
+  "timestamp": "2026-09-03T18:01:25.410519558Z",
+  "model": "glm-5.3"
+}

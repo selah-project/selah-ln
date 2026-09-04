@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 147:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 147,
+  "translation": "Bokumisa Ya, mpo ezali malamu kozembela Elohim na biso, mpo ezali elamu, bokumisi ezali na yango kitoko.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Bokumisa"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ezali malamu"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "kozembela"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim na biso"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "ezali elamu"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "ezali na yango kitoko"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "bokumisi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:36:36.268807185Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 9:16",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Bikolo ezindaki na libanga oyo basalaki; na liyaka oyo bakangaki, lokolo na bango ekangamaki.",
+  "tokens": [
+    {
+      "surface": "טבעו",
+      "gloss": "ezindaki"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bikolo"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "na libanga"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "basalaki"
+    },
+    {
+      "surface": "ברשת",
+      "gloss": "na liyaka"
+    },
+    {
+      "surface": "זו",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "bakangaki"
+    },
+    {
+      "surface": "נלכדה",
+      "gloss": "ekangamaki"
+    },
+    {
+      "surface": "רגלם",
+      "gloss": "lokolo na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:02:03.148108464Z",
+  "model": "glm-5.3"
+}

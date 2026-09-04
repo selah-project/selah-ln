@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 10:3",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "botala oyo azali malamu mpe sembo kati ya bana ya bankolo na bino, mpe botele yango na kiti ya bokonzi ya tata na yango, mpe bolwan mpo na ndako ya bankolo na bino.",
+  "tokens": [
+    {
+      "surface": "וראיתם",
+      "gloss": "botala"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "oyo azali malamu"
+    },
+    {
+      "surface": "והישר",
+      "gloss": "mpe sembo"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "kati ya bana"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "ya bankolo na bino"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "mpe botele"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "kiti ya bokonzi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ya tata na yango"
+    },
+    {
+      "surface": "והלחמו",
+      "gloss": "mpe bolwan"
+    },
+    {
+      "surface": "על",
+      "gloss": "mpo na"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "ya bankolo na bino"
+    }
+  ],
+  "timestamp": "2026-09-03T19:02:45.978400716Z",
+  "model": "glm-5.3"
+}

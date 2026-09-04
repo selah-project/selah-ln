@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 12:8",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Mpe bakolia ⟨את⟩ mosolo na butu oyo, lopeki na moto, mpe mikate ya levure te; na bankasi ya mpasi bakolia yango.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "mpe bakolia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mosolo"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "mosolo"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "na butu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "lopeki"
+    },
+    {
+      "surface": "אש",
+      "gloss": "na moto"
+    },
+    {
+      "surface": "ומצות",
+      "gloss": "mpe mikate ya levure te"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "מררים",
+      "gloss": "bankasi ya mpasi"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "bakolia yango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:19:28.865619866Z",
+  "model": "glm-5.3"
+}

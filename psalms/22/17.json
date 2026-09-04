@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 22:17",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Mpo mbwa babombaki ngai na zingazinga, lisanga ya bamosusu bazalaki na zingazinga na ngai; lokola nkoi maboko na ngai mpe milangi na ngai.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "babombaki ngai na zingazinga"
+    },
+    {
+      "surface": "כלבים",
+      "gloss": "mbwa"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "lisanga"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "ya bamosusu"
+    },
+    {
+      "surface": "הקיפוני",
+      "gloss": "bazalaki na zingazinga na ngai"
+    },
+    {
+      "surface": "כארי",
+      "gloss": "lokola nkoi"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "maboko na ngai"
+    },
+    {
+      "surface": "ורגלי",
+      "gloss": "mpe milangi na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:04:37.952378559Z",
+  "model": "glm-5.3"
+}

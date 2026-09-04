@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "joshua 21:39",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "⟨את⟩ Heshbon mpe ⟨את⟩ zingazinga na yango, ⟨את⟩ Yazer mpe ⟨את⟩ zingazinga na yango; mamboka nyonso minei.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Heshbon"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Heshbon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "zingazinga na yango"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "zingazinga na yango"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yazer"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yazer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "zingazinga na yango"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "zingazinga na yango"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "mamboka"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "minei"
+    }
+  ],
+  "timestamp": "2026-09-03T17:53:06.131813547Z",
+  "model": "glm-5.3"
+}

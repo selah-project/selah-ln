@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 11:9",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpe Yawe akangamaki na likebi na Shelomo, mpo motema na ye ewutaki na Yawe Elohim ya Israel, oyo emonanaki epai na ye mbala mibali.",
+  "tokens": [
+    {
+      "surface": "ויתאנף",
+      "gloss": "akangamaki na likebi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בשלמה",
+      "gloss": "na Shelomo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "ewutaki"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "motema na ye"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "הנראה",
+      "gloss": "oyo emonanaki"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "epai na ye"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "mbala mibali"
+    }
+  ],
+  "timestamp": "2026-09-03T18:50:15.577528155Z",
+  "model": "glm-5.3"
+}

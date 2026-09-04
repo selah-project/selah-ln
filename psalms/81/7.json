@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 81:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 81,
+  "translation": "Nabongwisi lipa na yango na kobotama; maboko na yango ebimamaki na likapo.",
+  "tokens": [
+    {
+      "surface": "הסירותי",
+      "gloss": "Nabongwisi"
+    },
+    {
+      "surface": "מסבל",
+      "gloss": "na kobotama"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "lipa na yango"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "maboko na yango"
+    },
+    {
+      "surface": "מדוד",
+      "gloss": "na likapo"
+    },
+    {
+      "surface": "תעברנה",
+      "gloss": "ebimamaki"
+    }
+  ],
+  "timestamp": "2026-09-03T21:21:13.719845716Z",
+  "model": "glm-5.3"
+}

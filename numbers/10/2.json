@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 10:2",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Sala yo trompete mibale ya likundu, mosala ya komokola okosala ⟨את⟩ yango; mpe bikokanaka kala na yo mpo na kobengisa lisanga mpe mpo na kotambolisa ⟨את⟩ bandako.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Sala"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yo"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "חצוצרת",
+      "gloss": "trompete"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "likundu"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "mosala ya komokola"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "okosala"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ yango",
+      "marks": "trompete mibale"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "mpe bikokanaka kala"
+    },
+    {
+      "surface": "לך",
+      "gloss": "na yo"
+    },
+    {
+      "surface": "למקרא",
+      "gloss": "mpo na kobengisa"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "lisanga"
+    },
+    {
+      "surface": "ולמסע",
+      "gloss": "mpe mpo na kotambolisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bandako"
+    },
+    {
+      "surface": "המחנות",
+      "gloss": "bandako"
+    }
+  ],
+  "timestamp": "2026-09-03T17:04:59.712810390Z",
+  "model": "glm-5.3"
+}

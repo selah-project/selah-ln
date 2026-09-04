@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 8:9",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe Toi, mokonzi ya Hamat, ayokaki ete David alobaki ⟨את⟩ mampinga nyonso ya Hadadezer.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Mpe ... ayokaki"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "Toi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ya Hamat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mampinga nyonso ya Hadadezer"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "mampinga"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "ya Hadadezer"
+    }
+  ],
+  "timestamp": "2026-09-03T18:30:03.914433343Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 19:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Tora ya Yawe ezali ya kokoka mobimba, ezongisaka molimo; temo ya Yawe ezali ya kokangama, epesaka bwanya na moto ya motema moke.",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "תמימה",
+      "gloss": "ya kokoka mobimba"
+    },
+    {
+      "surface": "משיבת",
+      "gloss": "ezongisaka"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "molimo"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "temo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "ya kokangama"
+    },
+    {
+      "surface": "מחכימת",
+      "gloss": "epesaka bwanya"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "na moto ya motema moke"
+    }
+  ],
+  "timestamp": "2026-09-03T21:05:08.248574224Z",
+  "model": "glm-5.3"
+}

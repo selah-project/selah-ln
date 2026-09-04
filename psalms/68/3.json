@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 68:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 68,
+  "translation": "Lokola moye ekapusami, bapusama ⟨bango⟩; lokola dona ezokangama liboso ya moto, babe ebomama liboso ya Elohim.",
+  "tokens": [
+    {
+      "surface": "כהנדף",
+      "gloss": "lokola bokapusami"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "moye"
+    },
+    {
+      "surface": "תנדף",
+      "gloss": "ekapusami"
+    },
+    {
+      "surface": "כהמס",
+      "gloss": "lokola bokangami"
+    },
+    {
+      "surface": "דונג",
+      "gloss": "dona"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "אש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "ebomama"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "babe"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-04T00:21:52.998206184Z",
+  "model": "glm-5.3"
+}

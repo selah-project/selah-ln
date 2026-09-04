@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 17:12",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 17,
+  "translation": "Ye akotonga ngai ndako, mpe nakokokisa ⟨את⟩ kitirolo na ye kino elibela.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Ye"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "akotonga"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "mpe nakokokisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kitirolo na ye"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "kitirolo na ye"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "elibela"
+    }
+  ],
+  "timestamp": "2026-09-03T22:48:21.127080687Z",
+  "model": "glm-5.3"
+}

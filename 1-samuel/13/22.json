@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 13:22",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Mpe esalaki ete na mokolo ya etumba, likele na mokwi ekutamaki te na moboko ya bato nyonso oyo bazalaki ⟨את⟩ Shaul mpe ⟨את⟩ Yonatan; kasi ekutamaki epai ya Shaul mpe epai ya Yonatan mwana na ye.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "mpe esalaki ete"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na mokolo"
+    },
+    {
+      "surface": "מלחמת",
+      "gloss": "ya etumba"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "te"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "ekutamaki"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "likele"
+    },
+    {
+      "surface": "וחנית",
+      "gloss": "mpe mokwi"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "na moboko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shaul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Yonatan"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "ותמצא",
+      "gloss": "kasi ekutamaki"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "epai ya Shaul"
+    },
+    {
+      "surface": "וליונתן",
+      "gloss": "mpe epai ya Yonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T18:12:54.871090746Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 18:4",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Bosala ⟨את⟩ mateya na ngai, mpe bolanda ⟨את⟩ mibeko na ngai, mpo na bozenda na yango; ngai nazali Yawe Elohim na bino.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mateya na ngai"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "mateya na ngai"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "Bosala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mibeko na ngai"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "mibeko na ngai"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "bolanda"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "mpo na bozenda"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim na bino"
+    }
+  ],
+  "timestamp": "2026-09-03T16:49:50.171501021Z",
+  "model": "glm-5.3"
+}

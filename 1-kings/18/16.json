@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 18:16",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Mpe Ovadyamu akendeki kosangana na Ahab, mpe ayanolaki naye; mpe Ahab akendeki kosangana na Eliyahu.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "mpe akendeki"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Ovadyamu"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "kosangana na"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "mpe ayanolaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "mpe akendeki"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "kosangana na"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    }
+  ],
+  "timestamp": "2026-09-03T18:54:55.981489985Z",
+  "model": "glm-5.3"
+}

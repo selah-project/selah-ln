@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 2:20",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Alobaki epai ya bana basi na ye: Mpe azali wapi? Mpo na nini, bongo, botiki ⟨את⟩ moto? Bengele yango, mpe alia mbolo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Alobaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "bana basi na ye"
+    },
+    {
+      "surface": "ואיו",
+      "gloss": "Mpe azali wapi"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Mpo na nini"
+    },
+    {
+      "surface": "זה",
+      "gloss": "bongo"
+    },
+    {
+      "surface": "עזבתן",
+      "gloss": "botiki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moto"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "קראן",
+      "gloss": "Bengele"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yango"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "alia"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mbolo"
+    }
+  ],
+  "timestamp": "2026-09-03T16:13:02.130567212Z",
+  "model": "glm-5.3"
+}

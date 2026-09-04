@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 23:9",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Mpe mopaya konyokola ye te; mpe bino boyebi ⟨את⟩ bomoi ya mopaya, mpo bino bozalaki bapaya na mabele ya Mitsraim.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "Mpe mopaya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תלחץ",
+      "gloss": "konyokola ye"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "mpe bino"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "boyebi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bomoi ya mopaya"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "bomoi"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "ya mopaya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "bapaya"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "bozalaki"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Mitsraim"
+    }
+  ],
+  "timestamp": "2026-09-03T23:13:34.649248284Z",
+  "model": "glm-5.3"
+}

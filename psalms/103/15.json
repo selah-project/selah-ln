@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 103:15",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 103,
+  "translation": "Moto ya bomoi ya mokuse, mikolo na ye ezali lokola gazon; lokola santu ya shamba, ndenge wana akoleka bomoi ya seke.",
+  "tokens": [
+    {
+      "surface": "אנוש",
+      "gloss": "Moto ya bomoi ya mokuse"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "lokola gazon"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "mikolo na ye"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "lokola santu"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ya shamba"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ndenge wana"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "akoleka bomoi ya seke"
+    }
+  ],
+  "timestamp": "2026-09-03T21:25:58.306867998Z",
+  "model": "glm-5.3"
+}

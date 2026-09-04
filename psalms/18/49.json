@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "psalms 18:49",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Oyo apatoli ngai uta na banguna na ngai, mpe uta na baye bazali yanga na ngai atodemisaka ngai likolo; uta na moto ya mabe abikisaka ngai.",
+  "tokens": [
+    {
+      "surface": "מפלטי",
+      "gloss": "Oyo apatoli ngai"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "uta na banguna na ngai"
+    },
+    {
+      "surface": "אף",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uta na"
+    },
+    {
+      "surface": "קמי",
+      "gloss": "baye bazali yanga na ngai"
+    },
+    {
+      "surface": "תרוממני",
+      "gloss": "atodemisaka ngai likolo"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "na moto"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ya mabe"
+    },
+    {
+      "surface": "תצילני",
+      "gloss": "abikisaka ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:04:00.460500645Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 28:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 28,
+  "translation": "Kanga ngai te elongo na babe, mpe elongo na basali ya mabe, balobaka kimya na bandeko na bango, kasi mabe ezali na motema na bango.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תמשכני",
+      "gloss": "Kanga ngai"
+    },
+    {
+      "surface": "עם",
+      "gloss": "elongo na"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "babe"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "mpe elongo na"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "basali"
+    },
+    {
+      "surface": "און",
+      "gloss": "ya mabe"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "balobaka"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kimya"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "רעיהם",
+      "gloss": "bandeko na bango"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "kasi mabe"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "na motema na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:06:55.770514990Z",
+  "model": "glm-5.3"
+}

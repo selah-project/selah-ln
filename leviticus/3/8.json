@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 3:8",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe atya ⟨את⟩ loboko na ye likolo ya motoku ya mbeka na ye, mpe abomi ⟨את⟩ yango libosa ya kahwela ya bokutani, mpe bana ya Aharon bakobwaka ⟨את⟩ makasi na yango likolo ya autel na ngambo nyonso.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "mpe atya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "loboko na ye"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "loboko na ye"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "motoku"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "ya mbeka na ye"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "mpe abomi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yango",
+      "marks": "yango (toke)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "libosa ya"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kahwela"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya bokutani"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "mpe bakobwaka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ya Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makasi na yango"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "makasi na yango"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "autel"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "na ngambo nyonso"
+    }
+  ],
+  "timestamp": "2026-09-03T16:40:15.777656297Z",
+  "model": "glm-5.3"
+}

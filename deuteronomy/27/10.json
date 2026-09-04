@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 27:10",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 27,
+  "translation": "Mpe boyoka mongongo ya Yawe Elohim nayo, mpe sala ⟨את⟩ mitindo na ye mpe ⟨את⟩ milulu na ye, oyo ngai nazali kotinda yo lelo.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "Mpe boyoka"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "mongongo ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim nayo"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "mpe sala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mitindo na ye"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "mitindo na ye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "milulu na ye"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "milulu na ye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "nazali kotinda yo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lelo"
+    }
+  ],
+  "timestamp": "2026-09-03T17:35:30.083009075Z",
+  "model": "glm-5.3"
+}

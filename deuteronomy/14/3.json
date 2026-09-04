@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 14:3",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Okolia eloko nyonso ya mokwe te.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "okolia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "eloko nyonso"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "ya mokwe"
+    }
+  ],
+  "timestamp": "2026-09-03T17:29:58.247274626Z",
+  "model": "glm-5.3"
+}

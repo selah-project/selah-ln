@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 46:16",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 46,
+  "translation": "Mpe bana ya Gad: Tsifion mpe Hagi, Shuni mpe Etsvon, Eri, mpe Arodi, mpe Areli.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Mpe bana ya"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "צפיון",
+      "gloss": "Tsifion"
+    },
+    {
+      "surface": "וחגי",
+      "gloss": "mpe Hagi"
+    },
+    {
+      "surface": "שוני",
+      "gloss": "Shuni"
+    },
+    {
+      "surface": "ואצבן",
+      "gloss": "mpe Etsvon"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "Eri"
+    },
+    {
+      "surface": "וארודי",
+      "gloss": "mpe Arodi"
+    },
+    {
+      "surface": "ואראלי",
+      "gloss": "mpe Areli"
+    }
+  ],
+  "timestamp": "2026-09-03T16:10:00.121048729Z",
+  "model": "glm-5.3"
+}

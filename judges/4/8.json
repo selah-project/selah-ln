@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 4:8",
+  "book": "judges",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe Barak alobaki epai ye: Soki okende na ngai, nakokende; mpe soki okende te na ngai, nakokende te.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "epai ye"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Barak"
+    },
+    {
+      "surface": "אם",
+      "gloss": "soki"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "okende"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "והלכתי",
+      "gloss": "nakokende"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "mpe soki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "okende"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "nakokende"
+    }
+  ],
+  "timestamp": "2026-09-03T17:58:48.793096352Z",
+  "model": "glm-5.3"
+}

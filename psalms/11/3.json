@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 11:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpo ete mabateli masilaki kotombwama, moto ya sembo asali nini?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo ete"
+    },
+    {
+      "surface": "השתות",
+      "gloss": "mabateli"
+    },
+    {
+      "surface": "יהרסון",
+      "gloss": "masilaki kotombwama"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "moto ya sembo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "asali"
+    }
+  ],
+  "timestamp": "2026-09-03T21:03:22.369020386Z",
+  "model": "glm-5.3"
+}

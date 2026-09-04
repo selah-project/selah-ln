@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 21:12",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Kasi ⟨את⟩ shaba ya mboka mpe ⟨את⟩ bavillage na yango bapesaki na Kalev mwana ya Yefune lokola bozwi na ye.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "shaba ya mboka"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "shaba"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ya mboka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bavillage na yango"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "bavillage na yango"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "bapesaki"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "na Kalev"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana ya"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Yefune"
+    },
+    {
+      "surface": "באחזתו",
+      "gloss": "lokola bozwi na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T23:19:58.858798803Z",
+  "model": "glm-5.3"
+}

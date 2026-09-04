@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 14:8",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Mpe Yawe amatisaki makasi ⟨את⟩ motema ya Parao, mokonzi ya Mitsraim, mpe alandaki na sima ya bana ya Israel; mpe bana ya Israel babimaki na loboko ya likolo.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "amatisaki makasi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motema"
+    },
+    {
+      "surface": "לב",
+      "gloss": "motema"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Mitsraim"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "mpe alandaki"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "na sima ya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "mpe bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "babimaki"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "na loboko"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "ya likolo"
+    }
+  ],
+  "timestamp": "2026-09-03T16:19:51.019286795Z",
+  "model": "glm-5.3"
+}

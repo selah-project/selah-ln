@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 41:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 41,
+  "translation": "Ngai nalobaki: Yawe, pesa ngai ngolu na yo; bongisa molimo na ngai, mpo nasalaki mabe epai na yo.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ngai"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nalobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "pesa ngai ngolu"
+    },
+    {
+      "surface": "רפאה",
+      "gloss": "bongisa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "molimo na ngai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "nasalaki mabe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "epai na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:10:28.472012576Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 139:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 139,
+  "translation": "Boyebi ya mpasi etali ngai; ezali likolo mpenza, nakoki yango te.",
+  "tokens": [
+    {
+      "surface": "פלאיה",
+      "gloss": "ya mpasi"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "boyebi"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "etali ngai"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "ezali likolo mpenza"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "nakoki"
+    },
+    {
+      "surface": "לה",
+      "gloss": "yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:34:50.516831530Z",
+  "model": "glm-5.3"
+}

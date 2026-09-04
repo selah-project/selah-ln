@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 35:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 35,
+  "translation": "Ya David. Bondwanisa, Yawe, ⟨את⟩ bapongoli na ngai; lwanisa ⟨את⟩ balwani na ngai.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ya David"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "Bondwanisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bapongoli na ngai"
+    },
+    {
+      "surface": "יריבי",
+      "gloss": "bapongoli na ngai"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "lwanisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balwani na ngai"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "balwani na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:08:45.168985052Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 106:27",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 106,
+  "translation": "Mpe mpo na kondimola mbuta na bango kati ya bikolo, mpe mpo na kobwaka bango na mabele.",
+  "tokens": [
+    {
+      "surface": "ולהפיל",
+      "gloss": "mpe mpo na kondimola"
+    },
+    {
+      "surface": "זרעם",
+      "gloss": "mbuta na bango"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "kati ya bikolo"
+    },
+    {
+      "surface": "ולזרותם",
+      "gloss": "mpe mpo na kobwaka bango"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "na mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T21:28:13.091678044Z",
+  "model": "glm-5.3"
+}

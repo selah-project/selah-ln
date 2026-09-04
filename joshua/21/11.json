@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 21:11",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Mpe bapesaki bango ⟨את⟩ Kiryat-Arba, tata ya Anok, yango ezali Hevron, na ngomba ya Yehuda, mpe ⟨את⟩ bisika ya pembeni na yango o zingazinga na yango.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "mpe bapesaki bango"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bango"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kiryat-Arba"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tata ya"
+    },
+    {
+      "surface": "הענוק",
+      "gloss": "Anok"
+    },
+    {
+      "surface": "היא",
+      "gloss": "yango ezali"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevron"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "na ngomba ya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bisika ya pembeni na yango"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "bisika ya pembeni na yango"
+    },
+    {
+      "surface": "סביבתיה",
+      "gloss": "o zingazinga na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T23:19:58.858484910Z",
+  "model": "glm-5.3"
+}

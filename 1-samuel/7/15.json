@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 7:15",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mpe Shemuel azalaki kotambwisa mibeko ⟨את⟩ Israel mikolo nyonso ya bomoi na ye.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "mpe azalaki kotambwisa mibeko"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mikolo"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "ya bomoi na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T18:11:11.140265880Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 25:20",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Mpe soki bolobi: Tokolia nini na mbula ya nsambo, talá, tobwaka mbuto te mpe tosangisi te ⟨את⟩ boboti ya biso?",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "mpe soki"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "bolobi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "tokolia"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "na mbula"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "ya nsambo"
+    },
+    {
+      "surface": "הן",
+      "gloss": "talá"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "נזרע",
+      "gloss": "tobwaka mbuto te"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "נאסף",
+      "gloss": "tosangisi te"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boboti ya biso"
+    },
+    {
+      "surface": "תבואתנו",
+      "gloss": "boboti ya biso"
+    }
+  ],
+  "timestamp": "2026-09-03T23:15:14.017177966Z",
+  "model": "glm-5.3"
+}

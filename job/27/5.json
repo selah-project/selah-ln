@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 27:5",
+  "book": "job",
+  "lang": "ln",
+  "chapter": 27,
+  "translation": "Halila likolo na ngai soki nakolimbisa ⟨את⟩ bino; kino nakufa, nakolongola te bosolo na ngai epai na ngai mosi.",
+  "tokens": [
+    {
+      "surface": "חלילה",
+      "gloss": "Halila"
+    },
+    {
+      "surface": "לי",
+      "gloss": "likolo na ngai"
+    },
+    {
+      "surface": "אם",
+      "gloss": "soki"
+    },
+    {
+      "surface": "אצדיק",
+      "gloss": "nakolimbisa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ bino",
+      "marks": "bino"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "אגוע",
+      "gloss": "nakufa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "nakolongola"
+    },
+    {
+      "surface": "תמתי",
+      "gloss": "bosolo na ngai"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "epai na ngai mosi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:59:21.122294688Z",
+  "model": "glm-5.3"
+}

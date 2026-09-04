@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 18:26",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Elongo na moto ya hesed (bolingo ya bondimi) ozalaka motinda hesed; elongo na moto ya bosembo mobimba ozalaka motinda bosembo mobimba.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "elongo na"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "moto ya hesed"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "ozalaka motinda hesed"
+    },
+    {
+      "surface": "עם",
+      "gloss": "elongo na"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "moto"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ya bosembo mobimba"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "ozalaka motinda bosembo mobimba"
+    }
+  ],
+  "timestamp": "2026-09-03T21:04:32.439842956Z",
+  "model": "glm-5.3"
+}

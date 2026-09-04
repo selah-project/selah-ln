@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 3:4",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpé tozwaki ⟨את⟩ bamboka na ye nyonso na ntango yango; bamboka moko te ezalaki oyo tozwaki te na bango ⟨את⟩; bamboka ntuku motoba, etando nyonso ya Argob, bokonzi ya Og na Bashan.",
+  "tokens": [
+    {
+      "surface": "ונלכד",
+      "gloss": "mpé tozwaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bamboka na ye nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "עריו",
+      "gloss": "bamboka na ye"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "na ntango"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yango"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ezalaki"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "bamboka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "לקחנו",
+      "gloss": "tozwaki"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "na bango ⟨את⟩"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "ntuku motoba"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "bamboka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "etando"
+    },
+    {
+      "surface": "ארגב",
+      "gloss": "ya Argob"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "bokonzi"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "ya Og"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "na Bashan"
+    }
+  ],
+  "timestamp": "2026-09-03T17:24:33.315817020Z",
+  "model": "glm-5.3"
+}

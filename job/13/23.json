@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 13:23",
+  "book": "job",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Makama na ngai mpe masumu ezali mingi nini? Pesa ngai koyeba bososoli na ngai mpe sumu na ngai.",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "mingi nini"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "makama"
+    },
+    {
+      "surface": "וחטאות",
+      "gloss": "mpe masumu"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "bososoli na ngai"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "mpe sumu na ngai"
+    },
+    {
+      "surface": "הדיעני",
+      "gloss": "pesa ngai koyeba"
+    }
+  ],
+  "timestamp": "2026-09-03T21:53:39.966554425Z",
+  "model": "glm-5.3"
+}

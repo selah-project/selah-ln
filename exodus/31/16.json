@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 31:16",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 31,
+  "translation": "Mpe bana ya Israel balanda ⟨את⟩ Shabat, mpo bakoka kosala ⟨את⟩ Shabat mpo na mikolo na bango, ligomba ya ntango nyonso.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "Mpe balanda"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shabat"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabat"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "mpo bakoka kosala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shabat"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabat"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "mpo na mikolo na bango"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ligomba"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ya ntango nyonso"
+    }
+  ],
+  "timestamp": "2026-09-03T16:31:07.784144853Z",
+  "model": "glm-5.3"
+}

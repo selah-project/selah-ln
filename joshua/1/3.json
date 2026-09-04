@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 1:3",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Esika nyonso ekangamaki na kufu ya makolo na bino, na bino nakopesa yango, ndenge nalobaki na Moshe.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "esika"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "bofungolaki"
+    },
+    {
+      "surface": "כף",
+      "gloss": "kufu"
+    },
+    {
+      "surface": "רגלכם",
+      "gloss": "ya makolo na bino"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "na bino"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "nakopesa yango"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ndenge"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "nalobaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-03T17:44:40.875139233Z",
+  "model": "glm-5.3"
+}

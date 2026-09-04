@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 79:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 79,
+  "translation": "Bawusaki makila na bango lokola mai etando ya Yerushalaim, mpe moto moko te ya kokanga.",
+  "tokens": [
+    {
+      "surface": "שפכו",
+      "gloss": "Bawusaki"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "makila na bango"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "lokola mai"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "etando"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ya Yerushalaim"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mpe moto moko te"
+    },
+    {
+      "surface": "קובר",
+      "gloss": "ya kokanga"
+    }
+  ],
+  "timestamp": "2026-09-03T21:21:37.482474424Z",
+  "model": "glm-5.3"
+}

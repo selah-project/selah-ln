@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 24:5",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "Mpe atindaki ⟨את⟩ mibali mike ya bana ya Israel, mpe bakolekisaki bipekiseli, mpe babekisaki bibebo ya kimya mpo na Yawe — bampandi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Mpe atindaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mibali mike ya bana ya Israel"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "mibali mike"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ya bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "mpe bakolekisaki"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "bipekiseli"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "mpe babekisaki"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "bibebo"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "ya kimya"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "mpo na Yawe"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "bampandi"
+    }
+  ],
+  "timestamp": "2026-09-03T16:27:00.514109576Z",
+  "model": "glm-5.3"
+}

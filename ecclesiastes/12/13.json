@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 12:13",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Nsuka ya liloba, nyonso emokamaki: banga ⟨את⟩ Elohim, mpe batela mpe ⟨את⟩ bamitate na ye, mpo oyo ezali nyonso ya moto.",
+  "tokens": [
+    {
+      "surface": "סוף",
+      "gloss": "Nsuka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ya liloba"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "emokamaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "banga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bamitate na ye"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "bamitate na ye"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "batela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ya moto"
+    }
+  ],
+  "timestamp": "2026-09-03T22:16:07.325300634Z",
+  "model": "glm-5.3"
+}

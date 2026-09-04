@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 21:13",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Mpo okotyaka bango likolongo, okotelemisaka mikodi na yo likolo ya bongongo na bango.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "תשיתמו",
+      "gloss": "okotyaka bango"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "likolongo"
+    },
+    {
+      "surface": "במיתריך",
+      "gloss": "na mikodi na yo"
+    },
+    {
+      "surface": "תכונן",
+      "gloss": "okotelemisaka"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "bongongo na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:03:45.579528733Z",
+  "model": "glm-5.3"
+}

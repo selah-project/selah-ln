@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 147:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 147,
+  "translation": "Bokumisa Yawe na matondo; boyembela Elohim na biso na kinjoro.",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "bokumisa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "na Yawe"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "na matondo"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "boyembela"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "na Elohim na biso"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "na kinjoro"
+    }
+  ],
+  "timestamp": "2026-09-03T21:36:52.676574029Z",
+  "model": "glm-5.3"
+}

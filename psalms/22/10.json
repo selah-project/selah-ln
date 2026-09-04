@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 22:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Mpo yo obimisaki ngai uta libumu, onakisaki ngai bondemi na mapapa ya mama na ngai.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "גחי",
+      "gloss": "obimisaki ngai"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "uta libumu"
+    },
+    {
+      "surface": "מבטיחי",
+      "gloss": "onakisaki ngai bondemi"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "mapapa"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ya mama na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:03:59.750136670Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Kosala mabe te mingi, mpe kozala soki te; mpo nini okufa na kozanga ntango na yo?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "kosala mabe"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "mingi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "kozala"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "soki"
+    },
+    {
+      "surface": "למה",
+      "gloss": "mpo nini"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "okufa"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "na kozanga"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "ntango na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T22:15:14.419547771Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 25:17",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Mpe bonyokola te moto ⟨את⟩ moninga na ye; mpe obanga Elohim na yo; mpo ngai nazali Yawe Elohim na bino.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "mpe ... te"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "bonyokola"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moninga na ye"
+    },
+    {
+      "surface": "עמיתו",
+      "gloss": "moninga na ye"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "mpe obanga"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "Elohim na yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim na bino"
+    }
+  ],
+  "timestamp": "2026-09-03T23:15:06.281319435Z",
+  "model": "glm-5.3"
+}

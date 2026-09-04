@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 12:19",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Kanisa yo moko mpo te otika ⟨את⟩ Levi, mikolo na yo nyonso, na mabele na yo.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "Kanisa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yo moko"
+    },
+    {
+      "surface": "פן",
+      "gloss": "mpo te"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "otika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Levi"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "ya mikolo na yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "mabele na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T17:30:30.325235774Z",
+  "model": "glm-5.3"
+}

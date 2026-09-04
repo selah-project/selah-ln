@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 103:21",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 103,
+  "translation": "Bokumisa Yawe, bibele na ye nyonso, basalisi na ye, baye basalaka mokemoke na ye.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Bokumisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "צבאיו",
+      "gloss": "bibele na ye"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "basalisi na ye"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "baye basalaka"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "mokemoke na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:25:36.157646361Z",
+  "model": "glm-5.3"
+}

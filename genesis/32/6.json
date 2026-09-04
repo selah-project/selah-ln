@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 32:6",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 32,
+  "translation": "Mpe ezalaki na ngai ngombe, mpe bae, bitoyo, mpe mobali mosali, mpe mwasi mosali; mpe natindaki kolakisa nkolo na ngai, mpo na komona bolamu miso na yo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ezalaki"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ngombe"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "mpe bae"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "bitoyo"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "mpe mobali mosali"
+    },
+    {
+      "surface": "ושפחה",
+      "gloss": "mpe mwasi mosali"
+    },
+    {
+      "surface": "ואשלחה",
+      "gloss": "mpe natindaki"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "kolakisa"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "nkolo na ngai"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "mpo na komona"
+    },
+    {
+      "surface": "חן",
+      "gloss": "bolamu"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "miso na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T16:02:52.243775971Z",
+  "model": "glm-5.3"
+}

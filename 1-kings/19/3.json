@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 19:3",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Amoni bongo, atombwaki mpe akendeki mpo na bomoi na ye, akotaki na Beer-Sheva oyo ezali ya Yehuda, mpe atikalisi ⟨את⟩ mosungi na ye kuna.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "amoni bongo"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "atombwaki"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "akendeki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mpo na"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "bomoi na ye"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "akotaki"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo ezali"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "ya Yehuda"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "atikalisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mosungi na ye"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "mosungi na ye"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuna"
+    }
+  ],
+  "timestamp": "2026-09-03T18:56:48.981557322Z",
+  "model": "glm-5.3"
+}

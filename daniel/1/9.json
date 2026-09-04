@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 1:9",
+  "book": "daniel",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe Elohim apeki ⟨את⟩ Daniel na hesed (bolingo) mpe na mawa liboso ya mokonzi ya basarisi.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Mpe apeki"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daniel"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniel"
+    },
+    {
+      "surface": "לחסד",
+      "gloss": "na hesed"
+    },
+    {
+      "surface": "ולרחמים",
+      "gloss": "mpe na mawa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "basarisi"
+    }
+  ],
+  "timestamp": "2026-09-03T22:19:23.553181006Z",
+  "model": "glm-5.3"
+}

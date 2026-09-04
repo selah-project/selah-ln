@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 54:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 54,
+  "translation": "Mpo ete banganga-biko batandolaki ngai, mpe bato ya makasi balukaki molimo na ngai; batyaki Elohim te liboso na bango. Selah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo ete"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "banganga-biko"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "batandolaki"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "mpe bato ya makasi"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "balukaki"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "molimo na ngai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "batyaki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "liboso na bango"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-03T21:13:52.243331642Z",
+  "model": "glm-5.3"
+}

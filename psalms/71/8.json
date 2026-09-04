@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 71:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 71,
+  "translation": "Kamwa na ngai etondi bokumisi ya yo, mokolo mobimba kitoko-nkembo ya yo.",
+  "tokens": [
+    {
+      "surface": "ימלא",
+      "gloss": "etondi"
+    },
+    {
+      "surface": "פי",
+      "gloss": "Kamwa na ngai"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "bokumisi ya yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mobimba"
+    },
+    {
+      "surface": "היום",
+      "gloss": "mokolo"
+    },
+    {
+      "surface": "תפארתך",
+      "gloss": "kitoko-nkembo ya yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:16:48.295405786Z",
+  "model": "glm-5.3"
+}

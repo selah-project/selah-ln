@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 20:16",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 20,
+  "translation": "Okoyanola te na monjèle na yo na temo ya lokuta.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "okoyanola"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "na monjèle na yo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "temo"
+    },
+    {
+      "surface": "עד",
+      "gloss": null
+    }
+  ],
+  "timestamp": "2026-09-03T16:21:53.193614158Z",
+  "model": "glm-5.3"
+}

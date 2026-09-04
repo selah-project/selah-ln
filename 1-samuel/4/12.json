@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 4:12",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe moto moko ya Benyamin alongaki uta na etumba, mpe ayaki na Shilo na mokolo yango, mpe bilamba na ye etomboki, mpe mabele ezalaki na motó na ye.",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "mpe alongaki"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto moko"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "ya Benyamin"
+    },
+    {
+      "surface": "מהמערכה",
+      "gloss": "uta na etumba"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "mpe ayaki"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "na Shilo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na mokolo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yango"
+    },
+    {
+      "surface": "ומדיו",
+      "gloss": "mpe bilamba na ye"
+    },
+    {
+      "surface": "קרעים",
+      "gloss": "etomboki"
+    },
+    {
+      "surface": "ואדמה",
+      "gloss": "mpe mabele"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "motó na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T18:10:41.929445885Z",
+  "model": "glm-5.3"
+}

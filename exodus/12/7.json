@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 12:7",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Mpe bakomema kati ya maki, mpe bakotiya na nseko ibale ya milango mpe na likonzi ya likolo, na bandako oyo bakolia ⟨את⟩ yango kati na yango.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "mpe bakomema"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kati ya"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "maki"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "mpe bakotiya"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ibale"
+    },
+    {
+      "surface": "המזוזת",
+      "gloss": "nseko ya milango"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "mpe na"
+    },
+    {
+      "surface": "המשקוף",
+      "gloss": "likonzi ya likolo"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "bandako"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "bakolia"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yango",
+      "marks": "yango (se)"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kati na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:19:28.865483455Z",
+  "model": "glm-5.3"
+}

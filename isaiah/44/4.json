@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 44:4",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 44,
+  "translation": "Mpe bakokola kati na matete, lokola baarabu pembeni ya miselo ya mai.",
+  "tokens": [
+    {
+      "surface": "וצמחו",
+      "gloss": "mpe bakokola"
+    },
+    {
+      "surface": "בבין",
+      "gloss": "kati na"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "matete"
+    },
+    {
+      "surface": "כערבים",
+      "gloss": "lokola baarabu"
+    },
+    {
+      "surface": "על",
+      "gloss": "pembeni ya"
+    },
+    {
+      "surface": "יבלי",
+      "gloss": "miselo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mai"
+    }
+  ],
+  "timestamp": "2026-09-03T19:31:25.795288164Z",
+  "model": "glm-5.3"
+}

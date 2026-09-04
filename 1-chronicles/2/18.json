@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 2:18",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe Kalev mwana ya Hetsron abotaki ⟨את⟩ Azuba mwasi mpe ⟨את⟩ Yeriot; mpe bana na ye bazaraki Yeshar, Shovav, mpe Ardon.",
+  "tokens": [
+    {
+      "surface": "וכלב",
+      "gloss": "Mpe Kalev"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana ya"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Hetsron"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "abotaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azuba"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "Azuba"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mwasi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Yeriot"
+    },
+    {
+      "surface": "יריעות",
+      "gloss": "Yeriot"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "mpe bano"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "bana na ye"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "Yeshar"
+    },
+    {
+      "surface": "ושובב",
+      "gloss": "Shovab"
+    },
+    {
+      "surface": "וארדון",
+      "gloss": "Ardon"
+    }
+  ],
+  "timestamp": "2026-09-03T22:40:20.189305611Z",
+  "model": "glm-5.3"
+}

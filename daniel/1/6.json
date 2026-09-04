@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "daniel 1:6",
+  "book": "daniel",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe kati na bango ezalaki bana ya Yehudah: Daniel, Hananiah, Mishael, mpe Azariah.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mpe ezalaki"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kati na bango"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "bana ya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniel"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Hananiah"
+    },
+    {
+      "surface": "מישאל",
+      "gloss": "Mishael"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "mpe Azariah"
+    }
+  ],
+  "timestamp": "2026-09-03T22:19:00.963805780Z",
+  "model": "glm-5.3"
+}

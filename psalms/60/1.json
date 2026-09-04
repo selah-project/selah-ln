@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 60:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 60,
+  "translation": "Na lokasa ya mokambi ya nzembo, na Shushan-Eduth, mokanda-makomi ya David, mpo na kolakisa.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Na lokasa ya mokambi ya nzembo"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "Shushan"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "Eduth"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "mokanda-makomi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya David"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "mpo na kolakisa"
+    }
+  ],
+  "timestamp": "2026-09-03T21:15:29.420829332Z",
+  "model": "glm-5.3"
+}

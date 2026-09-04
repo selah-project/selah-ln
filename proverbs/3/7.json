@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 3:7",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Kanisa te ozala moyenzi na miso na yo moko; banga ⟨את⟩ Yawe, mpe emama na mabe.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "ozala"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "moyenzi"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "na miso na yo"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "banga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "mpe emama"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "na mabe"
+    }
+  ],
+  "timestamp": "2026-09-03T21:37:38.642757777Z",
+  "model": "glm-5.3"
+}

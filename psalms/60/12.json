@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 60:12",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 60,
+  "translation": "Ezali yo te, Elohim, oyo oboyaki biso, mpe Elohim, ozali kobima te na mampinga na biso?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Ezali ... te"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "oboyaki biso"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe ... te"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "ozali kobima"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצבאותינו",
+      "gloss": "na mampinga na biso"
+    }
+  ],
+  "timestamp": "2026-09-03T21:15:01.788562217Z",
+  "model": "glm-5.3"
+}

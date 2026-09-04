@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 5:25",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Mpe David asalaki bongo, ndenge Yawe aloyaki ye; mpe akubaki ⟨את⟩ Bafilisitai uta Geba kino okoka ⟨na⟩ Gezer.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Mpe asalaki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bongo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ndenge"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "aloyaki ye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "mpe akubaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bafilisitai"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Bafilisitai"
+    },
+    {
+      "surface": "מגבע",
+      "gloss": "uta Geba"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "באך",
+      "gloss": "okoka"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    }
+  ],
+  "timestamp": "2026-09-03T18:29:46.501360966Z",
+  "model": "glm-5.3"
+}

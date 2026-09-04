@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 67:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 67,
+  "translation": "Epai ya mokambi, na mindongo. Mizmor, kan.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Epai ya mokambi"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "na mindongo"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "kan"
+    }
+  ],
+  "timestamp": "2026-09-03T21:15:56.205165995Z",
+  "model": "glm-5.3"
+}

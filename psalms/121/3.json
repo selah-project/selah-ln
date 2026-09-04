@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 121,
+  "translation": "Ata apesi lokasa na yo limbama; mobateli na yo ata akolali moke te.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ata"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "apesi"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "limbama"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "lokasa na yo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ata"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "akolali moke"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "mobateli na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:32:38.589092Z",
+  "model": "glm-5.3"
+}

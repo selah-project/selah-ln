@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 37:19",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 37,
+  "translation": "mpe batyaki ⟨את⟩ banzambe na bango na moto; ete banzambe te bango, kazi esaleli ya maboko ya moto, nzete mpe libanga; mpe babomaki bango.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "mpe batyaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "banzambe na bango"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "banzambe na bango"
+    },
+    {
+      "surface": "באש",
+      "gloss": "na moto"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "banzambe"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bango"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kazi"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "esaleli"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ya maboko"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ya moto"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "nzete"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "mpe libanga"
+    },
+    {
+      "surface": "ויאבדום",
+      "gloss": "mpe babomaki bango"
+    }
+  ],
+  "timestamp": "2026-09-03T19:28:13.900818771Z",
+  "model": "glm-5.3"
+}

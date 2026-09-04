@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 89:52",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 89,
+  "translation": "Oyo banguna na yo batyaki yango nsoni, Yawe; oyo batyaki nsoni makauzu ya Mashiah na yo.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "batyaki yango nsoni"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "banguna na yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "batyaki nsoni"
+    },
+    {
+      "surface": "עקבות",
+      "gloss": "makauzu"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "Mashiah na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:23:54.365622250Z",
+  "model": "glm-5.3"
+}

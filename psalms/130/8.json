@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 130:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 130,
+  "translation": "Mpe ye akobikisa ⟨את⟩ Israel uta na makama na yango nyonso.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "Mpe ye"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "akobikisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "uta na nyonso"
+    },
+    {
+      "surface": "עונתיו",
+      "gloss": "makama na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:34:12.087572574Z",
+  "model": "glm-5.3"
+}

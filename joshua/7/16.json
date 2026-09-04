@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 7:16",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Yehoshua asekolaki na tongo, mpe ayetaki ⟨את⟩ Israel na balingomba na ye; mpe lingomba ya Yehuda ekangamaki.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "asekolaki"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "na tongo"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "mpe ayetaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "na balingomba na ye"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "mpe ekangamaki"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "lingomba"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-09-03T17:47:05.440574320Z",
+  "model": "glm-5.3"
+}

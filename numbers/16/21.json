@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 16:21",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Bokabwaní na kati ya lisangani oyo, mpe nakolia ⟨את⟩ bango na sansi.",
+  "tokens": [
+    {
+      "surface": "הבדלו",
+      "gloss": "Bokabwaní"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "na kati ya"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "lisangani"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "mpe nakolia"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bango"
+    },
+    {
+      "surface": "כרגע",
+      "gloss": "na sansi"
+    }
+  ],
+  "timestamp": "2026-09-03T17:09:09.678519212Z",
+  "model": "glm-5.3"
+}

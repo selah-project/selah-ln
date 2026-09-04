@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 38:30",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 38,
+  "translation": "Mpe asalaki na yango ⟨את⟩ banse ya monoko ya Ohel Moed, mpe ⟨את⟩ autelo ya bisa, mpe ⟨את⟩ grile ya bisa oyo ezali na yango, mpe ⟨את⟩ bisaleli nyonso ya autelo.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "mpe asalaki"
+    },
+    {
+      "surface": "בה",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "banse"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "banse"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ya monoko"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ohel"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Moed"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "autelo"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "autelo"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "ya bisa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "grile"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "grile"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "ya bisa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bisaleli nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "bisaleli"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ya autelo"
+    }
+  ],
+  "timestamp": "2026-09-03T16:37:05.158246641Z",
+  "model": "glm-5.3"
+}

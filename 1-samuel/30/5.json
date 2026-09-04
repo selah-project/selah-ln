@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 30:5",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 30,
+  "translation": "Mpe bana basi mibale ya David bakangamaki: Ahinoam wa Yizreel, mpe Avigayil, mwasi Naval, wa Karmel.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "bana basi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "נשבו",
+      "gloss": "bakangamaki"
+    },
+    {
+      "surface": "אחינעם",
+      "gloss": "Ahinoam"
+    },
+    {
+      "surface": "היזרעלית",
+      "gloss": "wa Yizreel"
+    },
+    {
+      "surface": "ואביגיל",
+      "gloss": "mpe Avigayil"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mwasi"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "ya Naval"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "wa Karmel"
+    }
+  ],
+  "timestamp": "2026-09-03T18:24:01.054929638Z",
+  "model": "glm-5.3"
+}

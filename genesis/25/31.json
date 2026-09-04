@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 25:31",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Yaakov alobaki: Koteka lelo ⟨את⟩ likonzi ya libanza na yo epai na ngai.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "Koteka"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "lelo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "likonzi ya libanza na yo"
+    },
+    {
+      "surface": "בכרתך",
+      "gloss": "likonzi ya libanza na yo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "epai na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T15:57:48.781458712Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 43:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 43,
+  "translation": "Mpe nakokota epai ya autelo ya Elohim, epai ya El, esengo ya kosekana na ngai; mpe nakoloba melesi na yo na kinora, Elohim, Elohim na ngai.",
+  "tokens": [
+    {
+      "surface": "וְאָבוֹאָה",
+      "gloss": "Mpe nakokota"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "מִזְבֵּחַ",
+      "gloss": "autelo"
+    },
+    {
+      "surface": "אֱלֹהִים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "אֵל",
+      "gloss": "El"
+    },
+    {
+      "surface": "שִׂמְחַת",
+      "gloss": "esengo"
+    },
+    {
+      "surface": "גִּילִי",
+      "gloss": "ya kosekana na ngai"
+    },
+    {
+      "surface": "וְאוֹדְךָ",
+      "gloss": "mpe nakoloba melesi na yo"
+    },
+    {
+      "surface": "בְּכִנּוֹר",
+      "gloss": "na kinora"
+    },
+    {
+      "surface": "אֱלֹהִים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אֱלֹהָי",
+      "gloss": "Elohim na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:10:47.439923184Z",
+  "model": "glm-5.3"
+}

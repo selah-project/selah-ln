@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 69:21",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 69,
+  "translation": "Mpebe ebukaki motema na ngai, mpe namwaki makasi; nalukaki moto akangela ngai, mpe ezalaki te, mpe bapolisi, mpe nayaki te.",
+  "tokens": [
+    {
+      "surface": "חרפה",
+      "gloss": "mpebe"
+    },
+    {
+      "surface": "שברה",
+      "gloss": "ebukaki"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "motema na ngai"
+    },
+    {
+      "surface": "וָאָנוּשָׁה",
+      "gloss": "mpe namwaki makasi"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "mpe nalukaki"
+    },
+    {
+      "surface": "לנוד",
+      "gloss": "moto akangela"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mpe ezalaki te"
+    },
+    {
+      "surface": "ולמנחמים",
+      "gloss": "mpe bapolisi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "nayaki"
+    }
+  ],
+  "timestamp": "2026-09-03T21:16:28.130147438Z",
+  "model": "glm-5.3"
+}

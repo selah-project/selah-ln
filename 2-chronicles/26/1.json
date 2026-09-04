@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 26:1",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "Mpe bato nyonso ya Yehuda bayeki ⟨את⟩ Uziyahu, mpe yango azalaki mwana ya mbula zomi na motoba, mpe batyaki ⟨את⟩ yango mokonzi na esika ya tata na yango Amatsyahu.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Mpe bayeki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ya Yehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uziyahu"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "Uziyahu"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "mpe yango"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "שש",
+      "gloss": "motoba"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "zomi na"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ya mbula"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "mpe batyaki mokonzi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yango",
+      "marks": "yango (Uziyahu)"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "na esika ya"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "tata na yango"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Amatsyahu"
+    }
+  ],
+  "timestamp": "2026-09-03T23:05:49.575285348Z",
+  "model": "glm-5.3"
+}

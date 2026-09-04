@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 17:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 17,
+  "translation": "Ngai nabengi yo, mpo yo oyanisaka ngai, El; okamata litoi na yo epai na ngai, yoka liloba na ngai.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ngai"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "nabengi yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "oyanisaka ngai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הט",
+      "gloss": "okamata"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "litoi na yo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "epai na ngai"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "yoka"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "liloba na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:02:30.911716717Z",
+  "model": "glm-5.3"
+}

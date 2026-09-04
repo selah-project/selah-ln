@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 37:11",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 37,
+  "translation": "Bandeko na ye bazalaki na libie epai na ye; kasi tata na ye abatelaki ⟨את⟩ liloba yango.",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "bazalaki na libie"
+    },
+    {
+      "surface": "בו",
+      "gloss": "epai na ye"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "bandeko na ye"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "kasi tata na ye"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "abatelaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "liloba yango"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "liloba yango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:03:54.348273405Z",
+  "model": "glm-5.3"
+}

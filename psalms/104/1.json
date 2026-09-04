@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 104:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 104,
+  "translation": "Bosana, molimo na ngai, ⟨את⟩ Yawe; Yawe Elohim na ngai, ozali monene mingi; nkembo mpe bonkete olaki.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "Bosana"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "molimo na ngai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim na ngai"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "ozali monene"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mingi"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "nkembo"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "mpe bonkete"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "olaki"
+    }
+  ],
+  "timestamp": "2026-09-03T21:26:50.360525609Z",
+  "model": "glm-5.3"
+}

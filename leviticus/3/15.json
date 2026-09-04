@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 3:15",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe ⟨את⟩ bipai mibale mpe ⟨את⟩ mafuta oyo ezali likolo ya bango, oyo ezali likolo ya lipende, mpe ⟨את⟩ eteni ya fwa oyo ezali likolo ya fwa — na bipai akangi yango.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bipai mibale"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "bipai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mafuta"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "likolo ya bango"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "lipende"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "eteni ya fwa"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "eteni"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "fwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "bipai"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "akangi yango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:39:30.715018607Z",
+  "model": "glm-5.3"
+}

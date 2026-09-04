@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 62:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 62,
+  "translation": "Kaka ye nde ebanga na ngai mpe bobiki na ngai, esika ya likolo na ngai; nakokweka mingi te.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Kaka"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ye nde"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "ebanga na ngai"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "mpe bobiki na ngai"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "esika ya likolo na ngai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "nakokweka"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "mingi"
+    }
+  ],
+  "timestamp": "2026-09-03T23:34:52.232712504Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 48:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 48,
+  "translation": "Bango bamonaki yango, yango wana bakangamaki na eliki, bobangi bozungaki bango, mpe bambukaki na mbangu.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Bango"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "bamonaki ⟨yango⟩"
+    },
+    {
+      "surface": "כן",
+      "gloss": "yango wana"
+    },
+    {
+      "surface": "תמהו",
+      "gloss": "bakangamaki na eliki"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "bobangi bozungaki ⟨bango⟩"
+    },
+    {
+      "surface": "נחפזו",
+      "gloss": "mpe bambukaki na mbangu"
+    }
+  ],
+  "timestamp": "2026-09-03T21:11:51.104949195Z",
+  "model": "glm-5.3"
+}

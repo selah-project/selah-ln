@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 36,
+  "translation": "mpe ⟨את⟩ Bosmat mwana mwasi ya Yishmael, ndeko mwasi ya Nebayot.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Bosmat"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Bosmat"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana mwasi ya"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yishmael"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "ndeko mwasi ya"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "Nebayot"
+    }
+  ],
+  "timestamp": "2026-09-03T16:02:47.349971008Z",
+  "model": "glm-5.3"
+}

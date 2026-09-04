@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "amos 9:11",
+  "book": "amos",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Na mokolo yango nakololama ⟨את⟩ banda ya David oyo ewi, mpe nakangaka bibungi na yango, mpe biswei na yango nakololama, mpe nakotongaka yango lokola mikinga ya kala.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Na mokolo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yango"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "nakololama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "banda ya David"
+    },
+    {
+      "surface": "סכת",
+      "gloss": "banda"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הנפלת",
+      "gloss": "oyo ewi"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "mpe nakangaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bibungi na yango"
+    },
+    {
+      "surface": "פרציהן",
+      "gloss": "bibungi na yango"
+    },
+    {
+      "surface": "והרסתיו",
+      "gloss": "mpe biswei na yango"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "nakololama"
+    },
+    {
+      "surface": "ובניתיה",
+      "gloss": "mpe nakotongaka yango"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "lokola mikinga"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ya kala"
+    }
+  ],
+  "timestamp": "2026-09-03T20:45:05.765053Z",
+  "model": "glm-5.3"
+}

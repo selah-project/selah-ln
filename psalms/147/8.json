@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 147:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 147,
+  "translation": "Oyo akangaka likolo na bikapo, oyo abalisaka mbula mpo na mabele, oyo etombwisaka matete na bangomba.",
+  "tokens": [
+    {
+      "surface": "המכסה",
+      "gloss": "oyo akangaka"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "likolo"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "na bikapo"
+    },
+    {
+      "surface": "המכין",
+      "gloss": "oyo abalisaka"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "mpo na mabele"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "mbula"
+    },
+    {
+      "surface": "המצמיח",
+      "gloss": "oyo etombwisaka"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "bangomba"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "matete"
+    }
+  ],
+  "timestamp": "2026-09-03T21:36:52.676751790Z",
+  "model": "glm-5.3"
+}

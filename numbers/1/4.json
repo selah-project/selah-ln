@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 1:4",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe elongo na bino ⟨את⟩ bakokanzama moto na moto na tribu na yango, moto, mutu ya ndako ya batata na ye, ye moko.",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "Mpe elongo na bino ⟨את⟩"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bakokanzama"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "איש",
+      "gloss": "na moto"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "na tribu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "mutu"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ya ndako"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ya batata na ye"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ye moko"
+    }
+  ],
+  "timestamp": "2026-09-03T16:58:31.933823688Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 6:12",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Luka mabe yo moko, mpo te okobosana ⟨את⟩ Yawe oyo obimisaki yo na mabele ya Mitsraim, na ndako ya basaleli.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "Luka mabe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yo moko"
+    },
+    {
+      "surface": "פן",
+      "gloss": "mpo te ete"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "okobosana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "obimisaki yo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "na mabele ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "na ndako ya"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "basaleli"
+    }
+  ],
+  "timestamp": "2026-09-03T17:25:29.734237277Z",
+  "model": "glm-5.3"
+}

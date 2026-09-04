@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 9:3",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Mpe bato ya Gibeon bayoki ⟨את⟩ oyo Yehoshua asalaki na Yeriho mpe na Ay",
+  "tokens": [
+    {
+      "surface": "וישבי",
+      "gloss": "mpe bato ya"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Gibeon"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "bayoki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "asalaki"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "ליריחו",
+      "gloss": "na Yeriho"
+    },
+    {
+      "surface": "ולעי",
+      "gloss": "mpe na Ay"
+    }
+  ],
+  "timestamp": "2026-09-03T17:46:41.326014091Z",
+  "model": "glm-5.3"
+}

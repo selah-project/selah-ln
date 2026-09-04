@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 149:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 149,
+  "translation": "Mpo na kokangola bakonzi na bango na bakete, mpe bato ya lokumu na bango na makanguli ya fe.",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "mpo na kokangola"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "bakonzi na bango"
+    },
+    {
+      "surface": "בזקים",
+      "gloss": "na bakete"
+    },
+    {
+      "surface": "ונכבדיהם",
+      "gloss": "mpe bato ya lokumu na bango"
+    },
+    {
+      "surface": "בכבלי",
+      "gloss": "na makanguli"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "ya fe"
+    }
+  ],
+  "timestamp": "2026-09-03T21:36:07.957654771Z",
+  "model": "glm-5.3"
+}

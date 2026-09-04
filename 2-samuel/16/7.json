@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 16:7",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Mpe boye Shimei alobaki na lombo na ye: Bimama, bimama, moto ya makila, mpe moto ya mabe!",
+  "tokens": [
+    {
+      "surface": "וכה",
+      "gloss": "mpe boye"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Shimei"
+    },
+    {
+      "surface": "בקללו",
+      "gloss": "na lombo na ye"
+    },
+    {
+      "surface": "צא",
+      "gloss": "Bimama"
+    },
+    {
+      "surface": "צא",
+      "gloss": "bimama"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "ya makila"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "mpe moto"
+    },
+    {
+      "surface": "הבליעל",
+      "gloss": "ya mabe"
+    }
+  ],
+  "timestamp": "2026-09-03T18:36:12.466545561Z",
+  "model": "glm-5.3"
+}

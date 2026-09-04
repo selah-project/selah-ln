@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 147:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 147,
+  "translation": "Monene Adonai na biso, mpe monene na nguya; na bwanya na ye motango ezali te.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "monene"
+    },
+    {
+      "surface": "אדונינו",
+      "gloss": "Adonai na biso"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "mpe monene"
+    },
+    {
+      "surface": "כח",
+      "gloss": "nguya"
+    },
+    {
+      "surface": "לתבונתו",
+      "gloss": "na bwanya na ye"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ezali ... te"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "motango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:36:52.676177578Z",
+  "model": "glm-5.3"
+}

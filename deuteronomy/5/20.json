@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 5:20",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "mpe Koyanila moninga na yo temo ya lokuta te.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "mpe ... te"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "Koyanila"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "moninga na yo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "temo"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ya lokuta"
+    }
+  ],
+  "timestamp": "2026-09-03T17:24:15.663918345Z",
+  "model": "glm-5.3"
+}

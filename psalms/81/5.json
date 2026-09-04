@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 81:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 81,
+  "translation": "Mpo ete mobeko mpo na Israel yango ⟨ezali⟩, mibeko mpo na Elohim ya Yaakov.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo ete"
+    },
+    {
+      "surface": "חק",
+      "gloss": "mobeko"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "mpo na Israel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yango"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "mibeko"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "mpo na Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-03T21:21:13.719308105Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "habakkuk 1:5",
+  "book": "habakkuk",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Talá na bikolo, mpe botálá malamu, mpe bozeka — bozeki mingi; mpo esaleli esalemaka na mikolo na bino, bokokí kondima te ntango ekoyebisama ⟨yango⟩.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "Talá"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "na bikolo"
+    },
+    {
+      "surface": "והביטו",
+      "gloss": "mpe botálá malamu"
+    },
+    {
+      "surface": "והתמהו",
+      "gloss": "mpe bozeka"
+    },
+    {
+      "surface": "תמהו",
+      "gloss": "bozeki mingi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "esaleli"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "esalemaka"
+    },
+    {
+      "surface": "בימיכם",
+      "gloss": "na mikolo na bino"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תאמינו",
+      "gloss": "bokokí kondima"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ntango"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "ekoyebisama"
+    }
+  ],
+  "timestamp": "2026-09-03T20:51:39.327381858Z",
+  "model": "glm-5.3"
+}

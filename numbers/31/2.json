@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 31:2",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 31,
+  "translation": "Sala bikwele ya bana ya Israel na ⟨את⟩ Midianite; na nsima okokotomya epai ya bato na yo.",
+  "tokens": [
+    {
+      "surface": "נקם",
+      "gloss": "Sala bikwele"
+    },
+    {
+      "surface": "נקמת",
+      "gloss": "bikwele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Midianite"
+    },
+    {
+      "surface": "המדינים",
+      "gloss": "Midianite"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "na nsima"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "okokotomya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "עמיך",
+      "gloss": "bato na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T23:18:36.183600092Z",
+  "model": "glm-5.3"
+}

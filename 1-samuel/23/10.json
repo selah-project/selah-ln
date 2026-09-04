@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 23:10",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Mpe David alobaki: Yawe, Elohim ya Israel, mowumbu na yo oyoki solo ete Shaul alukaka kokota na Kelila mpo abebisa mboka mpo na ngai.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "oyoki"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "solo"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mowumbu na yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "alukaka"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "kokota"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Kelila"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "mpo abebisa"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "mboka"
+    },
+    {
+      "surface": "בעבורי",
+      "gloss": "mpo na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T18:20:33.944871307Z",
+  "model": "glm-5.3"
+}

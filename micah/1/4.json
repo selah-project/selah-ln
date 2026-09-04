@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 1:4",
+  "book": "micah",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe bangomba ekosilika nse na ye, mpe bibale ekabwanaka, lokola donagi liboso ya moto, lokoma mai ekotangama na esika ya kokita.",
+  "tokens": [
+    {
+      "surface": "ונמסו",
+      "gloss": "mpe ekosilika"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "bangomba"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "nse na ye"
+    },
+    {
+      "surface": "והעמקים",
+      "gloss": "mpe bibale"
+    },
+    {
+      "surface": "יתבקעו",
+      "gloss": "ekabwanaka"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "lokola donagi"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "האש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "lokoma mai"
+    },
+    {
+      "surface": "מגרים",
+      "gloss": "ekotangama"
+    },
+    {
+      "surface": "במורד",
+      "gloss": "na esika ya kokita"
+    }
+  ],
+  "timestamp": "2026-09-03T20:48:34.115485080Z",
+  "model": "glm-5.3"
+}

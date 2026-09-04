@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 58:12",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 58,
+  "translation": "Mpe moto akoloba: ya solo, libunga ezali mpo na moto ya sembo; ya solo, ezali Elohim bazali kososa na mabele.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe akoloba"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moto"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ya solo"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "libunga"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "mpo na moto ya sembo"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ya solo"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ezali"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "bazali kososa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T23:34:46.983044157Z",
+  "model": "glm-5.3"
+}

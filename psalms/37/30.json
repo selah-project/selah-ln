@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 37:30",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 37,
+  "translation": "Monoko ya mobongi elobaka bwanya, mpe lilimi na ye elobaka bosolo.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "Monoko"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ya mobongi"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "elobaka"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "bwanya"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "mpe lilimi na ye"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "elobaka"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "bosolo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:09:26.030452383Z",
+  "model": "glm-5.3"
+}

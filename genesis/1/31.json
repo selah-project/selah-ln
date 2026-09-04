@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 1:31",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe Elohim amonaki ⟨את⟩ nyonso oyo asalaki, mpe talá, malamu mingi; ekalaki mpokwa, ekalaki tongo, mokolo ya motoba.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "mpe amonaki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyonso oyo asalaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "asalaki"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mpe talá"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "malamu"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mingi"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ekalaki"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "mpokwa"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ekalaki"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "tongo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mokolo"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "ya motoba"
+    }
+  ],
+  "timestamp": "2026-09-03T15:44:07.029337806Z",
+  "model": "glm-5.3"
+}

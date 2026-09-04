@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 38:10",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 38,
+  "translation": "Nalobaki: na ntongo ya mikolo na ngai nakokende na zincibiti ya Sheol; napokolwami na bofungwa ya mbula na ngai.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nalobaki"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "na ntongo ya"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mikolo na ngai"
+    },
+    {
+      "surface": "אלכה",
+      "gloss": "nakokende"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "na zincibiti ya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "napokolwami"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "bofungwa ya"
+    },
+    {
+      "surface": "שנותי",
+      "gloss": "mbula na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T19:27:03.247809460Z",
+  "model": "glm-5.3"
+}

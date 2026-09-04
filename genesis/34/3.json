@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 34:3",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 34,
+  "translation": "Mpe molimo na ye ekangamaki na Dina, mwana mwasi ya Yaakov; mpe alingaki ⟨את⟩ mwana mwasi yango, mpe alobaki na motema ya mwana mwasi yango.",
+  "tokens": [
+    {
+      "surface": "ותדבק",
+      "gloss": "ekangamaki"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "molimo na ye"
+    },
+    {
+      "surface": "בדינה",
+      "gloss": "na Dina"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana mwasi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ויאהב",
+      "gloss": "mpe alingaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwana mwasi yango"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mwana mwasi yango"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "לב",
+      "gloss": "motema"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ya mwana mwasi yango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:03:53.563130888Z",
+  "model": "glm-5.3"
+}

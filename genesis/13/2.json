@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 13:2",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Mpe Avram azalaki monene mpenza na banyama, na nsoko mpe na wolo.",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "Mpe Avram"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "azalaki monene"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mpenza"
+    },
+    {
+      "surface": "במקנה",
+      "gloss": "na banyama"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "na nsoko"
+    },
+    {
+      "surface": "ובזהב",
+      "gloss": "mpe na wolo"
+    }
+  ],
+  "timestamp": "2026-09-03T15:50:08.166939679Z",
+  "model": "glm-5.3"
+}

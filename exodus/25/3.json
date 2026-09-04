@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 25:3",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Mpe teruma oyo bokanga na bango ⟨את⟩: sanzali, mpe falon, mpe mabende.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Mpe oyo"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "teruma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "bokanga"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "na bango ⟨את⟩"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "sanzali"
+    },
+    {
+      "surface": "וככסף",
+      "gloss": "mpe falon"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "mpe mabende"
+    }
+  ],
+  "timestamp": "2026-09-03T16:28:33.176310936Z",
+  "model": "glm-5.3"
+}

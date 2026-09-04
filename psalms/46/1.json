@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 46:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 46,
+  "translation": "Ya mokambi wa miziki, ya bana ya Korach, likolo ya Alamot, nzembo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ya mokambi wa miziki"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ya bana ya"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "Alamot"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "nzembo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:11:51.934649063Z",
+  "model": "glm-5.3"
+}

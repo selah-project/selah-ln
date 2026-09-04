@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 6:25",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpe kerube ya mibale ⟨ezalaki⟩ na bamita zomi; etando moko mpe bokeli moko mpo na bakerube zomi.",
+  "tokens": [
+    {
+      "surface": "ועשר",
+      "gloss": "mpe zomi"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "na bamita"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "kerube"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ya mibale"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "etando"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "moko"
+    },
+    {
+      "surface": "וקצב",
+      "gloss": "mpe bokeli"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "moko"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "mpo na zomi"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "bakerube"
+    }
+  ],
+  "timestamp": "2026-09-03T18:46:44.152415376Z",
+  "model": "glm-5.3"
+}

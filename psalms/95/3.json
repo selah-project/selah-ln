@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 95:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 95,
+  "translation": "Mpo ete El monene azali Yawe, mpe mokonzi monene likolo ya banzambe nyonso.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo ete"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "monene"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "mpe mokonzi monene"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "monene"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "banzambe"
+    }
+  ],
+  "timestamp": "2026-09-03T21:24:45.810089984Z",
+  "model": "glm-5.3"
+}

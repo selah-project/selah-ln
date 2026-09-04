@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 17:7",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 17,
+  "translation": "Monoko ya malamu ebongi te na moto ya makanisi mabe; ata mpe monoko ya lokuta na mokonzi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "ebongi"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "na moto ya makanisi mabe"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "Monoko"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ya malamu"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "לנדיב",
+      "gloss": "na mokonzi"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "monoko"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ya lokuta"
+    }
+  ],
+  "timestamp": "2026-09-03T21:44:05.913036173Z",
+  "model": "glm-5.3"
+}

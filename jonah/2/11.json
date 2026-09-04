@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jonah 2:11",
+  "book": "jonah",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe Yawe alobaki na mbisi, mpe ebwaki ⟨את⟩ Yona na mabele ya seke.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לדג",
+      "gloss": "na mbisi"
+    },
+    {
+      "surface": "ויקא",
+      "gloss": "mpe ebwaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yona"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "mabele ya seke"
+    }
+  ],
+  "timestamp": "2026-09-03T20:46:43.786543847Z",
+  "model": "glm-5.3"
+}

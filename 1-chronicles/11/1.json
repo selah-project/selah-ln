@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 11:1",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpe Israel nyonso bakutanaki epai ya David na Hevron, na koloba: Talá, mosapo na yo mpe nzoku na yo nde biso.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "bakutanaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "Hevron"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na koloba"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "talá"
+    },
+    {
+      "surface": "עצמך",
+      "gloss": "mosapo na yo"
+    },
+    {
+      "surface": "ובשרך",
+      "gloss": "mpe nzoku na yo"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "biso"
+    }
+  ],
+  "timestamp": "2026-09-03T22:45:08.920665618Z",
+  "model": "glm-5.3"
+}

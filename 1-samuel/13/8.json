@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 13:8",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Mpe azelaki elikia mikolo sambo na ntango oyo Shemuel ⟨aponaki⟩; kasi Shemuel ayaki te na Gilgala, mpe bato basanganaki uta likolo na ye.",
+  "tokens": [
+    {
+      "surface": "וייחל",
+      "gloss": "Mpe azelaki elikia"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sambo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mikolo"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "na ntango oyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel ⟨aponaki⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kasi te"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ayaki"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "na Gilgala"
+    },
+    {
+      "surface": "ויפץ",
+      "gloss": "mpe basanganaki"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "uta likolo na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T18:13:29.412491925Z",
+  "model": "glm-5.3"
+}

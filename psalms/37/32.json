@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 37:32",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 37,
+  "translation": "Mokosi azelaka mobongi, mpe alukaka koboma ye.",
+  "tokens": [
+    {
+      "surface": "צופה",
+      "gloss": "azelaka"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "Mokosi"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "mobongi"
+    },
+    {
+      "surface": "ומבקש",
+      "gloss": "mpe alukaka"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "koboma ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:09:26.030665277Z",
+  "model": "glm-5.3"
+}

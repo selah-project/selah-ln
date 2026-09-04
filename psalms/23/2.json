@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 23:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Atyaka ngai na bikelapo ya gneti, alongaka ngai pembeni ya mai ya bomoi-nzela.",
+  "tokens": [
+    {
+      "surface": "בנאות",
+      "gloss": "na bikelapo"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "ya gneti"
+    },
+    {
+      "surface": "ירביצני",
+      "gloss": "Atyaka ngai"
+    },
+    {
+      "surface": "על",
+      "gloss": "pembeni ya"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mai"
+    },
+    {
+      "surface": "מנחות",
+      "gloss": "ya bomoi-nzela"
+    },
+    {
+      "surface": "ינהלני",
+      "gloss": "alongaka ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:04:51.700434380Z",
+  "model": "glm-5.3"
+}

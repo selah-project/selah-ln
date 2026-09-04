@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 4:5",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe kohen Mashiah (mopakolami) azwaki maki ya para, mpe akomemaki ⟨את⟩ yango na tente ya bokutani.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "mpe azwaki"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "Mashiah (mopakolami)"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "maki ya"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "para"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "mpe akomemaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yango",
+      "marks": "yango (maki)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tente"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "bokutani"
+    }
+  ],
+  "timestamp": "2026-09-03T16:42:34.441507126Z",
+  "model": "glm-5.3"
+}

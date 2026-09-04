@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 28:9",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 28,
+  "translation": "Mpe ozwa ⟨את⟩ mabanga mibale ya shoham, mpe okoma likolo na yango bankombo ya bana ya Israel.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "mpe ozwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabanga mibale ya shoham"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "mabanga"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "shoham"
+    },
+    {
+      "surface": "ופתחת",
+      "gloss": "mpe okoma"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "likolo na yango"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "bankombo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    }
+  ],
+  "timestamp": "2026-09-03T23:13:42.145294093Z",
+  "model": "glm-5.3"
+}

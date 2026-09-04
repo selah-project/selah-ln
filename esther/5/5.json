@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 5:5",
+  "book": "esther",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Mokonzi alobaki: Bangua, boya na ⟨את⟩ Haman mpo na kosala ⟨את⟩ liloba ya Ester; mpe Mokonzi mpe Haman bayaki na mbamba oyo Ester salaki.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Mokonzi"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "Bangua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haman"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "mpo na kosala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "liloba ya Ester"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "liloba"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "bayaki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Mokonzi"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "mpe Haman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "mbamba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "salaki"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    }
+  ],
+  "timestamp": "2026-09-03T22:17:14.512513106Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 109:13",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 109,
+  "translation": "Suka na ye ezala kolongama; na mbula ya sima nkombo na bango efyasama.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ezala"
+    },
+    {
+      "surface": "אחריתו",
+      "gloss": "suka na ye"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "kolongama"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "na mbula"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ya sima"
+    },
+    {
+      "surface": "ימח",
+      "gloss": "efyasama"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "nkombo na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:29:35.776785258Z",
+  "model": "glm-5.3"
+}

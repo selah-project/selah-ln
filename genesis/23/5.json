@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 23:5",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Mpe bana ya Het bayanolaki ⟨את⟩ Avraham, na koloba na ye:",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "mpe bayanolaki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "חת",
+      "gloss": "ya Het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na koloba"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T15:54:54.753410778Z",
+  "model": "glm-5.3"
+}

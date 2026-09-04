@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 32:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 32,
+  "translation": "Bosepeli ya moto oyo Yawe atangi mabe na ye te, mpe na molimo na ye lokuta ezali te.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Bosepeli ya"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moto"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "atangi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨na ye⟩"
+    },
+    {
+      "surface": "עון",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mpe ezali te"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "na molimo na ye"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "lokuta"
+    }
+  ],
+  "timestamp": "2026-09-03T21:08:40.952615018Z",
+  "model": "glm-5.3"
+}

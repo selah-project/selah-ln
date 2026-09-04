@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 147:16",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 147,
+  "translation": "Oyo epesaka mbungi lokola lifutu; kefor (mpoto ya butu) lokola mombongo asapaka.",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "Oyo epesaka"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "mbungi"
+    },
+    {
+      "surface": "כצמר",
+      "gloss": "lokola lifutu"
+    },
+    {
+      "surface": "כפור",
+      "gloss": "kefor"
+    },
+    {
+      "surface": "כאפר",
+      "gloss": "lokola mombongo"
+    },
+    {
+      "surface": "יפזר",
+      "gloss": "asapaka"
+    }
+  ],
+  "timestamp": "2026-09-03T21:36:30.158768591Z",
+  "model": "glm-5.3"
+}

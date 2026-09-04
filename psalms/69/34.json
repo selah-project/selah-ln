@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 69:34",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 69,
+  "translation": "Mpo Yawe ayokaka bapau, mpe ⟨את⟩ bakangami na ye aboyaka te.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ayokaka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨elongo na⟩"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "bapau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bakangami na ye"
+    },
+    {
+      "surface": "אסיריו",
+      "gloss": "bakangami na ye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "aboyaka"
+    }
+  ],
+  "timestamp": "2026-09-03T21:16:51.363635013Z",
+  "model": "glm-5.3"
+}

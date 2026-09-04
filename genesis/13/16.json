@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 13:16",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Mpe nakotya ⟨את⟩ mbota na yo lokola mpoto ya mabele: soki moto akoki kokonta ⟨את⟩ mpoto ya mabele, mbota na yo mpe ekokontamaka.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "Mpe nakotya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbota na yo"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "mbota na yo"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "lokola mpoto"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ya mabele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "אם",
+      "gloss": "soki"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "akoki"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "למנות",
+      "gloss": "kokonta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mpoto"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "mpoto"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ya mabele"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "mbota na yo"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "ekokontamaka"
+    }
+  ],
+  "timestamp": "2026-09-03T23:11:43.197975961Z",
+  "model": "glm-5.3"
+}

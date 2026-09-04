@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 38:9",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 38,
+  "translation": "Asalaki ⟨את⟩ esanzo; na côte ya sudi, na sudi, bilamba ya esanzo ezalaki ya linini etandami, nkama moko na bama.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "asalaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "esanzo"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "esanzo"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "na côte ya"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "sudi"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "sudi"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "bilamba"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ya esanzo"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ya linini"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "etandami"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "nkama moko"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "na bama"
+    }
+  ],
+  "timestamp": "2026-09-03T16:35:48.879015637Z",
+  "model": "glm-5.3"
+}

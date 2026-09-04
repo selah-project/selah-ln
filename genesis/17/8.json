@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 17:8",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 17,
+  "translation": "Mpe nakopesa na yo mpe na mbela na yo sima na yo ⟨את⟩ mabele ya bosekwana na yo, ⟨את⟩ mabele nyonso ya Kenaan, lokola bokabo ya libela, mpe nakozala Elohim na bango.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "mpe nakopesa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "na yo"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "mpe na mbela na yo"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "sima na yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabele ya bosekwana na yo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "מגריך",
+      "gloss": "ya bosekwana na yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabele nyonso ya Kenaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "לאחזת",
+      "gloss": "lokola bokabo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ya libela"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "mpe nakozala"
+    },
+    {
+      "surface": "להם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-03T23:11:43.929080406Z",
+  "model": "glm-5.3"
+}

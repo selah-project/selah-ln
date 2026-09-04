@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 3:10",
+  "book": "job",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpo ete ekangaki te bamati ya libumu, mpe ebombaki te tungisami na miso na ngai.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "ekangaki"
+    },
+    {
+      "surface": "דלתי",
+      "gloss": "bamati"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "ya libumu"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "mpe ebombaki"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "tungisami"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "na miso na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:50:12.677772904Z",
+  "model": "glm-5.3"
+}

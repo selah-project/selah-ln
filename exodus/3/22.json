@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 3:22",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe mwasi moko na moko akosenga na moninga na yango ya pembeni mpe na oyo afandi na ndako na yango biloko ya findo mpe biloko ya wolo mpe bilamba; mpe bokofula bana na bino mibali mpe bana na bino basi, mpe bokozwa bokabu ya ⟨את⟩ Mitsraim.",
+  "tokens": [
+    {
+      "surface": "ושאלה",
+      "gloss": "mpe akosenga"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mwasi"
+    },
+    {
+      "surface": "משכנתה",
+      "gloss": "moninga na yango ya pembeni"
+    },
+    {
+      "surface": "ומגרת",
+      "gloss": "mpe oyo afandi"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "na ndako na yango"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "biloko"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ya findo"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "mpe biloko"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ya wolo"
+    },
+    {
+      "surface": "ושמלת",
+      "gloss": "mpe bilamba"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "mpe bokofula"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "bana na bino mibali"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "mpe na"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "bana na bino basi"
+    },
+    {
+      "surface": "ונצלתם",
+      "gloss": "mpe bokozwa bokabu ya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsraim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    }
+  ],
+  "timestamp": "2026-09-03T16:14:15.146654519Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 40:12",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 40,
+  "translation": "Mpe okomema ⟨את⟩ Aharon mpe ⟨את⟩ bakitana na yango na lembo ya hema ya bokutani, mpe okosukola ⟨את⟩ bango na mai.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "mpe okomema"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bakitana na yango"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bakitana na yango"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "lembo"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "hema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya bokutani"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "mpe okosukola"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bango",
+      "marks": "Aharon mpe bakitana na yango"
+    },
+    {
+      "surface": "במים",
+      "gloss": "na mai"
+    }
+  ],
+  "timestamp": "2026-09-03T16:38:52.724366877Z",
+  "model": "glm-5.3"
+}

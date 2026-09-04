@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 7:19",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mayele epesaka nguya na moto mayele koleka bakonzi zomi oyo bazalaka na mboka.",
+  "tokens": [
+    {
+      "surface": "החכמה",
+      "gloss": "Mayele"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "epesaka nguya"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "na moto mayele"
+    },
+    {
+      "surface": "מעשרה",
+      "gloss": "koleka zomi"
+    },
+    {
+      "surface": "שליטים",
+      "gloss": "bakonzi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bazalaka"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "na mboka"
+    }
+  ],
+  "timestamp": "2026-09-03T22:15:14.420074488Z",
+  "model": "glm-5.3"
+}

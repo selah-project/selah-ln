@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 11:2",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Bato babengaki epai ya Moshe, mpe Moshe alapelaki epai ya Yawe, mpe moto mokitisamaki.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "babengaki"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "mpe alapelaki"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ותשקע",
+      "gloss": "mpe mokitisamaki"
+    },
+    {
+      "surface": "האש",
+      "gloss": "moto"
+    }
+  ],
+  "timestamp": "2026-09-03T17:06:09.348758418Z",
+  "model": "glm-5.3"
+}

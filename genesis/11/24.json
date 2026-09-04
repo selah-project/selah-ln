@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 11:24",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpe Nahor avandaki na bomoi mbula libwa na nkama mibale, mpe abotaki ⟨את⟩ Terach.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "avandaki na bomoi"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nahor"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "libwa"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "mpe nkama mibale"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mbula"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "mpe abotaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Terach"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terach"
+    }
+  ],
+  "timestamp": "2026-09-03T15:48:42.314459923Z",
+  "model": "glm-5.3"
+}

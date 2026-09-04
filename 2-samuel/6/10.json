@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 6:10",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpe David andimaki te kokendeza epai na ye ⟨את⟩ sanduku ya Yawe na mboka ya David, mpe David akangaki yango na ndako ya Oved Edom mogiti.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "andimaki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "להסיר",
+      "gloss": "kokendeza"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "epai na ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduku"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mboka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ya David"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "mpe akangaki yango"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בית",
+      "gloss": "na ndako"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ya Oved"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "mogiti"
+    }
+  ],
+  "timestamp": "2026-09-03T23:20:55.104464664Z",
+  "model": "glm-5.3"
+}

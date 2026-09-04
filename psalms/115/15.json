@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 115:15",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 115,
+  "translation": "Boyo bozali bokolami epai ya Yawe, mokeli ya likolo mpe mabele.",
+  "tokens": [
+    {
+      "surface": "ברוכים",
+      "gloss": "bozali bokolami"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "boyo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "epai ya Yawe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "mokeli"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "likolo"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "mpe mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T21:29:58.888537140Z",
+  "model": "glm-5.3"
+}

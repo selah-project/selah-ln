@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 40:23",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 40,
+  "translation": "Kasi mokonzi ya bakomeli masanga akokanaki te na ⟨את⟩ Yosef, mpe abosanaki ye.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Kasi ... te"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "akokanaki"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "ya bakomeli masanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "וישכחהו",
+      "gloss": "mpe abosanaki ye"
+    }
+  ],
+  "timestamp": "2026-09-03T23:12:24.071808715Z",
+  "model": "glm-5.3"
+}

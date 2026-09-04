@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 42:10",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 42,
+  "translation": "Mpe balobaki naye: Te, Adonai na biso; kasi bawumbu na yo bayaki kosomba biloko ya kolia.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "mpe balobaki"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Te"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai na biso"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "kasi bawumbu na yo"
+    },
+    {
+      "surface": "באו",
+      "gloss": "bayaki"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "kosomba"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "biloko ya kolia"
+    }
+  ],
+  "timestamp": "2026-09-03T16:07:49.117690912Z",
+  "model": "glm-5.3"
+}

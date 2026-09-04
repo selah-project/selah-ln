@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 30:10",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 30,
+  "translation": "Koloba mabe na lokuta epai ya mosolo, epai ya nkolo na ye, te; mpo akufela yo, mpe okóma na mabe.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תלשן",
+      "gloss": "koloba mabe na lokuta"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "mosolo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "אדנו",
+      "gloss": "nkolo na ye"
+    },
+    {
+      "surface": "פן",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "יקללך",
+      "gloss": "akufela yo"
+    },
+    {
+      "surface": "ואשמת",
+      "gloss": "mpe okóma na mabe"
+    }
+  ],
+  "timestamp": "2026-09-03T21:48:36.619689235Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 4:10",
+  "book": "job",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mokangolo wa nkoi, mpe lolaka wa nkoi ya makasi, mpe meno wa bana nkoi ebukaka.",
+  "tokens": [
+    {
+      "surface": "שאגת",
+      "gloss": "mokangolo"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "nkoi"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "mpe lolaka"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "nkoi ya makasi"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "mpe meno"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "bana nkoi"
+    },
+    {
+      "surface": "נתעו",
+      "gloss": "ebukaka"
+    }
+  ],
+  "timestamp": "2026-09-03T21:50:17.713165868Z",
+  "model": "glm-5.3"
+}

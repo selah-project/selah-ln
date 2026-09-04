@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 104:25",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 104,
+  "translation": "Yango mbu, monene mpe mpenepene na maboko; kuna minyokoloko, mpe ezali na motuya te, banyama ya mokemoke na bakole.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Yango"
+    },
+    {
+      "surface": "הים",
+      "gloss": "mbu"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "monene"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "mpe mpenepene"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "maboko"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "minyokoloko"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mpe ezali te"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "motuya"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "banyama"
+    },
+    {
+      "surface": "קטנות",
+      "gloss": "ya mokemoke"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "bakole"
+    }
+  ],
+  "timestamp": "2026-09-03T21:26:50.580230282Z",
+  "model": "glm-5.3"
+}

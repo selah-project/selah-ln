@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 10:17",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Mpe bayebisaki epai ya David, mpe akulisaki ⟨את⟩ Israel nyonso, mpe akatisaki ⟨את⟩ Yarden, mpe yakaki na Helama; mpe Aram elongolaki basi ya bitumbai bango mpo na kokutana na David, mpe babundaki na ye.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "mpe bayebisaki"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "epai ya David"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "mpe akulisaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "mpe akatisaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "mpe yakaki"
+    },
+    {
+      "surface": "חלאמה",
+      "gloss": "Helama"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "mpe elongolaki basi"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "mpo na kokutana na"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "mpe babundaki"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T18:32:20.162692344Z",
+  "model": "glm-5.3"
+}

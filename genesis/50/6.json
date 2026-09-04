@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 50:6",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 50,
+  "translation": "Mpe Parao alobaki: Ei likolo, mpe kundela ⟨את⟩ tata nayo, lokola akangaki yo na liloba.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ei likolo"
+    },
+    {
+      "surface": "וקבבר",
+      "gloss": "mpe kundela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tata nayo"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tata nayo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "lokola"
+    },
+    {
+      "surface": "השביעך",
+      "gloss": "akangaki yo na liloba"
+    }
+  ],
+  "timestamp": "2026-09-03T16:13:04.219818436Z",
+  "model": "glm-5.3"
+}

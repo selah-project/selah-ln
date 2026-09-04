@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 83:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 83,
+  "translation": "Mpo talá, banguna na yo bazali kosala mobulu, mpe baye bazali na bongo na yo batomboli motó.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "talá"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "banguna na yo"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "bazali kosala mobulu"
+    },
+    {
+      "surface": "ומשנאיך",
+      "gloss": "mpe baye bazali na bongo na yo"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "batomboli"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "motó"
+    }
+  ],
+  "timestamp": "2026-09-03T21:21:01.787142879Z",
+  "model": "glm-5.3"
+}

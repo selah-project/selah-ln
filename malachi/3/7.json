@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "malachi 3:7",
+  "book": "malachi",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Uta na miku ya baboti na bino bino bokendekaki na mibeko na ngai, mpe bolandaki yango te; bozongela epai ya ngai, mpe nakozongela epai na bino, alobaki Yawe Tsebaot. Mpe bolobaki: Na nini tokozongela?",
+  "tokens": [
+    {
+      "surface": "למימי",
+      "gloss": "uta na miku"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "ya baboti na bino"
+    },
+    {
+      "surface": "סרתם",
+      "gloss": "bokendekaki"
+    },
+    {
+      "surface": "מחקי",
+      "gloss": "na mibeko na ngai"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "שמרתם",
+      "gloss": "bolandaki yango"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "bozongela"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "epai ya ngai"
+    },
+    {
+      "surface": "ואשובה",
+      "gloss": "mpe nakozongela"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "epai na bino"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "mpe bolobaki"
+    },
+    {
+      "surface": "במה",
+      "gloss": "na nini"
+    },
+    {
+      "surface": "נשוב",
+      "gloss": "tokozongela"
+    }
+  ],
+  "timestamp": "2026-09-03T21:00:20.831382697Z",
+  "model": "glm-5.3"
+}

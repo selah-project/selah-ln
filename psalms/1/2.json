@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 1:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Kasi bolingo na ye ezali na Tora ya Yawe, mpe na Tora na ye apensaka mokolo na mokolo mpe butu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kasi"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "na Tora ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "חפצו",
+      "gloss": "bolingo na ye"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "mpe na Tora na ye"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "apensaka"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "mokolo na mokolo"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "mpe butu"
+    }
+  ],
+  "timestamp": "2026-09-03T21:00:55.650807354Z",
+  "model": "glm-5.3"
+}

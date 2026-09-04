@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 27:11",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 27,
+  "translation": "Longisa ngai, Yawe, nzela na yo, mpe Tambwisa ngai na nzela ya boyele, mpo na banyokoli na ngai.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "Longisa ngai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "nzela na yo"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "mpe Tambwisa ngai"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "na nzela"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "ya boyele"
+    },
+    {
+      "surface": "למען",
+      "gloss": "mpo na"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "banyokoli na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:05:50.274916928Z",
+  "model": "glm-5.3"
+}

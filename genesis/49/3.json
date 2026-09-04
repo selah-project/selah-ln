@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 49:3",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 49,
+  "translation": "Reuven, mwana ya liboso na ngai yo, makasi na ngai mpe ebandeli ya nguya na ngai, lokumu ya likolo mpe lokumu ya makasi.",
+  "tokens": [
+    {
+      "surface": "ראובן",
+      "gloss": "Reuven"
+    },
+    {
+      "surface": "בכרי",
+      "gloss": "mwana ya liboso na ngai"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "makasi na ngai"
+    },
+    {
+      "surface": "וראשית",
+      "gloss": "mpe ebandeli"
+    },
+    {
+      "surface": "אוני",
+      "gloss": "ya nguya na ngai"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "lokumu"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "ya likolo"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "mpe lokumu"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ya makasi"
+    }
+  ],
+  "timestamp": "2026-09-03T23:13:21.962014748Z",
+  "model": "glm-5.3"
+}

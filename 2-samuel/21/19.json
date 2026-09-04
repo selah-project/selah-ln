@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 21:19",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Mpe ezalaki lisusu etumba na Gov na Pelisiti, mpe Elkanana mwana wa Yaare-Oregim, moto ya Betlehema, akubaki ⟨את⟩ Golyati moko ya Gati; mpe nzete ya kopeto na ye ezalaki lokola mbanda ya basodi.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "ezalaki"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lisusu"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "etumba"
+    },
+    {
+      "surface": "בגוב",
+      "gloss": "na Gov"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelisiti"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "akubaki"
+    },
+    {
+      "surface": "אלחנן",
+      "gloss": "Elkanana"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "יערי",
+      "gloss": "wa Yaare"
+    },
+    {
+      "surface": "ארגים",
+      "gloss": "Oregim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "moto"
+    },
+    {
+      "surface": "הלחמי",
+      "gloss": "ya Betlehema"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Golyati"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "Golyati"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "moko ya Gati"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "mpe nzete"
+    },
+    {
+      "surface": "חניתו",
+      "gloss": "ya kopeto na ye"
+    },
+    {
+      "surface": "כמנור",
+      "gloss": "lokola mbanda"
+    },
+    {
+      "surface": "ארגים",
+      "gloss": "ya basodi"
+    }
+  ],
+  "timestamp": "2026-09-03T18:39:28.307522368Z",
+  "model": "glm-5.3"
+}

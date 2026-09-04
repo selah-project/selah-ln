@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 24:2",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "Mpe ekokama: lokola bato, ndenge wana lokola kohen; lokola moservi, ndenge wana lokola nkolo na ye; lokola mwasi-moservi, ndenge wana lokola mwasi-nkolo na ye; lokola mombi, ndenge wana lokola moteki; lokola mopesi mbongo, ndenge wana lokola mokambi mbongo; lokola mokangi, ndenge wana lokola oyo mokangi akangi na ye.",
+  "tokens": [
+    {
+      "surface": "וְהָיָה",
+      "gloss": "Mpe ekokama"
+    },
+    {
+      "surface": "כָעָם",
+      "gloss": "lokola bato"
+    },
+    {
+      "surface": "כַּכֹּהֵן",
+      "gloss": "ndenge wana lokola kohen"
+    },
+    {
+      "surface": "כַּעֶבֶד",
+      "gloss": "lokola moservi"
+    },
+    {
+      "surface": "כַּאדֹנָיו",
+      "gloss": "ndenge wana lokola nkolo na ye"
+    },
+    {
+      "surface": "כַּשִּׁפְחָה",
+      "gloss": "lokola mwasi-moservi"
+    },
+    {
+      "surface": "כַּגְּבִרְתָּהּ",
+      "gloss": "ndenge wana lokola mwasi-nkolo na ye"
+    },
+    {
+      "surface": "כַּקּוֹנֶה",
+      "gloss": "lokola mombi"
+    },
+    {
+      "surface": "כַּמּוֹכֵר",
+      "gloss": "ndenge wana lokola moteki"
+    },
+    {
+      "surface": "כַּמַּלְוֶה",
+      "gloss": "lokola mopesi mbongo"
+    },
+    {
+      "surface": "כַּלֹּוֶה",
+      "gloss": "ndenge wana lokola mokambi mbongo"
+    },
+    {
+      "surface": "כַּנֹּשֶׁה",
+      "gloss": "lokola mokangi"
+    },
+    {
+      "surface": "כַּאֲשֶׁר",
+      "gloss": "ndenge wana lokola oyo"
+    },
+    {
+      "surface": "נֹשֶׁא",
+      "gloss": "mokangi akangi"
+    },
+    {
+      "surface": "בֽוֹ",
+      "gloss": "na ye"
+    }
+  ],
+  "timestamp": "2026-09-04T00:21:40.318694946Z",
+  "model": "glm-5.3"
+}

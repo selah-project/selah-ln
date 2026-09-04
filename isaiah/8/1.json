@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 8:1",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe Yawe alobaki epai na ngai: zua na yo gilayon monene, mpe koma likolo na yango na cheret ya moto: Maher-Shalal-Hash-Baz.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "epai na ngai"
+    },
+    {
+      "surface": "קח",
+      "gloss": "zua"
+    },
+    {
+      "surface": "לך",
+      "gloss": "na yo"
+    },
+    {
+      "surface": "גליון",
+      "gloss": "gilayon"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "monene"
+    },
+    {
+      "surface": "וכתב",
+      "gloss": "mpe koma"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "likolo na yango"
+    },
+    {
+      "surface": "בחרט",
+      "gloss": "na cheret"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ya moto"
+    },
+    {
+      "surface": "למהר",
+      "gloss": "Maher"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "Shalal"
+    },
+    {
+      "surface": "חש",
+      "gloss": "Hash"
+    },
+    {
+      "surface": "בז",
+      "gloss": "Baz"
+    }
+  ],
+  "timestamp": "2026-09-03T19:14:55.580533929Z",
+  "model": "glm-5.3"
+}

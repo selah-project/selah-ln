@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 14:4",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Mpe nakolatisa nguya ⟨את⟩ motema ya Parao, mpe akolanda na sima ya bango; mpe nakozala na nkembo na Parao mpe na mampinga na yango nyonso; mpe Mitsraim bayeba ete ngai nazali Yawe. Mpe basalaki bongo.",
+  "tokens": [
+    {
+      "surface": "וחזקתי",
+      "gloss": "Mpe nakolatisa nguya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motema"
+    },
+    {
+      "surface": "לב",
+      "gloss": "motema"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ya Parao"
+    },
+    {
+      "surface": "ורדף",
+      "gloss": "mpe akolanda"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "na sima ya bango"
+    },
+    {
+      "surface": "ואכבדה",
+      "gloss": "mpe nakozala na nkembo"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "na Parao"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "mpe na nyonso"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "mampinga na yango"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "mpe bayeba"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "Mpe basalaki"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bongo"
+    }
+  ],
+  "timestamp": "2026-09-03T16:21:37.278725288Z",
+  "model": "glm-5.3"
+}

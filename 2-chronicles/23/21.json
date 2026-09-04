@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 23:21",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Mpe bato nyonso ya mabele basepelaki, mpe mboka ewumelaki, mpe ⟨את⟩ Atalyahu babomaki na esele.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "basepelaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ya mabele"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "mpe mboka"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "ewumelaki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Atalyahu"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalyahu"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "babomaki"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "na esele"
+    }
+  ],
+  "timestamp": "2026-09-03T23:01:20.828699115Z",
+  "model": "glm-5.3"
+}

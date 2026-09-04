@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 3:25",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Namata, nasengi yo, mpe namona ⟨את⟩ mabele malamu oyo ezali na ngambo ya Yarden, ngomba malamu oyo, mpe Lebanone.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "Namata"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nasengi yo"
+    },
+    {
+      "surface": "ויאראה",
+      "gloss": "mpe namona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabele malamu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "malamu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "na ngambo"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ngomba"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "malamu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "mpe Lebanone"
+    }
+  ],
+  "timestamp": "2026-09-03T17:24:39.697930662Z",
+  "model": "glm-5.3"
+}

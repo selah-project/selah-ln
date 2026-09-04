@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-samuel 17:44",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 17,
+  "translation": "Mpe Filistini alobaki epai ya David: Yaka epai na ngai, mpe napesa ⟨את⟩ nzoto na yo na ndeke ya likolo mpe na banyama ya zamba.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Filistini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "yaka"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "epai na ngai"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "mpe napesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nzoto na yo"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "nzoto na yo"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "na ndeke"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ya likolo"
+    },
+    {
+      "surface": "ולבהמת",
+      "gloss": "mpe na banyama"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ya zamba"
+    }
+  ],
+  "timestamp": "2026-09-03T18:18:18.055096075Z",
+  "model": "glm-5.3"
+}

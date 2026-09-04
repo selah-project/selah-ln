@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 42:20",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 42,
+  "translation": "Omonaki biloko ebele kasi ⟨yo⟩ obatelaki te; matoyi ya komengola, kasi ⟨ye⟩ ayokaki te.",
+  "tokens": [
+    {
+      "surface": "ראית",
+      "gloss": "Omonaki"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "biloko ebele"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kasi obatelaki te"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "obatelaki te"
+    },
+    {
+      "surface": "פקוח",
+      "gloss": "ya komengola"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "matoyi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kasi ayokaki te"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ayokaki te"
+    }
+  ],
+  "timestamp": "2026-09-03T19:30:56.130692596Z",
+  "model": "glm-5.3"
+}

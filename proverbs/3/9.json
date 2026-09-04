@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 3:9",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Lokumusa ⟨את⟩ Yawe na mosola na yo, mpe na ebandeli ya bokwi na yo nyonso.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Lokumusa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מהונך",
+      "gloss": "na mosola na yo"
+    },
+    {
+      "surface": "ומראשית",
+      "gloss": "mpe na ebandeli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "תבואתך",
+      "gloss": "ya bokwi na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:37:39.215258083Z",
+  "model": "glm-5.3"
+}

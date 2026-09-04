@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 103:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 103,
+  "translation": "Oyo abikisi bomoi na yo na likengu, oyo atyaka yo lokumu na hesed (bolamu) mpe mawa ya kondimela.",
+  "tokens": [
+    {
+      "surface": "הגואל",
+      "gloss": "Oyo abikisi"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "na likengu"
+    },
+    {
+      "surface": "חייכי",
+      "gloss": "bomoi na yo"
+    },
+    {
+      "surface": "המעטרכי",
+      "gloss": "oyo atyaka yo lokumu"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ורחמים",
+      "gloss": "mpe mawa ya kondimela"
+    }
+  ],
+  "timestamp": "2026-09-03T21:26:15.802446505Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 10:4",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Mpe soki yo oboyi kotika ⟨את⟩ bato na ngai, talá, nakomema lobi senzenza kati na ndelo na yo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "soki"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "oboyi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "kotika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bato na ngai"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "bato na ngai"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "talá, nazali"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "nakomema"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "lobi"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "senzenza"
+    },
+    {
+      "surface": "בגבלך",
+      "gloss": "kati na ndelo na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T16:18:44.362414640Z",
+  "model": "glm-5.3"
+}

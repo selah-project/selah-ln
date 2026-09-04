@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 15:20",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 15,
+  "translation": "Mpe Miryam, monabia, ndeko ya Aharon, azwaki na maboko na ye ⟨את⟩ dundu, mpe basi nyonso babimaki na sima na ye na bandundu mpe na bobina.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "Mpe azwaki"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "Miryam"
+    },
+    {
+      "surface": "הנביאה",
+      "gloss": "monabia"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "ndeko"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ya Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dundu"
+    },
+    {
+      "surface": "התף",
+      "gloss": "dundu"
+    },
+    {
+      "surface": "בידה",
+      "gloss": "na maboko na ye"
+    },
+    {
+      "surface": "ותצאן",
+      "gloss": "mpe babimaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "basi"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "na sima na ye"
+    },
+    {
+      "surface": "בתפים",
+      "gloss": "na bandundu"
+    },
+    {
+      "surface": "ובמחלת",
+      "gloss": "mpe na bobina"
+    }
+  ],
+  "timestamp": "2026-09-03T16:21:16.335713008Z",
+  "model": "glm-5.3"
+}

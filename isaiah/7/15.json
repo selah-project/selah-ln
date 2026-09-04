@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 7:15",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Miliki ya kokaka mpe asuku akolia, mpo ayeba koboya mabe mpe kopona malamu.",
+  "tokens": [
+    {
+      "surface": "חמאה",
+      "gloss": "miliki ya kokaka"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "mpe asuku"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "akolia"
+    },
+    {
+      "surface": "לדעתו",
+      "gloss": "mpo ayeba"
+    },
+    {
+      "surface": "מאוס",
+      "gloss": "koboya"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "ובחור",
+      "gloss": "mpe kopona"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "malamu"
+    }
+  ],
+  "timestamp": "2026-09-03T19:15:01.003201595Z",
+  "model": "glm-5.3"
+}

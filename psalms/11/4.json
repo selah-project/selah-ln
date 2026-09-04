@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 11:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Yawe azali na ndako ya bosantu na yango; Yawe azali na likolo, kiti ya bokonzi na yango ezali kuna; miso na yango etali, bokangi bwa miso na yango etalelaka bana ya moto.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "na ndako ya bosantu"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "bosantu na yango"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "na likolo"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "kiti ya bokonzi na yango"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "miso na yango"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "etali"
+    },
+    {
+      "surface": "עפעפיו",
+      "gloss": "bokangi bwa miso na yango"
+    },
+    {
+      "surface": "יבחנו",
+      "gloss": "etalelaka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ya"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moto"
+    }
+  ],
+  "timestamp": "2026-09-03T21:03:22.369145273Z",
+  "model": "glm-5.3"
+}

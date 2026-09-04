@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 73:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 73,
+  "translation": "Mpo ete nazingaki bapemi, tango namonaki bomoi ya libanga ya babubi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo ete"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "nazingaki"
+    },
+    {
+      "surface": "בהוללים",
+      "gloss": "bapemi"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "bomoi ya libanga"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ya babubi"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "namonaki"
+    }
+  ],
+  "timestamp": "2026-09-03T21:18:04.032402282Z",
+  "model": "glm-5.3"
+}

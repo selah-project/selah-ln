@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 8:10",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Bosala makanisi, mpe ekosilama; boloba liloba, mpe ekotemama te, mpo El azali elongo na biso.",
+  "tokens": [
+    {
+      "surface": "עצו",
+      "gloss": "Bosala makanisi"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "makanisi"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "mpe ekosilama"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "boloba"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "liloba"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe ... te"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ekotemama"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "elongo na biso"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-03T19:14:32.681351518Z",
+  "model": "glm-5.3"
+}

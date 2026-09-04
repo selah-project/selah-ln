@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 8:13",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe akanza ⟨את⟩ bana basi na bino, mpo na kosalisa mafuta ya nkoma, mpe mpo na koloba bilei, mpe mpo na kobota mokei.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bana basi na bino"
+    },
+    {
+      "surface": "בנותיכם",
+      "gloss": "bana basi na bino"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "akanza"
+    },
+    {
+      "surface": "לרקחות",
+      "gloss": "mpo na kosalisa mafuta ya nkoma"
+    },
+    {
+      "surface": "ולטבחות",
+      "gloss": "mpe mpo na koloba bilei"
+    },
+    {
+      "surface": "ולאפות",
+      "gloss": "mpe mpo na kobota mokei"
+    }
+  ],
+  "timestamp": "2026-09-03T18:10:36.055445587Z",
+  "model": "glm-5.3"
+}

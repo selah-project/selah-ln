@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 42:31",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 42,
+  "translation": "Mpe tolobaki ye: biso tozali bato ya bosolo, tozali te bato ya koluka.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "mpe tolobaki"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "bato ya bosolo"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "biso"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "tozali"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "bato ya koluka"
+    }
+  ],
+  "timestamp": "2026-09-03T16:09:31.342233080Z",
+  "model": "glm-5.3"
+}

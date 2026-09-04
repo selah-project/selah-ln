@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 94:20",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 94,
+  "translation": "Ekoki kozala ete kiti ya bokonzi ya mabe elongi na yo, esalaka mabe na bokonzi ya mobeko?",
+  "tokens": [
+    {
+      "surface": "היחברך",
+      "gloss": "elongi na yo"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "kiti ya bokonzi"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "ya mabe"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "esalaka"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "na bokonzi ya"
+    },
+    {
+      "surface": "חק",
+      "gloss": "mobeko"
+    }
+  ],
+  "timestamp": "2026-09-03T21:24:16.044052237Z",
+  "model": "glm-5.3"
+}

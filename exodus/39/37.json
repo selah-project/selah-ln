@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 39:37",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 39,
+  "translation": "⟨את⟩ menora ya pete, ⟨את⟩ bitungi na yango, bitungi ya molongo, mpe ⟨את⟩ bileko na yango nyonso, mpe ⟨את⟩ mafuta ya etungi,",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "menora"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "menora"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "ya pete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bitungi na yango"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "bitungi na yango"
+    },
+    {
+      "surface": "נרת",
+      "gloss": "bitungi"
+    },
+    {
+      "surface": "המערכה",
+      "gloss": "ya molongo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bileko na yango nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "bileko na yango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mafuta"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "ya etungi"
+    }
+  ],
+  "timestamp": "2026-09-03T16:39:38.274212287Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 33:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 33,
+  "translation": "Botolaka Yawe na kinora; na nevela ya mikanda zomi bozambaka Ye.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Botolaka"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "na kinora"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "na nevela"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "ya mikanda zomi"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "bozambaka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:08:59.441956931Z",
+  "model": "glm-5.3"
+}

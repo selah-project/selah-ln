@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 24:22",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "Mpe sikoya, lapa na ngai na Yawe: soki okataki ⟨את⟩ mboto na ngai sima na ngai, mpe soki olimwisaki ⟨את⟩ nkombo na ngai kati na ndako ya tata na ngai.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Mpe sikoya"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "lapa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "na Yawe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "soki"
+    },
+    {
+      "surface": "תכרית",
+      "gloss": "okataki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mboto na ngai"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "mboto na ngai"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sima na ngai"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "mpe soki"
+    },
+    {
+      "surface": "תשמיד",
+      "gloss": "olimwisaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkombo na ngai"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "nkombo na ngai"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "kati na ndako"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ya tata na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T18:20:25.807069932Z",
+  "model": "glm-5.3"
+}

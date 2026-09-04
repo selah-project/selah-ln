@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 10:9",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Oyo abongolaka mabanga akokwama na yango; mpe oyo abukaka nzete azokanzama na yango.",
+  "tokens": [
+    {
+      "surface": "מסיע",
+      "gloss": "abongolaka"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "mabanga"
+    },
+    {
+      "surface": "יעצב",
+      "gloss": "akokwama"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "בוקע",
+      "gloss": "abukaka"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "nzete"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "azokanzama"
+    },
+    {
+      "surface": "בם",
+      "gloss": "na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T22:14:10.171012126Z",
+  "model": "glm-5.3"
+}

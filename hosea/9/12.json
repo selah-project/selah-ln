@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 9:12",
+  "book": "hosea",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Mpo soki ata bakolisa ⟨את⟩ bana na bango, nabosolaka bango, kuna bato te; mpo mpe aie, mawa na bango, tango nakitana na bango.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "soki ata"
+    },
+    {
+      "surface": "יגדלו",
+      "gloss": "bakolisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bana na bango"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "bana na bango"
+    },
+    {
+      "surface": "ושכלתים",
+      "gloss": "nabosolaka bango"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "kuna bato te"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "aie"
+    },
+    {
+      "surface": "להם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "tango nakitana"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T20:39:20.350987261Z",
+  "model": "glm-5.3"
+}

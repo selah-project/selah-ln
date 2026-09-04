@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 51:17",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 51,
+  "translation": "Adonai, ogulaka minolembe na ngai, mpe monoko na ngago ekomonisa tionso na yo.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "minolembe na ngai"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "ogulaka"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "mpe monoko na ngago"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "ekomoni[sa]"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "tionso na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:13:28.103793221Z",
+  "model": "glm-5.3"
+}

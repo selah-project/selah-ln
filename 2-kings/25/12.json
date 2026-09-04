@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 25:12",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Mpe mokambi ya basalisi atikaki bato oyo bazangi ya mabele, mpo na kotala ba mbila mpe mpo na koluka mabele.",
+  "tokens": [
+    {
+      "surface": "ומדלת",
+      "gloss": "bato oyo bazangi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ya mabele"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "atikaki"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mokambi"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "ya basalisi"
+    },
+    {
+      "surface": "לכרמים",
+      "gloss": "mpo na kotala ba mbila"
+    },
+    {
+      "surface": "וליגבים",
+      "gloss": "mpe mpo na koluka mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T19:12:15.812017758Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 43:7",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 43,
+  "translation": "Nyonso oyo abengami na nkombo na ngai, mpe mpo na nkembo na ngai nakelaki ye, nayengeli ye, ata nasali ye.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "הנקרא",
+      "gloss": "abengami"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "na nkombo na ngai"
+    },
+    {
+      "surface": "ולכבודי",
+      "gloss": "mpe mpo na nkembo na ngai"
+    },
+    {
+      "surface": "בראתיו",
+      "gloss": "nakelaki ye"
+    },
+    {
+      "surface": "יצרתיו",
+      "gloss": "nayengeli ye"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ata"
+    },
+    {
+      "surface": "עשיתיו",
+      "gloss": "nasali ye"
+    }
+  ],
+  "timestamp": "2026-09-03T19:29:46.182794742Z",
+  "model": "glm-5.3"
+}

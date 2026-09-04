@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 3:15",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe nakotya monganga kati na yo na mwasi, mpe kati na mbota na yo na mbota na ye; ye akobeta motó na yo, mpe okobeta nse ya lokasa na ye.",
+  "tokens": [
+    {
+      "surface": "ואיבה",
+      "gloss": "Mpe monganga"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "nakotya"
+    },
+    {
+      "surface": "בינך",
+      "gloss": "kati na yo"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "mpe kati na mwasi"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mwasi"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "mpe kati na mbota na yo"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "mbota na yo"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "mpe kati na"
+    },
+    {
+      "surface": "זרעה",
+      "gloss": "mbota na ye"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ye"
+    },
+    {
+      "surface": "ישופך",
+      "gloss": "akobeta"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "motó na yo"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "mpe yo"
+    },
+    {
+      "surface": "תשופנו",
+      "gloss": "okobeta"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "nse ya lokasa na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T15:45:44.783187628Z",
+  "model": "glm-5.3"
+}

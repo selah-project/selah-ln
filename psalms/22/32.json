@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 22:32",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Bakoya mpe bakolakisa bosembo na ye na bato oyo bakobota, mpo asalaki ⟨yango⟩.",
+  "tokens": [
+    {
+      "surface": "יבאו",
+      "gloss": "Bakoya"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "mpe bakolakisa"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "bosembo na ye"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "na bato"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "oyo bakobota"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "asalaki ⟨yango⟩"
+    }
+  ],
+  "timestamp": "2026-09-03T21:04:54.498897985Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 89:23",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 89,
+  "translation": "Paya akosenga mbongo na ye te, mpe mwana ya mabe akotondisa ye te.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "akosenga mbongo"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "Paya"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "mpe mwana"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ya mabe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "akotondisa ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:23:23.025795558Z",
+  "model": "glm-5.3"
+}

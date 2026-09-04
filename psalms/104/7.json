@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 104:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 104,
+  "translation": "Na maloba na yo ya kosakana bakimi; na ndinga ya nkunge na yo babuki mbangu.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "na"
+    },
+    {
+      "surface": "גערתך",
+      "gloss": "maloba na yo ya kosakana"
+    },
+    {
+      "surface": "ינוסון",
+      "gloss": "bakimi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "na"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ndinga"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "nkunge na yo"
+    },
+    {
+      "surface": "יחפזון",
+      "gloss": "babuki mbangu"
+    }
+  ],
+  "timestamp": "2026-09-03T21:26:34.764274590Z",
+  "model": "glm-5.3"
+}

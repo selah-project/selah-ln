@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 34:13",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 34,
+  "translation": "Mpo ete bomeka ⟨את⟩ mesa ya bango, bokuha ⟨את⟩ mikanisi na bango, mpe bokata ⟨את⟩ banzete ya Ashera na bango.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mesa ya bango"
+    },
+    {
+      "surface": "מזבחתם",
+      "gloss": "mesa ya bango"
+    },
+    {
+      "surface": "תתצון",
+      "gloss": "bomeka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mikanisi na bango"
+    },
+    {
+      "surface": "מצבתם",
+      "gloss": "mikanisi na bango"
+    },
+    {
+      "surface": "תשברון",
+      "gloss": "bokuha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "banzete ya Ashera na bango"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "banzete ya Ashera na bango"
+    },
+    {
+      "surface": "תכרתון",
+      "gloss": "bokata"
+    }
+  ],
+  "timestamp": "2026-09-03T16:33:39.723292604Z",
+  "model": "glm-5.3"
+}

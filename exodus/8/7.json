@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 8:7",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe bisanga ekolongwama epai na yo, mpe na bandako na yo, mpe na bakulumpe na yo, mpe na bato na yo; kaka na ebale nde bikotikala.",
+  "tokens": [
+    {
+      "surface": "וסרו",
+      "gloss": "Mpe ekolongwama"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "bisanga"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "epai na yo"
+    },
+    {
+      "surface": "ומבתיך",
+      "gloss": "mpe na bandako na yo"
+    },
+    {
+      "surface": "ומעבדיך",
+      "gloss": "mpe na bakulumpe na yo"
+    },
+    {
+      "surface": "ומעמך",
+      "gloss": "mpe na bato na yo"
+    },
+    {
+      "surface": "רק",
+      "gloss": "kaka"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "na ebale"
+    },
+    {
+      "surface": "תשארנה",
+      "gloss": "bikotikala"
+    }
+  ],
+  "timestamp": "2026-09-03T16:17:08.944684910Z",
+  "model": "glm-5.3"
+}

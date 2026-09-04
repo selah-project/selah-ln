@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 3:9",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe sikoyo, tala, bolili ya bana ya Israel eboyaki epai na ngai, mpe namoni ⟨את⟩ nyokoli oyo bato ya Mitsraim bazali konyokola ⟨את⟩ bango.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Mpe sikoyo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tala"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "bolili"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ya bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "באה",
+      "gloss": "eboyaki"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "epai na ngai"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "namoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyokoli"
+    },
+    {
+      "surface": "הלחץ",
+      "gloss": "nyokoli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "bato ya Mitsraim"
+    },
+    {
+      "surface": "לחצים",
+      "gloss": "bazali konyokola"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:14:54.956203814Z",
+  "model": "glm-5.3"
+}

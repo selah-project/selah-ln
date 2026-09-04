@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 4:1",
+  "book": "ezekiel",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe yo, mwana ya moto, zwa yo libanga ya mabele, mpe otya ⟨את⟩ yango liboso na yo, mpe olimbola likolo na yango mboka — ⟨את⟩ Yerushalaim.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Mpe yo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ya moto"
+    },
+    {
+      "surface": "קח",
+      "gloss": "zwa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yo"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "libanga ya mabele"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "mpe otya"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ yango",
+      "marks": "libanga ya mabele"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "liboso na yo"
+    },
+    {
+      "surface": "וחקות",
+      "gloss": "mpe olimbola"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "likolo na yango"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mboka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalaim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-09-03T20:12:30.805289487Z",
+  "model": "glm-5.3"
+}

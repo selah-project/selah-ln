@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 6:44",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "mpe ⟨את⟩ Ashan mpe ⟨את⟩ mabele na yango, mpe ⟨את⟩ Bet-Shemesh mpe ⟨את⟩ mabele na yango.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Ashan"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "Ashan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mabele na yango"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "mabele na yango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Bet-Shemesh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "-Shemesh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mabele na yango"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "mabele na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T22:42:49.077103267Z",
+  "model": "glm-5.3"
+}

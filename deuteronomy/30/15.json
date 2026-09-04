@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 30,
+  "translation": "Tala, natiei lelo liboso na yo ⟨את⟩ bomoi mpe ⟨את⟩ bolamu, mpe ⟨את⟩ liwa mpe ⟨את⟩ mabe.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Tala"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "natiei"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "liboso na yo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lelo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bomoi"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "bomoi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bolamu"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "bolamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "liwa"
+    },
+    {
+      "surface": "המות",
+      "gloss": "liwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mabe"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "mabe"
+    }
+  ],
+  "timestamp": "2026-09-03T17:39:30.467998829Z",
+  "model": "glm-5.3"
+}

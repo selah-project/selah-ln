@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 14:16",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Mpo mokonzi atokoka kolobela ⟨את⟩ mosali-nwasi na ye na maboko ya moto oyo alingi kolimwisa ⟨את⟩ ngai mpe ⟨את⟩ mwana na ngai elongo, na bobombi ya bozwi ya Elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "atokoka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "להציל",
+      "gloss": "na kolobela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mosali-nwasi na ye"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "mosali-nwasi na ye"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "na maboko ya"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "na kolimwisa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ngai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mwana na ngai"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mwana na ngai"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "elongo"
+    },
+    {
+      "surface": "מנחלת",
+      "gloss": "na bozwi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-03T18:33:54.562946773Z",
+  "model": "glm-5.3"
+}

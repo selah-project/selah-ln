@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 85:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 85,
+  "translation": "Yawe, osepelaki na mabele na yo, ozongisaki bobwateli ya Yaakov.",
+  "tokens": [
+    {
+      "surface": "רצית",
+      "gloss": "osepelaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "mabele na yo"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "ozongisaki"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "bobwateli"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ya Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-03T21:22:13.437942022Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zephaniah 3:3",
+  "book": "zephaniah",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Bakonzi na yango, na kati na yango, bankoi babeta ngulu; bazuzi na yango bazali banyama ya mpokwa, bazali kotika mafuta te tii na tongo.",
+  "tokens": [
+    {
+      "surface": "שריה",
+      "gloss": "Bakonzi na yango"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "na kati na yango"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "bankoi"
+    },
+    {
+      "surface": "שאגים",
+      "gloss": "babeta ngulu"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "bazuzi na yango"
+    },
+    {
+      "surface": "זאבי",
+      "gloss": "banyama"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ya mpokwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "גרמו",
+      "gloss": "bazali kotika mafuta"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "tii na tongo"
+    }
+  ],
+  "timestamp": "2026-09-03T20:53:35.297330153Z",
+  "model": "glm-5.3"
+}

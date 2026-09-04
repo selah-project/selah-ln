@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 33:2",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 33,
+  "translation": "Mpe nakotinda motindami liboso ya yo, mpe nakobimisa ⟨את⟩ Kenaani, Emori, mpe Hiti, mpe Perizi, Hiwi, mpe Yebusi.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "mpe nakotinda"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "liboso ya yo"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "motindami"
+    },
+    {
+      "surface": "וגרשתי",
+      "gloss": "mpe nakobimisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenaani, Emori, mpe Hiti, mpe Perizi, Hiwi, mpe Yebusi"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kenaani"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emori"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "mpe Hiti"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "mpe Perizi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Hiwi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "mpe Yebusi"
+    }
+  ],
+  "timestamp": "2026-09-03T16:34:39.910835648Z",
+  "model": "glm-5.3"
+}

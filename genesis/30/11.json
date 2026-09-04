@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 30:11",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 30,
+  "translation": "Mpe Lea alobaki: Bozwi eyaki! Mpe abengaki ⟨את⟩ kombo na ye Gad.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "Bozwi eyaki"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "abengaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kombo na ye"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "kombo na ye"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    }
+  ],
+  "timestamp": "2026-09-03T15:58:16.808337539Z",
+  "model": "glm-5.3"
+}

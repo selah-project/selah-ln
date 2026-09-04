@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 16:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Nalobaki epai ya Yawe: Adonai, yo ⟨ozali⟩; nazali na bolamu ata moko te libanda na yo.",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "Nalobaki"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "epai ya Yawe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "טובתי",
+      "gloss": "bolamu na ngai"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ata moko te"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "libanda na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:02:23.378094268Z",
+  "model": "glm-5.3"
+}

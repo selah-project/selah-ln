@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 73:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 73,
+  "translation": "Mpe ngai, makasi mpe mokembe ya misogo na ngai ekweaki; ndambo na ngai esukaki kaka na kokwea.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Mpe ngai"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "makasi mpe mokembe"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "ekweaki"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "misogo na ngai"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "esukaki kaka na"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "kokwea"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "ndambo na ngai"
+    }
+  ],
+  "timestamp": "2026-09-04T00:22:04.341880530Z",
+  "model": "glm-5.3"
+}

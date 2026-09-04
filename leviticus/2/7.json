@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 2:7",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe soki mincha ya marmite ezali korban na yo, flo ya malamu na mafuta nde ekosalelama.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Mpe soki"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "mincha ya"
+    },
+    {
+      "surface": "מרחשת",
+      "gloss": "marmite"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "korban na yo"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "flo ya malamu"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "na mafuta"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ekosalelama"
+    }
+  ],
+  "timestamp": "2026-09-03T16:39:11.443498854Z",
+  "model": "glm-5.3"
+}

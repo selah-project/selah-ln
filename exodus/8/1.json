@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 8:1",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Yawe alobaki epai ya Moshe: Loba epai ya Aharon: Tanda ⟨את⟩ maboko na yo na mate na yo likolo ya mingala, likolo ya bibale, mpe likolo ya mabenga, mpe yambula ⟨את⟩ batsafarde likolo ya mabele ya Mitsraim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Loba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "Tanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maboko na yo"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "maboko na yo"
+    },
+    {
+      "surface": "במטך",
+      "gloss": "na mate na yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "הנהרת",
+      "gloss": "mingala"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "היארים",
+      "gloss": "bibale"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "mpe likolo ya"
+    },
+    {
+      "surface": "האגמים",
+      "gloss": "mabenga"
+    },
+    {
+      "surface": "והעל",
+      "gloss": "mpe yambula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "batsafarde"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "batsafarde"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    }
+  ],
+  "timestamp": "2026-09-03T16:17:58.971841653Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 22:16",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Makasi na ngai memanaki lokola etuka ya mabele, mpe liloba na ngai ekangamaki na mino na ngai, mpe otyaki ngai na mputulelwe ya liwa.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "memanaki"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "lokola etuka ya mabele"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "makasi na ngai"
+    },
+    {
+      "surface": "ולשוני",
+      "gloss": "mpe liloba na ngai"
+    },
+    {
+      "surface": "מדבק",
+      "gloss": "ekangamaki na"
+    },
+    {
+      "surface": "מלקוחי",
+      "gloss": "mino na ngai"
+    },
+    {
+      "surface": "ולעפר",
+      "gloss": "mpe na mputulelwe"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ya liwa"
+    },
+    {
+      "surface": "תשפתני",
+      "gloss": "otyaki ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:04:31.361692121Z",
+  "model": "glm-5.3"
+}

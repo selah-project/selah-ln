@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 45:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 45,
+  "translation": "Olingaka bosembo, mpe osenyeli mabe; mpo na yango Elohim, Elohim na yo, azali kozela yo na mafuta ya elikya likolo ya banokani na yo.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "olingaka"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "bosembo"
+    },
+    {
+      "surface": "ותשנא",
+      "gloss": "mpe osenyeli"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "על",
+      "gloss": "mpo na"
+    },
+    {
+      "surface": "כן",
+      "gloss": "yango"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "azali kozela yo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim na yo"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "na mafuta"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "ya elikya"
+    },
+    {
+      "surface": "מחבריך",
+      "gloss": "likolo ya banokani na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:13:03.117253368Z",
+  "model": "glm-5.3"
+}

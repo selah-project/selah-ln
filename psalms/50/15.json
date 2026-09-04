@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 50:15",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 50,
+  "translation": "Mpe benga ngai na mokolo ya etumbu: nakolombola yo, mpe okundola ngai.",
+  "tokens": [
+    {
+      "surface": "וקראני",
+      "gloss": "Mpe benga ngai"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na mokolo"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "etumbu"
+    },
+    {
+      "surface": "אחלצך",
+      "gloss": "nakolombola yo"
+    },
+    {
+      "surface": "ותכבדני",
+      "gloss": "mpe okundola ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:12:30.410780839Z",
+  "model": "glm-5.3"
+}

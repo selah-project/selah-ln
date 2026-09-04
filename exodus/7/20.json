@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 7:20",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mpe Moshe mpe Aharon basalaki bongo, lokola Yawe atindaki; mpe atomboki baton mpe abetaki ⟨את⟩ mai oyo ezali na ebale, miso ya Parao mpe miso ya basaleli na ye; mpe mai nyonso oyo ezali na ebale babongwanaki ekomi makila.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "mpe basalaki"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bongo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "mpe Aharon"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "lokola"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "atindaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וירם",
+      "gloss": "mpe atomboki"
+    },
+    {
+      "surface": "במטה",
+      "gloss": "baton"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "mpe abetaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mai"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "na ebale"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "miso ya"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "ולעיני",
+      "gloss": "mpe miso ya"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "basaleli na ye"
+    },
+    {
+      "surface": "ויהפכו",
+      "gloss": "mpe babongwanaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "na ebale"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "ekomi makila"
+    }
+  ],
+  "timestamp": "2026-09-03T16:16:33.913446475Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 21:21",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Mpe ntango amokaki ⟨את⟩ Israel, Yehonatan mwana wa Shimei, ndeko ya David, amibaki ye.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "amokaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "amibaki ye"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Shimei"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ndeko"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-09-03T18:37:26.853653438Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 21:12",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Mpo bamoniselaki mabe likolo ya Yawe, bakanisaki likebe mabe — bakoki ⟨kosalisa yango⟩ te.",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "נָ֘ט֣וּ עָֽלֶ֣יךָ",
+      "gloss": "bamoniselaki likolo ya Yawe"
+    },
+    {
+      "surface": "רָעָ֑ה",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "חָֽשְׁב֥וּ",
+      "gloss": "bakanisaki"
+    },
+    {
+      "surface": "מְזִמָּ֗ה",
+      "gloss": "likebe mabe"
+    },
+    {
+      "surface": "בַּֽל",
+      "gloss": "te"
+    },
+    {
+      "surface": "יוּכָֽלוּ",
+      "gloss": "bakoki"
+    }
+  ],
+  "timestamp": "2026-09-03T23:33:49.092090197Z",
+  "model": "glm-5.3"
+}

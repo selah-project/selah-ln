@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 10:3",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Mpo bansela ya bikolo ezali mopaya; mpo nzete ya zamba bakataki yango, mosala ya maboko ya mokomi, na moyombi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "חקות",
+      "gloss": "bansela"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ya bikolo"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "mopaya"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ezali ⟨mopaya⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "nzete"
+    },
+    {
+      "surface": "מיער",
+      "gloss": "ya zamba"
+    },
+    {
+      "surface": "כרתו",
+      "gloss": "bakataki yango"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "mosala"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ya maboko"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ya mokomi"
+    },
+    {
+      "surface": "במעצד",
+      "gloss": "na moyombi"
+    }
+  ],
+  "timestamp": "2026-09-03T19:46:44.912076301Z",
+  "model": "glm-5.3"
+}

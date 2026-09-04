@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 12:4",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Balobi: Onamekaki biso te, mpe obukaki biso te, mpe ozwaki eloko moko te na loboko ya moto.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Balobi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "עשקתנו",
+      "gloss": "onamekaki biso"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "רצותנו",
+      "gloss": "obukaki biso"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "ozwaki"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "na loboko ya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "eloko moko te"
+    }
+  ],
+  "timestamp": "2026-09-03T18:14:16.465629355Z",
+  "model": "glm-5.3"
+}

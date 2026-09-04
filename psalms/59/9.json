@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 59:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 59,
+  "translation": "Kasi yo, Yawe, osɛka na bango; omokaka na bikolo nyonso.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Kasi yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "osɛka"
+    },
+    {
+      "surface": "למו",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "omokaka"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "na"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bikolo nyonso"
+    }
+  ],
+  "timestamp": "2026-09-03T21:14:54.678596780Z",
+  "model": "glm-5.3"
+}

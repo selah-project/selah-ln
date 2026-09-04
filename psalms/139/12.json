@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 139:12",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 139,
+  "translation": "Ata molili ekolomba eloko te epai nayo, mpe buto ekoseka lokola mokolo; molili ezali lokola moyi.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ata"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "molili"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יחשיך",
+      "gloss": "ekolomba eloko te"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "epai nayo"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "mpe buto"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "lokola mokolo"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "ekoseka"
+    },
+    {
+      "surface": "כחשיכה",
+      "gloss": "molili ezali lokola"
+    },
+    {
+      "surface": "כאורה",
+      "gloss": "moyi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:34:57.798922914Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 94:16",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 94,
+  "translation": "Nani akotelemela mpo na ngai etumbu ya bato ya mabe? Nani akotelema mpo na ngai na basalaki mabe?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "nani"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "akotelemela"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mpo na ngai"
+    },
+    {
+      "surface": "עם",
+      "gloss": "etumbu ya"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "bato ya mabe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nani"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "akotelema"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mpo na ngai"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "basalaki"
+    },
+    {
+      "surface": "און",
+      "gloss": "mabe"
+    }
+  ],
+  "timestamp": "2026-09-03T21:24:35.747578263Z",
+  "model": "glm-5.3"
+}

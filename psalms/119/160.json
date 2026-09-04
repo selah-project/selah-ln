@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 160,
+  "ref": "psalms 119:160",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Liboso ya liloba na yo ezali bosembo, mpe mibeko nyonso ya bondemi na yo ezali kino ntango nyonso.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "Liboso"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "ya liloba na yo"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ezali bosembo"
+    },
+    {
+      "surface": "ולעולם",
+      "gloss": "mpe kino ntango nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ya mibeko"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "ya bondemi na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:32:25.962793783Z",
+  "model": "glm-5.3"
+}

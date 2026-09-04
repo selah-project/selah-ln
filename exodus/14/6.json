@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 14:6",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Mpe apangisaki ⟨את⟩ bengongo na ye, mpe ⟨את⟩ bato na ye azwaki elongo na ye.",
+  "tokens": [
+    {
+      "surface": "ויאסר",
+      "gloss": "apangisaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bengongo na ye"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "bengongo na ye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bato na ye"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bato na ye"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "azwaki"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "elongo na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T16:19:51.018970666Z",
+  "model": "glm-5.3"
+}

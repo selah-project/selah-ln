@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 20:12",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 20,
+  "translation": "Kumisa ⟨את⟩ tata na yo mpe ⟨את⟩ mama na yo, mpo ete mikolo na yo ekokaki molai na mabele oyo Yawe Elohim na yo apesi yo.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Kumisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tata na yo"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tata na yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mama na yo"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "mama na yo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "יארכון",
+      "gloss": "ekokaki molai"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "mikolo na yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim na yo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "apesi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yo"
+    }
+  ],
+  "timestamp": "2026-09-03T23:14:12.777482328Z",
+  "model": "glm-5.3"
+}

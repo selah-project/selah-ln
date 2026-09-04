@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 4:15",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe alobaki: Benga yeye. Mpe abengaki yeye, mpe atelamaki na ekuke.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Benga"
+    },
+    {
+      "surface": "לה",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "Mpe abengaki"
+    },
+    {
+      "surface": "לה",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "mpe atelamaki"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "na ekuke"
+    }
+  ],
+  "timestamp": "2026-09-03T19:00:13.972366004Z",
+  "model": "glm-5.3"
+}

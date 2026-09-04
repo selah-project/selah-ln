@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 35:15",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 35,
+  "translation": "mpe ⟨את⟩ etanda ya nkuku mpe ⟨את⟩ bibete na yango mpe ⟨את⟩ mafuta ya bosombi mpe ⟨את⟩ nkuku ya bipai mpe ⟨את⟩ ngudingudi ya ekoti, na ekoti ya Bandako.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "etanda"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "etanda"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "ya nkuku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bibete na yango"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "bibete na yango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mafuta"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "ya bosombi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "nkuku"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "nkuku"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "ya bipai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "ngudingudi"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "ngudingudi"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "ya ekoti"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "na ekoti"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ya Bandako"
+    }
+  ],
+  "timestamp": "2026-09-03T16:33:55.592091638Z",
+  "model": "glm-5.3"
+}

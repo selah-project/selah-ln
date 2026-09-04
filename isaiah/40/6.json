@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 40:6",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 40,
+  "translation": "Kolote alobi: Benga! Mpe ⟨moto⟩ alobi: Nakobenga nini? Bopesi nyonso ezali ⟨matete⟩, mpe hesed na yango nyonso ezali lokola mbuye ya shango.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Kolote"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "alobi"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Benga"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "mpe alobi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "nakobenga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "bopesi"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "matete"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe nyonso"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "lokola mbuye"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ya shango"
+    }
+  ],
+  "timestamp": "2026-09-03T19:29:39.010831569Z",
+  "model": "glm-5.3"
+}

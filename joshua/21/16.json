@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 21:16",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Mpe ⟨את⟩ Ain na ⟨את⟩ bipembe na yango, mpe ⟨את⟩ Yuta na ⟨את⟩ bipembe na yango, ⟨את⟩ Bet-Shemesh na ⟨את⟩ bipembe na yango; mboka libwa, utaka epai ya ⟨את⟩ makabini ibale oyo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Ain"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Ain"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "bipembe na yango"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "bipembe na yango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Yuta"
+    },
+    {
+      "surface": "יטה",
+      "gloss": "Yuta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "bipembe na yango"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "bipembe na yango"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bet-Shemesh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Shemesh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "bipembe na yango"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "bipembe na yango"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "mboka"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "libwa"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "utaka ⟨את⟩"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ibale"
+    },
+    {
+      "surface": "השבטים",
+      "gloss": "makabini"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "oyo"
+    }
+  ],
+  "timestamp": "2026-09-03T17:53:02.881527618Z",
+  "model": "glm-5.3"
+}

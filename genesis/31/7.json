@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 31:7",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 31,
+  "translation": "Mpe tata na bino akosaki ngai, mpe abongolaki ⟨את⟩ mbongo ya mosala na ngai mikomi zomi; kasi Elohim atyaki ye te asala mabe elongo na ngai.",
+  "tokens": [
+    {
+      "surface": "ואביכן",
+      "gloss": "Mpe tata na bino"
+    },
+    {
+      "surface": "התל",
+      "gloss": "akosaki"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "והחלף",
+      "gloss": "mpe abongolaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbongo ya mosala na ngai"
+    },
+    {
+      "surface": "משכרתי",
+      "gloss": "mbongo ya mosala na ngai"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "zomi"
+    },
+    {
+      "surface": "מנים",
+      "gloss": "mikomi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kasi ... te"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "atyaki ye"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "asala mabe"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "elongo na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T16:02:04.651222514Z",
+  "model": "glm-5.3"
+}

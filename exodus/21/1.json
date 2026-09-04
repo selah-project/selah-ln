@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 21:1",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Mpe mibeko oyo nde okotya liboso na bango.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Mpe"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "mibeko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo nde"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "okotya"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "liboso na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:26:35.104382834Z",
+  "model": "glm-5.3"
+}

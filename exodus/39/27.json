@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 39:27",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 39,
+  "translation": "Mpe bakelaki ⟨את⟩ mikoti ya lin malamu, mosala ya mokoti, mpo na Aharon mpe mpo na bana na ye.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "mpe bakelaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mikoti"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "mikoti"
+    },
+    {
+      "surface": "שש",
+      "gloss": "lin malamu"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "mosala"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "ya mokoti"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "mpo na Aharon"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "mpe mpo na bana na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T16:38:40.301059391Z",
+  "model": "glm-5.3"
+}

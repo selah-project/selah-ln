@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 21:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Yawe, na nguya na yo mokonzi aseki, mpe na bobikisi na yo boni asekanaka!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "na nguya na yo"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "aseki"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "ובישועתך",
+      "gloss": "mpe na bobikisi na yo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "boni"
+    },
+    {
+      "surface": "יגיל",
+      "gloss": "asekanaka"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mingi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:04:59.530003743Z",
+  "model": "glm-5.3"
+}

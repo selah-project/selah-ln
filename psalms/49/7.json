@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 49:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 49,
+  "translation": "Baye batolaka ntolo na bokasi na bango, mpe kati na bonene ya bomengo na bango balalisaka nkembo.",
+  "tokens": [
+    {
+      "surface": "הבטחים",
+      "gloss": "Baye batolaka ntolo"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "bokasi na bango"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "mpe kati na bonene ya"
+    },
+    {
+      "surface": "עשרם",
+      "gloss": "bomengo na bango"
+    },
+    {
+      "surface": "יתהללו",
+      "gloss": "balalisaka nkembo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:11:30.025609772Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 138:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 138,
+  "translation": "Mokolo oyo nabengaki, oyanisaki ngai, okitolisaki ngai nguya na molimo na ngai.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Mokolo oyo"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "nabengaki"
+    },
+    {
+      "surface": "ותענני",
+      "gloss": "oyanisaki ngai"
+    },
+    {
+      "surface": "תרהבני",
+      "gloss": "okitolisaki ngai"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "na molimo na ngai"
+    },
+    {
+      "surface": "עז",
+      "gloss": "nguya"
+    }
+  ],
+  "timestamp": "2026-09-03T21:35:17.797031462Z",
+  "model": "glm-5.3"
+}

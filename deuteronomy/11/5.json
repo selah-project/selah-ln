@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 11:5",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "mpe oyo asalaki bino na bofunga, tike bokoyaki tike na esika oyo.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "mpe oyo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "asalaki"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bino"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "na bofunga"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tike"
+    },
+    {
+      "surface": "באכם",
+      "gloss": "bokoyaki"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tike"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "esika"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    }
+  ],
+  "timestamp": "2026-09-03T17:28:29.656795332Z",
+  "model": "glm-5.3"
+}

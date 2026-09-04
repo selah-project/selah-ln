@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 68:22",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 68,
+  "translation": "Ya solo, Elohim akotuka motoku ya banguna na ye, elanga ya mapito ya oyo azali kokende kende na mabe na ye.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ya solo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ימחץ",
+      "gloss": "akotuka"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "motoku"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "banguna na ye"
+    },
+    {
+      "surface": "קדקד",
+      "gloss": "elanga ya motoku"
+    },
+    {
+      "surface": "שער",
+      "gloss": "mapito"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "oyo azali kokende kende"
+    },
+    {
+      "surface": "באשמיו",
+      "gloss": "na mabe na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T23:35:26.993593763Z",
+  "model": "glm-5.3"
+}

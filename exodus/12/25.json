@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 12:25",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Mpe ekokoma, soki bokoya na mabele oyo Yawe akopesa bino, ndenge alobaki, mpe bokobatela ⟨את⟩ mosala oyo.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Mpe ekokoma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "soki"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "bokoya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "akopesa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bino"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ndenge"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "mpe bokobatela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mosala"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "mosala"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "oyo"
+    }
+  ],
+  "timestamp": "2026-09-03T16:20:55.461489976Z",
+  "model": "glm-5.3"
+}

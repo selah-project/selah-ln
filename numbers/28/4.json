@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 28:4",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 28,
+  "translation": "⟨את⟩ toke moko okosala na tongo, mpe ⟨את⟩ toke ya mibale okosala kati ya mpokwa.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "toke moko"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "toke"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "moko"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "okosala"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "na tongo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "toke ya mibale"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "toke"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ya mibale"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "okosala"
+    },
+    {
+      "surface": "בין",
+      "gloss": "kati"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "ya mpokwa"
+    }
+  ],
+  "timestamp": "2026-09-03T17:17:41.787472388Z",
+  "model": "glm-5.3"
+}

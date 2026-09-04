@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 11:12",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Kaka, na miku na yo nakosala yango te, mpo na David tata na yo; na loboko ya mwana na yo nakokataka yango.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Kaka"
+    },
+    {
+      "surface": "בימיך",
+      "gloss": "na miku na yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "אעשנה",
+      "gloss": "nakosala yango"
+    },
+    {
+      "surface": "למען",
+      "gloss": "mpo na"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tata na yo"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "na loboko ya"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "mwana na yo"
+    },
+    {
+      "surface": "אקרענה",
+      "gloss": "nakokataka yango"
+    }
+  ],
+  "timestamp": "2026-09-03T18:50:15.578122903Z",
+  "model": "glm-5.3"
+}

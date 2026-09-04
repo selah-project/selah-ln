@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 12:11",
+  "book": "judges",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Mpe sima na ye Elon moto ya Zevulon apambolaki ⟨את⟩ Israel, mpe apambolaki ⟨את⟩ Israel mbula zomi.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "mpe apambolaki"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "sima na ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Elon"
+    },
+    {
+      "surface": "הזבולני",
+      "gloss": "moto ya Zevulon"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "mpe apambolaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "zomi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mbula"
+    }
+  ],
+  "timestamp": "2026-09-03T18:02:32.512937981Z",
+  "model": "glm-5.3"
+}

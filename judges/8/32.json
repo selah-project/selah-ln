@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "judges 8:32",
+  "book": "judges",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe Gideon mwana ya Yoash akufaki na bomokolo ya malamu, mpe bakundaki ye na litomba ya Yoash tata na ye, na Ofera, ya bana ya Aviezer.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Mpe akufaki"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gideon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana ya"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoash"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "na bomokolo"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "ya malamu"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "mpe bakundaki ye"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "na litomba"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "ya Yoash"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "tata na ye"
+    },
+    {
+      "surface": "בעפרה",
+      "gloss": "na Ofera"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ya bana ya"
+    },
+    {
+      "surface": "העזרי",
+      "gloss": "Aviezer"
+    }
+  ],
+  "timestamp": "2026-09-03T18:00:30.852493629Z",
+  "model": "glm-5.3"
+}

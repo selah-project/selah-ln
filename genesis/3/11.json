@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 3:11",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe alobaki: Nani amonisi yo ete ozali monzamba? Soki uta na nzete oyo nakangaki yo ete kolia yango te, oliaki yango?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nani"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "amonisi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "na yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "monzamba"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "המן",
+      "gloss": "soki uta"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "nzete oyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "צויתיך",
+      "gloss": "nakangaki yo"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "kolia"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "yango"
+    },
+    {
+      "surface": "אכלת",
+      "gloss": "oliaki"
+    }
+  ],
+  "timestamp": "2026-09-03T15:44:37.587442768Z",
+  "model": "glm-5.3"
+}

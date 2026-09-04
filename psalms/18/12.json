@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 18:12",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Atyaki molili lokola esika naye ya bobombami, na yanto na yango suka naye: molili ya mai, bilanga ya likolo.",
+  "tokens": [
+    {
+      "surface": "ישת",
+      "gloss": "atyaki"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "molili"
+    },
+    {
+      "surface": "סתרו",
+      "gloss": "esika naye ya bobombami"
+    },
+    {
+      "surface": "סביבותיו",
+      "gloss": "na yanto na yango"
+    },
+    {
+      "surface": "סכתו",
+      "gloss": "suka naye"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "molili"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mai"
+    },
+    {
+      "surface": "עבי",
+      "gloss": "bilanga"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "likolo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:04:10.584827167Z",
+  "model": "glm-5.3"
+}

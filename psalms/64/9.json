@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 64:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 64,
+  "translation": "Mpe babwakisi ye kokweya, na likolo na bango liloba na bango moko; batombi moto nyonso oyo amoni bango.",
+  "tokens": [
+    {
+      "surface": "ויכשילוהו",
+      "gloss": "mpe babwakisi ye kokweya"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "na likolo na bango"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "liloba na bango moko"
+    },
+    {
+      "surface": "יתנדדו",
+      "gloss": "batombi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "oyo amoni"
+    },
+    {
+      "surface": "בם",
+      "gloss": "bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:15:05.814285382Z",
+  "model": "glm-5.3"
+}

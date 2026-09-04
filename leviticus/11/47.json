@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "leviticus 11:47",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpo bokabola kati na oyo mabe mpe kati na oyo malamu, mpe kati na nyama oyo ekoliama mpe kati na nyama oyo ekoki koliama te.",
+  "tokens": [
+    {
+      "surface": "להבדיל",
+      "gloss": "Mpo bokabola"
+    },
+    {
+      "surface": "בין",
+      "gloss": "kati na"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "oyo mabe"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "mpe kati na"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "oyo malamu"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "mpe kati na"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "הנאכלת",
+      "gloss": "oyo ekoliama"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "mpe kati na"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ekoki koliama"
+    }
+  ],
+  "timestamp": "2026-09-03T16:43:25.836243226Z",
+  "model": "glm-5.3"
+}

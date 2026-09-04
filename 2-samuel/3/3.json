@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 3:3",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "mpe ya mibale Kilab, wa Abigayil mwasi ya Nabal wa Karmeli; mpe ya misato Avshalom mwana wa Maaka, mwana mwasi ya Talmai mokonzi ya Geshur;",
+  "tokens": [
+    {
+      "surface": "ומשנהו",
+      "gloss": "mpe ya mibale"
+    },
+    {
+      "surface": "כלאב",
+      "gloss": "Kilab"
+    },
+    {
+      "surface": "לאביגל",
+      "gloss": "wa Abigayil"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mwasi"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabal"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "wa Karmeli"
+    },
+    {
+      "surface": "והשלשי",
+      "gloss": "mpe ya misato"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maaka"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana mwasi"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "Talmai"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "גשור",
+      "gloss": "Geshur"
+    }
+  ],
+  "timestamp": "2026-09-03T18:26:27.865285222Z",
+  "model": "glm-5.3"
+}

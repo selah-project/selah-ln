@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 10:11",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Bato ya Yavesh ya Gilada nyonso bayokaki ⟨את⟩ nyonso oyo Bafelisiti basalaki na Shaul.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "bayokaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "ya Yavesh"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ya Gilada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyonso oyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "basalaki"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Bafelisiti"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "na Shaul"
+    }
+  ],
+  "timestamp": "2026-09-03T22:44:35.363159780Z",
+  "model": "glm-5.3"
+}

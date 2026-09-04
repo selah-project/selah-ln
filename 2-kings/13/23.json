@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 13:23",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Mpe Yawe amonisaki ⟨את⟩ bango boboto, mpe amonisaki bango mawa, mpe atalaki epai na bango, mpo na bondumbo na yango ⟨את⟩ Avraham, Yitshak, mpe Yaakov; mpe aboyaki koboma bango, mpe aboyaki kobwaka bango na libanda ya elongi na yango, kino lelo.",
+  "tokens": [
+    {
+      "surface": "ויחן",
+      "gloss": "Mpe amonisaki boboto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bango",
+      "marks": "bango"
+    },
+    {
+      "surface": "וירחמם",
+      "gloss": "mpe amonisaki bango mawa"
+    },
+    {
+      "surface": "ויפן",
+      "gloss": "mpe atalaki"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "epai na bango"
+    },
+    {
+      "surface": "למען",
+      "gloss": "mpo na"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "bondumbo na yango"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "mpe Yaakov"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "aboyaki"
+    },
+    {
+      "surface": "השחיתם",
+      "gloss": "koboma bango"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "השליכם",
+      "gloss": "kobwaka bango"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "na libanda ya"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "elongi na yango"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "lelo"
+    }
+  ],
+  "timestamp": "2026-09-03T19:05:01.447731233Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 30:42",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 30,
+  "translation": "Mpe tango mbeka ezalaki na makasi te, atyaki ⟨bampolo⟩ te; mpe baoyo bazalaki na makasi te ekalaki ya Lavan, mpe ba ya makasi ekalaki ya Yaakov.",
+  "tokens": [
+    {
+      "surface": "ובהעטיף",
+      "gloss": "Mpe tango … ezalaki na makasi te"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "mbeka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "atyaki"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "mpe ekalaki"
+    },
+    {
+      "surface": "העטפים",
+      "gloss": "baoyo bazalaki na makasi te"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "ya Lavan"
+    },
+    {
+      "surface": "והקשרים",
+      "gloss": "mpe ba ya makasi"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ya Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-03T16:00:52.636366712Z",
+  "model": "glm-5.3"
+}

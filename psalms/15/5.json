@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 15:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 15,
+  "translation": "Mbongo na ye apei te na riba, mpe talo na epai ya mokebi azwaki te — oyo asali bongo akokangama te seko.",
+  "tokens": [
+    {
+      "surface": "כספו",
+      "gloss": "Mbongo na ye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "apei"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "na riba"
+    },
+    {
+      "surface": "ושחד",
+      "gloss": "mpe talo"
+    },
+    {
+      "surface": "על",
+      "gloss": "na epai ya"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "mokebi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "azwaki"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "asali"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bongo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "akokangama"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "seko"
+    }
+  ],
+  "timestamp": "2026-09-03T21:01:32.232800767Z",
+  "model": "glm-5.3"
+}

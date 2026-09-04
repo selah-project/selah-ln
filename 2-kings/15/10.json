@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 15:10",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 15,
+  "translation": "Shalum mwana Yavesh abongisaki likita na ye, abubaki ye liboso ya bato mpe abomaki ye, mpe akokoma mokonzi na esika na ye.",
+  "tokens": [
+    {
+      "surface": "ויקשר",
+      "gloss": "abongisaki likita na ye"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "Shalum"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "Yavesh"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "abubaki ye"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "abomaki ye"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "akokoma mokonzi"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "na esika na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T19:04:32.010440539Z",
+  "model": "glm-5.3"
+}

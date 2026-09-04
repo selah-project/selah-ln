@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 73:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 73,
+  "translation": "Batyaki monoko na bango na likolo, mpe lidjoku na bango etambolaka na mabele.",
+  "tokens": [
+    {
+      "surface": "שתו",
+      "gloss": "Batyaki"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "na likolo"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "monoko na bango"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "mpe lidjoku na bango"
+    },
+    {
+      "surface": "תהלך",
+      "gloss": "etambolaka"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T21:18:27.871441140Z",
+  "model": "glm-5.3"
+}

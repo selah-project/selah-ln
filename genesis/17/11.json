@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 17:11",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 17,
+  "translation": "Mpe bokata ⟨את⟩ kobo ya bino; mpe ekomi lokolo ya bongoni kati na ngai mpe kati na bino.",
+  "tokens": [
+    {
+      "surface": "ונמלתם",
+      "gloss": "mpe bokata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kobo"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "kobo"
+    },
+    {
+      "surface": "ערלתכם",
+      "gloss": "ya bino"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "mpe ekomi"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "lokolo"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ya bongoni"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "kati na ngai"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "mpe kati na bino"
+    }
+  ],
+  "timestamp": "2026-09-03T15:51:06.719784253Z",
+  "model": "glm-5.3"
+}

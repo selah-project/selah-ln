@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 1:5",
+  "book": "ruth",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Bakufaki mpe bango mibale, Mahlon mpe Kilyon, mpe mwasi etikali uta mibale bana na ye mpe uta mobali na ye.",
+  "tokens": [
+    {
+      "surface": "וימותו",
+      "gloss": "Bakufaki"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "bango mibale"
+    },
+    {
+      "surface": "מחלון",
+      "gloss": "Mahlon"
+    },
+    {
+      "surface": "וכליון",
+      "gloss": "mpe Kilyon"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "etikali"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mwasi"
+    },
+    {
+      "surface": "משני",
+      "gloss": "uta mibale"
+    },
+    {
+      "surface": "ילדיה",
+      "gloss": "bana na ye"
+    },
+    {
+      "surface": "ומאישה",
+      "gloss": "mpe uta mobali na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T22:08:55.818800318Z",
+  "model": "glm-5.3"
+}

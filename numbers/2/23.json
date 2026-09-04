@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 2:23",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "mpe mampinga na yango, mpe bapatami na bango, mitano na misato nkoto, mpe nkama minei.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "mpe mampinga na yango"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "mpe bapatami na bango"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "mitano"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "na misato"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "nkoto"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "mpe minei"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "nkama"
+    }
+  ],
+  "timestamp": "2026-09-03T16:59:02.647297132Z",
+  "model": "glm-5.3"
+}

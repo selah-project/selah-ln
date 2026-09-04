@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 94:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 94,
+  "translation": "Bato na yo, Yawe, ⟨bango⟩ bazali kobukaka, mpe lakabo na yo ⟨bango⟩ bazali konyokaka.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "bato na yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ידכאו",
+      "gloss": "bazali kobukaka"
+    },
+    {
+      "surface": "ונחלתך",
+      "gloss": "mpe lakabo na yo"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "bazali konyokaka"
+    }
+  ],
+  "timestamp": "2026-09-03T21:24:01.905244121Z",
+  "model": "glm-5.3"
+}

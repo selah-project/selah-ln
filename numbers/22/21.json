@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 22:21",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Mpe Bilam atomaki na tongo, mpe abotoli ⟨את⟩ aseno na ye, mpe akendaki elongo na bakambi ya Moab.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "atomaki"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "na tongo"
+    },
+    {
+      "surface": "ויחבש",
+      "gloss": "abotoli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aseno na ye"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "aseno na ye"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "akendaki"
+    },
+    {
+      "surface": "עם",
+      "gloss": "elongo na"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "bakambi"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    }
+  ],
+  "timestamp": "2026-09-03T17:12:38.079677472Z",
+  "model": "glm-5.3"
+}

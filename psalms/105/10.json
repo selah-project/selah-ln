@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 105:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 105,
+  "translation": "mpe aye bisaki yango epai ya Yaakov lokola mobeko, epai ya Israel lokola bondoki ya ntango nyonso;",
+  "tokens": [
+    {
+      "surface": "ויעמידה",
+      "gloss": "mpe aye bisaki yango"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "epai ya Yaakov"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "lokola mobeko"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "epai ya Israel"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "bondoki"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ya ntango nyonso"
+    }
+  ],
+  "timestamp": "2026-09-03T21:27:11.451762420Z",
+  "model": "glm-5.3"
+}

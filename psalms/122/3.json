@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 122:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 122,
+  "translation": "Yerushalaim, oyo etongami, lokola mboka oyo esangisami na yango elongo moko.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "הבנויה",
+      "gloss": "oyo etongami"
+    },
+    {
+      "surface": "כעיר",
+      "gloss": "lokola mboka"
+    },
+    {
+      "surface": "שחברה",
+      "gloss": "oyo esangisami"
+    },
+    {
+      "surface": "לה",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "elongo moko"
+    }
+  ],
+  "timestamp": "2026-09-03T21:33:39.970215345Z",
+  "model": "glm-5.3"
+}

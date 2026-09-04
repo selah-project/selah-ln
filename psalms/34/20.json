@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 34:20",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 34,
+  "translation": "Makama mingi ezali na mobali sembo, kasi Yawe abikisaka ye na yango nyonso.",
+  "tokens": [
+    {
+      "surface": "רבות",
+      "gloss": "mingi"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "makama"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "mobali sembo"
+    },
+    {
+      "surface": "ומכלם",
+      "gloss": "na yango nyonso"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "abikisaka ye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T21:08:09.404703224Z",
+  "model": "glm-5.3"
+}

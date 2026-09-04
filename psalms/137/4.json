@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 137,
+  "translation": "Ndenge nini tokokaka koyemba ⟨את⟩ nzembo ya Yawe na mabele ya bapaya?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "ndenge nini"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "tokokaka koyemba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nzembo"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "nzembo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "ya bapaya"
+    }
+  ],
+  "timestamp": "2026-09-03T21:34:50.898399012Z",
+  "model": "glm-5.3"
+}

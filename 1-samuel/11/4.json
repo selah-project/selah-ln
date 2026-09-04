@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 11:4",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpe batindami bakomaki na Giva ya Shaul, mpe balobaki maloba na matoyi ya bato, mpe bato nyonso bamatisaki ⟨את⟩ mongongo na bango, mpe balilaki.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "mpe bakomaki"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "batindami"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "Giva ya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "mpe balobaki"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "maloba"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "na matoyi ya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "mpe bamatisaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mongongo na bango"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "mongongo na bango"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "mpe balilaki"
+    }
+  ],
+  "timestamp": "2026-09-03T18:15:07.729375873Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 136:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 136,
+  "translation": "Na oyo atandolaki mabele likolo ya mai, mpo ete na seko hesed na ye.",
+  "tokens": [
+    {
+      "surface": "לרקע",
+      "gloss": "na oyo atandolaki"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na seko"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:34:26.366738993Z",
+  "model": "glm-5.3"
+}

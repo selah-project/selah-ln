@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 17:16",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 17,
+  "translation": "Kindu ya farini esilamaki te, mpe canari ya mafuta ezangaki te, ndenge liloba ya Yawe oyo alobaki na loboko ya Eliyahu.",
+  "tokens": [
+    {
+      "surface": "כד",
+      "gloss": "kindu"
+    },
+    {
+      "surface": "הקמח",
+      "gloss": "ya farini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "esilamaki"
+    },
+    {
+      "surface": "וצפחת",
+      "gloss": "mpe canari"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "ya mafuta"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "ezangaki"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ndenge liloba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "na loboko ya"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    }
+  ],
+  "timestamp": "2026-09-03T18:53:17.308777779Z",
+  "model": "glm-5.3"
+}

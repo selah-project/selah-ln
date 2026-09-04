@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 42:12",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 42,
+  "translation": "Mpe nakopesa bino bomemyi, mpe abomemyi ⟨את⟩ bino, mpe akozongisa ⟨את⟩ bino na mabele na bino.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "Mpe nakopesa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bino"
+    },
+    {
+      "surface": "רחמים",
+      "gloss": "bomemyi"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "mpe abomemyi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ bino",
+      "marks": "bino"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "mpe akozongisa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ bino",
+      "marks": "bino"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "mabele na bino"
+    }
+  ],
+  "timestamp": "2026-09-03T20:04:21.864963781Z",
+  "model": "glm-5.3"
+}

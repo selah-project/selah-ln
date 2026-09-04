@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 125:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 125,
+  "translation": "Yerushalaim — bangomba bazali zingazinga na yango; mpe Yawe azali zingazinga na bato na ye, uta sikoyo kino libela.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "bangomba"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "zingazinga"
+    },
+    {
+      "surface": "לה",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "mpe Yawe"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "zingazinga"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "na bato na ye"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "uta sikoyo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "mpe kino"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "libela"
+    }
+  ],
+  "timestamp": "2026-09-03T21:33:55.175082741Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 115:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 115,
+  "translation": "Bikeko na bango ezali lifuta mpe sanza, misala ya maboko ya bato.",
+  "tokens": [
+    {
+      "surface": "עצביהם",
+      "gloss": "Bikeko na bango"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "lifuta"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "mpe sanza"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "misala"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ya maboko"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ya bato"
+    }
+  ],
+  "timestamp": "2026-09-03T21:29:51.625138257Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 1:25",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe Elohim asalaki ⟨את⟩ banyama ya mabele ndenge na yango, mpe ⟨את⟩ banyama ya ndako ndenge na yango, mpe ⟨את⟩ binyama nyonso oyo ezali kolukata na mabele ndenge na yango; mpe Elohim amonaki ete ezali malamu.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Mpe asalaki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "banyama ya mabele"
+    },
+    {
+      "surface": "חית",
+      "gloss": "banyama"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ya mabele"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "ndenge na yango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "banyama ya ndako"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "banyama ya ndako"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "ndenge na yango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "binyama nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "binyama ya kolukata"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "ndenge na yango"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "mpe amonaki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ezali malamu"
+    }
+  ],
+  "timestamp": "2026-09-03T15:44:12.564380944Z",
+  "model": "glm-5.3"
+}

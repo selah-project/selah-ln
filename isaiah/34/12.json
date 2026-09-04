@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 34:12",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 34,
+  "translation": "Bato ya lokumu na yango bakobenga bokonzi, mpe ezali te kuna; mpe bakonzi na yango nyonso bakokoma ⟨eloko⟩ te.",
+  "tokens": [
+    {
+      "surface": "חֹרֶיהָ",
+      "gloss": "bato ya lokumu na yango"
+    },
+    {
+      "surface": "וְאֵין",
+      "gloss": "mpe ezali te"
+    },
+    {
+      "surface": "שָׁם",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "מְלוּכָה",
+      "gloss": "bokonzi"
+    },
+    {
+      "surface": "יִקְרָאוּ",
+      "gloss": "bakobenga"
+    },
+    {
+      "surface": "וְכָל",
+      "gloss": "mpe nyonso"
+    },
+    {
+      "surface": "שָׂרֶיהָ",
+      "gloss": "bakonzi na yango"
+    },
+    {
+      "surface": "יִהְיוּ",
+      "gloss": "bakokoma"
+    },
+    {
+      "surface": "אָפֶס",
+      "gloss": "eloko te"
+    }
+  ],
+  "timestamp": "2026-09-03T19:27:07.714234429Z",
+  "model": "glm-5.3"
+}

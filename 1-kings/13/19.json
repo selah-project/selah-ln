@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 13:19",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Azongaki ⟨את⟩ elongo na ye, akoliaki boloko na ndako na ye mpe amelaki mai.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "azongaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ elongo na ye"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "akoliaki"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "boloko"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "na ndako na ye"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "amelaki"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mai"
+    }
+  ],
+  "timestamp": "2026-09-03T18:51:18.271605649Z",
+  "model": "glm-5.3"
+}

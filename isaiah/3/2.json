@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 3:2",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "mogangi mpe moto ya etumba, moyezeli mpe navi, mpe mokwelameso mpe mokulusi,",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "mogangi"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "mpe moto"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ya etumba"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "moyezeli"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "mpe navi"
+    },
+    {
+      "surface": "וקסם",
+      "gloss": "mpe mokwelameso"
+    },
+    {
+      "surface": "וזקן",
+      "gloss": "mpe mokulusi"
+    }
+  ],
+  "timestamp": "2026-09-03T19:13:50.684125042Z",
+  "model": "glm-5.3"
+}

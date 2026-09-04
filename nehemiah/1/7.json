@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 1:7",
+  "book": "nehemiah",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Tokitaki mabe mpenza epai wa yo, mpe tobatelaki te ⟨את⟩ mituya mpe ⟨את⟩ mibeko mpe ⟨את⟩ makambo ya bosengeli oyo oopesaki ⟨את⟩ Moshe mosengi wa yo.",
+  "tokens": [
+    {
+      "surface": "חבל",
+      "gloss": "mpenza"
+    },
+    {
+      "surface": "חבלנו",
+      "gloss": "tokitaki mabe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "epai wa yo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "שמרנו",
+      "gloss": "tobatelaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mituya"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "mituya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mibeko"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "mibeko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "makambo ya bosengeli"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "makambo ya bosengeli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "oopesaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mosengi wa yo"
+    }
+  ],
+  "timestamp": "2026-09-04T00:23:52.347078025Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 145:20",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 145,
+  "translation": "Yawe azali kobatela ⟨את⟩ bato nyonso oyo balingi ye, mpe ⟨את⟩ bato mabe nyonso abomaka bango.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "azali kobatela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bato nyonso oyo balingi ye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "oyo balingi ye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bato mabe nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "bato mabe"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "abomaka bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:36:42.715239420Z",
+  "model": "glm-5.3"
+}

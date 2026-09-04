@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 138:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 138,
+  "translation": "Ya David. Nakosembola yo na motema na ngai mobimba, liboso ya banzambe nakoyemela yo nzembo.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ya David"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "nakosembola yo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na mobimba"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "motema na ngai"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "banzambe"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "nakoyemela yo nzembo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:35:17.796518576Z",
+  "model": "glm-5.3"
+}

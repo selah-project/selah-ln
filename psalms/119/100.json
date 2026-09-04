@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 100,
+  "ref": "psalms 119:100",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Nazali na bwanya koleka bankulu, mpo nabatelaki mibeko na yo.",
+  "tokens": [
+    {
+      "surface": "מזקנים",
+      "gloss": "koleka bankulu"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "nazali na bwanya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "mibeko na yo"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "nabatelaki"
+    }
+  ],
+  "timestamp": "2026-09-03T21:32:13.830205345Z",
+  "model": "glm-5.3"
+}

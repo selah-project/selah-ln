@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 59:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 59,
+  "translation": "Bazongaka na mpokwa, bapembanaka lokola mbwa, mpe bazingazingaka na mboka.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "bazongaka"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "na mpokwa"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "bapembanaka"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "lokola mbwa"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "mpe bazingazingaka"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "na mboka"
+    }
+  ],
+  "timestamp": "2026-09-03T21:14:52.910367495Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 33:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 33,
+  "translation": "Mpo ete liloba ya Yawe ⟨ezali⟩ sembo, mpe misala na Ye nyonso ⟨ezali⟩ na bondimi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo ete"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "sembo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "liloba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe nyonso"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "misala na Ye"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "na bondimi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:08:59.442211733Z",
+  "model": "glm-5.3"
+}

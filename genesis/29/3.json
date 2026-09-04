@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 29:3",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 29,
+  "translation": "Mpe bituluku nyonso esanganganaki kuna, mpe bendaki ⟨את⟩ libanga uta na monoko ya ebale, mpe bamelaki ⟨את⟩ tondeke, mpe bazongisaki ⟨את⟩ libanga na monoko ya ebale na esika na yango.",
+  "tokens": [
+    {
+      "surface": "ונאספו",
+      "gloss": "Mpe esanganganaki"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "העדרים",
+      "gloss": "bituluku"
+    },
+    {
+      "surface": "ויגללו",
+      "gloss": "mpe bendaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "libanga"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "libanga"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "uta na"
+    },
+    {
+      "surface": "פי",
+      "gloss": "monoko"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "ya ebale"
+    },
+    {
+      "surface": "והשקו",
+      "gloss": "mpe bamelaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tondeke"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "tondeke"
+    },
+    {
+      "surface": "והשיבו",
+      "gloss": "mpe bazongisaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "libanga"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "libanga"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "פי",
+      "gloss": "monoko"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "ya ebale"
+    },
+    {
+      "surface": "למקומה",
+      "gloss": "na esika na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T15:59:57.769082801Z",
+  "model": "glm-5.3"
+}

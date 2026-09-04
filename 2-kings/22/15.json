@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 22:15",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Mpe alobaki epai na bango: Ndenge oyo Yawe, Elohim ya Israel, alobaki: Boloba na moto oyo atindaki ⟨את⟩ bino epai na ngai.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "epai na bango"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Ndenge oyo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "Boloba"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "na moto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "atindaki"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ bino"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "epai na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T19:10:46.019560586Z",
+  "model": "glm-5.3"
+}

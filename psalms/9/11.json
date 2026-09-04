@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 9:11",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Mpe bayei bayeba nkombo na yo bakokotama na yo, mpo oxy azali na mawa te oyo azali koluka yo, Yawe.",
+  "tokens": [
+    {
+      "surface": "ויבטחו",
+      "gloss": "bakokotama"
+    },
+    {
+      "surface": "בך",
+      "gloss": "na yo"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "bayei bayeba"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nkombo na yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "עזבת",
+      "gloss": "oxy azali na mawa te"
+    },
+    {
+      "surface": "דרשיך",
+      "gloss": "oyo azali koluka yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T21:01:25.515017085Z",
+  "model": "glm-5.3"
+}

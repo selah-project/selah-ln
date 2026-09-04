@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 25:21",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Otya ⟨את⟩ kaporete likolo ya sanduku, likolo penza; mpe na sanduku otya ⟨את⟩ litatoli oyo nakopesa yo.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "Otya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaporete"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kaporete"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "sanduku"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "likolo penza"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mpe na"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "sanduku"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "otya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "litatoli"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "litatoli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "nakopesa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "yo"
+    }
+  ],
+  "timestamp": "2026-09-03T16:28:11.774229253Z",
+  "model": "glm-5.3"
+}

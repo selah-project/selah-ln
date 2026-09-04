@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 18:1",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Mawa na mabele ya kolokota ya mapanu, oyo ⟨ezali⟩ na ngambo ya mingala ya Kush.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Mawa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "צלצל",
+      "gloss": "kolokota"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "mapanu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "na ngambo"
+    },
+    {
+      "surface": "לנהרי",
+      "gloss": "ya mingala"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kush"
+    }
+  ],
+  "timestamp": "2026-09-03T19:21:11.312399433Z",
+  "model": "glm-5.3"
+}

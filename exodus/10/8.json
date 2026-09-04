@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 10:8",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Mpe bazongisaki ⟨את⟩ Moshe mpe ⟨את⟩ Aharon epai ya Parao, mpe alobaki epai na bango: bokende, bá salela ⟨את⟩ Yawe Elohim na bino; nani mpe nani bazali kokende?",
+  "tokens": [
+    {
+      "surface": "ויושב",
+      "gloss": "mpe bazongisaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "epai na bango"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "bokende"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "bá salela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim na bino"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nani"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "mpe nani"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "bazali kokende"
+    }
+  ],
+  "timestamp": "2026-09-03T16:18:26.432596630Z",
+  "model": "glm-5.3"
+}

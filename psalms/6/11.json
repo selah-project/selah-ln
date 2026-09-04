@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 6:11",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Bakonyokwama mpe bakotambolisama mingi banguna na ngai nyonso; bakozonga, bakonyokwama na ntango moke.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "Bakonyokwama"
+    },
+    {
+      "surface": "ויבהלו",
+      "gloss": "mpe bakotambolisama"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mingi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "banguna na ngai"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "bakozonga"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "bakonyokwama"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "na ntango moke"
+    }
+  ],
+  "timestamp": "2026-09-03T20:59:00.286642137Z",
+  "model": "glm-5.3"
+}

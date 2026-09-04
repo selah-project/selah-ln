@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 20:3",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 20,
+  "translation": "Mpe ngai nakoleta elongi na ngai epai ya moto wana, mpe nakolongola ⟨את⟩ ye kati ya bato na ye, mpo apesaki mwana na ye na Molok, mpo abebisaki ⟨את⟩ esika nsantu na ngai mpe kolapa ⟨את⟩ nkombo nsantu na ngai.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Mpe ngai"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "nakoleta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elongi na ngai"
+    },
+    {
+      "surface": "פני",
+      "gloss": "elongi"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "epai ya moto"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "wana"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "mpe nakolongola"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ye",
+      "marks": "moto wana"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "kati ya"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bato na ye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "מזרעו",
+      "gloss": "mwana na ye"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "apesaki"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "na Molok"
+    },
+    {
+      "surface": "למען",
+      "gloss": "mpo na"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "abebisaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "esika nsantu na ngai"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "esika nsantu na ngai"
+    },
+    {
+      "surface": "ולחלל",
+      "gloss": "mpe kolapa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkombo nsantu na ngai"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nkombo"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "nsantu na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T16:53:17.208704219Z",
+  "model": "glm-5.3"
+}

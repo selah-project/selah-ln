@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 19:5",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Mpe mokonzi abombaki ⟨את⟩ elongi ye, mpe mokonzi atangaki na mongongo monene: mwana na ngai, Avshalom, Avshalom, mwana na ngai, mwana na ngai!",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "mpe mokonzi"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "abombaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elongi ye"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "elongi ye"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "mpe atangaki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "קול",
+      "gloss": "na mongongo"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "monene"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mwana na ngai"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mwana na ngai"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mwana na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T18:40:11.418517315Z",
+  "model": "glm-5.3"
+}

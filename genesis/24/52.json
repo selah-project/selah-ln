@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "genesis 24:52",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "Mpe esalemaki, tango mosali ya Avraham ayokaki ⟨את⟩ maloba na bango, akundolaki na mabele liboso ya Yawe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mpe esalemaki"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "tango"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ayokaki"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "mosali"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ya Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maloba na bango"
+    },
+    {
+      "surface": "דבריהם",
+      "gloss": "maloba na bango"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "akundolaki"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "liboso ya Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T15:56:08.330463085Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 80:14",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 80,
+  "translation": "Ngulube ya nkolo ezali kobebisa yango, mpe nyama ya mabele ezali kolia yango.",
+  "tokens": [
+    {
+      "surface": "יכרסמנה",
+      "gloss": "ezali kobebisa yango"
+    },
+    {
+      "surface": "חזיר",
+      "gloss": "ngulube"
+    },
+    {
+      "surface": "מיער",
+      "gloss": "ya nkolo"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "mpe nyama"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ya mabele"
+    },
+    {
+      "surface": "ירענה",
+      "gloss": "ezali kolia yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:21:11.181087955Z",
+  "model": "glm-5.3"
+}

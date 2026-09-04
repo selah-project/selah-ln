@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 103:17",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 103,
+  "translation": "Mpe hesed ya Yawe ezali kala kino na kala, likolo ya baye babangi ⟨ye⟩, mpe bondemi na ye epai ya bana ya bana.",
+  "tokens": [
+    {
+      "surface": "וחסד",
+      "gloss": "mpe hesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "kala"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kino na"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "kala"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "baye babangi ye"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "mpe bondemi na ye"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "epai ya bana ya"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bana"
+    }
+  ],
+  "timestamp": "2026-09-03T21:26:01.954387797Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 19:1",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Mpe Shaul alobaki na Yonatan mwana na ye mpe na bakiti na ye nyonso babomi ⟨את⟩ David; kasi Yonatan mwana ya Shaul alingaki David mingi.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana na ye"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mpe na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "bakiti na ye"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "babomi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "kasi Yonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ya Shaul"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "alingaki"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mingi"
+    }
+  ],
+  "timestamp": "2026-09-03T18:19:41.488713270Z",
+  "model": "glm-5.3"
+}

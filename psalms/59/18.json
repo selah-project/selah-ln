@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 59:18",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 59,
+  "translation": "Nguya na ngai, epai na yo nakoyimbela, mpo Elohim azali ngomba ya bolikiso na ngai, Elohim ya hesed na ngai.",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "Nguya na ngai"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "epai na yo"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "nakoyimbela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "ngomba ya bolikiso na ngai"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "hesed na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:14:41.861548406Z",
+  "model": "glm-5.3"
+}

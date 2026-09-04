@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 8:13",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe basalaki bongo; Aharon atolamisi ⟨את⟩ lokando la lokasa na yango na ntuma na yango, mpe akubaki ⟨את⟩ mputu ya mabele, mpe kinnim ekelaki na moto mpe na nyama; mputu ya mabele nyonso ekómaki kinnim na mabele nyonso ya Mitsraim.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Mpe basalaki"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bongo"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "atolamisi"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lokando la lokasa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "lokando la lokasa na yango"
+    },
+    {
+      "surface": "במטהו",
+      "gloss": "na ntuma na yango"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "mpe akubaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mputu"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "mputu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ya mabele"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "mpe ekelaki"
+    },
+    {
+      "surface": "הכנם",
+      "gloss": "kinnim"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "na moto"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "mpe na nyama"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "mputu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ya mabele"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ekómaki"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "kinnim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na … nyonso"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Mitsraim"
+    }
+  ],
+  "timestamp": "2026-09-03T16:17:54.563947711Z",
+  "model": "glm-5.3"
+}

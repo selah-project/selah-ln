@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 11:19",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Bolako te mokolo moko, mpe te mikolo mibale, mpe te mikolo mitano, mpe te mikolo zomi, mpe te mikolo ntuku mibale.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mokolo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "moko"
+    },
+    {
+      "surface": "תאכלון",
+      "gloss": "bolako"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "יומים",
+      "gloss": "mikolo mibale"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "mitano"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mikolo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "zomi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mikolo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ntuku mibale"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mokolo"
+    }
+  ],
+  "timestamp": "2026-09-03T23:17:26.282200648Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 4:4",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Soki Adonai asukaki ⟨את⟩ mabe ya bana basi ya Tsion, mpe ⟨את⟩ makila ya Yerushalaim akimolaki kati na yango, na mpema ya bokati mpe na mpema ya moto.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "soki"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "asukaki"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabe ya bana basi ya Tsion"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ya bana basi"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ya Tsion"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "makila ya Yerushalaim"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "makila"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ya Yerushalaim"
+    },
+    {
+      "surface": "ידיח",
+      "gloss": "akimolaki"
+    },
+    {
+      "surface": "מקרבה",
+      "gloss": "kati na yango"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "na mpema"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ya bokati"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "mpe na mpema"
+    },
+    {
+      "surface": "בער",
+      "gloss": "ya moto"
+    }
+  ],
+  "timestamp": "2026-09-03T19:14:45.273037535Z",
+  "model": "glm-5.3"
+}

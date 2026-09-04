@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 112:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 112,
+  "translation": "Sango mabe akoyika te; motema na ye emikami, atmikelaka na Yawe.",
+  "tokens": [
+    {
+      "surface": "משמועה",
+      "gloss": "Sango"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "akoyika"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "emikami"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "motema na ye"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "atmikelaka"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "na Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T21:29:30.902208586Z",
+  "model": "glm-5.3"
+}

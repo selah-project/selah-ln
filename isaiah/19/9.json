@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 19:9",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Mpe baye bazali kosala pishi ya kokangama, mpe bataki ya linani ya pembe, bakozwa mawa.",
+  "tokens": [
+    {
+      "surface": "ובשו",
+      "gloss": "mpe bakozwa mawa"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "baye bazali kosala"
+    },
+    {
+      "surface": "פשתים",
+      "gloss": "pishi"
+    },
+    {
+      "surface": "שריקות",
+      "gloss": "ya kokangama"
+    },
+    {
+      "surface": "וארגים",
+      "gloss": "mpe bataki"
+    },
+    {
+      "surface": "חורי",
+      "gloss": "ya linani ya pembe"
+    }
+  ],
+  "timestamp": "2026-09-03T19:19:51.397345222Z",
+  "model": "glm-5.3"
+}

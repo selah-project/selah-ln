@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 29:30",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 29,
+  "translation": "Mpe akokota mpe epai ya Rahel, mpe alingaki mpe ⟨את⟩ Rahel koleka Lea; mpe asalaki na ye ntango mosusu mbula sambe mosusu.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "akokota"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rahel"
+    },
+    {
+      "surface": "ויאהב",
+      "gloss": "alingaki"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rahel"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rahel"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "koleka Lea"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "asalaki"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ntango mosusu"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sambe"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mbula"
+    },
+    {
+      "surface": "אחרות",
+      "gloss": "mosusu"
+    }
+  ],
+  "timestamp": "2026-09-03T16:00:03.252667983Z",
+  "model": "glm-5.3"
+}

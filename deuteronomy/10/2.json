@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 10:2",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "mpe nakokoma likolo ya bitanda ⟨את⟩ maloba oyo ezalaki likolo ya bitanda ya liboso, oyo obukaki, mpe otya yango na sanduku.",
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "mpe nakokoma"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "bitanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maloba"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "maloba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ezalaki"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "bitanda"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "ya liboso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "obukaki"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "mpe otya yango"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "na sanduku"
+    }
+  ],
+  "timestamp": "2026-09-03T17:27:45.086877084Z",
+  "model": "glm-5.3"
+}

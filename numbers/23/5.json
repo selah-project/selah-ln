@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 23:5",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Mpe Yawe atyaki liloba na monoko ya Bilam, mpe alobaki: Zonga epai ya Balak, mpe boyo okoloba.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "mpe atyaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "liloba"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "na monoko ya"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "zonga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "mpe boyo"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "okoloba"
+    }
+  ],
+  "timestamp": "2026-09-03T17:15:00.038084576Z",
+  "model": "glm-5.3"
+}

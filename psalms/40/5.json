@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 40:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 40,
+  "translation": "Bolamu ezali likolo ya mobali oyo atyiaki Yawe lokola motema-na-bosikisiki na ye, mpe akangaki te motoki epai ya bato ya ntike, mpe epai ya bakweyi na lokuta.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Bolamu ezali likolo ya"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "mobali"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "atyiaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מבטחו",
+      "gloss": "lokola motema-na-bosikisiki na ye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "akangaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "רהבים",
+      "gloss": "bato ya ntike"
+    },
+    {
+      "surface": "ושטי",
+      "gloss": "mpe epai ya bakweyi"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "na lokuta"
+    }
+  ],
+  "timestamp": "2026-09-03T21:10:49.260097698Z",
+  "model": "glm-5.3"
+}

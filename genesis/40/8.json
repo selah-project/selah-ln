@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 40:8",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 40,
+  "translation": "Mpe balobaki epai na ye: Lilato tolotaki, kasi mobongoli ⟨את⟩ yango azali te. Mpe Yosef alobaki epai na bango: Ndimbola ya lilato ezali na Elohim, boye te? Nalomba bino, bayebisá ngai.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "balobaki"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "epai na ye"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "lilato"
+    },
+    {
+      "surface": "חלמנו",
+      "gloss": "tolotaki"
+    },
+    {
+      "surface": "ופתר",
+      "gloss": "mpe mobongoli"
+    },
+    {
+      "surface": "אין",
+      "gloss": "azali te"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yango",
+      "marks": "mobongoli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "epai na bango"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "boye te"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "na Elohim"
+    },
+    {
+      "surface": "פתרנים",
+      "gloss": "ndimbola ya lilato"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "bayebisá"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nalomba bino"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T16:05:54.161314792Z",
+  "model": "glm-5.3"
+}

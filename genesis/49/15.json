@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 49:15",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 49,
+  "translation": "Amoni bopema ete ezali malamu, mpe ⟨את⟩ mabele ete ezali elamu; akamwisi loki na ye mpo na kobwaka, mpe akomaki mosali ya mpako.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Amoni"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "bopema"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "malamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mabele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "נעמה",
+      "gloss": "elamu"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "akamwisi"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "loki na ye"
+    },
+    {
+      "surface": "לסבל",
+      "gloss": "mpo na kobwaka"
+    },
+    {
+      "surface": "והוא→ויהי",
+      "gloss": "akomaki"
+    },
+    {
+      "surface": "למס",
+      "gloss": "mpako"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "mosali"
+    }
+  ],
+  "timestamp": "2026-09-03T16:12:18.729739319Z",
+  "model": "glm-5.3"
+}

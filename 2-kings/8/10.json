@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 8:10",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe Elisha alobaki epai ya ye: Kende, loba: Nakovanda na bomoi te; kasi Yawe amoniselaki ngai ete akokufa na penza.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "epai ya ye"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kende"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "loba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "kovanda na bomoi"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "nakovanda na bomoi"
+    },
+    {
+      "surface": "והראני",
+      "gloss": "kasi amoniselaki ngai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kufa"
+    },
+    {
+      "surface": "יימות",
+      "gloss": "akokufa na penza"
+    }
+  ],
+  "timestamp": "2026-09-03T19:02:34.585549345Z",
+  "model": "glm-5.3"
+}

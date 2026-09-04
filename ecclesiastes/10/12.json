@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 10:12",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Maloba ya monoko ya moyebani ezali ngolu; mpe mipemi ya kasekeli emeli ye.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Maloba"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ya monoko"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ya moyebani"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ezali ngolu"
+    },
+    {
+      "surface": "ושפתות",
+      "gloss": "mpe mipemi"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ya kasekeli"
+    },
+    {
+      "surface": "תבלענו",
+      "gloss": "emeli ye"
+    }
+  ],
+  "timestamp": "2026-09-03T22:14:10.171635511Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 19:33",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Mpe soki ger afandi elongo na ⟨את⟩ bino na mabele na bino, bofonya ⟨את⟩ ye te.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Mpe soki"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "afandi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "elongo na ⟨את⟩ bino"
+    },
+    {
+      "surface": "גר",
+      "gloss": "ger"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "na mabele na bino"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "bofonya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ye (ger oyo)"
+    }
+  ],
+  "timestamp": "2026-09-03T16:51:39.479500394Z",
+  "model": "glm-5.3"
+}

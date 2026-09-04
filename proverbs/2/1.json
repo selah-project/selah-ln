@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 2:1",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mwana na ngai, soki oza ozwi maloba na ngai, mpe mitindo na ngai obombi ⟨את⟩ epai na yo.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Mwana na ngai"
+    },
+    {
+      "surface": "אם",
+      "gloss": "soki"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "oza ozwi"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "maloba na ngai"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "mpe mitindo na ngai"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "obombi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ epai na yo",
+      "marks": "epai na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:38:38.228278595Z",
+  "model": "glm-5.3"
+}

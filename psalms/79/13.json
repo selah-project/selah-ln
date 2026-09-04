@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 79:13",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 79,
+  "translation": "Mpe biso, bato na yo mpe ndombe ya bopema na yo, tokesa matondi na yo na ntango nyonso, mobotama na mobotama tolobi nkembo na yo.",
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "mpe biso"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bato na yo"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "mpe ndombe"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "ya bopema na yo"
+    },
+    {
+      "surface": "נודה",
+      "gloss": "tokesa matondi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "na yo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na ntango nyonso"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "mobotama"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "na mobotama"
+    },
+    {
+      "surface": "נספר",
+      "gloss": "tolobi"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "nkembo na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:20:11.542652285Z",
+  "model": "glm-5.3"
+}

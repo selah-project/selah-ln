@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 14:5",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "ayila mpe tsevi mpe yahmura mpe ako mpe dishona mpe teo mpe zamera",
+  "tokens": [
+    {
+      "surface": "איל",
+      "gloss": "ayila"
+    },
+    {
+      "surface": "וצבי",
+      "gloss": "mpe tsevi"
+    },
+    {
+      "surface": "ויחמור",
+      "gloss": "mpe yahmura"
+    },
+    {
+      "surface": "ואקו",
+      "gloss": "mpe ako"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "mpe dishona"
+    },
+    {
+      "surface": "ותאו",
+      "gloss": "mpe teo"
+    },
+    {
+      "surface": "וזמר",
+      "gloss": "mpe zamera"
+    }
+  ],
+  "timestamp": "2026-09-03T17:31:40.062899069Z",
+  "model": "glm-5.3"
+}

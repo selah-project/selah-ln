@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 122:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 122,
+  "translation": "Mpo na ndako ya Yawe Elohim na biso, nakolaka malamu mpo na yo.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Mpo na"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim na biso"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "nakolaka"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "malamu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mpo na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:32:43.384640163Z",
+  "model": "glm-5.3"
+}

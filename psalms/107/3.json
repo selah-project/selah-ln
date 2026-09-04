@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 107:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 107,
+  "translation": "Mpe akangaki bango uta na bituka, uta na monyele mpe uta na wɛsti, uta na nɔrdi mpe uta na mbu.",
+  "tokens": [
+    {
+      "surface": "ומארצות",
+      "gloss": "Mpe uta na bituka"
+    },
+    {
+      "surface": "קבצם",
+      "gloss": "akangaki bango"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "uta na monyele"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "mpe uta na wɛsti"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "uta na nɔrdi"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "mpe uta na mbu"
+    }
+  ],
+  "timestamp": "2026-09-03T21:28:21.202716547Z",
+  "model": "glm-5.3"
+}

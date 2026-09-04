@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 6:20",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpe Amram azwaki ⟨את⟩ Yokewed sango-mwasi na ye na ye lokola mwasi, mpe abotaki na ye ⟨את⟩ Aharon mpe ⟨את⟩ Moshe; mpe mbula ya bomoi ya Amram ezalaki sambo mpe ntuku misato mpe nkama ⟨ya mbula⟩.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Mpe Amram azwaki"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yokewed"
+    },
+    {
+      "surface": "יוכבד",
+      "gloss": "Yokewed"
+    },
+    {
+      "surface": "דדתו",
+      "gloss": "sango-mwasi na ye"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "lokola mwasi"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "mpe abotaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "mpe mbula"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ya bomoi"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "ya Amram"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sambo"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "mpe ntuku misato"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "mpe nkama"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mbula"
+    }
+  ],
+  "timestamp": "2026-09-03T16:14:32.929805656Z",
+  "model": "glm-5.3"
+}

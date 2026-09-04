@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "2-kings 19:36",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Sancherib, mokonzi ya Ashur, alongwaki, akendaki mpe azongaki, mpe afandaki na Nineve.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "alongwaki"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "akendaki"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "mpe azongaki"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "Sancherib"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ya Ashur"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "mpe afandaki"
+    },
+    {
+      "surface": "בנינוה",
+      "gloss": "na Nineve"
+    }
+  ],
+  "timestamp": "2026-09-03T19:09:29.736866721Z",
+  "model": "glm-5.3"
+}

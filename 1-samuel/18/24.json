@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 18:24",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Mpe basaleli ya Shaul bayebisaki ye, koloba: Ndenge maloba oyo nde David alobaki.",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "Mpe bayebisaki"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "basaleli"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ya Shaul"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "koloba"
+    },
+    {
+      "surface": "כדברים",
+      "gloss": "ndenge maloba"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-09-03T18:18:38.685335104Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 23:4",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Oyo nde mililu ya Yawe, mikutano ya santu, oyo bokobenga ⟨את⟩ na ntango na yango.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Oyo nde"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "mililu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yawe"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "mikutano"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ya santu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "bokobenga"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "na ntango na yango"
+    },
+    {
+      "surface": "במועדם",
+      "gloss": "na ntango na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:53:39.210473974Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 47:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 47,
+  "translation": "Mpo na mokambi, ya bana ya Korach, mizmor.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Mpo na mokambi"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ya bana"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    }
+  ],
+  "timestamp": "2026-09-03T21:12:26.446559269Z",
+  "model": "glm-5.3"
+}

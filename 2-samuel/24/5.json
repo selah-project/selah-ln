@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 24:5",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "Mpe bakatisaki ⟨את⟩ Yarden, mpe batyelaki na Aroer, na loboko ya molongo ya mboka oyo ezali na kati ya monsɔ ya Gada, mpe kino Yaezer.",
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "bakatisaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "mpe batyelaki"
+    },
+    {
+      "surface": "בערוער",
+      "gloss": "na Aroer"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "na loboko ya molongo ya"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mboka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ezali na kati ya"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "monsɔ"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "ya Gada"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mpe kino"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yaezer"
+    }
+  ],
+  "timestamp": "2026-09-03T18:41:09.465260865Z",
+  "model": "glm-5.3"
+}

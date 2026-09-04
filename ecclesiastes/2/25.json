@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpo ete nani akoki kolia, mpe nani akosala ngenge, libanda na ngai?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo ete"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nani"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "akoki kolia"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "mpe nani"
+    },
+    {
+      "surface": "יחוש",
+      "gloss": "akosala ngenge"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "libanda"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T22:12:39.286524373Z",
+  "model": "glm-5.3"
+}

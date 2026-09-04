@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 37:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 37,
+  "translation": "Mpo ete bakokatama noki lokola matete, mpe bakosekema lokola matete ya motane.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo ete"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "lokola matete"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "noki"
+    },
+    {
+      "surface": "ימלו",
+      "gloss": "bakokatama"
+    },
+    {
+      "surface": "וכירק",
+      "gloss": "mpe lokola"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "matete ya motane"
+    },
+    {
+      "surface": "יבולון",
+      "gloss": "bakosekema"
+    }
+  ],
+  "timestamp": "2026-09-03T21:09:16.270745494Z",
+  "model": "glm-5.3"
+}

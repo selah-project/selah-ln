@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 18:11",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "mpe mokangisi bokangisi, mpe mosengi na molimo ya mokufi, mpe moyebi, mpe motunisi na bakufi.",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "mpe mokangisi"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "bokangisi"
+    },
+    {
+      "surface": "ושאל",
+      "gloss": "mpe mosengi"
+    },
+    {
+      "surface": "אוב",
+      "gloss": "molimo ya mokufi"
+    },
+    {
+      "surface": "וידעני",
+      "gloss": "mpe moyebi"
+    },
+    {
+      "surface": "ודרש",
+      "gloss": "mpe motunisi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "bakufi"
+    }
+  ],
+  "timestamp": "2026-09-03T17:32:42.221508434Z",
+  "model": "glm-5.3"
+}

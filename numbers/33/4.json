@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 33:4",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 33,
+  "translation": "Mpe bato ya Mitsraim bakundaki ⟨את⟩ baye Yawe abomaki na bango — libota liboso nyonso; mpe na banzambe na bango Yawe asalaki bikati.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "mpe bato ya Mitsraim"
+    },
+    {
+      "surface": "מקברים",
+      "gloss": "bakundaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baye Yawe abomaki na bango"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "baye"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "abomaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "libota liboso"
+    },
+    {
+      "surface": "ובאלהיהם",
+      "gloss": "mpe na banzambe na bango"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "asalaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "bikati"
+    }
+  ],
+  "timestamp": "2026-09-03T17:21:18.323005353Z",
+  "model": "glm-5.3"
+}

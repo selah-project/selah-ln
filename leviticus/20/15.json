@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 20:15",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 20,
+  "translation": "Mpe moto oyo apesi boboti na ye na nyama, liwa akufa; mpe ⟨את⟩ nyama bokomí boboma.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Mpe moto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "apesi"
+    },
+    {
+      "surface": "שכבתו",
+      "gloss": "boboti na ye"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "na nyama"
+    },
+    {
+      "surface": "מות",
+      "gloss": "liwa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "akufa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "nyama"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "תהרגו",
+      "gloss": "bokomí boboma"
+    }
+  ],
+  "timestamp": "2026-09-03T16:53:23.145077171Z",
+  "model": "glm-5.3"
+}

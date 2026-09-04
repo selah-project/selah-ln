@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 36:42",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 36,
+  "translation": "Mokonzi Kenaz, mokonzi Teman, mokonzi Mibtsar.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "Mokonzi"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "Kenaz"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "Teman"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "Mibtsar"
+    }
+  ],
+  "timestamp": "2026-09-03T16:02:55.337404098Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 23:26",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Kaboleli mpe bozangi-bana akokanama te na mabele na yo; motango ya mikolo na yo nakokokisela ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "akokanama ⟨ezali⟩"
+    },
+    {
+      "surface": "משכלה",
+      "gloss": "kaboleli"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "mpe bozangi-bana"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "na mabele na yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motango ya mikolo na yo"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "motango"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "ya mikolo na yo"
+    },
+    {
+      "surface": "אמלא",
+      "gloss": "nakokokisela"
+    }
+  ],
+  "timestamp": "2026-09-03T16:25:40.259847979Z",
+  "model": "glm-5.3"
+}

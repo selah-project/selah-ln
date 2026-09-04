@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 1:16",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe alobaki: ntango bozali kobanzela mbota ⟨את⟩ bahebri, mpe bomoni bango likolo ya mabanga — soki ezali mwana mobali, bobomi ⟨את⟩ ye; mpe soki ezali mwana mwasi, azali na bomoi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "בילדכן",
+      "gloss": "ntango bozali kobanzela mbota"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bahebri"
+    },
+    {
+      "surface": "העבריות",
+      "gloss": "bahebri"
+    },
+    {
+      "surface": "וראיתן",
+      "gloss": "mpe bomoni"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "mabanga"
+    },
+    {
+      "surface": "אם",
+      "gloss": "soki"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana mobali"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ezali"
+    },
+    {
+      "surface": "והמתן",
+      "gloss": "bobomi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ye"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "mpe soki"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana mwasi"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ezali"
+    },
+    {
+      "surface": "וחיה",
+      "gloss": "azali na bomoi"
+    }
+  ],
+  "timestamp": "2026-09-03T16:13:13.423122626Z",
+  "model": "glm-5.3"
+}

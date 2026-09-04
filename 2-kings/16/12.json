@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 16:12",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Mpe mokonzi akomi utaka na Damashek, mpe mokonzi amonaki ⟨את⟩ autel, mpe mokonzi okoki epai ya autel, mpe apesaki ofrande likolo na yango.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "mpe akomi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "מדמשק",
+      "gloss": "utaka na Damashek"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "mpe amonaki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "autel"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "autel"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "mpe okoki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "על",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "autel"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "mpe apesaki ofrande"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "likolo na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T19:07:19.591799778Z",
+  "model": "glm-5.3"
+}

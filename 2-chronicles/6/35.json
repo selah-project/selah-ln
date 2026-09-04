@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-chronicles 6:35",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "mpe okoyoka uta na likolo ⟨את⟩ lobeli na bango mpe ⟨את⟩ dimbola na bango, mpe okosala bosolo na bango.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "mpe okoyoka"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uta"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "likolo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lobeli na bango"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "lobeli na bango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "dimbola na bango"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "dimbola na bango"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "mpe okosala"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "bosolo na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T22:55:12.144278092Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 11:8",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpe boye asalaki mpo na basi na ye nyonso baPaya, bazalaki kolaka nkungu mpe kobumba bimemia na banzambe na bango.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "Mpe boye"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "asalaki"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "mpo na nyonso"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "basi na ye"
+    },
+    {
+      "surface": "הנכריות",
+      "gloss": "baPaya"
+    },
+    {
+      "surface": "מקטירות",
+      "gloss": "bazalaki kolaka nkungu"
+    },
+    {
+      "surface": "ומזבחות",
+      "gloss": "mpe kobumba bimemia"
+    },
+    {
+      "surface": "לאלהיהן",
+      "gloss": "na banzambe na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T18:50:04.874809052Z",
+  "model": "glm-5.3"
+}

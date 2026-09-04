@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 16:1",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Batinda toka, mokonzi ya mabele, uta Sela na mokeke, epai ya ngomba ya mwana mwasi ya Tsion.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "Batinda"
+    },
+    {
+      "surface": "כר",
+      "gloss": "toka"
+    },
+    {
+      "surface": "משל",
+      "gloss": "mokonzi ya"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "Sela"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "na mokeke"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ngomba ya"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana mwasi ya"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsion"
+    }
+  ],
+  "timestamp": "2026-09-03T19:20:18.443468825Z",
+  "model": "glm-5.3"
+}

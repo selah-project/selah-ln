@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 12:7",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Mpe mpumba ekozonga na mabele ndenge ezalaki, mpe elimo ekozonga epai ya Elohim oyo opesaki yango.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "mpe ekozonga"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "mpumba"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "כשהיה",
+      "gloss": "ndenge ezalaki"
+    },
+    {
+      "surface": "והרוח",
+      "gloss": "mpe elimo"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "ekozonga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "opesaki yango"
+    }
+  ],
+  "timestamp": "2026-09-03T22:16:35.873049142Z",
+  "model": "glm-5.3"
+}

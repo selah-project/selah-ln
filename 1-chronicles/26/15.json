@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 26:15",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "Mpo na Oved-Edom ya sudi; mpe mpo na bana na ye, ndako ya Asupim.",
+  "tokens": [
+    {
+      "surface": "לעבד",
+      "gloss": "mpo na Oved-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "ya sudi"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "mpe mpo na bana na ye"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "האספים",
+      "gloss": "ya Asupim"
+    }
+  ],
+  "timestamp": "2026-09-03T22:50:58.605578104Z",
+  "model": "glm-5.3"
+}

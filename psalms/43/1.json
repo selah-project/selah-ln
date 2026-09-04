@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 43:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 43,
+  "translation": "Kundola ngai, Elohim, mpe longa likambo na ngai na ekolo seyi moto ya boboto; longola ngai na moto ya boloko mpe ya mabe.",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "Kundola ngai"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וְרִיבָה",
+      "gloss": "mpe longa"
+    },
+    {
+      "surface": "רִיבִי",
+      "gloss": "likambo na ngai"
+    },
+    {
+      "surface": "מִגּוֹי",
+      "gloss": "na ekolo"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "seyi"
+    },
+    {
+      "surface": "חָסִיד",
+      "gloss": "moto ya boboto"
+    },
+    {
+      "surface": "מֵאִישׁ",
+      "gloss": "na moto"
+    },
+    {
+      "surface": "מִרְמָה",
+      "gloss": "ya boloko"
+    },
+    {
+      "surface": "וְעַוְלָה",
+      "gloss": "mpe ya mabe"
+    },
+    {
+      "surface": "תְפַלְּטֵנִי",
+      "gloss": "longola ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:10:47.439421402Z",
+  "model": "glm-5.3"
+}

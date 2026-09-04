@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 78:11",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 78,
+  "translation": "Mpe babosanaki misala na ye mpe mamela na ye oyo amonisaki bango.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "Mpe babosanaki"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "misala na ye"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "mpe mamela na ye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "הראם",
+      "gloss": "amonisaki bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:19:30.302077384Z",
+  "model": "glm-5.3"
+}

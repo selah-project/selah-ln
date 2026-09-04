@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 144:15",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 144,
+  "translation": "Bobei ya bato oyo bakoki bongo; bobei ya bato oyo Yawe azali Elohim na bango.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "bobei"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ya bato"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "bakoki bongo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "bobei"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ya bato"
+    },
+    {
+      "surface": "שיהוה",
+      "gloss": "oyo Yawe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "azali Elohim na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:36:03.114618526Z",
+  "model": "glm-5.3"
+}

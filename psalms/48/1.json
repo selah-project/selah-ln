@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 48,
+  "translation": "Ndembo, nzembo, ya bana ya Korah.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Ndembo"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "nzembo"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ya bana ya"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korah"
+    }
+  ],
+  "timestamp": "2026-09-03T21:12:28.488372072Z",
+  "model": "glm-5.3"
+}

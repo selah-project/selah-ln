@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 30:8",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 30,
+  "translation": "Mpe yo okozonga, mpe okoyoka lolaku ya Yawe, mpe okosala ⟨את⟩ mibeko na ye nyonso oyo ngai nakotindaka yo lelo.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "mpe yo"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "ozali kozonga"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "mpe okoyoka"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "lolaku ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "mpe okosala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mibeko na ye nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "mibeko na ye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "nakotindaka yo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lelo"
+    }
+  ],
+  "timestamp": "2026-09-03T17:39:18.072082410Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 28:6",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 28,
+  "translation": "Shaul atunaki epai ya Yawe, kasi Yawe ayanaki ye te — te na miloku, te na Urim, te na banavi.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "atunaki"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "epai ya Yawe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kasi ... te"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "ayanaki ye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "te"
+    },
+    {
+      "surface": "בחלמות",
+      "gloss": "na miloku"
+    },
+    {
+      "surface": "גם",
+      "gloss": "te"
+    },
+    {
+      "surface": "באורים",
+      "gloss": "na Urim"
+    },
+    {
+      "surface": "גם",
+      "gloss": "te"
+    },
+    {
+      "surface": "בנביאם",
+      "gloss": "na banavi"
+    }
+  ],
+  "timestamp": "2026-09-03T18:24:54.325687567Z",
+  "model": "glm-5.3"
+}

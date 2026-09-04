@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 44:1",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 44,
+  "translation": "Mpe sikoyo koya, Yaakov mosali na ngai, mpe Israel namponi ⟨ye⟩.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "mpe sikoyo"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "koya"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mosali na ngai"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "mpe Israel"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "namponi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨ye⟩"
+    }
+  ],
+  "timestamp": "2026-09-03T19:31:25.794548134Z",
+  "model": "glm-5.3"
+}

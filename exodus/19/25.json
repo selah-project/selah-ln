@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 19:25",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Mpe Moshe akitaki epai ya bato, mpe alobaki na bango.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "akiti"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:21:31.085696584Z",
+  "model": "glm-5.3"
+}

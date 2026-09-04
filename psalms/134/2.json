@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 134:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 134,
+  "translation": "Botolá maboko na bino ⟨na⟩ esika santu, mpe bokumisa ⟨את⟩ Yawe.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Botola"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "maboko na bino"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "esika santu"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "mpe bokumisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T21:33:03.541467822Z",
+  "model": "glm-5.3"
+}

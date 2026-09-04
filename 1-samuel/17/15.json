@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 17:15",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 17,
+  "translation": "Mpe David azalaki kokende mpe kozonga uta epai ya Shaul, mpo na kolisa ⟨את⟩ bampeni ya tata na ye, na Bet-lehem.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Mpe David"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "azalaki kokende"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "mpe kozonga"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "uta epai ya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "mpo na kolisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bampeni"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "bampeni"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "tata na ye"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "lehem"
+    }
+  ],
+  "timestamp": "2026-09-03T18:17:44.833605787Z",
+  "model": "glm-5.3"
+}

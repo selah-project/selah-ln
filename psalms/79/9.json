@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 79:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 79,
+  "translation": "Salisa biso, Elohim ya bobombi na biso, mpo na nkembo ya nkombo na yo, mpe bimisa biso, mpe limbisa mabe na biso, mpo na nkombo na yo.",
+  "tokens": [
+    {
+      "surface": "עזרנו",
+      "gloss": "salisa biso"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "ya bobombi na biso"
+    },
+    {
+      "surface": "על",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "na"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "nkembo"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nkombo na yo"
+    },
+    {
+      "surface": "והצילנו",
+      "gloss": "mpe bimisa biso"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "mpe limbisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "mabe na biso"
+    },
+    {
+      "surface": "חטאתינו",
+      "gloss": "mabe na biso"
+    },
+    {
+      "surface": "למען",
+      "gloss": "mpo na"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nkombo na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:20:53.741237718Z",
+  "model": "glm-5.3"
+}

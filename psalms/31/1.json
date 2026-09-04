@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 31:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 31,
+  "translation": "Mpo na mokambi. Mizimoro ya David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Mpo na mokambi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Mizimoro"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya David"
+    }
+  ],
+  "timestamp": "2026-09-03T23:34:01.549537506Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 58:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 58,
+  "translation": "Liboso biloko na bino bakokana bangonga, akundola ⟨את⟩ yango lokola mpulu, oyo ezali na bomoi elongo na oyo ezali na zela.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "Liboso"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "bakokana"
+    },
+    {
+      "surface": "סירתיכם",
+      "gloss": "biloko na bino"
+    },
+    {
+      "surface": "אטד",
+      "gloss": "bangonga"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "lokola"
+    },
+    {
+      "surface": "חי",
+      "gloss": "oyo ezali na bomoi"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "elongo na"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "oyo ezali na zela"
+    },
+    {
+      "surface": "ישערנו",
+      "gloss": "akundola yango"
+    }
+  ],
+  "timestamp": "2026-09-04T00:00:48.535001821Z",
+  "model": "glm-5.3"
+}

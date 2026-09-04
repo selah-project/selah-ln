@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 58:11",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 58,
+  "translation": "Moto ya sembo asepelaki ete amonaki lifuti; makolo na ye asukolaki na makasi ya moto mabe.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "asepelaki"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "moto ya sembo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "amonaki"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "lifuti"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "makolo na ye"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "asukolaki"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "na makasi"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "ya moto mabe"
+    }
+  ],
+  "timestamp": "2026-09-03T23:34:46.982656227Z",
+  "model": "glm-5.3"
+}

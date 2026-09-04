@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 46:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 46,
+  "translation": "Etalatalaka, ebilaka mai na yango; bangomba yetanaka na botelemi na yango. Selah.",
+  "tokens": [
+    {
+      "surface": "יהמו",
+      "gloss": "Etalatalaka"
+    },
+    {
+      "surface": "יחמרו",
+      "gloss": "ebilaka"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "mai na yango"
+    },
+    {
+      "surface": "ירעשו",
+      "gloss": "yetanaka"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "bangomba"
+    },
+    {
+      "surface": "בגאותו",
+      "gloss": "na botelemi na yango"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-03T21:11:51.935102860Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 109:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 109,
+  "translation": "Mpe maloba ya bokwei bazalaki kozinga ngai; balwanaki na ngai kozanga ntina.",
+  "tokens": [
+    {
+      "surface": "ודברי",
+      "gloss": "mpe maloba"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "ya bokwei"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "bazalaki kozinga ngai"
+    },
+    {
+      "surface": "וילחמוני",
+      "gloss": "balwanaki na ngai"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "kozanga ntina"
+    }
+  ],
+  "timestamp": "2026-09-03T21:29:42.662228715Z",
+  "model": "glm-5.3"
+}

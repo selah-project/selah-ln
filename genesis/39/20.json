@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 39:20",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 39,
+  "translation": "Nkolo ya Yosef ayaki ⟨את⟩ ye mpe atyaki ye na ndako ya boloko, esika bakangami ya mokonzi bakangamaka; mpe akomaki kofanda kuna na ndako ya boloko.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ayaki"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "nkolo"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ye (Yosef)"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "atyaki ye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "ya boloko"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "esika"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אסורי",
+      "gloss": "bakangami"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya mokonzi"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "bakangamaka"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "akomaki"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "na ndako"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "ya boloko"
+    }
+  ],
+  "timestamp": "2026-09-03T16:06:32.656733730Z",
+  "model": "glm-5.3"
+}

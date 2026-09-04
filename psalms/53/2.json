@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 53:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 53,
+  "translation": "Nzoba alobaki na motema na ye ete Elohim azali te; babebisaki mpe basalaki mabe, moto oyo asali malamu azali te.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nzoba"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "na motema na ye"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ete ... azali te"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "babebisaki"
+    },
+    {
+      "surface": "והתעיבו",
+      "gloss": "mpe basalaki mabe"
+    },
+    {
+      "surface": "עול",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "אין",
+      "gloss": "azali te"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "asali"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "malamu"
+    }
+  ],
+  "timestamp": "2026-09-03T21:13:53.376074164Z",
+  "model": "glm-5.3"
+}

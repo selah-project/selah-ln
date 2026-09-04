@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 147:15",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 147,
+  "translation": "Oyo atindaka liloba na ye na mabele; mbala ya noki noki kokende liloba na ye.",
+  "tokens": [
+    {
+      "surface": "השלח",
+      "gloss": "Oyo atindaka"
+    },
+    {
+      "surface": "אמרתו",
+      "gloss": "liloba na ye"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mbala"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "ya noki noki"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "kokende"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "liloba na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:36:30.158650760Z",
+  "model": "glm-5.3"
+}

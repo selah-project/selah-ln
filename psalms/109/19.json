@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 109:19",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 109,
+  "translation": "Ezala na ye lokola elamba azipaki, mpe lokola lingomba akenzaka yango ntango nyonso.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "Ezala"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "lokola elamba"
+    },
+    {
+      "surface": "יעטה",
+      "gloss": "azipaki"
+    },
+    {
+      "surface": "ולמזח",
+      "gloss": "mpe lokola lingomba"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ntango nyonso"
+    },
+    {
+      "surface": "יחגרה",
+      "gloss": "akenzaka yango"
+    }
+  ],
+  "timestamp": "2026-09-03T23:35:26.975439362Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 123:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 123,
+  "translation": "Lokasa ya botungi. Epai na Yo natombaki ⟨את⟩ miso na ngai, Yo o zali kanda na likolo.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Lokasa"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ya botungi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Epai na Yo"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "natombaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miso na ngai"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "miso na ngai"
+    },
+    {
+      "surface": "הישבי",
+      "gloss": "oyo o zali kanda"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "na likolo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:34:04.490299652Z",
+  "model": "glm-5.3"
+}

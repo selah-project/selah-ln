@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 6:24",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "mpe ndeko na ye Asaf, oyo otelemaki na loboko na ye ya mobali; Asaf mwana ya Berekjahu, mwana ya Shimea",
+  "tokens": [
+    {
+      "surface": "ואחיו",
+      "gloss": "mpe ndeko na ye"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Asaf"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "otelemaki"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "loboko na ye ya mobali"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Asaf"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana ya"
+    },
+    {
+      "surface": "ברכיהו",
+      "gloss": "Berekjahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana ya"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "Shimea"
+    }
+  ],
+  "timestamp": "2026-09-03T22:42:33.265669097Z",
+  "model": "glm-5.3"
+}

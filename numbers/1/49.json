@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "numbers 1:49",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Kaka ⟨את⟩ libota ya Levi okokota te, mpe ⟨את⟩ motango na bango okozwa te, kati na bana ya Israel.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Kaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "libota ya Levi"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "libota"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "okokota"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "motango na bango"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "motango na bango"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "okozwa"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "kati na"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-03T16:57:43.865116934Z",
+  "model": "glm-5.3"
+}

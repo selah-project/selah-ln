@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "leviticus 14:49",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Mpe akoki kosilika ⟨את⟩ ndako na ndeke mibale, mpe nzete ya areza, mpe shani ya tolaoat, mpe ezobo.",
+  "tokens": [
+    {
+      "surface": "וְלָקַח",
+      "gloss": "akoki"
+    },
+    {
+      "surface": "לְחַטֵּא",
+      "gloss": "kosilika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndako"
+    },
+    {
+      "surface": "הַבַּיִת",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "שְׁתֵּי",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "צִפֳּרִים",
+      "gloss": "ndeke"
+    },
+    {
+      "surface": "וְעֵץ",
+      "gloss": "mpe nzete"
+    },
+    {
+      "surface": "אֶרֶז",
+      "gloss": "areza"
+    },
+    {
+      "surface": "וּשְׁנִי",
+      "gloss": "mpe shani"
+    },
+    {
+      "surface": "תוֹלַעַת",
+      "gloss": "tolaoat"
+    },
+    {
+      "surface": "וְאֵזֹב",
+      "gloss": "mpe ezobo"
+    }
+  ],
+  "timestamp": "2026-09-03T16:46:12.758934816Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 5:11",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Mpe mikolo nyonso ya Enosh ekokaki mibula mitano mpe nkama libwa mibula, mpe akufaki.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ekokaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mikolo"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ya Enosh"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "mitano"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mibula"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "mpe nkama libwa"
+    },
+    {
+      "surface": "מאות",
+      "gloss": ""
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mibula"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "mpe akufaki"
+    }
+  ],
+  "timestamp": "2026-09-03T15:45:07.259502056Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-kings 6:38",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpe na mbula ya kumi na moko, na sanza ya Bul — yango nde sanza ya mwambe — ndako esilaki na makomi na yango nyonso mpe na mibeko na yango nyonso, mpe atongaki yango mbula sambo.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "Mpe na mbula ya"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "moko"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "kumi na"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "na sanza ya"
+    },
+    {
+      "surface": "בול",
+      "gloss": "Bul"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yango nde"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "sanza ya"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "mwambe"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "esilaki"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "na nyonso"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "makomi na yango"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "mpe na nyonso"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "mibeko na yango"
+    },
+    {
+      "surface": "ויבנהו",
+      "gloss": "mpe atongaki yango"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sambo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mbula"
+    }
+  ],
+  "timestamp": "2026-09-03T18:44:57.543605482Z",
+  "model": "glm-5.3"
+}

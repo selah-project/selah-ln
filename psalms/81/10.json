@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 81,
+  "translation": "Nzambe mopaya akokanama te kati na yo, mpe okokumisa te nzambe ya bapaya.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "akokanama"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kati na yo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nzambe"
+    },
+    {
+      "surface": "זר",
+      "gloss": "mopaya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe ... te"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "okokumisa"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "epai ya nzambe"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "ya bapaya"
+    }
+  ],
+  "timestamp": "2026-09-03T21:20:30.433719136Z",
+  "model": "glm-5.3"
+}

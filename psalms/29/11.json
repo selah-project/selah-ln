@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 29:11",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 29,
+  "translation": "Yawe apesi nguya na ekolo na ye, Yawe abokaki ⟨את⟩ ekolo na ye na kimya.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עז",
+      "gloss": "nguya"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "na ekolo na ye"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "apesi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "abokaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ekolo na ye"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ekolo na ye"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "na kimya"
+    }
+  ],
+  "timestamp": "2026-09-03T21:05:38.351690489Z",
+  "model": "glm-5.3"
+}

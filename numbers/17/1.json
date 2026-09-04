@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 17:1",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 17,
+  "translation": "Mpe Yawe alobaki epai ya Moshe, na koloba ete:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na koloba ete"
+    }
+  ],
+  "timestamp": "2026-09-03T17:10:34.175963981Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 30:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 30,
+  "translation": "Yawe Elohim na ngai, nabengaki yo, mpe opungisaki ngai.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim na ngai"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "nabengaki"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "epai na yo"
+    },
+    {
+      "surface": "ותרפאני",
+      "gloss": "mpe opungisaki ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:06:41.199796196Z",
+  "model": "glm-5.3"
+}

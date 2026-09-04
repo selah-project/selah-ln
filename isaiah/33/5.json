@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 33:5",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 33,
+  "translation": "Yawe amikitaki, mpo azali kofanda likolo; amatisaki Tsion bosambisi mpe bobengi.",
+  "tokens": [
+    {
+      "surface": "נשגב",
+      "gloss": "amikitaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "azali kofanda"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "likolo"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "amatisaki"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsion"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "bosambisi"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "mpe bobengi"
+    }
+  ],
+  "timestamp": "2026-09-03T19:24:13.957532178Z",
+  "model": "glm-5.3"
+}

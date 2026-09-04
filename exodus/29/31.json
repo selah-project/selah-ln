@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 29:31",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 29,
+  "translation": "Mpe ⟨את⟩ ayil ya bomatisi okozwa, mpe okolamba ⟨את⟩ nyama na ye na esika ya boyeki.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Mpe ⟨את⟩",
+      "marks": "ayil ya bomatisi"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ayil"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "ya bomatisi"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "okozwa"
+    },
+    {
+      "surface": "ובשלת",
+      "gloss": "mpe okolamba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyama na ye"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "nyama na ye"
+    },
+    {
+      "surface": "במקם",
+      "gloss": "na esika"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ya boyeki"
+    }
+  ],
+  "timestamp": "2026-09-03T16:31:51.292049671Z",
+  "model": "glm-5.3"
+}

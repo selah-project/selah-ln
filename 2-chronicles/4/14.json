@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 4:14",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "mpe ⟨את⟩ bafondasyon asalaki, mpe ⟨את⟩ basa asalaki o likolo ya bafondasyon",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bafondasyon"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "bafondasyon"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "asalaki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "basa"
+    },
+    {
+      "surface": "הכירות",
+      "gloss": "basa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "asalaki"
+    },
+    {
+      "surface": "על",
+      "gloss": "o likolo ya"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "bafondasyon"
+    }
+  ],
+  "timestamp": "2026-09-03T22:54:38.527418866Z",
+  "model": "glm-5.3"
+}

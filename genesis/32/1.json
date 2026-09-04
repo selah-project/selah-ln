@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 32:1",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 32,
+  "translation": "Mpe Lavan asikolaki na tongo, amonyaki bana na ye mibali mpe bana na ye basi, mpe apambolaki ⟨את⟩ bango; mpe akendaki, mpe akotaki Lavan na esika na ye.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "asikolaki"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "na tongo"
+    },
+    {
+      "surface": "וינשק",
+      "gloss": "mpe amonyaki"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "bana na ye mibali"
+    },
+    {
+      "surface": "וולבנותיו",
+      "gloss": "mpe bana na ye basi"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "mpe apambolaki"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩ bango",
+      "marks": "bango (bana na ye mibali mpe basi)"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "mpe akendaki"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "mpe akotaki"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "na esika na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T16:02:33.613147540Z",
+  "model": "glm-5.3"
+}

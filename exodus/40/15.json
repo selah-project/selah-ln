@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 40:15",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 40,
+  "translation": "Mpe okonyata ⟨את⟩ bango ndenge omonyaki ⟨את⟩ tata na bango, mpe bakosalaka epai na ngai lokola bakohen, mpe bokonyi na bango ekozala na bango lokola bokohen ya ntango nyonso, na bansukulu na bango.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "Mpe okonyata"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bango"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ndenge"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "omonyaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tata na bango"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "tata na bango"
+    },
+    {
+      "surface": "וכהנו",
+      "gloss": "mpe bakosalaka lokola bakohen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "epai na ngai"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "mpe ekozala"
+    },
+    {
+      "surface": "להית",
+      "gloss": "kozala"
+    },
+    {
+      "surface": "להם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "משחתם",
+      "gloss": "bokonyi na bango"
+    },
+    {
+      "surface": "לכהנת",
+      "gloss": "lokola bokohen"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ya ntango nyonso"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "na bansukulu na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:38:59.221222732Z",
+  "model": "glm-5.3"
+}

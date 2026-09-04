@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 89:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 89,
+  "translation": "Nakati boyokani na oyo nalati mokonzi; na David mosalali na ngai nasapaki.",
+  "tokens": [
+    {
+      "surface": "כרתי",
+      "gloss": "nakati"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "boyokani"
+    },
+    {
+      "surface": "לבחירי",
+      "gloss": "na oyo nalati mokonzi"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "nasapaki"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "na David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mosalali na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:22:59.931708274Z",
+  "model": "glm-5.3"
+}

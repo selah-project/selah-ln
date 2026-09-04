@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 22:25",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Soki obenda ⟨na⟩ kobenda sambe ya moninga na yo, kino bokoti ya moi ozongisela yango na ye.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Soki"
+    },
+    {
+      "surface": "חבול",
+      "gloss": "kobenda"
+    },
+    {
+      "surface": "תחבול",
+      "gloss": "obenda"
+    },
+    {
+      "surface": "שלמת",
+      "gloss": "sambe"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "ya moninga na yo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "bokoti"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ya moi"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "ozongisela yango"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T16:25:09.866363130Z",
+  "model": "glm-5.3"
+}

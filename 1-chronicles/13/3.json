@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 13:3",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "mpe tozongisa ⟨את⟩ sanduku ya Elohim wa biso epai na biso, mpo tokanaki yango te na miku ya Shaul.",
+  "tokens": [
+    {
+      "surface": "ונסבה",
+      "gloss": "mpe tozongisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduku"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduku"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wa biso"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "epai na biso"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "דרשנהו",
+      "gloss": "tokanaki yango"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "na miku ya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    }
+  ],
+  "timestamp": "2026-09-03T22:47:19.929494990Z",
+  "model": "glm-5.3"
+}

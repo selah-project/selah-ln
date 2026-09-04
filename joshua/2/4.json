@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 2:4",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe mwasi yango azwaki ⟨את⟩ bato mibale, mpe abombaki bango, mpe alobaki ete: Ya solo, bato bakoki epai na ngai, kasi nayebi te bazwaki nzela nini.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "azwaki"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mwasi yango"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bato mibale"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "bato"
+    },
+    {
+      "surface": "ותצפנו",
+      "gloss": "abombaki bango"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "כן",
+      "gloss": "Ya solo"
+    },
+    {
+      "surface": "באו",
+      "gloss": "bakoki"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "epai na ngai"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "bato"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kasi nayebi te"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "nayebi"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "bazwaki nzela nini"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bango"
+    }
+  ],
+  "timestamp": "2026-09-03T17:44:18.934185347Z",
+  "model": "glm-5.3"
+}

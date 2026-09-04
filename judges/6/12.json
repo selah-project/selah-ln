@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 6:12",
+  "book": "judges",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpe motinda ya Yawe amonanaki na ye, mpe alobaki na ye: Yawe azali na yo, moto ya nguya ya makasi.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "amonanaki"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "motinda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "azali na yo"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "moto ya nguya"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "ya makasi"
+    }
+  ],
+  "timestamp": "2026-09-03T17:58:34.239518170Z",
+  "model": "glm-5.3"
+}

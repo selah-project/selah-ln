@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 49:11",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 49,
+  "translation": "Ete ⟨moto⟩ amonaka banzego bakufaka, elongo nsemba na mopaya babungaka, mpe batikaka bonkita na bango na bato mosusu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "amonaka"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "banzego"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "bakufaka"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "elongo"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "nsemba"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "mpe mopaya"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "babungaka"
+    },
+    {
+      "surface": "ועזבו",
+      "gloss": "mpe batikaka"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "na bato mosusu"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "bonkita na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T23:35:26.244445842Z",
+  "model": "glm-5.3"
+}

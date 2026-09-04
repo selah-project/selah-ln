@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 118:12",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 118,
+  "translation": "Bisengelaki ngai lokola nyosi; bazimaki lokola moto ya bikakasi; na nkombo ya Yawe nakataki bango.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "bisengelaki ngai"
+    },
+    {
+      "surface": "כדבורים",
+      "gloss": "lokola nyosi"
+    },
+    {
+      "surface": "דעכו",
+      "gloss": "bazimaki"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "lokola moto"
+    },
+    {
+      "surface": "קוצים",
+      "gloss": "ya bikakasi"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "na nkombo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kasi"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "nakataki bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:30:29.738818149Z",
+  "model": "glm-5.3"
+}

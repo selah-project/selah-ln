@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 29:23",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 29,
+  "translation": "Mpe na mpokwa Lavan azwaki ⟨את⟩ Lea mwana na ye mwasi, mpe amemaki ⟨את⟩ ye epai na ye, mpe akotaki epai na ye.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mpe"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "na mpokwa"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "azwaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lea"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "mwana na ye mwasi"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "amemaki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ye",
+      "marks": "Lea"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "epai na ye"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "akotaki"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "epai na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T15:58:39.106529758Z",
+  "model": "glm-5.3"
+}

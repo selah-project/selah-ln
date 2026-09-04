@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 62:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 62,
+  "translation": "Kaka epai ya Elohim molimo na ngai ezali na kimia; uta na ye ebombokeli na ngai.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Kaka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "ezali na kimia"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "molimo na ngai"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "uta na ye"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "ebombokeli na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T23:35:28.343996450Z",
+  "model": "glm-5.3"
+}

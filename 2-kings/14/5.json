@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 14:5",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Mpe tango bokonzi bomesanimaki na loboko na ye, akubaki ⟨את⟩ basali na ye, baye bakubaki ⟨את⟩ mokonzi tata na ye.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mpe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "tango"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "bomesanimaki"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "bokonzi"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "na loboko na ye"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "akubaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "basali na ye"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "basali na ye"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "baye bakubaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mokonzi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "tata na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T19:05:52.322995589Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 61:6",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 61,
+  "translation": "Mpe bino, bakoheni ya Yawe bakobenga bino, basaleli ya Elohim na bisu, bokoloba na bino: bokolia mbongo ya bikolo, mpe na nkembo na bango bokoyemba.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "mpe bino"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "bakoheni ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "bakobenga bino"
+    },
+    {
+      "surface": "משרתי",
+      "gloss": "basaleli ya"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim na bisu"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "bakoloba"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "na bino"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "mbongo"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ya bikolo"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "bokolia"
+    },
+    {
+      "surface": "ובכבודם",
+      "gloss": "mpe na nkembo na bango"
+    },
+    {
+      "surface": "תתימרו",
+      "gloss": "bokoyemba"
+    }
+  ],
+  "timestamp": "2026-09-03T19:38:56.283581471Z",
+  "model": "glm-5.3"
+}

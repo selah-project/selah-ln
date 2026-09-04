@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 10:1",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Mpe Rehavam akendaki na Shekem, mpo na Shekem Israel nyonso eutaki koya mpo bakoma ⟨את⟩ ye mokonzi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Mpe akendaki"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehavam"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "na Shekem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "na Shekem"
+    },
+    {
+      "surface": "באו",
+      "gloss": "eutaki koya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "mpo bakoma mokonzi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ye"
+    }
+  ],
+  "timestamp": "2026-09-03T23:42:34.250554168Z",
+  "model": "glm-5.3"
+}

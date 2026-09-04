@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 1:28",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Wana bakobenga ngai, mpe nakoyanola te; baluka ngai na tongo, mpe bakokuta ngai te.",
+  "tokens": [
+    {
+      "surface": "אָז",
+      "gloss": "wana"
+    },
+    {
+      "surface": "יִקְרָאֻנְנִי",
+      "gloss": "bakobenga ngai"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "אֶעֱנֶה",
+      "gloss": "nakoyanola"
+    },
+    {
+      "surface": "יְשַׁחֲרֻנְנִי",
+      "gloss": "baluka ngai na tongo"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "יִמְצָאֻנְנִי",
+      "gloss": "bakokuta ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:37:26.155623997Z",
+  "model": "glm-5.3"
+}

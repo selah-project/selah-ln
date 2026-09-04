@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 3:9",
+  "book": "jonah",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Nani ayebi? Elohim akoki kozonga mpe kokweya na mawa, mpe akozonga na mbuma ya likebi na ye, mpe tokobuka te.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Nani"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ayebi"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "akoki kozonga"
+    },
+    {
+      "surface": "ונחם",
+      "gloss": "mpe kokweya na mawa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "mpe akozonga"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "na mbuma"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ya likebi na ye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "נאבד",
+      "gloss": "tokobuka"
+    }
+  ],
+  "timestamp": "2026-09-03T20:46:46.192640341Z",
+  "model": "glm-5.3"
+}

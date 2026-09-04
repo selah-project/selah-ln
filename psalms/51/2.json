@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 51,
+  "translation": "Ntango navi Natan ayeaki epai ye, na tango ayeaki epai Bat-Sheva.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "ntango ayeaki"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "epai ye"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "navi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "na tango"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ayeaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    }
+  ],
+  "timestamp": "2026-09-03T21:13:24.864815280Z",
+  "model": "glm-5.3"
+}

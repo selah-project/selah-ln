@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 140:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 140,
+  "translation": "Basongolaki mino na bango lokola nyoka; myanga ya nsoba ezali na nse ya milonza na bango. Selah.",
+  "tokens": [
+    {
+      "surface": "שננו",
+      "gloss": "Basongolaki"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "mino na bango"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "lokola"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "nyoka"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "myanga"
+    },
+    {
+      "surface": "עכשוב",
+      "gloss": "ya nsoba"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "na nse ya"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "milonza na bango"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-03T21:34:48.641974184Z",
+  "model": "glm-5.3"
+}

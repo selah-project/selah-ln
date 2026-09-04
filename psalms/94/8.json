@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 94:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 94,
+  "translation": "Botosa, bato ya mabe kati na bato, mpe bato ya loto: tango nini bozala na mayele?",
+  "tokens": [
+    {
+      "surface": "בינו",
+      "gloss": "botosa"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "bato ya mabe"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "kati na bato"
+    },
+    {
+      "surface": "וכסילים",
+      "gloss": "mpe bato ya loto"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "tango nini"
+    },
+    {
+      "surface": "תשכילו",
+      "gloss": "bozala na mayele"
+    }
+  ],
+  "timestamp": "2026-09-03T21:24:01.905673190Z",
+  "model": "glm-5.3"
+}

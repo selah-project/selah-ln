@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 21:16",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Mpe moyibi ya moto, mpe soki amisi ye mpe ebimi ye na maboko na ye, liwa, akobwelama na liwa.",
+  "tokens": [
+    {
+      "surface": "וגנב",
+      "gloss": "mpe moyibi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ya moto"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "mpe soki amisi ye"
+    },
+    {
+      "surface": "ונמצא",
+      "gloss": "mpe ebimi ye"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "na maboko na ye"
+    },
+    {
+      "surface": "מות",
+      "gloss": "liwa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "akobwelama na liwa"
+    }
+  ],
+  "timestamp": "2026-09-03T16:25:30.672524578Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 31:22",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 31,
+  "translation": "Kaka ⟨את⟩ Sanza, mpe ⟨את⟩ feda, ⟨את⟩ mkoba, ⟨את⟩ libanga ya mongo, ⟨את⟩ eteni, mpe ⟨את⟩ plum",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Kaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sanza"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "Sanza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "feda"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "feda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mkoba"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "mkoba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "libanga ya mongo"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "libanga ya mongo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eteni"
+    },
+    {
+      "surface": "הבדיל",
+      "gloss": "eteni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "plum"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "plum"
+    }
+  ],
+  "timestamp": "2026-09-03T17:18:38.821915770Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 2:39",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe Azaria abotaki ⟨את⟩ Helets, mpe Helets abotaki ⟨את⟩ Elasaha.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "Mpe Azaria"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "abotaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Helets"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "Helets"
+    },
+    {
+      "surface": "וחלץ",
+      "gloss": "mpe Helets"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "abotaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elasaha"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "Elasaha"
+    }
+  ],
+  "timestamp": "2026-09-03T22:39:50.101757081Z",
+  "model": "glm-5.3"
+}

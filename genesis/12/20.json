@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 12:20",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Mpe Parao atesaki bato epai ya ye, mpe batindaki ⟨את⟩ ye, mpe ⟨את⟩ mwasi na ye, mpe ⟨את⟩ nyonso oyo azalaki na ye.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "mpe atesaki"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "epai ya ye"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "bato"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "mpe batindaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ye",
+      "marks": "ye — Avram"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mwasi na ye"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mwasi na ye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "nyonso oyo azalaki na ye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T15:49:50.266476989Z",
+  "model": "glm-5.3"
+}

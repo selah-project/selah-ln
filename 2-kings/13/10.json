@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 13:10",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Na mbula ntuku misato na sambo ya Yoash mokonzi ya Yehuda, Yehoash mwana ya Yehoahaz aboundi koyangama likolo ya Israel na Shomron, mbula zomi na motoba.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "na mbula"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ntuku misato"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "mpe sambo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mbula"
+    },
+    {
+      "surface": "ליואש",
+      "gloss": "ya Yoash"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "aboundi koyangama"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Yehoash"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoahaz"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "na Shomron"
+    },
+    {
+      "surface": "שש",
+      "gloss": "motoba... zomi"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "zomi na motoba"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mbula"
+    }
+  ],
+  "timestamp": "2026-09-03T19:04:35.408376499Z",
+  "model": "glm-5.3"
+}

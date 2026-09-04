@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 37:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 37,
+  "translation": "Mpe se moke kasi, mpe mabe azali ⟨te⟩; mpe otali malamu esika na ye, mpe ye azali ⟨te⟩.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "mpe se"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "moke kasi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mpe azali ⟨te⟩"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "והתבוננת",
+      "gloss": "mpe otali malamu"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "esika na ye"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "mpe ye azali ⟨te⟩"
+    }
+  ],
+  "timestamp": "2026-09-03T21:08:40.689339914Z",
+  "model": "glm-5.3"
+}

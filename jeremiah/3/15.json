@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 3:15",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe nakopesa bino balisa bimbongo na motema na ngai, mpe bakolalisa ⟨את⟩ bino na boyebi mpe bwanya.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "mpe nakopesa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bino"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "balisa bimbongo"
+    },
+    {
+      "surface": "כלבי",
+      "gloss": "na motema na ngai"
+    },
+    {
+      "surface": "ורעו",
+      "gloss": "mpe bakolalisa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "bino"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "boyebi"
+    },
+    {
+      "surface": "והשכיל",
+      "gloss": "mpe bwanya"
+    }
+  ],
+  "timestamp": "2026-09-03T23:28:17.419031620Z",
+  "model": "glm-5.3"
+}

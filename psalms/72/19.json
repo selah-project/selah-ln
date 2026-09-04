@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 72:19",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 72,
+  "translation": "Mpe boboto ezali na nkombo ya nkembo na ye libela, mpe nkembo na ye ejwi ⟨את⟩ mabele mobimba; Ame, mpe Ame.",
+  "tokens": [
+    {
+      "surface": "וברוך",
+      "gloss": "Mpe boboto ezali na"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nkombo ya"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "nkembo na ye"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "libela"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "mpe ejwi"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "nkembo na ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabele mobimba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mobimba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Ame"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "mpe Ame"
+    }
+  ],
+  "timestamp": "2026-09-03T21:17:43.753922812Z",
+  "model": "glm-5.3"
+}

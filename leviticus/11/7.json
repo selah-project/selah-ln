@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 11:7",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpe ⟨את⟩ nguruwe — mpo yango abongisaka lokasa, mpe ekabami kabwa lokasa na yango, kasi biloko oyo amelaki azongisaka te — mabe yango epai na bino.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "nguruwe"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "nguruwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "abongisaka"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "lokasa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yango"
+    },
+    {
+      "surface": "ושסע",
+      "gloss": "mpe ekabami kabwa"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "kabwa"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "lokasa"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "mpe yango"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "biloko oyo amelaki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יגר",
+      "gloss": "azongisaka"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yango"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "epai na bino"
+    }
+  ],
+  "timestamp": "2026-09-03T23:15:12.235448325Z",
+  "model": "glm-5.3"
+}

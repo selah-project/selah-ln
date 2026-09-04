@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 7:7",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "⟨את⟩ bashari mibale mpe ⟨את⟩ ngombe minei apesaki epai ya bana ya Gershon, na ndenge ya mosala na bango.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bashari mibale"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "bashari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "ngombe minei"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "minei"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ngombe"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "apesaki"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "epai ya bana ya"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gershon"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "na ndenge ya"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "mosala na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T17:01:44.196442885Z",
+  "model": "glm-5.3"
+}

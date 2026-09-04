@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 4:15",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Ajimaats na Naftali; ye mpe azwaki ⟨את⟩ Bashemata mwana ya Shelomo lokola mwasi.",
+  "tokens": [
+    {
+      "surface": "אחימעץ",
+      "gloss": "Ajimaats"
+    },
+    {
+      "surface": "בנפתלי",
+      "gloss": "na Naftali"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ye"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "azwaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bashemata"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Bashemata"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "lokola mwasi"
+    }
+  ],
+  "timestamp": "2026-09-03T18:42:59.983205847Z",
+  "model": "glm-5.3"
+}

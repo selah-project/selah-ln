@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 26:3",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "Mekau mpo na farasi, mokanga mpo na bonda, mpe nzete mpo na lomba ya bafoboro.",
+  "tokens": [
+    {
+      "surface": "שוט",
+      "gloss": "mekau"
+    },
+    {
+      "surface": "לסוס",
+      "gloss": "mpo na farasi"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "mokanga"
+    },
+    {
+      "surface": "לחמור",
+      "gloss": "mpo na bonda"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "mpe nzete"
+    },
+    {
+      "surface": "לגו",
+      "gloss": "mpo na lomba"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "ya bafoboro"
+    }
+  ],
+  "timestamp": "2026-09-03T21:47:42.546271552Z",
+  "model": "glm-5.3"
+}

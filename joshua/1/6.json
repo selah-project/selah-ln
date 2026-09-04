@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 1:6",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Zala makasi mpe zala na mokemba, mpo ete yo nde okopesa ⟨את⟩ bato oyo bofungwa ⟨את⟩ mabele oyo natisaki liloba epai ya bankoko na bango, mpo na kopesa bango.",
+  "tokens": [
+    {
+      "surface": "חזק",
+      "gloss": "Zala makasi"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "mpe zala na mokemba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "תנחיל",
+      "gloss": "okopesa bofungwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bato oyo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "natisaki liloba"
+    },
+    {
+      "surface": "לאבותם",
+      "gloss": "epai ya bankoko na bango"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "mpo na kopesa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bango"
+    }
+  ],
+  "timestamp": "2026-09-03T17:44:51.285956818Z",
+  "model": "glm-5.3"
+}

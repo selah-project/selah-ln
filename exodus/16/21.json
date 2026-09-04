@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 16:21",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Mpe bokusaki yango ⟨את⟩ tongo na tongo, moto na moto na bolengi ya kolia na ye; mpe ntango elangi ekumaki na moto, yango ekangolamaki.",
+  "tokens": [
+    {
+      "surface": "וילקטו",
+      "gloss": "bokusaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yango"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "tongo"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "na tongo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto na moto"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "na bolengi"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "ya kolia na ye"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "mpe ntango elangi ekumaki na moto"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "elangi"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "yango ekangolamaki"
+    }
+  ],
+  "timestamp": "2026-09-03T16:22:30.915254717Z",
+  "model": "glm-5.3"
+}

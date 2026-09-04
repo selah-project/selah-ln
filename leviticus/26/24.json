@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 26:24",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "mpe nakolenda, ata ngai, na bino na kolendana, mpe nakobeta ⟨את⟩ bino, ata ngai, sambo likolo ya masumu na bino.",
+  "tokens": [
+    {
+      "surface": "והלכתי",
+      "gloss": "nakolenda"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ata"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "na bino"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "na kolendana"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "mpe nakobeta"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ bino"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ata"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sambo"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "masumu na bino"
+    }
+  ],
+  "timestamp": "2026-09-03T16:56:43.725700766Z",
+  "model": "glm-5.3"
+}

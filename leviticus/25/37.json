@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 25:37",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "⟨את⟩ kasere na yo okopesa te epai na ye na ntina, mpe bilei na yo okopesa te na bokasi.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kasere na yo"
+    },
+    {
+      "surface": "כספך",
+      "gloss": "kasere na yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "okopesa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "epai na ye"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "na ntina"
+    },
+    {
+      "surface": "ובמרבית",
+      "gloss": "mpe na bokasi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "okopesa"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "bilei na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T16:55:06.613908663Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 101:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 101,
+  "translation": "Nakotya te likambo ya Belial liboso ya miso na ngai; misala ya baoyo bazali koboya nzela nazali koboya na yango mpenza, yango ekokangama na ngai te.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "nakotya"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "miso na ngai"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "likambo"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Belial"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "misala"
+    },
+    {
+      "surface": "סטים",
+      "gloss": "ya baoyo bazali koboya nzela"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "nazali koboya na yango mpenza"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ידבק",
+      "gloss": "ekokangama"
+    },
+    {
+      "surface": "בי",
+      "gloss": "na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:26:01.712681341Z",
+  "model": "glm-5.3"
+}

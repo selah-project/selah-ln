@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 33:2",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 33,
+  "translation": "Mpe Moshe akomaki ⟨את⟩ bibimi na bango na bokende na bango, na monoko ya Yawe; mpe oyo ezali bokende na bango na bibimi na bango.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "akomaki"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bibimi na bango"
+    },
+    {
+      "surface": "מוצאיהם",
+      "gloss": "bibimi na bango"
+    },
+    {
+      "surface": "למסעיהם",
+      "gloss": "na bokende na bango"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "פי",
+      "gloss": "monoko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yawe"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "mpe oyo"
+    },
+    {
+      "surface": "מסעיהם",
+      "gloss": "bokende na bango"
+    },
+    {
+      "surface": "למוצאיהם",
+      "gloss": "na bibimi na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T17:21:18.322675184Z",
+  "model": "glm-5.3"
+}

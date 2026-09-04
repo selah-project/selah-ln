@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 78:24",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 78,
+  "translation": "Mpe amekelaki bango mana mpo na kolia, mpe elongo ya likolo apesaki bango.",
+  "tokens": [
+    {
+      "surface": "וימטר",
+      "gloss": "amekelaki"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "bango"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mana"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "mpo na kolia"
+    },
+    {
+      "surface": "ודגן",
+      "gloss": "mpe elongo"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ya likolo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "apesaki"
+    },
+    {
+      "surface": "למו",
+      "gloss": "bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:19:23.386509925Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 142:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 142,
+  "translation": "Molimo na ngai likolo ya ngai ezali kokweka; mpe yo oyebi nzela na ngai; na nzela oyo nazalaka kolakata babombaki lilanda epai ya ngai.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "ezali kokweka"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "likolo ya ngai"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "Molimo na ngai"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "mpe yo"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "oyebi"
+    },
+    {
+      "surface": "נתיבתי",
+      "gloss": "nzela na ngai"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "na nzela"
+    },
+    {
+      "surface": "זו",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "nazalaka kolakata"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "babombaki"
+    },
+    {
+      "surface": "פח",
+      "gloss": "lilanda"
+    },
+    {
+      "surface": "לי",
+      "gloss": "epai ya ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T23:35:51.732789024Z",
+  "model": "glm-5.3"
+}

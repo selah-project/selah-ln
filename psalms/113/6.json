@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 113:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 113,
+  "translation": "Oyo azali kokitisma yango mpo na komona, na likolo mpe na mabele.",
+  "tokens": [
+    {
+      "surface": "המשפילי",
+      "gloss": "oyo azali kokitisma"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "mpo na komona"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "na likolo"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "mpe na mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T21:29:12.460931705Z",
+  "model": "glm-5.3"
+}

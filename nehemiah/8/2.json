@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 8:2",
+  "book": "nehemiah",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe Ezra kohen amemaki ⟨את⟩ Tora liboso ya lisangani, kobanda na mibali tii na basi, mpe nyonso oyo azalaki kososola mpo na koyoka, mokolo moko ya sanza ya sambo.",
+  "tokens": [
+    {
+      "surface": "ויביא",
+      "gloss": "mpe amemaki"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezra"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tora"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "lisangani"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "kobanda na mibali"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "tii na"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "basi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe nyonso"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "oyebi kososola"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "mpo na koyoka"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "mokolo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "moko"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ya sanza"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ya sambo"
+    }
+  ],
+  "timestamp": "2026-09-03T22:37:50.769909616Z",
+  "model": "glm-5.3"
+}

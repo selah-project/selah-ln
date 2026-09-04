@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 11:22",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "⟨את⟩ bango oyo kati na bango bokolia: ⟨את⟩ arbeh ya ndenge na yango, mpe ⟨את⟩ solam ya ndenge na yango, mpe ⟨את⟩ hargol ya ndenge na yango, mpe ⟨את⟩ hagab ya ndenge na yango.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bango oyo"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bango oyo"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "kati na bango"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "bokolia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arbeh"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "arbeh"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "ya ndenge na yango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "solam"
+    },
+    {
+      "surface": "הסלעם",
+      "gloss": "solam"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "ya ndenge na yango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "hargol"
+    },
+    {
+      "surface": "החרגל",
+      "gloss": "hargol"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "ya ndenge na yango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "hagab"
+    },
+    {
+      "surface": "החגב",
+      "gloss": "hagab"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "ya ndenge na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:43:42.648555023Z",
+  "model": "glm-5.3"
+}

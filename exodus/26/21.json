@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 26:21",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "Mpe bituliki na bango ntuku minei ya kasef; bituliki mibale na nse ya etanda moko, mpe bituliki mibale na nse ya etanda ⟨mosusu⟩.",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "mpe ntuku minei"
+    },
+    {
+      "surface": "אדניהם",
+      "gloss": "bituliki na bango"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kasef"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "bituliki"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "na nse ya"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "etanda"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "moko"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "mpe mibale"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "bituliki"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "na nse ya"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "etanda"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "moko"
+    }
+  ],
+  "timestamp": "2026-09-03T16:27:13.199318981Z",
+  "model": "glm-5.3"
+}

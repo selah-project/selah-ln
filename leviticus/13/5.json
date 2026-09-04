@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 13:5",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Mpe kohen amona ye na mokolo ya nsambo, mpe talá, belo etelemi na miso na ye, belo epanzi te na lokolo, mpe kohen akanga ye mikolo nsambo lisusu.",
+  "tokens": [
+    {
+      "surface": "וראהו",
+      "gloss": "mpe amona ye"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na mokolo"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ya nsambo"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mpe talá"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "belo"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "etelemi"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "na miso na ye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "epanzi"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "belo"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "na lokolo"
+    },
+    {
+      "surface": "והסגירו",
+      "gloss": "mpe akanga ye"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ya nsambo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mikolo"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "lisusu"
+    }
+  ],
+  "timestamp": "2026-09-03T16:46:47.860793647Z",
+  "model": "glm-5.3"
+}

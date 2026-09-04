@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 10:11",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Mpe mpo na kolakisa ⟨את⟩ bana ya Israel ⟨את⟩ mibeko nyonso oyo Yawe alobaki na bango na maboko ya Moshe.",
+  "tokens": [
+    {
+      "surface": "ולהורת",
+      "gloss": "mpo na kolakisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bana ya Israel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mibeko nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "mibeko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "na maboko ya"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-03T16:44:26.279031712Z",
+  "model": "glm-5.3"
+}

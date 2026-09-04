@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 148:12",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 148,
+  "translation": "Baselenge mpe ata bana basi, bambuta elongo na bana.",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "baselenge"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "mpe ata"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "bana basi"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "bambuta"
+    },
+    {
+      "surface": "עם",
+      "gloss": "elongo na"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "bana"
+    }
+  ],
+  "timestamp": "2026-09-03T21:36:18.071911252Z",
+  "model": "glm-5.3"
+}

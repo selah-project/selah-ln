@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 4:4",
+  "book": "hosea",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Kasi moto — kanganisa te, mpe tokanisa moto te; mpe bato na yo bazali lokola bakanganisi ya kohen.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Kasi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "kanganisa"
+    },
+    {
+      "surface": "ו אל",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "יוכח",
+      "gloss": "tokanisa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "ו עמך",
+      "gloss": "mpe bato na yo"
+    },
+    {
+      "surface": "כ מריבי",
+      "gloss": "lokola bakanganisi"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "ya kohen"
+    }
+  ],
+  "timestamp": "2026-09-03T20:38:38.725976930Z",
+  "model": "glm-5.3"
+}

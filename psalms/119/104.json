@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 104,
+  "ref": "psalms 119:104",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Na mitinda na yo nazwi mayele; mpo na yango nakoyi nzela nyonso ya lokuta.",
+  "tokens": [
+    {
+      "surface": "מפקודיך",
+      "gloss": "Na mitinda na yo"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "nazwi mayele"
+    },
+    {
+      "surface": "על",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "nakoyi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "nzela"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lokuta"
+    }
+  ],
+  "timestamp": "2026-09-03T21:31:26.160485588Z",
+  "model": "glm-5.3"
+}

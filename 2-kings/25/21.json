@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 25:21",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Mokonzi ya Bavel abundaki ⟨את⟩ bango mpe abomaki bango na Rivla, na mabele ya Hamat; mpe Yehuda bawutisaki kuna na mabele na ye.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "abundaki"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "Mokonzi ya Bavel"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Mokonzi"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "וימיתם",
+      "gloss": "mpe abomaki bango"
+    },
+    {
+      "surface": "ברבלה",
+      "gloss": "na Rivla"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "mpe bawutisaki"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "mabele na ye"
+    }
+  ],
+  "timestamp": "2026-09-04T00:21:19.668604919Z",
+  "model": "glm-5.3"
+}

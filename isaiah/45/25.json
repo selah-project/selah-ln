@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 45:25",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 45,
+  "translation": "Na Yawe libota ya Israel nyonso ekosangisama sembo mpe ekoyemba nkembo.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "Na Yawe"
+    },
+    {
+      "surface": "יצדקו",
+      "gloss": "ekosangisama sembo"
+    },
+    {
+      "surface": "ויתהללו",
+      "gloss": "mpe ekoyemba nkembo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "libota"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    }
+  ],
+  "timestamp": "2026-09-03T19:31:45.647453617Z",
+  "model": "glm-5.3"
+}

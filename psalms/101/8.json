@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 101:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 101,
+  "translation": "Na tongo na tongo nakolimwisa babubi nyonso ya mabele, mpo na kokata kowuta na mboka ya Yawe bato nyonso ya misala mabe.",
+  "tokens": [
+    {
+      "surface": "לבקרים",
+      "gloss": "na-tongo-na-tongo"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "nakolimwisa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "רשעי",
+      "gloss": "babubi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "mpo-na-kokata"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "kowuta-na-mboka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "bato-ya"
+    },
+    {
+      "surface": "און",
+      "gloss": "misala-mabe"
+    }
+  ],
+  "timestamp": "2026-09-03T21:26:49.891323288Z",
+  "model": "glm-5.3"
+}

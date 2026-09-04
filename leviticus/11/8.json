@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 11:8",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Bongo na bango bokolia te, mpe na nzoto na bango ya bakufi bokokangama te; mabe bango epai na bino.",
+  "tokens": [
+    {
+      "surface": "מבשרם",
+      "gloss": "bongo na bango"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "bokolia"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "mpe na nzoto na bango ya bakufi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "bokokangama"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "הם",
+      "gloss": "bango"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "epai na bino"
+    }
+  ],
+  "timestamp": "2026-09-03T23:15:12.235721708Z",
+  "model": "glm-5.3"
+}

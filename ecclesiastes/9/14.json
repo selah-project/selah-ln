@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 9:14",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Engumba ya moke, mpe bato na yango mwambe; mpe mokonzi monene ayeaki epai na yango, mpe azingaki ⟨את⟩ yango, mpe akangaki likolo na yango mikangisi ya minene.",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "engumba"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "ya moke"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "mpe bato"
+    },
+    {
+      "surface": "בה",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "mwambe"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "mpe ayeaki"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "epai na yango"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "monene"
+    },
+    {
+      "surface": "וסבב",
+      "gloss": "mpe azingaki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "engumba (na yango)"
+    },
+    {
+      "surface": "ובנה",
+      "gloss": "mpe akangaki"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "likolo na yango"
+    },
+    {
+      "surface": "מצודים",
+      "gloss": "mikangisi"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "ya minene"
+    }
+  ],
+  "timestamp": "2026-09-03T23:38:55.665997575Z",
+  "model": "glm-5.3"
+}

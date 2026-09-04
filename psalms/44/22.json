@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 44:22",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 44,
+  "translation": "Elohim akolaka yango te? Mpo ye ayebi bibombami ya motema.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "te"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "akolaka"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "yango"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ye"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ayebi"
+    },
+    {
+      "surface": "תעלמות",
+      "gloss": "bibombami"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ya motema"
+    }
+  ],
+  "timestamp": "2026-09-03T21:11:04.185622225Z",
+  "model": "glm-5.3"
+}

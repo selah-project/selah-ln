@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 109:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 109,
+  "translation": "Mpo na mokambi, nzembo ya David. Elohim ya lokumu na ngai, okanga monoko te.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Mpo na mokambi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "nzembo"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ya"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "lokumu na ngai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "okanga monoko"
+    }
+  ],
+  "timestamp": "2026-09-03T21:29:42.661681674Z",
+  "model": "glm-5.3"
+}

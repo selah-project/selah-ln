@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 30:16",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 30,
+  "translation": "Mpe soki abebisaki ⟨את⟩ bango sima ya koyoka na ye, ye moko akobwaka ⟨את⟩ mabe na ye.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "mpe soki"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "abebisaki"
+    },
+    {
+      "surface": "יפר",
+      "gloss": "abebisa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bango",
+      "marks": "bango"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sima"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ya koyoka na ye"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "mpe akobwaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabe na ye"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "mabe na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T17:20:15.999050037Z",
+  "model": "glm-5.3"
+}

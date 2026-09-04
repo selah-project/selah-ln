@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 6:5",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Okolinga ⟨את⟩ Yawe Elohim na yo na motema na yo mobimba, mpe na molimo na yo mobimba, mpe na makasi na yo mobimba.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "Okolinga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim na yo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na mobimba ya"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "motema na yo"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "mpe na mobimba ya"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "molimo na yo"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "mpe na mobimba ya"
+    },
+    {
+      "surface": "מאדך",
+      "gloss": "makasi na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T17:24:35.956019807Z",
+  "model": "glm-5.3"
+}

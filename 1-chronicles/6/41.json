@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 6:41",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpe ⟨את⟩ shule ya mboka mpe ⟨את⟩ bikampu na yango bapesaki na Kalev mwana ya Yefune.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "shule"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "shule"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ya mboka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bikampu na yango"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "bikampu na yango"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "bapesaki"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "na Kalev"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "ya Yefune"
+    }
+  ],
+  "timestamp": "2026-09-03T22:42:49.076612175Z",
+  "model": "glm-5.3"
+}

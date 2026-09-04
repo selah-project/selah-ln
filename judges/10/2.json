@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 10:2",
+  "book": "judges",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Mpe ajudisaki ⟨את⟩ Israel mbula ntuku mibale na misato; mpe akufaki, mpe bakundisaki ye na Shamir.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "mpe ajudisaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ntuku mibale"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "na misato"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mbula"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "mpe akufaki"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "mpe bakundisaki ye"
+    },
+    {
+      "surface": "בשמיר",
+      "gloss": "na Shamir"
+    }
+  ],
+  "timestamp": "2026-09-03T18:02:02.190947048Z",
+  "model": "glm-5.3"
+}

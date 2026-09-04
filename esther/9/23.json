@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "esther 9:23",
+  "book": "esther",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Mpe Bayuda bokaki ⟨את⟩ oyo bakolibaki kosala, mpe ⟨את⟩ oyo Mordekai akomaki epai na bango",
+  "tokens": [
+    {
+      "surface": "וקבל",
+      "gloss": "Mpe bokaki"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Bayuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "bakolibaki"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kosala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "oyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "akomaki"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekai"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "epai na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T22:19:47.110666163Z",
+  "model": "glm-5.3"
+}

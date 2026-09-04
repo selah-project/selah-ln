@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 59:13",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 59,
+  "translation": "Bokosi ya monoko na bango, liloba ya mipeni na bango — bakangama na lokumu na bango, mpe na maledision mpe na lokuta balobaka.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "bokosi"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "monoko na bango"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "liloba"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "mipeni na bango"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "mpe bakangama"
+    },
+    {
+      "surface": "בגאונם",
+      "gloss": "na lokumu na bango"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "mpe na maledision"
+    },
+    {
+      "surface": "ומכחש",
+      "gloss": "mpe na lokuta"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "balobaka"
+    }
+  ],
+  "timestamp": "2026-09-03T21:15:12.221348454Z",
+  "model": "glm-5.3"
+}

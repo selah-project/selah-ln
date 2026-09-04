@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 23:3",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Mpe Avraham atelemaki uta liboso ya mbombamoyo na ye, mpe alobaki na bana ya Het, alobaki ete:",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "atelemaki"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "uta"
+    },
+    {
+      "surface": "פני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "mbombamoyo na ye"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "חת",
+      "gloss": "ya Het"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "alobaki ete"
+    }
+  ],
+  "timestamp": "2026-09-03T15:54:48.871988952Z",
+  "model": "glm-5.3"
+}

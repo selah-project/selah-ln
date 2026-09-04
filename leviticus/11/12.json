@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 11:12",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Nyonso oyo ezali na lipa te mpe makwakwa te na mai, ekweso yango ezali na bino.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Nyonso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ezali … te"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "lipa"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "mpe makwakwa"
+    },
+    {
+      "surface": "במים",
+      "gloss": "na mai"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "ekweso"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yango"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "na bino"
+    }
+  ],
+  "timestamp": "2026-09-03T16:43:52.966938133Z",
+  "model": "glm-5.3"
+}

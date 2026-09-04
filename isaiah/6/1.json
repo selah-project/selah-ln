@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 6:1",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Na mobu ya liwa ya mokonzi Uziya, namoni ⟨את⟩ Adonai afandi likolo ya kiti, ya likolo mpe ya kotombama, mpe nsemba na ye ezalaki kofula ⟨את⟩ tempele.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "Na mobu ya"
+    },
+    {
+      "surface": "מות",
+      "gloss": "liwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "Uziya"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "mpe namoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Adonai"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "afandi"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "kiti"
+    },
+    {
+      "surface": "רם",
+      "gloss": "ya likolo"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "mpe ya kotombama"
+    },
+    {
+      "surface": "ושוליו",
+      "gloss": "mpe nsemba na ye"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "ezalaki kofula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tempele"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "tempele"
+    }
+  ],
+  "timestamp": "2026-09-03T19:15:54.981873300Z",
+  "model": "glm-5.3"
+}

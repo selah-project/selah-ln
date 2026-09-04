@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 112:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 112,
+  "translation": "Malamu moto, oyo apesaka ngolu mpe apelaka; akanisaka makambo na ye na bosembo.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Malamu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "opesaka ngolu"
+    },
+    {
+      "surface": "ומלוה",
+      "gloss": "mpe apelaka"
+    },
+    {
+      "surface": "יכלכל",
+      "gloss": "akanisaka"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "makambo na ye"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "na bosembo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:29:30.901768969Z",
+  "model": "glm-5.3"
+}

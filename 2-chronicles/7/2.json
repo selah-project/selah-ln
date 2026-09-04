@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 7:2",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mpe bakohen bakokaki te kokota na ndako ya Yawe, mpo nkembo ya Yawe etondaki ⟨את⟩ ndako ya Yawe.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "bakokaki"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "bakohen"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "kokota"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "etondaki"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "nkembo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndako ya Yawe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T22:56:36.571245545Z",
+  "model": "glm-5.3"
+}

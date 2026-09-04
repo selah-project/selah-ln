@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 58:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 58,
+  "translation": "Soki solo, na bobemi boyanoli bosolo, mpe bana ya bato bokebaka bolungami?",
+  "tokens": [
+    {
+      "surface": "האמנם",
+      "gloss": "soki solo"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "na bobemi"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "bosolo"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "boyanoli"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "bolungami"
+    },
+    {
+      "surface": "תשפטו",
+      "gloss": "bokebaka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "bato"
+    }
+  ],
+  "timestamp": "2026-09-03T21:14:28.885861464Z",
+  "model": "glm-5.3"
+}

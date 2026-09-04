@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 138:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 138,
+  "translation": "Soki nande na kati ya mawa, obikisi ngai; na likunya ya banguna na ngai okotisi loboko na yo, mpe loboko na yo ya mobali osalisi ngai.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Soki"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "nande"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "na kati"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ya mawa"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "obikisi ngai"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "אף",
+      "gloss": "likunya"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ya banguna na ngai"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "okitisi"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "loboko na yo"
+    },
+    {
+      "surface": "ותושיעני",
+      "gloss": "mpe osalisi ngai"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "loboko ya mobali na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:35:13.654615928Z",
+  "model": "glm-5.3"
+}

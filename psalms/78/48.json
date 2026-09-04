@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 78:48",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 78,
+  "translation": "Mpe apekaki bangombe na bango na mbungi, mpe banyama na bango na bikangulia ya moto.",
+  "tokens": [
+    {
+      "surface": "ויסגר",
+      "gloss": "Mpe apekaki"
+    },
+    {
+      "surface": "לברד",
+      "gloss": "na mbungi"
+    },
+    {
+      "surface": "בעירם",
+      "gloss": "bangombe na bango"
+    },
+    {
+      "surface": "ומקניהם",
+      "gloss": "mpe banyama na bango"
+    },
+    {
+      "surface": "לרשפים",
+      "gloss": "na bikangulia ya moto"
+    }
+  ],
+  "timestamp": "2026-09-03T21:20:33.743741504Z",
+  "model": "glm-5.3"
+}

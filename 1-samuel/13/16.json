@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 13:16",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Mpe Shaul, mpe Yonatan mwana na ye, mpe bato oyo bazalaki na bango bafandaki na Givea ya Binyamin; mpe Baplishtim batombolaki kaa na Mikhmash.",
+  "tokens": [
+    {
+      "surface": "ושאול",
+      "gloss": "Mpe Shaul"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "mpe Yonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana na ye"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "mpe bato"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "oyo bazalaki"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "ישבים",
+      "gloss": "bafandaki"
+    },
+    {
+      "surface": "בגבע",
+      "gloss": "na Givea"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "ya Binyamin"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "mpe Baplishtim"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "batombolaki kaa"
+    },
+    {
+      "surface": "במכמש",
+      "gloss": "na Mikhmash"
+    }
+  ],
+  "timestamp": "2026-09-03T18:14:23.565182202Z",
+  "model": "glm-5.3"
+}

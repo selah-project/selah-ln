@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 4:10",
+  "book": "judges",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe Barak abengaki ⟨את⟩ Zebuluni mpe ⟨את⟩ Naftali na Kedesh, mpe akitolaki na makolo na ye basumi bazali na mapesu; mpe Devora akitolaki na ye.",
+  "tokens": [
+    {
+      "surface": "ויזעק",
+      "gloss": "Mpe Barak abengaki"
+    },
+    {
+      "surface": "ברק",
+      "gloss": ""
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zebuluni"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Zebuluni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Naftali"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "na Kedesh"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "mpe akitolaki"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "na makolo na ye"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "bazumi"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "bazali na mapesu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bato"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "mpe akitolaki"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "דבורה",
+      "gloss": "Devora"
+    }
+  ],
+  "timestamp": "2026-09-03T17:57:24.622983973Z",
+  "model": "glm-5.3"
+}

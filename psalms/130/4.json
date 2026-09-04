@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 130:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 130,
+  "translation": "Ya solo, elongo na yo ezali bolimbisi, mpona ete obangama.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ya solo"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "elongo na yo"
+    },
+    {
+      "surface": "הסליחה",
+      "gloss": "bolimbisi"
+    },
+    {
+      "surface": "למען",
+      "gloss": "mpona ete"
+    },
+    {
+      "surface": "תורא",
+      "gloss": "obangama"
+    }
+  ],
+  "timestamp": "2026-09-03T21:33:32.175731246Z",
+  "model": "glm-5.3"
+}

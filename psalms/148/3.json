@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 148:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 148,
+  "translation": "Bokumisa-yé moi mpe sanza; bokumisa-yé baetoile ya bolumiere nyonso.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Bokumisa-yé"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "moi"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "mpe sanza"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "bokumisa-yé"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "baetoile"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ya bolumiere"
+    }
+  ],
+  "timestamp": "2026-09-03T21:36:57.899457470Z",
+  "model": "glm-5.3"
+}

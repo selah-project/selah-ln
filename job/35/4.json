@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 35:4",
+  "book": "job",
+  "lang": "ln",
+  "chapter": 35,
+  "translation": "Ngai nakozongisa Yo maloba, mpe ⟨את⟩ baninga na yo elongo na yo.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "אשיבך",
+      "gloss": "nakozongisa Yo maloba"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "maloba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "baninga na yo"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "baninga na yo"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "elongo na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T22:02:25.585513603Z",
+  "model": "glm-5.3"
+}

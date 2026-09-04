@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 18:20",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Mpe Mikal, mwana mwasi ya Shaul, alingaki ⟨את⟩ David; mpe bayebisaki Shaul, mpe likambo yango emonanaki malamu na miso na ye.",
+  "tokens": [
+    {
+      "surface": "ותאהב",
+      "gloss": "alingaki"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikal"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana mwasi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ya Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "mpe bayebisaki"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "mpe emonanaki malamu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "likambo yango"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "na miso na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T18:19:41.562902645Z",
+  "model": "glm-5.3"
+}

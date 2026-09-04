@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 59:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 59,
+  "translation": "Kozanga mabe na ngai bapanzaka mpe bakengamaka; telama oya kosangana na ngai mpe tala.",
+  "tokens": [
+    {
+      "surface": "בלי",
+      "gloss": "kozanga"
+    },
+    {
+      "surface": "עון",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "ירוצון",
+      "gloss": "bapanzaka"
+    },
+    {
+      "surface": "ויכוננו",
+      "gloss": "mpe bakengamaka"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "telama"
+    },
+    {
+      "surface": "לקראתי",
+      "gloss": "oya kosangana na ngai"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "mpe tala"
+    }
+  ],
+  "timestamp": "2026-09-03T21:14:52.909932347Z",
+  "model": "glm-5.3"
+}

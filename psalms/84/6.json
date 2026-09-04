@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 84:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 84,
+  "translation": "Bolamu ya moto oyo nguya na ye ezali kati na yo, mpe banzela ezali na motema na bango.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Bolamu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moto"
+    },
+    {
+      "surface": "עוז",
+      "gloss": "nguya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kati na yo"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "banzela"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "na motema na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:23:10.723017582Z",
+  "model": "glm-5.3"
+}

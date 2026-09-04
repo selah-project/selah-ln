@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 40:8",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 40,
+  "translation": "Mpe otya ⟨את⟩ ezando na zingazinga, mpe otya ⟨את⟩ lambiri ya nzela ya ezando.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "mpe otya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ezando"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ezando"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "na zingazinga"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "mpe otya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lambiri"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "lambiri"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ya nzela"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ya ezando"
+    }
+  ],
+  "timestamp": "2026-09-03T16:38:28.026244148Z",
+  "model": "glm-5.3"
+}

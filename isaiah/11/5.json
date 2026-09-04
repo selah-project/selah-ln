@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 11:5",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpe bokoki bokokoma sanda ya libumu na ye, mpe bondimi sanda ya molongo na ye.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "mpe akokoma"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "bokoki"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "sanda"
+    },
+    {
+      "surface": "מתניו",
+      "gloss": "ya libumu na ye"
+    },
+    {
+      "surface": "והאמונה",
+      "gloss": "mpe bondimi"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "sanda"
+    },
+    {
+      "surface": "חלציו",
+      "gloss": "ya molongo na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T19:18:00.065196891Z",
+  "model": "glm-5.3"
+}

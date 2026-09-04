@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 80:20",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 80,
+  "translation": "Yawe Elohim Tsebaot, zongisa biso; okelesi elongi na yo, mpe tobikisami.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "zongisa biso"
+    },
+    {
+      "surface": "האר",
+      "gloss": "okelesi"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "elongi na yo"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "mpe tobikisami"
+    }
+  ],
+  "timestamp": "2026-09-03T21:21:23.571963484Z",
+  "model": "glm-5.3"
+}

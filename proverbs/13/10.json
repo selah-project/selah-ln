@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 13:10",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Kaka na likunya epesaka makuku, mpe ⟨את⟩ bapusami bokansi.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Kaka"
+    },
+    {
+      "surface": "בזדון",
+      "gloss": "na likunya"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "epesaka"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "makuku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bapusami"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "bapusami"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "bokansi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:41:04.847740847Z",
+  "model": "glm-5.3"
+}

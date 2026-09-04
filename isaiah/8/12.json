@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 8:12",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Boloba te: mokano mabe, likolo na nyonso oyo bato oyo balobaka: mokano mabe; mpe ⟨את⟩ bobangi na bango bobanga yango te, mpe bokweyi na bobangi te.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תאמרון",
+      "gloss": "Boloba"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "mokano mabe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "likolo na nyonso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "balobaka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "mokano mabe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bobangi na bango"
+    },
+    {
+      "surface": "מוראו",
+      "gloss": "bobangi na bango"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "bobanga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe ... te"
+    },
+    {
+      "surface": "תעריצו",
+      "gloss": "bokweyi na bobangi"
+    }
+  ],
+  "timestamp": "2026-09-03T19:14:32.681632233Z",
+  "model": "glm-5.3"
+}

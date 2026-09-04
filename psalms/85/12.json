@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 85:12",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 85,
+  "translation": "Bosolo eminaka na mabele, mpe bomalamu etalaka ⟨na se⟩ na likolo.",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "Bosolo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "תצמח",
+      "gloss": "eminaka"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "mpe bomalamu"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "na likolo"
+    },
+    {
+      "surface": "נשקף",
+      "gloss": "etalaka ⟨na se⟩"
+    }
+  ],
+  "timestamp": "2026-09-03T21:22:15.164473802Z",
+  "model": "glm-5.3"
+}

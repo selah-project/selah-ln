@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 3:1",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe etumba ezalaki molai kati na ndako ya Shaul mpe kati na ndako ya David; David azalaki kolamuka na makasi, mpe ndako ya Shaul bazalaki kokita na moke.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "ezalaki"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "etumba"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "molai"
+    },
+    {
+      "surface": "בין",
+      "gloss": "kati na"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "mpe kati na"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "mpe David"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "azalaki kolamuka"
+    },
+    {
+      "surface": "וחזק",
+      "gloss": "na makasi"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "mpe ndako"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "bazalaki kokita"
+    },
+    {
+      "surface": "ודלים",
+      "gloss": "na moke"
+    }
+  ],
+  "timestamp": "2026-09-03T18:26:27.864705212Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 5:10",
+  "book": "esther",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Kasi Haman amibataki, mpe akotaki na ndako na ye, mpe atindaki abikisela ⟨את⟩ bangonzi na ye mpe ⟨את⟩ Zeresh mwasi na ye.",
+  "tokens": [
+    {
+      "surface": "ויתאפק",
+      "gloss": "amibataki"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "akotaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ndako na ye"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "atindaki"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "abikisaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangonzi na ye"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "bangonzi na ye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Zeresh"
+    },
+    {
+      "surface": "זרש",
+      "gloss": "Zeresh"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mwasi na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T22:17:52.321364648Z",
+  "model": "glm-5.3"
+}

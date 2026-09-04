@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 120:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 120,
+  "translation": "Yawe, bimisa molimo na ngai na minoko ya lokuta, na monoko ya kokroma.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הצילה",
+      "gloss": "bimisa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "molimo na ngai"
+    },
+    {
+      "surface": "משפת",
+      "gloss": "na minoko"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ya lokuta"
+    },
+    {
+      "surface": "מלשון",
+      "gloss": "na monoko"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "ya kokroma"
+    }
+  ],
+  "timestamp": "2026-09-03T21:32:33.361670007Z",
+  "model": "glm-5.3"
+}

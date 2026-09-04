@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 44:12",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 44,
+  "translation": "Opesaka biso lokola bampena biloko ya kolia, mpe opanzaka biso kati ya bikolo.",
+  "tokens": [
+    {
+      "surface": "תתננו",
+      "gloss": "Opesaka biso"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "lokola bampena"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "biloko ya kolia"
+    },
+    {
+      "surface": "ובגוים",
+      "gloss": "mpe kati ya bikolo"
+    },
+    {
+      "surface": "זריתנו",
+      "gloss": "opanzaka biso"
+    }
+  ],
+  "timestamp": "2026-09-03T21:11:10.971984312Z",
+  "model": "glm-5.3"
+}

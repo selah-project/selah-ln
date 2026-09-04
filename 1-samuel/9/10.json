@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 9:10",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Shaul alobaki na mosungi na ye: liloba na yo ezali malamu; yaka, tokende. Mpe bakeendi na engumba oyo kuna moto ya Elohim azalaki.",
+  "tokens": [
+    {
+      "surface": "ויאאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "לנערו",
+      "gloss": "na mosungi na ye"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ezali malamu"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "liloba na yo"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "yaka"
+    },
+    {
+      "surface": "נלכה",
+      "gloss": "tokende"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "mpe bakeendi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "engumba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ya Elohim"
+    }
+  ],
+  "timestamp": "2026-09-03T23:20:09.632158621Z",
+  "model": "glm-5.3"
+}

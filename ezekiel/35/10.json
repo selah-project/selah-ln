@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 35:10",
+  "book": "ezekiel",
+  "lang": "ln",
+  "chapter": 35,
+  "translation": "Mpo ete olobaki ete: Mikanda ⟨את⟩ mibale mpe mabelé ⟨את⟩ mibale ezali na ngai, mpe tozwaki yango, kasi mpe Yawe azalaki kuna.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "אמרך",
+      "gloss": "olobaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mikanda mibale"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bikanda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mabelé mibale"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "mabelé"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "ezali"
+    },
+    {
+      "surface": "וירשנוה",
+      "gloss": "mpe tozwaki yango"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "mpe Yawe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "היה",
+      "gloss": "azalaki"
+    }
+  ],
+  "timestamp": "2026-09-03T20:29:12.217445716Z",
+  "model": "glm-5.3"
+}

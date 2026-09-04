@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 18:48",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "El oyo apesaka liponi epai ya ngai, mpe akisaka banoko na nse ya ngai.",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "oyo apesaka"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "liponi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "epai ya ngai"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "mpe akisaka"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "banoko"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "na nse ya ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:04:08.116648487Z",
+  "model": "glm-5.3"
+}

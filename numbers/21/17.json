@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 21:17",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Na tango wana Israel ayembaki ⟨את⟩ lisano oyo: Buta, libulu ya mai, boyembola na yango.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Na tango wana"
+    },
+    {
+      "surface": "ישיר",
+      "gloss": "ayembaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lisano oyo"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "lisano"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Buta"
+    },
+    {
+      "surface": "באר",
+      "gloss": "libulu ya mai"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "boyembola"
+    },
+    {
+      "surface": "לה",
+      "gloss": "na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T17:12:17.864142801Z",
+  "model": "glm-5.3"
+}

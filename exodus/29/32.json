@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 29:32",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 29,
+  "translation": "Mpe Aharon mpe bana na ye bakolia ⟨את⟩ nyama ya ayil mpe ⟨את⟩ mopanzi oyo ezali na panzi, na monoko ya ndako ya bokutani.",
+  "tokens": [
+    {
+      "surface": "ואכל",
+      "gloss": "Mpe bakolia"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "mpe bana na ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyama"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ya ayil"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mopanzi"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "mopanzi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "ezali na panzi"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "na monoko ya"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya bokutani"
+    }
+  ],
+  "timestamp": "2026-09-03T16:31:51.292174906Z",
+  "model": "glm-5.3"
+}

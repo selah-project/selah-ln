@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 74:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 74,
+  "translation": "Bayebami ⟨lokola baye bazali kotombwisa⟩ likolo na nzeti ya zete baizo.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "Bayebami"
+    },
+    {
+      "surface": "כמביא",
+      "gloss": "lokola baye bazali kotombwisa"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "likolo"
+    },
+    {
+      "surface": "בסבך",
+      "gloss": "na nzeti"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ya zete"
+    },
+    {
+      "surface": "קרדמות",
+      "gloss": "baizo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:19:07.724081940Z",
+  "model": "glm-5.3"
+}

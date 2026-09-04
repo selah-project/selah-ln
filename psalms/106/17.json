@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 106:17",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 106,
+  "translation": "Mabele yafulutaki mpe momelaki Datan, mpe ebombaki likolo ya likita ya Aviram.",
+  "tokens": [
+    {
+      "surface": "תפתח",
+      "gloss": "yafulutaki"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "mpe momelaki"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "Datan"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "mpe ebombaki"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "likita"
+    },
+    {
+      "surface": "אבירם",
+      "gloss": "Aviram"
+    }
+  ],
+  "timestamp": "2026-09-03T21:28:14.056597849Z",
+  "model": "glm-5.3"
+}

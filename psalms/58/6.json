@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 58:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 58,
+  "translation": "Oyo akoki koyoka te liloba ya bakaneke, kaneke oyo mokaneki akanaka na mayele mingi.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "koyoka"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "liloba"
+    },
+    {
+      "surface": "מלחשים",
+      "gloss": "bakaneke"
+    },
+    {
+      "surface": "חובר",
+      "gloss": "mokaneki"
+    },
+    {
+      "surface": "חברים",
+      "gloss": "kaneke"
+    },
+    {
+      "surface": "מחכם",
+      "gloss": "mayele mingi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:14:24.203183505Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-samuel 2:31",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Talá, mikolo miza, mpe nakokatola ⟨את⟩ kinga na yo mpe ⟨את⟩ kinga ya libota ya tata na yo, ete moto ya bokolo azala te na ndako na yo.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Talá"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mikolo"
+    },
+    {
+      "surface": "באים",
+      "gloss": "miza"
+    },
+    {
+      "surface": "וגדעתי",
+      "gloss": "mpe nakokatola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kinga na yo"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "kinga na yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "kinga ya libota ya tata na yo"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "kinga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ya libota"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ya tata na yo"
+    },
+    {
+      "surface": "מהיות",
+      "gloss": "ete ezala te"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "moto ya bokolo"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "na ndako na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T18:09:40.679557498Z",
+  "model": "glm-5.3"
+}

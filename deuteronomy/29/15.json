@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 29:15",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 29,
+  "translation": "Mpo bino boyebi ⟨את⟩ oyo tofandaki na mabele ya Mitsraim, mpe ⟨את⟩ oyo tokati kati ya bikolo oyo bokati.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "bino"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "boyebi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oyo tofandaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "tofandaki"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Mitsraim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "oyo tokati"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "עברנו",
+      "gloss": "tokati"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "kati ya"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bikolo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "עברתם",
+      "gloss": "bokati"
+    }
+  ],
+  "timestamp": "2026-09-03T17:38:08.152208155Z",
+  "model": "glm-5.3"
+}

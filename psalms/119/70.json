@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "psalms 119:70",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Motema na bango ekomi mponga lokola mafuta; kasi ngai, na Tora na yo nakosepelaka ⟨na yango⟩.",
+  "tokens": [
+    {
+      "surface": "טפש",
+      "gloss": "ekomi mponga"
+    },
+    {
+      "surface": "כחלב",
+      "gloss": "lokola mafuta"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "motema na bango"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Tora na yo"
+    },
+    {
+      "surface": "שעשעתי",
+      "gloss": "nakosepelaka"
+    }
+  ],
+  "timestamp": "2026-09-04T00:25:33.570176987Z",
+  "model": "glm-5.3"
+}

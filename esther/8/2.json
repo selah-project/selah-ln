@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 8:2",
+  "book": "esther",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe mokonzi atikelaki ⟨את⟩ singe na ye, oyo atikelaki na Haman, mpe apesaki yango na Mordekai; mpe Ester atyaki ⟨את⟩ Mordekai likolo ya ndako ya Haman.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "atikelaki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "singe na ye"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "singe na ye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "atikelaki"
+    },
+    {
+      "surface": "מהמן",
+      "gloss": "na Haman"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "mpe apesaki yango"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "na Mordekai"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "mpe atyaki"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordekai"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekai"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    }
+  ],
+  "timestamp": "2026-09-03T22:19:45.283093302Z",
+  "model": "glm-5.3"
+}

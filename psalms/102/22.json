@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 102:22",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 102,
+  "translation": "Mpo na koloba na Tsion kombo ya Yawe, mpe nkembo na yango na Yerushalaim;",
+  "tokens": [
+    {
+      "surface": "לספר",
+      "gloss": "mpo na koloba"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "na Tsion"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kombo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yawe"
+    },
+    {
+      "surface": "ותהלתו",
+      "gloss": "mpe nkembo na yango"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "na Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-09-03T21:25:37.771768488Z",
+  "model": "glm-5.3"
+}

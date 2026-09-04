@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 20:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 20,
+  "translation": "Yawe alongi yo na mokolo ya makama, nkombo ya Elohim ya Yaakov etombwisi yo likolo.",
+  "tokens": [
+    {
+      "surface": "יענך",
+      "gloss": "alongi yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na mokolo ya"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "makama"
+    },
+    {
+      "surface": "ישגבך",
+      "gloss": "etombwisi yo likolo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nkombo"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ya Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-03T21:04:52.193492107Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 5:7",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "mpe batambwisi wana belisaki ⟨את⟩ mokonzi Shelomo mpe ⟨את⟩ banso oyo bazalaki kokota epai ya mesa ya mokonzi Shelomo, moto na sanza na yango; eloko moko te balongaki.",
+  "tokens": [
+    {
+      "surface": "וכלכלו",
+      "gloss": "belisaki"
+    },
+    {
+      "surface": "הנצבים",
+      "gloss": "batambwisi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "wana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mokonzi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "banso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "banso"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "oyo bazalaki kokota"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "mesa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya mokonzi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "אישׁ",
+      "gloss": "moto"
+    },
+    {
+      "surface": "חדשו",
+      "gloss": "na sanza na yango"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יעדרו",
+      "gloss": "balongaki"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "eloko moko"
+    }
+  ],
+  "timestamp": "2026-09-03T18:45:14.126809234Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 6:25",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Kope olinga bolamu na yango na motema na yo, mpe kope akwama yo na mikonzi ya miso na yango.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "kope"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "olinga"
+    },
+    {
+      "surface": "יפיה",
+      "gloss": "bolamu na yango"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "na motema na yo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mpe kope"
+    },
+    {
+      "surface": "תקחך",
+      "gloss": "akwama yo"
+    },
+    {
+      "surface": "בעפעפיה",
+      "gloss": "na mikonzi ya miso na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:39:55.033766134Z",
+  "model": "glm-5.3"
+}

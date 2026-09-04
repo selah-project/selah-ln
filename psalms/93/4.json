@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 93:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 93,
+  "translation": "Likolo ya nduru ya mai mingi, likolo ya bipaya bya mbu ya makasi, Yawe azali na likolo monene.",
+  "tokens": [
+    {
+      "surface": "מקלות",
+      "gloss": "nduru"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mai"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mingi"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "ya makasi"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "bipaya"
+    },
+    {
+      "surface": "ים",
+      "gloss": "mbu"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "ya makasi"
+    },
+    {
+      "surface": "במרום",
+      "gloss": "na likolo monene"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T21:25:09.114492993Z",
+  "model": "glm-5.3"
+}

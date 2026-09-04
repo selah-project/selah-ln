@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 73:21",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 73,
+  "translation": "Mpo motema na ngai ekangamaki, mpe mapinda na ngai ebomaki ngai;",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "יתחמץ",
+      "gloss": "ekangamaki"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "motema na ngai"
+    },
+    {
+      "surface": "וכליותי",
+      "gloss": "mpe mapinda na ngai"
+    },
+    {
+      "surface": "אשתונן",
+      "gloss": "ebomaki ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:18:19.078229543Z",
+  "model": "glm-5.3"
+}

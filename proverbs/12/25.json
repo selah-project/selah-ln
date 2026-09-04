@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 12:25",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Mawa na motema ya moto ekitisaka yango, mpe liloba malamu esepelisaka yango.",
+  "tokens": [
+    {
+      "surface": "דאגה",
+      "gloss": "mawa"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "na motema ya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "ישחנה",
+      "gloss": "ekitisaka yango"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "mpe liloba"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "malamu"
+    },
+    {
+      "surface": "יששמחנה",
+      "gloss": "esepelisaka yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:41:58.610270911Z",
+  "model": "glm-5.3"
+}

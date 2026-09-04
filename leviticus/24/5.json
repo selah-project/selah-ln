@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 24:5",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "Mpe okozwa farine ya malamu, mpe okobaka na yango ⟨את⟩ mikate zomi na mibale; ofanda mibale ezala na moke moko na moko.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "mpe okozwa"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "farine ya malamu"
+    },
+    {
+      "surface": "ואפית",
+      "gloss": "mpe okobaka na yango"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "mikate zomi na mibale"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "zomi"
+    },
+    {
+      "surface": "חלות",
+      "gloss": "mikate"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "ofanda"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ezala"
+    },
+    {
+      "surface": "החלה",
+      "gloss": "moke"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "moko"
+    }
+  ],
+  "timestamp": "2026-09-03T23:15:25.768910347Z",
+  "model": "glm-5.3"
+}

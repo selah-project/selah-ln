@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 24:4",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "Likolo ya menora ya peto akomisaka ⟨את⟩ banlame na molongo, liboso ya Yawe, tango nyonso.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Likolo ya"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "menora"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "ya peto"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "akomisaka na molongo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "banlame"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "banlame"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "tango nyonso"
+    }
+  ],
+  "timestamp": "2026-09-03T16:55:03.794717802Z",
+  "model": "glm-5.3"
+}

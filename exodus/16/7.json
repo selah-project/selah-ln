@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 16:7",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Mpe na tongo bomoni ⟨את⟩ nkembo ya Yawe, na koyoka na ye ⟨את⟩ bobele na bino likolo ya Yawe; mpe biso tozali nini, ete bolobaka bobele likolo ya biso?",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "mpe na tongo"
+    },
+    {
+      "surface": "וראיתם",
+      "gloss": "bomoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkembo ya Yawe"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "nkembo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yawe"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "na koyoka na ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bobele na bino"
+    },
+    {
+      "surface": "תלנתיכם",
+      "gloss": "bobele na bino"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ונחנו",
+      "gloss": "mpe biso"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "תלונו",
+      "gloss": "bolobaka bobele"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "likolo ya biso"
+    }
+  ],
+  "timestamp": "2026-09-03T16:24:18.354247932Z",
+  "model": "glm-5.3"
+}

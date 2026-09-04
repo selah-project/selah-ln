@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 78:36",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 78,
+  "translation": "Mpe bakebisaki ye na monoko na bango, mpe na minoko na bango balobaki lokuta epai na ye.",
+  "tokens": [
+    {
+      "surface": "ויפתוהו",
+      "gloss": "mpe bakebisaki ye"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "na monoko na bango"
+    },
+    {
+      "surface": "ובלשונם",
+      "gloss": "mpe na minoko na bango"
+    },
+    {
+      "surface": "יכזבו",
+      "gloss": "balobaki lokuta"
+    },
+    {
+      "surface": "לו",
+      "gloss": "epai na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:19:52.378422642Z",
+  "model": "glm-5.3"
+}

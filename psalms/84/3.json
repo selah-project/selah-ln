@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 84:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 84,
+  "translation": "Molimo na ngai ezali koluka, mpe esili kokufa, mpo na bakiti ya Yawe; motema na ngai mpe libumu na ngai bayembaki lokumu epai ya El ya bomoi.",
+  "tokens": [
+    {
+      "surface": "נכספה",
+      "gloss": "ezali koluka"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "esili kokufa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "molimo na ngai"
+    },
+    {
+      "surface": "לחצרות",
+      "gloss": "mpo na bakiti"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "motema na ngai"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "mpe libumu na ngai"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "bayembaki lokumu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ya bomoi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:23:27.928400800Z",
+  "model": "glm-5.3"
+}

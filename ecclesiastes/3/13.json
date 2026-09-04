@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 3:13",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe moto nyonso akolia mpe komela, mpe amonaka malamu na mosala na ye nyonso, mpesa ya Elohim yango ⟨ezali⟩.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "moto"
+    },
+    {
+      "surface": "שיאכל",
+      "gloss": "akolia"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "mpe komela"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "mpe amonaka"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "malamu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na nyonso"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "mosala na ye"
+    },
+    {
+      "surface": "מתת",
+      "gloss": "mpesa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "היא",
+      "gloss": "yango"
+    }
+  ],
+  "timestamp": "2026-09-03T23:38:04.694091012Z",
+  "model": "glm-5.3"
+}

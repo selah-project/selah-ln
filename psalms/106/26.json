@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 106:26",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 106,
+  "translation": "Mpe Yawe atombwaki loboko na ye epai na bango, mpo na kondimola ⟨את⟩ bango na etuluku.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "atombwaki"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "loboko na ye"
+    },
+    {
+      "surface": "להם",
+      "gloss": "epai na bango"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "mpo na kondimola"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "bango na etuluku"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "na etuluku"
+    }
+  ],
+  "timestamp": "2026-09-03T21:28:13.091551621Z",
+  "model": "glm-5.3"
+}

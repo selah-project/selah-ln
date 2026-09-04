@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 1:3",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe balukaki mwana mwasi kitoko na mobimba ya ndelo ya Israel, mpe bazwaki ⟨את⟩ Avishag mwasi ya Shunem, mpe bakambaki ⟨את⟩ ye epai ya mokonzi.",
+  "tokens": [
+    {
+      "surface": "ויבקשו",
+      "gloss": "mpe balukaki"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "mwana mwasi"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "kitoko"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na mobimba ya"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ndelo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "mpe bazwaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avishag"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "Avishag"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "mwasi ya Shunem"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "mpe bakambaki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ye"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "epai ya mokonzi"
+    }
+  ],
+  "timestamp": "2026-09-03T18:42:15.488722642Z",
+  "model": "glm-5.3"
+}

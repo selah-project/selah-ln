@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 31:17",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 31,
+  "translation": "Mpe Yaakov atomaki, mpe atombaki ⟨את⟩ bana na ye mpe ⟨את⟩ basi na ye likolo ya ngambo.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "mpe atomaki"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "mpe atombaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bana na ye"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bana na ye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "basi na ye"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "basi na ye"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "ngambo"
+    }
+  ],
+  "timestamp": "2026-09-03T16:01:51.960790562Z",
+  "model": "glm-5.3"
+}

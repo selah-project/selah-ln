@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 144:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 144,
+  "translation": "Tinda maboko na yo uta likolo; bimisa ngai mpe loba ngai uta mai ebele, uta maboko ya bana ya bapaya.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "tinda"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "maboko na yo"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "uta likolo"
+    },
+    {
+      "surface": "פצני",
+      "gloss": "bimisa ngai"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "mpe loba ngai"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "uta mai"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ebele"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "uta maboko"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ya bana"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "ya bapaya"
+    }
+  ],
+  "timestamp": "2026-09-03T21:36:18.131980839Z",
+  "model": "glm-5.3"
+}

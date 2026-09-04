@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 61:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 61,
+  "translation": "Yoka, Elohim, bokangi na ngai; tandisa losambo na ngai.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "Yoka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "bokangi na ngai"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "tandisa"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "losambo na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:15:35.040875408Z",
+  "model": "glm-5.3"
+}

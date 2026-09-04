@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 2:20",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Na mokolo wana moto akobwaka ⟨את⟩ bikeko bya mbongo na ye mpe ⟨את⟩ bikeko bya sanzi na ye, oyo basalaki mpo na ye, mpo na kogumbama, epai ya bankumbi mpe epai ya basude.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "na mokolo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "wana"
+    },
+    {
+      "surface": "ישליך",
+      "gloss": "akobwaka"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "moto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bikeko bya mbongo na ye"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "bikeko bya"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "mbongo na ye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bikeko bya sanzi na ye"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "bikeko bya"
+    },
+    {
+      "surface": "זהבו",
+      "gloss": "sanzi na ye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "basalaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mpo na ye"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "mpo na kogumbama"
+    },
+    {
+      "surface": "לחפר",
+      "gloss": "epai ya bankumbi"
+    },
+    {
+      "surface": "פרות",
+      "gloss": ""
+    },
+    {
+      "surface": "ולעטלפים",
+      "gloss": "mpe epai ya basude"
+    }
+  ],
+  "timestamp": "2026-09-03T19:12:20.659643082Z",
+  "model": "glm-5.3"
+}

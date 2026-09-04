@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 47:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 47,
+  "translation": "Bikolo nyonso, bofata mikono, bolobela Elohim na loposo ya lingila ya esengo.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "Bikolo"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "bofata"
+    },
+    {
+      "surface": "כף",
+      "gloss": "mikono"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "bolobela"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "na loposo ya"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "lingila ya esengo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:12:26.446808833Z",
+  "model": "glm-5.3"
+}

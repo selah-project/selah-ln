@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 16:2",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Okoka mwasi te ⟨na yo⟩, mpe bana mibali mpe bana basi bakokoka ⟨na yo⟩ te na esika oyo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "okoka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "na yo"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mwasi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bakokoka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "na yo"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bana mibali"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "mpe bana basi"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "na esika"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    }
+  ],
+  "timestamp": "2026-09-03T19:49:03.335944095Z",
+  "model": "glm-5.3"
+}

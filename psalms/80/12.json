@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 80:12",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 80,
+  "translation": "Atindaki bokoki na yango mpaka mbu, mpe banyeti na yango mpaka ebale.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "atindaki"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "bokoki na yango"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "ים",
+      "gloss": "mbu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mpe na"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "ebale"
+    },
+    {
+      "surface": "יונקותיה",
+      "gloss": "banyeti na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:20:41.627442708Z",
+  "model": "glm-5.3"
+}

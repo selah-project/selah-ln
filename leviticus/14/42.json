@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 14:42",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Mpe bakozwa mabanga mosusu, mpe bakoyela na esika ya mabanga yango, mpe mabele mosusu akozwa, mpe akotombola ⟨את⟩ ndako.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "mpe bakozwa"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "mabanga"
+    },
+    {
+      "surface": "אחרות",
+      "gloss": "mosusu"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "mpe bakoyela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "esika"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "ya mabanga"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "mpe mabele"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "mosusu"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "akozwa"
+    },
+    {
+      "surface": "וטח",
+      "gloss": "mpe akotombola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndako"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ndako"
+    }
+  ],
+  "timestamp": "2026-09-03T16:47:15.875762639Z",
+  "model": "glm-5.3"
+}

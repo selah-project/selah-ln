@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 61:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 61,
+  "translation": "Nakofanda na hema na yo libela, nakimbela na bombeli ya mapapu na yo. Selah.",
+  "tokens": [
+    {
+      "surface": "אגורה",
+      "gloss": "Nakofanda"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "na hema na yo"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "libela"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "nakimbela"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "na bombeli"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "ya mapapu na yo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-03T21:15:54.065105776Z",
+  "model": "glm-5.3"
+}

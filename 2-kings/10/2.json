@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 10:2",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Mpe sikoyo, ⟨ntangu⟩ mokanda oyo ekoya epai na bino, mpe ⟨את⟩ bino bana ya bankolo na bino, mpe ⟨את⟩ bino maketo mpe basokia, mpe engumba ya makasi, mpe mindoki —",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Mpe sikoyo"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "ekoya"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "mokanda"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "epai na bino"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "mpe ⟨את⟩ bino",
+      "marks": "bana ya bankolo na bino"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "ya bankolo na bino"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "mpe ⟨את⟩ bino",
+      "marks": "maketo mpe basokia"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "maketo"
+    },
+    {
+      "surface": "והסוסים",
+      "gloss": "mpe basokia"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "mpe engumba"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "ya makasi"
+    },
+    {
+      "surface": "והנשק",
+      "gloss": "mpe mindoki"
+    }
+  ],
+  "timestamp": "2026-09-03T19:02:45.978260253Z",
+  "model": "glm-5.3"
+}

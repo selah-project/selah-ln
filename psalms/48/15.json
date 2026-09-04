@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 48:15",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 48,
+  "translation": "Mpo Elohim oyo azali Elohim na biso, kino mokolo ya nsika mpe libela; yeye akokamba biso likolo ya liwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim na biso"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "kino mokolo ya nsika"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "mpe libela"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "יְנַהֲגֵנוּ",
+      "gloss": "akokamba biso"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "מות",
+      "gloss": "liwa"
+    }
+  ],
+  "timestamp": "2026-09-03T21:11:23.212527007Z",
+  "model": "glm-5.3"
+}

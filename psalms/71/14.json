@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 71:14",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 71,
+  "translation": "Mpe ngai nakozela na litoya ntango nyonso, mpe nakobakisa likolo ya lokumu na yo nyonso.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "mpe ngai"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ntango nyonso"
+    },
+    {
+      "surface": "איחל",
+      "gloss": "nakozela na litoya"
+    },
+    {
+      "surface": "והוספתי",
+      "gloss": "mpe nakobakisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "lokumu na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:17:28.355182258Z",
+  "model": "glm-5.3"
+}

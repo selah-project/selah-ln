@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 3:1",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mwana na ngai, Tora na ngai kolibwisa te, mpe mitindo na ngai motema na yo ebatelaka yango.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Mwana na ngai"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Tora na ngai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "kolibwisa"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "mpe mitindo na ngai"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "ebatelaka"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "motema na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:38:27.774590639Z",
+  "model": "glm-5.3"
+}

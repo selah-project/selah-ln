@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 77:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 77,
+  "translation": "Mpo na mokambi ya bafoyanti, na Yeduton, ya Asaf, nzembo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Mpo na mokambi ya bafoyanti"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ידיתון",
+      "gloss": "Yeduton"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ya Asaf"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "nzembo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:19:19.991319077Z",
+  "model": "glm-5.3"
+}

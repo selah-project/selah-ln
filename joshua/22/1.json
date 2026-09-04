@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 22:1",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Na ntango wana Yehoshua abengaki bareubeni, mpe bagadi, mpe ndambo ya libota ya Menashe.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Na ntango wana"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "abengaki"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "bareubeni"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "mpe bagadi"
+    },
+    {
+      "surface": "ולחצי",
+      "gloss": "mpe ndambo"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ya libota"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "ya Menashe"
+    }
+  ],
+  "timestamp": "2026-09-03T17:54:07.554536980Z",
+  "model": "glm-5.3"
+}

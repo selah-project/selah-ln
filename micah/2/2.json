@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 2:2",
+  "book": "micah",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe balingaka mingi mapanza, mpe bazwaka na makasi; mpe bandako, mpe bawutaka yango; mpe banyolesaka moto mpe ndako na ye, moto mpe bofungwa na ye.",
+  "tokens": [
+    {
+      "surface": "וחמדו",
+      "gloss": "Mpe balingaka mingi"
+    },
+    {
+      "surface": "שדות",
+      "gloss": "mapanza"
+    },
+    {
+      "surface": "וגזלו",
+      "gloss": "mpe bazwaka na makasi"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "mpe bandako"
+    },
+    {
+      "surface": "ונשאו",
+      "gloss": "mpe bawutaka yango"
+    },
+    {
+      "surface": "ועשקו",
+      "gloss": "mpe banyolesaka"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "moto"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "mpe ndako na ye"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "ונחלתו",
+      "gloss": "mpe bofungwa na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T20:49:15.745830155Z",
+  "model": "glm-5.3"
+}

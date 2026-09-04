@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 8:2",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe nkombo ya mwana na ye ya liboso ezalaki Yoel, mpe nkombo ya mibale na ye ezalaki Aviya; ⟨bazalaki⟩ bamibanzusi na Beer Sheva.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nkombo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ya mwana na ye"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "ya liboso"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "Yoel"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "mpe nkombo"
+    },
+    {
+      "surface": "משנהו",
+      "gloss": "ya mibale na ye"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Aviya"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "bamibanzusi"
+    },
+    {
+      "surface": "בבאר",
+      "gloss": "na Beer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    }
+  ],
+  "timestamp": "2026-09-03T18:11:06.888779875Z",
+  "model": "glm-5.3"
+}

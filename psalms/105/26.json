@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 105:26",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 105,
+  "translation": "Atindaki Moshe mwumba na ye, mpe Aharon oyo aponaki ye.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Atindaki"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "mwumba na ye"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "aponaki"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ye"
+    }
+  ],
+  "timestamp": "2026-09-04T00:29:01.784303524Z",
+  "model": "glm-5.3"
+}

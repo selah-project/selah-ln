@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 12:13",
+  "book": "judges",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Na sima na ye Abdon, mwana wa Hillel, wa-Piraton, asalaki bosolo ⟨את⟩ Israel.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "asalaki bosolo"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "na sima na ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Abdon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "Hillel"
+    },
+    {
+      "surface": "הפרעתוני",
+      "gloss": "wa-Piraton"
+    }
+  ],
+  "timestamp": "2026-09-03T18:02:39.974901201Z",
+  "model": "glm-5.3"
+}

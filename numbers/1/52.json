@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "numbers 1:52",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe bana ya Israel bakotelema na kaa, moto na moto na kaa na yango, mpe moto na moto na drapeau na yango, na bampinga na bango.",
+  "tokens": [
+    {
+      "surface": "וחנו",
+      "gloss": "mpe bakotelema na kaa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto na moto"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "מחנהו",
+      "gloss": "kaa na yango"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "mpe moto na moto"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "דגלו",
+      "gloss": "drapeau na yango"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "na bampinga na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:57:43.865711611Z",
+  "model": "glm-5.3"
+}

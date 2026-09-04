@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 1:8",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe mokonzi ya sika amatanaki likolo ya Mitsraim, oyo ayebaki te ⟨את⟩ Yosefe.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "amatanaki"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ya sika"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יידע",
+      "gloss": "ayebaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosefe"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    }
+  ],
+  "timestamp": "2026-09-03T16:12:19.863373996Z",
+  "model": "glm-5.3"
+}

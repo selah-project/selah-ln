@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 2:3",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Ezali milayi mingi epai bino kokozela ⟨את⟩ monselo oyo; botyolongo bino na nordi.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "Ezali milayi mingi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "epai bino"
+    },
+    {
+      "surface": "סב",
+      "gloss": "kokozela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "monselo oyo"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "monselo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "botyolongo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bino"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "na nordi"
+    }
+  ],
+  "timestamp": "2026-09-03T17:23:07.148113444Z",
+  "model": "glm-5.3"
+}

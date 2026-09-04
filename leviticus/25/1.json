@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 25:1",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Yawe alobaki na Moshe na ngomba ya Sinay, alobaki:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "na ngomba ya"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinay"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "alobaki"
+    }
+  ],
+  "timestamp": "2026-09-03T16:55:34.378569393Z",
+  "model": "glm-5.3"
+}

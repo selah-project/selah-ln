@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 84:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 84,
+  "translation": "Epai ya mokambi, na Gittith, ya bana ya Korach, nzembo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Epai ya mokambi"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "Gittith"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ya bana ya"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "nzembo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:23:27.927970753Z",
+  "model": "glm-5.3"
+}

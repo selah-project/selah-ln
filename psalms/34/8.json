@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 34:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 34,
+  "translation": "Mokombo ya Yawe atekaka na nzinganzinga ya baye babangi ye, mpe abikisi bango.",
+  "tokens": [
+    {
+      "surface": "חנה",
+      "gloss": "atekaka"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "mokombo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "na nzinganzinga"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "ya baye babangi ye"
+    },
+    {
+      "surface": "ויחלצם",
+      "gloss": "mpe abikisi bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:08:08.147230030Z",
+  "model": "glm-5.3"
+}

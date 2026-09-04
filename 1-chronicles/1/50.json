@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "1-chronicles 1:50",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe Baal-Hanan akufaki, mpe Hadad akotaki na esika na ye; kombo ya mboka na ye ezalaki Pai, mpe kombo ya mwasi na ye ezalaki Mehitabel, mwana ya Matred, mwana ya Me-Zahab.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "akufaki"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baal-"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "Hanan"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "akotaki"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "na esika na ye"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "mpe kombo"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "ya mboka na ye"
+    },
+    {
+      "surface": "פעי",
+      "gloss": "Pai"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "mpe kombo"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ya mwasi na ye"
+    },
+    {
+      "surface": "מהיטבאל",
+      "gloss": "Mehitabel"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "מטרד",
+      "gloss": "ya Matred"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ya Me-"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "Zahab"
+    }
+  ],
+  "timestamp": "2026-09-03T22:39:36.490222516Z",
+  "model": "glm-5.3"
+}

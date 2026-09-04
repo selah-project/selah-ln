@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 21:30",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Mpe uta na libota ya Asher: ⟨את⟩ Mishal mpe ⟨את⟩ zingazingo na yango, ⟨את⟩ Avdon mpe ⟨את⟩ zingazingo na yango.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "mpe uta na libota ya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Asher"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishal"
+    },
+    {
+      "surface": "משאל",
+      "gloss": "Mishal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "zingazingo na yango"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "zingazingo na yango"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avdon"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Avdon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "zingazingo na yango"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "zingazingo na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T17:53:21.669478914Z",
+  "model": "glm-5.3"
+}

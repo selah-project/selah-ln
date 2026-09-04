@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "nehemiah 3:36",
+  "book": "nehemiah",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Yoka, Elohim wa bisso, ete tozali konyokwama; mpe zongisa maloba ya boseme na motó na bango, mpe tika bango bazala bapanyolwami na mabele ya bokangami.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Yoka"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wa bisso"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "tozali"
+    },
+    {
+      "surface": "בוזה",
+      "gloss": "konyokwama"
+    },
+    {
+      "surface": "והשב",
+      "gloss": "mpe zongisa"
+    },
+    {
+      "surface": "חרפתם",
+      "gloss": "maloba ya boseme na bango"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "motó na bango"
+    },
+    {
+      "surface": "ותנם",
+      "gloss": "mpe tika bango"
+    },
+    {
+      "surface": "לבזה",
+      "gloss": "bazala bapanyolwami"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "שביה",
+      "gloss": "ya bokangami"
+    }
+  ],
+  "timestamp": "2026-09-03T22:34:57.140436128Z",
+  "model": "glm-5.3"
+}

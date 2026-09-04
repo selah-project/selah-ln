@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 10:5",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Utaka na bango oyo, bibanga ya bikolo ekabwanaki na mabele na bango, moko na moko na lokota na ye, na mibota na bango, na bikolo na bango.",
+  "tokens": [
+    {
+      "surface": "מאלה",
+      "gloss": "Utaka na bango oyo"
+    },
+    {
+      "surface": "נפרדו",
+      "gloss": "ekabwanaki"
+    },
+    {
+      "surface": "איי",
+      "gloss": "bibanga"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ya bikolo"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "na mabele na bango"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moko na moko"
+    },
+    {
+      "surface": "ללשנו",
+      "gloss": "na lokota na ye"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "na mibota na bango"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "na bikolo na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T15:48:06.296227228Z",
+  "model": "glm-5.3"
+}

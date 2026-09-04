@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 18:15",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Bobombami bwa mwasi ya mwana na yo okobimisa te; mwasi ya mwana na yo azali; okobimisa te bobombami na ye.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "bobombami"
+    },
+    {
+      "surface": "כלתך",
+      "gloss": "mwasi ya mwana na yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "okobimisa"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mwasi ya"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "mwana na yo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "azali"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "okobimisa"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "bobombami na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T16:49:22.576777345Z",
+  "model": "glm-5.3"
+}

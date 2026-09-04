@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 11:15",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "⟨את⟩ Orev nyonso, na lolenge na yango.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Orev nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "Orev"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "na lolenge na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:43:31.885455534Z",
+  "model": "glm-5.3"
+}

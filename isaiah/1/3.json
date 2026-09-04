@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 1:3",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Ngombe ayebi mokonzi na yango, mpe ndenge ayebi esika ya bilei ya nkolo na yango; Israel ayebi te, mboka na ngai bayekanaki te.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "ayebi"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ngombe"
+    },
+    {
+      "surface": "קנהו",
+      "gloss": "mokonzi na yango"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "mpe ndenge"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "esika ya bilei"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "nkolo na yango"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ayebi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mboka na ngai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "התבונן",
+      "gloss": "bayekanaki"
+    }
+  ],
+  "timestamp": "2026-09-03T23:25:19.193563427Z",
+  "model": "glm-5.3"
+}

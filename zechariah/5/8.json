@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 5:8",
+  "book": "zechariah",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Akanaki: oyo ezali mabe. Atombwaki ⟨את⟩ yango na katikati ya efa, mpe atombwaki ⟨את⟩ kabanga ya lombo na monoko na yango.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "akanaki"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "הרשעה",
+      "gloss": "ezali mabe"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "atombwaki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ yango",
+      "marks": "yango (mwasi)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "katikati"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "ya efa"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "mpe atombwaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kabanga ya lombo"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "kabanga"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "ya lombo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "monoko na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T20:55:29.509416195Z",
+  "model": "glm-5.3"
+}

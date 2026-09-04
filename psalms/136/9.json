@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 136:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 136,
+  "translation": "⟨את⟩ sanza mpe minzoto mpo na koyangela butu, kiteka hesed na ye ezali libela.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanza"
+    },
+    {
+      "surface": "הירח",
+      "gloss": "sanza"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "mpe minzoto"
+    },
+    {
+      "surface": "לממשלות",
+      "gloss": "mpo na koyangela"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "butu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kiteka"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "libela"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:34:19.973975146Z",
+  "model": "glm-5.3"
+}

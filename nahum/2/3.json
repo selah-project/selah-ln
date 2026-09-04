@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nahum 2:3",
+  "book": "nahum",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpo Yawe azongisi ⟨את⟩ nkembo ya Yaakov, lokola nkembo ya Israel; mpo babokelaki bango, mpe banzete na bango babomelaki.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "שב",
+      "gloss": "azongisi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkembo ya Yaakov"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "nkembo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "כגאון",
+      "gloss": "lokola nkembo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "בקקום",
+      "gloss": "babokelaki"
+    },
+    {
+      "surface": "בקקים",
+      "gloss": "bango"
+    },
+    {
+      "surface": "וזמריהם",
+      "gloss": "mpe banzete na bango"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "babomelaki"
+    }
+  ],
+  "timestamp": "2026-09-03T20:51:52.047913888Z",
+  "model": "glm-5.3"
+}

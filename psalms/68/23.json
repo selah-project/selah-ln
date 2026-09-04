@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 68:23",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 68,
+  "translation": "Adonai alobaki: Na Bashan nazongisi, nazongisi utaku na bukulu ya mbu.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מבשן",
+      "gloss": "Na Bashan"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "nazongisi"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "nazongisi"
+    },
+    {
+      "surface": "ממצלות",
+      "gloss": "utaku na bukulu"
+    },
+    {
+      "surface": "ים",
+      "gloss": "mbu"
+    }
+  ],
+  "timestamp": "2026-09-03T23:34:49.755464792Z",
+  "model": "glm-5.3"
+}

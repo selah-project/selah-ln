@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 73:24",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 73,
+  "translation": "Na likebi na yo okambaka ngai, mpe na nsima okozwa ngai na nkembo.",
+  "tokens": [
+    {
+      "surface": "בעצתך",
+      "gloss": "Na likebi na yo"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "okambaka ngai"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "mpe na nsima"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "nkembo"
+    },
+    {
+      "surface": "תקחני",
+      "gloss": "okozwa ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:18:19.078641708Z",
+  "model": "glm-5.3"
+}

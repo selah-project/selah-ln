@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 44:25",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 44,
+  "translation": "Mpe tata na biso alobaki: Bozonga, bosomba mpo na biso bilei moke.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "tata na biso"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "bozonga"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "bosomba"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mpo na biso"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "moke"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "bilei"
+    }
+  ],
+  "timestamp": "2026-09-03T16:10:02.620648962Z",
+  "model": "glm-5.3"
+}

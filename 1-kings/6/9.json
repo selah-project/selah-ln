@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 6:9",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpe atongaki ⟨את⟩ ndako mpe amakisaki yango, mpe abombaki ⟨את⟩ ndako na migeba mpe milaye ya sedre.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "mpe atongaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndako"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "mpe amakisaki yango"
+    },
+    {
+      "surface": "ויספן",
+      "gloss": "mpe abombaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndako"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "migeba"
+    },
+    {
+      "surface": "ושדרת",
+      "gloss": "mpe milaye"
+    },
+    {
+      "surface": "בארזים",
+      "gloss": "na sedre"
+    }
+  ],
+  "timestamp": "2026-09-03T23:22:37.925340462Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 20:24",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 20,
+  "translation": "Mpe sala ⟨את⟩ liloba oyo: elongolaka bakonzi, moto na moto na esika na ye, mpe tiaka bankambi na esika na bango.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "liloba oyo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "liloba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "sala"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "elongola"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "bakonzi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto na moto"
+    },
+    {
+      "surface": "ממקמו",
+      "gloss": "na esika na ye"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "mpe tia"
+    },
+    {
+      "surface": "פחות",
+      "gloss": "bankambi"
+    },
+    {
+      "surface": "תחתיהם",
+      "gloss": "na esika na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T18:56:16.050744905Z",
+  "model": "glm-5.3"
+}

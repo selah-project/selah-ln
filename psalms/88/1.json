@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 88:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 88,
+  "translation": "Nzembo, mizembo, ya bana ya Korach, epai ya mokambi, likolo ya Mahalat Leannoth, maskil (mosanzoli) ya Heman maezrahi.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Nzembo"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizembo"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ya bana ya"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "למנצח",
+      "gloss": "epai ya mokambi"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "Mahalat"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "Leannoth"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "maskil"
+    },
+    {
+      "surface": "להימן",
+      "gloss": "ya Heman"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "maezrahi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:22:37.375459159Z",
+  "model": "glm-5.3"
+}

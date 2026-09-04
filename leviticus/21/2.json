@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 21:2",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Kasi sé mpo na libota na ye oyo azali pene na ye: mpo na mama na ye, mpe mpo na tata na ye, mpe mpo na mwana na ye mobali, mpe mpo na mwana na ye mwasi, mpe mpo na ndeko na ye mobali.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kasi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sé"
+    },
+    {
+      "surface": "לשארו",
+      "gloss": "mpo na libota na ye"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "oyo azali pene"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "mpo na mama na ye"
+    },
+    {
+      "surface": "ולאביו",
+      "gloss": "mpe mpo na tata na ye"
+    },
+    {
+      "surface": "ולבנו",
+      "gloss": "mpe mpo na mwana na ye mobali"
+    },
+    {
+      "surface": "ולבתו",
+      "gloss": "mpe mpo na mwana na ye mwasi"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "mpe mpo na ndeko na ye mobali"
+    }
+  ],
+  "timestamp": "2026-09-03T16:52:52.654480779Z",
+  "model": "glm-5.3"
+}

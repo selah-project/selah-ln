@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 12:12",
+  "book": "judges",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Mpe Elon moto ya Zevulon akufaki, mpe bakundaki ye na Ayalon, na mabele ya Zevulon.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "mpe akufaki"
+    },
+    {
+      "surface": "אלון",
+      "gloss": "Elon"
+    },
+    {
+      "surface": "הזבולני",
+      "gloss": "moto ya Zevulon"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "mpe bakundaki ⟨ye⟩"
+    },
+    {
+      "surface": "באילון",
+      "gloss": "na Ayalon"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mabele ya"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Zevulon"
+    }
+  ],
+  "timestamp": "2026-09-03T18:02:32.513124263Z",
+  "model": "glm-5.3"
+}

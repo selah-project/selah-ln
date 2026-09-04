@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 4:15",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Namoni ⟨את⟩ bato ya bomoi nyonso oyo bazali kotambola na nse ya moyi, elongo na mwana ya mibale, oyo akotelema na esika na ye.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Namoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bato ya bomoi nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "bato ya bomoi"
+    },
+    {
+      "surface": "המהלכים",
+      "gloss": "oyo bazali kotambola"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "na nse ya"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "moyi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "elongo na"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ya mibale"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "akotelema"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "na esika na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T22:13:00.828025723Z",
+  "model": "glm-5.3"
+}

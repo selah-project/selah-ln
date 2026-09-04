@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 64:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 64,
+  "translation": "Obomba ngai na likita ya seke ya babubi, na bonungunanami ya basali mabe.",
+  "tokens": [
+    {
+      "surface": "תסתירני",
+      "gloss": "Obomba ngai"
+    },
+    {
+      "surface": "מסוד",
+      "gloss": "na likita ya seke"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "ya babubi"
+    },
+    {
+      "surface": "מרגשת",
+      "gloss": "na bonungunanami"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ya basali"
+    },
+    {
+      "surface": "און",
+      "gloss": "mabe"
+    }
+  ],
+  "timestamp": "2026-09-03T21:15:58.568457395Z",
+  "model": "glm-5.3"
+}

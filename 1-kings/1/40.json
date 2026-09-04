@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-kings 1:40",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe bato nyonso bakei sima na ye, mpe bato balalaka na malulu, mpe basalaka esengo monene, mpe mabele ebukamaki na mongongo na bango.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "Mpe ... bakoteke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "sima na ye"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "mpe bato"
+    },
+    {
+      "surface": "מחללים",
+      "gloss": "balalaka"
+    },
+    {
+      "surface": "בחללים",
+      "gloss": "na malulu"
+    },
+    {
+      "surface": "ושמחים",
+      "gloss": "mpe basalaka"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "esengo"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "monene"
+    },
+    {
+      "surface": "ותבקע",
+      "gloss": "mpe ebukamaki"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "בקולם",
+      "gloss": "na mongongo na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T18:42:38.627312044Z",
+  "model": "glm-5.3"
+}

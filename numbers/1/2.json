@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 1:2",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Bokota ⟨את⟩ mutu ya lisanga nyonso ya bana ya Israel, na bakelasi na bawana, na ndako ya batata na bawana, na motuya ya bankombo, mobali nyonso, bato na bato na bawana.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Bokota"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mutu"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "mutu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "ya lisanga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ya bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "na bakelasi na bawana"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "na ndako"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "ya batata na bawana"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "na motuya"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ya bankombo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mobali"
+    },
+    {
+      "surface": "לגלגלתם",
+      "gloss": "bato na bato na bawana"
+    }
+  ],
+  "timestamp": "2026-09-03T16:58:31.933518946Z",
+  "model": "glm-5.3"
+}

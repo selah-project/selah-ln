@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 100:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 100,
+  "translation": "Boyei na baporti na ye na botendi, mpe na bazela na ye na nkembo; botendeli ye, bopesa bolamu nkombo na ye.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "Boyei"
+    },
+    {
+      "surface": "שעריו",
+      "gloss": "na baporti na ye"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "na botendi"
+    },
+    {
+      "surface": "חצרתיו",
+      "gloss": "na bazela na ye"
+    },
+    {
+      "surface": "בתהלה",
+      "gloss": "na nkembo"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "botendeli"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "bopesa bolamu"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nkombo na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:26:35.937488147Z",
+  "model": "glm-5.3"
+}

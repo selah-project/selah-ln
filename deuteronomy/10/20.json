@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 10:20",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "⟨את⟩ Yawe Elohim na yo bokatela bobangi, ⟨את⟩ yeye bomeseni, mpe na yeye bokangama, mpe na nkombo na yange bolapa.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe Elohim na yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim na yo"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "bokatela bobangi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yeye",
+      "marks": "bomeseni"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "bomeseni"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "mpe na yeye"
+    },
+    {
+      "surface": "תדבק",
+      "gloss": "bokangama"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "mpe na nkombo na yange"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "bolapa"
+    }
+  ],
+  "timestamp": "2026-09-03T17:27:25.454338602Z",
+  "model": "glm-5.3"
+}

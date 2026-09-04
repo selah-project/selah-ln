@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 22:2",
+  "book": "ezekiel",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Mpe yo, mwana ya moto, okososa, okososa ⟨את⟩ mboka ya makila? Mpe okoyebisa yango ⟨את⟩ mabe nyonso na yango.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Mpe yo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ya moto"
+    },
+    {
+      "surface": "התשפט",
+      "gloss": "okososa"
+    },
+    {
+      "surface": "התשפט",
+      "gloss": "okososa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mboka ya makila"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mboka"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "ya makila"
+    },
+    {
+      "surface": "והודעתה",
+      "gloss": "mpe okoyebisa yango"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabe nyonso na yango"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "תועבותיה",
+      "gloss": "mabe na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T20:21:04.345358974Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 126:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 126,
+  "translation": "Akende kokende mpe alelaka azali kowumba sopo ya bibanga akokota na ndenge ya solo na loyi azali kowumba basopo na ye.",
+  "tokens": [
+    {
+      "surface": "הָלוֹךְ",
+      "gloss": "kokende"
+    },
+    {
+      "surface": "יֵלֵךְ",
+      "gloss": "akende"
+    },
+    {
+      "surface": "וּבָכֹה",
+      "gloss": "mpe alelaka"
+    },
+    {
+      "surface": "נֹשֵׂא",
+      "gloss": "azali kowumba"
+    },
+    {
+      "surface": "מֶשֶׁךְ",
+      "gloss": "sopo"
+    },
+    {
+      "surface": "הַזָּרַע",
+      "gloss": "ya bibanga"
+    },
+    {
+      "surface": "בֹּא",
+      "gloss": "koyela"
+    },
+    {
+      "surface": "יָבֹא",
+      "gloss": "akokota na ndenge ya solo"
+    },
+    {
+      "surface": "בְּרִנָּה",
+      "gloss": "na loyi"
+    },
+    {
+      "surface": "נֹשֵׂא",
+      "gloss": "azali kowumba"
+    },
+    {
+      "surface": "אֲלֻמֹּתָיו",
+      "gloss": "basopo na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:33:07.048774388Z",
+  "model": "glm-5.3"
+}

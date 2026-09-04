@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 31:26",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 31,
+  "translation": "Mpe Laban alobaki na Yaakov: Osalaki nini? Obotaki ⟨את⟩ motema na ngai, mpe omemaki ⟨את⟩ bandumu na ngai lokola bampika ya lime.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laban"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "na Yaakov"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "osalaki"
+    },
+    {
+      "surface": "ותגנב",
+      "gloss": "obotaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motema na ngai"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "motema na ngai"
+    },
+    {
+      "surface": "ותנהג",
+      "gloss": "omemaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bandumu na ngai"
+    },
+    {
+      "surface": "בנתי",
+      "gloss": "bandumu na ngai"
+    },
+    {
+      "surface": "כשביות",
+      "gloss": "lokola bampika"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ya lime"
+    }
+  ],
+  "timestamp": "2026-09-03T16:01:28.312393673Z",
+  "model": "glm-5.3"
+}

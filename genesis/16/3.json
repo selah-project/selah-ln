@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 16:3",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Mpe Sarai, mwasi ya Avram, azwaki ⟨את⟩ Hagar wa Mitsraim, mosali na ye, na nsuka ya mbula zomi ya kofanda ya Avram na mabele ya Kenaan, mpe apesaki ⟨את⟩ ye epai Avram, mobali na ye, epai ye, lokola mwasi.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "azwaki"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mwasi ya"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hagar wa Mitsraim"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "wa Mitsraim"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "mosali na ye"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "na nsuka ya"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "zomi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mbula"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ya kofanda"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mabele ya"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "ותתן",
+      "gloss": "apesaki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ye (Hagar)"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "epai Avram"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "mobali na ye"
+    },
+    {
+      "surface": "לו",
+      "gloss": "epai ye"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "lokola mwasi"
+    }
+  ],
+  "timestamp": "2026-09-03T15:51:50.856320550Z",
+  "model": "glm-5.3"
+}

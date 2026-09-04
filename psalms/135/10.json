@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 135:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 135,
+  "translation": "Oyo abwaki bikolo mingi, mpe abomaki bakonzi ya nguya makasi;",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "Oyo abwaki"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bikolo"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mingi"
+    },
+    {
+      "surface": "והרג",
+      "gloss": "mpe abomaki"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "bakonzi"
+    },
+    {
+      "surface": "עצומים",
+      "gloss": "ya nguya makasi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:33:28.773163858Z",
+  "model": "glm-5.3"
+}

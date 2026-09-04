@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 20:11",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 20,
+  "translation": "Mpe moto oyo akolala ⟨את⟩ mwasi ya tata na ye, boboyi ya tata na ye amonisaki; bango mibale bakufisama na liwa; mai na bango ezali na bango.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Mpe moto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "akolala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwasi"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mwasi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ya tata na ye"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "boboyi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ya tata na ye"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "amonisaki"
+    },
+    {
+      "surface": "מות",
+      "gloss": "liwa"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "bakufisama"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "bango mibale"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "mai na bango"
+    },
+    {
+      "surface": "בם",
+      "gloss": "na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:53:03.952167148Z",
+  "model": "glm-5.3"
+}

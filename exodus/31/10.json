@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 31:10",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 31,
+  "translation": "mpe ⟨את⟩ bilamba ya mosala, mpe ⟨את⟩ bilamba ya santo mpo na Aharon mosanzoli, mpe ⟨את⟩ bilamba ya bana na yango mpo na kosanzola,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bilamba"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "bilamba"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "ya mosala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bilamba"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "bilamba"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ya santo"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "mpo na Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mosanzoli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bilamba"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "bilamba"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ya bana na yango"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "mpo na kosanzola"
+    }
+  ],
+  "timestamp": "2026-09-03T16:30:58.197346327Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 28:29",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 28,
+  "translation": "Mpe Aharon akoyamba ⟨את⟩ bankombo ya bana ya Israel na hoshen ya bosolo, likolo ya motema na ye, ntango akokota na esantu, lokola bokundoli liboso ya Yawe, ntango nyonso.",
+  "tokens": [
+    {
+      "surface": "ונשא",
+      "gloss": "akoyamba"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bankombo"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "bankombo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ya bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בחשן",
+      "gloss": "na hoshen"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "ya bosolo"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "motema na ye"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "ntango akokota"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "esantu"
+    },
+    {
+      "surface": "לזכרן",
+      "gloss": "lokola bokundoli"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ntango nyonso"
+    }
+  ],
+  "timestamp": "2026-09-03T16:31:38.160177271Z",
+  "model": "glm-5.3"
+}

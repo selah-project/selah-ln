@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 13:20",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Kotambola ⟨את⟩ bato mayele, akozwa mayele; mpe moninga ya bato ba zoba akozwa mabe.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "kotambola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bato mayele"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "bato mayele"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "akozwa mayele"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "mpe moninga"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "ya bato ba zoba"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "akozwa mabe"
+    }
+  ],
+  "timestamp": "2026-09-03T21:41:42.907794543Z",
+  "model": "glm-5.3"
+}

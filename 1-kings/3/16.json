@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 3:16",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Na ntango wana, basi mibale balalamu bayaki epai ya mokonzi, mpe batelemani liboso na ye.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "na ntango wana"
+    },
+    {
+      "surface": "תבאנה",
+      "gloss": "bayaki"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "basi"
+    },
+    {
+      "surface": "זנות",
+      "gloss": "balalamu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "ותעמדנה",
+      "gloss": "batelemani"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "liboso na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T18:43:58.807351859Z",
+  "model": "glm-5.3"
+}

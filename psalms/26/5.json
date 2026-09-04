@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 26:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "Nakingani lisanga ya babubi, mpe na babei nakokiana te.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "nakingani"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "lisanga"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "ya babubi"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "mpe na"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "babei"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "nakokiana"
+    }
+  ],
+  "timestamp": "2026-09-03T21:05:56.398757436Z",
+  "model": "glm-5.3"
+}

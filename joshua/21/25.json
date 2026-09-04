@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 21:25",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Mpe na ndambo ya libota ya Menashsheh ⟨את⟩ Taanak mpe ⟨את⟩ mabeli na yango, mpe ⟨את⟩ Gat Rimon mpe ⟨את⟩ mabeli na yango — bamboka mibale.",
+  "tokens": [
+    {
+      "surface": "וממחצית",
+      "gloss": "mpe na ndambo ya"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "libota ya"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashsheh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Taanak"
+    },
+    {
+      "surface": "תענך",
+      "gloss": "Taanak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mabeli na yango"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mabeli na yango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Gat Rimon"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Rimon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mabeli na yango"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mabeli na yango"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "bamboka"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "mibale"
+    }
+  ],
+  "timestamp": "2026-09-03T17:53:33.248086459Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 22:20",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Mpe mopaya okonyokesa ⟨yango⟩ te, mpe okosinya yango te; mpamba te bozalaki bapaya na mboka ya Mitsraim.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "mpe mopaya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תונה",
+      "gloss": "okonyokesa ⟨yango⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "תלחצנו",
+      "gloss": "okosinya yango"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpamba te"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "bapaya"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "bozalaki"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mboka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    }
+  ],
+  "timestamp": "2026-09-03T16:25:53.713958904Z",
+  "model": "glm-5.3"
+}

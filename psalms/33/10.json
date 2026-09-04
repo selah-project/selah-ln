@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 33:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 33,
+  "translation": "Yawe abebisaki makanisi ya bikolo, apekisaki mabongisi ya bato.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הפיר",
+      "gloss": "abebisaki"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "makanisi"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ya bikolo"
+    },
+    {
+      "surface": "הניא",
+      "gloss": "apekisaki"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "mabongisi"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ya bato"
+    }
+  ],
+  "timestamp": "2026-09-03T21:07:50.114670916Z",
+  "model": "glm-5.3"
+}

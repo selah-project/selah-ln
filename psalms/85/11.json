@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 85:11",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 85,
+  "translation": "hesed mpe bosolo ekutanaki ⟨elongo⟩; bomalamu mpe kimia babesaki ⟨elongo⟩.",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "mpe bosolo"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "ekutanaki"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "bomalamu"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "mpe kimia"
+    },
+    {
+      "surface": "נשקו",
+      "gloss": "babesaki"
+    }
+  ],
+  "timestamp": "2026-09-03T21:22:15.164335087Z",
+  "model": "glm-5.3"
+}

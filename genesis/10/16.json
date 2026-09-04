@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 10:16",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Mpe ⟨את⟩ Yevusi, mpe ⟨את⟩ Emori, mpe ⟨את⟩ Girgashi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Yevusi"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "Yevusi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Emori"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emori"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Girgashi"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "Girgashi"
+    }
+  ],
+  "timestamp": "2026-09-03T15:48:48.444143943Z",
+  "model": "glm-5.3"
+}

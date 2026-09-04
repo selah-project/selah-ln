@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 15:2",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 15,
+  "translation": "Mpe oyo nde liloba ya shemita: nyonso oyo azali nkolo ya mosolo wa maboko na ye, oyo opesaki epai ya moninga na ye, te asenga — akosenga te ⟨את⟩ moninga na ye mpe ⟨את⟩ ndeko na ye, mpo ebengamaki shemita epai ya Yawe.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Mpe oyo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "liloba"
+    },
+    {
+      "surface": "השמטה",
+      "gloss": "ya shemita"
+    },
+    {
+      "surface": "שמוט",
+      "gloss": "te asenga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "nkolo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ya mosolo"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "wa maboko na ye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ישה",
+      "gloss": "opesaki"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "epai ya moninga na ye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "akosenga te"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moninga na ye"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "moninga na ye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "ndeko na ye"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ndeko na ye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ebengamaki"
+    },
+    {
+      "surface": "שמטה",
+      "gloss": "shemita"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "epai ya Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T17:32:01.872776987Z",
+  "model": "glm-5.3"
+}

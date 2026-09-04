@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 77:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 77,
+  "translation": "Hesed na yango esilaki na libela? Liloba esilaki na mibota mpe na mibota?",
+  "tokens": [
+    {
+      "surface": "האפס",
+      "gloss": "esilaki"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "na libela"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed na yango"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "esilaki"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "liloba"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "na mibota"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "mpe na mibota"
+    }
+  ],
+  "timestamp": "2026-09-03T21:18:57.101470307Z",
+  "model": "glm-5.3"
+}

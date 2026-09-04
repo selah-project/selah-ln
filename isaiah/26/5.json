@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 26:5",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "Mpo ⟨Yawe⟩ asilakisaki bafandi ya likoló, mboka ya likoló; akitisaki yango, akitisaki yango kino mabele, akomakisaki yango kino mpufu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "השח",
+      "gloss": "asilakisaki"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "bafandi"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "ya likoló"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "mboka"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "ya likoló"
+    },
+    {
+      "surface": "ישפילנה",
+      "gloss": "akitisaki yango"
+    },
+    {
+      "surface": "ישפילה",
+      "gloss": "akitisaki yango"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "יגיענה",
+      "gloss": "akomakisaki yango"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "mpufu"
+    }
+  ],
+  "timestamp": "2026-09-03T19:22:18.376578550Z",
+  "model": "glm-5.3"
+}

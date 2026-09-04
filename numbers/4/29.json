@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 4:29",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Bana ya Merari, na bibota na bango, na ndako ya bankoko na bango, okanisa ⟨את⟩ bango.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "na bibota na bango"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "na ndako ya"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "bankoko na bango"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "okanisa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bango",
+      "marks": "bango (bana ya Merari)"
+    }
+  ],
+  "timestamp": "2026-09-03T17:00:46.837269433Z",
+  "model": "glm-5.3"
+}

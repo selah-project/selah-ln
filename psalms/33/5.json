@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 33:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 33,
+  "translation": "Azali kolinga bolobato mpe bosambisi; mabele emalami na hesed ya Yawe (bolingo ya malamu).",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "azali kolinga"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "bolobato"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "mpe bosambisi"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "emalami"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T21:07:47.832405891Z",
+  "model": "glm-5.3"
+}

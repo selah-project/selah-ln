@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 7:24",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mpe Mitsraim nyonso bafukaki pene ya ebale, koluka mai ya komela, mpo ete bakokaki te komela mai ya ebale.",
+  "tokens": [
+    {
+      "surface": "ויחפרו",
+      "gloss": "mpe bafukaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "סביבת",
+      "gloss": "pene ya"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "ebale"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mai"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "ya komela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "bakokaki"
+    },
+    {
+      "surface": "לשתת",
+      "gloss": "komela"
+    },
+    {
+      "surface": "ממימי",
+      "gloss": "mai ya"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "ebale"
+    }
+  ],
+  "timestamp": "2026-09-03T16:14:42.585251420Z",
+  "model": "glm-5.3"
+}

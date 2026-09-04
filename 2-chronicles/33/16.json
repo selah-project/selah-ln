@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 33:16",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 33,
+  "translation": "Mpe abongisaki ⟨את⟩ altare ya Yawe, mpe abekaki na yango banyama ya kimia mpe ya botondi, mpe alobaki na Yuda ete basalele ⟨את⟩ Yawe Elohim ya Israel.",
+  "tokens": [
+    {
+      "surface": "ויכן",
+      "gloss": "abongisaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "altare ya Yawe"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altare"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויזבח",
+      "gloss": "abekaki"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "banyama"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "ya kimia"
+    },
+    {
+      "surface": "ותודה",
+      "gloss": "mpe botondi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "na Yuda"
+    },
+    {
+      "surface": "לעבוד",
+      "gloss": "ete basalele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-03T23:08:31.331203531Z",
+  "model": "glm-5.3"
+}

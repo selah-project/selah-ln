@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 10:18",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Na koyeleuma toya ezali kokwea, mpe na bobole ya maboko ndako ezali kotoka.",
+  "tokens": [
+    {
+      "surface": "בעצלתים",
+      "gloss": "na koyeleuma"
+    },
+    {
+      "surface": "ימך",
+      "gloss": "ezali kokwea"
+    },
+    {
+      "surface": "המקרה",
+      "gloss": "toya"
+    },
+    {
+      "surface": "ובשפלות",
+      "gloss": "mpe na bobole"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "ya maboko"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "ezali kotoka"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ndako"
+    }
+  ],
+  "timestamp": "2026-09-03T22:14:41.963264544Z",
+  "model": "glm-5.3"
+}

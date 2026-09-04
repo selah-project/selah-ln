@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 23:16",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Mpe Yawe ekutaki na Bilam, mpe atyaki liloba monoko na ye, mpe alobaki: Zonga epai na Balaq, mpe bongo oloba.",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "Mpe ekutaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "mpe atyaki"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "liloba"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "monoko na ye"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "Zonga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai na"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balaq"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "mpe bongo"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "oloba"
+    }
+  ],
+  "timestamp": "2026-09-03T17:14:45.652576471Z",
+  "model": "glm-5.3"
+}

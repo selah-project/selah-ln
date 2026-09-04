@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 8:3",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe David abubaki ⟨את⟩ Hadadezer mwana ya Rehob, mokonzi ya Tsoba, na bokende na yango komema lisusu maboko na yango na ebale.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "abubaki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadadezer"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rehob"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsoba"
+    },
+    {
+      "surface": "בלכתו",
+      "gloss": "na bokende na yango"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "komema lisusu"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "maboko na yango"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "na ebale"
+    }
+  ],
+  "timestamp": "2026-09-03T23:23:05.351443954Z",
+  "model": "glm-5.3"
+}

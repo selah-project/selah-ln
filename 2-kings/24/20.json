@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 24:20",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "Mpo na colère ya Yawe ezalaki na Yerushalaim mpe na Yehuda, kino atiki ⟨את⟩ bango utuku na liboso na ye; mpe Tsidkiyahu aboyaki kotosa mokonzi wa Bavel.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "אף",
+      "gloss": "colère ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ezalaki"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "na Yerushalaim"
+    },
+    {
+      "surface": "וביהודה",
+      "gloss": "mpe na Yehuda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "השלכו",
+      "gloss": "atiki"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bango",
+      "marks": "bango (Yerushalaim mpe Yehuda)"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "utuku na"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "liboso na ye"
+    },
+    {
+      "surface": "וימרד",
+      "gloss": "mpe aboyaki kotosa"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "wa Bavel"
+    }
+  ],
+  "timestamp": "2026-09-03T19:11:38.860952526Z",
+  "model": "glm-5.3"
+}

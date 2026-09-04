@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 27:2",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 27,
+  "translation": "Mpe okosala minyoko na yango na minei makeko na yango; na yango moko minyoko na yango ekokaka; mpe okozipa ⟨את⟩ yango na mabende.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Mpe okosala"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "minyoko na yango"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "minei"
+    },
+    {
+      "surface": "פנתיו",
+      "gloss": "makeko na yango"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "na yango moko"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "ekokaka"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "minyoko na yango"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "mpe okozipa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yango"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "mabende"
+    }
+  ],
+  "timestamp": "2026-09-03T16:29:20.089641489Z",
+  "model": "glm-5.3"
+}

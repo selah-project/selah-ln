@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 102:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 102,
+  "translation": "Nalinganaki na kaata ya etando, nazalaki lokola nkuku ya bopoto.",
+  "tokens": [
+    {
+      "surface": "דמיתי",
+      "gloss": "nalinganaki"
+    },
+    {
+      "surface": "לקאת",
+      "gloss": "na kaata"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ya etando"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "nazalaki"
+    },
+    {
+      "surface": "ככוס",
+      "gloss": "lokola nkuku"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "ya bopoto"
+    }
+  ],
+  "timestamp": "2026-09-03T21:25:53.169926531Z",
+  "model": "glm-5.3"
+}

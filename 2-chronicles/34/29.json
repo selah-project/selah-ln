@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-chronicles 34:29",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 34,
+  "translation": "Mpe mokonzi atindaki mpe asangisaki ⟨את⟩ bankulu nyonso ya Yehuda mpe ya Yerushalaim.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "mpe atindaki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "mpe asangisaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bankulu nyonso ya Yehuda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "bankulu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "mpe ya Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-09-03T23:10:36.350514482Z",
+  "model": "glm-5.3"
+}

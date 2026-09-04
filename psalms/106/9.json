@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 106:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 106,
+  "translation": "Akanaki Mbu ya Suph mpe komelaki, mpe amemaki bango na mitema lokola na etando.",
+  "tokens": [
+    {
+      "surface": "ויגער",
+      "gloss": "Akanaki"
+    },
+    {
+      "surface": "בים",
+      "gloss": "Mbu"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "ya Suph"
+    },
+    {
+      "surface": "ויחרב",
+      "gloss": "mpe komelaki"
+    },
+    {
+      "surface": "ויוליכם",
+      "gloss": "mpe amemaki bango"
+    },
+    {
+      "surface": "בתהמות",
+      "gloss": "na mitema"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "lokola na etando"
+    }
+  ],
+  "timestamp": "2026-09-03T21:27:49.158844341Z",
+  "model": "glm-5.3"
+}

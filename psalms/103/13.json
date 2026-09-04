@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 103:13",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 103,
+  "translation": "Lokola tata amonaka mawa na bana, Yawe amonaka mawa na bayo babangi ⟨ye⟩.",
+  "tokens": [
+    {
+      "surface": "כרחם",
+      "gloss": "Lokola ... amonaka mawa"
+    },
+    {
+      "surface": "אב",
+      "gloss": "tata"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bana"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "amonaka mawa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "babo babangi ⟨ye⟩"
+    }
+  ],
+  "timestamp": "2026-09-03T21:25:58.306481465Z",
+  "model": "glm-5.3"
+}

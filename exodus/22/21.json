@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 22:21",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Mwasi mokufi nyonso na mwana nkufi, bokopesa ⟨bango⟩ mpasi te.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "mwasi mokufi"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "na mwana nkufi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תענון",
+      "gloss": "bokopesa mpasi"
+    }
+  ],
+  "timestamp": "2026-09-03T16:25:11.279346463Z",
+  "model": "glm-5.3"
+}

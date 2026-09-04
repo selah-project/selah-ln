@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 1:21",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe moto Elkana, mpe ndako na ye mobimba, alongaki likolo mpo na kopesa na Yawe ⟨את⟩ mbeka ya mbula mpe ⟨את⟩ mokano na ye.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "alongaki likolo"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkana"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe ... mobimba"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ndako na ye"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "mpo na kopesa mbeka"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "na Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbeka ya mbula"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "mbeka"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ya mbula"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mokano na ye"
+    },
+    {
+      "surface": "נדרו",
+      "gloss": "mokano na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T18:10:18.263132431Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 23:5",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Na sanza ya liboso, na zomi na minei ya sanza, kati na mipoli mibale, ezali Pesakh ⟨ya⟩ Yawe.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "Na sanza"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ya liboso"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "na zomi na minei"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "zomi na minei"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ya sanza"
+    },
+    {
+      "surface": "בין",
+      "gloss": "kati"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "na mipoli mibale"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesakh"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ya Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T16:53:24.075120004Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 7:32",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mpe Hever abotaki ⟨את⟩ Yaflet mpe ⟨את⟩ Shomer mpe ⟨את⟩ Hotam mpe ⟨את⟩ Shua, ndeko mwasi na bango.",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "Mpe Hever"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "abotaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaflet"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "Yaflet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Shomer"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "Shomer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Hotam"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "Hotam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Shua"
+    },
+    {
+      "surface": "שועא",
+      "gloss": "Shua"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "ndeko mwasi na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T23:41:25.926507345Z",
+  "model": "glm-5.3"
+}

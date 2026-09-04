@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 32:13",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 32,
+  "translation": "Mpe yo olobaki: nakosala yo malamu ya solo, mpe nakotiya ⟨את⟩ bokoko na yo lokola mputso ya mbu, oyo bakoki kobota te mpo na bonene.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "mpe yo"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "olobaki"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "malamu"
+    },
+    {
+      "surface": "איטיב",
+      "gloss": "nakosala malamu"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "na yo"
+    },
+    {
+      "surface": "ושמתי",
+      "gloss": "mpe nakotiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bokoko na yo"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "bokoko na yo"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "lokola mputso"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ya mbu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יסספר",
+      "gloss": "bakoki kobota te"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "mpo na bonene"
+    }
+  ],
+  "timestamp": "2026-09-03T23:13:22.549642344Z",
+  "model": "glm-5.3"
+}

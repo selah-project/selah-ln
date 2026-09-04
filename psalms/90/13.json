@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 90:13",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 90,
+  "translation": "Yawe, zonga; kino tango nini? Mpe ozua mawa epai ya basali na yo.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Zonga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "tango nini"
+    },
+    {
+      "surface": "והנחם",
+      "gloss": "mpe ozua mawa"
+    },
+    {
+      "surface": "על",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "basali na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:24:22.657433367Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 1:8",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe mwana mwasi ya Tsion etikali lokola ndako-moke na elanga ya nsara, lokola ndako-moke ya motali na bilanga ya konkombre, lokola mboka ekangami.",
+  "tokens": [
+    {
+      "surface": "ונותרה",
+      "gloss": "Mpe etikali"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana mwasi"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ya Tsion"
+    },
+    {
+      "surface": "כסכה",
+      "gloss": "lokola ndako-moke"
+    },
+    {
+      "surface": "בכרם",
+      "gloss": "na elanga ya nsara"
+    },
+    {
+      "surface": "כמלונה",
+      "gloss": "lokola ndako-moke ya motali"
+    },
+    {
+      "surface": "במקשה",
+      "gloss": "na bilanga ya konkombre"
+    },
+    {
+      "surface": "כעיר",
+      "gloss": "lokola mboka"
+    },
+    {
+      "surface": "נצורה",
+      "gloss": "ekangami"
+    }
+  ],
+  "timestamp": "2026-09-03T19:13:15.348269648Z",
+  "model": "glm-5.3"
+}

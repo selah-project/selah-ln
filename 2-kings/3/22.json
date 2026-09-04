@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 3:22",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe batombaki tongo, mpe moyi molangwaki likolo ya mai, mpe Moab monaki uta mobali ⟨את⟩ mai moyengele lokola makila.",
+  "tokens": [
+    {
+      "surface": "וישכימו",
+      "gloss": "mpe batombaki"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "tongo"
+    },
+    {
+      "surface": "והשמש",
+      "gloss": "mpe moyi"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "molangwaki"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mai"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "mpe monaki"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "uta mobali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mai"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mai"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "moyengele"
+    },
+    {
+      "surface": "כדם",
+      "gloss": "lokola makila"
+    }
+  ],
+  "timestamp": "2026-09-03T18:59:35.078585433Z",
+  "model": "glm-5.3"
+}

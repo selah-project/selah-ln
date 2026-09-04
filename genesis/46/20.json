@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 46:20",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 46,
+  "translation": "Mpe na Yosef, na mabele ya Mitsraim, bbotamaki ⟨את⟩ Menashe mpe ⟨את⟩ Efrayim, oyo Asnat, mwana na ye na mwasi ya Poti-fera, kohen ya On, abotaki epai na ye.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "Mpe bbotamaki"
+    },
+    {
+      "surface": "ליוסף",
+      "gloss": "na Yosef"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mabele ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "abotaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "epai na ye"
+    },
+    {
+      "surface": "אסנת",
+      "gloss": "Asnat"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana na ye na mwasi ya"
+    },
+    {
+      "surface": "פוטי",
+      "gloss": "Poti"
+    },
+    {
+      "surface": "פרע",
+      "gloss": "-fera"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kohen ya"
+    },
+    {
+      "surface": "אן",
+      "gloss": "On"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Menashe"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Efrayim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    }
+  ],
+  "timestamp": "2026-09-03T16:10:06.159548703Z",
+  "model": "glm-5.3"
+}

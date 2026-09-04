@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 16:4",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Kitoni ya lini ya santu nde akengataka, bilamba ya lini ya na se bikokanaka na nzoto na ye, na ekangi ya lini akengata, na turbani ya lini akotya na motwe; bilamba ya santu nde bizali, mpe akosukola na mai ⟨את⟩ nzoto na ye mpe akengataka yango.",
+  "tokens": [
+    {
+      "surface": "כתנת",
+      "gloss": "kitoni"
+    },
+    {
+      "surface": "בד",
+      "gloss": "ya lini"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ya santu"
+    },
+    {
+      "surface": "ילבש",
+      "gloss": "akengataka"
+    },
+    {
+      "surface": "ומכנסי",
+      "gloss": "mpe bilamba ya na se"
+    },
+    {
+      "surface": "בד",
+      "gloss": "ya lini"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bikokanaka"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "nzoto na ye"
+    },
+    {
+      "surface": "ובאבנט",
+      "gloss": "mpe na ekangi"
+    },
+    {
+      "surface": "בד",
+      "gloss": "ya lini"
+    },
+    {
+      "surface": "יחגר",
+      "gloss": "akengata"
+    },
+    {
+      "surface": "ובמצנפת",
+      "gloss": "mpe na turbani"
+    },
+    {
+      "surface": "בד",
+      "gloss": "ya lini"
+    },
+    {
+      "surface": "יצנף",
+      "gloss": "akotya na motwe"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "bilamba"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ya santu"
+    },
+    {
+      "surface": "הם",
+      "gloss": "nde bizali"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "mpe akosukola"
+    },
+    {
+      "surface": "במים",
+      "gloss": "na mai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nzoto na ye"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "nzoto na ye"
+    },
+    {
+      "surface": "ולבשם",
+      "gloss": "mpe akengataka yango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:51:09.578806467Z",
+  "model": "glm-5.3"
+}

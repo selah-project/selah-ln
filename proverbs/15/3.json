@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 15:3",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 15,
+  "translation": "Na esika nyonso miso ya Yawe etalaka mabe mpe malamu.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "Na nyonso"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "esika"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "miso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צפות",
+      "gloss": "etalaka"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "וטובים",
+      "gloss": "mpe malamu"
+    }
+  ],
+  "timestamp": "2026-09-03T21:43:43.694281910Z",
+  "model": "glm-5.3"
+}

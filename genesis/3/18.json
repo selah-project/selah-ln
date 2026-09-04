@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 3:18",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Ekobimela yo bikangi mpe bikangakanga, mpe okolia ⟨את⟩ matete ya shanga.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "mpe bikangi"
+    },
+    {
+      "surface": "ודרדר",
+      "gloss": "mpe bikangakanga"
+    },
+    {
+      "surface": "תצמיח",
+      "gloss": "ekobimela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yo"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "mpe okolia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matete"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "matete"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ya shanga"
+    }
+  ],
+  "timestamp": "2026-09-03T15:45:34.637687469Z",
+  "model": "glm-5.3"
+}

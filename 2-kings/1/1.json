@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 1:1",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Moabi esukanaki na Israel sima ya liwa ya Ahav.",
+  "tokens": [
+    {
+      "surface": "ויפשע",
+      "gloss": "esukanaki"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabi"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "na Israel"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sima ya"
+    },
+    {
+      "surface": "מות",
+      "gloss": "liwa"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahav"
+    }
+  ],
+  "timestamp": "2026-09-03T18:59:02.892137539Z",
+  "model": "glm-5.3"
+}

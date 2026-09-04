@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 66:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 66,
+  "translation": "Akambi na nguya na yango ntango nyonso; miso na yango etali bikolo; bangonzi bakolongwa na likolo ⟨na bango moto na moto⟩ te. Selah.",
+  "tokens": [
+    {
+      "surface": "משל",
+      "gloss": "Akambi"
+    },
+    {
+      "surface": "בגבורתו",
+      "gloss": "na nguya na yango"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ntango nyonso"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "miso na yango"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "na bikolo"
+    },
+    {
+      "surface": "תצפינה",
+      "gloss": "etali"
+    },
+    {
+      "surface": "הסוררים",
+      "gloss": "bangonzi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "ירימו",
+      "gloss": "bakolongwa na likolo"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨na bango⟩"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-03T21:15:59.743610685Z",
+  "model": "glm-5.3"
+}

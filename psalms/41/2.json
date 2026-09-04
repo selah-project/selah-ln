@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 41:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 41,
+  "translation": "Bolamu ya oyo azali kosolola na mokemoke; na mokolo ya mabe Yawe akolokola ye.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Bolamu"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "oyo azali kosolola"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "דל",
+      "gloss": "mokemoke"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na mokolo"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ya mabe"
+    },
+    {
+      "surface": "ימלטהו",
+      "gloss": "akolokola ye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T21:10:15.078647092Z",
+  "model": "glm-5.3"
+}

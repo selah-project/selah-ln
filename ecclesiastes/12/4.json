@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 12:4",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "mpe mipeti ya zando epongamaki, na litikitiki ya litoi ya konyata, mpe akeki na litoi ya ndeke, mpe bana mwasi nyonso ya nzembo bakeki.",
+  "tokens": [
+    {
+      "surface": "וסגרו",
+      "gloss": "mpe epongamaki"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "mipeti"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "ya zando"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "na litikitiki ya"
+    },
+    {
+      "surface": "קול",
+      "gloss": "litoi"
+    },
+    {
+      "surface": "הטחנה",
+      "gloss": "ya konyata"
+    },
+    {
+      "surface": "ויקום",
+      "gloss": "mpe akeki"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "na litoi ya"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "ndeke"
+    },
+    {
+      "surface": "וישחו",
+      "gloss": "mpe bakeki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "bana mwasi ya"
+    },
+    {
+      "surface": "השיר",
+      "gloss": "nzembo"
+    }
+  ],
+  "timestamp": "2026-09-03T22:16:48.108837859Z",
+  "model": "glm-5.3"
+}

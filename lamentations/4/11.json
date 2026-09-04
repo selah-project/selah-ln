@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "lamentations 4:11",
+  "book": "lamentations",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Yawe asili ⟨את⟩ meyi na ye, asakaki sanzu ya kanda na ye, mpe atindaki moto na Tsion, mpe moto moye liaki nabanto na yango.",
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "asili"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meyi na ye"
+    },
+    {
+      "surface": "חמתו",
+      "gloss": "meyi na ye"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "asakaki"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "sanzu ya"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "kanda na ye"
+    },
+    {
+      "surface": "ויצת",
+      "gloss": "mpe atindaki"
+    },
+    {
+      "surface": "אש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "na Tsion"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "mpe liaki"
+    },
+    {
+      "surface": "יסודתיה",
+      "gloss": "nabanto na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T22:10:44.186047305Z",
+  "model": "glm-5.3"
+}

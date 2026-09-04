@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 73:22",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 73,
+  "translation": "Mpe ngai naza na mayele te, nazali koyeba te; nalaki nyama ya zamba epai na yo.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Mpe ngai"
+    },
+    {
+      "surface": "בער",
+      "gloss": "naza na mayele te"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "te"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "nazali koyeba"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "nyama ya zamba"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "nalaki"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "epai na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:18:19.078433355Z",
+  "model": "glm-5.3"
+}

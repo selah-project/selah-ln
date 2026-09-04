@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 23:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Ata soki natambola na libulu ya mpiwa ya liwa, nakoyika bobangi te, mpo ozali na ngai; bankumba na yo na mokonzi-bokonzi na yo, yango nde ezalisaka ngai mawa.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Ata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "soki"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "natambola"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "na libulu"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "ya mpiwa ya liwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "nakoyika bobangi"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ozali"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "שבטך",
+      "gloss": "bankumba na yo"
+    },
+    {
+      "surface": "ומשענתך",
+      "gloss": "na mokonzi-bokonzi na yo"
+    },
+    {
+      "surface": "המה",
+      "gloss": "yango nde"
+    },
+    {
+      "surface": "ינחמני",
+      "gloss": "ezalisaka ngai mawa"
+    }
+  ],
+  "timestamp": "2026-09-03T21:04:51.700740101Z",
+  "model": "glm-5.3"
+}

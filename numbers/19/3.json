@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 19:3",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Mpe bopesi ⟨את⟩ yango epai ya Elazar kohen, mpe akomema ⟨את⟩ yango libanda ya kaa, mpe akoloma ⟨את⟩ yango liboso na yango.",
+  "tokens": [
+    {
+      "surface": "ונתתם",
+      "gloss": "bopesi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ndambo ya mwasi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "mpe akomema"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ndambo ya mwasi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "libanda"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kaa"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "mpe akoloma"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ndambo ya mwasi"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "liboso na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T17:13:18.094011136Z",
+  "model": "glm-5.3"
+}

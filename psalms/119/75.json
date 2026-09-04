@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 75,
+  "ref": "psalms 119:75",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Nayebi, Yawe, ete bosemi ezali na mibeko na yo, mpe na bosembo onaliakisaki ngai.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "nayebi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "bosemi"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "mibeko na yo"
+    },
+    {
+      "surface": "ואמונה",
+      "gloss": "mpe na bosembo"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "onaliakisaki ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:31:48.831471526Z",
+  "model": "glm-5.3"
+}

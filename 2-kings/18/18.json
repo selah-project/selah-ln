@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 18:18",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Mpe babengaki mokonzi, mpe abimaki epai na bango Elyakim mwana ya Hilkiyahu, oyo azali na likolo ya ndako, mpe Shebna mokomi, mpe Yoah mwana ya Asaf moyebi.",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "mpe babengaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "mpe abimaki"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "epai na bango"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Elyakim"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "Hilkiyahu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "na likolo ya"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "ושבנה",
+      "gloss": "mpe Shebna"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "mokomi"
+    },
+    {
+      "surface": "ויואח",
+      "gloss": "mpe Yoah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Asaf"
+    },
+    {
+      "surface": "המזכיר",
+      "gloss": "moyebi"
+    }
+  ],
+  "timestamp": "2026-09-03T19:08:33.456585607Z",
+  "model": "glm-5.3"
+}

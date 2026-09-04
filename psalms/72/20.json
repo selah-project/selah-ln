@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 72,
+  "translation": "Bonondo ya David mwana ya Yishai esilaki.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "esilaki"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "bonondo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:17:43.754046859Z",
+  "model": "glm-5.3"
+}

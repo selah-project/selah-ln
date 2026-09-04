@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 8:15",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe bakwea kati na yango bango ebele, mpe bakweaka, mpe bokotakaki, mpe bakanisaki-nzela, mpe bakangamaki.",
+  "tokens": [
+    {
+      "surface": "וכשלו",
+      "gloss": "mpe bakwea kati na yango"
+    },
+    {
+      "surface": "בם",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "bango ebele"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "mpe bakweaka"
+    },
+    {
+      "surface": "ונשברו",
+      "gloss": "mpe bokotakaki"
+    },
+    {
+      "surface": "ונוקשו",
+      "gloss": "mpe bakanisaki-nzela"
+    },
+    {
+      "surface": "ונלכדו",
+      "gloss": "mpe bakangamaki"
+    }
+  ],
+  "timestamp": "2026-09-03T19:14:39.146403625Z",
+  "model": "glm-5.3"
+}

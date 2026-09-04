@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 50:18",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 50,
+  "translation": "Soki omonaki moyibi, mpe ozalaki kosala elongo na ye, mpe na bafemi ndingisa na yo ezalaki.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "soki"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "omonaki"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "moyibi"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "mpe ozalaki kosala elongo na ye"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "elongo na ye"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "mpe na"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "bafemi"
+    },
+    {
+      "surface": "חלקך",
+      "gloss": "ndingisa na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:12:10.999682488Z",
+  "model": "glm-5.3"
+}

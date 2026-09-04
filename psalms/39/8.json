@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 39:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 39,
+  "translation": "Mpe sikoyo, nazali kozela nini, Adonai? Eliki ya ngai ⟨ezali⟩ epai na yo.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Mpe sikoyo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "nazali kozela"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "תוחלתי",
+      "gloss": "Eliki ya ngai"
+    },
+    {
+      "surface": "לך",
+      "gloss": "epai na yo"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ezali⟩"
+    }
+  ],
+  "timestamp": "2026-09-03T21:10:42.882184311Z",
+  "model": "glm-5.3"
+}

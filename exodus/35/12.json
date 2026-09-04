@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 35:12",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 35,
+  "translation": "⟨את⟩ arke mpe ⟨את⟩ bambangi na yango, ⟨את⟩ kaporete, mpe ⟨את⟩ parokete ya likwehi.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "arke"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "arke"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bambangi na yango"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "bambangi na yango"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaporete"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kaporete"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "parokete ya likwehi"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "parokete"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "likwehi"
+    }
+  ],
+  "timestamp": "2026-09-03T16:32:48.493990283Z",
+  "model": "glm-5.3"
+}

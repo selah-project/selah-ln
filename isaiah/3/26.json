@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "isaiah 3:26",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe bibombi na yango bakolila mpe kawa, mpe ⟨yo⟩ etikamaki, akofanda na mabele.",
+  "tokens": [
+    {
+      "surface": "ואנו",
+      "gloss": "bakolila"
+    },
+    {
+      "surface": "ואבלו",
+      "gloss": "mpe kawa"
+    },
+    {
+      "surface": "פתחיה",
+      "gloss": "bibombi na yango"
+    },
+    {
+      "surface": "ונקתה",
+      "gloss": "mpe etikamaki"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "akofanda"
+    }
+  ],
+  "timestamp": "2026-09-03T19:14:01.472677514Z",
+  "model": "glm-5.3"
+}

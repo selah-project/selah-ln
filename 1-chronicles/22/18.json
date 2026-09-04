@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 22:18",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Yawe Elohim na bino azali elongo na bino te? mpe asili kopesa bino boboto pembeni nyonso, mpo apeši ⟨את⟩ bato oyo bafandaka na mabele na maboko na ngai, mpe mabele ekangamaki liboso ya Yawe mpe liboso ya bato na ye.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "te?"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim na bino"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "elongo na bino"
+    },
+    {
+      "surface": "והניח",
+      "gloss": "mpe asili kopesa boboto"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "na bino"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "pembeni nyonso"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "apeši"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "na maboko na ngai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bato oyo bafandaka na mabele"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "bato oyo bafandaka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "ונכבשה",
+      "gloss": "mpe ekangamaki"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "mpe liboso ya"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bato na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T22:50:22.859383515Z",
+  "model": "glm-5.3"
+}

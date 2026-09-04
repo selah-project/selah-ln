@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 5:5",
+  "book": "micah",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Babomaki ⟨את⟩ mabele Ashuru na mbeto, mpe ⟨את⟩ mabele Nimrod na zipa na yango; mpe abikisaki ⟨na⟩ Ashuru, soki akoya na mabele na biso, mpe soki andalaka na ndelo na biso.",
+  "tokens": [
+    {
+      "surface": "ורעו",
+      "gloss": "babomaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabele Ashuru"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashuru"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "na mbeto"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mabele Nimrod"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "בפתחיה",
+      "gloss": "na zipa na yango"
+    },
+    {
+      "surface": "והציל",
+      "gloss": "mpe abikisaki"
+    },
+    {
+      "surface": "מאשור",
+      "gloss": "⟨na⟩ Ashuru"
+    },
+    {
+      "surface": "כי",
+      "gloss": "soki"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "akoya"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "na mabele na biso"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "mpe soki"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "andalaka"
+    },
+    {
+      "surface": "בגבולנו",
+      "gloss": "na ndelo na biso"
+    }
+  ],
+  "timestamp": "2026-09-03T20:48:34.420269990Z",
+  "model": "glm-5.3"
+}

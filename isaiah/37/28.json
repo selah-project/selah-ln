@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 37:28",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 37,
+  "translation": "Mpe kofanda na yo, mpe bokende na yo, mpe koyela na yo, nayebi, mpe ⟨את⟩ bokwi na yo epai na ngai.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "mpe kofanda na yo"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "mpe bokende na yo"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "mpe koyela na yo"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "nayebi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bokwi na yo"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "bokwi na yo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "epai na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T19:27:41.068843148Z",
+  "model": "glm-5.3"
+}

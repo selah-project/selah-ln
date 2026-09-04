@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 91:13",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 91,
+  "translation": "Okotambola na likolo ya nkoi mpe nyoka; okofutama nkoi ya bakala mpe nyoka monene na maboku.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "na likolo ya"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "nkoi"
+    },
+    {
+      "surface": "ופתן",
+      "gloss": "mpe nyoka"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "okotambola"
+    },
+    {
+      "surface": "תרמס",
+      "gloss": "okofutama"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "nkoi ya bakala"
+    },
+    {
+      "surface": "ותנין",
+      "gloss": "mpe nyoka monene"
+    }
+  ],
+  "timestamp": "2026-09-03T21:24:44.616216566Z",
+  "model": "glm-5.3"
+}

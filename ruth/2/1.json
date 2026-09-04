@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ruth 2:1",
+  "book": "ruth",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe Naomi azalaki na moninga ya mobali na ye, moto ya nguya ya makasi, ya libota ya Elimelek, mpe nkombo na ye Boaz.",
+  "tokens": [
+    {
+      "surface": "ולנעמי",
+      "gloss": "Mpe Naomi"
+    },
+    {
+      "surface": "מידע",
+      "gloss": "moninga"
+    },
+    {
+      "surface": "לאישה",
+      "gloss": "ya mobali na ye"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ya nguya"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ya makasi"
+    },
+    {
+      "surface": "ממשפחת",
+      "gloss": "ya libota"
+    },
+    {
+      "surface": "אלימלך",
+      "gloss": "Elimelek"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "mpe nkombo na ye"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaz"
+    }
+  ],
+  "timestamp": "2026-09-03T22:09:30.859243827Z",
+  "model": "glm-5.3"
+}

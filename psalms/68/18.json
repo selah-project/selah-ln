@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 68:18",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 68,
+  "translation": "Bakau ya Elohim ezali nkuku mibale, nkuku ya babongwanaka; Adonai azali kati na yango, na Sinai, na nsomba.",
+  "tokens": [
+    {
+      "surface": "רכב",
+      "gloss": "Bakau"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "רבתים",
+      "gloss": "ezali nkuku mibale"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "nkuku"
+    },
+    {
+      "surface": "שנאן",
+      "gloss": "ya babongwanaka"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "בם",
+      "gloss": "kati na yango"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "na Sinai"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "na nsomba"
+    }
+  ],
+  "timestamp": "2026-09-03T21:17:25.687007011Z",
+  "model": "glm-5.3"
+}

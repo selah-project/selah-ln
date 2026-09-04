@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 23:8",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Mpe mbongo ya kofeba okozwa te; mpo mbongo ya kofeba ebombaka miso ya bato bamonisi-malamu mpe ebukaka maloba ya bato ya sembo.",
+  "tokens": [
+    {
+      "surface": "ושחד",
+      "gloss": "Mpe mbongo ya kofeba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "okozwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "השחד",
+      "gloss": "mbongo ya kofeba"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "ebombaka miso"
+    },
+    {
+      "surface": "פקחים",
+      "gloss": "ya bato bamonisi-malamu"
+    },
+    {
+      "surface": "ויסלף",
+      "gloss": "mpe ebukaka"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "maloba"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ya bato ya sembo"
+    }
+  ],
+  "timestamp": "2026-09-03T16:25:00.923358871Z",
+  "model": "glm-5.3"
+}

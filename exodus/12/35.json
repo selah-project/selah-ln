@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 12:35",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Mpe bana ya Israel basalaki ndenge Liloba ya Moshe elobaki, mpe babengaki epai ya ba-Mitsraim biloko ya feda, mpe biloko ya waoro, mpe bampingi.",
+  "tokens": [
+    {
+      "surface": "וּבְנֵי",
+      "gloss": "Mpe bana"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "עָשׂוּ",
+      "gloss": "basalaki"
+    },
+    {
+      "surface": "כִּדְבַר",
+      "gloss": "ndenge Liloba"
+    },
+    {
+      "surface": "מֹשֶׁה",
+      "gloss": "ya Moshe"
+    },
+    {
+      "surface": "וַיִּשְׁאֲלוּ",
+      "gloss": "mpe babengaki"
+    },
+    {
+      "surface": "מִמִּצְרַיִם",
+      "gloss": "epai ya ba-Mitsraim"
+    },
+    {
+      "surface": "כְּלֵי",
+      "gloss": "biloko"
+    },
+    {
+      "surface": "כֶּסֶף",
+      "gloss": "ya feda"
+    },
+    {
+      "surface": "וּכְלֵי",
+      "gloss": "mpe biloko"
+    },
+    {
+      "surface": "זָהָב",
+      "gloss": "ya waoro"
+    },
+    {
+      "surface": "וּשְׂמָלֹת",
+      "gloss": "mpe bampingi"
+    }
+  ],
+  "timestamp": "2026-09-03T16:20:34.349289558Z",
+  "model": "glm-5.3"
+}

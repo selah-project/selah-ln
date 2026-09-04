@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 119:12",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Baraki yo, Yawe; longisa ngai malako na yo.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Baraki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "longisa ngai"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "malako na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T23:34:57.927358788Z",
+  "model": "glm-5.3"
+}

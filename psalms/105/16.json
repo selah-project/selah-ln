@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 105:16",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 105,
+  "translation": "Mpe abengaki nzala likolo ya mabele; ebukaki nzete ya lipa mobimba.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "mpe abengaki"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "nzala"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mobimba"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "nzete"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "lipa"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ebukaki"
+    }
+  ],
+  "timestamp": "2026-09-03T21:27:44.008411792Z",
+  "model": "glm-5.3"
+}

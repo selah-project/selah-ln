@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 18:10",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Na mosantu ya bamosantu okolia ⟨את⟩ yango; mobali nyonso akolia yango; mosantu ezali na yo.",
+  "tokens": [
+    {
+      "surface": "בקדש",
+      "gloss": "na mosantu"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "ya bamosantu"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "okolia yango"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mobali"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "akolia"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yango",
+      "marks": "yango"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "mosantu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ezali"
+    },
+    {
+      "surface": "לך",
+      "gloss": "na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T17:10:47.814365785Z",
+  "model": "glm-5.3"
+}

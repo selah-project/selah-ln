@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 56:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 56,
+  "translation": "Bozanganzanga na ngai yo moko onotali; tyá misungi na ngai na bokapo na yo; boye te ezali na buku na yo?",
+  "tokens": [
+    {
+      "surface": "נדי",
+      "gloss": "Bozanganzanga na ngai"
+    },
+    {
+      "surface": "ספרתה",
+      "gloss": "onotali"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo moko"
+    },
+    {
+      "surface": "שימה",
+      "gloss": "tyá"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "misungi na ngai"
+    },
+    {
+      "surface": "בנאדך",
+      "gloss": "na bokapo na yo"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "boye te"
+    },
+    {
+      "surface": "בספרתך",
+      "gloss": "na buku na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:13:38.203427317Z",
+  "model": "glm-5.3"
+}

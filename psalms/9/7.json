@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 9:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Banganga esilaki, bisika ya bobebami na libela; mpe bingumba onatolaki, bokanisi na bango ebungaki na bango moko.",
+  "tokens": [
+    {
+      "surface": "האויב",
+      "gloss": "banganga"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "esilaki"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "bisika ya bobebami"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "na libela"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "mpe bingumba"
+    },
+    {
+      "surface": "נתשת",
+      "gloss": "onatolaki"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "ebungaki"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "bokanisi na bango"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bango moko"
+    }
+  ],
+  "timestamp": "2026-09-03T21:01:51.657957309Z",
+  "model": "glm-5.3"
+}

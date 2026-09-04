@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 49:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 49,
+  "translation": "Ndeko bobomba te akokobomba moto; moto akoki te kopesa Elohim mbongo ya bobombi na ye.",
+  "tokens": [
+    {
+      "surface": "אח",
+      "gloss": "Ndeko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "bobomba"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "akokobomba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "akopesa"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כפרו",
+      "gloss": "mbongo ya bobombi na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:11:30.025726417Z",
+  "model": "glm-5.3"
+}

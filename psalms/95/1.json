@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 95:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 95,
+  "translation": "Boya, toyembela Yawe, tokolaka mpo na libanga ya bokengeli na biso.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Boya"
+    },
+    {
+      "surface": "נרננה",
+      "gloss": "toyembela"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "נריעה",
+      "gloss": "tokolaka"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "mpo na libanga"
+    },
+    {
+      "surface": "יִשְׁעֵנוּ",
+      "gloss": "ya bokengeli na biso"
+    }
+  ],
+  "timestamp": "2026-09-03T21:24:45.809760587Z",
+  "model": "glm-5.3"
+}

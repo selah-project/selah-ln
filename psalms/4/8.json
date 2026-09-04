@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 4:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Opesi elikya na motema na ngai, uta na ntango masangu na bango mpe vin na bango ezalaki mingi.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "Opesi"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "elikya"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "na motema na ngai"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "uta na ntango"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "masangu na bango"
+    },
+    {
+      "surface": "ותירושם",
+      "gloss": "mpe vin na bango"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "ezalaki mingi"
+    }
+  ],
+  "timestamp": "2026-09-03T20:59:48.631195123Z",
+  "model": "glm-5.3"
+}

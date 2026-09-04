@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "daniel 5:6",
+  "book": "daniel",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Ntango wana bongengi ya mokonzi ebongwaki, mpe makanisi na ye yekebisaki ye; bisangani ya libumu na ye esololaki, mpe mapaku na ye zitakisaki oyo na oyo.",
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "Ntango wana"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "זיוהי",
+      "gloss": "bongengi"
+    },
+    {
+      "surface": "שנוהי",
+      "gloss": "ebongwaki"
+    },
+    {
+      "surface": "ורעינהי",
+      "gloss": "mpe makanisi na ye"
+    },
+    {
+      "surface": "יבהלונה",
+      "gloss": "yekebisaki ye"
+    },
+    {
+      "surface": "וקטרי",
+      "gloss": "mpe bisangani"
+    },
+    {
+      "surface": "חרצה",
+      "gloss": "ya libumu"
+    },
+    {
+      "surface": "משתרין",
+      "gloss": "esololaki"
+    },
+    {
+      "surface": "וארכבתה",
+      "gloss": "mpe mapaku"
+    },
+    {
+      "surface": "דא",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לדא",
+      "gloss": "na oyo"
+    },
+    {
+      "surface": "נקשן",
+      "gloss": "zitakisaki"
+    }
+  ],
+  "timestamp": "2026-09-03T22:23:04.946659289Z",
+  "model": "glm-5.3"
+}

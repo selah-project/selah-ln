@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 11:9",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpe Yawe alobaki epai na ngai: boyokani ya mabe ezwami kati na bato ya Yehudha mpe kati na bato ya Yerushalaim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "epai na ngai"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "ezwami"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "boyokani ya mabe"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "kati na bato ya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudha"
+    },
+    {
+      "surface": "ובישבי",
+      "gloss": "mpe kati na bato ya"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-09-03T19:46:01.427236188Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 4:12",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpema makasi uta kuna ekoya epai na ngai; sikoyo ngai mpe nakoloba ⟨את⟩ mibeko na bango.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "mpema"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "makasi"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "uta kuna"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ekoya"
+    },
+    {
+      "surface": "לי",
+      "gloss": "epai na ngai"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "sikoyo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "nakoloba"
+    },
+    {
+      "surface": "משפטים",
+      "gloss": "mibeko"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ bango",
+      "marks": "bango"
+    }
+  ],
+  "timestamp": "2026-09-03T19:42:49.546225200Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 15:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 15,
+  "translation": "Oyo azali kotambola lokola mopetane, mpe mosali ya bosembo, mpe alobi solo na motema na ye.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "azali kotambola"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "lokola mopetane"
+    },
+    {
+      "surface": "ופועל",
+      "gloss": "mpe mosali ya"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "bosembo"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "mpe alobi"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "solo"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "na motema na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:03:04.721702069Z",
+  "model": "glm-5.3"
+}

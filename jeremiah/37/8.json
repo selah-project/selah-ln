@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 37:8",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 37,
+  "translation": "Mpe Bakasdim bakozonga, mpe bakolakisa bitumba na engumba oyo, mpe bakozwaka yango mpe bakomela yango na moto.",
+  "tokens": [
+    {
+      "surface": "ושבו",
+      "gloss": "mpe bakozonga"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "Bakasdim"
+    },
+    {
+      "surface": "ונלחמו",
+      "gloss": "mpe bakolakisa bitumba"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "engumba"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "mpe bakozwaka yango"
+    },
+    {
+      "surface": "ושרפה",
+      "gloss": "mpe bakomela yango"
+    },
+    {
+      "surface": "באש",
+      "gloss": "na moto"
+    }
+  ],
+  "timestamp": "2026-09-03T20:00:28.939904479Z",
+  "model": "glm-5.3"
+}

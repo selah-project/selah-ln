@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 11:13",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpe kanda ya Efraim ekolongwama, mpe banguna ya Yehuda bakokatamwa; Efraim akokana te ⟨את⟩ Yehuda, mpe Yehuda akonyokola te ⟨את⟩ Efraim.",
+  "tokens": [
+    {
+      "surface": "וסרה",
+      "gloss": "ekolongwama"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "kanda"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "וצררי",
+      "gloss": "mpe banguna"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "bakokatamwa"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יקנא",
+      "gloss": "akokana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "mpe Yehuda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "akonyokola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efraim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    }
+  ],
+  "timestamp": "2026-09-03T19:17:59.453904486Z",
+  "model": "glm-5.3"
+}

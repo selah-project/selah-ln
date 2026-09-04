@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 13:10",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Mpe kohen amona, mpe talá: set ya mouembe na poso, mpe yango ebongwaki mondenge mouembe, mpe bomoi ya masanga ya bomoi ezali na set —",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "mpe amona"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mpe talá"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "set"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "ya mouembe"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "na poso"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "mpe yango"
+    },
+    {
+      "surface": "הפכה",
+      "gloss": "ebongwaki"
+    },
+    {
+      "surface": "שער",
+      "gloss": "mondenge"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "mouembe"
+    },
+    {
+      "surface": "ומחית",
+      "gloss": "mpe bomoi"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ya masanga"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ya bomoi"
+    },
+    {
+      "surface": "בשאת",
+      "gloss": "na set"
+    }
+  ],
+  "timestamp": "2026-09-03T16:46:10.042346134Z",
+  "model": "glm-5.3"
+}

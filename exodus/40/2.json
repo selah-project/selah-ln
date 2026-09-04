@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 40:2",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 40,
+  "translation": "Na mokolo ya sanza ya liboso, na mokolo ya liboso ya sanza, otyamisi Mis'kan, Ohel Moed.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Na mokolo ya"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "sanza"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ya liboso"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "na mokolo ya liboso"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ya sanza"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "otyo na esika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mis'kan"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Mis'kan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ohel"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Moed"
+    }
+  ],
+  "timestamp": "2026-09-03T16:39:22.799180286Z",
+  "model": "glm-5.3"
+}

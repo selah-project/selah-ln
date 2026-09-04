@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 52:14",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 52,
+  "translation": "Mpe mampinga nyonso ya Kashdim oyo ezalaki ⟨את⟩ elongo na mokambi ya babomi babolaki ⟨את⟩ lipanda nyonso ya Yerushalaim na zingazinga.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "lipanda nyonso ya Yerushalaim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "lipanda"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ya Yerushalaim"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "na zingazinga"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "babolaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "mampinga"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "ya Kashdim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ elongo na"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mokambi"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "ya babomi"
+    }
+  ],
+  "timestamp": "2026-09-03T20:09:53.866374966Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 5:2",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Yawe Elohim na biso akataki boyokani elongo na biso na Horeb.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim na biso"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "akataki"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "elongo na biso"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "boyokani"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "na Horeb"
+    }
+  ],
+  "timestamp": "2026-09-03T17:25:15.765619217Z",
+  "model": "glm-5.3"
+}

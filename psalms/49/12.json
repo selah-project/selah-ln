@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 49:12",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 49,
+  "translation": "Mitema na bango elobi ete bandako na bango etikala ntango nyonso, bimero na bango kobotama na kobotama; babenganaki mabele na bankombo na bango likolo.",
+  "tokens": [
+    {
+      "surface": "קרבם",
+      "gloss": "mitema na bango"
+    },
+    {
+      "surface": "בתימו",
+      "gloss": "bandako na bango"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ntango nyonso"
+    },
+    {
+      "surface": "משכנתם",
+      "gloss": "bimero na bango"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "kobotama"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "na kobotama"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "babenganaki"
+    },
+    {
+      "surface": "בשמותם",
+      "gloss": "na bankombo na bango"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "likolo"
+    },
+    {
+      "surface": "אדמות",
+      "gloss": "mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T23:35:26.244700434Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 29:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 29,
+  "translation": "Lolo ya Yawe etukaka bankanga, mpe ezipolaki bazamba; mpe na tempelo na ye, nyonso alobi: Nkembo!",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Lolo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "יחולל",
+      "gloss": "etukaka"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "bankanga"
+    },
+    {
+      "surface": "ויחשף",
+      "gloss": "mpe ezipolaki"
+    },
+    {
+      "surface": "יערות",
+      "gloss": "bazamba"
+    },
+    {
+      "surface": "ובהיכלו",
+      "gloss": "mpe na tempelo na ye"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "alobi"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "Nkembo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:05:38.351316178Z",
+  "model": "glm-5.3"
+}

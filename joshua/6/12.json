@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 6:12",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpe Yehoshua atombwaki na tongo, mpe bakoheni bakotelaki ⟨את⟩ sanduku ya Yawe.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "mpe atombwaki"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "na tongo"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "mpe bakotelaki"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "bakoheni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduku ya Yawe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T17:44:12.719354450Z",
+  "model": "glm-5.3"
+}

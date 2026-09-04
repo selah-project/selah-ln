@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 59:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 59,
+  "translation": "Mpo ete talá, batiyaki bokengi mpo na bomoi na ngai; bato ya makasi bazali kosangana na ngai — bokangami na ngai te mpe masumu na ngai te, Yawe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo ete"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "talá"
+    },
+    {
+      "surface": "ארבו",
+      "gloss": "batiyaki bokengi"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "mpo na bomoi na ngai"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "bazali kosangana"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "bato ya makasi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "bokangami na ngai"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe ... te"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "masumu na ngai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T21:14:40.497005937Z",
+  "model": "glm-5.3"
+}

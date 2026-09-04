@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 33:14",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 33,
+  "translation": "Utá na esika ya kofanda na yango atali malamu bato nyonso oyo bafandi na mabele.",
+  "tokens": [
+    {
+      "surface": "ממכון",
+      "gloss": "Utá na esika"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "ya kofanda na yango"
+    },
+    {
+      "surface": "השגיח",
+      "gloss": "atali malamu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨elo⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "oyo bafandi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "na mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T21:08:31.441555589Z",
+  "model": "glm-5.3"
+}

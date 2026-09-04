@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 25:27",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "mpe akota mituya ⟨את⟩ mbula ya bobeli na ye, mpe akofunga ⟨את⟩ oyo eleki epai ya moto oyo asundolaki na ye, mpe azongi na esika ya maboko na ye.",
+  "tokens": [
+    {
+      "surface": "וחשב",
+      "gloss": "mpe akota mituya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbula ya bobeli na ye"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mbula"
+    },
+    {
+      "surface": "ממכרו",
+      "gloss": "ya bobeli na ye"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "mpe akofunga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oyo eleki"
+    },
+    {
+      "surface": "העדף",
+      "gloss": "oyo eleki"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "epai ya moto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "asundolaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "mpe azongi"
+    },
+    {
+      "surface": "לאחזתו",
+      "gloss": "na esika ya maboko na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T16:55:48.549278706Z",
+  "model": "glm-5.3"
+}

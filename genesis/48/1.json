@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 48:1",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 48,
+  "translation": "Mpe esalemaki, sima ya makambo yango, ⟨moto moko⟩ alobaki na Yossef: Talá, papa nayo azali na bokono. Mpe azwaki ⟨את⟩ bana na yango mibale elongo na yango, ⟨את⟩ Menasheh mpe ⟨את⟩ Efrayim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mpe esalemaki"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sima ya"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "makambo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "yango"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "ליוסף",
+      "gloss": "na Yossef"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Talá"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "papa nazo"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "azali na bokono"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "mpe azwaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bana na yango mibale"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bana na yango"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "elongo na yango"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Menasheh"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menasheh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Efrayim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    }
+  ],
+  "timestamp": "2026-09-03T16:11:45.718819381Z",
+  "model": "glm-5.3"
+}

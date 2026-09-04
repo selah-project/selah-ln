@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 2:1",
+  "book": "jonah",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe Yawe ateyaki mbisi monene mpo na komela ⟨את⟩ Yona, mpe Yona azalaki na libumu ya mbisi mikoya misato mpe butu misato.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "mpe ateyaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "דג",
+      "gloss": "mbisi"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "monene"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "mpo na komela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yona"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yona"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mpe azalaki"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yona"
+    },
+    {
+      "surface": "במעי",
+      "gloss": "na libumu ya"
+    },
+    {
+      "surface": "הדג",
+      "gloss": "mbisi"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "misato"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mikoya"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "mpe misato"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "butu"
+    }
+  ],
+  "timestamp": "2026-09-03T20:47:34.126758369Z",
+  "model": "glm-5.3"
+}

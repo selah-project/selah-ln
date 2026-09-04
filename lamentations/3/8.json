@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 3:8",
+  "book": "lamentations",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Ata soki nakanga lokito mpe nabenganii, Yawe atomboki nzela ya losambo na ngai.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ata soki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nde"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "nakanga lokito"
+    },
+    {
+      "surface": "ואשוע",
+      "gloss": "mpe nabenganii"
+    },
+    {
+      "surface": "שתם",
+      "gloss": "atomboki nzela"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ya losambo na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T22:09:57.645724334Z",
+  "model": "glm-5.3"
+}

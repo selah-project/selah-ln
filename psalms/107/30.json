@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 107:30",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 107,
+  "translation": "Mpe basalaki eliki mpo etiaki kimya, mpe alemisaki bango na libenga oyo balingaki.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "Mpe basalaki eliki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "ישתקו",
+      "gloss": "etiaki kimya"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "mpe alemisaki bango"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מחוז",
+      "gloss": "libenga"
+    },
+    {
+      "surface": "חפצם",
+      "gloss": "oyo balingaki"
+    }
+  ],
+  "timestamp": "2026-09-03T21:28:32.625225191Z",
+  "model": "glm-5.3"
+}

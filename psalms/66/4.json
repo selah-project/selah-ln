@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 66:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 66,
+  "translation": "Mabele mobimba ekozambela yo na motó, mpe ekozemba yo; ekozemba nkombo na yo. Selah.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "mobimba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "Mabele"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "ekozambela yo na motó"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yo"
+    },
+    {
+      "surface": "ויזמרו",
+      "gloss": "mpe ekozemba"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yo"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "ekozemba"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nkombo na yo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-03T21:15:36.081967695Z",
+  "model": "glm-5.3"
+}

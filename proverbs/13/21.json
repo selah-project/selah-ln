@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 13:21",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Mabe elanda basumu, mpe ⟨את⟩ bato ya bosembo akifutaka na malamu.",
+  "tokens": [
+    {
+      "surface": "חטאים",
+      "gloss": "basumu"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "elanda"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bato ya bosembo"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "bato ya bosembo"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "akifutaka"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "malamu"
+    }
+  ],
+  "timestamp": "2026-09-03T21:41:24.971801202Z",
+  "model": "glm-5.3"
+}

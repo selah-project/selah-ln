@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 6:14",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Sala sanduku ya mabota ya gofer; bisalako osala ⟨את⟩ sanduku, mpe okofulaka ⟨את⟩ yango kopa, na kati na yango mpe na libanda, na kopa.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "sala"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yo moko"
+    },
+    {
+      "surface": "תבת",
+      "gloss": "sanduku"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ya mabota"
+    },
+    {
+      "surface": "גפר",
+      "gloss": "gofer"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "bisalako"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "osala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduku"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "sanduku"
+    },
+    {
+      "surface": "וכפרת",
+      "gloss": "mpe okofulaka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ yango",
+      "marks": "sanduku"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "na kati na yango"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "mpe na libanda"
+    },
+    {
+      "surface": "בכפר",
+      "gloss": "na kopa"
+    }
+  ],
+  "timestamp": "2026-09-03T15:47:38.665764677Z",
+  "model": "glm-5.3"
+}

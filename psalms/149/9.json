@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 149:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 149,
+  "translation": "Mpo na kosala na bango mokanda oyo ekomami; bokasi etie mpo na bakengami Ye banso. Boyimbisa Ya!",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "Mpo na kosala"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "mokanda"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "oyo ekomami"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "bokasi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "etie"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "mpo na ... banso"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "bakengami Ye"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Boyimbisa"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    }
+  ],
+  "timestamp": "2026-09-03T21:35:39.537600954Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 8:3",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe bakoko nyonso ya Israel bayaki, mpe bakohen batombolaki ⟨את⟩ sanduku.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "bayaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "bakoko ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "mpe batombolaki"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "bakohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduku"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "sanduku"
+    }
+  ],
+  "timestamp": "2026-09-03T18:48:02.465321212Z",
+  "model": "glm-5.3"
+}

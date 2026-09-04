@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 57:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 57,
+  "translation": "Na maboko ya mokambi ya moziki — te ebebisama — salimo ya David, miktam, tango akimaki liboso ya Shaul, na zumba.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Na maboko ya mokambi ya moziki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "ebebisama"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya David"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktam"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "tango akimaki"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "na zumba"
+    }
+  ],
+  "timestamp": "2026-09-03T21:14:51.396368373Z",
+  "model": "glm-5.3"
+}

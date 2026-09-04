@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 25:18",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Mokambi ya basodá azwaki ⟨את⟩ Shereya kohen ya liboso, mpe ⟨את⟩ Tsefanya kohen ya mibale, mpe ⟨את⟩ basato bakengeli ya ekuke.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "azwaki"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mokambi"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "ya basodá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shereya kohen ya liboso"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Shereya"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ya liboso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Tsefanya kohen ya mibale"
+    },
+    {
+      "surface": "צפניהו",
+      "gloss": "Tsefanya"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "ya mibale"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "basato bakengeli ya ekuke"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "basato (misato)"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "bakengeli"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "ya ekuke"
+    }
+  ],
+  "timestamp": "2026-09-03T19:13:47.569255164Z",
+  "model": "glm-5.3"
+}

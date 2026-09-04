@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 148:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 148,
+  "translation": "Bokumisa-yé likolo ya likolo, mpe mai oyo ezali likolo ya likolo.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Bokumisa-yé"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "likolo"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ya likolo"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "mpe mai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ezali likolo ya"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "likolo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:36:57.899605756Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 16:7",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Mpe akaki ⟨את⟩ bbe mibale mpe atombisaki ⟨את⟩ bango liboso ya Yawe, na lipaswa ya tele ya bokutani.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "mpe akaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bbe mibale"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "bbe"
+    },
+    {
+      "surface": "והעמיד",
+      "gloss": "mpe atombisaki"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bango"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "lipaswa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tele"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "bokutani"
+    }
+  ],
+  "timestamp": "2026-09-03T16:49:43.264287538Z",
+  "model": "glm-5.3"
+}

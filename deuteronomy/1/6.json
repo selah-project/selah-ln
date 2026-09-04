@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 1:6",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Yawe Elohim na biso alobaki na biso na Horeb, alobaki ete: Boikoti mingi kofanda na monto oyo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim na biso"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "na biso"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "na Horeb"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "alobaki ete"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Boikoti mingi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": ""
+    },
+    {
+      "surface": "שבת",
+      "gloss": "kofanda"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "na monto"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    }
+  ],
+  "timestamp": "2026-09-03T17:23:52.544209224Z",
+  "model": "glm-5.3"
+}

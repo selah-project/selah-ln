@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 1:10",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpo na bana ya Yosef: mpo na Efrayim, Elishama mwana ya Amihud; mpo na Menashe, Gamliel mwana ya Pedatsur.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "Mpo na bana ya"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "mpo na Efrayim"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Elishama"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana ya"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "Amihud"
+    },
+    {
+      "surface": "למנשה",
+      "gloss": "mpo na Menashe"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "Gamliel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana ya"
+    },
+    {
+      "surface": "פדהצור",
+      "gloss": "Pedatsur"
+    }
+  ],
+  "timestamp": "2026-09-03T16:56:52.031765902Z",
+  "model": "glm-5.3"
+}

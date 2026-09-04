@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 3:21",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Na bangomba ya mopundu séli eyokami, lilolu mpe mabondeli ya bana ya Israel, mpo babukaki ⟨את⟩ nzela na bango, babosani ⟨את⟩ Yawe Elohim na bango.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "séli"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "שפיים",
+      "gloss": "bangomba ya mopundu"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "eyokami"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "lilolu"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "mabondeli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "העוו",
+      "gloss": "babukaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nzela na bango"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "nzela na bango"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "babosani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe Elohim na bango"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T19:42:35.806173153Z",
+  "model": "glm-5.3"
+}

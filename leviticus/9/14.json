@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 9:14",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Mpe asukolaki ⟨את⟩ biteni ya kati mpe ⟨את⟩ makolo, mpe atumbolaki yango likolo ya ofelo ya kotumbola, na autelo.",
+  "tokens": [
+    {
+      "surface": "וירחץ",
+      "gloss": "asukolaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "biteni ya kati"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "biteni ya kati"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "makolo"
+    },
+    {
+      "surface": "הכרעים",
+      "gloss": "makolo"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "atumbolaki"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ofelo ya kotumbola"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "autelo"
+    }
+  ],
+  "timestamp": "2026-09-03T16:43:33.531140339Z",
+  "model": "glm-5.3"
+}

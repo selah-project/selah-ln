@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 5:8",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Mawa epai ya baye bakangisi ndako na ndako, elanga na elanga balandisi, kino nsuka ya esika — mpe bokofanda bino boe kati ya mabele.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "mawa"
+    },
+    {
+      "surface": "מגיעי",
+      "gloss": "baye bakangisi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "na ndako"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "elanga"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "na elanga"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "balandisi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "nsuka"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ya esika"
+    },
+    {
+      "surface": "והושבתם",
+      "gloss": "mpe bokofanda"
+    },
+    {
+      "surface": "לבדכם",
+      "gloss": "bino boe"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "kati ya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T19:15:58.588590207Z",
+  "model": "glm-5.3"
+}

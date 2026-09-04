@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 10:1",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Mpe mokonzi mwasi ya Sheba ayokaki ⟨את⟩ liloba ya lokumu ya Shelomo na nkombo ya Yawe, mpe amaki kosesa ye na masoki.",
+  "tokens": [
+    {
+      "surface": "ומלכת",
+      "gloss": "Mpe mokonzi mwasi"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "ya Sheba"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "ayokaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "liloba ya lokumu"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "liloba ya lokumu"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ya Shelomo"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "na nkombo ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "mpe amaki kokota"
+    },
+    {
+      "surface": "לנסתו",
+      "gloss": "mpo na kosesa ye"
+    },
+    {
+      "surface": "בחידות",
+      "gloss": "na masoki"
+    }
+  ],
+  "timestamp": "2026-09-03T18:48:32.177823336Z",
+  "model": "glm-5.3"
+}

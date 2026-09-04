@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 16:20",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Bosembo, bosembo, lolanda na yango, mpo ete ozala na bomoyi, mpe okokota ⟨את⟩ mabele oyo Yawe Elohim na yo apesi yo.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "Bosembo"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "bosembo"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "lolanda na yango"
+    },
+    {
+      "surface": "למען",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "ozala na bomoyi"
+    },
+    {
+      "surface": "וירשת",
+      "gloss": "mpe okokota"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim na yo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "apesi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yo"
+    }
+  ],
+  "timestamp": "2026-09-03T17:31:16.142262766Z",
+  "model": "glm-5.3"
+}

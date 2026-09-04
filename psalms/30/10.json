@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 30:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 30,
+  "translation": "Nini ezali matomba na makila na ngai, ntango nakwei na libulu? Mpoto ekoyemba yo? Eko panza bosembo na yo?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "matomba"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "na makila na ngai"
+    },
+    {
+      "surface": "ברדתי",
+      "gloss": "ntango nakwei"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "libulu"
+    },
+    {
+      "surface": "היודך",
+      "gloss": "ekoyemba yo"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "mpoto"
+    },
+    {
+      "surface": "היגיד",
+      "gloss": "eko panza"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "bosembo na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:05:56.449432141Z",
+  "model": "glm-5.3"
+}

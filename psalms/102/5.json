@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 102:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 102,
+  "translation": "Ekubitaki lokola matete, mpe omaki motema na ngai; mpo nasalaki ⟨kolia⟩ mpana na ngai.",
+  "tokens": [
+    {
+      "surface": "הוכה",
+      "gloss": "ekubitaki"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "lokola matete"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "mpe omaki"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "motema na ngai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "nasalaki"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "kolia"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "mpana na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:25:53.169536227Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 37:16",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 37,
+  "translation": "Moke epai ya moto sembo ezali malamu koleka bonene ya baye mabe ebele.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ezali malamu"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "moke"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "epai ya moto sembo"
+    },
+    {
+      "surface": "מהמון",
+      "gloss": "bonene"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "baye mabe"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ebele"
+    }
+  ],
+  "timestamp": "2026-09-03T21:09:07.578714753Z",
+  "model": "glm-5.3"
+}

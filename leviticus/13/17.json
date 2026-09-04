@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 13:17",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Mpe kohen amonaki yango, mpe talo, bokono ebongwamaki na pembe, mpe kohen alobaki ⟨את⟩ bokono mopeto: mopeto yango.",
+  "tokens": [
+    {
+      "surface": "וראאהו",
+      "gloss": "mpe amonaki"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mpe talo"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "ebongwamaki"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "bokono"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "na pembe"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bokono"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "bokono"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "mopeto"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:47:27.101370633Z",
+  "model": "glm-5.3"
+}

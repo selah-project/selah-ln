@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 49:1",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 49,
+  "translation": "Bisanga, boyoka ngai, mpe bato ya mosika, botega likolo: Yawe abengaki ngai uta na libumu, uta na libumu ya mama na ngai ayanolaki nkombo na ngai.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "boyoka"
+    },
+    {
+      "surface": "איים",
+      "gloss": "bisanga"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "והקשיבו",
+      "gloss": "mpe botega likolo"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "bato"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "ya mosika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "uta na libumu"
+    },
+    {
+      "surface": "קראני",
+      "gloss": "abengaki ngai"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "uta na libumu"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ya mama na ngai"
+    },
+    {
+      "surface": "הזכיר",
+      "gloss": "ayanolaki"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "nkombo na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T19:33:53.956926600Z",
+  "model": "glm-5.3"
+}

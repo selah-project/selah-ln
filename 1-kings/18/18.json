@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 18:18",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Mpe alobaki: Nabebisaki ⟨את⟩ Israel te, kasi yo mpe ndako ya tata na yo, mpo botikaki ⟨את⟩ mapesa ya Yawe mpe bolandaki Baalim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "עכרתי",
+      "gloss": "nabebisaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kasi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kaka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "mpe ndako"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ya tata na yo"
+    },
+    {
+      "surface": "בעזבכם",
+      "gloss": "mpo botikaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mapesa"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "mapesa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "alandaki"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "na nsima ya"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baalim"
+    }
+  ],
+  "timestamp": "2026-09-03T18:55:01.503786092Z",
+  "model": "glm-5.3"
+}

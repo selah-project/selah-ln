@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 15:7",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 15,
+  "translation": "Mpe na bonene ya nkembo na yo otumbisaka baye bazwaki mpiko na yo; otindaka sango na yo, eliaka bango lokola mabaya.",
+  "tokens": [
+    {
+      "surface": "וברב",
+      "gloss": "mpe na bonene"
+    },
+    {
+      "surface": "גאונך",
+      "gloss": "ya nkembo na yo"
+    },
+    {
+      "surface": "תהרס",
+      "gloss": "otumbisaka"
+    },
+    {
+      "surface": "קמיך",
+      "gloss": "baye bazwaki mpiko na yo"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "otindaka"
+    },
+    {
+      "surface": "חרנך",
+      "gloss": "sango na yo"
+    },
+    {
+      "surface": "יאכלמו",
+      "gloss": "eliaka bango"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "lokola mabaya"
+    }
+  ],
+  "timestamp": "2026-09-03T16:20:25.732504690Z",
+  "model": "glm-5.3"
+}

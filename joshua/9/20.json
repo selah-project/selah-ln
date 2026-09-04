@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 9:20",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Oyo tokosala bango: tokobomba bango ⟨את⟩ bomoi, mpe likebi ekokweka te epai na biso likolo ya kolapa oyo tosili kolapa na bango.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Oyo"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "tokosala"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bango"
+    },
+    {
+      "surface": "והחיה",
+      "gloss": "mpe tokobomba bomoi"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ bango",
+      "marks": "bango (suffixed direct-object marker pointing at the Gibeonites)"
+    },
+    {
+      "surface": "ו לא",
+      "gloss": "mpe ... te"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ekokweka"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "epai na biso"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "likebi"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "השבועה",
+      "gloss": "kolapa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "נשבענו",
+      "gloss": "tosili kolapa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "na bango"
+    }
+  ],
+  "timestamp": "2026-09-04T00:29:01.789318243Z",
+  "model": "glm-5.3"
+}

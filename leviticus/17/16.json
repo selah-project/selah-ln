@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 17:16",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 17,
+  "translation": "Mpe soki asukoli te, mpe nzoto na yango alataki te, mpe akotomba mabebe na yango.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "mpe soki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "asukoli"
+    },
+    {
+      "surface": "ובשרו",
+      "gloss": "mpe nzoto na yango"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "alataki"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "mpe akotomba"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "mabebe na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:50:25.864331331Z",
+  "model": "glm-5.3"
+}

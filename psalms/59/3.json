@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 59:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 59,
+  "translation": "Bobombela ngai uta na baye bazali kosala mabe, mpe bokenga ngai uta na bato ya makila, bobikisa ngai.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "Bobombela ngai"
+    },
+    {
+      "surface": "מפעלי",
+      "gloss": "uta na baye bazali kosala"
+    },
+    {
+      "surface": "און",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "ומאנשי",
+      "gloss": "mpe bokenga ngai uta na bato"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "ya makila"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "bobikisa ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:14:40.496857861Z",
+  "model": "glm-5.3"
+}

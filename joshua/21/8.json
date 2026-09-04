@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 21:8",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Mpe bana ya Yisrael bapesaki na Balevi ⟨את⟩ mboka oyo mpe ⟨את⟩ bisika bakulaka banyama na yango, lokola Yawe atesaki mibeko na maboko ya Moshe, na lo.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "mpe bapesaki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "na Balevi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mboka oyo"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "mboka"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bisika bakulaka banyama na yango"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "bisika bakulaka banyama na yango"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "lokola"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "atesaki mibeko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "na maboko ya"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "na lo"
+    }
+  ],
+  "timestamp": "2026-09-03T17:53:36.383127555Z",
+  "model": "glm-5.3"
+}

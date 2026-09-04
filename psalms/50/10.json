@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 50:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 50,
+  "translation": "Mpo na ngai ezali banyama nyonso ya zongo, mpe banyama o bangomba nkoto.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "banyama ya"
+    },
+    {
+      "surface": "יער",
+      "gloss": "zongo"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "banyama"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "o bangomba"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "nkoto"
+    }
+  ],
+  "timestamp": "2026-09-03T21:11:27.477299581Z",
+  "model": "glm-5.3"
+}

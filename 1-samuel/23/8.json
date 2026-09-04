@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 23:8",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Shaul abengaki ⟨את⟩ bato nyonso na etumba, mpo bakita na Kela, mpo bazinga David mpe bato na ye.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "abengaki"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bato nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "na etumba"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "mpo bakita"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Kela"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "mpo bazinga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mpe epai ya"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "bato na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T18:20:59.038280435Z",
+  "model": "glm-5.3"
+}

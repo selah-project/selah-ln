@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 146:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 146,
+  "translation": "Yawe abateli ⟨את⟩ bangenga, yatome mpe alomwana na likita azalisaka, mpe nzela ya mabe abukisaka.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "abateli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bangenga"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "bangenga"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "yatome"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "mpe alomwana na likita"
+    },
+    {
+      "surface": "יעודד",
+      "gloss": "azalisaka"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "mpe nzela"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ya mabe"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "abukisaka"
+    }
+  ],
+  "timestamp": "2026-09-03T21:35:48.434348712Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 28:24",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 28,
+  "translation": "Yawe atyaka ⟨את⟩ mbula ya mabele na yo ete ezala mpete mpe ntoki; ekokita uta na likolo likolo na yo, kino obomama.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "atyaka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbula"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "mbula"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "ya mabele na yo"
+    },
+    {
+      "surface": "אבק",
+      "gloss": "mpete"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "mpe ntoki"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uta na"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "likolo likolo"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ekokita"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "likolo na yo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "obomama"
+    }
+  ],
+  "timestamp": "2026-09-03T17:38:26.696841797Z",
+  "model": "glm-5.3"
+}

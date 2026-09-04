@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 66:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 66,
+  "translation": "Mpo na mokambi — nzembo, nzembo ya miziki. Bohola na Elohim, mabele mobimba ⟨oyo⟩.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Mpo na mokambi"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "nzembo"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "nzembo ya miziki"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "Bohola"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "na Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mobimba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T21:15:36.081492385Z",
+  "model": "glm-5.3"
+}

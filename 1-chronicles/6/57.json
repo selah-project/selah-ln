@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "1-chronicles 6:57",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpe uta na libota ya Yisaskar ⟨את⟩ Kedesh mpe ⟨את⟩ maboko na yango, ⟨את⟩ Dabrath mpe ⟨את⟩ maboko na yango.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "uta na libota ya"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yisaskar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedesh"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kedesh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "maboko na yango"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "maboko na yango"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dabrath"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "Dabrath"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "maboko na yango"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "maboko na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T22:42:45.648507049Z",
+  "model": "glm-5.3"
+}

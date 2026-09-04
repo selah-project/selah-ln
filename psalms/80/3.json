@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 80:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 80,
+  "translation": "Liboso ya Efrayim mpe Binyamin mpe Menashe, bobika ⟨את⟩ nguya na yo, mpe yo boya mpo na bokengeli bwa biso.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "Liboso ya"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "mpe Binyamin"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "mpe Menashe"
+    },
+    {
+      "surface": "עורררה",
+      "gloss": "bobika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nguya na yo"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "nguya na yo"
+    },
+    {
+      "surface": "ולכה",
+      "gloss": "mpe yo boya"
+    },
+    {
+      "surface": "לישעתה",
+      "gloss": "mpo na bokengeli"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bwa biso"
+    }
+  ],
+  "timestamp": "2026-09-03T21:21:07.241421810Z",
+  "model": "glm-5.3"
+}

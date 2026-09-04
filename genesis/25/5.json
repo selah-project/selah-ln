@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 25:5",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Mpe Avraham apesaki Yitshak ⟨את⟩ nyonso oyo azalaki na yango.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "apesaki"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "azalaki na yango"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "na Yitshak"
+    }
+  ],
+  "timestamp": "2026-09-03T15:56:51.678234098Z",
+  "model": "glm-5.3"
+}

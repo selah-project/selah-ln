@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 3:3",
+  "book": "ruth",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe okuna, opoma mafuta, oposa elamba na yo na yo, mpe okita esika ya bopema; kasi okanisa te moto, kino akokisa kolia mpe komela.",
+  "tokens": [
+    {
+      "surface": "ורחצת",
+      "gloss": "Mpe okuna"
+    },
+    {
+      "surface": "וסכת",
+      "gloss": "opoma mafuta"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "oposa"
+    },
+    {
+      "surface": "שמלתך",
+      "gloss": "elamba na yo"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "na yo"
+    },
+    {
+      "surface": "וירדתי",
+      "gloss": "mpe okita"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "esika ya bopema"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kasi"
+    },
+    {
+      "surface": "תודעי",
+      "gloss": "okanisa te"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "akokisa"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "kolia"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "mpe komela"
+    }
+  ],
+  "timestamp": "2026-09-03T22:09:27.347385350Z",
+  "model": "glm-5.3"
+}

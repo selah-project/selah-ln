@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 7:25",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mpe Yehoshua alobaki: Nini okweyisaki biso? Yawe akweyisa yo na mokolo oyo. Mpe Israel nyonso babwakaki ⟨את⟩ yandi na mabanga, mpe basalaki ⟨את⟩ bango na moto, mpe babwakaki ⟨את⟩ bango lisusu na mabanga.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "עכרתנו",
+      "gloss": "okweyisaki biso"
+    },
+    {
+      "surface": "יעכרך",
+      "gloss": "akweyisa yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na mokolo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "וירגמו",
+      "gloss": "mpe babwakaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yandi",
+      "marks": "yandi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "mabanga"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "mpe basalaki"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bango",
+      "marks": "bango"
+    },
+    {
+      "surface": "באש",
+      "gloss": "na moto"
+    },
+    {
+      "surface": "ויסקלו",
+      "gloss": "mpe babwakaki lisusu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bango",
+      "marks": "bango"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "na mabanga"
+    }
+  ],
+  "timestamp": "2026-09-03T17:45:40.035912068Z",
+  "model": "glm-5.3"
+}

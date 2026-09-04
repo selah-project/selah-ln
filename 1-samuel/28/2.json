@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 28:2",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 28,
+  "translation": "Mpe David alobaki na Akish: Mpo na yango yo oyeba ⟨את⟩ oyo mowumbu na yo asali. Mpe Akish alobaki na David: Mpo na yango nakotya yo mokebi ya motó na ngai mikolo nyonso.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akish"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "mpo na yango"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "oyeba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "asali"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mowumbu na yo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akish"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "mpo na yango"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "mokebi"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "ya motó na ngai"
+    },
+    {
+      "surface": "אשימך",
+      "gloss": "nakotya yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mikolo"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "nyonso"
+    }
+  ],
+  "timestamp": "2026-09-03T18:24:37.254495503Z",
+  "model": "glm-5.3"
+}

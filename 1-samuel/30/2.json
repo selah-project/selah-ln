@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 30:2",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 30,
+  "translation": "Mpe babotaki ⟨את⟩ basi oyo bazalaki kati na yango, uta ya moke kino ya monene; babomaki moto te, kasi bamenolaki bango mpe bakendaki na nzela na bango.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "Mpe babotaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "basi"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "basi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "בה",
+      "gloss": "bazalaki kati na yango"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "utaka ya moke"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ya monene"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "babomaki"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "וינהגו",
+      "gloss": "mpe bamenolaki bango"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "mpe bakendaki"
+    },
+    {
+      "surface": "לדרכם",
+      "gloss": "na nzela na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T18:24:32.516836268Z",
+  "model": "glm-5.3"
+}

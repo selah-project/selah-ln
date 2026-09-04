@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 135:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 135,
+  "translation": "Akekolisaka milangi ya mai uta na nsuka ya mabele, asalaka bankanzi na mbula, abimisaka mpema uta na bisombo na ye.",
+  "tokens": [
+    {
+      "surface": "מעלה",
+      "gloss": "akekolisaka"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "milangi ya mai"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "uta na nsuka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ya mabele"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "bankanzi"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "na mbula"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "asalaka"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "abimisaka"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mpema"
+    },
+    {
+      "surface": "מאוצרותיו",
+      "gloss": "uta na bisombo na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:34:01.902559787Z",
+  "model": "glm-5.3"
+}

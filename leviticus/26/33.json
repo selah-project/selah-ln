@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 26:33",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "Mpe ⟨את⟩ bino nakobwaka bino okati ya bikolo, mpe nakobimisa mbele sima na bino; mpe mabele na bino ekokoma njanga, mpe bamboka na bino bikokoma seke.",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "mpe ⟨את⟩ bino",
+      "marks": "bino"
+    },
+    {
+      "surface": "אזרה",
+      "gloss": "nakobwaka"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "okati ya bikolo"
+    },
+    {
+      "surface": "והריקתי",
+      "gloss": "mpe nakobimisa"
+    },
+    {
+      "surface": "אחריכם",
+      "gloss": "sima na bino"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "mbele"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "mpe ekokoma"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "mabele na bino"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "njanga"
+    },
+    {
+      "surface": "ועריכם",
+      "gloss": "mpe bamboka na bino"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bikokoma"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "seke"
+    }
+  ],
+  "timestamp": "2026-09-03T16:57:01.693732090Z",
+  "model": "glm-5.3"
+}

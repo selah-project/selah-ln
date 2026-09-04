@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 6:16",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpe kohen akotinda ⟨את⟩ yango liboso ya Yawe, mpe asala ⟨את⟩ masuwa na ye mpe ⟨את⟩ ola na ye.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "mpe akotinda"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "mpe asala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masuwa na ye"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "masuwa na ye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "ola na ye"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "ola na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T17:02:16.366295197Z",
+  "model": "glm-5.3"
+}

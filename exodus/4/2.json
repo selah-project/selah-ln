@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 4:2",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe Yawe alobaki na ye: Nini oyo ozali na maboko na yo? Mpe alobaki: Mpako.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "זה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "na maboko na yo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "mpako"
+    }
+  ],
+  "timestamp": "2026-09-03T16:15:13.225501481Z",
+  "model": "glm-5.3"
+}

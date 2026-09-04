@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 89:53",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 89,
+  "translation": "Ya bobiki epai ya Yawe kino ntango nyonso. Aman, mpe Aman.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Ya bobiki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kino ntango nyonso"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Aman"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "mpe Aman"
+    }
+  ],
+  "timestamp": "2026-09-03T21:23:31.754650592Z",
+  "model": "glm-5.3"
+}

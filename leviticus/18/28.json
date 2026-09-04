@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 18:28",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Mpe mabele ebota bino te soki bomeki ⟨את⟩ yango, ndenge ebotaki ⟨את⟩ ekolo oyo ezalaki liboso ya bino.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "תקיא",
+      "gloss": "ebota"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ bino",
+      "marks": "bino"
+    },
+    {
+      "surface": "בטמאכם",
+      "gloss": "soki bomeki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ yango",
+      "marks": "mabele"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ndenge"
+    },
+    {
+      "surface": "קאה",
+      "gloss": "ebotaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ekolo"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "ekolo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "liboso ya bino"
+    }
+  ],
+  "timestamp": "2026-09-03T16:49:08.641100188Z",
+  "model": "glm-5.3"
+}

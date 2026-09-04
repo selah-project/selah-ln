@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 6:8",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Ekuke ya mabonga ya katikati ezalaki na ngambo ya mobali ya ndako; mpe na mapinda bakweyi na ya katikati, mpe uta na ya katikati na ya misato.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "ekuke"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "mabonga"
+    },
+    {
+      "surface": "התיכנה",
+      "gloss": "ya katikati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "ngambo"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ya ndako"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "ya mobali"
+    },
+    {
+      "surface": "ובלולים",
+      "gloss": "mapinda"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "bakweyi"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "התיכנה",
+      "gloss": "ya katikati"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "uta"
+    },
+    {
+      "surface": "התיכנה",
+      "gloss": "ya katikati"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "השלשים",
+      "gloss": "ya misato"
+    }
+  ],
+  "timestamp": "2026-09-03T18:46:46.245809250Z",
+  "model": "glm-5.3"
+}

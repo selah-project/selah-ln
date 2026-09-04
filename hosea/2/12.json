@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 2:12",
+  "book": "hosea",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe sikoyo nakomonisa ⟨את⟩ mabe na ye miso ya banalingi na ye, mpe moto akolongola ye te na maboko na ngai.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "mpe sikoyo"
+    },
+    {
+      "surface": "אגלה",
+      "gloss": "nakomonisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabe na ye"
+    },
+    {
+      "surface": "נבלתה",
+      "gloss": "mabe na ye"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "miso ya"
+    },
+    {
+      "surface": "מאהביה",
+      "gloss": "banalingi na ye"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "mpe moto"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יצילנה",
+      "gloss": "akolongola ye"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "na maboko na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T20:37:50.156677958Z",
+  "model": "glm-5.3"
+}

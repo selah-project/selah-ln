@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 11:7",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpe mibale maboko na bino, nyonso baye bai na Shabat, bano bozanga ⟨את⟩ bozangi ya ndako ya Yawe epai ya mokonzi.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "mpe mibale"
+    },
+    {
+      "surface": "הידות",
+      "gloss": "maboko"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "na bino"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso baye"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "bai"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "na Shabat"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "bano bozanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bozangi"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "bozangi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ya ndako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    }
+  ],
+  "timestamp": "2026-09-03T19:02:56.409916281Z",
+  "model": "glm-5.3"
+}

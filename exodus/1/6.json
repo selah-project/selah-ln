@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 1:6",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe Yosefe akufaki, mpe bandeko na ye nyonso, mpe libota yango nyonso.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "akufaki"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe nyonso"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "bandeko na ye"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe nyonso"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "libota"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:12:19.863003666Z",
+  "model": "glm-5.3"
+}

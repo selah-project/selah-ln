@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 146:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 146,
+  "translation": "Lobelá Ya; molimo na ngai, lobelá ⟨את⟩ Yawe.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Lobelá"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "lobelá"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "molimo na ngai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T21:36:37.965844343Z",
+  "model": "glm-5.3"
+}

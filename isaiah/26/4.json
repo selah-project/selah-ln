@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 26:4",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "Botokangá Yawe, kino seko, mpo na Ya Yawe azali litako ya seko.",
+  "tokens": [
+    {
+      "surface": "בטחו",
+      "gloss": "Botokangá"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "kino"
+    },
+    {
+      "surface": "עד",
+      "gloss": "seko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "ביה",
+      "gloss": "na Ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צור",
+      "gloss": "litako"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "ya seko"
+    }
+  ],
+  "timestamp": "2026-09-03T19:22:22.081478831Z",
+  "model": "glm-5.3"
+}

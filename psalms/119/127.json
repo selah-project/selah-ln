@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 127,
+  "ref": "psalms 119:127",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Mpo na yango nalingi malako na yo koleka zele, mpe koleka paz.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "nalingi"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "malako na yo"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "koleka zele"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "mpe koleka paz"
+    }
+  ],
+  "timestamp": "2026-09-03T21:32:02.077047554Z",
+  "model": "glm-5.3"
+}

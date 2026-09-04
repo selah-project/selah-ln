@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 43:13",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 43,
+  "translation": "Mpe bóyaka ⟨את⟩ ndeko na bino, botale, bozongaka epai ya moto yango.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "ndeko na bino"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "ndeko na bino"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "bóyaka"
+    },
+    {
+      "surface": "וקומו",
+      "gloss": "botale"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "bozongaka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "moto yango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:09:25.705747142Z",
+  "model": "glm-5.3"
+}

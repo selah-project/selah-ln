@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 106:19",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 106,
+  "translation": "Basalaki mwana-mbasi na Horeb, mpe balambolaki elilingi ya mongo.",
+  "tokens": [
+    {
+      "surface": "יעשו",
+      "gloss": "basalaki"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "mwana-mbasi"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "na Horeb"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "mpe balambolaki"
+    },
+    {
+      "surface": "למסכה",
+      "gloss": "elilingi ya mongo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:28:14.056962659Z",
+  "model": "glm-5.3"
+}

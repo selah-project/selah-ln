@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 11:3",
+  "book": "daniel",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpe mokonzi ya nguya akotelema, mpe akotambwisa bokambi monene, mpe akosala ndenge alingi.",
+  "tokens": [
+    {
+      "surface": "ועמד",
+      "gloss": "akotelema"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ya nguya"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "akotambwisa"
+    },
+    {
+      "surface": "ממשל",
+      "gloss": "bokambi"
+    },
+    {
+      "surface": "רב",
+      "gloss": "monene"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "akosala"
+    },
+    {
+      "surface": "כרצונו",
+      "gloss": "ndenge alingi"
+    }
+  ],
+  "timestamp": "2026-09-03T22:29:20.210612934Z",
+  "model": "glm-5.3"
+}

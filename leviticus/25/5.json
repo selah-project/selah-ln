@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 25:5",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "⟨את⟩ mbuto ya kokita ya boloko na yo okokata te, mpe ⟨את⟩ bambuya ya nzete na yo ya kotika okokunga te; mbula ya Shabat ekozala ⟨ya⟩ mabele.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbuto ya kokita ya boloko na yo"
+    },
+    {
+      "surface": "ספיח",
+      "gloss": "mbuto ya kokita"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "ya boloko na yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תקצור",
+      "gloss": "okokata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bambuya ya nzete na yo ya kotika"
+    },
+    {
+      "surface": "ענבי",
+      "gloss": "bambuya"
+    },
+    {
+      "surface": "נזירך",
+      "gloss": "ya nzete na yo ya kotika"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תבצר",
+      "gloss": "okokunga"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "mbula ya"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "Shabat"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ekozala"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ya mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T16:55:00.359825595Z",
+  "model": "glm-5.3"
+}

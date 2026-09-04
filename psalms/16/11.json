@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 16:11",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Okomonisa ngai nzela ya bomoi, bosepelezeli bonene na misu na yo ⟨את⟩, bola mwela na loboko ya mobali ya yo, libela.",
+  "tokens": [
+    {
+      "surface": "תודיעני",
+      "gloss": "Okomonisa ngai"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "nzela"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ya bomoi"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "bonene"
+    },
+    {
+      "surface": "שמחות",
+      "gloss": "bosepelezeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "misu na yo"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "misu na yo"
+    },
+    {
+      "surface": "נעמות",
+      "gloss": "bola mwela"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "na loboko ya mobali ya yo"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "libela"
+    }
+  ],
+  "timestamp": "2026-09-03T21:01:49.639509343Z",
+  "model": "glm-5.3"
+}

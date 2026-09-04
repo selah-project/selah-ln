@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 51:1",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 51,
+  "translation": "Bóyokela ngai, bino oyo bozali kolanda bosolo, bino oyo bozali koluka Yawe: botálá libanga oyo bokebolamaki wana, mpe esika ya bobolo ya bopima oyo bopimamaki wana.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "boyokela"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "bino oyo bozali kolanda"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "bosolo"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "bino oyo bozali koluka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הביטו",
+      "gloss": "botala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "צור",
+      "gloss": "libanga"
+    },
+    {
+      "surface": "חצבתם",
+      "gloss": "bokebolamaki wana"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mpe na"
+    },
+    {
+      "surface": "מקבת",
+      "gloss": "esika ya bobolo"
+    },
+    {
+      "surface": "בור",
+      "gloss": "ya bopima"
+    },
+    {
+      "surface": "נקרתם",
+      "gloss": "bopimamaki wana"
+    }
+  ],
+  "timestamp": "2026-09-03T19:36:04.592575492Z",
+  "model": "glm-5.3"
+}

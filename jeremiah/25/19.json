@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 25:19",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "⟨את⟩ Parao mokonzi ya Mitsraim, mpe ⟨את⟩ basali na yango, mpe ⟨את⟩ bankulu na yango, mpe ⟨את⟩ bato na yango nyonso.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Parao"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Mitsraim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "basali na yango"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "basali na yango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bankulu na yango"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "bankulu na yango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bato na yango nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bato na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T19:54:28.741615029Z",
+  "model": "glm-5.3"
+}

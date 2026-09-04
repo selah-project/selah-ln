@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 11:9",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Yehoshua asalaki bango ndenge Yawe alobaki ye: ⟨את⟩ basusu na bango abungisaki na mokonza, mpe ⟨את⟩ masini na bango anetolaki na moto.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "asalaki"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bango"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ndenge"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "basusu na bango"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "basusu na bango"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "abungisaki na mokonza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "masini na bango"
+    },
+    {
+      "surface": "מרכבתיהם",
+      "gloss": "masini na bango"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "anetolaki"
+    },
+    {
+      "surface": "באש",
+      "gloss": "na moto"
+    }
+  ],
+  "timestamp": "2026-09-03T17:49:16.722044406Z",
+  "model": "glm-5.3"
+}

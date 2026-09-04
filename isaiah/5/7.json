@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 5:7",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Mpo ete ebimbeli ya Yawe Tsebaot ezali ndako ya Israel, mpe bato ya Yehuda bokoti ya boseengo na yango; atendelaki bosambisi, mpe talá bokati-bakati; bosolo, mpe talá boombeu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "ebimbeli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "mpe bato ya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "bokoti"
+    },
+    {
+      "surface": "שעשועיו",
+      "gloss": "ya boseengo na yango"
+    },
+    {
+      "surface": "ויקו",
+      "gloss": "atendelaki"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "bosambisi"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mpe talá"
+    },
+    {
+      "surface": "משפח",
+      "gloss": "bokati-bakati"
+    },
+    {
+      "surface": "לצדקה",
+      "gloss": "bosolo"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mpe talá"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "boombeu"
+    }
+  ],
+  "timestamp": "2026-09-03T19:15:58.588411049Z",
+  "model": "glm-5.3"
+}

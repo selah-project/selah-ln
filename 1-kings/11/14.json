@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 11:14",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpe Yawe atombolaki motomboki na Shelomo: ⟨את⟩ Hadad, mowe ya Edom, wo zera ya mokonzi — ye moko azalaki na Edom.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Mpe atombolaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "motomboki"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "na Shelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadad"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "mowe ya Edom"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "wo zera"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya mokonzi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ye moko"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "na Edom"
+    }
+  ],
+  "timestamp": "2026-09-03T18:50:27.371010282Z",
+  "model": "glm-5.3"
+}

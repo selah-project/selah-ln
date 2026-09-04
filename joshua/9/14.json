@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 9:14",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Mpe bato bayandi na ndambo na bango, mpe ⟨את⟩ monoko ya Yawe batunaki te.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "mpe bayandi"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "bato"
+    },
+    {
+      "surface": "מצידם",
+      "gloss": "na ndambo na bango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "monoko ya Yawe"
+    },
+    {
+      "surface": "פי",
+      "gloss": "monoko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "batunaki"
+    }
+  ],
+  "timestamp": "2026-09-03T17:45:54.505469588Z",
+  "model": "glm-5.3"
+}

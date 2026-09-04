@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 32:4",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 32,
+  "translation": "Mpe azwaki yango uta na maboko na bango, mpe asalisaki ⟨את⟩ na mokuki, mpe asalaki yango ekoli ya wolo oyo eketamaki; mpe balobaki: Oyo nde banzambe na yo, Israel, oyo akomitisi yo uta mabele ya Mitsraim.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "azwaki"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "uta na maboko na bango"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "asalisaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mokuki"
+    },
+    {
+      "surface": "בחרט",
+      "gloss": "na mokuki"
+    },
+    {
+      "surface": "ויעשהו",
+      "gloss": "asalaki yango"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "ekoli"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "wolo oyo eketamaki"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "balobaki"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Oyo"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "banzambe na yo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "העלוך",
+      "gloss": "akomitisi yo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "uta mabele ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    }
+  ],
+  "timestamp": "2026-09-03T16:34:26.917143092Z",
+  "model": "glm-5.3"
+}

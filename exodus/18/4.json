@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 18:4",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Mpe nkombo ya ya mibale ezali Eliezer, mpo Elohim ya tata na ngai azalaki lisalisi na ngai, mpe abikisaki ngai na linga ya Parao.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "Mpe nkombo"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ya mibale"
+    },
+    {
+      "surface": "אליעזר",
+      "gloss": "Eliezer"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ya"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tata na ngai"
+    },
+    {
+      "surface": "בעזרי",
+      "gloss": "azalaki lisalisi na ngai"
+    },
+    {
+      "surface": "ויצלני",
+      "gloss": "mpe abikisaki ngai"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "na linga"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    }
+  ],
+  "timestamp": "2026-09-03T16:23:56.140719812Z",
+  "model": "glm-5.3"
+}

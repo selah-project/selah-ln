@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 14:2",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "basalaki etumba na ⟨את⟩ Bera mokonzi ya Sodom mpe na ⟨את⟩ Birsha mokonzi ya Amora, Shinab mokonzi ya Adma, mpe Shemaber mokonzi ya Tseboim, mpe mokonzi ya Bela — yango nde Tsoar.",
+  "tokens": [
+    {
+      "surface": "עשו",
+      "gloss": "basalaki"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "etumba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bera mokonzi ya Sodom"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "na Bera"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi ya"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sodom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Birsha mokonzi ya Amora"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "na Birsha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi ya"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amora"
+    },
+    {
+      "surface": "שנאב",
+      "gloss": "Shinab"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi ya"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "Adma"
+    },
+    {
+      "surface": "ושמאבר",
+      "gloss": "mpe Shemaber"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi ya"
+    },
+    {
+      "surface": "צביים",
+      "gloss": "Tseboim"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "mpe mokonzi ya"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Bela"
+    },
+    {
+      "surface": "היא",
+      "gloss": "yango nde"
+    },
+    {
+      "surface": "צער",
+      "gloss": "Tsoar"
+    }
+  ],
+  "timestamp": "2026-09-03T15:50:36.184418089Z",
+  "model": "glm-5.3"
+}

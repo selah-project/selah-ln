@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 6:2",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Serafim bazali telemi likolo na ye; motoba mapapa, motoba mapapa mpo na moko na moko; na mibale azipaki elongi na ye, mpe na mibale azipaki makolo na ye, mpe na mibale apapaki.",
+  "tokens": [
+    {
+      "surface": "שרפים",
+      "gloss": "Serafim"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "bazali telemi"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "likolo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "שש",
+      "gloss": "motoba"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "mapapa"
+    },
+    {
+      "surface": "שש",
+      "gloss": "motoba"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "mapapa"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "mpo na moko na moko"
+    },
+    {
+      "surface": "בשתים",
+      "gloss": "na mibale"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "azipaki"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "elongi na ye"
+    },
+    {
+      "surface": "ובשתים",
+      "gloss": "mpe na mibale"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "azipaki"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "makolo na ye"
+    },
+    {
+      "surface": "ובשתים",
+      "gloss": "mpe na mibale"
+    },
+    {
+      "surface": "יעופף",
+      "gloss": "apapaki"
+    }
+  ],
+  "timestamp": "2026-09-03T19:15:54.982165820Z",
+  "model": "glm-5.3"
+}

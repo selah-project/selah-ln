@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 12:11",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Mpe Yawe atindaki ⟨את⟩ Yerubal, mpe ⟨את⟩ Bedan, mpe ⟨את⟩ Yiftah, mpe ⟨את⟩ Shemuel, mpe abimbisaki ⟨את⟩ bino na loboko ya banguna na bino oyo bazalaki zingazinga, mpe bofandaki na libateli.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "mpe atindaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerubal"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "Yerubal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Bedan"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "Bedan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Yiftah"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Shemuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "mpe abimbisaki"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ bino",
+      "marks": "na loboko ya banguna na bino"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "na loboko"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "ya banguna na bino"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "oyo bazalaki zingazinga"
+    },
+    {
+      "surface": "ותשבו",
+      "gloss": "mpe bofandaki"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "na libateli"
+    }
+  ],
+  "timestamp": "2026-09-03T18:13:41.600555660Z",
+  "model": "glm-5.3"
+}

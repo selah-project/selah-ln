@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 13:11",
+  "book": "nehemiah",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Mpe nakangaki na mbongo likambo ⟨את⟩ bakambi, mpe nalobaki: Mpo na nini ndako ya Elohim etikami? Mpe nasangisaki bango, mpe nateyaki bango na esika na bango.",
+  "tokens": [
+    {
+      "surface": "ואריבה",
+      "gloss": "nakangaki likambo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bakambi"
+    },
+    {
+      "surface": "הסגנים",
+      "gloss": "bakambi"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "mpe nalobaki"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "mpo na nini"
+    },
+    {
+      "surface": "נעזב",
+      "gloss": "etikami"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "ואקבצם",
+      "gloss": "mpe nasangisaki bango"
+    },
+    {
+      "surface": "ואעמידם",
+      "gloss": "mpe nateyaki bango"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "עמדם",
+      "gloss": "esika na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T22:39:18.957150022Z",
+  "model": "glm-5.3"
+}

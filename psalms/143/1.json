@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 143:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 143,
+  "translation": "Mizmor ya David. Yawe, yoka losambo na ngai, kanisa matoyi na maloba na ngai ya kosenga; na bondimu na yo yananisa ngai, na bosemi na yo.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "yoka"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "losambo na ngai"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "kanisa matoyi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "maloba na ngai ya kosenga"
+    },
+    {
+      "surface": "באמנתך",
+      "gloss": "na bondimu na yo"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "yananisa ngai"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "na bosemi na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:35:22.737205030Z",
+  "model": "glm-5.3"
+}

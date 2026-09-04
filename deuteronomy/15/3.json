@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 15:3",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 15,
+  "translation": "⟨את⟩ mopaya okokoka kosenga; kasi oyo ezali na yo, ⟨את⟩ ndeko na yo okolongola yango na maboko na yo.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mopaya"
+    },
+    {
+      "surface": "הנכרי",
+      "gloss": "mopaya"
+    },
+    {
+      "surface": "תגש",
+      "gloss": "okokoka kosenga"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "kasi oyo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ezali"
+    },
+    {
+      "surface": "לך",
+      "gloss": "na yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndeko na yo"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ndeko na yo"
+    },
+    {
+      "surface": "תשמט",
+      "gloss": "okolongola"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "na maboko na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T17:32:01.872952443Z",
+  "model": "glm-5.3"
+}

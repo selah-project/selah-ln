@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 35:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 35,
+  "translation": "Mpe molimo na ngai esepeli na Yawe, esepela na bokengeli na ye.",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "Mpe molimo na ngai"
+    },
+    {
+      "surface": "תגיל",
+      "gloss": "esepeli"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "na Yawe"
+    },
+    {
+      "surface": "תשיש",
+      "gloss": "esepela"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "na bokengeli na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:08:24.976459932Z",
+  "model": "glm-5.3"
+}

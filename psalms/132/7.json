@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 132:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 132,
+  "translation": "Tikota na bandako na yango, tokofukamela na esika ya makolo na yango.",
+  "tokens": [
+    {
+      "surface": "נבואה",
+      "gloss": "Tikota"
+    },
+    {
+      "surface": "למשכנותיו",
+      "gloss": "na bandako na yango"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "tokofukamela"
+    },
+    {
+      "surface": "להדם",
+      "gloss": "na esika ya makolo"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:33:59.524742180Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "malachi 3:2",
+  "book": "malachi",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe nani akoki kozela ⟨את⟩ mokolo ya boyei na ye? Mpe nani akotelema ntango akomonama? Mpo yeye azali lokola moto ya molangi, mpe lokola savon ya balangi bilamba.",
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "mpe nani"
+    },
+    {
+      "surface": "מכלכל",
+      "gloss": "akoki kozela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mokolo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mokolo"
+    },
+    {
+      "surface": "בואו",
+      "gloss": "ya boyei na ye"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "mpe nani"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "akotelema"
+    },
+    {
+      "surface": "בהראותו",
+      "gloss": "ntango akomonama"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "lokola moto"
+    },
+    {
+      "surface": "מצרף",
+      "gloss": "ya molangi"
+    },
+    {
+      "surface": "וכברית",
+      "gloss": "mpe lokola savon"
+    },
+    {
+      "surface": "מכבסים",
+      "gloss": "ya balangi bilamba"
+    }
+  ],
+  "timestamp": "2026-09-03T21:01:00.210751974Z",
+  "model": "glm-5.3"
+}

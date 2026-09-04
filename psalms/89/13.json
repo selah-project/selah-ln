@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 89:13",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 89,
+  "translation": "Nord mpe sud, yo okelaki bongo; Tabor mpe Hermon bakumisaka na nkombo na yo.",
+  "tokens": [
+    {
+      "surface": "צפון",
+      "gloss": "Nord"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "mpe sud"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "בראתם",
+      "gloss": "okelaki bongo"
+    },
+    {
+      "surface": "תבור",
+      "gloss": "Tabor"
+    },
+    {
+      "surface": "וחרמון",
+      "gloss": "mpe Hermon"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "na nkombo na yo"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "bakumisaka"
+    }
+  ],
+  "timestamp": "2026-09-03T21:23:08.437982919Z",
+  "model": "glm-5.3"
+}

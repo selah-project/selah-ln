@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 27:10",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 27,
+  "translation": "Mpo balobaki lokuta na bino, mpo na kolongisa bino mosika na mabele na bino, mpe nakotinda bino libanda, mpe bokofa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lokuta"
+    },
+    {
+      "surface": "הם",
+      "gloss": "bango"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "balobaki"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "na bino"
+    },
+    {
+      "surface": "למען",
+      "gloss": "mpo na"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "kolongisa mosika"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ bino"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "na"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "mabele na bino"
+    },
+    {
+      "surface": "והדחתי",
+      "gloss": "mpe nakotinda libanda"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ bino"
+    },
+    {
+      "surface": "ואבדתם",
+      "gloss": "mpe bokofa"
+    }
+  ],
+  "timestamp": "2026-09-03T19:53:48.490492694Z",
+  "model": "glm-5.3"
+}

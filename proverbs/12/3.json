@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 12:3",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Moto atikalisama te na mabe, kasi litomba ya bateleme bal ekangama te.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "atikalisama"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moto"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "na mabe"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "kasi litomba"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ya bateleme"
+    },
+    {
+      "surface": "בל",
+      "gloss": "bal"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "ekangama te"
+    }
+  ],
+  "timestamp": "2026-09-03T21:41:58.073521723Z",
+  "model": "glm-5.3"
+}

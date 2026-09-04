@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 73:11",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 73,
+  "translation": "Mpe balobi: Ndenge nini El ayebi? Mpe boyebi ezali ⟨ezali⟩ na Elyon?",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "Mpe balobi"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "Ndenge nini"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ayebi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "Mpe ezali"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "boyebi"
+    },
+    {
+      "surface": "בעליון",
+      "gloss": "na Elyon"
+    }
+  ],
+  "timestamp": "2026-09-03T21:18:27.871859870Z",
+  "model": "glm-5.3"
+}

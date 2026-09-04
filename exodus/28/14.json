@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 28:14",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 28,
+  "translation": "Mpe mitelemo mibale ya zahabu ya mokei, na mpelo okosala ⟨את⟩ bango, mosala ya kokangisama; mpe otya ⟨את⟩ mitelemo ya kokangisama na bisangeli.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "Mpe mibale"
+    },
+    {
+      "surface": "שרשרת",
+      "gloss": "ya mitelemo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ya zahabu"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ya mokei"
+    },
+    {
+      "surface": "מגבלת",
+      "gloss": "na mpelo"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "okosala"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bango",
+      "marks": "bango (mitelemo mibale)"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "mosala"
+    },
+    {
+      "surface": "עבת",
+      "gloss": "ya kokangisama"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "mpe otya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mitelemo ya kokangisama"
+    },
+    {
+      "surface": "שרשרת",
+      "gloss": "mitelemo"
+    },
+    {
+      "surface": "העבתת",
+      "gloss": "ya kokangisama"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "המשבצת",
+      "gloss": "bisangeli"
+    }
+  ],
+  "timestamp": "2026-09-03T16:29:29.662408326Z",
+  "model": "glm-5.3"
+}

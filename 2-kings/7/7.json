@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 7:7",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mpe batombaki mpe bakimaki na nsembe, mpe batikaki ⟨את⟩ matente na bango mpe ⟨את⟩ basolo na bango mpe ⟨את⟩ bapunda na bango, kaa ndenge azalaki, mpe bakimaki mpo na bomoi na bango.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "mpe batombaki"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "mpe bakimaki"
+    },
+    {
+      "surface": "בנשף",
+      "gloss": "na nsembe"
+    },
+    {
+      "surface": "ויעזבו",
+      "gloss": "mpe batikaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matente na bango"
+    },
+    {
+      "surface": "אהליהם",
+      "gloss": "matente na bango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "basolo na bango"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "basolo na bango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bapunda na bango"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "bapunda na bango"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kaa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ndenge"
+    },
+    {
+      "surface": "היא",
+      "gloss": "azalaki"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "mpe bakimaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mpo na"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "bomoi na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T19:02:03.963318609Z",
+  "model": "glm-5.3"
+}

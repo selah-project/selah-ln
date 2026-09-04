@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 24:10",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "Bakonzi nyonso mpe bato nyonso bakosekaki, mpe bamemaki mpe babwakaki na sanduku, kino kosila.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "bakosekaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "bakonzi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe nyonso"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "mpe bamemaki"
+    },
+    {
+      "surface": "וישליכו",
+      "gloss": "mpe babwakaki"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "na sanduku"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "לכלה",
+      "gloss": "kosila"
+    }
+  ],
+  "timestamp": "2026-09-03T23:04:02.435635426Z",
+  "model": "glm-5.3"
+}

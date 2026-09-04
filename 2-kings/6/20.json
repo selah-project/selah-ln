@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 6:20",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpe esalemaki, ntango bakomaki na Shomron, Elisha alobaki: Yawe, fungola ⟨את⟩ miso ya bato oyo, mpe bamona; mpe Yawe afungolaki ⟨את⟩ miso na bango, mpe banoni; mpe talá, bazalaki kati ya Shomron.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mpe esalemaki"
+    },
+    {
+      "surface": "כבאם",
+      "gloss": "ntango bakomaki"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "na Shomron"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "fungola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miso ya bato oyo"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "miso ya"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bato oyo"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "mpe bamona"
+    },
+    {
+      "surface": "ויפקח",
+      "gloss": "mpe afungolaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miso na bango"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "miso na bango"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "mpe banoni"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mpe talá"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "kati ya"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    }
+  ],
+  "timestamp": "2026-09-03T19:01:30.012651408Z",
+  "model": "glm-5.3"
+}

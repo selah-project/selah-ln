@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 99:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 99,
+  "translation": "Mpe nguya ya mokonzi: yo olingi bosambo; yo otyaki bonganye, bosambo mpe bosembo na Yaakov yo osalaki.",
+  "tokens": [
+    {
+      "surface": "ועז",
+      "gloss": "mpe nguya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ya mokonzi"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "bosambo"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "olingi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "otyaki"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "bonganye"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "bosambo"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "mpe bosembo"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "na Yaakov"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "osalaki"
+    }
+  ],
+  "timestamp": "2026-09-03T21:26:27.707854345Z",
+  "model": "glm-5.3"
+}

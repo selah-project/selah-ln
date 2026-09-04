@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 43:17",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 43,
+  "translation": "Mpe moto asalaki ndenge Yosef alobaki, mpe moto akomisaki ⟨את⟩ bato na ndako ya Yosef.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Mpe moto asalaki"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ndenge"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "mpe akomisaki"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bato"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "bato"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "na ndako ya"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    }
+  ],
+  "timestamp": "2026-09-03T16:08:57.849076443Z",
+  "model": "glm-5.3"
+}

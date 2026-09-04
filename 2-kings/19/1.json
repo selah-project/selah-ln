@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 19:1",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Mpe esalemaki, ntango mokonzi Hizkiyahu ayoki yango, akangolaki ⟨את⟩ bilamba na ye, mpe akundolaki ye na saku, mpe akotaki na ndako ya Yawe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mpe esalemaki"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "ntango ayoki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkiyahu"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "mpe akangolaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bilamba na ye"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "bilamba na ye"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "mpe akundolaki"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "na saku"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "mpe akotaki"
+    },
+    {
+      "surface": "בית",
+      "gloss": "na ndako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T19:08:52.524005930Z",
+  "model": "glm-5.3"
+}

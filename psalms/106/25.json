@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 106:25",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 106,
+  "translation": "Mpe basalolaki mabe na kati ya matente na bango, bayokaki te mongongo ya Yawe.",
+  "tokens": [
+    {
+      "surface": "וירגנו",
+      "gloss": "basalolaki mabe"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "na matente na bango"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "bayokaki"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "na mongongo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T21:28:13.091330276Z",
+  "model": "glm-5.3"
+}

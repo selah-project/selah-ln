@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 15:15",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 15,
+  "translation": "Mpe bana ya baLevi bamemaki ⟨את⟩ sanduku ya Elohim na matipa na bango na bamoto likolo na yango, lokola Moshe atesaki, na liloba ya Yawe.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "bamemaki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ya"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "baLevi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduku"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduku"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "lokola"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "atesaki"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "na liloba ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בכתפם",
+      "gloss": "na matipa na bango"
+    },
+    {
+      "surface": "במטות",
+      "gloss": "na bamoto"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "likolo na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T22:47:08.036235176Z",
+  "model": "glm-5.3"
+}

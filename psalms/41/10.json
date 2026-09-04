@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 41:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 41,
+  "translation": "Ata moto ya kimya na ngai, oyo namipesaki na ye, moyaka boloko na ngai, atombaki kingo na ye likolo na ngai.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Ata"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "שלומי",
+      "gloss": "ya kimya na ngai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "namipesaki"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "moyaka"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "boloko na ngai"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "atombaki"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "likolo na ngai"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "kingo na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:10:04.020150310Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 33:17",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 33,
+  "translation": "Lokuta nde liponi mpo na bobombi; mpe na bonene ya nguya na yango ekobombaka te.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "Lokuta"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "liponi"
+    },
+    {
+      "surface": "לתשועה",
+      "gloss": "mpo na bobombi"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "mpe na bonene"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "ya nguya na yango"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "ekobombaka"
+    }
+  ],
+  "timestamp": "2026-09-03T21:08:08.149008547Z",
+  "model": "glm-5.3"
+}

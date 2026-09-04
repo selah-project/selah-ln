@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 27:6",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 27,
+  "translation": "Mpe osala banzekete mpo na autel, banzekete ya nzete ya akasia, mpe okozipela ⟨את⟩ bango na kombo.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "mpe osala"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "banzekete"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "mpo na autel"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "banzekete ya"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "nzete"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "akasia"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "mpe okozipela"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "na kombo"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "kombo"
+    }
+  ],
+  "timestamp": "2026-09-03T16:28:04.025749175Z",
+  "model": "glm-5.3"
+}

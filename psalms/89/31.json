@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 89:31",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 89,
+  "translation": "Soki bana na ⟨ye⟩ batikaka Tora na ngai, mpe na mibeko ya bosambeli na ngai balongaka te,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "soki"
+    },
+    {
+      "surface": "יעזבו",
+      "gloss": "batikaka"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bana na ⟨ye⟩"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Tora na ngai"
+    },
+    {
+      "surface": "ובמשפטי",
+      "gloss": "mpe na mibeko ya bosambeli na ngai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ילכון",
+      "gloss": "balongaka"
+    }
+  ],
+  "timestamp": "2026-09-03T21:22:59.796783833Z",
+  "model": "glm-5.3"
+}

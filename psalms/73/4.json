@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 73:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 73,
+  "translation": "Mpo ete makangi ezali te na liwa na bango; nzoto na bango ezali makasi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo ete"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ezali te"
+    },
+    {
+      "surface": "חרצבות",
+      "gloss": "makangi"
+    },
+    {
+      "surface": "למותם",
+      "gloss": "na liwa na bango"
+    },
+    {
+      "surface": "ובריא",
+      "gloss": "ezali makasi"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "nzoto na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:18:04.032549239Z",
+  "model": "glm-5.3"
+}

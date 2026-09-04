@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 147:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 147,
+  "translation": "Yawe atomelaka bamipe; atokisi mabe tike na mabele.",
+  "tokens": [
+    {
+      "surface": "מעודד",
+      "gloss": "atomelaka"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "bamipe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "atokisi"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "tike"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T21:36:52.676425605Z",
+  "model": "glm-5.3"
+}

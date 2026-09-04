@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 5:4",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Mokonzi ya Mitsraim alobaki na bango: Mpo nini, Moshe mpe Aharon, bozali kolongola ⟨את⟩ bato na misala na bango? Bokende na mikumba na bino.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Mokonzi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Mitsraim"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Mpo nini"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "mpe Aharon"
+    },
+    {
+      "surface": "תפריעו",
+      "gloss": "bozali kolongola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bato"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "ממעשיו",
+      "gloss": "na misala na bango"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Bokende"
+    },
+    {
+      "surface": "לסבלתיכם",
+      "gloss": "na mikumba na bino"
+    }
+  ],
+  "timestamp": "2026-09-03T16:16:34.258776260Z",
+  "model": "glm-5.3"
+}

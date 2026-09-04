@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 10:22",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Mpe Moshe atolamaki ⟨את⟩ maboko na ye likolo ya likolo, mpe ezalaki moke — moke ya moindo — na mobimba ya mabele ya Mitsraim, mikolo misato.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "Mpe atolamaki"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maboko na ye"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "maboko na ye"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "likolo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mpe ezalaki"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "moke"
+    },
+    {
+      "surface": "אפלה",
+      "gloss": "ya moindo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na mobimba ya"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Mitsraim"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "misato"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mikolo"
+    }
+  ],
+  "timestamp": "2026-09-03T16:18:35.650581050Z",
+  "model": "glm-5.3"
+}

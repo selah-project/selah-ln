@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 7:12",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mpo ete bwanya ezali etando, mpe mbongo ezali etando; kasi likabo ya boyebi ya bwanya, ezali elingisaka bomoi ya baye bazali na yango.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "ezali etando"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "bwanya"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "ezali etando"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "mbongo"
+    },
+    {
+      "surface": "ויתרון",
+      "gloss": "kasi likabo"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ya boyebi"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "ya bwanya"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "ezali elingisaka bomoi"
+    },
+    {
+      "surface": "בעליה",
+      "gloss": "ya baye bazali na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T22:14:17.077137429Z",
+  "model": "glm-5.3"
+}

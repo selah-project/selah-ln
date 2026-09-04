@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 8:8",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe mokonzi alobaki epai ya Hazael: Zwa na maboko na yo likabo, mpe kende kokutana na moto ya Elohim, mpe kotuna ⟨את⟩ Yawe ⟨את⟩ epai na ye, ati: Nakozonga na bomoi na bokono oyo?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "חזהאל",
+      "gloss": "Hazael"
+    },
+    {
+      "surface": "קח",
+      "gloss": "zwa"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "na maboko na yo"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "likabo"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "mpe kende"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "kokutana na"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ודרשת",
+      "gloss": "mpe kotuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מאותו",
+      "gloss": "⟨את⟩ epai na ye"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ati"
+    },
+    {
+      "surface": "האחיה",
+      "gloss": "Nakozonga na bomoi"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "na bokono"
+    },
+    {
+      "surface": "זה",
+      "gloss": "oyo"
+    }
+  ],
+  "timestamp": "2026-09-03T19:03:58.491900366Z",
+  "model": "glm-5.3"
+}

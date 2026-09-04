@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 16:10",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Mokemoke ya Yawe alobaki na ye: Nakobakisa mingi ⟨את⟩ mbeka na yo, mpe ekokanisama te na bonene.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "לה",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "mokemoke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "mingi"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "nakobakisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbeka na yo"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "mbeka na yo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "ekokanisama"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "na bonene"
+    }
+  ],
+  "timestamp": "2026-09-03T15:52:00.204238360Z",
+  "model": "glm-5.3"
+}

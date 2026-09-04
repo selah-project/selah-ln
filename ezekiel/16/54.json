@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "ezekiel 16:54",
+  "book": "ezekiel",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Mpo omema nsoni na yo mpe ozala na nsoni likolo ya nyonso oyo osali, na kokanga mawa na ⟨את⟩ bango.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "תשאי",
+      "gloss": "omema"
+    },
+    {
+      "surface": "כלמתך",
+      "gloss": "nsoni na yo"
+    },
+    {
+      "surface": "ונכלמת",
+      "gloss": "mpe ozala na nsoni"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "likolo ya nyonso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "osali"
+    },
+    {
+      "surface": "בנחמך",
+      "gloss": "na kokanga mawa"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "⟨את⟩ bango",
+      "marks": "bango (Sodom mpe Shomron)"
+    }
+  ],
+  "timestamp": "2026-09-03T23:30:13.968739437Z",
+  "model": "glm-5.3"
+}

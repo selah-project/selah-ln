@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 76:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 76,
+  "translation": "Yo, yo ozali wa bobangi; mpe nani akotelema liboso na yo, soki likanda na yo ebimi?",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "ozali wa bobangi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "mpe nani"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "akotelema"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "liboso na yo"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "soki"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "likanda na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:19:10.573487022Z",
+  "model": "glm-5.3"
+}

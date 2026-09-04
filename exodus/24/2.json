@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 24:2",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "Mpe Moshe yiki akokota penepene epai ya Yawe, kasi bango bakokota penepene te, mpe bato bakoyuka elongo na ye te.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "mpe akokota penepene"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "yiki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "והם",
+      "gloss": "kasi bango"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "bakokota penepene"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "mpe bato"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "bakoyuka"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "elongo na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T16:26:52.297311911Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 3:12",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Nayebi ete malamu ezali te na bango, longola se kosekanela mpe kosala malamu na bomoi na yango.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "Nayebi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ezali te"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "malamu"
+    },
+    {
+      "surface": "בם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "כי",
+      "gloss": "longola"
+    },
+    {
+      "surface": "אם",
+      "gloss": "se"
+    },
+    {
+      "surface": "לשמוח",
+      "gloss": "kosekanela"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "mpe kosala"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "malamu"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "na bomoi na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T22:12:53.100903128Z",
+  "model": "glm-5.3"
+}

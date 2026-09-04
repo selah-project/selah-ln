@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 28:4",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 28,
+  "translation": "Mpe bapelishti bakangaki ⟨את⟩ Israel nyonso, mpe batyaki kaa na Gilboa.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "mpe bakangaki"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "bapelishti"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "mpe bayaki"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "mpe batyaki kaa"
+    },
+    {
+      "surface": "בשונם",
+      "gloss": "na Shunem"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "mpe akangaki"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "mpe batyaki kaa"
+    },
+    {
+      "surface": "בגלבע",
+      "gloss": "na Gilboa"
+    }
+  ],
+  "timestamp": "2026-09-03T18:24:37.255160237Z",
+  "model": "glm-5.3"
+}

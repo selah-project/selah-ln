@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 38:15",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 38,
+  "translation": "Mpe Yehuda amoni ye, mpe amilingaki ye mwasi ya nzela, mpo akangaki elongi na ye.",
+  "tokens": [
+    {
+      "surface": "ויראה",
+      "gloss": "amoni ye"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ויחשבה",
+      "gloss": "amilingaki ye"
+    },
+    {
+      "surface": "לזונה",
+      "gloss": "mwasi ya nzela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "akangaki"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "elongi na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T16:06:12.071669512Z",
+  "model": "glm-5.3"
+}

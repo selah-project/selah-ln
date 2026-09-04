@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 9:12",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Boyembeli Yawe oyo azali kanda na Tsion, boyebisa kanda bato misala na ye.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "boyembeli"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "oyo azali kanda"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsion"
+    },
+    {
+      "surface": "הגידו",
+      "gloss": "boyebisa"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "kanda bato"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "misala na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:01:25.515145883Z",
+  "model": "glm-5.3"
+}

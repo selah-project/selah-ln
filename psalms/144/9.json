@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 144:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 144,
+  "translation": "Elohim, loye ya sika nakoyimbela yo; na nevel ya zomi nakoyimbela yo.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "loye"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ya sika"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "nakoyimbela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yo"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "na nevel"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "ya zomi"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "nakoyimbela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:36:19.431996779Z",
+  "model": "glm-5.3"
+}

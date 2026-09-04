@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 5:6",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Ngai nazali Yawe Elohim na yo, oyo nabimisaki yo na mboka ya Mitsraim, na ndako ya bawumbu.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ngai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim na yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "nabimisaki yo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "na mboka ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "na ndako ya"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "bawumbu"
+    }
+  ],
+  "timestamp": "2026-09-03T17:24:45.497552554Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 7:10",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mpe na litombelo, mabeli ya makasi, mabeli minene — mabeli ya mikoko zomi, mpe mabeli ya mikoko mwambe.",
+  "tokens": [
+    {
+      "surface": "ומיסד",
+      "gloss": "mpe na litombelo"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "mabeli"
+    },
+    {
+      "surface": "יקרות",
+      "gloss": "ya makasi"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "mabeli"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "minene"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "mabeli"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "zomi"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "mikoko"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "mpe mabeli"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "mwambe"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "mikoko"
+    }
+  ],
+  "timestamp": "2026-09-03T18:46:30.676417114Z",
+  "model": "glm-5.3"
+}

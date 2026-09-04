@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 40:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 40,
+  "translation": "Mpe akolisaki ngai na libulu ya bobebi, na lopango ya mabele meto; mpe atyaki makolo na ngai na libanga, asemakisaki bibwele na ngai.",
+  "tokens": [
+    {
+      "surface": "ויעלני",
+      "gloss": "Mpe akolisaki ngai"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "na libulu"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "ya bobebi"
+    },
+    {
+      "surface": "מטיט",
+      "gloss": "na lopango"
+    },
+    {
+      "surface": "היון",
+      "gloss": "ya mabele meto"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "mpe atyaki"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "libanga"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "makolo na ngai"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "asemakisaki"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "bibwele na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:10:18.939281542Z",
+  "model": "glm-5.3"
+}

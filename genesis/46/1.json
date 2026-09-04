@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 46:1",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 46,
+  "translation": "Mpe Israel alongaki nzela na nyonso oyo azalaki na yango, mpe akotaki na Beer-Shava, mpe abotaki mabeli na Elohim ya tata na yango Yitshak.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "alongaki nzela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe nyonso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "mpe akotaki"
+    },
+    {
+      "surface": "בארה",
+      "gloss": "na Beer"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Shava"
+    },
+    {
+      "surface": "ויזבח",
+      "gloss": "mpe abotaki"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "mabeli"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "na Elohim"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "tata na yango"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    }
+  ],
+  "timestamp": "2026-09-03T16:10:35.953533258Z",
+  "model": "glm-5.3"
+}

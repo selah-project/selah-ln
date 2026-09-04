@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 21:32",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Mpe Moshe atindaki mpo na koluka sango ⟨את⟩ Yazer; mpe bakangaki bikele na yango, mpe babimisaki ⟨את⟩ baemori oyo bazalaki kuna.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Mpe atindaki"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לרגל",
+      "gloss": "mpo na koluka sango"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yazer"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yazer"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "mpe bakangaki"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "bikele na yango"
+    },
+    {
+      "surface": "ויירש",
+      "gloss": "mpe babimisaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baemori"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "baemori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "bazalaki kuna"
+    }
+  ],
+  "timestamp": "2026-09-03T17:12:27.263964753Z",
+  "model": "glm-5.3"
+}

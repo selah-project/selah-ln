@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezra 2:8",
+  "book": "ezra",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Bana ya Zatu, nkoto libwa mpe ntuku minei na mitano.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Bana"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "ya Zatu"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "nkoto libwa"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "⟨nkoto⟩"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "mpe ntuku minei"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "na mitano"
+    }
+  ],
+  "timestamp": "2026-09-03T23:38:41.460806908Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 103:16",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 103,
+  "translation": "Mpo mpema ekotaka likolo na ye, mpe abungaka; mpe esika na ye ekozala komona ye lisusu te.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mpema"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "ekotaka likolo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "mpe abungaka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe ... te"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "ekozala komona ye lisusu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lisusu"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "esika na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:25:58.307023477Z",
+  "model": "glm-5.3"
+}

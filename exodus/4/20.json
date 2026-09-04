@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 4:20",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Moshe azwaki ⟨את⟩ mwasi na ye mpe ⟨את⟩ bana na ye, atombokisi bango na likolo ya punda, mpe azongaki na mabele ya Mitsraim; mpe Moshe azwaki ⟨את⟩ baton ya Elohim na loboko na ye.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "azwaki"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwasi na ye"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mwasi na ye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bana na ye"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bana na ye"
+    },
+    {
+      "surface": "וירכבם",
+      "gloss": "atombokisi bango"
+    },
+    {
+      "surface": "על",
+      "gloss": "na likolo ya"
+    },
+    {
+      "surface": "החמר",
+      "gloss": "punda"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "azongaki"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Mitsraim"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "azwaki"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baton"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "baton"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "na loboko na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T16:15:39.607735701Z",
+  "model": "glm-5.3"
+}

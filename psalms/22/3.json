@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 22:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Elohim na ngai, nakebelaka na moyi mpe oyanoli te, mpe na butu mpe kimya ezali te na ngai.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim na ngai"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "nakebelaka"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "na moyi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe oyanoli te"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "oyanoli te"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "mpe na butu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe kimya ezali te"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "kimya ezali te"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:04:38.178422874Z",
+  "model": "glm-5.3"
+}

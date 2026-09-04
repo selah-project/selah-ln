@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 73:13",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 73,
+  "translation": "Solo, na likwei nasengoli motema na ngai, mpe nakitiaki masa na ngai na bosolo.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Solo"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "na likwei"
+    },
+    {
+      "surface": "זכיתי",
+      "gloss": "nasengoli"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "motema na ngai"
+    },
+    {
+      "surface": "וארחץ",
+      "gloss": "mpe nakitiaki"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "na bosolo"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "masa na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:18:25.362238618Z",
+  "model": "glm-5.3"
+}

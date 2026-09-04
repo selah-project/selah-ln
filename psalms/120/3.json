@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 120:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 120,
+  "translation": "Akopesa yo nini, mpe akobakisa yo nini, monoko ya kokroma?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "akopesa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yo"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "mpe nini"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "akobakisa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yo"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "monoko"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "ya kokroma"
+    }
+  ],
+  "timestamp": "2026-09-03T21:32:33.361797547Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 27:10",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 27,
+  "translation": "Akobongwisa yango te, mpe akokolisa ⟨את⟩ yango te, malamu na mabe, to mabe na malamu; mpe soki akokolisa kaka nyama na nyama, yango mpe mbongi na yango ekokanaka mosantu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יחליפנו",
+      "gloss": "akobongwisa yango"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "akokolisa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yango (nyama)"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "malamu"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "na mabe"
+    },
+    {
+      "surface": "או",
+      "gloss": "to"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "na malamu"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "mpe soki"
+    },
+    {
+      "surface": "המר",
+      "gloss": "akokolisa kaka"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "akokolisa"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "na nyama"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "mpe ekokanaka"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yango"
+    },
+    {
+      "surface": "ותמורתו",
+      "gloss": "mpe mbongi na yango"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ekokanaka"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "mosantu"
+    }
+  ],
+  "timestamp": "2026-09-03T16:57:43.470747568Z",
+  "model": "glm-5.3"
+}

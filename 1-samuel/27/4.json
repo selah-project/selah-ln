@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 27:4",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 27,
+  "translation": "Bayebisaki Shaul ete David akimaki ⟨na⟩ Gat, mpe abakisaki lisusu te koluka ye.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "bayebisaki"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "akimaki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "abakisaki"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lisusu"
+    },
+    {
+      "surface": "לבקשו",
+      "gloss": "koluka ye"
+    }
+  ],
+  "timestamp": "2026-09-03T18:24:47.908023061Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 20:4",
+  "book": "ezekiel",
+  "lang": "ln",
+  "chapter": 20,
+  "translation": "Okokata ⟨את⟩ bango makambo, okokata makambo, mwana ya moto? Bayebisa bango ⟨את⟩ masumu ya batata na bango.",
+  "tokens": [
+    {
+      "surface": "התשפט",
+      "gloss": "Okokata makambo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bango"
+    },
+    {
+      "surface": "התשפוט",
+      "gloss": "okokata makambo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ya moto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masumu ya batata na bango"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "masumu"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "ya batata na bango"
+    },
+    {
+      "surface": "הודיעם",
+      "gloss": "Bayebisa bango"
+    }
+  ],
+  "timestamp": "2026-09-03T20:20:48.999462046Z",
+  "model": "glm-5.3"
+}

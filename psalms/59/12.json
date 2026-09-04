@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 59:12",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 59,
+  "translation": "Baboma bango te, mpo bato na ngai bakobosana; kobungusa bango na nguya na yo, mpe kitisa bango, nkoba na biso, Adonai.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Baboma ... te"
+    },
+    {
+      "surface": "תהרגם",
+      "gloss": "bango"
+    },
+    {
+      "surface": "פן",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "bakobosana te"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "bato na ngai"
+    },
+    {
+      "surface": "הניעמו",
+      "gloss": "kobungusa bango"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "na nguya na yo"
+    },
+    {
+      "surface": "והורידמו",
+      "gloss": "mpe kitisa bango"
+    },
+    {
+      "surface": "מגננו",
+      "gloss": "nkoba na biso"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:14:54.679117002Z",
+  "model": "glm-5.3"
+}

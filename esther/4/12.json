@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 4:12",
+  "book": "esther",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe balobaki na Mordekai ⟨את⟩ maloba ya Ester.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "Mpe balobaki"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "na Mordekai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maloba"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "maloba"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "ya Ester"
+    }
+  ],
+  "timestamp": "2026-09-03T22:16:23.946604119Z",
+  "model": "glm-5.3"
+}

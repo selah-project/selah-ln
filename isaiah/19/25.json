@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 19:25",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Oyo Yawe Tsebaot abonaki ⟨na⟩ koloba: Baraki bazali bakongo na ngai Mitsraim, mpe mosala ya maboko na ngai Ashur, mpe bosolo na ngai Israel.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "abonaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "koloba"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "baraki"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "bakongo na ngai"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "mpe mosala"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ya maboko na ngai"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "ונחלתי",
+      "gloss": "mpe bosolo na ngai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-03T19:18:57.326001983Z",
+  "model": "glm-5.3"
+}

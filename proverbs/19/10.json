@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 19:10",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Bomoi ya mpuse ebongi te mpo na sekele, mpe mingi mpo na mosembo kanda bokonzi na bankonzi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "ebongi"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "mpo na sekele"
+    },
+    {
+      "surface": "תענוג",
+      "gloss": "bomoi ya mpuse"
+    },
+    {
+      "surface": "אף",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mingi"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "mpo na mosembo"
+    },
+    {
+      "surface": "משל",
+      "gloss": "kanda bokonzi"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "na bankonzi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:44:45.499314802Z",
+  "model": "glm-5.3"
+}

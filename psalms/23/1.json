@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 23:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Nzembo ya David. Yawe azali mokeli-ya-banyama na ngai, nakokoka kozanga eloko te.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Nzembo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "azali mokeli-ya-banyama na ngai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "אחסר",
+      "gloss": "nakokoka kozanga eloko"
+    }
+  ],
+  "timestamp": "2026-09-03T21:04:51.700147728Z",
+  "model": "glm-5.3"
+}

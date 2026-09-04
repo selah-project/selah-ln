@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 2:2",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Na boseko nalobaki: bobunga; mpe na esengo: Nini oyo esalaka?",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "Na boseko"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nalobaki"
+    },
+    {
+      "surface": "מהולל",
+      "gloss": "bobunga"
+    },
+    {
+      "surface": "ולשמחה",
+      "gloss": "mpe na esengo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Nini"
+    },
+    {
+      "surface": "זה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "esalaka"
+    }
+  ],
+  "timestamp": "2026-09-03T22:13:36.844604006Z",
+  "model": "glm-5.3"
+}

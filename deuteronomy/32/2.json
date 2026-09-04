@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 32:2",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 32,
+  "translation": "Malako na ngai ekoleta ndenge mbula, liloba na ngai ekozela ndenge mai ya butu, ndenge mbula ya seke likolo ya matete, mpe ndenge mbula ya makasi likolo ya esobe.",
+  "tokens": [
+    {
+      "surface": "יערף",
+      "gloss": "ekoleta"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "ndenge mbula"
+    },
+    {
+      "surface": "לקחי",
+      "gloss": "Malako na ngai"
+    },
+    {
+      "surface": "תזל",
+      "gloss": "ekozela"
+    },
+    {
+      "surface": "כטל",
+      "gloss": "ndenge mai ya butu"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "liloba na ngai"
+    },
+    {
+      "surface": "כשעירם",
+      "gloss": "ndenge mbula ya seke"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "matete"
+    },
+    {
+      "surface": "וכרביבים",
+      "gloss": "mpe ndenge mbula ya makasi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "esobe"
+    }
+  ],
+  "timestamp": "2026-09-03T17:41:37.135217997Z",
+  "model": "glm-5.3"
+}

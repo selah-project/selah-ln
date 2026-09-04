@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 75:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 75,
+  "translation": "Mpo botombwami etaka te uta na est, te uta na ouest, mpe te uta na désert ya likolo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ממוצא",
+      "gloss": "uta na est"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "te uta na ouest"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "uta na désert"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ya likolo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:19:25.480918313Z",
+  "model": "glm-5.3"
+}

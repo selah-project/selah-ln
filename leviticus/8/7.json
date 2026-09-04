@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 8:7",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe atyaki na ye ⟨את⟩ kutonet, mpe apingaki ⟨את⟩ ye na avnet, mpe alataki ⟨את⟩ ye ⟨את⟩ ⟨na⟩ meil, mpe atyaki na ye ⟨את⟩ efod, mpe apingaki ⟨את⟩ ye na heshhev ya efod, mpe abandanaki ⟨na yango⟩ na ye na yango.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Mpe atyaki"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kutonet"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "kutonet"
+    },
+    {
+      "surface": "ויחגר",
+      "gloss": "mpe apingaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ye",
+      "marks": "na avnet"
+    },
+    {
+      "surface": "באבנט",
+      "gloss": "na avnet"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "mpe alataki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ye",
+      "marks": "meil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨na⟩"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "meil"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "mpe atyaki"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efod"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efod"
+    },
+    {
+      "surface": "ויחגר",
+      "gloss": "mpe apingaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ye",
+      "marks": "na heshhev ya efod"
+    },
+    {
+      "surface": "בחשב",
+      "gloss": "na heshhev"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ya efod"
+    },
+    {
+      "surface": "ויאפד",
+      "gloss": "mpe abandanaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:44:04.113316296Z",
+  "model": "glm-5.3"
+}

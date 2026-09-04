@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 25:12",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Mpe akozala kokitisa bokitiro, likolo ya bibanda na yo: akobendisa, akitisa, akomema na mabele, tika mabele ya moke.",
+  "tokens": [
+    {
+      "surface": "ומבצר",
+      "gloss": "mpe bokitiro"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "likolo"
+    },
+    {
+      "surface": "חומתיך",
+      "gloss": "ya bibanda na yo"
+    },
+    {
+      "surface": "השח",
+      "gloss": "akobendisa"
+    },
+    {
+      "surface": "השפיל",
+      "gloss": "akitisa"
+    },
+    {
+      "surface": "הגיע",
+      "gloss": "akomema"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tika"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "mabele ya moke"
+    }
+  ],
+  "timestamp": "2026-09-03T19:22:14.708420333Z",
+  "model": "glm-5.3"
+}

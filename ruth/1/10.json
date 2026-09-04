@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ruth 1:10",
+  "book": "ruth",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe balobaki epai na ye: Ya solo, ⟨את⟩ elongo ⟨na yo⟩ tokozonga na ekolo na yo.",
+  "tokens": [
+    {
+      "surface": "ותאמרנה",
+      "gloss": "Mpe balobaki"
+    },
+    {
+      "surface": "לה",
+      "gloss": "epai na ye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ya solo"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ elongo ⟨na yo⟩"
+    },
+    {
+      "surface": "נשוב",
+      "gloss": "tozongaki"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "na ekolo na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T22:08:15.598633971Z",
+  "model": "glm-5.3"
+}

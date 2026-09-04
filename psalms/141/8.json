@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 141:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 141,
+  "translation": "Mpo ete misu na ngai ezali epai na yo, Yawe, Adonai; na yo natikalaka; osopola te molimo na ngai.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "epai na yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "misu na ngai"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "na yo"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "natikalaka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תער",
+      "gloss": "osopola"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "molimo na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:35:36.456239285Z",
+  "model": "glm-5.3"
+}

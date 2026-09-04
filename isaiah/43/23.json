@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 43:23",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 43,
+  "translation": "Te, omingelaki na ngai se, ofrande na yo ya bokufi; mpe babombi na yo, te opekaki ngai lokumu; te nasalaki yo mosala na ofrande ya minya, mpe te natungisaki yo na nkunku.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "הביאת",
+      "gloss": "omingelaki"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "שה",
+      "gloss": "se"
+    },
+    {
+      "surface": "עלתיך",
+      "gloss": "ofrande-na-yo-ya-bokufi"
+    },
+    {
+      "surface": "וזבחיך",
+      "gloss": "mpe babombi-na-yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "כבדתני",
+      "gloss": "opesaki-ngai-lokumu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "העבדתיך",
+      "gloss": "nasalaki-yo-mosala"
+    },
+    {
+      "surface": "במנחה",
+      "gloss": "na ofrande-ya-minya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe … te"
+    },
+    {
+      "surface": "הוגעתיך",
+      "gloss": "natungisaki-yo"
+    },
+    {
+      "surface": "בלבונה",
+      "gloss": "na nkunku"
+    }
+  ],
+  "timestamp": "2026-09-03T19:30:43.840525553Z",
+  "model": "glm-5.3"
+}

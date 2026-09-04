@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 10:3",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Mpe etumba ekomaki monene likolo ya Shaul, mpe batombi na likungu bazwaki ye na likungu, mpe apwisamaki na batombi.",
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "mpe ekomaki monene"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "etumba"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "וימצאהו",
+      "gloss": "mpe bazwaki ye"
+    },
+    {
+      "surface": "המורים",
+      "gloss": "batombi na likungu"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "na likungu"
+    },
+    {
+      "surface": "ויחל",
+      "gloss": "mpe apwisamaki"
+    },
+    {
+      "surface": "מן",
+      "gloss": "na"
+    },
+    {
+      "surface": "היורים",
+      "gloss": "batombi"
+    }
+  ],
+  "timestamp": "2026-09-03T22:45:21.093829444Z",
+  "model": "glm-5.3"
+}

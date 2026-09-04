@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 3:6",
+  "book": "judges",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Bazwaki ⟨את⟩ banabasi na bango na bango lokola basi, mpe ⟨את⟩ banabasi na bango bapesaki na bana na bango bali, mpe basambelaki ⟨את⟩ banzambe na bango.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Bazwaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "banabasi na bango"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "banabasi na bango"
+    },
+    {
+      "surface": "להם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "lokola basi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "banabasi na bango"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "banabasi na bango"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "bapesaki"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "na bana na bango bali"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "mpe basambelaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "banzambe na bango"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "banzambe na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T17:56:24.943428669Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 77:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 77,
+  "translation": "Nakokanisa Elohim, mpe nazali kolobela; namitunaka, mpe elimo na ngai ebukamaki. Sela.",
+  "tokens": [
+    {
+      "surface": "אזכרה",
+      "gloss": "Nakokanisa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואהמיה",
+      "gloss": "mpe nazali kolobela"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "namitunaka"
+    },
+    {
+      "surface": "ותתעטף",
+      "gloss": "ebukamaki"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "elimo na ngai"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-03T21:19:19.991869189Z",
+  "model": "glm-5.3"
+}

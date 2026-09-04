@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 11:2",
+  "book": "hosea",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Babengaki bango, bango mpe bawutaki liboso na bango; epai ya Baalim babikaki bilei, mpe epai ya bikeko balongolaki fumu.",
+  "tokens": [
+    {
+      "surface": "קראו",
+      "gloss": "babengaki"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bango"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bongo"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "bawutaki"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "liboso na bango"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "epai ya Baalim"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "babikaki bilei"
+    },
+    {
+      "surface": "ולפסלים",
+      "gloss": "mpe epai ya bikeko"
+    },
+    {
+      "surface": "יקטרון",
+      "gloss": "balongolaki fumu"
+    }
+  ],
+  "timestamp": "2026-09-03T20:39:39.364374314Z",
+  "model": "glm-5.3"
+}

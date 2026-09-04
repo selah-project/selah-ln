@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 71:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 71,
+  "translation": "Mpo banguna na ngai balobaki likambo mabe na ngai, mpe balandi bomoi na ngai bakangaki likanisi elongo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "balobaki"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "banguna na ngai"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "mpe balandi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "bomoi na ngai"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "bakangaki likanisi"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "elongo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:16:44.790830363Z",
+  "model": "glm-5.3"
+}

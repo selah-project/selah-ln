@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 18:39",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Nakokangata bango mpe bakokoka kotombama te, bakokweya na nse ya makolo na ngai.",
+  "tokens": [
+    {
+      "surface": "אמחצם",
+      "gloss": "nakokangata bango"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe ... te"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "bakokoka"
+    },
+    {
+      "surface": "קום",
+      "gloss": "kotombama"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "bakokweya"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "na nse ya"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "makolo na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:03:41.649828830Z",
+  "model": "glm-5.3"
+}

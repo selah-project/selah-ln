@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 31:20",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 31,
+  "translation": "Mpe Yaakov atyolaki ⟨את⟩ motema ya Lavan mwa Aram, na kozanga koyebisa ye ete ⟨ye⟩ azali kokima.",
+  "tokens": [
+    {
+      "surface": "ויגנב",
+      "gloss": "mpe atyolaki"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motema ya Lavan"
+    },
+    {
+      "surface": "לב",
+      "gloss": "motema"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "mwa Aram"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "kozanga"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "koyebisa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "kokima"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ye⟩ azali"
+    }
+  ],
+  "timestamp": "2026-09-03T16:01:51.961419604Z",
+  "model": "glm-5.3"
+}

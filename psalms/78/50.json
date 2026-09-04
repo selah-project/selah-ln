@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 78:50",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 78,
+  "translation": "Asalaki nzela mpo na likali na ye; akangaki te molimo na bango na liwa, mpe bomoi na bango apesaki na mpema mabe.",
+  "tokens": [
+    {
+      "surface": "יפלס",
+      "gloss": "Asalaki"
+    },
+    {
+      "surface": "נתיב",
+      "gloss": "nzela"
+    },
+    {
+      "surface": "לאפו",
+      "gloss": "mpo na likali na ye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "akangaki"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "na liwa"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "molimo na bango"
+    },
+    {
+      "surface": "וחיתם",
+      "gloss": "mpe bomoi na bango"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "na mpema mabe"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "apesaki"
+    }
+  ],
+  "timestamp": "2026-09-03T21:20:00.165551975Z",
+  "model": "glm-5.3"
+}

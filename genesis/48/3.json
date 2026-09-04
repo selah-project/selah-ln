@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 48:3",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 48,
+  "translation": "Mpe Yaakov alobaki na Yossef: El Shadai (Nzambe-Mozwi-ya-Nguya-Nyonso) amonanaki epai na ngai na Luz, na mabele ya Kenaan, mpe apesaki bolamu ⟨את⟩ ngai.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yossef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadai"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "amonanaki"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "epai na ngai"
+    },
+    {
+      "surface": "בלוז",
+      "gloss": "na Luz"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ya Kenaan"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "mpe apesaki bolamu"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ngai",
+      "marks": "ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T16:11:45.719399674Z",
+  "model": "glm-5.3"
+}

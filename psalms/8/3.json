@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 8:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Utumba ya bana mike mpe ya bana ya libele ondimisaki nguya, mpo na banguna na yo, mpo na kokanga monguna mpe mosueli.",
+  "tokens": [
+    {
+      "surface": "מפי",
+      "gloss": "Utumba"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "ya bana mike"
+    },
+    {
+      "surface": "וינקים",
+      "gloss": "mpe ya bana ya libele"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "ondimisaki"
+    },
+    {
+      "surface": "עז",
+      "gloss": "nguya"
+    },
+    {
+      "surface": "למען",
+      "gloss": "mpo na"
+    },
+    {
+      "surface": "צורריך",
+      "gloss": "banguna na yo"
+    },
+    {
+      "surface": "להשבית",
+      "gloss": "mpo na kokanga"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "monguna"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "mpe mosueli"
+    }
+  ],
+  "timestamp": "2026-09-03T21:01:08.585523148Z",
+  "model": "glm-5.3"
+}

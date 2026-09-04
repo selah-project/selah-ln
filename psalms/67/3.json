@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 67:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 67,
+  "translation": "Mpo ⟨bato⟩ bayeba na mabele nzela nayo, mpe lobiko nayo kati na bikolo nyonso.",
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "Mpo bayeba"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "nzela nayo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kati na nyonso"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bikolo"
+    },
+    {
+      "surface": "יְשׁוּעָתֶךָ",
+      "gloss": "lobiko nayo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:15:56.205580674Z",
+  "model": "glm-5.3"
+}

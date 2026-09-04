@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 40:30",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 40,
+  "translation": "Mpe bilenge balekaki mpe bakangwaki, mpe batandala na bokweyi bakweyaki na makolo.",
+  "tokens": [
+    {
+      "surface": "ויעפו",
+      "gloss": "balekaki"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "bilenge"
+    },
+    {
+      "surface": "ויגעו",
+      "gloss": "bakangwaki"
+    },
+    {
+      "surface": "ובחורים",
+      "gloss": "mpe batandala"
+    },
+    {
+      "surface": "כשול",
+      "gloss": "na bokweyi"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "bakweyaki na makolo"
+    }
+  ],
+  "timestamp": "2026-09-03T19:30:53.237142118Z",
+  "model": "glm-5.3"
+}

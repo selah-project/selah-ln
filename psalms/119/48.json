@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 119:48",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Mpe nakolamusa maboko na ngai epai ya malako na yo oyo namelaki, mpe nakomikanisi na mibeko na yo.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "Mpe nakolamusa"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "maboko na ngai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "malako na yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "namelaki"
+    },
+    {
+      "surface": "ואשיחה",
+      "gloss": "mpe nakomikanisi"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "na mibeko na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:31:19.777214515Z",
+  "model": "glm-5.3"
+}

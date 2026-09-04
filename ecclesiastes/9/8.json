@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Na ntango nyonso bilamba na yo ezala pembe, mpe mafuta na motongo na yo ezanga te.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "na nyonso"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ntango"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ezala"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "bilamba na yo"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "pembe"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "mpe mafuta"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "motongo na yo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "ezanga"
+    }
+  ],
+  "timestamp": "2026-09-03T22:16:21.047308277Z",
+  "model": "glm-5.3"
+}

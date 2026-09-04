@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 3:19",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe ngai nayebi ete mokonzi ya Mitsraim akotika ⟨את⟩ bino bokende te, kaka na loboko ya nguya.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Mpe ngai"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "nayebi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "akotika"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ bino",
+      "marks": "bino"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "bokende"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kaka"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "na loboko"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "ya nguya"
+    }
+  ],
+  "timestamp": "2026-09-03T16:16:25.394149540Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 32:10",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 32,
+  "translation": "Mposa ya Yawe emekaki na mokolo yango, mpe ati sermante, na koloba:",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "emekaki"
+    },
+    {
+      "surface": "אף",
+      "gloss": "Mposa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yawe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na mokolo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yango"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "mpe ati sermante"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na koloba"
+    }
+  ],
+  "timestamp": "2026-09-03T17:19:01.504006155Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 122:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 122,
+  "translation": "Makolo na biso ezalaki kotelema na bilipoti na yo, Yerushalaim.",
+  "tokens": [
+    {
+      "surface": "עמדות",
+      "gloss": "kotelema"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨ezalaki⟩"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "Makolo na biso"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "na bilipoti na yo"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-09-03T21:33:39.970080540Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 18:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Mpe alobaki: Nalingi yo, Yawe, makasi na ngai.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "ארחמך",
+      "gloss": "nalingi yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "חזקי",
+      "gloss": "makasi na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:03:13.299537759Z",
+  "model": "glm-5.3"
+}

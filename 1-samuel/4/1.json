@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 4:1",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe liloba ya Shemuel ekomaki na Israel mobimba; mpe Israel ebimaki kolukana na Bafilishti mpo na bitumba, mpe batii kaa peni ya Eben-Ezer; mpe Bafilishti batii kaa na Afek.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mpe ekomaki"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "liloba"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "na mobimba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "mpe ebimaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "kolukana na"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Bafilishti"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "mpo na bitumba"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "mpe batii kaa"
+    },
+    {
+      "surface": "על",
+      "gloss": "peni ya"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "Eben"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "Ezer"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "mpe Bafilishti"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "batii kaa"
+    },
+    {
+      "surface": "באפק",
+      "gloss": "na Afek"
+    }
+  ],
+  "timestamp": "2026-09-03T23:20:07.333584739Z",
+  "model": "glm-5.3"
+}

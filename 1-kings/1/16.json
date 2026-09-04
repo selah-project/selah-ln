@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 1:16",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe Bat-Sheva akundolaki mpe asambelaki mokonzi, mpe mokonzi alobaki: Nini ozali kosenga?",
+  "tokens": [
+    {
+      "surface": "ותקד",
+      "gloss": "akundolaki"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "mpe asambelaki"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ozali kosenga"
+    }
+  ],
+  "timestamp": "2026-09-03T18:42:09.364062471Z",
+  "model": "glm-5.3"
+}

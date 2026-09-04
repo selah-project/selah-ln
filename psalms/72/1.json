@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 72:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 72,
+  "translation": "Ya Shelomo. Elohim, pesa na mokonzi bosambisi na yo, mpe na mwana ya mokonzi bosembo na yo.",
+  "tokens": [
+    {
+      "surface": "לשלמה",
+      "gloss": "ya Shelomo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "bosambisi na yo"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "na mokonzi"
+    },
+    {
+      "surface": "תן",
+      "gloss": "pesa"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "mpe bosembo na yo"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "na mwana"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ya mokonzi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:18:02.102745379Z",
+  "model": "glm-5.3"
+}

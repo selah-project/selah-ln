@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 8:1",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Boye te, bwanya ebengi te, mpe mayele epesi mongongo na yango?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "boye te"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "bwanya"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "ebengi"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "mpe mayele"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "epesi"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "mongongo na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:39:57.748535049Z",
+  "model": "glm-5.3"
+}

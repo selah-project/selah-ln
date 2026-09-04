@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 50:4",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 50,
+  "translation": "Adonai Yawe apesaki ngai lokota ya balakumi, na koyeba kosalisa ⟨את⟩ moto oyo azali sebele na liloba: abimisaka tikolo na tikolo, abimisaka tikolo na tikolo matoyi na ngai na koyoka lokola balakumi.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "apesaki"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "lokota"
+    },
+    {
+      "surface": "למודים",
+      "gloss": "ya balakumi"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "na koyeba"
+    },
+    {
+      "surface": "לעות",
+      "gloss": "kosalisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moto oyo azali sebele"
+    },
+    {
+      "surface": "יעף",
+      "gloss": "moto oyo azali sebele"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "na liloba"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "abimisaka"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "tikolo na tikolo"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "tikolo na tikolo"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "abimisaka"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "matoyi"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "na koyoka"
+    },
+    {
+      "surface": "כלמודים",
+      "gloss": "lokola balakumi"
+    }
+  ],
+  "timestamp": "2026-09-04T00:00:55.807879345Z",
+  "model": "glm-5.3"
+}

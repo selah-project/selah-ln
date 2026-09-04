@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezra 2:12",
+  "book": "ezra",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Bana ya Azgad, nkoto moko na nkama mibale na ntuku mibale na mibale.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Bana ya"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "Azgad"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "nkoto moko"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "nkama mibale"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ntuku mibale"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "na mibale"
+    }
+  ],
+  "timestamp": "2026-09-03T22:27:48.851060066Z",
+  "model": "glm-5.3"
+}

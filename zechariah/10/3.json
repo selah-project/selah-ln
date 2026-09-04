@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 10:3",
+  "book": "zechariah",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Likolo ya balokolo mawa na ngai emekaka, mpe likolo ya bampate na boko nakotunga bango, mpo Yawe Tsebaot atalaki ⟨את⟩ bampate na ye, ⟨את⟩ ndako ya Yehuda, mpe akotya ⟨את⟩ bango lokola soso ya nkembo na ye na etumba.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Likolo ya"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "balokolo"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "emekaka"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "mawa na ngai"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "mpe likolo ya"
+    },
+    {
+      "surface": "העתודים",
+      "gloss": "bampate na boko"
+    },
+    {
+      "surface": "אפקוד",
+      "gloss": "nakotunga bango"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "atalaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bampate na ye"
+    },
+    {
+      "surface": "עדרו",
+      "gloss": "bampate na ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndako"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ya Yehuda"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "mpe akotya"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ bango",
+      "marks": "lokola soso ya nkembo na ye"
+    },
+    {
+      "surface": "כסוס",
+      "gloss": "lokola soso"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "ya nkembo na ye"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "na etumba"
+    }
+  ],
+  "timestamp": "2026-09-03T23:33:46.525494234Z",
+  "model": "glm-5.3"
+}

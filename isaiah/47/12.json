@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 47:12",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 47,
+  "translation": "Tikala, nalimbisi yo, elongo na bahati na yo mpe na bonene ya kindoki na yo, omoyo onungaki kowuta na bolenge nayo; elengi okokoka kosunga, elengi okokoka kobangisa.",
+  "tokens": [
+    {
+      "surface": "עמדי",
+      "gloss": "Tikala"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nalimbisi yo"
+    },
+    {
+      "surface": "בחבריך",
+      "gloss": "elongo na bahati na yo"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "mpe na bonene ya"
+    },
+    {
+      "surface": "כשפיך",
+      "gloss": "kindoki na yo"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "omoyo"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "onungaki"
+    },
+    {
+      "surface": "מנעוריך",
+      "gloss": "kowuta na bolenge nayo"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "elengi"
+    },
+    {
+      "surface": "תוכלי",
+      "gloss": "okokoka"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "kosunga"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "elengi"
+    },
+    {
+      "surface": "תערוצי",
+      "gloss": "kobangisa"
+    }
+  ],
+  "timestamp": "2026-09-03T19:32:43.189082281Z",
+  "model": "glm-5.3"
+}

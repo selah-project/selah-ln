@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 119:50",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Oyo ezali bosolo na ngai na makoyo na ngai; mpo liloba na yo emesaki ngai bomoi.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Oyo"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "bosolo na ngai"
+    },
+    {
+      "surface": "בעניי",
+      "gloss": "na makoyo na ngai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "liloba na yo"
+    },
+    {
+      "surface": "חיתני",
+      "gloss": "emesaki ngai bomoi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:31:10.304993216Z",
+  "model": "glm-5.3"
+}

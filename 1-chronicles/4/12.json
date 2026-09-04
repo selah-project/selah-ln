@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 4:12",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe Eshton abotaki ⟨את⟩ Bet-Rafa, mpe ⟨את⟩ Paseah, mpe ⟨את⟩ Tehina, tata ya Ir-Nahash; bango nde bato ya Rekaha.",
+  "tokens": [
+    {
+      "surface": "ואשתון",
+      "gloss": "mpe Eshton"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "abotaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bet-Rafa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "Rafa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Paseah"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Paseah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Tehina"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "Tehina"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tata ya"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Ir"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Naḥash"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bango nde"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "bato ya"
+    },
+    {
+      "surface": "רכה",
+      "gloss": "Rekaha"
+    }
+  ],
+  "timestamp": "2026-09-03T22:42:20.307956745Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 2:8",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe mokili na ye ejaki bikeko; ebombi mosala ya maboko na ye, na oyo misapo na ye asali.",
+  "tokens": [
+    {
+      "surface": "ותמלא",
+      "gloss": "mpe ejaki"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "mokili na ye"
+    },
+    {
+      "surface": "אלילים",
+      "gloss": "bikeko"
+    },
+    {
+      "surface": "למעשה",
+      "gloss": "na mosala ya"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "maboko na ye"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "ebombi"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "na oyo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "asali"
+    },
+    {
+      "surface": "אצבעתיו",
+      "gloss": "misapo na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T19:12:47.949737554Z",
+  "model": "glm-5.3"
+}

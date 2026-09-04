@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 3:4",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "mpe ⟨את⟩ bikidini mibale, mpe ⟨את⟩ mavuta oyo ezali likolo na yango, oyo ezali na zinga ya libumba, mpe ⟨את⟩ elongi oyo ezali likolo ya likele — na bikidini alongolaka yango.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bikidini mibale"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "bikidini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mavuta"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "mavuta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "likolo na yango"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "zinga ya libumba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "elongi"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "elongi"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "likele"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הכליות",
+      "gloss": "bikidini"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "alongolaka yango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:40:12.828779622Z",
+  "model": "glm-5.3"
+}

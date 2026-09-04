@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "⟨את⟩ mbu moko, mpe ⟨את⟩ bafiai zomi na mibale na nse na yango",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbu moko"
+    },
+    {
+      "surface": "הים",
+      "gloss": "mbu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "moko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bafiai"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "bafiai"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "zomi"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "na nse na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T22:54:38.527577208Z",
+  "model": "glm-5.3"
+}

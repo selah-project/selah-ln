@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 27:7",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 27,
+  "translation": "Bakongo nyonso bakosalela ⟨את⟩ ye, mpe ⟨את⟩ mwana na ye, mpe ⟨את⟩ mwana ya mwana na ye, kino tango ya mabele na ye ekoya, ye mpe; mpe bakongo mingi mpe bakonzi minene bakosalela ye.",
+  "tokens": [
+    {
+      "surface": "ועבדו",
+      "gloss": "mpe bakosalela"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ye",
+      "marks": "ye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bakongo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mwana na ye"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana na ye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mwana ya mwana na ye"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ya mwana na ye"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "בא",
+      "gloss": "eko"
+    },
+    {
+      "surface": "עת",
+      "gloss": "tango"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "ya mabele na ye"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ye"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "mpe bakosalela"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bakongo"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mingi"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "mpe bakonzi"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "minene"
+    }
+  ],
+  "timestamp": "2026-09-03T23:28:47.682430425Z",
+  "model": "glm-5.3"
+}

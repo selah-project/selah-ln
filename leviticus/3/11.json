@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 3:11",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe kohen atumbaka yango na autela, biloko ya kolia, mbeka ya moto epai ya Yawe.",
+  "tokens": [
+    {
+      "surface": "והקטירו",
+      "gloss": "mpe atumbaka yango"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "na autela"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "biloko ya kolia"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mbeka ya moto"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "epai ya Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T16:39:12.460080730Z",
+  "model": "glm-5.3"
+}

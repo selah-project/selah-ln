@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 3:10",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe Yawe ayeaki, mpe atelemi, mpe abengaki, lokola mbala na mbala: Shemuel, Shemuel. Mpe Shemuel alobaki: Koloba, mpo mosali na yo alyoki.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Mpe ayeaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "mpe atelemi"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "mpe abengaki"
+    },
+    {
+      "surface": "כפעם",
+      "gloss": "lokola mbala"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "na mbala"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Koloba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "alyoki"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mosali na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T18:10:22.254220587Z",
+  "model": "glm-5.3"
+}

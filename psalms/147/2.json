@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 147:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 147,
+  "translation": "Yawe atongaka Yerushalaim, akokanisaka basusuki ya Israel.",
+  "tokens": [
+    {
+      "surface": "בונה",
+      "gloss": "atongaka"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "נדחי",
+      "gloss": "basusuki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "יכנס",
+      "gloss": "akokanisaka"
+    }
+  ],
+  "timestamp": "2026-09-03T21:36:36.269026714Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 16:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Mipeto ekweyi na ngai na bisika ya boboto; ee, lotamo lya ngai na ngai ezali kitoko.",
+  "tokens": [
+    {
+      "surface": "חבלים",
+      "gloss": "mipeto"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ekweyi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "בנעמים",
+      "gloss": "na bisika ya boboto"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ee"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "lotamo"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "ezali kitoko"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:02:29.865793410Z",
+  "model": "glm-5.3"
+}

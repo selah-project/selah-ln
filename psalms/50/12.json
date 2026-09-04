@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 50:12",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 50,
+  "translation": "Soki nazali na nzala, nakoloba na yo te; mpo na ngai ezali mokili mpe atikelo na yango.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Soki"
+    },
+    {
+      "surface": "ארעב",
+      "gloss": "nazali na nzala"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nakoloba"
+    },
+    {
+      "surface": "לך",
+      "gloss": "na yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "mokili"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "mpe atikelo na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:11:27.477555082Z",
+  "model": "glm-5.3"
+}

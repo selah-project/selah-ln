@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 74:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 74,
+  "translation": "Malako ya Asaph. Mpo na nini Elohim otikaki libela nyonso; likebi na yo ezali kolika na banyama ya bosangani na yo?",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Malako"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ya Asaph"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Mpo na nini"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "otikaki"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "libela nyonso"
+    },
+    {
+      "surface": "יעשן",
+      "gloss": "ezali kolika"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "likebi na yo"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "na banyama"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "ya bosangani na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:19:29.500608772Z",
+  "model": "glm-5.3"
+}

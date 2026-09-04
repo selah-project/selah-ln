@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 128,
+  "translation": "Tala, mpo ete bongo moto abongisama, oyo abangaka Yawe.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Tala"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bongo"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "abongisama"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "moto"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "oyo abangaka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T21:33:04.245151984Z",
+  "model": "glm-5.3"
+}

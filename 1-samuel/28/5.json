@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 28:5",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 28,
+  "translation": "Shaul amoni ⟨את⟩ kaa ya Ba-Pelisti, mpe akangwaki, mpe motema na ye kitetemaki makasi.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "amoni"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaa"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "kaa"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ya Ba-Pelisti"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "mpe akangwaki"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "mpe kitetemaki"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "motema na ye"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "makasi"
+    }
+  ],
+  "timestamp": "2026-09-03T18:24:54.325426689Z",
+  "model": "glm-5.3"
+}

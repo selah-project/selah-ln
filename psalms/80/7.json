@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 80:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 80,
+  "translation": "Otyi biso likama epai ya bapolisi na biso, mpe banguna na biso baseki ⟨biso⟩.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "Otyi biso"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "likama"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "epai ya bapolisi na biso"
+    },
+    {
+      "surface": "ואיבינו",
+      "gloss": "mpe banguna na biso"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "baseki"
+    },
+    {
+      "surface": "למו",
+      "gloss": "epai na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:21:05.606595430Z",
+  "model": "glm-5.3"
+}

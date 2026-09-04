@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 55:20",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 55,
+  "translation": "El akoya, mpe akoyanolaka bango, mpe Oyo azali kofanda uta na kala. Selah. Bango oyo bazali na mbongwana te, mpe babangi Elohim te.",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "akoya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "mpe akoyanolaka bango"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "mpe Oyo azali kofanda"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "uta na kala"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Bango oyo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "bazali na ... te"
+    },
+    {
+      "surface": "חליפות",
+      "gloss": "mbongwana"
+    },
+    {
+      "surface": "למו",
+      "gloss": "bango"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe ... te"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "babangi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-03T21:14:08.515376108Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 22:2",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Mpe esalaki na mbula ya misato, Yehoshafat mokonzi wa Yehuda akitaki epai ya mokonzi wa Israel.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "esalaki"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "na mbula"
+    },
+    {
+      "surface": "השלישית",
+      "gloss": "ya misato"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "akitaki"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-03T18:58:26.160733119Z",
+  "model": "glm-5.3"
+}

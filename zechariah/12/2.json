@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 12:2",
+  "book": "zechariah",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Talá, ngai nakotya ⟨את⟩ Yerushalaim kopo ya komibwaka epai ya bikolo nyonso oyo zingi; mpe mpe epai ya Yehuda ekozala na bokangami epai ya Yerushalaim.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Talá"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nakotya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalaim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "סף",
+      "gloss": "kopo"
+    },
+    {
+      "surface": "רעל",
+      "gloss": "ya komibwaka"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "bikolo nyonso"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "oyo zingi"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "mpe mpe"
+    },
+    {
+      "surface": "על",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ekozala"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "na bokangami"
+    },
+    {
+      "surface": "על",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-09-03T20:58:15.997616281Z",
+  "model": "glm-5.3"
+}

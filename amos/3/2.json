@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 3:2",
+  "book": "amos",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Kaka bino nayebaki kati ya mabota nyonso ya mabele; yango wana nakotungisa bino ⟨את⟩ mabeba na bino nyonso.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Kaka"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ bino"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "nayebaki"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kati ya"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "mabota"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ya mabele"
+    },
+    {
+      "surface": "על",
+      "gloss": "yango wana ⟨likolo⟩"
+    },
+    {
+      "surface": "כן",
+      "gloss": "yango wana"
+    },
+    {
+      "surface": "אפקד",
+      "gloss": "nakotungisa"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "bino"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabeba na bino nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "עונתיכם",
+      "gloss": "mabeba na bino"
+    }
+  ],
+  "timestamp": "2026-09-03T20:42:28.340517494Z",
+  "model": "glm-5.3"
+}

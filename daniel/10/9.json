@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 10:9",
+  "book": "daniel",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Mpe nazwaki koyoka ⟨את⟩ mongongo ya maloba na ye; mpe ntango nazwaki koyoka ⟨את⟩ mongongo ya maloba na ye, ngai nazalaki na butu makasi na elongi na ngai, mpe elongi na ngai ⟨ezalaki⟩ epai ya mabele.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "nazwaki koyoka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mongongo"
+    },
+    {
+      "surface": "קול",
+      "gloss": "mongongo"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "ya maloba na ye"
+    },
+    {
+      "surface": "וכשמעי",
+      "gloss": "mpe ntango nazwaki koyoka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mongongo"
+    },
+    {
+      "surface": "קול",
+      "gloss": "mongongo"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "ya maloba na ye"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "nazalaki"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "na butu makasi"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "פני",
+      "gloss": "elongi na ngai"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "mpe elongi na ngai"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "epai ya mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T22:26:10.414078129Z",
+  "model": "glm-5.3"
+}

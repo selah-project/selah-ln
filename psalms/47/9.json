@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 47:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 47,
+  "translation": "Elohim azwaki bokonzi likolo ya bikolo; Elohim afandi likolo ya kiti ya mosantu na ye.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "azwaki bokonzi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bikolo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "afandi"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "kiti"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ya mosantu na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:11:09.680483557Z",
+  "model": "glm-5.3"
+}

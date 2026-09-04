@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 91:11",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 91,
+  "translation": "Mpo bamisiona na Yawe akotindaka mpo na yo, bakengela yo na nzela na yo nyonso.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "bamisiona na Yawe"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "akotindaka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mpo na yo"
+    },
+    {
+      "surface": "לשמרך",
+      "gloss": "bakengela yo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "na nzela na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:23:59.481728487Z",
+  "model": "glm-5.3"
+}

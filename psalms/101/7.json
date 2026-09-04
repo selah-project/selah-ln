@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 101:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 101,
+  "translation": "Azali kosala bokosi akofanda te kati ya ndako na ngai; moloba bosoki atelemaka te liboso ya miso na ngai.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "akofanda"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "kati"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "ndako-na-ngai"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "azali-kosala"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "bokosi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "moloba"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "bosoki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "atelemaka"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "liboso"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "miso-na-ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:26:49.891184921Z",
+  "model": "glm-5.3"
+}

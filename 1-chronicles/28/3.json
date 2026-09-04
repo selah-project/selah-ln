@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 28:3",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 28,
+  "translation": "Kasi Elohim alobaki na ngai: Okotonga te ndako mpo na kombo na ngai, mpo ozali moto ya bitumba, mpe osasaki makila.",
+  "tokens": [
+    {
+      "surface": "והאלהים",
+      "gloss": "kasi Elohim"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "okotonga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "mpo na kombo na ngai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "ya bitumba"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ozali"
+    },
+    {
+      "surface": "ודמים",
+      "gloss": "mpe makila"
+    },
+    {
+      "surface": "שפכת",
+      "gloss": "osasaki"
+    }
+  ],
+  "timestamp": "2026-09-03T22:53:41.797199058Z",
+  "model": "glm-5.3"
+}

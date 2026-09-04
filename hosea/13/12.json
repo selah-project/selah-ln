@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 13:12",
+  "book": "hosea",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Mabe ya Efraim ekangami; masumu na ye ebombami.",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "ekangami"
+    },
+    {
+      "surface": "עון",
+      "gloss": "Mabe"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "ebombami"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "masumu na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T20:39:42.550114317Z",
+  "model": "glm-5.3"
+}

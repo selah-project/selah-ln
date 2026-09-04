@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 1:7",
+  "book": "ezra",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe mokonzi Koresh alobimisaki ⟨את⟩ biloko ya ndako ya Yawe, oyo Nebukadnetstsar alobimisaki na Yerushalaim, mpe atyaki yango na ndako ya nzambe na ye.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Mpe mokonzi"
+    },
+    {
+      "surface": "כורש",
+      "gloss": "Koresh"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "alobimisaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "biloko"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "biloko"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ya ndako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "alobimisaki"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Nebukadnetstsar"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "na Yerushalaim"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "mpe atyaki yango"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "na ndako"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "ya nzambe na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T23:38:55.478040511Z",
+  "model": "glm-5.3"
+}

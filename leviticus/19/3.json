@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 19:3",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Moto nyonso, mamá na ye mpe tatá na ye bobanga, mpe ⟨את⟩ Shabat na ngai bokengela; ngai nazali Yawe Elohim na bino.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "moto nyonso"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mamá na ye"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "mpe tatá na ye"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "bobanga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Shabat na ngai"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Shabat na ngai"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "bokengela"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai nazali"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim na bino"
+    }
+  ],
+  "timestamp": "2026-09-03T16:51:00.582025968Z",
+  "model": "glm-5.3"
+}

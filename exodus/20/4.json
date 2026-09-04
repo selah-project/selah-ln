@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 20:4",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 20,
+  "translation": "Okosala te ikeko mpe elili nyonso — oyo ezali na likolo na yoku, mpe oyo ezali na mabele na nse, mpe oyo ezali na mai na nse ya mabele — mpo na yo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "okosala"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mpo na yo"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "ikeko"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe nyonso"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "elili"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "na likolo"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "na yoku"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "mpe oyo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "na nse"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "mpe oyo"
+    },
+    {
+      "surface": "במים",
+      "gloss": "na mai"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "na nse"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ya mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T16:23:36.401536458Z",
+  "model": "glm-5.3"
+}

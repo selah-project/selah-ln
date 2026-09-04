@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 121:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 121,
+  "translation": "Na mokolo mwinda ebeataka ⟨yo⟩ te, mpe sanza na butu.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "na mokolo"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "mwinda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יככה",
+      "gloss": "ebeataka"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "mpe sanza"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "na butu"
+    }
+  ],
+  "timestamp": "2026-09-03T21:33:01.693399453Z",
+  "model": "glm-5.3"
+}

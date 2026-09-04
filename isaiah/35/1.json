@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 35:1",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 35,
+  "translation": "Mabondo mpe mabele ya moke ekosepela, mpe etuka moke ekosepela mpe ekokota malamu lokola rose.",
+  "tokens": [
+    {
+      "surface": "יששום",
+      "gloss": "ekosepela"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "mabondo"
+    },
+    {
+      "surface": "וציה",
+      "gloss": "mpe mabele ya moke"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "mpe ekosepela"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "etuka moke"
+    },
+    {
+      "surface": "ותפרח",
+      "gloss": "mpe ekokota malamu"
+    },
+    {
+      "surface": "כחבצלת",
+      "gloss": "lokola rose"
+    }
+  ],
+  "timestamp": "2026-09-03T19:26:50.291908286Z",
+  "model": "glm-5.3"
+}

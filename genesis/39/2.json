@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 39:2",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 39,
+  "translation": "Mpe Yawe azalaki ⟨את⟩ Yosefu elongo, mpe azalaki moto ya kolonga, mpe azalaki o kati ya ndako ya nkolo na ye, moto ya Mitsraim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mpe azalaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosefu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mpe azalaki"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "ya kolonga"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mpe azalaki"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "o kati ya ndako"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ya nkolo na ye"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "moto ya Mitsraim"
+    }
+  ],
+  "timestamp": "2026-09-03T16:06:23.338587150Z",
+  "model": "glm-5.3"
+}

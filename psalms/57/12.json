@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 57:12",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 57,
+  "translation": "Butama likolo ya likolo, Elohim; nkembo na yo likolo ya mabele mobimba.",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "Butama"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "likolo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mobimba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "nkembo na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:13:44.757165120Z",
+  "model": "glm-5.3"
+}

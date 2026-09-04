@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 3:18",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe oyo ezali likambo moke na miso ya Yawe, mpe akopesa ⟨את⟩ Moab na maboko na bino.",
+  "tokens": [
+    {
+      "surface": "ונקל",
+      "gloss": "ezali likambo moke"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "na miso ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "mpe akopesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "na maboko na bino"
+    }
+  ],
+  "timestamp": "2026-09-03T18:59:35.248416169Z",
+  "model": "glm-5.3"
+}

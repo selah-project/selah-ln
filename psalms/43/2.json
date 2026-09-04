@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 43:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 43,
+  "translation": "Mpo yo ozali Elohim ya makasi na ngai; mpo nini oboyaki ngai? Mpo nini nazali kotambola na mawa, na nsiki ya mobundi?",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "אַתָּה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "אֱלֹהֵי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מָעוּזִי",
+      "gloss": "ya makasi na ngai"
+    },
+    {
+      "surface": "לָמָּה",
+      "gloss": "mpo nini"
+    },
+    {
+      "surface": "זְנַחְתָּנִי",
+      "gloss": "oboyaki ngai"
+    },
+    {
+      "surface": "לָמָּה",
+      "gloss": "mpo nini"
+    },
+    {
+      "surface": "קֹדֵר",
+      "gloss": "na mawa"
+    },
+    {
+      "surface": "אֶתְהַלֵּךְ",
+      "gloss": "nazali kotambola"
+    },
+    {
+      "surface": "בְּלַחַץ",
+      "gloss": "na nsiki"
+    },
+    {
+      "surface": "אוֹיֵב",
+      "gloss": "ya mobundi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:10:47.439638836Z",
+  "model": "glm-5.3"
+}

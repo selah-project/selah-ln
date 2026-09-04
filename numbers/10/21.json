@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 10:21",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Mpe baKehati bandidaki na nzela, bazalaki batomboli ya esika mosantu; mpe ⟨bangó babangi⟩ batandisaki ⟨את⟩ Mishkan kino bokomela bango.",
+  "tokens": [
+    {
+      "surface": "ונסעו",
+      "gloss": "mpe bandidaki na nzela"
+    },
+    {
+      "surface": "הקהתים",
+      "gloss": "baKehati"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "batomboli"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "esika mosantu"
+    },
+    {
+      "surface": "והקימו",
+      "gloss": "mpe batandisaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "באם",
+      "gloss": "bokomela bango"
+    }
+  ],
+  "timestamp": "2026-09-03T17:04:22.325624050Z",
+  "model": "glm-5.3"
+}

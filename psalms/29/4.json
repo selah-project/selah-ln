@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 29:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 29,
+  "translation": "Litoloki ya Yawe ezali na nguya, litoloki ya Yawe ezali na kitoko-nkulu.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Litoloki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yawe"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "na nguya"
+    },
+    {
+      "surface": "קול",
+      "gloss": "litoloki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yawe"
+    },
+    {
+      "surface": "בהדר",
+      "gloss": "na kitoko-nkulu"
+    }
+  ],
+  "timestamp": "2026-09-03T21:06:24.786699527Z",
+  "model": "glm-5.3"
+}

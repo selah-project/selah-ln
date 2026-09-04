@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 14:2",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Mwana ya mbula zomi na mibale mpe mitano ⟨azalaki⟩ na bokonzi na ye, mpe mbula zomi na mibale mpe libwa akonjaki na Yerushalaim; mpe nkombo ya mama na ye Yehoadin, uti na Yerushalaim.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Mwana"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "zomi na mibale"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "mpe mitano"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ya mbula"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨azalaki⟩"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "na bokonzi na ye"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "mpe zomi na mibale"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "mpe libwa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ya mbula"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "akonjaki"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "na Yerushalaim"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "mpe nkombo"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ya mama na ye"
+    },
+    {
+      "surface": "יהועדין",
+      "gloss": "Yehoadin"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uti"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "na Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-09-03T23:24:26.632423495Z",
+  "model": "glm-5.3"
+}

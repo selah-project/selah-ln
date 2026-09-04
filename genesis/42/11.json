@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 42:11",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 42,
+  "translation": "Biso nyonso tozali bana ya moto moko; tozali bato ya bosolo, bawumbu na yo bazali basololi te.",
+  "tokens": [
+    {
+      "surface": "כלנו",
+      "gloss": "biso nyonso"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "moko"
+    },
+    {
+      "surface": "נחנו",
+      "gloss": "tozali"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "bato ya bosolo"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "tozali"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bazali"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "bawumbu na yo"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "basololi"
+    }
+  ],
+  "timestamp": "2026-09-03T16:07:49.117822713Z",
+  "model": "glm-5.3"
+}

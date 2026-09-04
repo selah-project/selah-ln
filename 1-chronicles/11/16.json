@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 11:16",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpe David wana azalaki na esika ya makasi, mpe etando ya baPelishtim ezalaki wana na Bet-Lehem.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "mpe David"
+    },
+    {
+      "surface": "אז",
+      "gloss": "wana"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "na esika ya makasi"
+    },
+    {
+      "surface": "ונציב",
+      "gloss": "mpe etando ya"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "baPelishtim"
+    },
+    {
+      "surface": "אז",
+      "gloss": "wana"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "na Bet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lehem"
+    }
+  ],
+  "timestamp": "2026-09-03T22:44:29.558696297Z",
+  "model": "glm-5.3"
+}

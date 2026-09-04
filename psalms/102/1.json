@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 102:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 102,
+  "translation": "Libondeli ya moto oyo azali na mawa, tango azali kokwea, mpe liboso ya Yawe atondi masese na yango.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "libondeli"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "ya moto oyo azali na mawa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tango"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "azali kokwea"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "mpe liboso ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "atondi"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "masese na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:26:26.039940958Z",
+  "model": "glm-5.3"
+}

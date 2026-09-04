@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 19:27",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Mpe kovanda na yo, mpe kobima na yo, mpe kokota na yo — nayebi; mpe ⟨את⟩ bokoliani na yo epai na ngai.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "mpe kovanda na yo"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "mpe kobima na yo"
+    },
+    {
+      "surface": "ובאך",
+      "gloss": "mpe kokota na yo"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "nayebi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bokoliani na yo epai na ngai"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "bokoliani na yo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "epai na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T19:09:29.511452816Z",
+  "model": "glm-5.3"
+}

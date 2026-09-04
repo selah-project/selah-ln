@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 38:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 38,
+  "translation": "Nakitaki makasi mpe nabusamaki mingi penza; nagogaki mpo na mawa ya motema na ngai.",
+  "tokens": [
+    {
+      "surface": "נפוגותי",
+      "gloss": "Nakitaki makasi"
+    },
+    {
+      "surface": "ונדכיתי",
+      "gloss": "mpe nabusamaki"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mingi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "penza"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "nagogaki"
+    },
+    {
+      "surface": "מנהמת",
+      "gloss": "mpo na mawa"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ya motema na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:09:55.675200613Z",
+  "model": "glm-5.3"
+}

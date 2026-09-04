@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 15:3",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 15,
+  "translation": "Mpe oyo ezali botofu na ye na mayei na ye: soki nzoto na ye ebimaka ⟨את⟩ mayei na ye, to nzoto na ye etyami na mayei na ye, botofu na ye nde oyo ezali.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Mpe oyo"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ezali"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "botofu na ye"
+    },
+    {
+      "surface": "בזובו",
+      "gloss": "na mayei na ye"
+    },
+    {
+      "surface": "רר",
+      "gloss": "ebimaka"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "nzoto na ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mayei na ye"
+    },
+    {
+      "surface": "זובו",
+      "gloss": "mayei na ye"
+    },
+    {
+      "surface": "או",
+      "gloss": "to"
+    },
+    {
+      "surface": "החתים",
+      "gloss": "etyami"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "nzoto na ye"
+    },
+    {
+      "surface": "מזובו",
+      "gloss": "na mayei na ye"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "botofu na ye"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "oyo ezali"
+    }
+  ],
+  "timestamp": "2026-09-03T16:48:27.808201830Z",
+  "model": "glm-5.3"
+}

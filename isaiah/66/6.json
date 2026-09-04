@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 66:6",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 66,
+  "translation": "Kolo ya bonguna uta na mboka, kolo uta na hekal, kolo ya Yawe azali kofuta lifuti na banguna na yango.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Kolo"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "ya bonguna"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "uta na mboka"
+    },
+    {
+      "surface": "קול",
+      "gloss": "kolo"
+    },
+    {
+      "surface": "מהיכל",
+      "gloss": "uta na hekal"
+    },
+    {
+      "surface": "קול",
+      "gloss": "kolo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yawe"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "azali kofuta"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "lifuti"
+    },
+    {
+      "surface": "לאיביו",
+      "gloss": "na banguna na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T19:39:45.000839148Z",
+  "model": "glm-5.3"
+}

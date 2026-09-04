@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 11:23",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpe Elohim atelemisaki na ye monguna, ⟨את⟩ Rezon mwana ya Elyada, oyo atomaki epai ya ⟨את⟩ Hadadezer mokonzi ya Tsoba, nkolo na ye.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Mpe atelemisaki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "monguna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rezon"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "Rezon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "אלידע",
+      "gloss": "ya Elyada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "atomaki"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "epai ya ⟨את⟩"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "ya Tsoba"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "nkolo na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T18:50:07.458215771Z",
+  "model": "glm-5.3"
+}

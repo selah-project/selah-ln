@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 41:12",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 41,
+  "translation": "Okoluka bango mpe okokuta bango te: bato ya mikangano na yo bakokoma eloko te mpe moke penza, bato ya bitumba na yo.",
+  "tokens": [
+    {
+      "surface": "תבקשם",
+      "gloss": "Okoluka bango"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "תמצאם",
+      "gloss": "okokuta bango"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "bato"
+    },
+    {
+      "surface": "מצתך",
+      "gloss": "ya mikangano na yo"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bakokoma"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "eloko te"
+    },
+    {
+      "surface": "וכאפס",
+      "gloss": "mpe moke penza"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "bato"
+    },
+    {
+      "surface": "מלחמתך",
+      "gloss": "ya bitumba na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T19:30:20.613115283Z",
+  "model": "glm-5.3"
+}

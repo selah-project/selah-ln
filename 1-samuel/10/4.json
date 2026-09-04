@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 10:4",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Mpe bakotuna yo mbote, mpe bakopesa yo mapanja mibale ya mokelemba; mpe okozwa kowuta na maboko na bango.",
+  "tokens": [
+    {
+      "surface": "ושאלו",
+      "gloss": "Mpe bakotuna"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yo"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "mbote"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "mpe bakopesa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yo"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mapanja ya mokelemba"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "mpe okozwa"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "kowuta na maboko na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T18:13:48.380787544Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 89:18",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 89,
+  "translation": "Mpo ete yo ozali lokumu ya nguya na bango, mpe na mokembo na yo elongi na biso korni na biso etikamaki.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "lokumu"
+    },
+    {
+      "surface": "עזמו",
+      "gloss": "ya nguya na bango"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo ozali"
+    },
+    {
+      "surface": "וברצנך",
+      "gloss": "mpe na mokembo na yo"
+    },
+    {
+      "surface": "תרים",
+      "gloss": "etikamaki"
+    },
+    {
+      "surface": "קרננו",
+      "gloss": "korni na biso"
+    }
+  ],
+  "timestamp": "2026-09-04T00:21:45.341546640Z",
+  "model": "glm-5.3"
+}

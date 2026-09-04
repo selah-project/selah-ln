@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 31:2",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 31,
+  "translation": "Mpe Yaakov amonaki ⟨את⟩ bomoni ya Lavan, mpe tala, ezali te epai na ye lokola lobi mpe lobi ya kala.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "amonaki"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bomoni"
+    },
+    {
+      "surface": "פני",
+      "gloss": "bomoni (ya monotole)"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mpe tala"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ezali te"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "epai na ye"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "lobi"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "lobi ya kala"
+    }
+  ],
+  "timestamp": "2026-09-03T16:01:32.039114647Z",
+  "model": "glm-5.3"
+}

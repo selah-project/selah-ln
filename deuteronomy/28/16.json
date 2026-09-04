@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 28:16",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 28,
+  "translation": "Pema ezali na yo na mboka, mpe pema ezali na yo na elanga.",
+  "tokens": [
+    {
+      "surface": "אָר֥וּר",
+      "gloss": "pema ezali"
+    },
+    {
+      "surface": "אַתָּ֖ה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "בָּעִ֑יר",
+      "gloss": "na mboka"
+    },
+    {
+      "surface": "וְאָר֥וּר",
+      "gloss": "mpe pema ezali"
+    },
+    {
+      "surface": "אַתָּ֖ה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "בַּשָּׂדֶֽה",
+      "gloss": "na elanga"
+    }
+  ],
+  "timestamp": "2026-09-03T17:37:54.521628142Z",
+  "model": "glm-5.3"
+}

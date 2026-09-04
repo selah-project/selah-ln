@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "jeremiah 50:40",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 50,
+  "translation": "Lokola bobongwani oyo Elohim asalaki ⟨את⟩ Sodoma mpe ⟨את⟩ Gomora mpe ⟨את⟩ bamonisi na yango — liloba ya Yawe — moto te akofanda kuna, mpe mwana ya moto akokataka kati na yango te.",
+  "tokens": [
+    {
+      "surface": "כמהפכת",
+      "gloss": "Lokola bobongwani"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sodoma"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sodoma"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Gomora"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Gomora"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bamonisi na yango"
+    },
+    {
+      "surface": "שכניה",
+      "gloss": "bamonisi na yango"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "liloba ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "akofanda"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "akokataka"
+    },
+    {
+      "surface": "בה",
+      "gloss": "kati na yango"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ya moto"
+    }
+  ],
+  "timestamp": "2026-09-03T20:06:59.828275128Z",
+  "model": "glm-5.3"
+}

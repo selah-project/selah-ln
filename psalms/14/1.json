@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 14:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Mpo na mokambi. Ya David. Mofoolo alobi na motema na ye: Elohim azali te; babebisi, basali misala ya mabe; mosali malamu azali te.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Mpo na mokambi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya David"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "alobi"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "mofoolo"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "na motema na ye"
+    },
+    {
+      "surface": "אין",
+      "gloss": "azali te"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "babebisi"
+    },
+    {
+      "surface": "התעיבו",
+      "gloss": "basali misala ya mabe"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "misala"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ezali te"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "mosali"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "malamu"
+    }
+  ],
+  "timestamp": "2026-09-03T21:02:46.335030225Z",
+  "model": "glm-5.3"
+}

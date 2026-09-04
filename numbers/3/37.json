@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 3:37",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "mpe bisanda ya libanda na zingazinga, mpe bifanda na yango, mpe bikwisi na yango, mpe misapo na yango",
+  "tokens": [
+    {
+      "surface": "ועמדי",
+      "gloss": "mpe bisanda"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ya libanda"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "na zingazinga"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "mpe bifanda na yango"
+    },
+    {
+      "surface": "ויתדתם",
+      "gloss": "mpe bikwisi na yango"
+    },
+    {
+      "surface": "ומיתריהם",
+      "gloss": "mpe misapo na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T17:01:00.485033248Z",
+  "model": "glm-5.3"
+}

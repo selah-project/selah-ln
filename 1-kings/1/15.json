@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 1:15",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe Bat-Sheva ayaki epai ya mokonzi na chambe na ye, mpe mokonzi azalaki mokei penza, mpe Avishag wa Shunem azalaki kosunga ⟨את⟩ mokonzi.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "ayaki"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "החדרה",
+      "gloss": "na chambe na ye"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "mpe mokonzi"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "azalaki mokei"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "penza"
+    },
+    {
+      "surface": "ואבישג",
+      "gloss": "mpe Avishag"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "wa Shunem"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "azalaki kosunga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mokonzi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    }
+  ],
+  "timestamp": "2026-09-03T18:42:09.363903359Z",
+  "model": "glm-5.3"
+}

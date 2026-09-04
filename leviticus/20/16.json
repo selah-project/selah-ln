@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 20:16",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 20,
+  "translation": "Mpe mwasi oyo akokóma epai ya nyama nyonso mpo na kolalana ⟨את⟩ yango, okomí koboma ⟨את⟩ mwasi mpe ⟨את⟩ nyama; liwa bakufa, makila na bango ezali na bango.",
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "Mpe mwasi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "akokóma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "לרבעה",
+      "gloss": "mpo na kolalana"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ yango",
+      "marks": "nyama"
+    },
+    {
+      "surface": "והרגת",
+      "gloss": "okomí koboma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwasi"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mwasi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "nyama"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "מות",
+      "gloss": "liwa"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "bakufa"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "makila na bango"
+    },
+    {
+      "surface": "בם",
+      "gloss": "na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:53:23.145214560Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 4:12",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Soki okolimo ⟨את⟩ mabele, ekolongaka kobakisa te koloba nguya na yango epai na yo; okozala mokei mpe mopesi na mabele.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Soki"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "okolimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabele"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "kobakisa"
+    },
+    {
+      "surface": "תת",
+      "gloss": "koloba"
+    },
+    {
+      "surface": "כחה",
+      "gloss": "nguya na yango"
+    },
+    {
+      "surface": "לך",
+      "gloss": "epai na yo"
+    },
+    {
+      "surface": "נע",
+      "gloss": "mokei"
+    },
+    {
+      "surface": "ונד",
+      "gloss": "mpe mopesi"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "okozala"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T23:12:08.147819186Z",
+  "model": "glm-5.3"
+}

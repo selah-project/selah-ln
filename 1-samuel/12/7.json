@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 12:7",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Sikoyo bozinga, mpe nakokanisa na bino liboso ya Yawe ⟨את⟩ makambo ya bolungami nyonso ya Yawe, oyo asalaki ⟨את⟩ elongo na bino mpe ⟨את⟩ na babokoko na bino.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "sikoyo"
+    },
+    {
+      "surface": "התיצבו",
+      "gloss": "bozinga"
+    },
+    {
+      "surface": "ואשפטה",
+      "gloss": "mpe nakokanisa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ na bino"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makambo ya bolungami nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "bolungami"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "asalaki"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ elongo na bino"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "babokoko na bino"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "babokoko na bino"
+    }
+  ],
+  "timestamp": "2026-09-03T18:14:07.389992584Z",
+  "model": "glm-5.3"
+}

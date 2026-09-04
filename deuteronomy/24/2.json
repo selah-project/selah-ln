@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 24:2",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "Mpe abimaki na ndako na ye, mpe akendaki mpe akómaki mwasi ya moto mosusu.",
+  "tokens": [
+    {
+      "surface": "ויצאה",
+      "gloss": "mpe abimaki"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "na ndako na ye"
+    },
+    {
+      "surface": "והלכה",
+      "gloss": "mpe akendaki"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "mpe akómaki"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "mwasi ya moto"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "mosusu"
+    }
+  ],
+  "timestamp": "2026-09-03T17:36:56.872478544Z",
+  "model": "glm-5.3"
+}

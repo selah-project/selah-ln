@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 55:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 55,
+  "translation": "Nakanguki kolongwa mpo na ngai, uta na mpema ya mbindi, uta na mpuya ya makasi.",
+  "tokens": [
+    {
+      "surface": "אחישה",
+      "gloss": "nakanguki"
+    },
+    {
+      "surface": "מפלט",
+      "gloss": "kolongwa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mpo na ngai"
+    },
+    {
+      "surface": "מרוח",
+      "gloss": "uta na mpema"
+    },
+    {
+      "surface": "סעה",
+      "gloss": "ya mbindi"
+    },
+    {
+      "surface": "מסער",
+      "gloss": "uta na mpuya ya makasi"
+    }
+  ],
+  "timestamp": "2026-09-04T00:22:16.547619533Z",
+  "model": "glm-5.3"
+}

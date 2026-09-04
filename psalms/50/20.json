@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 50:20",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 50,
+  "translation": "Ofandi, olobaka mabe na ndeko na yo, na mwana ya mama na yo opesi malobi-mabe.",
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "ofandi"
+    },
+    {
+      "surface": "באחיך",
+      "gloss": "na ndeko na yo"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "olobaka"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "na mwana"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "mama na yo"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "opesi"
+    },
+    {
+      "surface": "דפי",
+      "gloss": "malobi-mabe"
+    }
+  ],
+  "timestamp": "2026-09-03T21:12:10.999975567Z",
+  "model": "glm-5.3"
+}

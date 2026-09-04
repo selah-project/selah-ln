@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 21:4",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Soki nkolo na ye apesi ye mwasi, mpe mwasi wana aboteli ye bana mibali to bana basi, mwasi wana mpe bana na ye ekokala ya nkolo na ye, mpe ye moko abimaka na nzoto na ye moko.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Soki"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "nkolo na ye"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "apesi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mwasi"
+    },
+    {
+      "surface": "וילדה",
+      "gloss": "mpe aboteli"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bana mibali"
+    },
+    {
+      "surface": "או",
+      "gloss": "to"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "bana basi"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mwasi wana"
+    },
+    {
+      "surface": "וילדיה",
+      "gloss": "mpe bana na ye"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ekokala"
+    },
+    {
+      "surface": "לאדניה",
+      "gloss": "ya nkolo na ye"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "mpe ye moko"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "abimaka"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "na nzoto na ye moko"
+    }
+  ],
+  "timestamp": "2026-09-03T16:26:35.104988479Z",
+  "model": "glm-5.3"
+}

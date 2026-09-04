@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 28:6",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 28,
+  "translation": "Baraki yo ntango ozali kokota, mpe baraki yo ntango ozali kolongwa.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Baraki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "ntango ozali kokota"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "mpe baraki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "ntango ozali kolongwa"
+    }
+  ],
+  "timestamp": "2026-09-03T17:37:32.342926113Z",
+  "model": "glm-5.3"
+}

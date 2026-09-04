@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 48:12",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 48,
+  "translation": "Mpe Yosef abimisaki bango ⟨את⟩ uta kati ya majenou na ye, mpe yonamaki na elonga naye nse ya mabele.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "Mpe abimisaki"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bango",
+      "marks": "uta kati ya majenou na ye"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "uta kati ya"
+    },
+    {
+      "surface": "ברכיו",
+      "gloss": "majenou na ye"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "mpe yonamaki"
+    },
+    {
+      "surface": "לאפיו",
+      "gloss": "na elonga naye"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "nse ya mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T16:11:03.521551481Z",
+  "model": "glm-5.3"
+}

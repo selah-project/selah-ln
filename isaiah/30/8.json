@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 30:8",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 30,
+  "translation": "Sikoyo, yaka — kokoma yango likolo ya lobe ⟨את⟩ elongo na bango, mpe likolo ya mokanda kokoma yango na makasi, mpe ezala mpo na mokolo ya nsuka, na mbela, kino mbela.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Sikoyo"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "yaka"
+    },
+    {
+      "surface": "כתבה",
+      "gloss": "kokoma yango"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "lobe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "elongo na bango"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "mpe likolo ya"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "mokanda"
+    },
+    {
+      "surface": "חקה",
+      "gloss": "kokoma na makasi"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "mpe ezala"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "mpo na mokolo"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "ya nsuka"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "na mbela"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "mbela"
+    }
+  ],
+  "timestamp": "2026-09-03T19:25:58.560038054Z",
+  "model": "glm-5.3"
+}

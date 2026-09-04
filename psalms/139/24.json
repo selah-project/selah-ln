@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 139:24",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 139,
+  "translation": "Mpe tala soki nzela ya mpasi ezali na ngai, mpe tinda ngai na nzela ya sekelo.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "mpe tala"
+    },
+    {
+      "surface": "אם",
+      "gloss": "soki"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "nzela"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "ya mpasi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "mpe tinda ngai"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "na nzela"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ya sekelo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:35:06.116705577Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 16:20",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Mpe soki asilaki kosala bobikisi ⟨את⟩ bosantu mpe ⟨את⟩ Ohel Moed mpe ⟨את⟩ autelo, mpe akotisaki ⟨את⟩ mbusi ya mobali oyo ozali na bomoi.",
+  "tokens": [
+    {
+      "surface": "וכלה",
+      "gloss": "mpe soki asilaki"
+    },
+    {
+      "surface": "מכפר",
+      "gloss": "kosala bobikisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bosantu"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "bosantu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Ohel Moed"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "Ohel"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Moed"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "autelo"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "autelo"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "mpe akotisaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbusi ya mobali"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "mbusi ya mobali"
+    },
+    {
+      "surface": "החי",
+      "gloss": "oyo ozali na bomoi"
+    }
+  ],
+  "timestamp": "2026-09-03T16:50:36.233298644Z",
+  "model": "glm-5.3"
+}

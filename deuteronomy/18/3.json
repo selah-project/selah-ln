@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 18:3",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Mpe oyo nde ekoki koba motuya ya bakohen, uta na ⟨את⟩ bato, uta na ⟨את⟩ babomi ya mbizi — soki ngombe to soki moutou: akopesa na kohen loboko, mpe mapapa mibale, mpe libumu.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "mpe oyo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ekoki koba"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "motuya"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "bakohen"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "na ⟨את⟩",
+      "marks": "bato"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "na ⟨את⟩",
+      "marks": "babomi ya mbizi"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "babomi ya mbizi"
+    },
+    {
+      "surface": "הזבח",
+      "gloss": "mbizi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "soki"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ngombe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "soki"
+    },
+    {
+      "surface": "שה",
+      "gloss": "moutou"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "akopesa"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "na kohen"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "loboko"
+    },
+    {
+      "surface": "והלחיים",
+      "gloss": "mpe mapapa mibale"
+    },
+    {
+      "surface": "והקבה",
+      "gloss": "mpe libumu"
+    }
+  ],
+  "timestamp": "2026-09-03T17:34:19.351041816Z",
+  "model": "glm-5.3"
+}

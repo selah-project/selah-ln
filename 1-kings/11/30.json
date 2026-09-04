@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 11:30",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpe Ahiya akangaki salama ya sika oyo ezalaki na ye, mpe aekolaki yango na biteni zomi na mibale.",
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "mpe akangaki"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Ahiya"
+    },
+    {
+      "surface": "בשלמה",
+      "gloss": "salama"
+    },
+    {
+      "surface": "החדשה",
+      "gloss": "ya sika"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ezalaki na ye"
+    },
+    {
+      "surface": "ויקרעה",
+      "gloss": "mpe aekolaki yango"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "na zomi"
+    },
+    {
+      "surface": "קרעים",
+      "gloss": "biteni"
+    }
+  ],
+  "timestamp": "2026-09-03T18:51:26.075919554Z",
+  "model": "glm-5.3"
+}

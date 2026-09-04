@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 10:10",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Mpe ebandeli ya bokonzi na ye ezalaki Bavel, mpe Arek, mpe Akad, mpe Kalne, na mabele ya Shinari.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "Mpe ezalaki"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "ebandeli"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "ya bokonzi na ye"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "mpe Arek"
+    },
+    {
+      "surface": "ואכד",
+      "gloss": "mpe Akad"
+    },
+    {
+      "surface": "וכלנה",
+      "gloss": "mpe Kalne"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "ya Shinari"
+    }
+  ],
+  "timestamp": "2026-09-03T15:48:57.859195649Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 7:4",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mpe mininisa misato na bamolongo, mpe komona na komona, mbala misato.",
+  "tokens": [
+    {
+      "surface": "ושקפים",
+      "gloss": "mpe mininisa"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "misato"
+    },
+    {
+      "surface": "טורים",
+      "gloss": "na bamolongo"
+    },
+    {
+      "surface": "ומחזה",
+      "gloss": "mpe komona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "komona"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "misato"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "mbala"
+    }
+  ],
+  "timestamp": "2026-09-03T18:46:01.568063370Z",
+  "model": "glm-5.3"
+}

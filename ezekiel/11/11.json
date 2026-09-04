@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 11:11",
+  "book": "ezekiel",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Yango ekokala te epai na bino lokola sitolo, mpe bino bokokala kati na yango lokola nyama; na ndelo ya Israel nasopesi ⟨את⟩ bino.",
+  "tokens": [
+    {
+      "surface": "היא",
+      "gloss": "yango"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ekokala"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "epai na bino"
+    },
+    {
+      "surface": "לסיר",
+      "gloss": "lokola sitolo"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "mpe bino"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "bokokala"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "kati na yango"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "lokola nyama"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ndelo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "nasopesi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ bino",
+      "marks": "bino"
+    }
+  ],
+  "timestamp": "2026-09-03T20:13:42.051100626Z",
+  "model": "glm-5.3"
+}

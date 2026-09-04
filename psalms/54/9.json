@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 54:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 54,
+  "translation": "Mpo ⟨ye⟩ amebombaki ngai na mokakatano nyonso, mpe miso na ngai emonaki banganga na ngai.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "na nyonso"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "mokakatano"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "⟨ye⟩ amebombaki ngai"
+    },
+    {
+      "surface": "ובאיבי",
+      "gloss": "mpe banganga na ngai"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "emonaki"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "miso na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:13:12.129326693Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 14:6",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Mpe mowumbu na yo azalaki na bana mibale, mpe bango mibale babandanaki na elanga, mpe mobikisi azalaki te kati na bango; moko akubaki ⟨את⟩ moko, mpe akufaki ⟨את⟩ ye.",
+  "tokens": [
+    {
+      "surface": "ולשפחתך",
+      "gloss": "mpe mowumbu na yo"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bana"
+    },
+    {
+      "surface": "וינצו",
+      "gloss": "babandanaki"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "bango mibale"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "na elanga"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mpe azalaki te"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "mobikisi"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "kati na bango"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "akubaki"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "moko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moko"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "moko"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "akufaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ye"
+    }
+  ],
+  "timestamp": "2026-09-03T18:34:11.409425301Z",
+  "model": "glm-5.3"
+}

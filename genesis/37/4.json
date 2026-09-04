@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 37:4",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 37,
+  "translation": "Mpe bamonaki bandeko na ye ete tata na bango alingaki ⟨את⟩ yandi kupola na bandeko na ye nyonso, mpe balingaki ⟨את⟩ yandi te, mpe bakokaki te koloba na yandi maloba ya kimia.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "Mpe bamonaki"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "bandeko na ye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yandi"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "alingaki"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "tata na bango"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kupola na"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "bandeko na ye nyonso"
+    },
+    {
+      "surface": "וישנאו",
+      "gloss": "mpe balingaki te"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yandi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "bakokaki"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "koloba na yandi"
+    },
+    {
+      "surface": "לשלם",
+      "gloss": "maloba ya kimia"
+    }
+  ],
+  "timestamp": "2026-09-03T16:04:55.581651948Z",
+  "model": "glm-5.3"
+}

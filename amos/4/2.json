@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 4:2",
+  "book": "amos",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Adonai Yawe apesaki liloba na motuya mosantu na ye ete: Talá, mikolo ezali koya epai na bino, mpe bakomema ⟨את⟩ bino na bahame, mpe suka na bino na bapanga ya mbisi.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "apesaki liloba"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "na motuya mosantu na ye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Talá"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mikolo"
+    },
+    {
+      "surface": "באים",
+      "gloss": "ezali koya"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "epai na bino"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "mpe bakomema"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ bino",
+      "marks": "bino"
+    },
+    {
+      "surface": "בצנות",
+      "gloss": "na bahame"
+    },
+    {
+      "surface": "ואחריתכן",
+      "gloss": "mpe suka na bino"
+    },
+    {
+      "surface": "בסירות",
+      "gloss": "na bapanga"
+    },
+    {
+      "surface": "דוגה",
+      "gloss": "ya mbisi"
+    }
+  ],
+  "timestamp": "2026-09-03T20:43:27.387636547Z",
+  "model": "glm-5.3"
+}

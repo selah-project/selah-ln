@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 12:30",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Mpe liloba oyo ekomaki libenga; mpe bato batambolaki liboso ya moko, kino Dan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mpe ekomaki"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "liloba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "libenga"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "mpe batambolaki"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "moko"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    }
+  ],
+  "timestamp": "2026-09-03T18:51:37.262469199Z",
+  "model": "glm-5.3"
+}

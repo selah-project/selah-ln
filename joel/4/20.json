@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joel 4:20",
+  "book": "joel",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe Yehuda akofanda libela, mpe Yerushalaim libota na libota.",
+  "tokens": [
+    {
+      "surface": "ויהודה",
+      "gloss": "mpe Yehuda"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "libela"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "akofanda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "mpe Yerushalaim"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "libota"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "na libota"
+    }
+  ],
+  "timestamp": "2026-09-03T20:42:53.493014772Z",
+  "model": "glm-5.3"
+}

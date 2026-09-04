@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 62:5",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 62,
+  "translation": "Mpo ete lolenge moko mobali moke abali mwasi moke, bana na yo bakobala yo; mpe lolenge moko sekesa ya mobali ya libala likolo ya mwasi ya libala, Elohim na yo asekesa likolo na yo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "יבעל",
+      "gloss": "abali"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "mobali moke"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "mwasi moke"
+    },
+    {
+      "surface": "יבעלוך",
+      "gloss": "bakobala yo"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "bana na yo"
+    },
+    {
+      "surface": "ומשוש",
+      "gloss": "mpe sekesa"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "mobali ya libala"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "mwasi ya libala"
+    },
+    {
+      "surface": "ישיש",
+      "gloss": "asekesa"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "likolo na yo"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T19:39:08.976779309Z",
+  "model": "glm-5.3"
+}

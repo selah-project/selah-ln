@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 28:11",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 28,
+  "translation": "Mpe motó alobaki: Nakotombisa ⟨את⟩ aní mpamba na yo? Mpe alobaki: Tombisa ⟨את⟩ Shemuela epai ngai.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "mppe alobaki"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "motó"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aní"
+    },
+    {
+      "surface": "מי",
+      "gloss": "aní"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "nakotombisa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mpamba na yo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mppe alobaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shemuela"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuela"
+    },
+    {
+      "surface": "העלי",
+      "gloss": "Tombisa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "epai ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T18:23:23.776303418Z",
+  "model": "glm-5.3"
+}

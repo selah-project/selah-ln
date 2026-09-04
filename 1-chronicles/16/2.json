@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 16:2",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Mpe David asilaki kokola bikabo ya moto mpe ya kimia, mpe apambolaki ⟨את⟩ bato na nkombo ya Yawe.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "Mpe asilaki"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מהעלות",
+      "gloss": "kokola"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "bikabo ya moto"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "mpe ya kimia"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "mpe apambolaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bato"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "na nkombo ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T22:47:18.739691638Z",
+  "model": "glm-5.3"
+}

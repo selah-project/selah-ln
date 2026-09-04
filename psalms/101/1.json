@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 101:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 101,
+  "translation": "Ya David, mizmor. Hesed (bolingo) mpe bosolo nakoyemba; na yo, Yawe, nakolimbola na nzembo.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ya David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "mpe bosolo"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "nakoyemba"
+    },
+    {
+      "surface": "לך",
+      "gloss": "na yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "nakolimbola na nzembo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:26:01.712199956Z",
+  "model": "glm-5.3"
+}

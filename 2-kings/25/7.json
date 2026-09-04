@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 25:7",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Mpe babomaki bana ya Tsidkiyahu ⟨את⟩ na miso na yango; mpe babungisaki miso ya Tsidkiyahu ⟨את⟩, mpe bakangaki yango na zinga ya ngola ya bokasi, mpe bakendiselaki yango na Bavel.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bana ya Tsidkiyahu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "ya Tsidkiyahu"
+    },
+    {
+      "surface": "שחטו",
+      "gloss": "babomaki"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "na miso na yango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "miso ya Tsidkiyahu"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "miso"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "ya Tsidkiyahu"
+    },
+    {
+      "surface": "עור",
+      "gloss": "babungisaki"
+    },
+    {
+      "surface": "ויאסרהו",
+      "gloss": "mpe bakangaki yango"
+    },
+    {
+      "surface": "בנחשתים",
+      "gloss": "na zinga ya ngola ya bokasi"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "mpe bakendiselaki yango"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "na Bavel"
+    }
+  ],
+  "timestamp": "2026-09-03T19:12:10.914839443Z",
+  "model": "glm-5.3"
+}

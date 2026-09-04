@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 2:10",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe Ram abotaki ⟨את⟩ Aminadab, mpe Aminadab abotaki ⟨את⟩ Nahshon, mokonzi ya bana ya Yehudah.",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "Mpe Ram"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "abotaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aminadab"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Aminadab"
+    },
+    {
+      "surface": "ועמינדב",
+      "gloss": "mpe Aminadab"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "abotaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nahshon"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nahshon"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ya bana ya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudah"
+    }
+  ],
+  "timestamp": "2026-09-03T22:39:54.378091255Z",
+  "model": "glm-5.3"
+}

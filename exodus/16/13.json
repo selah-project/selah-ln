@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 16:13",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Mpe ekamwaki na mpokwa, mpe bampuki bamonaki mpe bikangaki ⟨את⟩ kaa; mpe na tongo sanzo ya mai ezalaki kokanga zingazinga ya kaa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mpe ekamwaki"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "na mpokwa"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "mpe bimonaki"
+    },
+    {
+      "surface": "השלו",
+      "gloss": "bampuki"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "mpe bikangaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaa"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kaa"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "mpe na tongo"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ezalaki"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "kokanga ya"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "sanzo ya mai"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "zingazinga ya"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kaa"
+    }
+  ],
+  "timestamp": "2026-09-03T16:23:55.212502256Z",
+  "model": "glm-5.3"
+}

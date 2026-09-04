@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 23:5",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Soki omoni mbavu ya oyo azali koyina yo etambwami na nse ya maboko na yango, mpe olingi kokoka kotika yango — kotika, okotika yango elongo na ye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Soki"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "omoni"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "mbavu"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "ya oyo azali koyina yo"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "etambwami"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "na nse ya"
+    },
+    {
+      "surface": "משאו",
+      "gloss": "maboko na yango"
+    },
+    {
+      "surface": "וחדלת",
+      "gloss": "mpe olingi kokoka"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "kotika"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yango"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "kotika"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "okotika"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "elongo na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T16:25:00.922873224Z",
+  "model": "glm-5.3"
+}

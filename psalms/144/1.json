@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 144:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 144,
+  "translation": "Ya David. Bolamu ezali na Yawe, libanga na ngai, oyo alakisi maboko na ngai mpo na etumba, misapi na ngai mpo na bitumba.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "ya David"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "bolamu ezali na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "libanga na ngai"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "oyo alakisi"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "maboko na ngai"
+    },
+    {
+      "surface": "לקרב",
+      "gloss": "mpo na etumba"
+    },
+    {
+      "surface": "אצבעותי",
+      "gloss": "misapi na ngai"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "mpo na bitumba"
+    }
+  ],
+  "timestamp": "2026-09-03T21:35:44.251960819Z",
+  "model": "glm-5.3"
+}

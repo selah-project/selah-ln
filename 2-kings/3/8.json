@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 3:8",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe alobaki: Nzela nini tokokweya? Mpe alobaki: Nzela ya etando ya Edom.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "אי",
+      "gloss": "nini"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨oyo⟩"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "nzela"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "tokokweya"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "nzela"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "etando"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-09-03T18:59:05.088821865Z",
+  "model": "glm-5.3"
+}

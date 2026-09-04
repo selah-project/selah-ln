@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 29:10",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 29,
+  "translation": "Mpe sikoyo tuka na tongo, yo elongo na basali ya nkolo na yo oyo bayaki ⟨את⟩ elongo na yo, mpe bokotuka na tongo, mpe soki pole emonani na bino, mpe bokende.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Mpe sikoyo"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "tuka"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "na tongo"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "mpe basali"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "ya nkolo na yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "באו",
+      "gloss": "bayaki"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ elongo na yo"
+    },
+    {
+      "surface": "והשכמתם",
+      "gloss": "mpe bokotuka"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "na tongo"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "mpe pole"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "na bino"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "mpe bokende"
+    }
+  ],
+  "timestamp": "2026-09-03T18:23:05.479550016Z",
+  "model": "glm-5.3"
+}

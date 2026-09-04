@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 18:42",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Bakangaki mongongo, kasi monjolaki ezalaki te; kino epai ya Yawe, kasi ayanaki bango te.",
+  "tokens": [
+    {
+      "surface": "ישועו",
+      "gloss": "Bakangaki mongongo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kasi ezalaki te"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "monjolaki"
+    },
+    {
+      "surface": "על",
+      "gloss": "kino epai ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kasi te"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "ayanaki bango te"
+    }
+  ],
+  "timestamp": "2026-09-03T21:04:15.631237930Z",
+  "model": "glm-5.3"
+}

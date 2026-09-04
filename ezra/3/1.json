@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezra 3:1",
+  "book": "ezra",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe sanza ya nsambo eyaki, mpe bana ya Israel bazalaki na mboka, mpe bato basangisaki nde lokola moto moko, na Yerushalaim.",
+  "tokens": [
+    {
+      "surface": "ויגע",
+      "gloss": "eyaki"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "sanza"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ya nsambo"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "mpe bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "na mboka"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "basangisaki"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "lokola moto"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "moko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-09-03T22:30:04.851242014Z",
+  "model": "glm-5.3"
+}

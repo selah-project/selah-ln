@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 96:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 96,
+  "translation": "Bondelama epai ya Yawe na kitoko ya bondomi; boswela liboso na yango, mabele nyonso.",
+  "tokens": [
+    {
+      "surface": "השתחוו",
+      "gloss": "Bondelama"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "epai ya Yawe"
+    },
+    {
+      "surface": "בהדרת",
+      "gloss": "na kitoko ya"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "bondomi"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "boswela"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "liboso na yango"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T21:24:21.518566710Z",
+  "model": "glm-5.3"
+}

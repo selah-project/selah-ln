@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 1:9",
+  "book": "jonah",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe alobaki epai na bango: Ngbongo ya Ivrit na ngai; mpe Yawe, Elohim ya likolo, ngai nazali kobanga ⟨את⟩ yeye, oyo asalaki ⟨את⟩ mbu mpe ⟨את⟩ mabele mikolo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "epai na bango"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "Ivrit"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ya"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "likolo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "nazali kobanga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "asalaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbu"
+    },
+    {
+      "surface": "הים",
+      "gloss": "mbu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mabele mikolo"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "mabele mikolo"
+    }
+  ],
+  "timestamp": "2026-09-03T20:47:42.330657165Z",
+  "model": "glm-5.3"
+}

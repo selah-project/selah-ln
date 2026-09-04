@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 10:1",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Yawe alobaki na Moshe: kota epai ya Parao, mpo ngai nalisaki kilo ⟨את⟩ motema na ye, mpe ⟨את⟩ motema ya basali na ye, mpo na kotya bilembo na ngai oyo kati na yango.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kota"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "הכבדתי",
+      "gloss": "nalisaki kilo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motema na ye"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "motema na ye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "motema"
+    },
+    {
+      "surface": "לב",
+      "gloss": "motema"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ya basali na ye"
+    },
+    {
+      "surface": "למען",
+      "gloss": "mpo na"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "kotya"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "bilembo na ngai"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "kati na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:18:44.361628858Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 20:12",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 20,
+  "translation": "Mpe moto oyo akolala ⟨את⟩ mwasi ya mwana na ye, bango mibale bakufisama na liwa; bonyii basalaki, mai na bango ezali na bango.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Mpe moto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "akolala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwasi ya mwana na ye"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "mwasi ya mwana na ye"
+    },
+    {
+      "surface": "מות",
+      "gloss": "liwa"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "bakufisama"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "bango mibale"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "bonyii"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "basalaki"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "mai na bango"
+    },
+    {
+      "surface": "בם",
+      "gloss": "na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:53:03.952324932Z",
+  "model": "glm-5.3"
+}

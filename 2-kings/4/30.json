@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 4:30",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe mama ya mwana alobaki: Yaawe azali bomoi, mpe molimo na yo azali bomoi, soki nakotika yo ⟨te⟩; mpe alongamaki mpe akendaki na sima na yango.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mama"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ya mwana"
+    },
+    {
+      "surface": "חי",
+      "gloss": "azali bomoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "mpe ... azali bomoi"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "molimo na yo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "soki"
+    },
+    {
+      "surface": "אעזבך",
+      "gloss": "nakotika yo"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "mpe alongamaki"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "mpe akendaki"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "na sima na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T19:00:34.663017819Z",
+  "model": "glm-5.3"
+}

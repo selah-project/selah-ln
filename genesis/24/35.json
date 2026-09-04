@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 24:35",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "Yawe amelaki nkolo na ngai mingi, mpe alongwaki monene; mpe apekaki ye bitutu mpe ngombe, mpe mbongo mpe ngola, mpeomboki mibali mpeomboki basi, mpe bakamelo mpe bapunda.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "amelaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkolo na ngai"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "nkolo na ngai"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mingi"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "alongwaki monene"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "apekaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "bitutu"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "ngombe"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "mbongo"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "ngola"
+    },
+    {
+      "surface": "ועבדם",
+      "gloss": "bomboki mibali"
+    },
+    {
+      "surface": "ושפחת",
+      "gloss": "bomboki basi"
+    },
+    {
+      "surface": "וגמלים",
+      "gloss": "bakamelo"
+    },
+    {
+      "surface": "וחמרים",
+      "gloss": "bapunda"
+    }
+  ],
+  "timestamp": "2026-09-03T15:56:27.262418126Z",
+  "model": "glm-5.3"
+}

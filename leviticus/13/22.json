@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 13:22",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Mpe soki ebombwanaka mingi na poke, kohen atyaka ⟨את⟩ yango mabe: mabe nde yango ezali.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "mpe soki"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "ebombwanaka"
+    },
+    {
+      "surface": "תפשה",
+      "gloss": "mingi"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "na poke"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "mpe atyaka mabe"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yango (mabe)"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yango ezali"
+    }
+  ],
+  "timestamp": "2026-09-03T16:47:33.037303863Z",
+  "model": "glm-5.3"
+}

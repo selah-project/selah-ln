@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 13:16",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Boboma boboma ⟨את⟩ bafandi ya mboka wana na monoko ya likepe; pekisa ⟨את⟩ yango mobimba, mpe ⟨את⟩ nyonso oyo ezali na yango, mpe ⟨את⟩ banyama na yango, na monoko ya likepe.",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "Boboma"
+    },
+    {
+      "surface": "תכה",
+      "gloss": "boboma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bafandi"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "bafandi"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ya mboka"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "wana"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "na monoko"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ya likepe"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "pekisa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "mboka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "בה",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "banyama"
+    },
+    {
+      "surface": "בהמתה",
+      "gloss": "banyama na yango"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "na monoko"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ya likepe"
+    }
+  ],
+  "timestamp": "2026-09-03T17:30:35.926546361Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 25:16",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Bango bana ya Yishmael, mpe bango bankombo na bango, na bavila na bango mpe na bibende na bango: bakonzi zomi na mibale ya banoko na bango.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "bango"
+    },
+    {
+      "surface": "הם",
+      "gloss": "bango"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ya"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yishmael"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "mpe bango"
+    },
+    {
+      "surface": "שמתם",
+      "gloss": "bankombo na bango"
+    },
+    {
+      "surface": "בחצריהם",
+      "gloss": "na bavila na bango"
+    },
+    {
+      "surface": "ובטירתם",
+      "gloss": "mpe na bibende na bango"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "zomi na mibale"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "zomi na mibale"
+    },
+    {
+      "surface": "נשיאם",
+      "gloss": "bakonzi"
+    },
+    {
+      "surface": "לאמתם",
+      "gloss": "ya banoko na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T15:56:46.889183372Z",
+  "model": "glm-5.3"
+}

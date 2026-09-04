@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 17:20",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 17,
+  "translation": "Mpe mpo na Yishmael, nayoki yo: talá, napaki ⟨את⟩ yango, mpe nakosepisa ⟨את⟩ yango, mpe nakokomisa ⟨את⟩ yango mingi mpe mingi; zomi na mibale bankonzi akobota, mpe nakoti yango lokola ekolo monene.",
+  "tokens": [
+    {
+      "surface": "ולישמעאל",
+      "gloss": "Mpe mpo na Yishmael"
+    },
+    {
+      "surface": "שמעתיך",
+      "gloss": "nayoki yo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "talá"
+    },
+    {
+      "surface": "ברכתי",
+      "gloss": "napaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yango"
+    },
+    {
+      "surface": "והפריתי",
+      "gloss": "mpe nakosepisa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yango"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "mpe nakokomisa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yango"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "mingi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mpe mingi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "zomi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "na mibale"
+    },
+    {
+      "surface": "נשיאם",
+      "gloss": "bankonzi"
+    },
+    {
+      "surface": "יוליד",
+      "gloss": "akobota"
+    },
+    {
+      "surface": "ונתתיו",
+      "gloss": "mpe nakoti yango"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "lokola ekolo"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "monene"
+    }
+  ],
+  "timestamp": "2026-09-03T15:52:52.293301964Z",
+  "model": "glm-5.3"
+}

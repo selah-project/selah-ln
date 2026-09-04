@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 8:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Bituka mpe bangombe, nyonso na yango, mpe ata nyama ya bangamba.",
+  "tokens": [
+    {
+      "surface": "צנה",
+      "gloss": "bituka"
+    },
+    {
+      "surface": "ואלפים",
+      "gloss": "mpe bangombe"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "nyonso na yango"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "mpe ata"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ya bangamba"
+    }
+  ],
+  "timestamp": "2026-09-03T21:01:48.510600300Z",
+  "model": "glm-5.3"
+}

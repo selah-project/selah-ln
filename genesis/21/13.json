@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 21:13",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Mpe ⟨את⟩ mwana ya mosali-ndako nakotya yě na ekolo, mpo ete azali mbela na yo.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Mpe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwana"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "ya mosali-ndako"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "na ekolo"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "nakotya yě"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "mbela na yo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "azali"
+    }
+  ],
+  "timestamp": "2026-09-03T15:55:05.133279577Z",
+  "model": "glm-5.3"
+}

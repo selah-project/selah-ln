@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 3:7",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe Shemuel ayebaki naino te ⟨את⟩ Yawe, mpe liloba ya Yawe naino emonanaki te epai na ye.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Mpe Shemuel"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "naino te"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ayebaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וטרם",
+      "gloss": "mpe naino te"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "emonanaki"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "epai na ye"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "liloba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T18:10:46.153146802Z",
+  "model": "glm-5.3"
+}

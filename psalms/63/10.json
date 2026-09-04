@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 63:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 63,
+  "translation": "Bango mpe, balukaka molimo na ngai mpo na kobebisa; bakokota na nse-monene ya mabele.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "bango mpe"
+    },
+    {
+      "surface": "לשואה",
+      "gloss": "mpo na kobebisa"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "balukaka"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "molimo na ngai"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "bakokota"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "na nse-monene ya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T21:15:22.643352520Z",
+  "model": "glm-5.3"
+}

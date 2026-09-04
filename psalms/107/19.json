@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 107:19",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 107,
+  "translation": "Mpe babengaki Yawe na mawa na bango, mpe na makwama na bango abikisaki bango.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "Mpe babengaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "na mawa na bango"
+    },
+    {
+      "surface": "להם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "ממצקותיהם",
+      "gloss": "na makwama na bango"
+    },
+    {
+      "surface": "יושיעם",
+      "gloss": "abikisaki bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:28:22.355404683Z",
+  "model": "glm-5.3"
+}

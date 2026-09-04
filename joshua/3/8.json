@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 3:8",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe yo, okotindaka ⟨את⟩ bakohen, bamemi sanduku ya bondimi, aloba ete: Soki bokofika kino na nsuka ya mai ya Yarden, bokotelema na Yarden.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "mpe yo"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "okotindaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bakohen"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "bakohen"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "bamemi"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduku"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "ya bondimi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "aloba ete"
+    },
+    {
+      "surface": "כבאכם",
+      "gloss": "soki bokofika"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino na"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "nsuka"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mai"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "na Yarden"
+    },
+    {
+      "surface": "תעמדו",
+      "gloss": "bokotelema"
+    }
+  ],
+  "timestamp": "2026-09-03T17:44:39.308514793Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 147:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 147,
+  "translation": "Yawe alingi te nguya ya farasi, asepeli te na miguli ya moto.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "na nguya"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "ya farasi"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "alingi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "בשוקי",
+      "gloss": "na miguli"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ya moto"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "asepeli"
+    }
+  ],
+  "timestamp": "2026-09-03T21:36:00.012272206Z",
+  "model": "glm-5.3"
+}

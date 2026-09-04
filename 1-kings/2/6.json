@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 2:6",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe osala kolandana na mayele na yo, mpe kokitisa misopo ya minene na ye na bomuya na Sheol te.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Mpe osala"
+    },
+    {
+      "surface": "כחכמתך",
+      "gloss": "kolandana na mayele na yo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe ... te"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "kokitisa"
+    },
+    {
+      "surface": "שיבתו",
+      "gloss": "misopo ya minene na ye"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "na bomuya"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "Sheol"
+    }
+  ],
+  "timestamp": "2026-09-03T18:43:56.877655312Z",
+  "model": "glm-5.3"
+}

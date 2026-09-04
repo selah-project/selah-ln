@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 8:8",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe na Betah mpe na Berotai, mboka ya Hadadezer, mokonzi David azwaki shaba mingi penza.",
+  "tokens": [
+    {
+      "surface": "ומבטח",
+      "gloss": "mpe na Betah"
+    },
+    {
+      "surface": "ומברתי",
+      "gloss": "mpe na Berotai"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "mboka"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezer"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "azwaki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "shaba"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "mingi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "penza"
+    }
+  ],
+  "timestamp": "2026-09-03T18:30:41.954269682Z",
+  "model": "glm-5.3"
+}

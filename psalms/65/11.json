@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 65:11",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 65,
+  "translation": "Bilangi na yango omelisaki malamu; banzela na yango okitisaki; na mbula omiamisi yango, mpe bobota na yango obolaki.",
+  "tokens": [
+    {
+      "surface": "תלמיה",
+      "gloss": "bilangi na yango"
+    },
+    {
+      "surface": "רוה",
+      "gloss": "omelisaki malamu"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "okitisaki"
+    },
+    {
+      "surface": "גדודיה",
+      "gloss": "banzela na yango"
+    },
+    {
+      "surface": "ברביבים",
+      "gloss": "na mbula"
+    },
+    {
+      "surface": "תמגגנה",
+      "gloss": "omiamisi yango"
+    },
+    {
+      "surface": "צמחה",
+      "gloss": "bobota na yango"
+    },
+    {
+      "surface": "תברך",
+      "gloss": "obolaki"
+    }
+  ],
+  "timestamp": "2026-09-03T21:15:16.336626978Z",
+  "model": "glm-5.3"
+}

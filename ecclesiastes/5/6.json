@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 5:6",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Mpo ete na bonene ya mipango, mpe ya bopuya, mpe ya maloba ebele — kasi banga ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo ete"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "na bonene ya"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "mipango"
+    },
+    {
+      "surface": "והבלים",
+      "gloss": "mpe ya bopuya"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "mpe ya maloba"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ebele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "banga"
+    }
+  ],
+  "timestamp": "2026-09-03T23:38:37.033034995Z",
+  "model": "glm-5.3"
+}

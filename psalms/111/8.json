@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 111:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 111,
+  "translation": "Esimbami ntango nyonso, libela; esalami na bosolo mpe bosembo.",
+  "tokens": [
+    {
+      "surface": "סמוכים",
+      "gloss": "esimbami"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ntango nyonso"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "libela"
+    },
+    {
+      "surface": "עשוים",
+      "gloss": "esalami"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "na bosolo"
+    },
+    {
+      "surface": "ושר",
+      "gloss": "mpe bosembo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:29:37.379792394Z",
+  "model": "glm-5.3"
+}

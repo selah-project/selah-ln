@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 29:1",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 29,
+  "translation": "Mpe Pelishtim basangisaki ⟨את⟩ mampinga na bango nyonso na Afeka, mpe Israel batyaki kaa na sanzui oyo ezali na Yizreel.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "basangisaki"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mampinga na bango nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "mampinga na bango"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "Afeka"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "mpe Israel"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "batyaki kaa"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "na sanzui"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "na Yizreel"
+    }
+  ],
+  "timestamp": "2026-09-03T18:24:08.598546602Z",
+  "model": "glm-5.3"
+}

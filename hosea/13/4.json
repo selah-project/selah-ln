@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 13:4",
+  "book": "hosea",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Mpe ngai nazali Yawe Elohim na yo, uta na mabele ya Mitsraim; mpe nzambe mosusu na ngai te okoyeba, mpe Mobikisi ezali te, longola ngai.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "Mpe ngai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim na yo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "uta na mabele"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Mitsraim"
+    },
+    {
+      "surface": "ואלהים",
+      "gloss": "mpe nzambe"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "mosusu na ngai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "okoyeba"
+    },
+    {
+      "surface": "ומושיע",
+      "gloss": "mpe Mobikisi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ezali te"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "longola ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T20:40:52.200796082Z",
+  "model": "glm-5.3"
+}

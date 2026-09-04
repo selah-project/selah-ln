@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 22:22",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Soki bokopesa ye mpasi ya solo, soki asapa mokuse epai ya ngai, nakoyoka mongongo na ye ya solo.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "soki"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "ya solo"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "bokopesa mpasi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "אם",
+      "gloss": "soki"
+    },
+    {
+      "surface": "צעק",
+      "gloss": "mokuse"
+    },
+    {
+      "surface": "יצעע",
+      "gloss": "asapa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "epai ya ngai"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nako"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "yoka ya solo"
+    },
+    {
+      "surface": "צעקתו",
+      "gloss": "mongongo na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T16:25:11.279596935Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 34:7",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 34,
+  "translation": "Mpe banyama ya zamba minene bakokita elongo na bango, mpe bantore elongo na bamakasi; mabele na bango ekosota makoki, mpe puturu na bango na mafuta ekoyangama.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "bakokita"
+    },
+    {
+      "surface": "ראמים",
+      "gloss": "banyama ya zamba minene"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "elongo na bango"
+    },
+    {
+      "surface": "ופרים",
+      "gloss": "mpe bantore"
+    },
+    {
+      "surface": "עם",
+      "gloss": "elongo na"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "bamakasi"
+    },
+    {
+      "surface": "ורותה",
+      "gloss": "ekosota"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "mabele na bango"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "makoki"
+    },
+    {
+      "surface": "ועפרם",
+      "gloss": "mpe puturu na bango"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "na mafuta"
+    },
+    {
+      "surface": "ידשן",
+      "gloss": "ekoyangama"
+    }
+  ],
+  "timestamp": "2026-09-03T19:28:19.872009949Z",
+  "model": "glm-5.3"
+}

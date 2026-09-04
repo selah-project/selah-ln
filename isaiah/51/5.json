@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 51:5",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 51,
+  "translation": "Bosembo na ngai ezali pene, lobiko na ngai ebimi, mpe loboko na ngai ekokata mabe na bikolo; bizinga bazali kozela epai na ngai, mpe na loboko na ngai bazali kozela na elikya.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "ezali pene"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "bosembo na ngai"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ebimi"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "lobiko na ngai"
+    },
+    {
+      "surface": "וזרעי",
+      "gloss": "mpe loboko na ngai"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "bikolo"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "bakokata mabe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "epai na ngai"
+    },
+    {
+      "surface": "איים",
+      "gloss": "bizinga"
+    },
+    {
+      "surface": "יקוו",
+      "gloss": "bazali kozela"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mpe epai na"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "loboko na ngai"
+    },
+    {
+      "surface": "ייחלון",
+      "gloss": "bazali kozela na elikya"
+    }
+  ],
+  "timestamp": "2026-09-03T19:35:47.299981368Z",
+  "model": "glm-5.3"
+}

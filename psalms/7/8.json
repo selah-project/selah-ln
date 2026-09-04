@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 7:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mpe lisanga ya bikolo ekolinga yo ⟨na nzela⟩, mpe likolo na yango na likolo monene zonga.",
+  "tokens": [
+    {
+      "surface": "ועדת",
+      "gloss": "Mpe lisanga"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ya bikolo"
+    },
+    {
+      "surface": "תסובבך",
+      "gloss": "ekolinga yo"
+    },
+    {
+      "surface": "ועליה",
+      "gloss": "mpe likolo na yango"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "na likolo monene"
+    },
+    {
+      "surface": "שובה",
+      "gloss": "zonga"
+    }
+  ],
+  "timestamp": "2026-09-03T21:00:41.151624925Z",
+  "model": "glm-5.3"
+}

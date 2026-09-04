@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 42:2",
+  "book": "job",
+  "lang": "ln",
+  "chapter": 42,
+  "translation": "Nazali koyeba ete okoki biloko nyonso, mpe mokano moko te ekangami na yo.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "Nazali koyeba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "כל",
+      "gloss": "biloko nyonso"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "okoki"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "יבצר",
+      "gloss": "ekangami"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "na yo"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "mokano"
+    }
+  ],
+  "timestamp": "2026-09-03T22:05:13.551267316Z",
+  "model": "glm-5.3"
+}

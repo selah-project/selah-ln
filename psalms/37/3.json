@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 37:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 37,
+  "translation": "Kondama na Yawe mpe sala malamu, fanda mabele, mpe bota bokoki.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "Kondama"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "na Yawe"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "mpe sala"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "malamu"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "fanda"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "mpe bota"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "bokoki"
+    }
+  ],
+  "timestamp": "2026-09-03T21:09:16.270869124Z",
+  "model": "glm-5.3"
+}

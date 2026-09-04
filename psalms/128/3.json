@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 128:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 128,
+  "translation": "Mwasi na yo lokola nzete ya divai oyo eboti bimbongo, kati ya ndako na yo; bana na yo lokola banzete ya maole, zingazinga na mesa na yo.",
+  "tokens": [
+    {
+      "surface": "אשתך",
+      "gloss": "Mwasi na yo"
+    },
+    {
+      "surface": "כגפן",
+      "gloss": "lokola nzete ya divai"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "oyebani na bimbongo \/ eboti bimbongo"
+    },
+    {
+      "surface": "בירכתי",
+      "gloss": "kati"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ya ndako na yo"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "bana na yo"
+    },
+    {
+      "surface": "כשתלי",
+      "gloss": "lokola banzete"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "ya maole"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "zingazinga"
+    },
+    {
+      "surface": "לשלחנך",
+      "gloss": "na mesa na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:33:04.245030451Z",
+  "model": "glm-5.3"
+}

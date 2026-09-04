@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 23:15",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Mpe David alingaki, mpe alobaki: Nani akomelisa ngai mai na libulu ya Betlehem, oyo ezali na porte?",
+  "tokens": [
+    {
+      "surface": "ויתאוה",
+      "gloss": "alingaki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Nani"
+    },
+    {
+      "surface": "יישקני",
+      "surface-note": "",
+      "gloss": "akomelisa ngai"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mai"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "na libulu ya"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "lehem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "na porte"
+    }
+  ],
+  "timestamp": "2026-09-03T18:41:19.874239020Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 3:4",
+  "book": "jonah",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Yona abandaki kokota na mboka, nzela ya mokolo moko, mpe akangaki mongongo mpe alobaki eti: Naino mikolo ntuku minei, mpe Nineve ekobalama.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "abandaki"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yona"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "kokota"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "na mboka"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "nzela"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mokolo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "moko"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "mpe akangaki mongongo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "naino"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ntuku minei"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mikolo"
+    },
+    {
+      "surface": "ונינוה",
+      "gloss": "mpe Nineve"
+    },
+    {
+      "surface": "נהפכת",
+      "gloss": "ekobalama"
+    }
+  ],
+  "timestamp": "2026-09-03T23:31:59.849966718Z",
+  "model": "glm-5.3"
+}

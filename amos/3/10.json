@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 3:10",
+  "book": "amos",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe bayebi te kosala bolenge ya sembo, liloba ya Yawe — bayamboli makasi mpe libombi na bandako-nkengi na bango.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Mpe ... te"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "bayebi"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "kosala"
+    },
+    {
+      "surface": "נכחה",
+      "gloss": "bolenge ya sembo"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "liloba ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "האוצרים",
+      "gloss": "bayamboli"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "makasi"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "mpe libombi"
+    },
+    {
+      "surface": "בארמנותיהם",
+      "gloss": "na bandako-nkengi na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T20:42:52.555151124Z",
+  "model": "glm-5.3"
+}

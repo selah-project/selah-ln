@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 21:8",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Mpe mwana akolaki mpe atikaki mabele; mpe Avraham asalaki mbale monene na mokolo ya botiki mabele ⟨את⟩ Yitshak.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "mpe akolaki"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "ויגמל",
+      "gloss": "mpe atikaki mabele"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "mpe asalaki"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "mbale"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "monene"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na mokolo"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "ya botiki mabele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitshak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    }
+  ],
+  "timestamp": "2026-09-03T15:53:50.413827710Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 10:16",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Yawe azali mokonzi kino sekelo mpe libela; bikolo ebungisami na mabele na ye.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "azali mokonzi"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "kino sekelo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "mpe libela"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "ebungisami"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bikolo"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "na mabele na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:02:18.873130060Z",
+  "model": "glm-5.3"
+}

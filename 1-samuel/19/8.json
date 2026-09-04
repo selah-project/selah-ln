@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 19:8",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Mpe etumba ezongaki ⟨kozala⟩, mpe David abimaki mpe alalaki etumba na Moplisita, mpe akubwaki na bango kubwa monene, mpe bakimaki liboso na ye.",
+  "tokens": [
+    {
+      "surface": "ותוסף",
+      "gloss": "mpe ezongaki"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "etumba"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "kozala"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "mpe abimaki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "mpe alalaki etumba"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "na Moplisita"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "mpe akubwaki"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "kubwa"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "monene"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "mpe bakimaki"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "liboso na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T18:19:06.211073994Z",
+  "model": "glm-5.3"
+}

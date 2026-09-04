@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 132:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 132,
+  "translation": "soki nakopesa boboi na miso na ngai, na misunzu ya miso — boboi ya moke.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "soki"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "nakopesa"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "boboi"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "na miso na ngai"
+    },
+    {
+      "surface": "לעפעפי",
+      "gloss": "na misunzu ya miso"
+    },
+    {
+      "surface": "תנומה",
+      "gloss": "boboi ya moke"
+    }
+  ],
+  "timestamp": "2026-09-03T21:33:34.696530762Z",
+  "model": "glm-5.3"
+}

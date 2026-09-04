@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 21:6",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Mpe nakokuna ⟨את⟩ bato oyo bafandi mboka oyo, mpe ⟨את⟩ moto, mpe ⟨את⟩ nyama: bakufa na maladi monene.",
+  "tokens": [
+    {
+      "surface": "והכיתי",
+      "gloss": "Mpe nakokuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bato oyo bafandi mboka oyo"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "bato oyo bafandi"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mboka"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "moto"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "moto"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "nyama"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "na maladi"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "monene"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "bakufa"
+    }
+  ],
+  "timestamp": "2026-09-03T19:52:21.312159709Z",
+  "model": "glm-5.3"
+}

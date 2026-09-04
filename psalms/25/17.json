@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 25:17",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Makama ya motema na ngai ekomi minene; na makama na ngai bimisa ngai.",
+  "tokens": [
+    {
+      "surface": "צרות",
+      "gloss": "makama"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "ya motema na ngai"
+    },
+    {
+      "surface": "הרחיבו",
+      "gloss": "ekomi minene"
+    },
+    {
+      "surface": "ממצוקותי",
+      "gloss": "na makama na ngai"
+    },
+    {
+      "surface": "הוציאני",
+      "gloss": "bimisa ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:05:52.572873414Z",
+  "model": "glm-5.3"
+}

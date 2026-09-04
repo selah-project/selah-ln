@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 3:18",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Namaki ngai na motema na ngai likolo ya ntina ya bana ya moto, mpo Elohim akomeka bango, mpe bango bamona ete bango na bango bazali banyama.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "namaki"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "na motema na ngai"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "ntina"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ya moto"
+    },
+    {
+      "surface": "לברם",
+      "gloss": "mpo akomeka bango"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ולראות",
+      "gloss": "mpe bango bamona"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "ete bango"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "banyama"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bango"
+    },
+    {
+      "surface": "להם",
+      "gloss": "na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T22:13:31.038154529Z",
+  "model": "glm-5.3"
+}

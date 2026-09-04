@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 20:20",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 20,
+  "translation": "Mpe Moshe alobaki epai ya bato: Bobanga te; mpo Elohim ayei mpo akomeka ⟨את⟩ bino, mpe mpo bobangi na ye ezala liboso ya bino, mpo bonyoke te.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "bobanga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "לבעבור",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "נסות",
+      "gloss": "akomeka"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "bino"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ayei"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ובעבור",
+      "gloss": "mpe mpo"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ezala"
+    },
+    {
+      "surface": "יראתו",
+      "gloss": "bobangi na ye"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "liboso ya bino"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "mpo te ete"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "bonyoke"
+    }
+  ],
+  "timestamp": "2026-09-03T16:23:43.399558038Z",
+  "model": "glm-5.3"
+}

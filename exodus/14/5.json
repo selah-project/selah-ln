@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 14:5",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Eyebisamaki epai ya mokonzi ya Mitsraim ete bato bakimaki; mpe motema ya Parao mpe ya basaleli na ye ebongwanaki epai ya bato; mpe balobaki: Nini oyo tosalaki, ete totilisaki ⟨את⟩ Israel na kosalela biso?",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "eyebisamaki"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "epai ya mokonzi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "bakimaki"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "ויהפך",
+      "gloss": "mpe ebongwanaki"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "motema"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "ויעבדיו",
+      "gloss": "mpe ya basaleli na ye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "mpe balobaki"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Nini"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "עשינו",
+      "gloss": "tosalaki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "שלחנו",
+      "gloss": "totolisaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מעבדנו",
+      "gloss": "na kosalela biso"
+    }
+  ],
+  "timestamp": "2026-09-03T16:19:51.018704758Z",
+  "model": "glm-5.3"
+}

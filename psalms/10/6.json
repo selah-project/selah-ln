@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 10:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Alobi na motema na ye: Nakokwea te, libota na libota, oyo ye na mabe te.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "alobi"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "na motema na ye"
+    },
+    {
+      "surface": "בל",
+      "gloss": "te"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "nakokwea"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "libota"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "mpe libota"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "na mabe"
+    }
+  ],
+  "timestamp": "2026-09-03T21:02:33.710308561Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 9:15",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Mpe Yawe asololaki ⟨את⟩ matoyi ya Shemuel, mokolo moko liboso ya bokoya ya Shaul, alobi:",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Mpe Yawe"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "asololaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matoyi ya Shemuel"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "matoyi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mokolo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "moko"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "bokoya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "alobi"
+    }
+  ],
+  "timestamp": "2026-09-03T18:14:17.053607091Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 40:5",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 40,
+  "translation": "Mpe otya ⟨את⟩ etanda ya wolo mpo na nkanga liboso ya sanduku ya litatoli, mpe otya ⟨את⟩ lambiri ya nzela ya bandaku.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "mpe otya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "etanda"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "etanda"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ya wolo"
+    },
+    {
+      "surface": "לקטרת",
+      "gloss": "mpo na nkanga"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduku"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ya litatoli"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "mpe otya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lambiri"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "lambiri"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "ya nzela"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "ya bandaku"
+    }
+  ],
+  "timestamp": "2026-09-03T16:38:28.025774007Z",
+  "model": "glm-5.3"
+}

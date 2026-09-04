@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 44:3",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 44,
+  "translation": "Mpo nakopela mai na motungi, mpe miselo na mabele mokau; nakopela elimo na ngai na mbota na yo, mpe mapamboli na ngai na bana na yo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "אצק",
+      "gloss": "nakopela"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mai"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "motungi"
+    },
+    {
+      "surface": "ונזלים",
+      "gloss": "mpe miselo"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "mabele mokau"
+    },
+    {
+      "surface": "אצק",
+      "gloss": "nakopela"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "elimo na ngai"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "mbota na yo"
+    },
+    {
+      "surface": "וברכתי",
+      "gloss": "mpe mapamboli na ngai"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "צאצאיך",
+      "gloss": "bana na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T19:31:25.795127446Z",
+  "model": "glm-5.3"
+}

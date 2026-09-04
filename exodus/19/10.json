@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 19:10",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Yawe alobaki na Moshe: Kende epai ya bato, mpe obongisi bato boye bakomi basantu lolo mpe lobi, mpe bakosukola elamba na bango.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Kende"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "וקדשתם",
+      "gloss": "obongisi bato boye bakomi basantu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lolo"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "mpe lobi"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "mpe bakosukola"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "elamba na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:22:36.045434810Z",
+  "model": "glm-5.3"
+}

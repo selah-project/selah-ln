@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 44:25",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 44,
+  "translation": "Mpo na nini ozali kobomba elongi na yo, mpe ozali kobwela mabe na biso mpe makanzo na biso?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Mpo na nini"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "elongi na yo"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "ozali kobomba"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "ozali kobwela mabe"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "mabe na biso"
+    },
+    {
+      "surface": "ולחצנו",
+      "gloss": "mpe makanzo na biso"
+    }
+  ],
+  "timestamp": "2026-09-03T21:11:01.923504437Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 67:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 67,
+  "translation": "Bakongo bakosepela mpe bakoyemba, mpo ozali kosolola bato na bosolo, mpe bakongo na mabele okokamba bango. Selah.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "bakosepela"
+    },
+    {
+      "surface": "וירננו",
+      "gloss": "mpe bakoyemba"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "bakongo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "תשפט",
+      "gloss": "ozali kosolola"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "bato"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "na bosolo"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "mpe bakongo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "תנחם",
+      "gloss": "okokamba bango"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-03T21:15:53.375421571Z",
+  "model": "glm-5.3"
+}

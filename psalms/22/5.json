@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 22:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Na yo ba-tata na biso bandimaki; bandimaki, mpe Oolombi bango.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "Na yo"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "bandimaki"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "ba-tata na biso"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "bandimaki"
+    },
+    {
+      "surface": "ותפלטמו",
+      "gloss": "mpe Oolombi bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:03:46.881464219Z",
+  "model": "glm-5.3"
+}

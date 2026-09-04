@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-samuel 17:38",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 17,
+  "translation": "Mpe Shaul aktaki ⟨את⟩ David na bilamba na ye, mpe atyaki kovre ya nkasa na motó na ye, mpe aktaki ⟨את⟩ ye na kombati ya bitumba.",
+  "tokens": [
+    {
+      "surface": "וילבש",
+      "gloss": "Mpe aktaki"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מדיו",
+      "gloss": "na bilamba na ye"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "mpe atyaki"
+    },
+    {
+      "surface": "קובע",
+      "gloss": "kovre"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ya nkasa"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "motó na ye"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "mpe aktaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ye"
+    },
+    {
+      "surface": "שריון",
+      "gloss": "kombati ya bitumba"
+    }
+  ],
+  "timestamp": "2026-09-03T18:19:18.762551832Z",
+  "model": "glm-5.3"
+}

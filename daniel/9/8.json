@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 9:8",
+  "book": "daniel",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Yawe, na biso ezali soni ya bilongo, epai ya bakonzi na biso, bakambi na biso, mpe batata na biso, mpo totomboki epai na yo",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "na biso"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "soni"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "ya bilongo"
+    },
+    {
+      "surface": "למלכינו",
+      "gloss": "epai ya bakonzi na biso"
+    },
+    {
+      "surface": "לשרינו",
+      "gloss": "bakambi na biso"
+    },
+    {
+      "surface": "ולאבתינו",
+      "gloss": "mpe batata na biso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "totomboki"
+    },
+    {
+      "surface": "לך",
+      "gloss": "epai na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T22:26:11.098718894Z",
+  "model": "glm-5.3"
+}

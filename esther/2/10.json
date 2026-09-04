@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 2:10",
+  "book": "esther",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Ester ayebisaki te ⟨את⟩ ekolo na yango mpe ⟨את⟩ mbotama na yango, mpo Modekai atyaki mibeko na yango ete ayebisa te.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "ayebisaki"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ekolo na yango"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "ekolo na yango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mbotama na yango"
+    },
+    {
+      "surface": "מולדתה",
+      "gloss": "mbotama na yango"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Modekai"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "atyaki mibeko"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ete"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תגיד",
+      "gloss": "ayebisa"
+    }
+  ],
+  "timestamp": "2026-09-03T22:16:57.870134186Z",
+  "model": "glm-5.3"
+}

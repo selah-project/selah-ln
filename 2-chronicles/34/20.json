@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 34:20",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 34,
+  "translation": "Mpe mokonzi atindaki ⟨את⟩ Hilkia mpe ⟨את⟩ Ahikam mwana wa Shaphan mpe ⟨את⟩ Abdon mwana wa Mika mpe ⟨את⟩ Shaphan mokomi mpe ⟨את⟩ Asaya mosumali wa mokonzi, alobi:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Mpe atindaki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hilkia"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "Hilkia"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Ahikam"
+    },
+    {
+      "surface": "אחיקם",
+      "gloss": "Ahikam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Shaphan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Abdon"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Abdon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Mika"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Shaphan"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Shaphan"
+    },
+    {
+      "surface": "הסופר",
+      "gloss": "mokomi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Asaya"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "Asaya"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "mosumali wa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "alobi"
+    }
+  ],
+  "timestamp": "2026-09-03T23:09:58.290441907Z",
+  "model": "glm-5.3"
+}

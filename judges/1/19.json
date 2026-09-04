@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "judges 1:19",
+  "book": "judges",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Yawe azalaki ⟨את⟩ elongo na Yehuda, mpe atokaki ⟨את⟩ ngomba; kasi bakoki kolongola bafandi ya ebale te, mpo bazalaki na bikabu ya fer.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "azalaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ elongo na",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וירש",
+      "gloss": "mpe atokaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngomba"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ngomba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kasi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "להוריש",
+      "gloss": "kolongola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bafandi"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "bafandi"
+    },
+    {
+      "surface": "העמק",
+      "gloss": "ya ebale"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "bikabu"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "ya fer"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bazalaki na"
+    }
+  ],
+  "timestamp": "2026-09-03T17:56:15.801810965Z",
+  "model": "glm-5.3"
+}

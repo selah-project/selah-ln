@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 21:15",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Mpe abukaka te mbuta na ye kati na bato na ye, mpo ngai Yawe nazali kosantola ye.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "mpe ... te"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "abukaka"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "mbuta na ye"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "kati na bato na ye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מקדשו",
+      "gloss": "nazali kosantola ye"
+    }
+  ],
+  "timestamp": "2026-09-03T16:51:57.305363375Z",
+  "model": "glm-5.3"
+}

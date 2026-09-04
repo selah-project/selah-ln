@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 147:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 147,
+  "translation": "Azali kopesa nyama ya mabele bilei na yango, mpe na bana ya kolongo baye bakoka.",
+  "tokens": [
+    {
+      "surface": "נותן",
+      "gloss": "Azali kopesa"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "na nyama ya mabele"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "bilei na yango"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "na bana"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ya kolongo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "baye"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "bakoka"
+    }
+  ],
+  "timestamp": "2026-09-03T21:36:00.012028650Z",
+  "model": "glm-5.3"
+}

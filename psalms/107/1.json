@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 107:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 107,
+  "translation": "Boloba matondo na Yawe, mpo azali malamu, mpo hesed na ye ekotika te na ntango nionso.",
+  "tokens": [
+    {
+      "surface": "הדו",
+      "gloss": "Boloba matondo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "na Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "azali malamu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na ntango nionso"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed na ye ekotika te"
+    }
+  ],
+  "timestamp": "2026-09-03T21:28:21.202359769Z",
+  "model": "glm-5.3"
+}

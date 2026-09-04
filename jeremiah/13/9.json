@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 13:9",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Boti Yawe alobaki: ndenge wana nakolimwisa ⟨את⟩ lotomo ya Yehuda mpe ⟨את⟩ lotomo ya Yerushalaim, ⟨oyo ezali⟩ monene.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Boti"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "ndenge wana"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "nakolimwisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lotomo"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "lotomo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ya Yehuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "lotomo"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "lotomo"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ya Yerushalaim"
+    },
+    {
+      "surface": "הרב",
+      "gloss": "monene"
+    }
+  ],
+  "timestamp": "2026-09-03T19:49:02.722289289Z",
+  "model": "glm-5.3"
+}

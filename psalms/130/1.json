@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 130:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 130,
+  "translation": "Njembo ya bolai. Uta na mabulu ya minene nabengi yo, Yawe.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Njembo"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ya bolai"
+    },
+    {
+      "surface": "ממעמקים",
+      "gloss": "uta na mabulu ya minene"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "nabengi yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T21:33:32.175244203Z",
+  "model": "glm-5.3"
+}

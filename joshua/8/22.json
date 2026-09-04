@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 8:22",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe bango babimaki na engumba epai na bango, mpe bango etikalaki kati ya Israel — bango na mbala moko, mpe bango na mbala mosusu — mpe babomaki ⟨את⟩ bango, tii batikaki na ye te oyo azalaki na bomoi mpe oyo akimi.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Mpe bango"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "babimaki"
+    },
+    {
+      "surface": "מן",
+      "gloss": "na"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "engumba"
+    },
+    {
+      "surface": "לקראתם",
+      "gloss": "epai na bango"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "mpe bango ezalaki"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "kati"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bango"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "na mbala moko"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "mpe bango"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "na mbala mosusu"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "mpe babomaki"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ bango",
+      "marks": "bango"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tii"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "te"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "batikaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "oyo azalaki na bomoi"
+    },
+    {
+      "surface": "ופליט",
+      "gloss": "mpe oyo akimi"
+    }
+  ],
+  "timestamp": "2026-09-03T17:47:14.999068504Z",
+  "model": "glm-5.3"
+}

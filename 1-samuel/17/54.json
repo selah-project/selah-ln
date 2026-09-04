@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-samuel 17:54",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 17,
+  "translation": "Mpe David azwaki ⟨את⟩ moto ya Plishti yango, mpe amemaki yango na Yerushalaim, mpe ⟨את⟩ binzento na ye atyaki o kaa na ye.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "mpe azwaki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moto ya Plishti"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "ya Plishti"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "mpe amemaki yango"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "na Yerushalaim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "binzento na ye"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "binzento na ye"
+    },
+    {
+      "surface": "שם",
+      "gloss": "atyaki"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "o kaa na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T18:18:18.006904472Z",
+  "model": "glm-5.3"
+}

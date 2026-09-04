@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 87:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 87,
+  "translation": "Yawe alingaka bipata ya Tsion koleka mabanda nyonso ya Yaakov.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "alingaka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "bipata ya"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsion"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "koleka"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "mabanda"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-03T21:22:42.849604900Z",
+  "model": "glm-5.3"
+}

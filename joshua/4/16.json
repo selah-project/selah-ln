@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 4:16",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Tolaka ⟨את⟩ bakoheni batambwisi sanduku ya bonene, mpe bakomaka uta na Yorodano.",
+  "tokens": [
+    {
+      "surface": "צוה",
+      "gloss": "Tolaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bakoheni"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "bakoheni"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "batambwisi"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduku"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "ya bonene"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "mpe bakomaka"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uta"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "na Yorodano"
+    }
+  ],
+  "timestamp": "2026-09-03T17:43:16.656546672Z",
+  "model": "glm-5.3"
+}

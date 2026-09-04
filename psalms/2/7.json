@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 2:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Nakotangela mpo na eteke: Yawe alobaki na ngai: O mwana na ngai yo nde ozali; lelo oyo ngai nabotaki yo.",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "Nakotangela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mpo na"
+    },
+    {
+      "surface": "חק",
+      "gloss": "eteke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "בני",
+      "gloss": "O mwana na ngai"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lelo oyo"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "nabotaki yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:00:14.741856471Z",
+  "model": "glm-5.3"
+}

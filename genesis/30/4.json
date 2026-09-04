@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 30:4",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 30,
+  "translation": "Mpe apesaki ye ⟨את⟩ Bilha mosali na ye mwasi lokola mwasi, mpe Yaakov akotaki epai na ye.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "mpe apesaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bilha"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Bilha"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "mosali na ye mwasi"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "lokola mwasi"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "mpe akotaki"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "epai na ye"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-03T16:00:22.685223769Z",
+  "model": "glm-5.3"
+}

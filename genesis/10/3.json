@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 10:3",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Mpe bana ya Gomer: Ashkenaz, Rifat, mpe Togarma.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Mpe bana ya"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomer"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "Ashkenaz"
+    },
+    {
+      "surface": "וריפת",
+      "gloss": "Rifat"
+    },
+    {
+      "surface": "ותגרמה",
+      "gloss": "mpe Togarma"
+    }
+  ],
+  "timestamp": "2026-09-03T15:48:21.825357976Z",
+  "model": "glm-5.3"
+}

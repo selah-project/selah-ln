@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 5:5",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Yehuda mpe Israel bafandaki na libateli, moto na nse ya nzete na ye ya mputu mpe na nse ya nzete na ye ya tin, uta Dan mpaka Beer-Sheva, mokolo nyonso ya Shelomo.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "bafandaki"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "mpe Israel"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "na libateli"
+    },
+    {
+      "surface": "אישׁ",
+      "gloss": "moto"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "na nse ya"
+    },
+    {
+      "surface": "גפנו",
+      "gloss": "nzete na ye ya mputu"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "mpe na nse ya"
+    },
+    {
+      "surface": "תאנתו",
+      "gloss": "nzete na ye ya tin"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "uta Dan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mokolo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ya Shelomo"
+    }
+  ],
+  "timestamp": "2026-09-03T18:45:14.125325473Z",
+  "model": "glm-5.3"
+}

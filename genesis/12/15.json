@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 12:15",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Bakambi ya Parao bamonaki ⟨את⟩ ye, mpe basanjaki ⟨את⟩ ye epai ya Parao; mpe mwasi akangamaki na ndako ya Parao.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "bamonaki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ye"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Bakambi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ya Parao"
+    },
+    {
+      "surface": "ויהללו",
+      "gloss": "mpe basanjaki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "mpe akangamaki"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mwasi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "na ndako ya"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    }
+  ],
+  "timestamp": "2026-09-03T15:49:48.523373891Z",
+  "model": "glm-5.3"
+}

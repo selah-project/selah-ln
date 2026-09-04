@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 9:5",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Mpe ya solo, nakoluka ⟨את⟩ makila na bino, na ntina ya bomoi na bino, na maboko ya nyama nyonso nakoluka yango; mpe na maboko ya moto, na maboko ya moto ndeko na ye, nakoluka ⟨את⟩ bomoi ya moto.",
+  "tokens": [
+    {
+      "surface": "ואך",
+      "gloss": "Mpe ya solo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makila na bino"
+    },
+    {
+      "surface": "דמכם",
+      "gloss": "makila na bino"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "na ntina ya bomoi na bino"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "nakoluka"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "na maboko ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "אדרשנו",
+      "gloss": "nakoluka yango"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "mpe na maboko ya"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "moto"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "na maboko ya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ndeko na ye"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "nakoluka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bomoi ya moto"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "bomoi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "moto"
+    }
+  ],
+  "timestamp": "2026-09-03T15:46:41.187096298Z",
+  "model": "glm-5.3"
+}

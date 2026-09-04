@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 22:26",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Uta ⟨na⟩ yo nzembo na ngai ezali, na lisanga monene; mabondo na ngio nakokisa liboso ya baye bazali kobanga Yawe.",
+  "tokens": [
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ uta ⟨na⟩ yo",
+      "marks": "nzembo na ngai"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "nzembo na ngai"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "na lisanga"
+    },
+    {
+      "surface": "רב",
+      "gloss": "monene"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "mabondo na ngio"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "nakokisa"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "baye bazali kobanga Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T21:04:47.602851352Z",
+  "model": "glm-5.3"
+}

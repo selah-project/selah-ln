@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 12:3",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Mpe nabondisa baye bakobondisa yo, mpe oyo akotela yo nakotela; mpe na yo bakobondisama libota nyonso ya mabele.",
+  "tokens": [
+    {
+      "surface": "ואברכה",
+      "gloss": "Mpe nabondisa"
+    },
+    {
+      "surface": "מברכיך",
+      "gloss": "baye bakobondisa yo"
+    },
+    {
+      "surface": "ומקללך",
+      "gloss": "mpe oyo akotela yo"
+    },
+    {
+      "surface": "אאר",
+      "gloss": "nakotela"
+    },
+    {
+      "surface": "ונברכו",
+      "gloss": "mpe bakobondisama"
+    },
+    {
+      "surface": "בך",
+      "gloss": "na yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "libota"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ya mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T15:50:24.799203205Z",
+  "model": "glm-5.3"
+}

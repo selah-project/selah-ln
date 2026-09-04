@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezra 10:24",
+  "book": "ezra",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Mpe kati ya bayembi: Elyashiv. Mpe kati ya bakengeli ya porti: Shalum, mpe Telem, mpe Uri.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "mpe kati ya"
+    },
+    {
+      "surface": "המשררים",
+      "gloss": "bayembi"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "Elyashiv"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "mpe kati ya"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "bakengeli ya porti"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "Shalum"
+    },
+    {
+      "surface": "וטלם",
+      "gloss": "mpe Telem"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "mpe Uri"
+    }
+  ],
+  "timestamp": "2026-09-03T22:32:12.159395523Z",
+  "model": "glm-5.3"
+}

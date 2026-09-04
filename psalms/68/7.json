@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 68:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 68,
+  "translation": "Elohim azali kotya bamoko na ndako, abimaka babumbami na bolamu; kasi bampikoli bafandaka na mabele ya seke.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מושיב",
+      "gloss": "azali kotya"
+    },
+    {
+      "surface": "יחידים",
+      "gloss": "bamoko"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "na ndako"
+    },
+    {
+      "surface": "מוציא",
+      "gloss": "abimaka"
+    },
+    {
+      "surface": "אסירים",
+      "gloss": "babumbami"
+    },
+    {
+      "surface": "בכושרות",
+      "gloss": "na bolamu"
+    },
+    {
+      "surface": "אך",
+      "gloss": "kasi"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "bampikoli"
+    },
+    {
+      "surface": "שכנו",
+      "gloss": "bafandaka"
+    },
+    {
+      "surface": "צחיחה",
+      "gloss": "na mabele ya seke"
+    }
+  ],
+  "timestamp": "2026-09-03T21:16:45.006062601Z",
+  "model": "glm-5.3"
+}

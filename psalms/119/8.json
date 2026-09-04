@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 119:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Nakobatela ⟨את⟩ mibeko na yo; obanda ngai te penza!",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mibeko na yo"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "mibeko na yo"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "nakobatela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "obanda ngai"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "penza"
+    }
+  ],
+  "timestamp": "2026-09-03T21:30:32.304188939Z",
+  "model": "glm-5.3"
+}

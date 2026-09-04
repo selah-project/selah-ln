@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 119:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Nakotonda yo na bosolo ya motema, ntango nazali kotanga mateya ya bosolo na yo.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "nakotonda yo"
+    },
+    {
+      "surface": "בישר",
+      "gloss": "na bosolo"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ya motema"
+    },
+    {
+      "surface": "בלמדי",
+      "gloss": "ntango nazali kotanga"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "mateya"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "ya bosolo na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:30:32.304035136Z",
+  "model": "glm-5.3"
+}

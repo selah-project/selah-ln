@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 37:25",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 37,
+  "translation": "Nazalaki mwana, mpe nawuti na mbula, mpe namonaki moto ya bosemi atikama te, mpe mbota na ye koluka pan.",
+  "tokens": [
+    {
+      "surface": "נער",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "nazalaki"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "nawuti na mbula"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "namonaki"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "moto ya bosemi"
+    },
+    {
+      "surface": "נעזב",
+      "gloss": "atikama"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "mpe mbota na ye"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "koluka"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pan"
+    }
+  ],
+  "timestamp": "2026-09-03T23:34:30.754074718Z",
+  "model": "glm-5.3"
+}

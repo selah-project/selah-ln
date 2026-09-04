@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 42:20",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 42,
+  "translation": "Mpe ⟨את⟩ ndeko na bino ya moke bokoya na yango epai na ngai, mpe maloba na bino ekokanisama, mpe bokufa te; mpe basalaki bongo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "ndeko na bino ya moke"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "ndeko na bino"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "ya moke"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "bokoya na"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "epai na ngai"
+    },
+    {
+      "surface": "ויאמנו",
+      "gloss": "mpe ekokanisama"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "maloba na bino"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "bokufa"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "mpe basalaki"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bongo"
+    }
+  ],
+  "timestamp": "2026-09-03T16:09:13.559609738Z",
+  "model": "glm-5.3"
+}

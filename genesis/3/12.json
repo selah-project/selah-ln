@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 3:12",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe moto alobaki: Mwasi oyo opesaki na ngai, yango moko apepesaki ngai uta na nzete, mpe naliaki.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "moto"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mwasi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "opesaki"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yango moko"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "apepesaki"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uta"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "nzete"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "mpe naliaki"
+    }
+  ],
+  "timestamp": "2026-09-03T15:44:37.587618573Z",
+  "model": "glm-5.3"
+}

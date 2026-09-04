@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 17:10",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 17,
+  "translation": "Sudi ezalaki ya Efraim, mpe nordi ya Menashe, mpe mbu ezalaki ndelo na yango; mpe na Asher bakutanaki na nordi, mpe na Yisaskar na esti.",
+  "tokens": [
+    {
+      "surface": "נגבה",
+      "gloss": "sudi"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "ya Efraim"
+    },
+    {
+      "surface": "וצצפונה",
+      "gloss": "mpe nordi"
+    },
+    {
+      "surface": "למנשה",
+      "gloss": "ya Menashe"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mpe ezalaki"
+    },
+    {
+      "surface": "הים",
+      "gloss": "mbu"
+    },
+    {
+      "surface": "גבולו",
+      "gloss": "ndelo na yango"
+    },
+    {
+      "surface": "ובאשר",
+      "gloss": "mpe na Asher"
+    },
+    {
+      "surface": "יפגעון",
+      "gloss": "bakutanaki"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "na nordi"
+    },
+    {
+      "surface": "וביששכר",
+      "gloss": "mpe na Yisaskar"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "na esti"
+    }
+  ],
+  "timestamp": "2026-09-03T17:52:04.455755864Z",
+  "model": "glm-5.3"
+}

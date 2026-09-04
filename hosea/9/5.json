@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 9:5",
+  "book": "hosea",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Bokosala nini na mokolo ya mokutano, mpe na mokolo ya fete ya Yawe?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "bokosala"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "na mokolo ya"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "mokutano"
+    },
+    {
+      "surface": "וליום",
+      "gloss": "mpe na mokolo ya"
+    },
+    {
+      "surface": "חג",
+      "gloss": "fete"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T20:40:59.214911079Z",
+  "model": "glm-5.3"
+}

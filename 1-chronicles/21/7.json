@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 21:7",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Mpe ezalaki mabe na misu ya Elohim mpo na likambo oyo, mpe abetaki ⟨את⟩ Israel.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "mpe ezalaki mabe"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "na misu ya"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "mpo na"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "likambo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "mpe abetaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-03T22:48:26.987447692Z",
+  "model": "glm-5.3"
+}

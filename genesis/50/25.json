@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 50:25",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 50,
+  "translation": "Mpe Yosef amemaki ⟨את⟩ bana ya Israel kolapa, na koloba: kokanisa akokanisa Elohim ⟨את⟩ bino, mpe bokoyela ⟨את⟩ mikuwa na ngai uta wana.",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "amemaki kolapa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bana ya Israel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na koloba"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "kokanisa"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "akokanisa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ bino"
+    },
+    {
+      "surface": "והעלתם",
+      "gloss": "mpe bokoyela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mikuwa na ngai"
+    },
+    {
+      "surface": "עצמתי",
+      "gloss": "mikuwa na ngai"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "uta wana"
+    }
+  ],
+  "timestamp": "2026-09-03T16:11:57.037144900Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "1-kings 8:55",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe atelemani mpe abonisaki ⟨את⟩ lisanga nyonso ya Israel na mongongo monene, ati:",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "Mpe atelemani"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "mpe abonisaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lisanga nyonso ya Israel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "lisanga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "קול",
+      "gloss": "mongongo"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "monene"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ati"
+    }
+  ],
+  "timestamp": "2026-09-03T18:48:56.924437690Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 7:10",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mpe esalaki na nsuka ya mikolo nsambo, mpe mai minene ezalaki na likolo ya mabele.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mpe esalaki"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "na nsuka ya"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "mikolo nsambo"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "mpe mai"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "minene"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ezalaki"
+    },
+    {
+      "surface": "על",
+      "gloss": "na likolo ya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T15:46:58.623593341Z",
+  "model": "glm-5.3"
+}

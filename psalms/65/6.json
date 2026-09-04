@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 65:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 65,
+  "translation": "Na biloko ya kokamwa na bosolo oyambisaka biso, Elohim ya bomambo na biso, esika ya likoki ya nsose ya mabele nyonso mpe ya mbu ya mosika.",
+  "tokens": [
+    {
+      "surface": "נוראות",
+      "gloss": "biloko ya kokamwa"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "na bosolo"
+    },
+    {
+      "surface": "תעננו",
+      "gloss": "oyambisaka biso"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "ya bomambo na biso"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "esika ya likoki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "קצוי",
+      "gloss": "nsose"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "וים",
+      "gloss": "mpe mbu"
+    },
+    {
+      "surface": "רחקים",
+      "gloss": "ya mosika"
+    }
+  ],
+  "timestamp": "2026-09-03T21:16:03.622978117Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpo na likolo nyonso ezali ntango, mpe ntango mpo na mokemoke moko ya mposa na nse ya likolo.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "mpo na likolo nyonso"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "ezali ntango"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "mpe ntango"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "mpo na mokemoke moko"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ya mposa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "na nse ya"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "likolo"
+    }
+  ],
+  "timestamp": "2026-09-03T22:13:01.482128672Z",
+  "model": "glm-5.3"
+}

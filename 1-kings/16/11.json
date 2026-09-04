@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 16:11",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Mpe esalemaki, na bokonzi na ye, tango andimaki na kiti na ye, anyokaki ⟨את⟩ ndako nyonso ya Baasha; atikaki ⟨na⟩ ye te moto oyo apesi mai na ekongo, mpe bokengi na ye, mpe moninga na ye.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mpe esalemaki"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "na bokonzi na ye"
+    },
+    {
+      "surface": "כשבתו",
+      "gloss": "tango andimaki"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "kiti na ye"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "anyokaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndako nyonso ya Baasha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "ya Baasha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "atikaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "moto oyo apesi mai"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "na ekongo"
+    },
+    {
+      "surface": "וגאליו",
+      "gloss": "mpe bokengi na ye"
+    },
+    {
+      "surface": "ורעהו",
+      "gloss": "mpe moninga na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T23:24:49.930005471Z",
+  "model": "glm-5.3"
+}

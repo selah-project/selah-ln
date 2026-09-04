@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 139:16",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 139,
+  "translation": "Miso na yo emonaki ekotisi na ngai oyo esalemi te na tango wana; mpe na mokanda na yo mikolo nyonso ekomamaki, mikolo oyo etongamaki, mpe moko te na yango esalaki.",
+  "tokens": [
+    {
+      "surface": "גלמי",
+      "gloss": "ekotisi na ngai oyo esalemi te"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "emonaki"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "miso na yo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "mpe na"
+    },
+    {
+      "surface": "ספרך",
+      "gloss": "mokanda na yo"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "ekomamaki"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mikolo"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "etongamaki"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "moko"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:35:02.084552497Z",
+  "model": "glm-5.3"
+}

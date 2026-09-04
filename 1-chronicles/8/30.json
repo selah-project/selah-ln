@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 8:30",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe mwana na yango ya liboto Abdon, mpe Tsuri, mpe Kishi, mpe Baala, mpe Nadabu.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "Mpe mwana na yango"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "ya liboto"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Abdon"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "mpe Tsuri"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "mpe Kishi"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "mpe Baala"
+    },
+    {
+      "surface": "ונדב",
+      "gloss": "mpe Nadabu"
+    }
+  ],
+  "timestamp": "2026-09-03T22:43:17.480380903Z",
+  "model": "glm-5.3"
+}

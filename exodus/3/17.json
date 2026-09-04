@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 3:17",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe nalobi: Nakokolisa ⟨את⟩ bino libanda ya mawa ya Mitsraim, na mabele ya Kanaani, mpe ya Heiti, mpe ya Emori, mpe ya Perizi, mpe ya Hivi, mpe ya Yevusi, na mabele oyo ezali kosangela miliki na moi.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Mpe nalobi"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "Nakokolisa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ bino",
+      "marks": "bino"
+    },
+    {
+      "surface": "מעני",
+      "gloss": "mawa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "ya Kanaani"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "mpe ya Heiti"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "mpe ya Emori"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "mpe ya Perizi"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "mpe ya Hivi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "mpe ya Yevusi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "ezali kosangela"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "miliki"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "mpe moi"
+    }
+  ],
+  "timestamp": "2026-09-03T16:16:25.393615767Z",
+  "model": "glm-5.3"
+}

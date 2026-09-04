@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 145:17",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 145,
+  "translation": "Yawe ⟨azali⟩ sembo na banzela na ye nyonso, mpe ⟨azali⟩ moto ya hesed (bolingo ya kondima) na misala na ye nyonso.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "sembo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na ... nyonso"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "banzela na ye"
+    },
+    {
+      "surface": "וחסיד",
+      "gloss": "mpe moto ya hesed"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na ... nyonso"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "misala na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:36:42.714679108Z",
+  "model": "glm-5.3"
+}

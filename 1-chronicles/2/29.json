@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 2:29",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe kombo ya mwasi ya Avishur ⟨ezalaki⟩ Avihayil, mpe abotaki na ye ⟨את⟩ Ahban mpe ⟨את⟩ Molid.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "Mpe kombo"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ya mwasi"
+    },
+    {
+      "surface": "אבישור",
+      "gloss": "Avishur"
+    },
+    {
+      "surface": "אביהיל",
+      "gloss": "Avihayil"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "mpe abotaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ahban"
+    },
+    {
+      "surface": "אחבן",
+      "gloss": "Ahban"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Molid"
+    },
+    {
+      "surface": "מוליד",
+      "gloss": "Molid"
+    }
+  ],
+  "timestamp": "2026-09-03T22:40:12.433878066Z",
+  "model": "glm-5.3"
+}

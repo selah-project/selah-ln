@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 22:15",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Nakundamaki lokola mai, mpe mikuwa na ngai nyonso ekabwaki, motema na ngai ekomaki lokola donake, esololaki na kati ya libumu na ngai.",
+  "tokens": [
+    {
+      "surface": "כמים",
+      "gloss": "lokola mai"
+    },
+    {
+      "surface": "נשפכתי",
+      "gloss": "nakundamaki"
+    },
+    {
+      "surface": "והתפרדו",
+      "gloss": "mpe ekabwaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "mikuwa na ngai"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ekomaki"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "motema na ngai"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "lokola donake"
+    },
+    {
+      "surface": "נמס",
+      "gloss": "esololaki"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "na kati"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "libumu na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:04:31.361561926Z",
+  "model": "glm-5.3"
+}

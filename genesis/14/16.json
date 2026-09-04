@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 14:16",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Mpe azongisaki ⟨את⟩ bileko nyonso, ata ⟨את⟩ Lot ndeko na ye mpe bileko na ye azongisaki, ata ⟨את⟩ basi mpe ⟨את⟩ bato.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "azongisaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bileko nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "הרכש",
+      "gloss": "bileko"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lot ndeko na ye"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ndeko na ye"
+    },
+    {
+      "surface": "ורכשו",
+      "gloss": "mpe bileko na ye"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "azongisaki"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "basi"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "basi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    }
+  ],
+  "timestamp": "2026-09-03T15:50:32.513217772Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 55:16",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 55,
+  "translation": "Bolongo etela bango, bakita na Sheol na bomoi, mpo mabe ezali na bandako na bango, na kati na bango.",
+  "tokens": [
+    {
+      "surface": "ישימות",
+      "gloss": "Bolongo"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "etela bango"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "bakita"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "na Sheol"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "na bomoi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "במגורם",
+      "gloss": "na bandako na bango"
+    },
+    {
+      "surface": "בקרבם",
+      "gloss": "na kati na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:13:54.429774566Z",
+  "model": "glm-5.3"
+}

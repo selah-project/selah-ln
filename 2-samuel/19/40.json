@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "2-samuel 19:40",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Bato nyonso mpe bakatisaki ⟨את⟩ Yarden, mpe mokonzi akatisaki; mpe mokonzi asopelaki Barzilai mona, mpe atombolaki ye, mpe azongaki na esika na ye.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "mpe bakatisaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "mpe mokonzi"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "akatisaki"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "asopelaki mona"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "לברזלי",
+      "gloss": "Barzilai"
+    },
+    {
+      "surface": "ויברכהו",
+      "gloss": "mpe atombolaki ye"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "mpe azongaki"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "na esika na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T18:37:54.869552390Z",
+  "model": "glm-5.3"
+}

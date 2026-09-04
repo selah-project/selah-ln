@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 38:3",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 38,
+  "translation": "Mpe asalaki ⟨את⟩ bimiteli nyonso ya etanda: ⟨את⟩ mapai, mpe ⟨את⟩ bikoku, mpe ⟨את⟩ bikapo ya kopula, ⟨את⟩ bimanga ya kolia, mpe ⟨את⟩ bipai ya moto; bimiteli na yango nyonso asalaki na nkasa.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Mpe asalaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bimiteli nyonso ya etanda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "bimiteli"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ya etanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mapai"
+    },
+    {
+      "surface": "הסירת",
+      "gloss": "mapai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bikoku"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "bikoku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bikapo ya kopula"
+    },
+    {
+      "surface": "המזרקת",
+      "gloss": "bikapo ya kopula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bimanga ya kolia"
+    },
+    {
+      "surface": "המזלגת",
+      "gloss": "bimanga ya kolia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bipai ya moto"
+    },
+    {
+      "surface": "המחתת",
+      "gloss": "bipai ya moto"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "bimiteli na yango"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "asalaki"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "na nkasa"
+    }
+  ],
+  "timestamp": "2026-09-03T16:37:18.190226543Z",
+  "model": "glm-5.3"
+}

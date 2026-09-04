@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 47:16",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 47,
+  "translation": "Mpe Yosef alobaki: Pesa bibwele na bino, mpe nakopesa bino na bibwele na bino, soki mbongo esili.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "Pesa"
+    },
+    {
+      "surface": "מקניכם",
+      "gloss": "bibwele na bino"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "mpe nakopesa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bino"
+    },
+    {
+      "surface": "במקניכם",
+      "gloss": "na bibwele na bino"
+    },
+    {
+      "surface": "אם",
+      "gloss": "soki"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "esili"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "mbongo"
+    }
+  ],
+  "timestamp": "2026-09-03T16:11:10.784531602Z",
+  "model": "glm-5.3"
+}

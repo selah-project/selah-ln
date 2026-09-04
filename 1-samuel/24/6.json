@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 24:6",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "Ekaki nsima ya yango, mpe motema ya David moyunyaki ⟨את⟩ ye mpo na oyo akatakaki ⟨את⟩ elenge oyo ya Shaul.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Ekaki"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nsima ya"
+    },
+    {
+      "surface": "כן",
+      "gloss": "yango"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "mpe moyunyaki"
+    },
+    {
+      "surface": "לב",
+      "gloss": "motema ya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ye",
+      "marks": "ye"
+    },
+    {
+      "surface": "על",
+      "gloss": "mpo na"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "akatakaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elenge"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "elenge"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ya Shaul"
+    }
+  ],
+  "timestamp": "2026-09-03T18:21:11.518053502Z",
+  "model": "glm-5.3"
+}

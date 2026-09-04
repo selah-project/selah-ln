@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 31:15",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 31,
+  "translation": "Kasi ngai namipesaki epai ya yo, Yawe; nalobi: yo Eloai ⟨na ngai⟩.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Kasi ngai"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "epai ya yo"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "namipesaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nalobi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Eloai ⟨na ngai⟩"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:06:41.798487171Z",
+  "model": "glm-5.3"
+}

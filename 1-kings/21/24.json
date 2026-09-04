@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 21:24",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Oyo akufi na Ahav na mboka, mbwa bakolia yango; mpe oyo akufi na shanga, ndeke ya likolo bakolia yango.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "Oyo akufi"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "na Ahav"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "na mboka"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "bakolia"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "mbwa"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "mpe oyo akufi"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "na shanga"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "bakolia"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ndeke ya"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "likolo"
+    }
+  ],
+  "timestamp": "2026-09-03T18:54:52.418158855Z",
+  "model": "glm-5.3"
+}

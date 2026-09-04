@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 104:18",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 104,
+  "translation": "Bangomba ya likolo ezali mpo na yaeli; matumba ezali bombelo mpo na shafanim.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "bangomba"
+    },
+    {
+      "surface": "הגבהים",
+      "gloss": "ya likolo"
+    },
+    {
+      "surface": "ליעלים",
+      "gloss": "mpo na yaeli"
+    },
+    {
+      "surface": "סלעים",
+      "gloss": "matumba"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "bombelo"
+    },
+    {
+      "surface": "לשפנים",
+      "gloss": "mpo na shafanim"
+    }
+  ],
+  "timestamp": "2026-09-03T21:26:47.672920121Z",
+  "model": "glm-5.3"
+}

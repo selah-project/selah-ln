@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 3:6",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Ntango ya koluka, mpe ntango ya kolaka; ntango ya kobatela, mpe ntango ya kobwaka.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "Ntango"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "ya koluka"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "mpe ntango"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "ya kolaka"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ntango"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "ya kobatela"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "mpe ntango"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "ya kobwaka"
+    }
+  ],
+  "timestamp": "2026-09-03T22:12:38.951334313Z",
+  "model": "glm-5.3"
+}

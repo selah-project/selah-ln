@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 62:7",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 62,
+  "translation": "mpe bozua ye kimoya te, kino atombisa Yerushalaim, mpe kino atya ⟨את⟩ Yerushalaim nkembo na mabele.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "bozua"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "kimoya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "יכונן",
+      "gloss": "atombisa"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "mpe kino"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "atya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalaim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "nkembo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T19:39:08.977204887Z",
+  "model": "glm-5.3"
+}

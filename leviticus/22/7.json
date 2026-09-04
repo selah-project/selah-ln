@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 22:7",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Mpe tango solo ekwei, mpe ye amoni boyangi, mpe nsima akolia kati na biloko ya nsanko, mpo biloko ya kolia na ye yango ezali.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "mpe tango ekwei"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "solo"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "mpe amoni boyangi"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "mpe nsima"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "akolia"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kati na"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "biloko ya nsanko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "biloko ya kolia na ye"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yango ezali"
+    }
+  ],
+  "timestamp": "2026-09-03T16:51:45.678172127Z",
+  "model": "glm-5.3"
+}

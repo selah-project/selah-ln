@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 66:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 66,
+  "translation": "Boyela, mpe bomona misala ya Elohim, ezali ya kokamwisa na misala na yango likolo ya bana ya bato.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Boyela"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "mpe bomona"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "misala"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "ya kokamwisa"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "na misala"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "bato"
+    }
+  ],
+  "timestamp": "2026-09-03T21:15:59.743203341Z",
+  "model": "glm-5.3"
+}

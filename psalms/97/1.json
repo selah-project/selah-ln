@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 97:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 97,
+  "translation": "Yawe azwaki bokonzi; mabele esengeli kosangana; bapanga mingi bakoseka.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "azwaki bokonzi"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "esengeli kosangana"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "bakoseka"
+    },
+    {
+      "surface": "איים",
+      "gloss": "bapanga"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mingi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:24:50.287848397Z",
+  "model": "glm-5.3"
+}

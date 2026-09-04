@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 52:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 52,
+  "translation": "El mpe akobukisa yo libela; akokangaka ⟨yo⟩ mpe akolongola yo na nkobo na yo, mpe akotomba misisa na yo na mabele ya bomoi. Sela.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "יתצך",
+      "gloss": "akobukisa yo"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "libela"
+    },
+    {
+      "surface": "יחתך",
+      "gloss": "akokangaka ⟨yo⟩"
+    },
+    {
+      "surface": "ויסחך",
+      "gloss": "akolongola yo"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "na nkobo"
+    },
+    {
+      "surface": "ושרשך",
+      "gloss": "mpe akotomba misisa na yo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ya bomoi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-03T21:14:17.553693614Z",
+  "model": "glm-5.3"
+}

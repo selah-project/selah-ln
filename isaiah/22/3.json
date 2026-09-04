@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 22:3",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Bakonzi na yo nyonso bakimaki elongo, uta na uta bakangamaki; nyonso oyo bamonanaki na yo bakangamaki elongo, na mosika bakimaki.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "קציניך",
+      "gloss": "Bakonzi na yo"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "bakimaki"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "elongo"
+    },
+    {
+      "surface": "מקשת",
+      "gloss": "uta na uta"
+    },
+    {
+      "surface": "אסרו",
+      "gloss": "bakangamaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "נמצאיך",
+      "gloss": "oyo bamonanaki na yo"
+    },
+    {
+      "surface": "אסרו",
+      "gloss": "bakangamaki"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "elongo"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "na mosika"
+    },
+    {
+      "surface": "ברחו",
+      "gloss": "bakimaki"
+    }
+  ],
+  "timestamp": "2026-09-03T19:20:50.694432208Z",
+  "model": "glm-5.3"
+}

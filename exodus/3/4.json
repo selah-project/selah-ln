@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 3:4",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe Yawe amonaki ete ⟨ye⟩ amiti mpo na komona; mpe Elohim abobolaki ye kati ya zete, mpe alobaki: Moshe, Moshe. Mpe alobaki: Nazali awa.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "amonaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "סר",
+      "gloss": "⟨ye⟩ amiti"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "mpo na komona"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "abobolaki"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "kati ya"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "zete"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Nazali awa"
+    }
+  ],
+  "timestamp": "2026-09-03T16:14:06.384868654Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 26:6",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "Lokasa ekatakaka yango — makasa ya bato mawa, bokendeli ya bato ya mposa.",
+  "tokens": [
+    {
+      "surface": "תרמסנה",
+      "gloss": "ekatakaka yango"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "lokasa"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "makasa"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ya bato mawa"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "bokendeli"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "ya bato ya mposa"
+    }
+  ],
+  "timestamp": "2026-09-03T19:22:18.376798568Z",
+  "model": "glm-5.3"
+}

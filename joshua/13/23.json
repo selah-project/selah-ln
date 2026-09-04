@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 13:23",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Mpe ndelo ya bana ya Reuven ezalaki Yarden mpe ndelo na yango. Oyo ezalaki bozwi ya bana ya Reuven na bakiti na bango, bamboka mpe bibenga na yango.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mpe ... ezalaki"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ndelo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ya bana"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "ya Reuven"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "וגבול",
+      "gloss": "mpe ndelo"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "bozwi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ya bana"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "ya Reuven"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "na bakiti na bango"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "bamboka"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "mpe bibenga na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T17:48:43.637015712Z",
+  "model": "glm-5.3"
+}

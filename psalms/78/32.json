@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 78:32",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 78,
+  "translation": "Na yango nyonso basalaki masumu naino, mpe bondimaki te na makamwamwa na ye.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "Na nyonso"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "yango"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "basalaki masumu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "naino"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe ... te"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "bondimaki"
+    },
+    {
+      "surface": "בנפלאותיו",
+      "gloss": "na makamwamwa na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:20:11.337848495Z",
+  "model": "glm-5.3"
+}

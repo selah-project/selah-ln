@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 22:9",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Mpe bomonaki ⟨את⟩ bibukibi ya mboka ya David, mpo ebongwaki mingi, mpe bokangisaki ⟨את⟩ mai ya dibumba ya nse.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bibukibi ya mboka ya David"
+    },
+    {
+      "surface": "בקיעי",
+      "gloss": "bibukibi"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mboka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "bomonaki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "ebongwaki mingi"
+    },
+    {
+      "surface": "ותקבצו",
+      "gloss": "mpe bokangisaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mai ya dibumba ya nse"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mai"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "dibumba"
+    },
+    {
+      "surface": "התחתונה",
+      "gloss": "ya nse"
+    }
+  ],
+  "timestamp": "2026-09-03T19:20:41.417763361Z",
+  "model": "glm-5.3"
+}

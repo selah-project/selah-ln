@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 97:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 97,
+  "translation": "Babangi Yawe, bopela mabe: ⟨ye⟩ abateli bomoi ya basantu na ye, akangolaka bango na maboko ya mabe.",
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "Babangi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "שנאו",
+      "gloss": "bopela"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "abateli"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "bomoi"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "ya basantu na ye"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "na maboko ya"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "akangolaka bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:25:37.143641752Z",
+  "model": "glm-5.3"
+}

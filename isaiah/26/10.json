@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 26:10",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "Mbeba achaki ngolu, atangaki bosolo te; na mabele ya bosembo asalaki mabe, mpe amonaki nkembo ya Yawe te.",
+  "tokens": [
+    {
+      "surface": "יחן",
+      "gloss": "achaki ngolu"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mbeba"
+    },
+    {
+      "surface": "בל",
+      "gloss": "te"
+    },
+    {
+      "surface": "למד",
+      "gloss": "atangaki"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "bosolo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "נכחות",
+      "gloss": "ya bosembo"
+    },
+    {
+      "surface": "יעול",
+      "gloss": "asalaki mabe"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "amonaki"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "nkembo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T19:22:02.584716911Z",
+  "model": "glm-5.3"
+}

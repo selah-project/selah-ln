@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 109:24",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 109,
+  "translation": "Matega na ngai ekundukaki na kolya te, mpe mosopo na ngai ekangamaki na mafuta.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "matega na ngai"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "ekundukaki"
+    },
+    {
+      "surface": "מצום",
+      "gloss": "na kolya te"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "mpe mosopo na ngai"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "ekangamaki"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "na mafuta"
+    }
+  ],
+  "timestamp": "2026-09-03T21:28:57.492634005Z",
+  "model": "glm-5.3"
+}

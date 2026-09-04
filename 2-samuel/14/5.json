@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 14:5",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Mokonzi alobaki na yango: Nini ezali na yo? Yango alobaki: Ya solo, ngai nazali mwasi nkufu, mpe mobali na ngai akufaki.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "לה",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "לך",
+      "gloss": "na yo"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "ya solo"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mwasi"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "nkufu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "akufaki"
+    },
+    {
+      "surface": "אישי",
+      "gloss": "mobali na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T18:34:11.409057556Z",
+  "model": "glm-5.3"
+}

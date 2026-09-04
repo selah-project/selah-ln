@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 3:3",
+  "book": "hosea",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe nalobi na yango: mikolo mingi okozela ngai, okozala na bokosi te, mpe okozala na mobali te, mpe ngai mpe na yo.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "nalobi"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mikolo"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "mingi"
+    },
+    {
+      "surface": "תשבי",
+      "gloss": "okozela"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תזני",
+      "gloss": "okozala na bokosi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe okozala"
+    },
+    {
+      "surface": "תהיי",
+      "gloss": "na"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "mobali te"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai mpe"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T20:38:14.981122463Z",
+  "model": "glm-5.3"
+}

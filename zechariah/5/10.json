@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 5:10",
+  "book": "zechariah",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Mpe nabolaki epai ya malaka oyo atolaki na ngai: Bango batombolaka ⟨את⟩ epha epai nini?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "mpe nabolaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "malaka"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "oyo atolaki"
+    },
+    {
+      "surface": "בי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "epai nini"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bango"
+    },
+    {
+      "surface": "מולכות",
+      "gloss": "batombolaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "epha"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "epha"
+    }
+  ],
+  "timestamp": "2026-09-03T20:54:38.894843804Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 40:20",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 40,
+  "translation": "Mpe azwaki mpe atyaki ⟨את⟩ litatoli na kati ya Aron, mpe atyaki ⟨את⟩ bapole na Aron, mpe atyaki ⟨את⟩ Kaporet na Aron na likolo.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "azwaki"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "atyaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "litatoli"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "litatoli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na kati ya"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "atyaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bapole"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "bapole"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "atyaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kaporet"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "Kaporet"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Aron"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "na likolo"
+    }
+  ],
+  "timestamp": "2026-09-03T16:39:53.994702823Z",
+  "model": "glm-5.3"
+}

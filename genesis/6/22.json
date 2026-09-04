@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 6:22",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpe Noah asalaki ndenge nyonso oyo Elohim atindaki ⟨את⟩ ye boye; boye asalaki.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "mpe asalaki"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noah"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ndenge nyonso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "atindaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ye",
+      "marks": "Noah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "boye"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "asalaki"
+    }
+  ],
+  "timestamp": "2026-09-03T15:46:13.638011938Z",
+  "model": "glm-5.3"
+}

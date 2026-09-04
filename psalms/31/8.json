@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 31:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 31,
+  "translation": "Nakosekana mpe nasepelaka na hesed na yo, oyo omonaki ⟨את⟩ mawa na ngai; oyebaki makoyo oyo ezali na molimo na ngai.",
+  "tokens": [
+    {
+      "surface": "אגילה",
+      "gloss": "Nakosekana"
+    },
+    {
+      "surface": "ואשמחה",
+      "gloss": "mpe nasepelaka"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "na hesed na yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "omonaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawa na ngai"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "mawa na ngai"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "oyebaki"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "makoya"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "molimo na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:07:23.609320819Z",
+  "model": "glm-5.3"
+}

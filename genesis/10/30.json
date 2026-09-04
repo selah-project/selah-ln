@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 10:30",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Mabele ya bobahi na bango ezalaki uta Mesha, na bokendi na yango kino Sephara, ngomba ya monyele.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ezalaki"
+    },
+    {
+      "surface": "מושבם",
+      "gloss": "mabele ya bobahi na bango"
+    },
+    {
+      "surface": "ממשא",
+      "gloss": "uta Mesha"
+    },
+    {
+      "surface": "באכה",
+      "gloss": "na bokendi na yango"
+    },
+    {
+      "surface": "ספרה",
+      "gloss": "kino Sephara"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ngomba"
+    },
+    {
+      "surface": "הקדם",
+      "gloss": "ya monyele"
+    }
+  ],
+  "timestamp": "2026-09-03T23:11:14.007337169Z",
+  "model": "glm-5.3"
+}

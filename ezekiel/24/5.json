@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 24:5",
+  "book": "ezekiel",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "Bakɛti ya mbisi bomɛi, mpe mpe bonɔkɔ ya mikuwa nse na yango; bilasa bilasa yango, mpe bikela mikuwa na yango na kati na yango.",
+  "tokens": [
+    {
+      "surface": "מבחר",
+      "gloss": "bakɛti"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ya mbisi"
+    },
+    {
+      "surface": "לקוח",
+      "gloss": "bomɛi"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "mpe mpe"
+    },
+    {
+      "surface": "דור",
+      "gloss": "bonɔkɔ"
+    },
+    {
+      "surface": "העצמים",
+      "gloss": "ya mikuwa"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "nse na yango"
+    },
+    {
+      "surface": "רתח",
+      "gloss": "bilasa"
+    },
+    {
+      "surface": "רתחיה",
+      "gloss": "bilasa yango"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "בשלו",
+      "gloss": "bikela"
+    },
+    {
+      "surface": "עצמיה",
+      "gloss": "mikuwa na yango"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "na kati na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T20:23:21.413585830Z",
+  "model": "glm-5.3"
+}

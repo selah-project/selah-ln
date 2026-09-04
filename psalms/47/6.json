@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 47:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 47,
+  "translation": "Elohim atombaki na ndulé, Yawe na mongongo ya shofar.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "atombaki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "na ndulé"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "na mongongo"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "shofar"
+    }
+  ],
+  "timestamp": "2026-09-03T21:11:58.307236374Z",
+  "model": "glm-5.3"
+}

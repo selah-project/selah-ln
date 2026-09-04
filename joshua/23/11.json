@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 23:11",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Mpe bozala makasi mingi mpo na bomoi na bino, mpo na bolingo ⟨את⟩ Yawe Elohim na bino.",
+  "tokens": [
+    {
+      "surface": "ונשמרתם",
+      "gloss": "Mpe bozala makasi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mingi"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "mpo na bomoi na bino"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "mpo na bolingo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe Elohim na bino"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim na bino"
+    }
+  ],
+  "timestamp": "2026-09-03T17:54:29.120610694Z",
+  "model": "glm-5.3"
+}

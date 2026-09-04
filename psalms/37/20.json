@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 37:20",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 37,
+  "translation": "Mpo babubi bakobungaka, mpe banguna ya Yawe, lokola nguya ya bankosi, bakofinisama; na mpuya bakofinisama.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "babubi"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "bakobungaka"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "mpe banguna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yawe"
+    },
+    {
+      "surface": "כיקר",
+      "gloss": "lokola nguya"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "ya bankosi"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "bakofinisama"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "na mpuya"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "bakofinisama"
+    }
+  ],
+  "timestamp": "2026-09-03T21:09:23.136001391Z",
+  "model": "glm-5.3"
+}

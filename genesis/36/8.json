@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 36:8",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 36,
+  "translation": "Esav afandaki na ngomba ya Seir; Esav yango ⟨nde⟩ Edom.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "afandaki"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "na ngomba"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "ya Seir"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yango"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-09-03T16:03:51.141771624Z",
+  "model": "glm-5.3"
+}

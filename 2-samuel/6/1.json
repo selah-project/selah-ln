@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 6:1",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpe David alobaki lisusu: bakisá ⟨את⟩ baponami nyonso ya Israel, nkoto misato.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "alobaki lisusu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lisusu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baponami nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "baponami"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "nkoto misato"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "⟨milho⟩"
+    }
+  ],
+  "timestamp": "2026-09-03T18:31:43.798415440Z",
+  "model": "glm-5.3"
+}

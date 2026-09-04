@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-kings 8:49",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe okoyoka na likolo, esika ya kuvanda na yo, ⟨את⟩ losambo na bango mpe ⟨את⟩ bobele na bango, mpe okosala bosombo na bango.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "mpe okoyoka"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "likolo"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "esika"
+    },
+    {
+      "surface": "שבתך",
+      "gloss": "ya kuvanda na yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "losambo na bango"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "losambo na bango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bobele na bango"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "bobele na bango"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "mpe okosala"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "bosombo na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T18:47:26.616252997Z",
+  "model": "glm-5.3"
+}

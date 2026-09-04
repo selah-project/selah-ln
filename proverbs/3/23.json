@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 3:23",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Na yango okokwenda na kimya na nzela na yo, mpe lokasa na yo ekokangama te.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Na yango"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "okokwenda"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "na kimya"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "na nzela na yo"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "mpe lokasa na yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תגוף",
+      "gloss": "ekokangama"
+    }
+  ],
+  "timestamp": "2026-09-03T21:37:41.607668750Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 134:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 134,
+  "translation": "Nzembo ya botombwi. Talá, bokumisa ⟨את⟩ Yawe, basaleli nyonso ya Yawe, batelami na ndako ya Yawe na butu.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "nzembo"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ya botombwi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Talá"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "bokumisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "basaleli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "batelami"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "na ndako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "na butu"
+    }
+  ],
+  "timestamp": "2026-09-03T21:33:03.541220074Z",
+  "model": "glm-5.3"
+}

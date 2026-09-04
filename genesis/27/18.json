@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 27:18",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 27,
+  "translation": "mpe akendaki epai ya tata na ye mpe alobaki: tata na ngai; mpe alobaki: here ngai; nani yo, mwana na ngai?",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "mpe akendaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "tata na ye"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tata na ngai"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "here ngai"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nani"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mwana na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T15:59:23.706640795Z",
+  "model": "glm-5.3"
+}

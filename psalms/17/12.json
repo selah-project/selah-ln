@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 17:12",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 17,
+  "translation": "Bokannya na ye lokola nkoi oyo ebolelaka mpo na kokata-kata, mpe lokola nkoi ya moke afandi na bobombami.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "bokannya na ye"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "lokola nkoi"
+    },
+    {
+      "surface": "יכסוף",
+      "gloss": "ebolelaka"
+    },
+    {
+      "surface": "לטרוף",
+      "gloss": "mpo na kokata-kata"
+    },
+    {
+      "surface": "וככפיר",
+      "gloss": "mpe lokola nkoi ya moke"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "afandi"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "na bobombami"
+    }
+  ],
+  "timestamp": "2026-09-03T21:01:45.509055776Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 2:17",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Oyo abandaki moninga ya bilenge na ye, mpe abosani ⟨את⟩ bokli ya Elohim na ye.",
+  "tokens": [
+    {
+      "surface": "העזבת",
+      "gloss": "oyo abandaki"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "moninga"
+    },
+    {
+      "surface": "נעוריה",
+      "gloss": "ya bilenge na ye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bokli"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "bokli"
+    },
+    {
+      "surface": "אלהיה",
+      "gloss": "ya Elohim na ye"
+    },
+    {
+      "surface": "שכחה",
+      "gloss": "abosani"
+    }
+  ],
+  "timestamp": "2026-09-03T21:38:00.273856044Z",
+  "model": "glm-5.3"
+}

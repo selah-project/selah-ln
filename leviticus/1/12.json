@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 1:12",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe akabola ⟨את⟩ yango na biteni na yango, mpe ⟨את⟩ mutu na yango mpe ⟨את⟩ mavuta na yango; mpe kohen akolakisa ⟨את⟩ yango epai ya banzete, oyo ezali epai ya moto, oyo ezali epai ya auteli.",
+  "tokens": [
+    {
+      "surface": "ונתח",
+      "gloss": "mpe akabola"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yango"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "na biteni na yango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mutu na yango"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "mutu na yango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mavuta na yango"
+    },
+    {
+      "surface": "פדרו",
+      "gloss": "mavuta na yango"
+    },
+    {
+      "surface": "וערך",
+      "gloss": "mpe akolakisa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "yango"
+    },
+    {
+      "surface": "על",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "banzete"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "האש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "auteli"
+    }
+  ],
+  "timestamp": "2026-09-03T16:40:15.507917369Z",
+  "model": "glm-5.3"
+}

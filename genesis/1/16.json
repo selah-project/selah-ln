@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 1:16",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe Elohim asalaki ⟨את⟩ bimoniseli mibale minene: ⟨את⟩ bimoniseli monene mpo na bokonzi ya mokolo, mpe ⟨את⟩ bimoniseli ya moke mpo na bokonzi ya butu, mpe ⟨את⟩ betu.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Mpe asalaki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bimoniseli mibale minene"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "המארת",
+      "gloss": "bimoniseli"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "minene"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bimoniseli monene"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "bimoniseli"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "monene"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "mpo na bokonzi"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ya mokolo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bimoniseli ya moke"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "bimoniseli"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "ya moke"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "mpo na bokonzi"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ya butu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "betu"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "betu"
+    }
+  ],
+  "timestamp": "2026-09-03T15:43:56.173079386Z",
+  "model": "glm-5.3"
+}

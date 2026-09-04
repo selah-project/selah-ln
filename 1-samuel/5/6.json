@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 5:6",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Mpe loboko ya Yawe ekangaki makasi na bato ya Ashdod, mpe abebisaki bango, mpe abetaki ⟨את⟩ bango na bitoma, ⟨את⟩ Ashdod mpe ⟨את⟩ ndelo na yango.",
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "mpe ekangaki makasi"
+    },
+    {
+      "surface": "יד",
+      "gloss": "loboko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "האשדודים",
+      "gloss": "bato ya Ashdod"
+    },
+    {
+      "surface": "וישמם",
+      "gloss": "mpe abebisaki bango"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "mpe abetaki"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bango",
+      "marks": "bitoma (ba-afolimi)"
+    },
+    {
+      "surface": "בעפלים",
+      "gloss": "na bitoma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashdod"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Ashdod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "ndelo na yango"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "ndelo na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T23:19:36.760938050Z",
+  "model": "glm-5.3"
+}

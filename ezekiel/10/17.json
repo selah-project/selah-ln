@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 10:17",
+  "book": "ezekiel",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Na ntango ya botelami na bango, bibele wana batelamaki; mpe na ntango ya bolakisama na bango, wana mpe balakisamaki ⟨na bango⟩; mpo mpema ya elomo ya bomoi ezalaki na kati na bango.",
+  "tokens": [
+    {
+      "surface": "בעמדם",
+      "gloss": "na ntango ya botelami na bango"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "batelamaki"
+    },
+    {
+      "surface": "וברומם",
+      "gloss": "mpe na ntango ya bolakisama na bango"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "balakisamaki"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "bibele wana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mpema"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "ya elomo ya bomoi"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "na kati na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T20:14:01.694564562Z",
+  "model": "glm-5.3"
+}

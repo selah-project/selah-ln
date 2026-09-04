@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 91:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 91,
+  "translation": "Na lipaya na yeye akopingisa yo, mpe na nse ya mapaya na yeye okobombama; emboko mpe esika-bokengi ⟨ezali⟩ bosembo na yeye.",
+  "tokens": [
+    {
+      "surface": "באברתו",
+      "gloss": "na lipaya na yeye"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "akopingisa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yo"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "mpe na nse"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "ya mapaya na yeye"
+    },
+    {
+      "surface": "תחסה",
+      "gloss": "okobombama"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "emboko"
+    },
+    {
+      "surface": "וסחרה",
+      "gloss": "mpe esika-bokengi"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "bosembo na yeye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:25:12.540566904Z",
+  "model": "glm-5.3"
+}

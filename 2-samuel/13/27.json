@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 13:27",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Mpe Avshalom akangaki makasi na ye, mpe atindaki ⟨את⟩ elongo na ye ⟨את⟩ Anononi mpe ⟨את⟩ bana nyonso ya mokonzi.",
+  "tokens": [
+    {
+      "surface": "ויפרץ",
+      "gloss": "akangaki makasi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "atindaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ elongo na ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Anononi"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Anononi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bana nyonso ya mokonzi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya mokonzi"
+    }
+  ],
+  "timestamp": "2026-09-03T18:33:44.300806405Z",
+  "model": "glm-5.3"
+}

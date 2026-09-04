@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 11:2",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Loba sika te na matoyi ya bato, mpe basesengi: moto na ⟨את⟩ moninga na ye, mpe mwasi na ⟨את⟩ moninga na ye mwasi, biloko ya mpembe mpe biloko ya wolo.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Loba"
+    },
+    {
+      "surface": "נא",
+      "gloss": "sika te"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "na matoyi ya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "mpe basesengi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "na ⟨את⟩",
+      "marks": "moninga na ye"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "moninga na ye"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "mpe mwasi"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "na ⟨את⟩",
+      "marks": "moninga na ye mwasi"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "moninga na ye mwasi"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "biloko ya"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "mpembe"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "mpe biloko ya"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "wolo"
+    }
+  ],
+  "timestamp": "2026-09-04T00:01:35.415829437Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 66:13",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 66,
+  "translation": "Nakokota na ndako na yo na nsemba ya kokaka, nakofuta yo bikane na ngai.",
+  "tokens": [
+    {
+      "surface": "אבוא",
+      "gloss": "nakokota"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "na ndako na yo"
+    },
+    {
+      "surface": "בעולות",
+      "gloss": "na nsemba ya kokaka"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "nakofuta"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yo"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "bikane na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:15:39.918278017Z",
+  "model": "glm-5.3"
+}

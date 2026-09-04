@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 12:11",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Mpe ndenge wana bolyaka ⟨את⟩ yango: libumu na bino ekangami, sandale na bino na makolo na bino, mpe baton na bino na maboko na bino; mpe bolyaki ⟨את⟩ yango na lombangu — Pesa ezali ya Yawe.",
+  "tokens": [
+    {
+      "surface": "וככה",
+      "gloss": "mpe ndenge wana"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "bolyaka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yango"
+    },
+    {
+      "surface": "מתניכם",
+      "gloss": "libumu na bino"
+    },
+    {
+      "surface": "חגרים",
+      "gloss": "ekangami"
+    },
+    {
+      "surface": "נעליכם",
+      "gloss": "sandale na bino"
+    },
+    {
+      "surface": "ברגליכם",
+      "gloss": "na makolo na bino"
+    },
+    {
+      "surface": "ומקלכם",
+      "gloss": "mpe baton na bino"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "na maboko na bino"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "mpe bolyaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yango"
+    },
+    {
+      "surface": "בחפזון",
+      "gloss": "na lombangu"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ezali"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ya Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T16:18:59.631650420Z",
+  "model": "glm-5.3"
+}

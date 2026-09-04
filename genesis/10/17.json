@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 10:17",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "mpe ⟨את⟩ Hivi, mpe ⟨את⟩ Arki, mpe ⟨את⟩ Sini",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Hivi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Hivi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Arki"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "Arki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Sini"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "Sini"
+    }
+  ],
+  "timestamp": "2026-09-03T15:48:45.734754116Z",
+  "model": "glm-5.3"
+}

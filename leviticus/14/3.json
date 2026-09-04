@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 14:3",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Mpe kohen akimaki na libanda ya kaa; mpe kohen atalaki, mpe tala, ebeni ya tzaraat ebongisamaki kati na moto ya tzaraat.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "akimaki"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "libanda"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ya kaa"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "atalaki"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mpe tala"
+    },
+    {
+      "surface": "נרפא",
+      "gloss": "ebongisamaki"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ebeni"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "ya tzaraat"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kati na"
+    },
+    {
+      "surface": "הצרוע",
+      "gloss": "moto ya tzaraat"
+    }
+  ],
+  "timestamp": "2026-09-03T16:46:42.815077466Z",
+  "model": "glm-5.3"
+}

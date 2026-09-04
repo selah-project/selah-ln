@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "numbers 31:43",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 31,
+  "translation": "Mpe ndambo ya lisanga, kati ya bampesi, ezalaki nkama misato nkoto, mpe ntuku misato nkoto, nkoto sambo, mpe nkama mitano.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "ezalaki"
+    },
+    {
+      "surface": "מחצת",
+      "gloss": "ndambo"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "lisanga"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kati ya"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "bampesi"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "misato"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "nkama"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "nkoto"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "mpe ntuku misato"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "nkoto"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sambo"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "nkoto"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "mpe mitano"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "nkama"
+    }
+  ],
+  "timestamp": "2026-09-03T17:18:51.390820116Z",
+  "model": "glm-5.3"
+}

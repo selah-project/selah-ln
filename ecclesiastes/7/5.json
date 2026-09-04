@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 7:5",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Malamu koyoka bosakana ya moyebi, koleka moto koyoka nzembo ya mosangele.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Malamu"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "koyoka"
+    },
+    {
+      "surface": "גערת",
+      "gloss": "bosakana ya"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "moyebi"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "koleka moto"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "koyoka"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "nzembo ya"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "mosangele"
+    }
+  ],
+  "timestamp": "2026-09-03T22:14:58.672237496Z",
+  "model": "glm-5.3"
+}

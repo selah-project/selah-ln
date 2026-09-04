@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 9:8",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Mpe Elohim alobaki epai ya Noe mpe epai ya bana na ye ⟨את⟩ elongo na ye, ndenge oyo:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mpe epai ya"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bana na ye"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ elongo na ye"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ndenge oyo"
+    }
+  ],
+  "timestamp": "2026-09-03T15:46:41.187775978Z",
+  "model": "glm-5.3"
+}

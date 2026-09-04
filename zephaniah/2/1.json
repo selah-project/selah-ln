@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zephaniah 2:1",
+  "book": "zephaniah",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Bokangane, ee bokangane, eh ekolo, kolingama te oyo",
+  "tokens": [
+    {
+      "surface": "התקוששו",
+      "gloss": "Bokangane"
+    },
+    {
+      "surface": "וקושו",
+      "gloss": "ee bokangane"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "eh, ekolo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "נכסף",
+      "gloss": "kolingama oyo"
+    }
+  ],
+  "timestamp": "2026-09-03T20:53:55.689006704Z",
+  "model": "glm-5.3"
+}

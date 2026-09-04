@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 7:10",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mpe bakonzi babimisaki ⟨את⟩ bokangisi ya mizbeah na mokolo ya konyolisela ⟨את⟩ yango, mpe bakonzi babimisaki ⟨את⟩ atorna na bango liboso ya mizbeah.",
+  "tokens": [
+    {
+      "surface": "ויקריבו",
+      "gloss": "Mpe babimisaki"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "bakonzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bokangisi"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "bokangisi"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ya mizbeah"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na mokolo"
+    },
+    {
+      "surface": "המשח",
+      "gloss": "ya konyolisela"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yango",
+      "marks": "mizbeah"
+    },
+    {
+      "surface": "ויקריבו",
+      "gloss": "mpe babimisaki"
+    },
+    {
+      "surface": "הנשיאם",
+      "gloss": "bakonzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atorna na bango"
+    },
+    {
+      "surface": "קרבנם",
+      "gloss": "atorna na bango"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mizbeah"
+    }
+  ],
+  "timestamp": "2026-09-03T17:03:03.733009756Z",
+  "model": "glm-5.3"
+}

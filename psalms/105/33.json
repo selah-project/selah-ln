@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 105:33",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 105,
+  "translation": "Akubaki nzete ya mbila na bango mpe nzete ya figuier na bango, mpe abukisaki nzete ya ndelo na bango.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "akubaki"
+    },
+    {
+      "surface": "גפנם",
+      "gloss": "nzete ya mbila na bango"
+    },
+    {
+      "surface": "ותאנתם",
+      "gloss": "mpe nzete ya figuier na bango"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "mpe abukisaki"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "nzete"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "ya ndelo na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:27:39.889201886Z",
+  "model": "glm-5.3"
+}

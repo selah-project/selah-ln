@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 18:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Mpe mabele egogamaki mpe ekonokaki; mabongwa ya bangomba bikundaki mpe bigogamaki, mpo nkanda emikaki na ye.",
+  "tokens": [
+    {
+      "surface": "ותגעש",
+      "gloss": "mpe egogamaki"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "mpe ekonokaki"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "ומוסדי",
+      "gloss": "mpe mabongwa ya"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "bangomba"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "bikundaki"
+    },
+    {
+      "surface": "ויתגעשו",
+      "gloss": "mpe bigogamaki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "nkanda emikaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:04:13.883222427Z",
+  "model": "glm-5.3"
+}

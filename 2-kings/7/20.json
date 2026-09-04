@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 7:20",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mpe esalemaki epai na ye bongo: bato bafandisaki na mabolo ⟨את⟩ ye na porti, mpe akufaki.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "esalemaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "epai na ye"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bongo"
+    },
+    {
+      "surface": "וירמסו",
+      "gloss": "mpe bafandisaki na mabolo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ye (shalish)"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "na porti"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "akufaki"
+    }
+  ],
+  "timestamp": "2026-09-03T19:03:11.967203505Z",
+  "model": "glm-5.3"
+}

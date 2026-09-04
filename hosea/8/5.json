@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 8:5",
+  "book": "hosea",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Egeli na yo, Shomeron, eboyami; mawa na ngai ekweyaki likolo na bango — kino tango nini bakokoka te kozala bopeto?",
+  "tokens": [
+    {
+      "surface": "זנח",
+      "gloss": "eboyami"
+    },
+    {
+      "surface": "עגלך",
+      "gloss": "egeli na yo"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "ekweyaki"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "mawa na ngai"
+    },
+    {
+      "surface": "בם",
+      "gloss": "likolo na bango"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "tango nini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "bakokoka"
+    },
+    {
+      "surface": "נקין",
+      "gloss": "bopeto"
+    }
+  ],
+  "timestamp": "2026-09-03T20:40:34.030556196Z",
+  "model": "glm-5.3"
+}

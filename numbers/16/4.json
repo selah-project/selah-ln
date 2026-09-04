@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 16:4",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Mpe Moshe ayokaki, mpe agweaki na elongi na ye.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Mpe ayokaki"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "mpe agweaki"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "elongi na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T17:10:25.958399936Z",
+  "model": "glm-5.3"
+}

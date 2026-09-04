@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 11:34",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpe abengaki ⟨את⟩ nkombo ya esika yango Kivrot-hataava, mpo kuna bakundaki ⟨את⟩ bato oyo bazalaki na mposa",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "mpe abengaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkombo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nkombo"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ya esika"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yango"
+    },
+    {
+      "surface": "קברות",
+      "gloss": "Kivrot"
+    },
+    {
+      "surface": "התאוה",
+      "gloss": "hataava"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "bakundaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bato"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "המתאוים",
+      "gloss": "oyo bazalaki na mposa"
+    }
+  ],
+  "timestamp": "2026-09-03T17:06:29.893746204Z",
+  "model": "glm-5.3"
+}

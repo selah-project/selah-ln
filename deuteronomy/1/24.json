@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 1:24",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe batimolaki mpe bakwelaki na mobu, mpe bakomalaki taka na libongo ya Eshkol, mpe bakotalaki ⟨את⟩ yango.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "Mpe batimolaki"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "mpe bakwelaki"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "na mobu"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "mpe bakomalaki"
+    },
+    {
+      "surface": "עד",
+      "gloss": "taka"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "libongo"
+    },
+    {
+      "surface": "אשכל",
+      "gloss": "Eshkol"
+    },
+    {
+      "surface": "וירגלו",
+      "gloss": "mpe bakotalaki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ yango",
+      "marks": "mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T17:22:43.456810445Z",
+  "model": "glm-5.3"
+}

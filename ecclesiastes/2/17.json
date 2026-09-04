@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 2:17",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe nayeki bolumbu, mpo mosala oyo esalemaki na nsé ya moi ezalaki mabe epai na ngai; mpo nyonso ezali hevel mpe konyokoli ya mpema.",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "Mpe nayeki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bolumbu"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "bolumbu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "epai na ngai"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "mosala"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "esalemaki"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "na nsé ya"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "moi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevel"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "mpe konyokoli"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mpema"
+    }
+  ],
+  "timestamp": "2026-09-03T22:13:32.637382588Z",
+  "model": "glm-5.3"
+}

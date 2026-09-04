@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 22:16",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Mpe bamemaka bango masumu ya mabe na koliaka bango ⟨את⟩ biloko mosantu na bango, mpo ngai Yawe nazali kosantisa bango.",
+  "tokens": [
+    {
+      "surface": "והשיאו",
+      "gloss": "Mpe bamemaka"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ bango"
+    },
+    {
+      "surface": "עון",
+      "gloss": "masumu"
+    },
+    {
+      "surface": "אשמה",
+      "gloss": "ya mabe"
+    },
+    {
+      "surface": "באכלם",
+      "gloss": "na koliaka bango"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "biloko mosantu na bango"
+    },
+    {
+      "surface": "קדשיהם",
+      "gloss": "biloko mosantu na bango"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "nazali kosantisa bango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:53:24.650852698Z",
+  "model": "glm-5.3"
+}

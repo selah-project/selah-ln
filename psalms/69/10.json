@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 69:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 69,
+  "translation": "Mpo kinsiya ya ndako na yo evelaki ngai ⟨na⟩ likolia, mpe masuni ya bayo bazali kosunya yo makweyaki likolo na ngai.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "kinsiya"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ya ndako na yo"
+    },
+    {
+      "surface": "אכלתני",
+      "gloss": "evelaki ngai ⟨na⟩ likolia"
+    },
+    {
+      "surface": "וחרפות",
+      "gloss": "mpe masuni"
+    },
+    {
+      "surface": "חורפיך",
+      "gloss": "ya bayo bazali kosunya yo"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "makweyaki"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "likolo na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:16:24.884639664Z",
+  "model": "glm-5.3"
+}

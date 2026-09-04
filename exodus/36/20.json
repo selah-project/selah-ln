@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 36:20",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 36,
+  "translation": "Mpe asalaki ⟨את⟩ bikusa mpo na Misikan, nzete ya shita, bimama.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "asalaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bikusa"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "bikusa"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "mpo na Misikan"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "nzete ya"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shita"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "bimama"
+    }
+  ],
+  "timestamp": "2026-09-03T16:37:35.736415861Z",
+  "model": "glm-5.3"
+}

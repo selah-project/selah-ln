@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 13:16",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Mpe alobaki: Nakoki te kozonga ⟨את⟩ yo, mpe kokota ⟨את⟩ yo; mpe nakolia te pan, mpe nakomela te ⟨את⟩ yo mai na esika oyo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "nakoki"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "kozonga"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ yo",
+      "marks": "yo"
+    },
+    {
+      "surface": "ולבוא",
+      "gloss": "mpe kokota"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ yo",
+      "marks": "yo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "nakolia"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "pan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "nakomela"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ yo",
+      "marks": "yo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mai"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "na esika"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    }
+  ],
+  "timestamp": "2026-09-03T18:50:28.159705264Z",
+  "model": "glm-5.3"
+}

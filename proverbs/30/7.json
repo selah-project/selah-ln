@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 30:7",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 30,
+  "translation": "Makambo mibale nasengaki epai na ⟨את⟩ yo; kanga yo na ngai te, liboso ete nakufa.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "nasengaki"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "epai na ⟨את⟩ yo",
+      "marks": "epai na yo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "kanga yo"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "liboso ete"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "nakufa"
+    }
+  ],
+  "timestamp": "2026-09-03T23:36:55.693496081Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 17:25",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 17,
+  "translation": "Kanda mpo na tata na ye — mwana mpamba; mpe mongete mpo na oyo abotaki ye.",
+  "tokens": [
+    {
+      "surface": "כעס",
+      "gloss": "kanda"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "mpo na tata na ye"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "mpamba"
+    },
+    {
+      "surface": "וממר",
+      "gloss": "mpe mongete"
+    },
+    {
+      "surface": "ליולדתו",
+      "gloss": "mpo na oyo abotaki ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:44:11.361823835Z",
+  "model": "glm-5.3"
+}

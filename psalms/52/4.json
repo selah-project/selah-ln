@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 52:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 52,
+  "translation": "Babe okanisi na liloba na yo, eleki lime ya lokasa, osali bokosi.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "Babe"
+    },
+    {
+      "surface": "תחשב",
+      "gloss": "okanisi"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "na liloba na yo"
+    },
+    {
+      "surface": "כתער",
+      "gloss": "ya lokasa"
+    },
+    {
+      "surface": "מלטש",
+      "gloss": "lime"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "osali"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "bokosi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:14:24.805856954Z",
+  "model": "glm-5.3"
+}

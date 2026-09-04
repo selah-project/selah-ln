@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 5:5",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Kopeka te: pesa ⟨את⟩ monoko na yo mpo na kokosa ⟨את⟩ liboto na yo; mpe kopeka te yoka na liboso ya motindami ete mbengu ezali yango; mpo na nini Elohim akanda na mongongo na yo mpe abomaka ⟨את⟩ mosala ya maboko na yo?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Kopeka te"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "pesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "monoko na yo"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "monoko na yo"
+    },
+    {
+      "surface": "לחטיא",
+      "gloss": "mpo na kokosa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "liboto na yo"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "liboto na yo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mpe kopeka te"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "yoka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "na liboso ya"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "motindami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "שגגה",
+      "gloss": "mbengu"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ezali yango"
+    },
+    {
+      "surface": "למה",
+      "gloss": "mpo na nini"
+    },
+    {
+      "surface": "יקצף",
+      "gloss": "akanda"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "mongongo na yo"
+    },
+    {
+      "surface": "וחבל",
+      "gloss": "mpe abomaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mosala ya maboko na yo"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "mosala"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "ya maboko na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T23:38:37.032392752Z",
+  "model": "glm-5.3"
+}

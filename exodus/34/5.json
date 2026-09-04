@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 34:5",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 34,
+  "translation": "Yawe akitaki na lipata, mpe atelemaki elongo na ye kuna, mpe abengaki na nkombo ya Yawe.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "akitaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "na lipata"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "mpe atelemaki"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "elongo na ye"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "mpe abengaki"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "na nkombo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T16:34:03.488831948Z",
+  "model": "glm-5.3"
+}

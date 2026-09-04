@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 105:45",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 105,
+  "translation": "Mpo na ete bakumbla babeko na ye, mpe ba-Tora na ye batye likebi. Boyimbisa Ya!",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "Mpo na ete"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "bakumbla"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "babeko na ye"
+    },
+    {
+      "surface": "ותורתיו",
+      "gloss": "mpe ba-Tora na ye"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "batye likebi"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Boyimbisa"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    }
+  ],
+  "timestamp": "2026-09-03T21:26:59.487934882Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 55:12",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 55,
+  "translation": "Bobomi ezali kati na yango, mpe bonyokoli mpe bokosi ebungaka te na bibenga na yango.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "Bobomi"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "kati na yango"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "ebungaka te"
+    },
+    {
+      "surface": "מרחבה",
+      "gloss": "na bibenga na yango"
+    },
+    {
+      "surface": "תך",
+      "gloss": "bonyokoli"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "mpe bokosi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:13:46.968430028Z",
+  "model": "glm-5.3"
+}

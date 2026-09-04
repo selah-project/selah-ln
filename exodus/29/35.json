@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 29:35",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 29,
+  "translation": "Mpe okosala mpo na Aharon mpe mpo na bana na ye ndenge wana, ndenge nyonso oyo nalaki yo ⟨את⟩; mikolo sambo okobakisa maboko na bango.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Mpe okosala"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "mpo na Aharon"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "mpe mpo na bana na ye"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "ndenge wana"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ndenge nyonso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "nalaki"
+    },
+    {
+      "surface": "אתכה",
+      "gloss": "⟨את⟩ yo",
+      "marks": "yo (Moshe)"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sambo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mikolo"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "okobakisa"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "maboko na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:30:44.811065891Z",
+  "model": "glm-5.3"
+}

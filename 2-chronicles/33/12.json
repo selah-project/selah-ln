@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 33:12",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 33,
+  "translation": "Mpe na ntango ya mpasi, asengelaki ⟨את⟩ elongi ya Yawe Elohim na ye, mpe akitisaki ye moko mingi liboso ya Elohim ya bankoko na ye.",
+  "tokens": [
+    {
+      "surface": "וכהצר",
+      "gloss": "na ntango ya mpasi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "asengelaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elongi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "elongi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim na ye"
+    },
+    {
+      "surface": "ויכנע",
+      "gloss": "akitisaki ye moko"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mingi"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ya"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "bankoko na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T23:06:50.834840999Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 93:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 93,
+  "translation": "Bantembe na yo bayebani malamu makasi; na ndako na yo boboy ezali kitoko, Yawe, na ntango ya mikolo mingi.",
+  "tokens": [
+    {
+      "surface": "עֵדֹתֶיךָ",
+      "gloss": "bantembe na yo"
+    },
+    {
+      "surface": "נֶאֶמְנוּ",
+      "gloss": "bayebani malamu"
+    },
+    {
+      "surface": "מְאֹד",
+      "gloss": "makasi"
+    },
+    {
+      "surface": "לְבֵיתְךָ",
+      "gloss": "na ndako na yo"
+    },
+    {
+      "surface": "נַאֲוָה",
+      "gloss": "ezali kitoko"
+    },
+    {
+      "surface": "קֹדֶשׁ",
+      "gloss": "boboy"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לְאֹרֶךְ",
+      "gloss": "na ntango ya mikolo mingi"
+    },
+    {
+      "surface": "יָמִים",
+      "gloss": "mikolo"
+    }
+  ],
+  "timestamp": "2026-09-04T00:21:53.753041092Z",
+  "model": "glm-5.3"
+}

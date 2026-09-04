@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 9:26",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Asalaki bango bongo, mpe abikisaki ⟨את⟩ bango na maboko ya bana ya Israel, mpe babomaki bango te.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Asalaki"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bango"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bongo"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "mpe abikisaki"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "bango"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "na maboko"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ya bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "הרגום",
+      "gloss": "babomaki bango"
+    }
+  ],
+  "timestamp": "2026-09-03T17:45:22.576150067Z",
+  "model": "glm-5.3"
+}

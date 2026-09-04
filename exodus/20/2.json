@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 20:2",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 20,
+  "translation": "Ngai nazali Yawe Elohim na yo, oyo namemaki yo utaka na mboka ya Mitsraim, utaka na ndako ya bampesi.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ngai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim na yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "namemaki yo utaka"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "na mboka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Mitsraim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "utaka na ndako"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "ya bampesi"
+    }
+  ],
+  "timestamp": "2026-09-03T16:23:36.401221657Z",
+  "model": "glm-5.3"
+}

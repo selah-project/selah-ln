@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 46:7",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 46,
+  "translation": "Bana na ye mpe bana ya bana na ye, basi na ye, mpe bana basi ya bana na ye, mpe libota na ye nyonso — amemaki bango elongo na ye na Mitsraim.",
+  "tokens": [
+    {
+      "surface": "בניו",
+      "gloss": "bana na ye"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "mpe bana ya"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bana na ye"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ elongo na ye"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "basi na ye"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "mpe bana basi ya"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bana na ye"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe ... nyonso"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "libota na ye"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "amemaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ elongo na ye"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "na Mitsraim"
+    }
+  ],
+  "timestamp": "2026-09-03T16:11:01.525821712Z",
+  "model": "glm-5.3"
+}

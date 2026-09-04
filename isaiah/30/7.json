@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 30:7",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 30,
+  "translation": "Mpe Mitsraim azali pwe mpe eloko te; bakosalisa na eloko te; yango wana nabengaki yango: Rahab, oyo azali kofanda kaka.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Mpe Mitsraim"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "pwe"
+    },
+    {
+      "surface": "וריק",
+      "gloss": "mpe eloko te"
+    },
+    {
+      "surface": "י עזרו",
+      "gloss": "bakosalisa"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "yango wana"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "nabengaki"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "yango"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "Rahab"
+    },
+    {
+      "surface": "הם",
+      "gloss": "oyo azali"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "kofanda kaka"
+    }
+  ],
+  "timestamp": "2026-09-03T19:25:58.559870770Z",
+  "model": "glm-5.3"
+}

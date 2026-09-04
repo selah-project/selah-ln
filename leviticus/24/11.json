@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 24:11",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "Mpe mwana ya mwasi ya Israel atyaki mabe ⟨את⟩ Nkombo mpe topeli, mpe bakendisaki ⟨את⟩ ye epai ya Moshe; mpe nkombo ya mama na ye ezali Shelomit, mwana mwasi ya Divri, ya libota ya Dan.",
+  "tokens": [
+    {
+      "surface": "ויקב",
+      "gloss": "mpe atyaki mabe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ya mwasi"
+    },
+    {
+      "surface": "הישראלית",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nkombo"
+    },
+    {
+      "surface": "השם",
+      "gloss": "Nkombo"
+    },
+    {
+      "surface": "ויקלל",
+      "gloss": "mpe topeli"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "mpe bakendisaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ye",
+      "marks": "ye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "mpe nkombo"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ya mama na ye"
+    },
+    {
+      "surface": "שלמית",
+      "gloss": "Shelomit"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana mwasi"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ya Divri"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ya libota"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    }
+  ],
+  "timestamp": "2026-09-03T16:54:40.014043023Z",
+  "model": "glm-5.3"
+}

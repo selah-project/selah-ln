@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 32:1",
+  "book": "job",
+  "lang": "ln",
+  "chapter": 32,
+  "translation": "Mpe bato misato oyo babiki koyanola ⟨את⟩ Iyob, mpo aye azali sembo na miso na ye moko.",
+  "tokens": [
+    {
+      "surface": "וישבתו",
+      "gloss": "babiki"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "misato"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "bato"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "מענות",
+      "gloss": "koyanola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iyob"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyob"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "aye"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "sembo"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "na miso na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T22:01:39.665635441Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 11:15",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpe nakopesa matete na elanga na yo mpo na banyama na yo, mpe okolia mpe okosatisama.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "mpe nakopesa"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "matete"
+    },
+    {
+      "surface": "בשדך",
+      "gloss": "na elanga na yo"
+    },
+    {
+      "surface": "לבהמתך",
+      "gloss": "mpo na banyama na yo"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "mpe okolia"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "mpe okosatisama"
+    }
+  ],
+  "timestamp": "2026-09-03T17:28:34.903587752Z",
+  "model": "glm-5.3"
+}

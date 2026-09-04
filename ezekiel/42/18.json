@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 42:18",
+  "book": "ezekiel",
+  "lang": "ln",
+  "chapter": 42,
+  "translation": "⟨את⟩ mbale ya sudi ameki — nkama mitano ya bakane, na kane ya bokelo.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbale ya sudi"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mbale"
+    },
+    {
+      "surface": "הדרום",
+      "gloss": "ya sudi"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "ameki"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "mitano"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "nkama"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "bakane"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "na kane"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "ya bokelo"
+    }
+  ],
+  "timestamp": "2026-09-03T20:32:46.584151798Z",
+  "model": "glm-5.3"
+}

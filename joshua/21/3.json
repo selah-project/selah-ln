@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 21:3",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Bana ya Israel bapesaki Baliwi, uta na bofungi na bango, na monoko ya Yawe, ⟨את⟩ bamboka oyo mpe ⟨את⟩ bisika ya bokeli ya pembeni na yango.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "bapesaki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Bana ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "Baliwi"
+    },
+    {
+      "surface": "מנחלתם",
+      "gloss": "uta na bofungi na bango"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨na⟩"
+    },
+    {
+      "surface": "פי",
+      "gloss": "monoko ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bamboka oyo"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "bamboka"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bisika ya bokeli ya pembeni na yango"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "bisika ya bokeli ya pembeni na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T17:53:28.373071574Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 107:22",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 107,
+  "translation": "Mpe basakrifi bakosakrifaka matondo, mpe bakolobaka misala na Yaye na nzembo ya kosankola.",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "Mpe basakrifi bakosakrifaka"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "basakrifi"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "matondo"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "mpe bakolobaka"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "misala na Yaye"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "na nzembo ya kosankola"
+    }
+  ],
+  "timestamp": "2026-09-03T21:27:38.977414800Z",
+  "model": "glm-5.3"
+}

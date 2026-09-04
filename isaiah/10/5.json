@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 10:5",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Mawa na Ashur, baton ya likebi lya ngai, mpe boko oyo ezali na maboko na bango ezali nkanda na ngai!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Mawa"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "baton"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "ya likebi lya ngai"
+    },
+    {
+      "surface": "ומטה",
+      "gloss": "mpe boko"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "na maboko na bango"
+    },
+    {
+      "surface": "זעמי",
+      "gloss": "nkanda na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T19:17:17.014533517Z",
+  "model": "glm-5.3"
+}

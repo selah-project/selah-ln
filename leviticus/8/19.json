@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 8:19",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe abomaki ⟨yango⟩, mpe Moshe abwisaki ⟨את⟩ makila likolo ya autelo na zingazingo.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "abomaki"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "mpe abwisaki"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makila"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "makila"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "autelo"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "na zingazingo"
+    }
+  ],
+  "timestamp": "2026-09-03T16:44:29.864733904Z",
+  "model": "glm-5.3"
+}

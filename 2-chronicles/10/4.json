@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 10:4",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Tata yo amemesaki ⟨את⟩ likangisi na biso makasi; mpe sikoyo katemisa makasi ya mosala ya tata yo mpe likangisi na ye oyo ⟨ezali⟩ na kilo monene, oyo atyaki likolo na biso, mpe tokosalela yo.",
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "Tata yo"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "amemesaki makasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "likangisi na biso"
+    },
+    {
+      "surface": "עלנו",
+      "gloss": "likangisi na biso"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "mpe sikoyo"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "katemisa"
+    },
+    {
+      "surface": "מעבדת",
+      "gloss": "makasi ya mosala ya"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tata yo"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "makasi"
+    },
+    {
+      "surface": "ומעלו",
+      "gloss": "mpe likangisi na ye"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "oyo ⟨ezali⟩ na kilo monene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "atyaki"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "likolo na biso"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "mpe tokosalela yo"
+    }
+  ],
+  "timestamp": "2026-09-03T23:42:18.618196972Z",
+  "model": "glm-5.3"
+}

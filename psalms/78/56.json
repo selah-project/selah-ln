@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 78:56",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 78,
+  "translation": "Mpe bamekaki, mpe bamiboyaki ⟨את⟩ Elohim El Elion, mpe bandeke na ye babataki te.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "mpe bamekaki"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "mpe bamiboyaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim El Elion"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "El Elion"
+    },
+    {
+      "surface": "ועדותיו",
+      "gloss": "mpe bandeke na ye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "babataki"
+    }
+  ],
+  "timestamp": "2026-09-03T21:20:38.887155715Z",
+  "model": "glm-5.3"
+}

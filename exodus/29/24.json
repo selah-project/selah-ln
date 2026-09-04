@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 29:24",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 29,
+  "translation": "Mpe otya nyonso likolo ya maboko ya Aharon mpe likolo ya maboko ya bana na ye, mpe okena ⟨את⟩ bango, ofeli ya kokena, na maso ya Yawe.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "Mpe otya"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "maboko"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "mpe likolo ya"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "maboko"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bana na ye"
+    },
+    {
+      "surface": "והנפת",
+      "gloss": "mpe okena"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bango",
+      "marks": "nyonso (bandimu nyonso)"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "ofeli ya kokena"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "na maso ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T16:31:43.904684964Z",
+  "model": "glm-5.3"
+}

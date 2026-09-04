@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 2:9",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Moto akundolaki ye moko, mpe moto akitamaki; limbasa bango te.",
+  "tokens": [
+    {
+      "surface": "ויששח",
+      "gloss": "akundolaki ye moko"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moto"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "mpe akitamaki"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "limbasa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bango"
+    }
+  ],
+  "timestamp": "2026-09-03T19:11:32.203533251Z",
+  "model": "glm-5.3"
+}

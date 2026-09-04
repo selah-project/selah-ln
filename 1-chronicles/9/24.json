@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 9:24",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Na bongongo minei bakenzeli bazalaki: na est, na west, na nord, mpe na sid.",
+  "tokens": [
+    {
+      "surface": "לארבע",
+      "gloss": "na minei"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "bongongo (bopema)"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bazalaki"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "bakenzeli"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "est"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "west"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "nord"
+    },
+    {
+      "surface": "ונגבה",
+      "gloss": "mpe sid"
+    }
+  ],
+  "timestamp": "2026-09-03T22:44:09.756325170Z",
+  "model": "glm-5.3"
+}

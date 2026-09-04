@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 32:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 32,
+  "translation": "Mpo moyinza mpe butu maboko na yo ezalaki monene likolo ya ngai; makasi na ngai ebongwaki lokola seke ya ngonga ya kokola. Selah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "moyinza"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "mpe butu"
+    },
+    {
+      "surface": "תכבד",
+      "gloss": "ezalaki monene"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "likolo ya ngai"
+    },
+    {
+      "surface": "יָדֶךָ",
+      "gloss": "maboko na yo"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "ebongwaki"
+    },
+    {
+      "surface": "לשדי",
+      "gloss": "makasi na ngai"
+    },
+    {
+      "surface": "בחרבני",
+      "gloss": "na seke ya"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "ngonga ya kokola"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-03T21:08:40.952933102Z",
+  "model": "glm-5.3"
+}

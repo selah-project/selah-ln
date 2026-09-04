@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 10:15",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "longola ya bato ya mombongo, mpe mombongo ya bateyi, mpe bakonzi nyonso ya Arabi, mpe ya bakambi ya mabele.",
+  "tokens": [
+    {
+      "surface": "לבד",
+      "gloss": "longola"
+    },
+    {
+      "surface": "מאנשי",
+      "gloss": "ya bato"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "ya mombongo"
+    },
+    {
+      "surface": "ומסחר",
+      "gloss": "mpe mombongo"
+    },
+    {
+      "surface": "הרכלים",
+      "gloss": "ya bateyi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe nyonso"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "bakonzi"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "ya Arabi"
+    },
+    {
+      "surface": "ופחות",
+      "gloss": "mpe bakambi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ya mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T18:48:43.760961689Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 57:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 57,
+  "translation": "Ameka, nkembo na ngai; ameka, nevel mpe kinor; nakoméka tongo.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Ameka"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "nkembo na ngai"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "ameka"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "nevel"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "mpe kinor"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "nakoméka"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "tongo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:13:44.756612Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 19:12",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Mpe okopesa ⟨את⟩ bato ndelo na zingazinga, kolobela bango: Banga bino moko, bokendi te likolo ya ngomba, mpe bokokangama te na nsuka na yango; moto nyonso oyo akokangama na ngomba, akokufa penza.",
+  "tokens": [
+    {
+      "surface": "והגבלת",
+      "gloss": "Mpe okopesa ndelo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bato"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "na zingazinga"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kolobela bango"
+    },
+    {
+      "surface": "השמרו",
+      "gloss": "Banga"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bino moko"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "bokendi likolo"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ya ngomba"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "mpe bokokangama"
+    },
+    {
+      "surface": "בקצהו",
+      "gloss": "na nsuka na yango"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "oyo akokangama"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "na ngomba"
+    },
+    {
+      "surface": "מות",
+      "gloss": "liwa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "akokufa penza"
+    }
+  ],
+  "timestamp": "2026-09-03T16:22:36.045736689Z",
+  "model": "glm-5.3"
+}

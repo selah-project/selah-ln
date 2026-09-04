@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 11:20",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Eloko oyo emonana mabe epai ya Yawe: baoyo mitema na bango ezali kokangama; mpe oyo akoka Yawe: baomboki ya nzela.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "eloko oyo emonana mabe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "epai ya Yawe"
+    },
+    {
+      "surface": "עקשי",
+      "gloss": "baoyo ... ezali kokangama"
+    },
+    {
+      "surface": "לב",
+      "gloss": "mitema na bango"
+    },
+    {
+      "surface": "ורצונו",
+      "gloss": "mpe oyo akoka"
+    },
+    {
+      "surface": "תמימי",
+      "gloss": "baomboki"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ya nzela"
+    }
+  ],
+  "timestamp": "2026-09-03T21:41:30.448535058Z",
+  "model": "glm-5.3"
+}

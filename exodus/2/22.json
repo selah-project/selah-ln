@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 2:22",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "⟨Ye⟩ abotaki mwana mobali, mpe ⟨ye⟩ atomaki ⟨את⟩ kombo na ye Gershom, mpo ⟨ye⟩ alobaki: Mopaya nalaki na mabele ya bapaya.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "abotaki"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana mobali"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "atomaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kombo na ye"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "kombo na ye"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gershom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "גר",
+      "gloss": "mopaya"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "nalaki"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "ya bapaya"
+    }
+  ],
+  "timestamp": "2026-09-03T16:14:29.701130543Z",
+  "model": "glm-5.3"
+}

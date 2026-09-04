@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 6:15",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpe David mpe ndako ya Israel nyonso bazalaki komema likolo ⟨את⟩ sanduku ya Yawe na bangu mpe na mongongo ya shofar.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Mpe David"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe nyonso ya"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "bazalaki komema likolo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduku"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yawe"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "na bangu"
+    },
+    {
+      "surface": "ובקול",
+      "gloss": "mpe na mongongo ya"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "shofar"
+    }
+  ],
+  "timestamp": "2026-09-03T18:31:14.989927401Z",
+  "model": "glm-5.3"
+}

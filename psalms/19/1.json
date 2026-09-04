@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 19:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Epai ya moyengeli. Mazembo ya David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Epai ya moyengeli"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Mazembo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya David"
+    }
+  ],
+  "timestamp": "2026-09-03T21:04:49.639950531Z",
+  "model": "glm-5.3"
+}

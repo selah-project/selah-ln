@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 114:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 114,
+  "translation": "Bangomba basalaki likolo lokola bankosi, bikinga lokola bana ya bituka",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "Bangomba"
+    },
+    {
+      "surface": "רקדו",
+      "gloss": "basalaki likolo"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "lokola bankosi"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "bikinga"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "lokola bana ya"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "bituka"
+    }
+  ],
+  "timestamp": "2026-09-03T21:29:46.926638172Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 14:22",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Kabisa zomi na kati ya mbuma nyonso ya masanza na yo, oyo elanga ebimisaka, mbula na mbula.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "kokabisa"
+    },
+    {
+      "surface": "תעשר",
+      "gloss": "okabisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbuma nyonso ya masanza na yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "mbuma"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ya masanza na yo"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "oyo ebimisaka"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "elanga"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mbula"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "na mbula"
+    }
+  ],
+  "timestamp": "2026-09-03T17:30:57.631525298Z",
+  "model": "glm-5.3"
+}

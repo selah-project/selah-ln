@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 48:19",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 48,
+  "translation": "mpe libota na yo ekokaki kozala lokola mokenge, mpe bana ya libumu na yo lokola mabanga mike na yango; nkombo na yango ekokaki kokanama te, ekokaki kolimwa te liboso na ngai.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mpe ekokaki kozala"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "lokola mokenge"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "libota na yo"
+    },
+    {
+      "surface": "וצאצאי",
+      "gloss": "mpe bana"
+    },
+    {
+      "surface": "מעיך",
+      "gloss": "ya libumu na yo"
+    },
+    {
+      "surface": "כמעתיו",
+      "gloss": "lokola mabanga mike na yango"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "ekokaki kokanama"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "ישמד",
+      "gloss": "ekokaki kolimwa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nkombo na yango"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "liboso na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T19:32:45.476118731Z",
+  "model": "glm-5.3"
+}

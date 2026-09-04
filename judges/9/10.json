@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 9:10",
+  "book": "judges",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Mpe banzete balobaki na nzete ya figue: Yaka, yo, bokola likolo ya biso.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "balobaki"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "banzete"
+    },
+    {
+      "surface": "לתאנה",
+      "gloss": "na nzete ya figue"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "yaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "yo"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "bokola"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "likolo ya biso"
+    }
+  ],
+  "timestamp": "2026-09-03T18:00:09.601362188Z",
+  "model": "glm-5.3"
+}

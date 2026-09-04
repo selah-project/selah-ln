@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 1:30",
+  "book": "judges",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Zebulon alongosaki te ⟨את⟩ bafandi ya Kitron mpe ⟨את⟩ bafandi ya Nahalol, mpe Kanani akofandaki na kati na ye, mpe bakomaki bato ya mpakasa.",
+  "tokens": [
+    {
+      "surface": "זבולן",
+      "gloss": "Zebulon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "alongosaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bafandi ya Kitron"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "bafandi"
+    },
+    {
+      "surface": "קטרון",
+      "gloss": "ya Kitron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bafandi ya Nahalol"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "bafandi"
+    },
+    {
+      "surface": "נהלל",
+      "gloss": "ya Nahalol"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "mpe akofandaki"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Kanani"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "na kati na ye"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "mpe bakomaki"
+    },
+    {
+      "surface": "למס",
+      "gloss": "bato ya mpakasa"
+    }
+  ],
+  "timestamp": "2026-09-03T17:55:42.709036147Z",
+  "model": "glm-5.3"
+}

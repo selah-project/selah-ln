@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 18:2",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Mpe Eliyahu akendaki komonana epai ya Ahav; mpe nzala ekleaki makasi na Shomron.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Mpe akendaki"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "להראות",
+      "gloss": "komonana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahav"
+    },
+    {
+      "surface": "והרעב",
+      "gloss": "mpe nzala"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "ekleaki makasi"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "na Shomron"
+    }
+  ],
+  "timestamp": "2026-09-03T18:54:13.502554083Z",
+  "model": "glm-5.3"
+}

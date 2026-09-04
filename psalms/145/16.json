@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 145:16",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 145,
+  "translation": "Ofungolaka ⟨את⟩ maboko na yo, mpe osotisaka banso nyonso ya bomoi na boboto.",
+  "tokens": [
+    {
+      "surface": "פותח",
+      "gloss": "ofungolaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maboko na yo"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "maboko na yo"
+    },
+    {
+      "surface": "ומשביע",
+      "gloss": "mpe osotisaka"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "banso nyonso"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ya bomoi"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "na boboto"
+    }
+  ],
+  "timestamp": "2026-09-03T21:36:19.465979428Z",
+  "model": "glm-5.3"
+}

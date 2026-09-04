@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 16:12",
+  "book": "ezekiel",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Mpe natikaki nkasa ya jitiki na yo, mpe banganga na matoyi na yo, mpe litungi ya kitoko na motó na yo.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "mpe natikaki"
+    },
+    {
+      "surface": "נזם",
+      "gloss": "nkasa ya jitiki"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "jitiki na yo"
+    },
+    {
+      "surface": "ועגילים",
+      "gloss": "mpe banganga"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "אזניך",
+      "gloss": "matoyi na yo"
+    },
+    {
+      "surface": "ועטרת",
+      "gloss": "mpe litungi"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "ya kitoko"
+    },
+    {
+      "surface": "בראשך",
+      "gloss": "na motó na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T23:30:40.458856521Z",
+  "model": "glm-5.3"
+}

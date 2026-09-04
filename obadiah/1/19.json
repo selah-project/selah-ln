@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "obadiah 1:19",
+  "book": "obadiah",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe baoyo ya Sude bakozwa ⟨את⟩ ngomba ya Esav, mpe baoyo ya sepelela bakozwa ⟨את⟩ Bafilisti; mpe bakozwa ⟨את⟩ elamba ya Efraim mpe ⟨את⟩ elamba ya Shomeron; mpe Binyamin akozwa ⟨את⟩ Gilead.",
+  "tokens": [
+    {
+      "surface": "וירשו",
+      "gloss": "Mpe bakozwa"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "baoyo ya Sude"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngomba ya Esav"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ngomba ya"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "והשפלה",
+      "gloss": "mpe baoyo ya sepelela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bafilisti"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Bafilisti"
+    },
+    {
+      "surface": "וירשו",
+      "gloss": "mpe bakozwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elamba ya Efraim"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "elamba ya"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "elamba ya Shomeron"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "elamba ya"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "mpe Binyamin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gilead"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilead"
+    }
+  ],
+  "timestamp": "2026-09-03T20:46:17.055575901Z",
+  "model": "glm-5.3"
+}

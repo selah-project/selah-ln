@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "psalms 119:66",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Lamela ngai bolamu ya boteki mpe boyebi, mpo na mitinda na yo nandimi.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "bolamu"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "boteki"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "mpe boyebi"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "lamela ngai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "במצותיך",
+      "gloss": "na mitinda na yo"
+    },
+    {
+      "surface": "האמנתי",
+      "gloss": "nandimi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:31:22.139999766Z",
+  "model": "glm-5.3"
+}

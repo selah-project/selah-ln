@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 31:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 31,
+  "translation": "Mpo te libanga na ngai mpe esika ya bobombi na ngai yo ⟨ozali⟩; mpe mpo na Nkombo na yo, tambwisa ngai mpe landisa ngai.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo te"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "libanga na ngai"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "mpe esika ya bobombi na ngai"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "mpe mpo na"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Nkombo na yo"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "tambwisa ngai"
+    },
+    {
+      "surface": "ותנהלני",
+      "gloss": "mpe landisa ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T23:34:05.394768731Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 132:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 132,
+  "translation": "Tii nakutaki esika mpo na Yawe, bandako mpo na Abir Yaakov.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Tii"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "nakutaki"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "esika"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "mpo na Yawe"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "bandako"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "mpo na Abir"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-03T21:33:59.524299071Z",
+  "model": "glm-5.3"
+}

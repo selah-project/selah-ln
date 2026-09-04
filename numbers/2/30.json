@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 2:30",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "mpe tumba na bango, mpe bamonami na bango — nkoto ntanu na misato mpe nkama minei.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "mpe tumba na bango"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "mpe bamonami na bango"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "misato"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "mpe ntanu"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "nkoto"
+    },
+    {
+      "surface": "ווארבע",
+      "gloss": "mpe minei"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "nkama"
+    }
+  ],
+  "timestamp": "2026-09-03T16:59:15.208376341Z",
+  "model": "glm-5.3"
+}

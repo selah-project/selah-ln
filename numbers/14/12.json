@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 14:12",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Nakufa bango na bokono, mpe nabimisi bango na mboka, mpe nasala ⟨את⟩ yo lokola ekolo monene mpe ya makasi koleka yango.",
+  "tokens": [
+    {
+      "surface": "אכנו",
+      "gloss": "nakufa bango"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "na bokono"
+    },
+    {
+      "surface": "ואורשנו",
+      "gloss": "mpe nabimisi bango na mboka"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "mpe nasala"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ yo",
+      "marks": "lokola ekolo monene"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "lokola ekolo"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "monene"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "mpe ya makasi"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "koleka yango"
+    }
+  ],
+  "timestamp": "2026-09-03T17:07:15.692183550Z",
+  "model": "glm-5.3"
+}

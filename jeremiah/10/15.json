@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 10:15",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Bango ezali mpamba, mosala ya kokosa; na ntango ya etumbu na bango bakobungwa.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "mpamba"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bango"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "mosala"
+    },
+    {
+      "surface": "תעתעים",
+      "gloss": "ya kokosa"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "na ntango ya"
+    },
+    {
+      "surface": "פקדתם",
+      "gloss": "etumbu na bango"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "bakobungwa"
+    }
+  ],
+  "timestamp": "2026-09-03T19:46:08.750606907Z",
+  "model": "glm-5.3"
+}

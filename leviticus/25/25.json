@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 25:25",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Soki ndeko na yo akitaki na bomoi mabe, mpe asundoli ezali ya maboko na yango, mpe mokangoli na yango oyo azali pene aye, mpe akangola ⟨את⟩ oyo asundolaki ndeko na yango.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Soki"
+    },
+    {
+      "surface": "ימוך",
+      "gloss": "akitaki na bomoi mabe"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ndeko na yo"
+    },
+    {
+      "surface": "ומכר",
+      "gloss": "mpe asundoli"
+    },
+    {
+      "surface": "מאחזתו",
+      "gloss": "ezali ya maboko na yango"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "mpe aye"
+    },
+    {
+      "surface": "גאלו",
+      "gloss": "mokangoli na yango"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "oyo azali pene"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "וגאל",
+      "gloss": "mpe akangola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oyo asundolaki ndeko na yango"
+    },
+    {
+      "surface": "ממכר",
+      "gloss": "oyo asundolaki"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ndeko na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:55:48.548881137Z",
+  "model": "glm-5.3"
+}

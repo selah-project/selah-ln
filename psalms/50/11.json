@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 50:11",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 50,
+  "translation": "Nayebi ndeke nyonso ya bangomba, mpe banyama ya mabelé bazali elongo na ngai.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "Nayebi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ndeke"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "bangomba"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "mpe banyama"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ya mabelé"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "bazali elongo na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:11:27.477440044Z",
+  "model": "glm-5.3"
+}

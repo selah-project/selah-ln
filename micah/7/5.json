@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 7:5",
+  "book": "micah",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Bondimela na moninga te, mpe bondela na moninga ya peni te; na oyo aliye mokengi na yo, babela milulu ya monoko na yo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תאמינו",
+      "gloss": "bondimela"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "na moninga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mpe ... te"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "bondela"
+    },
+    {
+      "surface": "באלוף",
+      "gloss": "na moninga ya peni"
+    },
+    {
+      "surface": "משכבת",
+      "gloss": "oyo aliye"
+    },
+    {
+      "surface": "חיקך",
+      "gloss": "mokengi na yo"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "babela"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "milulu"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ya monoko na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T20:50:21.640543969Z",
+  "model": "glm-5.3"
+}

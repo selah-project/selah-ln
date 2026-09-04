@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 27:32",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 27,
+  "translation": "Mpe Yitshak tata na ye alobaki na ye: Nani ozali yo? Mpe alobaki: Ngai nazali mwana na yo, ya liboso, Eyavu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "tata na ye"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nani"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ozali yo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "mwana na yo"
+    },
+    {
+      "surface": "בכרך",
+      "gloss": "ya liboso"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Eyavu"
+    }
+  ],
+  "timestamp": "2026-09-03T16:00:04.654188130Z",
+  "model": "glm-5.3"
+}

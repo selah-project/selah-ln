@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "micah 2:13",
+  "book": "micah",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Obuki amati liboso na bango; babukaki mpe balekaki lipasa, mpe babimaki na yango; mpe mokonzi na bango alekaki liboso na bango, mpe Yawe na motó na bango.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "amati"
+    },
+    {
+      "surface": "הפרץ",
+      "gloss": "obuki"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "liboso na bango"
+    },
+    {
+      "surface": "פרצו",
+      "gloss": "babukaki"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "mpe balekaki"
+    },
+    {
+      "surface": "שער",
+      "gloss": "lipasa"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "mpe babimaki"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "mpe alekaki"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "mokonzi na bango"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "liboso na bango"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "mpe Yawe"
+    },
+    {
+      "surface": "בראשם",
+      "gloss": "na motó na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T20:46:38.990785287Z",
+  "model": "glm-5.3"
+}

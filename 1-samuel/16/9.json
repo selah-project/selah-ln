@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 16:9",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Yishai amemaki Shama koleka, mpe alobaki: ata na oyo te Yawe abaki te.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "amemaki koleka"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishai"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "Shama"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ata"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "na oyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "abaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T18:16:42.920596474Z",
+  "model": "glm-5.3"
+}

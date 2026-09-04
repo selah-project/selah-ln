@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 8:26",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe Moshe abimaki uta na Parao, mpe asengelaki epai ya Yawe.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "abimaki"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "uta na"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "mpe asengelaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T16:17:52.533609798Z",
+  "model": "glm-5.3"
+}

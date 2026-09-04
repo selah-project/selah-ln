@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 26:20",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "Mpe makasi na bino ekosila te na eloko nyonso; mpe mabele na bino ekomelaka te ⟨את⟩ bokoli na yango, mpe nzete ya mabele ekomelaka te mbuma na yango.",
+  "tokens": [
+    {
+      "surface": "ותם",
+      "gloss": "mpe ekosila"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "te na eloko nyonso"
+    },
+    {
+      "surface": "כחכם",
+      "gloss": "makasi na bino"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ekomelaka"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "mabele na bino"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bokoli na yango"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "bokoli na yango"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "mpe nzete"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ya mabele"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ekomelaka"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "mbuma na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:56:51.461049669Z",
+  "model": "glm-5.3"
+}

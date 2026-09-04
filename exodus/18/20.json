@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 18:20",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Mpe okolakisa ⟨את⟩ bango ⟨את⟩ mibeko mpe ⟨את⟩ malako, mpe okomyesa bango koyeba ⟨את⟩ nzela bakotambola na yango, mpe ⟨את⟩ mosala oyo bakosala.",
+  "tokens": [
+    {
+      "surface": "והזהרתה",
+      "gloss": "mpe okolakisa"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩ bango",
+      "marks": "bango"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mibeko"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "mibeko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "malako"
+    },
+    {
+      "surface": "התורת",
+      "gloss": "malako"
+    },
+    {
+      "surface": "והודעת",
+      "gloss": "mpe okomyesa koyeba"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bango"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nzela"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "nzela"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "bakotambola"
+    },
+    {
+      "surface": "בה",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mosala"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "mosala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "bakosala"
+    }
+  ],
+  "timestamp": "2026-09-03T16:23:17.435139316Z",
+  "model": "glm-5.3"
+}

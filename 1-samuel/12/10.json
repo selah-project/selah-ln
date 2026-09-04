@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 12:10",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Mpe babolaki epai ya Yawe, mpe balobaki: Tosalaki mabe, mpo tolongaki ⟨את⟩ Yawe, mpe tosalelaki ⟨את⟩ Babaal mpe ⟨את⟩ Bashtarot; mpe sikoyo bimbisa biso na loboko ya banguna na biso, mpe tokosalela yo.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "mpe babolaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe balobaki"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "Tosalaki mabe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "tolongaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ונעבד",
+      "gloss": "mpe tosalelaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Babaal"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Babaal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Bashtarot"
+    },
+    {
+      "surface": "העשתרות",
+      "gloss": "Bashtarot"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "mpe sikoyo"
+    },
+    {
+      "surface": "הצילנו",
+      "gloss": "bimbisa biso"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "na loboko"
+    },
+    {
+      "surface": "איבינו",
+      "gloss": "ya banguna na biso"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "mpe tokosalela yo"
+    }
+  ],
+  "timestamp": "2026-09-03T18:13:41.600327400Z",
+  "model": "glm-5.3"
+}

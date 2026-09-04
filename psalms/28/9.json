@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 28:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 28,
+  "translation": "Bikisa ⟨את⟩ bato na yo, mpe bolaka ⟨את⟩ bokabo na yo, mpe bokolisa bango mpe bomamisaka bango kino libela.",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "Bikisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bato na yo"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bato na yo"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "mpe bolaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bokabo na yo"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "bokabo na yo"
+    },
+    {
+      "surface": "ורעם",
+      "gloss": "mpe bokolisa bango"
+    },
+    {
+      "surface": "ונשאם",
+      "gloss": "mpe bomamisaka bango"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "libela"
+    }
+  ],
+  "timestamp": "2026-09-03T21:05:23.045116808Z",
+  "model": "glm-5.3"
+}

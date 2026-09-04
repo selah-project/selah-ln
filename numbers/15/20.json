@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 15:20",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 15,
+  "translation": "Ya liboso ya boulu na bino, bokabola gato lokola teruma; lokola teruma ya goren, bongo bokabola ⟨את⟩ ⟨yango⟩.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "ya liboso"
+    },
+    {
+      "surface": "ערסתכם",
+      "gloss": "ya boulu na bino"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "gato"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "bokabola"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "teruma"
+    },
+    {
+      "surface": "כתרומת",
+      "gloss": "lokola teruma"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "goren"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bongo"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "bokabola"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "gato"
+    }
+  ],
+  "timestamp": "2026-09-03T17:10:06.721473895Z",
+  "model": "glm-5.3"
+}

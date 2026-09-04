@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 102:23",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 102,
+  "translation": "Tango bikolo bikokangama elongo, mpe bikonzi, mpo na kosalela ⟨את⟩ Yawe.",
+  "tokens": [
+    {
+      "surface": "בהקבץ",
+      "gloss": "Tango ... bikokangama"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "bikolo"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "elongo"
+    },
+    {
+      "surface": "וממלכות",
+      "gloss": "mpe bikonzi"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "mpo na kosalela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T21:25:37.771980962Z",
+  "model": "glm-5.3"
+}

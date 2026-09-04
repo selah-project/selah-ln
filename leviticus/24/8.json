@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 24:8",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "Na mokolo ya Shabat, na mokolo ya Shabat, akekelaka yango liboso ya Yawe ntango nyonso, utoka na ⟨את⟩ bana ya Israel — bondimi ya libela.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Na mokolo ya"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabat"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na mokolo ya"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabat"
+    },
+    {
+      "surface": "יערכנו",
+      "gloss": "akekelaka yango"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ntango nyonso"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "bana ya Israel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "bondimi"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ya libela"
+    }
+  ],
+  "timestamp": "2026-09-03T23:15:13.880931517Z",
+  "model": "glm-5.3"
+}

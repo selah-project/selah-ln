@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 12:14",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Mpe esalemaki, na bokoti ya Avram na Mitsraim, bato ya Mitsraim bamonaki ⟨את⟩ mwasi, ete ye azali kitoko mingi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mpe esalemaki"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "na bokoti"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "ya Avram"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "na Mitsraim"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "bamonaki"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "bato ya Mitsraim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwasi"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mwasi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "azali kitoko"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ye"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mingi"
+    }
+  ],
+  "timestamp": "2026-09-03T15:49:48.523211427Z",
+  "model": "glm-5.3"
+}

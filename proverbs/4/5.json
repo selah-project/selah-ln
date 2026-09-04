@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 4:5",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Sanza bwanya, sanza bokansi; kangela koyibwa, mpe kangela komibenda mosika na maloba ya monoko na ngai.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "Sanza"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "bwanya"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "sanza"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "bokansi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kangela"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "koyibwa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mpe kangela"
+    },
+    {
+      "surface": "תט",
+      "gloss": "komibenda mosika"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "na maloba"
+    },
+    {
+      "surface": "פי",
+      "gloss": "monoko na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:37:58.805615573Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 18:15",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Mpe Hizkiya apesaki ⟨את⟩ fengo nyonso oyo ezalaki kati na ndako ya Yawe mpe na bibombelo ya ndako ya mokonzi.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Mpe Hizkiya apesaki"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Hizkiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fengo nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "fengo"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "oyo ezalaki"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yawe"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "mpe na bibombelo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ya ndako"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya mokonzi"
+    }
+  ],
+  "timestamp": "2026-09-03T19:08:01.245704794Z",
+  "model": "glm-5.3"
+}

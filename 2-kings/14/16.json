@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 14:16",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Mpe Yehoash alalaki na baboti na ye, mpe bakundaki ye na Shomron elongo na bakonzi ya Yisrael; mpe Yarovam mwana na ye akotaki na bokonzi na esika na ye.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "mpe alalaki"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Yehoash"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "baboti na ye"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "mpe bakundaki ye"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "na Shomron"
+    },
+    {
+      "surface": "עם",
+      "gloss": "elongo na"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "bakonzi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisrael"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "akotaki na bokonzi"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarovam"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana na ye"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "na esika na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T19:05:24.753480632Z",
+  "model": "glm-5.3"
+}

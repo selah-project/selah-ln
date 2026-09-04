@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 69:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 69,
+  "translation": "Mpo na yo natambwisaki matuka; konyokama ebombi elongi na ngai.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mpo na"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "yo"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "natambwisaki"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "matuka"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "ebombi"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "konyokama"
+    },
+    {
+      "surface": "פני",
+      "gloss": "elongi na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:17:16.383757991Z",
+  "model": "glm-5.3"
+}

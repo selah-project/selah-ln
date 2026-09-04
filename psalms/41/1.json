@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 41:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 41,
+  "translation": "Na mokambi; mizmor ya David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Na mokambi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya David"
+    }
+  ],
+  "timestamp": "2026-09-03T21:10:15.078426166Z",
+  "model": "glm-5.3"
+}

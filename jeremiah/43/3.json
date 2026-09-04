@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 43:3",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 43,
+  "translation": "Ete Baruk mwana ya Neriya akwekisa ⟨את⟩ yo na biso, mpo na kopeka ⟨את⟩ biso na maboko ya Bakasdim, mpo na koboma ⟨את⟩ biso mpe mpo na kotinda ⟨את⟩ biso mboka na Bavel.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Baruk"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana ya"
+    },
+    {
+      "surface": "נריה",
+      "gloss": "Neriya"
+    },
+    {
+      "surface": "מסית",
+      "gloss": "akwekisa"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ yo",
+      "marks": "yo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "na biso"
+    },
+    {
+      "surface": "למען",
+      "gloss": "mpo na"
+    },
+    {
+      "surface": "תת",
+      "gloss": "kopeka"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ biso",
+      "marks": "biso"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "na maboko ya"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "Bakasdim"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "mpo na koboma"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ biso",
+      "marks": "biso"
+    },
+    {
+      "surface": "ולהגלות",
+      "gloss": "mpe mpo na kotinda mboka"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ biso",
+      "marks": "biso"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    }
+  ],
+  "timestamp": "2026-09-03T20:03:18.739563719Z",
+  "model": "glm-5.3"
+}

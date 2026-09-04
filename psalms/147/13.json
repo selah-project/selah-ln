@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 147:13",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 147,
+  "translation": "Mpo ete amekaki makasi bipeti ya milangi na yo; abonaki bana na yo na kati na yo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo ete"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "amekaki makasi"
+    },
+    {
+      "surface": "בריחי",
+      "gloss": "bipeti"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "ya milangi na yo"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "abonaki"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "bana na yo"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "na kati na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:36:30.158321850Z",
+  "model": "glm-5.3"
+}

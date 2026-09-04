@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 29:8",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 29,
+  "translation": "Mpe batelaka ⟨את⟩ maloba ya boyokani oyo mpe bosali ⟨את⟩ bango, mpo bokolongoka na ⟨את⟩ nyonso oyo bosali.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "mpe batelaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maloba ya boyokani oyo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "maloba"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "ya boyokani"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "mpe bosali"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "maloba ya boyokani oyo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "תשכילו",
+      "gloss": "bokolongoka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyonso oyo bosali"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "bosali"
+    }
+  ],
+  "timestamp": "2026-09-03T17:38:11.055329535Z",
+  "model": "glm-5.3"
+}

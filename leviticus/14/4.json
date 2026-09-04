@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 14:4",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Mpe kohen apangisaki, mpe bakangaki mpo na moto oyo asengeli boyei ndeke mibale ya bomoi, ya bosei, mpe nzete ya ereza, mpe shni tolaat, mpe ezoba.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "apangisaki"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "mpe bakangaki"
+    },
+    {
+      "surface": "למטהר",
+      "gloss": "mpo na moto oyo asengeli boyei"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "ndeke"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "ya bomoi"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "ya bosei"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "mpe nzete"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "ya ereza"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "mpe shni"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "tolaat"
+    },
+    {
+      "surface": "ואזב",
+      "gloss": "mpe ezoba"
+    }
+  ],
+  "timestamp": "2026-09-03T16:46:42.815208288Z",
+  "model": "glm-5.3"
+}

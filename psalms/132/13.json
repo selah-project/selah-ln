@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 132:13",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 132,
+  "translation": "Mpo Yawe aponaki Tsion; alingaki yango lokola esika ya bobati na ye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "aponaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Tsion"
+    },
+    {
+      "surface": "אוה",
+      "gloss": "alingaki ⟨yango⟩"
+    },
+    {
+      "surface": "למושב",
+      "gloss": "lokola esika ya bobati"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:33:28.095100503Z",
+  "model": "glm-5.3"
+}

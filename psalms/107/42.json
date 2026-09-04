@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 107:42",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 107,
+  "translation": "Bomindele bamoni, mpe bakesi; mpe mabe nyonso ekangi monoko na yango.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "bamoni"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "Bomindele"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "mpe bakesi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe nyonso"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "קפצה",
+      "gloss": "ekangi"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "monoko na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:28:22.553620197Z",
+  "model": "glm-5.3"
+}

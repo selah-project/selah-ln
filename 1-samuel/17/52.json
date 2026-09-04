@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "1-samuel 17:52",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 17,
+  "translation": "Mpe bato ya Israel mpe ya Yehuda batandamaki mpe bayelaki, mpe balandaki ⟨את⟩ Bafilisti kino kokota na yo na libulu, mpe kino na zela ya Ekron; mpe bakufami ya Bafilisti bakitaki na nzela ya Shaaraim, kino na Gat mpe kino na Ekron.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "mpe batandamaki"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "bato ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "mpe Yehuda"
+    },
+    {
+      "surface": "וירעו",
+      "gloss": "mpe bayelaki"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "mpe balandaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bafilisti"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "Bafilisti"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "kokota na yo"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "libulu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "mpe kino"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "na zela ya"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekron"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "mpe bakitaki"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "bakufami"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ya Bafilisti"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "na nzela ya"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "Shaaraim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "mpe kino"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "mpe kino"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekron"
+    }
+  ],
+  "timestamp": "2026-09-03T18:19:52.116008362Z",
+  "model": "glm-5.3"
+}

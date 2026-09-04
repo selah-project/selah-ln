@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 9:3",
+  "book": "ezra",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Mpe tango nayoki ⟨את⟩ liloba oyo, nakataki ⟨את⟩ elamba na ngai mpe likango na ngai, mpe nakundolaki nzete ya motó na ngai mpe minyoi na ngai, mpe nafandaki na mawa monene.",
+  "tokens": [
+    {
+      "surface": "וכשמעי",
+      "gloss": "Mpe tango nayoki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "liloba oyo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "liloba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "קרעתי",
+      "gloss": "nakataki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elamba na ngai"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "elamba na ngai"
+    },
+    {
+      "surface": "ומעילי",
+      "gloss": "mpe likango na ngai"
+    },
+    {
+      "surface": "ואמרטה",
+      "gloss": "mpe nakundolaki"
+    },
+    {
+      "surface": "משער",
+      "gloss": "nzete"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ya motó na ngai"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "mpe minyoi na ngai"
+    },
+    {
+      "surface": "ואשבה",
+      "gloss": "mpe nafandaki"
+    },
+    {
+      "surface": "משומם",
+      "gloss": "na mawa monene"
+    }
+  ],
+  "timestamp": "2026-09-03T23:41:13.814806967Z",
+  "model": "glm-5.3"
+}

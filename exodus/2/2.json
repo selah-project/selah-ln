@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 2:2",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mwasi azwaki mbuma mpe abotaki mwana mobali; mpe amonalaki ⟨את⟩ ⟨ye⟩ ete ⟨azali⟩ malamu, mpe abombaki ⟨ye⟩ sanza misato.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "azwaki mbuma"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "Mwasi"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "abotaki"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana mobali"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "amonalaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨ye⟩",
+      "marks": "ye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "malamu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ye⟩ ⟨azali⟩"
+    },
+    {
+      "surface": "ותצפנהו",
+      "gloss": "abombaki ⟨ye⟩"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "misato"
+    },
+    {
+      "surface": "ירחים",
+      "gloss": "sanza"
+    }
+  ],
+  "timestamp": "2026-09-03T16:14:00.565314425Z",
+  "model": "glm-5.3"
+}

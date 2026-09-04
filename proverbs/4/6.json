@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 4:6",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Bakanga kobwaka yango, mpe yango ekobatela yo; bolinga yango, mpe yango ekopekela yo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Bakanga"
+    },
+    {
+      "surface": "תעזבה",
+      "gloss": "kobwaka yango"
+    },
+    {
+      "surface": "ותשמרך",
+      "gloss": "mpe ekobatela yo"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "bolinga yango"
+    },
+    {
+      "surface": "ותצרך",
+      "gloss": "mpe ekopekela yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:37:58.805846906Z",
+  "model": "glm-5.3"
+}

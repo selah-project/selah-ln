@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 42:12",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 42,
+  "translation": "Mpe alobaki na bango: Te; kasi bozangi ya mabele boyaki komona.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Te"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kasi"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "bozangi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ya mabele"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "boyaki"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "komona"
+    }
+  ],
+  "timestamp": "2026-09-03T16:07:49.117976726Z",
+  "model": "glm-5.3"
+}

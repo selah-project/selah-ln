@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 6:1",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Yeriho ekangami mpe ekangami nde penza, elongi ya bankoya ya Israel; moto oyo azali kobima azali te, mpe moto oyo azali kokota azali te.",
+  "tokens": [
+    {
+      "surface": "ויריחו",
+      "gloss": "Yeriho"
+    },
+    {
+      "surface": "סגרת",
+      "gloss": "ekangami"
+    },
+    {
+      "surface": "ומסגרת",
+      "gloss": "mpe ekangami nde penza"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "elongi ya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bankoya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "אין",
+      "gloss": "azali te"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "oyo azali kobima"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mpe azali te"
+    },
+    {
+      "surface": "בא",
+      "gloss": "oyo azali kokota"
+    }
+  ],
+  "timestamp": "2026-09-03T17:45:12.560123471Z",
+  "model": "glm-5.3"
+}

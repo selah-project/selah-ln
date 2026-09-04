@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 38:10",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 38,
+  "translation": "Mpe oyo asalaki ezalaki mabe miso ya Yawe, mpe akufisaki ⟨את⟩ ye mpe.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "ezalaki mabe"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "miso ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "asalaki"
+    },
+    {
+      "surface": "ותמת",
+      "gloss": "mpe akufisaki"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ye",
+      "marks": "ye (Onan)"
+    }
+  ],
+  "timestamp": "2026-09-03T16:06:06.622148220Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 17:9",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 17,
+  "translation": "mpe epai ya mongongo ya eteni ya bokutani akotindaka ⟨את⟩ yango te, mpo na kosala ⟨את⟩ yango epai ya Yawe; mpe moto yango akolongwama kati na bato na ye.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "mpe epai ya"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "mongongo ya"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "eteni"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "bokutani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יביאנו",
+      "gloss": "akotindaka yango"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "mpo na kosala"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yango (sacrifice oyo emonanaki na vɛrsɛ 8)"
+    },
+    {
+      "surface": "ליהוָה",
+      "gloss": "epai ya Yawe"
+    },
+    {
+      "surface": "ונכרת",
+      "gloss": "mpe akolongwama"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yango"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "kati na bato na ye"
+    }
+  ],
+  "timestamp": "2026-09-04T00:18:28.798975641Z",
+  "model": "glm-5.3"
+}

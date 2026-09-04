@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 147:17",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 147,
+  "translation": "Atumbaki glase na ye lokola biteni; liboso ya malili na ye nani akotelema?",
+  "tokens": [
+    {
+      "surface": "משליך",
+      "gloss": "Atumbaki"
+    },
+    {
+      "surface": "קרחו",
+      "gloss": "glase na ye"
+    },
+    {
+      "surface": "כפתים",
+      "gloss": "lokola biteni"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "קרתו",
+      "gloss": "malili na ye"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nani"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "akotelema"
+    }
+  ],
+  "timestamp": "2026-09-03T21:36:28.760159643Z",
+  "model": "glm-5.3"
+}

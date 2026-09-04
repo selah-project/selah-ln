@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 25:20",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Mpe ⟨את⟩ bato nyonso oyo basangani, mpe ⟨את⟩ bakonzi nyonso ya mabele ya Uts, mpe ⟨את⟩ bakonzi nyonso ya mabele ya Plishtim, mpe ⟨את⟩ Ashkelon, mpe ⟨את⟩ Aza, mpe ⟨את⟩ Ekron, mpe ⟨את⟩ oyo etikali ya Ashdod.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bato nyonso oyo basangani"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "bato oyo basangani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bakonzi nyonso ya mabele ya Uts"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "bakonzi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ya mabele"
+    },
+    {
+      "surface": "העוץ",
+      "gloss": "ya Uts"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bakonzi nyonso ya mabele ya Plishtim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "bakonzi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ya mabele"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ya Plishtim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Ashkelon"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "Ashkelon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Aza"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Ekron"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "oyo etikali ya Ashdod"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "oyo etikali"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "ya Ashdod"
+    }
+  ],
+  "timestamp": "2026-09-03T19:54:28.741788110Z",
+  "model": "glm-5.3"
+}

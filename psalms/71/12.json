@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 71:12",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 71,
+  "translation": "Elohim, kika ngai mosika te; Elohim na ngai, vika noki na lisalisi na ngai.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "kika ngai mosika"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim na ngai"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "na lisalisi na ngai"
+    },
+    {
+      "surface": "חישה",
+      "gloss": "vika noki"
+    }
+  ],
+  "timestamp": "2026-09-03T21:16:44.791170515Z",
+  "model": "glm-5.3"
+}

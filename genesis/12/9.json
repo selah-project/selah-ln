@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 12:9",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Mpe Avram atambolaki, kokende mpe kutambola, na su.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "Mpe atambolaki"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "kokende"
+    },
+    {
+      "surface": "ונסוע",
+      "gloss": "mpe kutambola"
+    },
+    {
+      "surface": "הנגבה",
+      "gloss": "na su"
+    }
+  ],
+  "timestamp": "2026-09-03T15:49:50.827568639Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 16:10",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Mpe bonsengo mpe liyesa etiyami mosika kati na elanga; mpe na bizete ya mvinyo bakoyemba te, bakolapa te; mvinyo na bimasini ya kometa mokali ya kometa akometa te; lopango nasiaki yango.",
+  "tokens": [
+    {
+      "surface": "ונאסף",
+      "gloss": "mpe etiyami mosika"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "bonsengo"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "mpe liyesa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kati na"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "elanga"
+    },
+    {
+      "surface": "ובכרמים",
+      "gloss": "mpe na bizete ya mvinyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ירנן",
+      "gloss": "bakoyemba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ירעע",
+      "gloss": "bakolapa"
+    },
+    {
+      "surface": "יין",
+      "gloss": "mvinyo"
+    },
+    {
+      "surface": "ביקבים",
+      "gloss": "na bimasini ya kometa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "akometa"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "mokali ya kometa"
+    },
+    {
+      "surface": "הידד",
+      "gloss": "lopango"
+    },
+    {
+      "surface": "השבתי",
+      "gloss": "nasiaki yango"
+    }
+  ],
+  "timestamp": "2026-09-03T19:19:29.914650796Z",
+  "model": "glm-5.3"
+}

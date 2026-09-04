@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 22:3",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Mpe mokonzi wa Israel alobaki epai ya bawumbu na ye: Boyei bino ete Ramot wa Gilad ezali ya biso, mpe biso tozalaki bobele na kozwa ⟨את⟩ yango na maboko ya mokonzi wa Aram?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "bawumbu na ye"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "Boyei bino"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ya biso"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "mpe biso"
+    },
+    {
+      "surface": "מחשים",
+      "gloss": "tozalaki bobele"
+    },
+    {
+      "surface": "מקחת",
+      "gloss": "na kozwa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "Ramot Gilad"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "na maboko"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-09-03T18:58:26.160903686Z",
+  "model": "glm-5.3"
+}

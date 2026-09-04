@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 80:16",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 80,
+  "translation": "mpe bansete oyo loboko na yo ya monene olaki, mpe mwana oyo ozalaki kolama na yo.",
+  "tokens": [
+    {
+      "surface": "וכנה",
+      "gloss": "mpe bansete"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "נטעה",
+      "gloss": "olaki"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "loboko na yo ya monene"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "mpe na"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "אמצתה",
+      "gloss": "ozalaki kolama"
+    },
+    {
+      "surface": "לך",
+      "gloss": "na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:21:11.181331301Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 62:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 62,
+  "translation": "Kaka epai ya Elohim, molimo na ngai, kwanela kimya; mpo na ye ezali elikya na ngai.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Kaka"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "epai ya Elohim"
+    },
+    {
+      "surface": "דומי",
+      "gloss": "kwanela kimya"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "molimo na ngai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "elikya na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:15:42.316593973Z",
+  "model": "glm-5.3"
+}

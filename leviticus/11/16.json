@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 11:16",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpe ⟨את⟩ mwana mwasi ya Yaana, mpe ⟨את⟩ Tahmas, mpe ⟨את⟩ Shahaf, mpe ⟨את⟩ Nets, na lolenge na yango.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mwana mwasi ya Yaana"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana mwasi"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "Yaana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Tahmas"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "Tahmas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Shahaf"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "Shahaf"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Nets"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "Nets"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "na lolenge na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:43:31.885571898Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "hosea 2:24",
+  "book": "hosea",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe mabele eyanola ⟨את⟩ masango, mpe ⟨את⟩ divai ya sika, mpe ⟨את⟩ mafuta; mpe bango bayanola ⟨את⟩ Yizreel.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "mpe mabele"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "eyanola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masango"
+    },
+    {
+      "surface": "הדגן",
+      "gloss": "masango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "divai ya sika"
+    },
+    {
+      "surface": "התירוש",
+      "gloss": "divai ya sika"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mafuta"
+    },
+    {
+      "surface": "היצהר",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "והם",
+      "gloss": "mpe bango"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "bayanola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yizreel"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    }
+  ],
+  "timestamp": "2026-09-03T20:37:27.170343038Z",
+  "model": "glm-5.3"
+}

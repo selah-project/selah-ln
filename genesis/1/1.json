@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Na ebandeli Elohim akelaki ⟨את⟩ likolo mpe ⟨את⟩ mabele.",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "Na ebandeli"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "akelaki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "likolo"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "likolo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mabele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T15:43:36.741006579Z",
+  "model": "glm-5.3"
+}

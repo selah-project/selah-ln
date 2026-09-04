@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 4:3",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe na suka ya mikolo, Kayin akitisaki likabo kati na mboto ya mabele, epai ya Yawe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mpe na suka ya mikolo ⟨ekowelaki⟩"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "na suka"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ya mikolo"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "akitoleki"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "kati na mboto"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ya mabele"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "likabo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "epai ya Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T15:45:52.833970138Z",
+  "model": "glm-5.3"
+}

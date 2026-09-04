@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 115:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 115,
+  "translation": "Te na biso, Yawe, te na biso, kasi na nkombo na yo pesa nkembo, likolo ya hesed na yo, likolo ya bosolo na yo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Te"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "na biso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "na biso"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kasi"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "na nkombo na yo"
+    },
+    {
+      "surface": "תן",
+      "gloss": "pesa"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "nkembo"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed na yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "bosolo na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:29:51.624503070Z",
+  "model": "glm-5.3"
+}

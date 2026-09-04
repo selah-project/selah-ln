@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 24:24",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "Mpe bato balobaki epai ya Yehoshua: ⟨את⟩ Yawe Elohim na biso tokosambela, mpe na liloba na ye tokanisa.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Mpe balobaki"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe Elohim na biso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim na biso"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "tokosambela"
+    },
+    {
+      "surface": "ובקולו",
+      "gloss": "mpe na liloba na ye"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "tokanisa"
+    }
+  ],
+  "timestamp": "2026-09-03T17:54:46.063836102Z",
+  "model": "glm-5.3"
+}

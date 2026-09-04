@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 3:50",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Uta ⟨את⟩ bakobori ya bana ya Israel atiaki ⟨את⟩ mbongo: nkoto moko na nkoto misato na ntuku motoba na mitano, na shekel ya santu.",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "uta ⟨את⟩"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "bakobori"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ya bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "atiaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbongo"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "mbongo"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "mitano"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "mpe ntuku motoba"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "mpe misato"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "nkoto misato"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "mpe nkoto moko"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "na shekel"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ya santu"
+    }
+  ],
+  "timestamp": "2026-09-03T16:58:55.771265111Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 127:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 127,
+  "translation": "Lokasa baflèches na maboko ya moto ya nguya, ndenge wana bana ya bilenge.",
+  "tokens": [
+    {
+      "surface": "כחצים",
+      "gloss": "Lokasa baflèches"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "na maboko"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ya moto ya nguya"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ndenge wana"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "הנעורים",
+      "gloss": "ya bilenge"
+    }
+  ],
+  "timestamp": "2026-09-03T21:33:40.544500944Z",
+  "model": "glm-5.3"
+}

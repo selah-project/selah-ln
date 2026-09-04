@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 19:23",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Na maboko ya batindami na yo ozali kofula Adonai, mpe olobaki: Na boninga ya masanga na ngai ngai nalingaki likolo ya bangomba, na mimesu ya Libanon; mpe nakataki bolai ya baereza na yango, epepe ya bansengere na yango, mpe nakotaki esika ya bopemi ya nsuka na yango, zombo ya karamele na yango.",
+  "tokens": [
+    {
+      "surface": "ביד",
+      "gloss": "na maboko"
+    },
+    {
+      "surface": "מלאכיך",
+      "gloss": "batindami na yo"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "ozali kofula"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "mpe olobaki"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "na boninga ya masanga"
+    },
+    {
+      "surface": "רכבי",
+      "gloss": "masanga na ngai"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "עליתי",
+      "gloss": "nalingaki likolo"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "likolo"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "bangomba"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "mimesu"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Libanon"
+    },
+    {
+      "surface": "ואכרת",
+      "gloss": "mpe nakataki"
+    },
+    {
+      "surface": "קומת",
+      "gloss": "bolai"
+    },
+    {
+      "surface": "ארזיו",
+      "gloss": "baereza na yango"
+    },
+    {
+      "surface": "מבחור",
+      "gloss": "epepe"
+    },
+    {
+      "surface": "ברשיו",
+      "gloss": "bansengere na yango"
+    },
+    {
+      "surface": "ואבואה",
+      "gloss": "mpe nakotaki"
+    },
+    {
+      "surface": "מלון",
+      "gloss": "esika ya bopemi"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "nsuka"
+    },
+    {
+      "surface": "יער",
+      "gloss": "zombo"
+    },
+    {
+      "surface": "כרמלו",
+      "gloss": "karamele na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T23:24:25.679204291Z",
+  "model": "glm-5.3"
+}

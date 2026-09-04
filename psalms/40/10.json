@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 40:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 40,
+  "translation": "Nasakolaki bosembo na lisanga monene; talá, mindeli na ngai nakangaki te — Yawe, yo omoni.",
+  "tokens": [
+    {
+      "surface": "בשרתי",
+      "gloss": "nasakolaki"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "bosembo"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "na lisanga"
+    },
+    {
+      "surface": "רב",
+      "gloss": "monene"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "talá"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "mindeli na ngai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "אכלא",
+      "gloss": "nakangaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "omoni"
+    }
+  ],
+  "timestamp": "2026-09-03T21:10:06.853451740Z",
+  "model": "glm-5.3"
+}

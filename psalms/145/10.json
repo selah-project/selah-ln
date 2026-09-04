@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 145:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 145,
+  "translation": "Misala na yo nyonso ekumisa yo, Yawe, mpe basantu na yo bakopela yo.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "ekumisa yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "misala na yo"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "mpe basantu na yo"
+    },
+    {
+      "surface": "יברכוכה",
+      "gloss": "bakopela yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:36:11.581717239Z",
+  "model": "glm-5.3"
+}

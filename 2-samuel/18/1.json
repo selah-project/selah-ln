@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 18:1",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Mpe David apambaki ⟨את⟩ bato oyo bazalaki ⟨את⟩ na ye, mpe atyaki na bango basoka ya elefu mpe basoka ya nkama.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "apambaki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bato"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ na ye"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "mpe atyaki"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "basoka"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ya elefu"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "mpe basoka"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ya nkama"
+    }
+  ],
+  "timestamp": "2026-09-03T18:37:14.799537102Z",
+  "model": "glm-5.3"
+}

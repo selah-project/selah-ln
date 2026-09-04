@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 122:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 122,
+  "translation": "Botosa botuya bwa Yerushalaim; baye balingaka yo bazwa bobei.",
+  "tokens": [
+    {
+      "surface": "שאלו",
+      "gloss": "Botosa"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "botuya"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "ישליו",
+      "gloss": "bazwa bobei"
+    },
+    {
+      "surface": "אהביך",
+      "gloss": "baye balingaka yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:33:42.342380152Z",
+  "model": "glm-5.3"
+}

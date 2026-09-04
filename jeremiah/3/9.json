@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 3:9",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe ekamwaki na bokei ya bonzeka na yango, abebisaki ⟨את⟩ mabele, mpe asalaki bonzeka na ⟨את⟩ libanga mpe na ⟨את⟩ nzete.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "mpe ekamwaki"
+    },
+    {
+      "surface": "מקל",
+      "gloss": "na bokei"
+    },
+    {
+      "surface": "זנותה",
+      "gloss": "ya bonzeka na yango"
+    },
+    {
+      "surface": "ותחנף",
+      "gloss": "abebisaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "ותנאף",
+      "gloss": "mpe asalaki bonzeka na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "libanga"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "libanga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "nzete"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "nzete"
+    }
+  ],
+  "timestamp": "2026-09-03T23:27:30.123196604Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 51:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 51,
+  "translation": "Ozwa ngai na ezov mpe nakoyamba; oka ngai mpe nakoyeka koleka sheleg.",
+  "tokens": [
+    {
+      "surface": "תחטאני",
+      "gloss": "Ozwa ngai (na makambo mabe)"
+    },
+    {
+      "surface": "באזוב",
+      "gloss": "na ezov"
+    },
+    {
+      "surface": "ואטהר",
+      "gloss": "mpe nakoyamba"
+    },
+    {
+      "surface": "תכבסני",
+      "gloss": "oka ngai"
+    },
+    {
+      "surface": "ומשלג",
+      "gloss": "koleka sheleg"
+    },
+    {
+      "surface": "אלבין",
+      "gloss": "nakoyeka"
+    }
+  ],
+  "timestamp": "2026-09-03T21:13:32.409381754Z",
+  "model": "glm-5.3"
+}

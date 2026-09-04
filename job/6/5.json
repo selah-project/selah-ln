@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 6:5",
+  "book": "job",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Paleke ya zamba ekoloba soki ezali na matomba, to momeso akoloba na likabo na ye?",
+  "tokens": [
+    {
+      "surface": "הינהק",
+      "gloss": "ekoloba"
+    },
+    {
+      "surface": "פרא",
+      "gloss": "paleke ya zamba"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "na"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "matomba"
+    },
+    {
+      "surface": "אם",
+      "gloss": "to"
+    },
+    {
+      "surface": "יגעה",
+      "gloss": "akoloba"
+    },
+    {
+      "surface": "שור",
+      "gloss": "momeso"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "בלילו",
+      "gloss": "likabo na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:52:00.635293648Z",
+  "model": "glm-5.3"
+}

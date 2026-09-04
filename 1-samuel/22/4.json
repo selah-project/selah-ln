@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 22:4",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Mpe akanisaki ⟨את⟩ bomoni ya mokonzi ya Moab, mpe batikali na ye mokolo nyonso oyo David azalaki na esika ya makasi.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "mpe akanisaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bomoni ya mokonzi ya Moab"
+    },
+    {
+      "surface": "פני",
+      "gloss": "bomoni"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ya mokonzi"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ya Moab"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "mpe batikali"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mokolo"
+    },
+    {
+      "surface": "היות",
+      "gloss": "oyo azalaki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "na esika ya makasi"
+    }
+  ],
+  "timestamp": "2026-09-03T18:22:28.503318727Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Motuna mpe mosali ya mosolo bakolia yango te.",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "motuna"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "mpe mosali ya mosolo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "bakolia"
+    },
+    {
+      "surface": "בו",
+      "gloss": "yango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:19:22.504779384Z",
+  "model": "glm-5.3"
+}

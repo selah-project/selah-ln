@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 94:15",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 94,
+  "translation": "Mpo ete tango bosambo ekozonga na sembo, mpe na nsima na yango nyonso ya motema sembo bakolanda yango.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tango"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "sembo"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ekozonga"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "bosambo"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "mpe na nsima na yango"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "ya sembo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "motema"
+    }
+  ],
+  "timestamp": "2026-09-03T21:24:35.747454495Z",
+  "model": "glm-5.3"
+}

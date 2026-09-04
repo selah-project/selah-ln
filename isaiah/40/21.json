@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 40:21",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 40,
+  "translation": "Boye boyebi te, boye bowoyi te? Boye esololamaki te bande na ebandeli na bino? Boye bososoli te mibako ya mabele?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Boye...te"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "boyebi"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "boye...te"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "bowoyi"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "boye...te"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "esololamaki"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "bande na ebandeli"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "na bino"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "boye...te"
+    },
+    {
+      "surface": "הבינתם",
+      "gloss": "bososoli"
+    },
+    {
+      "surface": "מוסדות",
+      "gloss": "mibako"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ya mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T19:30:23.299153027Z",
+  "model": "glm-5.3"
+}

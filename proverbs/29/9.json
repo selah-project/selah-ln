@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 29:9",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 29,
+  "translation": "Moto mayele ajugi ⟨את⟩ moto ewil, mpe alongi mpe asakani, mpe ezali na boboi te.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "mayele"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "ajugi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moto ewil"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "ewil"
+    },
+    {
+      "surface": "ורגז",
+      "gloss": "mpe alongi"
+    },
+    {
+      "surface": "ושחק",
+      "gloss": "mpe asakani"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mpe ezali te"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "boboi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:47:52.303221020Z",
+  "model": "glm-5.3"
+}

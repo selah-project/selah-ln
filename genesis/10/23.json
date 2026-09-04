@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 10:23",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Mpe bana ya Aram: Uts, mpe Hul, mpe Geter, mpe Mash.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Mpe bana"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "Uts"
+    },
+    {
+      "surface": "וחול",
+      "gloss": "mpe Hul"
+    },
+    {
+      "surface": "וגתר",
+      "gloss": "mpe Geter"
+    },
+    {
+      "surface": "ומש",
+      "gloss": "mpe Mash"
+    }
+  ],
+  "timestamp": "2026-09-03T15:48:51.568226300Z",
+  "model": "glm-5.3"
+}

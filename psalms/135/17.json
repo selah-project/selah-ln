@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 135:17",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 135,
+  "translation": "Matoyi bazali na bango mpe bayokaki te; mpe mpema ezali te na monoko na bango.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "Matoyi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe ... te"
+    },
+    {
+      "surface": "יאזינו",
+      "gloss": "bayokaki"
+    },
+    {
+      "surface": "אף",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ezali te"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨ezali⟩"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mpema"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "na monoko na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:34:03.523997890Z",
+  "model": "glm-5.3"
+}

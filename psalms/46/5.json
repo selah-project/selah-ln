@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 46:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 46,
+  "translation": "Ebale, bansinga na yango esepelisaka mboka ya Elohim, esika nsantu ya bandako ya Elyon.",
+  "tokens": [
+    {
+      "surface": "נהר",
+      "gloss": "Ebale"
+    },
+    {
+      "surface": "פלגיו",
+      "gloss": "bansinga na yango"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "esepelisaka"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mboka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "nsantu"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "bandako"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    }
+  ],
+  "timestamp": "2026-09-03T21:11:56.870500393Z",
+  "model": "glm-5.3"
+}

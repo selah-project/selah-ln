@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 12:17",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Mpe Yawe anungaki ⟨את⟩ Parao na mapeto makasi, mpe ⟨את⟩ ndako na ye, mpo na likambo ya Sarai, mwasi ya Avram.",
+  "tokens": [
+    {
+      "surface": "וינגע",
+      "gloss": "mpe anungaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Parao"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "נגעים",
+      "gloss": "na mapeto"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "makasi"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "ndako na ye"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ndako na ye"
+    },
+    {
+      "surface": "על",
+      "gloss": "mpo na"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "likambo"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mwasi"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    }
+  ],
+  "timestamp": "2026-09-03T15:49:50.265962706Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 42:22",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 42,
+  "translation": "Mpe Reuven eyanolaki ⟨את⟩ bango ete: Nakolakaki bongo na bino te ete: Bobala mabe na mwana? Mpe boyokaki te; mpe makila na ye, tala, ekangami.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Mpe eyanolaki"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuven"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bango"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ete"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "bongo"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nakolakaki"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "na bino"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ete"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bobala"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "בילד",
+      "gloss": "na mwana"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "boyokaki te"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "makila na ye"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tala"
+    },
+    {
+      "surface": "נדרש",
+      "gloss": "ekangami"
+    }
+  ],
+  "timestamp": "2026-09-03T16:08:16.235205394Z",
+  "model": "glm-5.3"
+}

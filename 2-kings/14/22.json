@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 14:22",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Ye atongaki ⟨את⟩ Elat mpe azongisaki yango na Yehuda, sima ya kokita ya mokonzi elongo na batataye.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Ye"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "atongaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elat"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "Elat"
+    },
+    {
+      "surface": "וישבה",
+      "gloss": "mpe azongisaki yango"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "na Yehuda"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sima ya"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "kokita"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "elongo na"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "batataye"
+    }
+  ],
+  "timestamp": "2026-09-03T23:24:15.036359087Z",
+  "model": "glm-5.3"
+}

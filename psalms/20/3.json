@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 20:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 20,
+  "translation": "Atinda bosungi bwa yo wuta na Qodesh, mpe wuta na Tsion asalisi yo.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Atinda"
+    },
+    {
+      "surface": "עזרך",
+      "gloss": "bosungi bwa yo"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "wuta na Qodesh"
+    },
+    {
+      "surface": "ומציון",
+      "gloss": "mpe wuta na Tsion"
+    },
+    {
+      "surface": "יסעדך",
+      "gloss": "asalasi yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:04:52.193616086Z",
+  "model": "glm-5.3"
+}

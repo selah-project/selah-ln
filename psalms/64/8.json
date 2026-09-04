@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 64:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 64,
+  "translation": "Mpe Elohim akuna bango na nsunga; kweya yanzo ndwango na bango ekomi.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "Mpe akuna bango"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "na nsunga"
+    },
+    {
+      "surface": "פתאום",
+      "gloss": "yanzo"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ekomi"
+    },
+    {
+      "surface": "מכותם",
+      "gloss": "ndwango na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:16:11.101289930Z",
+  "model": "glm-5.3"
+}

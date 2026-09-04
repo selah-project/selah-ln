@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 19:17",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Mpe Moshe akitisaki ⟨את⟩ bato mpo na kokutana na Elohim, uta na kaa; mpe batyeleaki na nse ya ngomba.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "mpo akitisaki"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bato"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "mpo na kokutana na"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uta"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kaa"
+    },
+    {
+      "surface": "ויתיצבו",
+      "gloss": "mpe batyeleaki"
+    },
+    {
+      "surface": "בתחתית",
+      "gloss": "na nse ya"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ngomba"
+    }
+  ],
+  "timestamp": "2026-09-03T16:22:52.231443036Z",
+  "model": "glm-5.3"
+}

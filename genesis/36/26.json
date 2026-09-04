@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 36:26",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 36,
+  "translation": "Mpe bana ya Dishan: Hemdan, mpe Eshban, mpe Yitran, mpe Keran.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Mpe bana"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "דישן",
+      "gloss": "ya Dishan:"
+    },
+    {
+      "surface": "חמדן",
+      "gloss": "Hemdan,"
+    },
+    {
+      "surface": "ואשבן",
+      "gloss": "mpe Eshban,"
+    },
+    {
+      "surface": "ויתרן",
+      "gloss": "mpe Yitran,"
+    },
+    {
+      "surface": "וכרן",
+      "gloss": "mpe Keran"
+    }
+  ],
+  "timestamp": "2026-09-03T16:02:30.485191119Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 14:16",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Mpe David asalaki ndenge Elohim atindaki ye, mpe bakangolaki ⟨את⟩ kaa ya Balishti uta Givon kino Gezera.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "asalaki"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ndenge"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "atindaki ye"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "bakangolaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaa"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "kaa"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ya Balishti"
+    },
+    {
+      "surface": "מגבעון",
+      "gloss": "uta Givon"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "mpe kino"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "Gezera"
+    }
+  ],
+  "timestamp": "2026-09-03T22:46:32.824914579Z",
+  "model": "glm-5.3"
+}

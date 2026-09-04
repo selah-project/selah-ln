@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 37:21",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 37,
+  "translation": "Rashi asɛngaka ⟨mbongo⟩ kasi afutaka te; mpe mobali-sembo atambwisaka na ngolu mpe apesaka.",
+  "tokens": [
+    {
+      "surface": "לוה",
+      "gloss": "asɛngaka ⟨mbongo⟩"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "rashi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kasi … te"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "afutaka"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "mpe mobali-sembo"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "atambwisaka na ngolu"
+    },
+    {
+      "surface": "ונותן",
+      "gloss": "mpe apesaka"
+    }
+  ],
+  "timestamp": "2026-09-03T21:09:49.744105827Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 78:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 78,
+  "translation": "Mpe bazala lolenge ya ba-tata na bango te: mbongwana mabepe mpe ya likoli, mbongwana oyo ebongisi motema na yango te, mpe elimo na yango ezalaki sembo ⟨את⟩ El te.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bazala"
+    },
+    {
+      "surface": "כאבותם",
+      "gloss": "lolenge ya ba-tata na bango"
+    },
+    {
+      "surface": "דור",
+      "gloss": "mbongwana"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "mabepe"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "mpe ya likoli"
+    },
+    {
+      "surface": "דור",
+      "gloss": "mbongwana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "ebongisi"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "motema na yango"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "ezalaki sembo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "El"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "elimo na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:19:39.661520318Z",
+  "model": "glm-5.3"
+}

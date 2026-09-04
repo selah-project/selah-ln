@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 42:10",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 42,
+  "translation": "Soki bozongi kofanda na mabele oyo, nakotonga ⟨את⟩ bino, mpe nakobebisa te; nakotia bongo ⟨את⟩ bino, mpe nakolongola te; mpo ete namemi mawa likolo ya mabe oyo nasalaki na bino.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Soki"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "kozonga"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "kofanda"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "nakotonga"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ bino",
+      "marks": "bino"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "אהרס",
+      "gloss": "nakobebisa"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "nakotia bongo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ bino",
+      "marks": "bino"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "אתוש",
+      "gloss": "nakolongola"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "namemi mawa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "nasalaki"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "na bino"
+    }
+  ],
+  "timestamp": "2026-09-03T20:04:21.864581159Z",
+  "model": "glm-5.3"
+}

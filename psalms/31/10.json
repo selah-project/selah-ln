@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 31:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 31,
+  "translation": "Chana ngai, Yawe, mpo ete nkomi ezali na ngai; miso na ngai ekufelaki na kanda, molimo na ngai mpe libumu na ngai.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Chana ngai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "צר",
+      "gloss": "nkomi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ezali na ngai"
+    },
+    {
+      "surface": "עששה",
+      "gloss": "ekufelaki"
+    },
+    {
+      "surface": "בכעס",
+      "gloss": "na kanda"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "miso na ngai"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "molimo na ngai"
+    },
+    {
+      "surface": "ובטני",
+      "gloss": "mpe libumu na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:06:10.168745828Z",
+  "model": "glm-5.3"
+}

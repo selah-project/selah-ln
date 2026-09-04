@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 51:8",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 51,
+  "translation": "Mpo motto akolya bango lokola elamba, mpe motu ya sutu akolya bango lokola sutu; kasi bosembo na ngai ekozala libela, mpe lobiko na ngai na mibota mibota.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "lokola elamba"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "akolya bango"
+    },
+    {
+      "surface": "עש",
+      "gloss": "motto"
+    },
+    {
+      "surface": "וכצמר",
+      "gloss": "mpe lokola sutu"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "akolya bango"
+    },
+    {
+      "surface": "סס",
+      "gloss": "motu ya sutu"
+    },
+    {
+      "surface": "וצדקתי",
+      "gloss": "mpe bosembo na ngai"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "libela"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ekozala"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "mpe lobiko na ngai"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "na mibota"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "mibota"
+    }
+  ],
+  "timestamp": "2026-09-03T19:35:47.300592109Z",
+  "model": "glm-5.3"
+}

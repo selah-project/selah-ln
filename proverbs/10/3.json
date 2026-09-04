@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 10:3",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Yawe atyaka njala te na molimo ya mosolo, kasi mposa ya babubi ayangaka.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ירעיב",
+      "gloss": "atyaka njala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "molimo"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ya mosolo"
+    },
+    {
+      "surface": "והות",
+      "gloss": "kasi mposa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ya babubi"
+    },
+    {
+      "surface": "יהדף",
+      "gloss": "ayangaka"
+    }
+  ],
+  "timestamp": "2026-09-03T21:40:24.894108121Z",
+  "model": "glm-5.3"
+}

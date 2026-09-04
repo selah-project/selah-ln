@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 36:11",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 36,
+  "translation": "Banda hesed na yo kino na bayebi yo, mpe boloki na yo kino na basemboloki ya motema.",
+  "tokens": [
+    {
+      "surface": "משך",
+      "gloss": "Banda"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed na yo"
+    },
+    {
+      "surface": "לידעיך",
+      "gloss": "kino na bayebi yo"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "mpe boloki na yo"
+    },
+    {
+      "surface": "לישרי",
+      "gloss": "kino na basemboloki"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ya motema"
+    }
+  ],
+  "timestamp": "2026-09-03T21:08:00.503192114Z",
+  "model": "glm-5.3"
+}

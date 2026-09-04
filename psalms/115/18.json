@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 115:18",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 115,
+  "translation": "Mpe biso tokumisa Ya, uta sikoyo kino na seko. Bokumisa Ya!",
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "mpe biso"
+    },
+    {
+      "surface": "נברך",
+      "gloss": "tokumisa"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "uta sikoyo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kino na"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "seko"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "bokumisa"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    }
+  ],
+  "timestamp": "2026-09-03T21:30:05.205966124Z",
+  "model": "glm-5.3"
+}

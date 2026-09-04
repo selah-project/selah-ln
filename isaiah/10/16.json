@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 10:16",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Mpo na yango Adonai Yawe Tsebaot akotinda kangolema kati ya bopei na ye, mpe na nse ya nkembo na ye ekotelaka lilo, lokola botelu ya moto.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Mpo na yango"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "akotinda"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "במשמניו",
+      "gloss": "kati ya bopei na ye"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "kangolema"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "mpe na nse ya"
+    },
+    {
+      "surface": "כבדו",
+      "gloss": "nkembo na ye"
+    },
+    {
+      "surface": "יקד",
+      "gloss": "ekotelaka"
+    },
+    {
+      "surface": "יקד",
+      "gloss": "lilo"
+    },
+    {
+      "surface": "כיקוד",
+      "gloss": "lokola botelu"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ya moto"
+    }
+  ],
+  "timestamp": "2026-09-03T19:18:11.486040446Z",
+  "model": "glm-5.3"
+}

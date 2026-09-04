@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 24:21",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "Mpe bato balobaki epai ya Yehoshua: Te; kasi ⟨את⟩ Yawe nde tokosambela.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe balobaki"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Te"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "tokosambela"
+    }
+  ],
+  "timestamp": "2026-09-03T17:54:46.063052348Z",
+  "model": "glm-5.3"
+}

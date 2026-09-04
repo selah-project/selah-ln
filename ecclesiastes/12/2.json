@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 12:2",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "kino tango mwesi ekangamaki te na moindo, mpe bangi, mpe sanza, mpe banyota, mpe bilulu mpe bazongaki na nsima ya mbula.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "kino tango"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "te"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "ekangamaki na moindo"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "mwesi"
+    },
+    {
+      "surface": "והאור",
+      "gloss": "mpe bangi"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "mpe sanza"
+    },
+    {
+      "surface": "והכוכבים",
+      "gloss": "mpe banyota"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "mpe bazongaki"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "bilulu"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "na nsima ya"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "mbula"
+    }
+  ],
+  "timestamp": "2026-09-03T22:16:48.108535072Z",
+  "model": "glm-5.3"
+}

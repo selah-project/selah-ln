@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 37:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 37,
+  "translation": "Kimya epai ya Yawe, mpe zela na yango; kolia motema te mpo na oyo azali kolonga na nzela na yango, te mpo na moto ozali kosala makanisi mabe.",
+  "tokens": [
+    {
+      "surface": "דום",
+      "gloss": "Kimya"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "epai ya Yawe"
+    },
+    {
+      "surface": "והתחולל",
+      "gloss": "mpe zela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "kolia motema"
+    },
+    {
+      "surface": "במצליח",
+      "gloss": "mpo na oyo azali kolonga na"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "nzela na yango"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "te mpo na moto"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ozali kosala"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "makanisi mabe"
+    }
+  ],
+  "timestamp": "2026-09-03T21:09:08.005909759Z",
+  "model": "glm-5.3"
+}

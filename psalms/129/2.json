@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 129:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 129,
+  "translation": "Mingi bakweyaki ngai uta na boboto na ngai, kasi bakokaki te kolua ngai.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Mingi"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "bakweyaki ngai"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "uta na boboto na ngai"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kasi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "bakokaki"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kolua ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:33:10.474729674Z",
+  "model": "glm-5.3"
+}

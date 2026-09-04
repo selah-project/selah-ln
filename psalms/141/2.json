@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 141:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 141,
+  "translation": "⟨Ezala⟩ lomba na ngai nkangala liboso na yo; bokoti ya maboko na ngai lisolo ya mpokwa.",
+  "tokens": [
+    {
+      "surface": "תכון",
+      "gloss": "⟨ezala⟩"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "lomba na ngai"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "nkangala"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "liboso na yo"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "bokoti"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ya maboko na ngai"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "lisolo"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ya mpokwa"
+    }
+  ],
+  "timestamp": "2026-09-03T21:35:18.254246652Z",
+  "model": "glm-5.3"
+}

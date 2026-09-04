@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 40:17",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 40,
+  "translation": "Bamoko nyonso liboso na yango ezali lokola oyo ezali te; efuwa mpe pamba, batalamaka na yango.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bamoko"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "lokola oyo ezali te"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "liboso na yango"
+    },
+    {
+      "surface": "מאפס",
+      "gloss": "efuwa"
+    },
+    {
+      "surface": "ותהו",
+      "gloss": "mpe pamba"
+    },
+    {
+      "surface": "נחששבו",
+      "gloss": "batalamaka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T19:30:28.453430944Z",
+  "model": "glm-5.3"
+}

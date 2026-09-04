@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 68:12",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 68,
+  "translation": "Adonai apesaki liloba; bayebisi basi bazali mampinga monene.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "apesaki"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "liloba"
+    },
+    {
+      "surface": "המבשרות",
+      "gloss": "bayebisi basi"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "mampinga"
+    },
+    {
+      "surface": "רב",
+      "gloss": "monene"
+    }
+  ],
+  "timestamp": "2026-09-03T21:16:44.122813141Z",
+  "model": "glm-5.3"
+}

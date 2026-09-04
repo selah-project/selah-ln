@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 1:7",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe Yawe alobaki epai na ngai: Koloba te ete mwana ngai nazali; mpo epai na nyonso oyo nakotinda yo, okokende, mpe ⟨את⟩ nyonso oyo nakopesa motindo, okoloba.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "epai na ngai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Koloba te"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ete"
+    },
+    {
+      "surface": "נער",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "על",
+      "gloss": "epai na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אשלחך",
+      "gloss": "nakotinda yo"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "okokende"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אצוך",
+      "gloss": "nakopesa motindo"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "okoloba"
+    }
+  ],
+  "timestamp": "2026-09-03T19:40:43.618206732Z",
+  "model": "glm-5.3"
+}

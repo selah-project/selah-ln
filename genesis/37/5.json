@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 37:5",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 37,
+  "translation": "Yosufe alotaki ndoto, mpe alobaki yango na bandeko na ye, mpe babakaki koyangela ⟨את⟩ ye ata moke.",
+  "tokens": [
+    {
+      "surface": "ויחלם",
+      "gloss": "alotaki"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosufe"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "ndoto"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "na bandeko na ye"
+    },
+    {
+      "surface": "ויוספו",
+      "gloss": "mpe babakaki"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ata moke"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "koyangela"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ye",
+      "marks": "ye"
+    }
+  ],
+  "timestamp": "2026-09-03T16:05:09.801049324Z",
+  "model": "glm-5.3"
+}

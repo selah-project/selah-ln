@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 38:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 38,
+  "translation": "Mpo ntolo na ngai emiemaki na moto, mpe boyei malamu ezali te na libumba na ngai.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "כסלי",
+      "gloss": "ntolo na ngai"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "emiemaki"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "na moto"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mpe ezali te"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "boyei malamu"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "na libumba na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:09:51.671815498Z",
+  "model": "glm-5.3"
+}

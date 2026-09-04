@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "nehemiah 10:31",
+  "book": "nehemiah",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "mpe ete tokotya te bana basi na biso epai ya bikolo ya mabele, mpe ⟨את⟩ bana basi na bango tokomema te mpo na bana mibali na biso.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "mpe ete"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "tokotya"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "bana basi na biso"
+    },
+    {
+      "surface": "לעמי",
+      "gloss": "epai ya bikolo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ya mabele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bana basi na bango"
+    },
+    {
+      "surface": "בנתיהם",
+      "gloss": "bana basi na bango"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "נקח",
+      "gloss": "tokomema"
+    },
+    {
+      "surface": "לבנינו",
+      "gloss": "mpo na bana mibali na biso"
+    }
+  ],
+  "timestamp": "2026-09-03T23:41:36.508147380Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 42:9",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 42,
+  "translation": "Yosef akanaki mpe ⟨את⟩ maloto oyo alotaki likolo ya bango, mpe alobaki na bango: Bino bozali basololi, boyaki komona ⟨את⟩ bozangi ya mabele.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "mpe akanaki"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maloto"
+    },
+    {
+      "surface": "החלמות",
+      "gloss": "maloto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "alotaki"
+    },
+    {
+      "surface": "להם",
+      "gloss": "likolo ya bango"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "basololi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "bino bozali"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "komona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bozangi ya mabele"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "bozangi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ya mabele"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "boyaki"
+    }
+  ],
+  "timestamp": "2026-09-03T16:07:49.117298442Z",
+  "model": "glm-5.3"
+}

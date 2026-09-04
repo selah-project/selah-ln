@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 69:26",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 69,
+  "translation": "Bandako na bango ekala ewume, mpe moto akkanda te kati na matente na bango.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "ekala"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "bandako na bango"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "ewume"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "kati na matente na bango"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "akkanda"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "moto"
+    }
+  ],
+  "timestamp": "2026-09-03T21:17:17.210965599Z",
+  "model": "glm-5.3"
+}

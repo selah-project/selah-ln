@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 16:15",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Mpe basembali ya Shaul balobaki na ye: Talá soki, mpema mabe ya Elohim ezali kobangisa yo.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Mpe ... balobaki"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "basembali ya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Talá"
+    },
+    {
+      "surface": "נא",
+      "gloss": "soki"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mpema"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "מבעתך",
+      "gloss": "ezali kobangisa yo"
+    }
+  ],
+  "timestamp": "2026-09-03T18:16:55.700917070Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 111:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 111,
+  "translation": "Atindaki bobombi epai ya bato na ye; atesaki bondimi na ye libela; mosantu mpe ya bobangi nkombo na ye.",
+  "tokens": [
+    {
+      "surface": "פדות",
+      "gloss": "bobombi"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "atindaki"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "epai ya bato na ye"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "atesaki"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "libela"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "bondimi na ye"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "mosantu"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "mpe ya bobangi"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nkombo na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:28:41.486656010Z",
+  "model": "glm-5.3"
+}

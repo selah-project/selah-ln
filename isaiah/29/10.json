@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 29:10",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 29,
+  "translation": "Mpo Yawe asuseli epai na bino mpema ya boboki, mpe akangaki ⟨את⟩ miso na bino — ⟨את⟩ banabi, mpe ⟨את⟩ bankulu na bino, bamonisi — asipaki.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "asuseli"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "epai na bino"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mpema"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "ya boboki"
+    },
+    {
+      "surface": "ויעצם",
+      "gloss": "mpe akangaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miso na bino"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "miso na bino"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "banabi"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "banabi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bankulu na bino"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "bankulu na bino"
+    },
+    {
+      "surface": "החזים",
+      "gloss": "bamonisi"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "asipaki"
+    }
+  ],
+  "timestamp": "2026-09-03T19:24:54.110514459Z",
+  "model": "glm-5.3"
+}

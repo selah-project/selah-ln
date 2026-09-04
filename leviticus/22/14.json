@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 22:14",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Mpe moto soki akolia eoko mosantu na mbalakaka, abakisi eteni ya ntano likolo na yango, mpe apesi na kohen ⟨את⟩ eoko mosantu.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Mpe moto"
+    },
+    {
+      "surface": "כי",
+      "gloss": "soki"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "akolia"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "eoko mosantu"
+    },
+    {
+      "surface": "בשגגה",
+      "gloss": "na mbalakaka"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "abakisi"
+    },
+    {
+      "surface": "חמשיתו",
+      "gloss": "eteni ya ntano"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "likolo na yango"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "mpe apesi"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "na kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eoko mosantu"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "eoko mosantu"
+    }
+  ],
+  "timestamp": "2026-09-03T16:53:24.650490822Z",
+  "model": "glm-5.3"
+}

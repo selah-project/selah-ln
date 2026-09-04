@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 89:32",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 89,
+  "translation": "soki batyaka mibeko na ngai na mabe, mpe makomi na ngai babatela te,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "soki"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "mibeko na ngai"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "batyaka na mabe"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "mpe makomi na ngai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "babatela"
+    }
+  ],
+  "timestamp": "2026-09-03T21:22:59.796903131Z",
+  "model": "glm-5.3"
+}

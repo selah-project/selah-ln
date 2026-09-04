@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "isaiah 28:26",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 28,
+  "translation": "Mpe Elohim na yango aloyei ye na bosolo, atangisi ye.",
+  "tokens": [
+    {
+      "surface": "ויסרו",
+      "gloss": "mpe aloyei ye"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "na bosolo"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim na yango"
+    },
+    {
+      "surface": "יורנו",
+      "gloss": "atangisi ye"
+    }
+  ],
+  "timestamp": "2026-09-03T19:24:16.334111572Z",
+  "model": "glm-5.3"
+}

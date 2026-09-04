@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 40:8",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 40,
+  "translation": "Matete emekaka, mbuye ekweyaka, kasi liloba ya Elohim na biso eketelaka kaka seko.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "emekaka"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "matete"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "ekweyaka"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "mbuye"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "kasi liloba"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim na biso"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "eketelaka"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kaka seko"
+    }
+  ],
+  "timestamp": "2026-09-03T19:29:39.011116405Z",
+  "model": "glm-5.3"
+}

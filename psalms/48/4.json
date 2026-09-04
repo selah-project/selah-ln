@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 48:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 48,
+  "translation": "Elohim na bandako na yango minene amonani ⟨lokola⟩ esika ya bobombi.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בארמנותיה",
+      "gloss": "na bandako na yango minene"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "amonani"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "esika ya bobombi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:12:28.488940767Z",
+  "model": "glm-5.3"
+}

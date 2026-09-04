@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 23:12",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Mpe David alobaki: Bankolo ya Kelila bakomema ⟨את⟩ ngai mpe ⟨את⟩ bato na ngai na maboko ya Shaul? Mpe Yawe alobaki: Bakomema.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "היסגרו",
+      "gloss": "bakomema"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "Bankolo ya"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Kelila"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ngai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bato na ngai"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "bato na ngai"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "na maboko ya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "יסגירו",
+      "gloss": "Bakomema"
+    }
+  ],
+  "timestamp": "2026-09-03T18:20:33.945180030Z",
+  "model": "glm-5.3"
+}

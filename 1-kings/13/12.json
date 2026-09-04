@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 13:12",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Mpe tata na bango alobaki na bango: Wapi nzela oyo akendaki? Mpe bana na ye bamonaki ⟨את⟩ nzela oyo moto ya Elohim, oyo ayaki na Yehuda, azalaki koleka.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "tata na bango"
+    },
+    {
+      "surface": "אי",
+      "gloss": "Wapi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "nzela"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "akendaki"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "mpe bamonaki"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bana na ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nzela"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "nzela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "azalaki koleka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ayaki"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "na Yehuda"
+    }
+  ],
+  "timestamp": "2026-09-03T18:50:43.385211786Z",
+  "model": "glm-5.3"
+}

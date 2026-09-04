@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 38:7",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 38,
+  "translation": "Mpe oyo elembo epai yo, utaka na ⟨את⟩ Yawe, ete Yawe akosala ⟨את⟩ liloba oyo alobaki.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "mpe oyo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "epai yo"
+    },
+    {
+      "surface": "האות",
+      "gloss": "elembo"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "utaka na ⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ete"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "akosala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "liloba oyo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "liloba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "alobaki"
+    }
+  ],
+  "timestamp": "2026-09-03T19:27:32.182229166Z",
+  "model": "glm-5.3"
+}

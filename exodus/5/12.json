@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 5:12",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Mpe bato bakabolamaki na mokili mobimba ya Mitsraim mpo na kolomba kaka mpo na tebe.",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "Mpe bakabolamaki"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na mobimba"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mokili"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Mitsraim"
+    },
+    {
+      "surface": "לקשש",
+      "gloss": "mpo na kolomba"
+    },
+    {
+      "surface": "קש",
+      "gloss": "kaka"
+    },
+    {
+      "surface": "לתבן",
+      "gloss": "mpo na tebe"
+    }
+  ],
+  "timestamp": "2026-09-03T16:14:20.747382946Z",
+  "model": "glm-5.3"
+}

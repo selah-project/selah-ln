@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 21:2",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "mpe bankoko na yo mpe basuzuki na yo babimaka, mpe batekelaka kino bimboka oyo ezali pembeni ya moto oyo babomi:",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "mpe babimaka"
+    },
+    {
+      "surface": "זקניך",
+      "gloss": "bankoko na yo"
+    },
+    {
+      "surface": "ושפטיך",
+      "gloss": "mpe basuzuki na yo"
+    },
+    {
+      "surface": "ומדדו",
+      "gloss": "mpe batekelaka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kino"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "bimboka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "סביבת",
+      "gloss": "ezali pembeni ya"
+    },
+    {
+      "surface": "החלל",
+      "gloss": "moto oyo babomi"
+    }
+  ],
+  "timestamp": "2026-09-03T17:34:14.550108438Z",
+  "model": "glm-5.3"
+}

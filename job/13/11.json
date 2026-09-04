@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 13:11",
+  "book": "job",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Nguya na ye ebangisaka bino te, mpe bobangi na ye ekweyi likolo ya bino?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "te"
+    },
+    {
+      "surface": "שאתו",
+      "gloss": "Nguya na ye"
+    },
+    {
+      "surface": "תבעת",
+      "gloss": "ebangisaka"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ bino"
+    },
+    {
+      "surface": "ופחדו",
+      "gloss": "mpe bobangi na ye"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ekweyi"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "likolo ya bino"
+    }
+  ],
+  "timestamp": "2026-09-03T21:54:19.718542336Z",
+  "model": "glm-5.3"
+}

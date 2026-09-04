@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 25:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Ya David. Epai nayo, Yawe, molimo na ngai namilola.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ya David"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Epai nayo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "molimo na ngai"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "namilola"
+    }
+  ],
+  "timestamp": "2026-09-03T21:05:59.850745837Z",
+  "model": "glm-5.3"
+}

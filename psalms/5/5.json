@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Mpo ozali Elo oyo asepelaka na bosoto te; mabe ekofanda elongo na yo te.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Elo"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "asepelaka"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bosoto"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ozali"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יגרך",
+      "gloss": "ekofanda elongo na yo"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mabe"
+    }
+  ],
+  "timestamp": "2026-09-03T20:59:53.001450074Z",
+  "model": "glm-5.3"
+}

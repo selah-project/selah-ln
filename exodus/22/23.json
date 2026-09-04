@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 22:23",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Likebi lya ngai litombela, mpe nakoboma ⟨את⟩ bino na mbele, mpe basi na bino bakozala bami-mokufi, mpe bana na bino bakozala bana-nkufi.",
+  "tokens": [
+    {
+      "surface": "וחרה",
+      "gloss": "litombela"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "likebi lya ngai"
+    },
+    {
+      "surface": "והרגתי",
+      "gloss": "mpe nakoboma"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "bino"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "na mbele"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "mpe bakozala"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "basi na bino"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "bami-mokufi"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "mpe bana na bino"
+    },
+    {
+      "surface": "יתמים",
+      "gloss": "bana-nkufi"
+    }
+  ],
+  "timestamp": "2026-09-03T16:25:11.279736420Z",
+  "model": "glm-5.3"
+}

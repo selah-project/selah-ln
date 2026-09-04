@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 3:3",
+  "book": "micah",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe bango baye baliaka mosolo ya bato na ngai, mpe babotolaki liputo na bango uto na bango; mpe ⟨את⟩ mikuwa na bango babukaki mpe batandolaki, lokola oyo ezali na sindola, mpe lokola nyama kati na sindola monene.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "mpe bango baye"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "baliaka"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "mosolo"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "bato na ngai"
+    },
+    {
+      "surface": "ועורם",
+      "gloss": "mpe liputo na bango"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "uto na bango"
+    },
+    {
+      "surface": "הפשיטו",
+      "gloss": "babotolaki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mikuwa na bango"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "mikuwa na bango"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "babukaki"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "mpe batandolaki"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "lokola"
+    },
+    {
+      "surface": "בסיר",
+      "gloss": "na sindola"
+    },
+    {
+      "surface": "וכבשר",
+      "gloss": "mpe lokola nyama"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "kati na"
+    },
+    {
+      "surface": "קלחת",
+      "gloss": "sindola monene"
+    }
+  ],
+  "timestamp": "2026-09-03T20:48:09.369642810Z",
+  "model": "glm-5.3"
+}

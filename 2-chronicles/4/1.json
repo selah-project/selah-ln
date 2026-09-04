@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 4:1",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe asalaki autel ya metale ya motane — zomi na mibale ama boitali na yango, mpe zomi na mibale ama bonene na yango, mpe zomi ama bolai na yango.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Mpe asalaki"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "autel"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ya metale ya motane"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "zomi na mibale"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "boitali na yango"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "mpe zomi na mibale"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "bonene na yango"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "mpe zomi"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ama"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "bolai na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T22:56:14.337781931Z",
+  "model": "glm-5.3"
+}

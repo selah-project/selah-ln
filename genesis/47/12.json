@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 47:12",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 47,
+  "translation": "Mpe Yosef ayokisaki ⟨את⟩ tata na ye mpe ⟨את⟩ bandeko na ye mpe ⟨את⟩ ndako mobimba ya tata na ye na pan, na ndenge ya motuna ya bamwana.",
+  "tokens": [
+    {
+      "surface": "ויכלכל",
+      "gloss": "ayokisaki"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tata na ye"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "tata na ye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bandeko na ye"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "bandeko na ye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "ndako mobimba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mobimba"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ya tata na ye"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "na pan"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "na ndenge ya motuna ya"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "bamwana"
+    }
+  ],
+  "timestamp": "2026-09-03T16:10:31.110288715Z",
+  "model": "glm-5.3"
+}

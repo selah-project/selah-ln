@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 79,
+  "ref": "psalms 119:79",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Bato ya bobangi na yo bazongela epai na ngai, mpe bayeba bandimbo na yo.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "bazongela"
+    },
+    {
+      "surface": "לי",
+      "gloss": "epai na ngai"
+    },
+    {
+      "surface": "יראיך",
+      "gloss": "bato ya bobangi na yo"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "mpe bayeba"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "bandimbo na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:32:37.089728055Z",
+  "model": "glm-5.3"
+}

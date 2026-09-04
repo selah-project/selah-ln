@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "lamentations 3:28",
+  "book": "lamentations",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Akónda yango moko mpe akanga monoko, mpo atyaki ⟨yango⟩ likolo na ye.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "akónda"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "yango moko"
+    },
+    {
+      "surface": "וידם",
+      "gloss": "mpe akanga monoko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "נטל",
+      "gloss": "atyaki ⟨yango⟩"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "likolo na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T22:10:23.537847911Z",
+  "model": "glm-5.3"
+}

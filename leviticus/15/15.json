@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 15:15",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 15,
+  "translation": "Mpe kohen asalaki ⟨את⟩ yango, moko lokola chatat (offrande ya libomba), mpe mosusu lokola ola (offrande ya motumbo); mpe kohen asanzolaki epai na ye liboso ya Yawe mpo na molangi na ye.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "mpe asalaki"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "yango"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "moko"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "chatat"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "mpe mosusu"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ola"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "mpe asanzolaki"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "epai na ye"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מזובו",
+      "gloss": "mpo na molangi na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T23:16:05.610469428Z",
+  "model": "glm-5.3"
+}

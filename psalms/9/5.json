@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 9:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Mpo osalaki bosambisi na ngai mpe likanisi na ngai; otyelaki kanda na kiti, moyengeli sembo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "osalaki"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "bosambisi na ngai"
+    },
+    {
+      "surface": "ודיני",
+      "gloss": "mpe likanisi na ngai"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "otyelaki kanda"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "na kiti"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "moyengeli"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "sembo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:01:51.657568120Z",
+  "model": "glm-5.3"
+}

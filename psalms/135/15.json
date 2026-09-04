@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 135:15",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 135,
+  "translation": "Bikeko ya bikolo ezali kali mpe wolo, mosala ya maboko ya bato.",
+  "tokens": [
+    {
+      "surface": "עצבי",
+      "gloss": "bikeko"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ya bikolo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kali"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "mpe wolo"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "mosala"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ya maboko"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ya bato"
+    }
+  ],
+  "timestamp": "2026-09-03T23:36:14.741484886Z",
+  "model": "glm-5.3"
+}

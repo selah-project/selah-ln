@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 40:10",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 40,
+  "translation": "Talá, Adonai Yawe aye na nguya, mpe loboko na ye abongisi bokonzi; talá, lifuta na ye ezali ⟨את⟩ elongo na ye, mpe mosala na ye liboso na ye.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Talá"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "na nguya"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "aye"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "mpe loboko na ye"
+    },
+    {
+      "surface": "משלה",
+      "gloss": "abongisi bokonzi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "talá"
+    },
+    {
+      "surface": "שכרו",
+      "gloss": "lifuta na ye"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "elongo na ye"
+    },
+    {
+      "surface": "ופעלתו",
+      "gloss": "mpe mosala na ye"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "liboso na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T19:29:56.321918666Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 4:3",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe elilingi ya bangombe ezalaki na nse na yango; na zingazinga, na zingazinga, bazalaki kozinga yango ⟨את⟩ — zomi na ama — bazingaki ⟨את⟩ mbu na zingazinga; milongo mibale ya bangombe, basakolami na mbwaki na yango.",
+  "tokens": [
+    {
+      "surface": "ודמות",
+      "gloss": "Mpe elilingi"
+    },
+    {
+      "surface": "בקרים",
+      "gloss": "ya bangombe"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "na nse"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "na zingazinga"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "na zingazinga"
+    },
+    {
+      "surface": "סובבים",
+      "gloss": "bazalaki kozinga"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "yango ⟨את⟩",
+      "marks": "mbu"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "zomi"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "מקיפים",
+      "gloss": "bazingaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbu"
+    },
+    {
+      "surface": "הים",
+      "gloss": "mbu"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "na zingazinga"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "טורים",
+      "gloss": "milongo"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "bangombe"
+    },
+    {
+      "surface": "יצוקים",
+      "gloss": "basakolami"
+    },
+    {
+      "surface": "במצקתו",
+      "gloss": "na mbwaki na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T22:56:14.338269741Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 22:2",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Mpe alobaki: Yawe ⟨azali⟩ libanga na ngai, mpe esika ya bokengi na ngai, mpe mobikisi na ngai.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "libanga na ngai"
+    },
+    {
+      "surface": "ומצדתי",
+      "gloss": "mpe esika ya bokengi na ngai"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "mpe mobikisi na ngai"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T18:39:58.110648596Z",
+  "model": "glm-5.3"
+}

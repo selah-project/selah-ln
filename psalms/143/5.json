@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 143:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 143,
+  "translation": "Nakanaki mikolo ya kala, natunanaki na misala na yo nyonso, na misala ya maboko na yo nakanisaki.",
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "Nakanaki"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mikolo"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "ya kala"
+    },
+    {
+      "surface": "הגיתי",
+      "gloss": "natunanaki"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "misala na yo"
+    },
+    {
+      "surface": "במעשה",
+      "gloss": "na misala"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "ya maboko na yo"
+    },
+    {
+      "surface": "אשוחח",
+      "gloss": "nakanisaki"
+    }
+  ],
+  "timestamp": "2026-09-03T21:35:40.563266996Z",
+  "model": "glm-5.3"
+}

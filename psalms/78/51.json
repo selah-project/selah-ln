@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 78:51",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 78,
+  "translation": "Amokaki bana ya liboso nyonso na Mitsraim, ebandeli ya makasi na bango, na matanda ya Ham.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "Amokaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "bana ya liboso"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "na Mitsraim"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "ebandeli"
+    },
+    {
+      "surface": "אונים",
+      "gloss": "ya makasi na bango"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "na matanda ya"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Ham"
+    }
+  ],
+  "timestamp": "2026-09-03T21:20:00.165758093Z",
+  "model": "glm-5.3"
+}

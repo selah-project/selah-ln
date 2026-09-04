@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 22:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Na mokambi, likolo ya Ayelet haShahar, mizmor ya David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Na mokambi"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "Ayelet"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "haShahar"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya David"
+    }
+  ],
+  "timestamp": "2026-09-03T21:04:38.178087119Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 42:14",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 42,
+  "translation": "Yosef alobaki na bango: Yango nde oyo nabolaki na bino, na koloba: Bino bozali baespion.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Yango"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "nabolaki"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "na bino"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na koloba"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "baespion"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "Bino bozali"
+    }
+  ],
+  "timestamp": "2026-09-03T16:08:45.403433113Z",
+  "model": "glm-5.3"
+}

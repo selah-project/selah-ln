@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 124:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 124,
+  "translation": "Na ntango wana bakomelaki biso na bomoi, tango mungwa na bango mikelaki na biso;",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "na ntango wana"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "na bomoi"
+    },
+    {
+      "surface": "בלעונו",
+      "gloss": "bakomelaki biso"
+    },
+    {
+      "surface": "בחרות",
+      "gloss": "tango ya bokotela"
+    },
+    {
+      "surface": "אפם",
+      "gloss": "mungwa na bango"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "na biso"
+    }
+  ],
+  "timestamp": "2026-09-03T21:33:30.572096947Z",
+  "model": "glm-5.3"
+}

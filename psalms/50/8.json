@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 50:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 50,
+  "translation": "Nakoyebisa yo te likolo ya mbeka na yo, mpe mbeka na yo ya moito ezali liboso na ngai ntango nyonso.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "זבחיך",
+      "gloss": "mbeka na yo"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "nakoyebisa yo"
+    },
+    {
+      "surface": "ועולתיך",
+      "gloss": "mpe mbeka na yo ya moito"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "liboso na ngai"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ntango nyonso"
+    }
+  ],
+  "timestamp": "2026-09-03T21:11:40.415097683Z",
+  "model": "glm-5.3"
+}

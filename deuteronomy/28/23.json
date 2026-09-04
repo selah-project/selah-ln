@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 28:23",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 28,
+  "translation": "Likolo likolo na yo oyo ezali likolo ya motoyo na yo ekokoma nkasa, mpe mabele oyo ezali nse na yo ekokoma libende.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "ekokoma"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "likolo likolo na yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "motoyo na yo"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "nkasa"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "mpe mabele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "nse na yo"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "libende"
+    }
+  ],
+  "timestamp": "2026-09-03T17:38:26.696668646Z",
+  "model": "glm-5.3"
+}

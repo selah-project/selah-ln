@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 119:16",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Na mibeko na yo nakosepelaka; nakolimwisa te liloba na yo.",
+  "tokens": [
+    {
+      "surface": "בחקתיך",
+      "gloss": "na mibeko na yo"
+    },
+    {
+      "surface": "אשתעשע",
+      "gloss": "nakosepelaka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "nakolimwisa"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "liloba na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T23:34:35.494278553Z",
+  "model": "glm-5.3"
+}

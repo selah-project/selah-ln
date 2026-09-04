@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 132:11",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 132,
+  "translation": "Yawe asermini na Davide na bosolo, akoki kozonga na yango te: Soko ya libumu na yo nakotia na kiti ya bokonzi mpo na yo.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "asermini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "na Davide"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "na bosolo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akoki"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "kozonga"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "na yango te"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "Soko ya"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "libumu na yo"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "nakotia"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "na kiti ya bokonzi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mpo na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:33:07.058453290Z",
+  "model": "glm-5.3"
+}

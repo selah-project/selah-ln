@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 5:8",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Okosala mpo na yo ekeko te, lilili nyonso, oyo ezali na likolo likolo, mpe oyo ezali na mabele nse, mpe oyo ezali na mai nse ya mabele.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "okosala"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mpo na yo"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "ekeko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "lilili"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo ezali"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "na likolo"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "likolo"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "mpe oyo ezali"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "nse"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "mpe oyo ezali"
+    },
+    {
+      "surface": "במים",
+      "gloss": "na mai"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "nse ya"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T17:24:45.497852478Z",
+  "model": "glm-5.3"
+}

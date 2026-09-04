@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 1:16",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe bayanaki ⟨את⟩ Yehoshua, na koloba: Nyonso oyo otesaki biso tokosala, mpe na esika nyonso oyo okotinda biso, tokotambola.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "Mpe bayanaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoshua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na koloba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Nyonso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "צויתנו",
+      "gloss": "otesaki biso"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "tokosala"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mpe na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "esika nyonso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "okotinda biso"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "tokotambola"
+    }
+  ],
+  "timestamp": "2026-09-03T17:44:10.982067615Z",
+  "model": "glm-5.3"
+}

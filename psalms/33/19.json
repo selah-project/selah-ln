@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 33:19",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 33,
+  "translation": "Mpo na kobomba bamoi na bango na liwa, mpe mpo na bozoi na bango na nzala.",
+  "tokens": [
+    {
+      "surface": "להציל",
+      "gloss": "mpo na kobomba"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "na liwa"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "bamoi na bango"
+    },
+    {
+      "surface": "ולחיותם",
+      "gloss": "mpe mpo na bozoi na bango"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "na nzala"
+    }
+  ],
+  "timestamp": "2026-09-03T21:08:08.149319436Z",
+  "model": "glm-5.3"
+}

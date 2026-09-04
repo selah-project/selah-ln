@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 24:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "Nani nde oyo, mokonzi wa nkembo? Yawe, wa makasi mpe wa nguya, Yawe, wa nguya na etumba.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Nani"
+    },
+    {
+      "surface": "זה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "wa nkembo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עזוז",
+      "gloss": "wa makasi"
+    },
+    {
+      "surface": "וגבור",
+      "gloss": "mpe wa nguya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "wa nguya"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "na etumba"
+    }
+  ],
+  "timestamp": "2026-09-03T21:06:38.538784067Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 1:7",
+  "book": "hosea",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe ⟨את⟩ ndako ya Yehuda nakolikya, mpe nakobikisaka bango na Yawe Elohim na bango, mpe nakobikisaka bango te na kuba, na epaula, to na etumba, na bahoma, to na bipaula.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "nakolikya"
+    },
+    {
+      "surface": "והושעתים",
+      "gloss": "nakobikisaka bango"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "na Yawe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim na bango"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "אושיעם",
+      "gloss": "nakobikisaka bango"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "na kuba"
+    },
+    {
+      "surface": "ובחרב",
+      "gloss": "na epaula"
+    },
+    {
+      "surface": "ובמלחמה",
+      "gloss": "na etumba"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "na bahoma"
+    },
+    {
+      "surface": "ובפרשים",
+      "gloss": "na bipaula"
+    }
+  ],
+  "timestamp": "2026-09-03T20:38:09.829230144Z",
+  "model": "glm-5.3"
+}

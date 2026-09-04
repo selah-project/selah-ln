@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 23:20",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Mpe elanga mpe mbuku ya libanga oyo ezali na yango ekangamaki na Avraham lokola bonzela ya likundiswa, ⟨את⟩ uta ⟨na⟩ bana ya Heta.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ekangamaki"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "elanga"
+    },
+    {
+      "surface": "והמערה",
+      "gloss": "mpe mbuku ya libanga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "na Avraham"
+    },
+    {
+      "surface": "לאחזת",
+      "gloss": "lokola bonzela"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "ya likundiswa"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ uta ⟨na⟩",
+      "marks": "bana ya Heta"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Heta"
+    }
+  ],
+  "timestamp": "2026-09-03T15:55:12.681513881Z",
+  "model": "glm-5.3"
+}

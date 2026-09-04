@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 22:14",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Soki nkolo na yongo azali na ye, akofuta te; soki ⟨ezali⟩ ya kolocuma, eyaki na ntalo na yango.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Soki"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "nkolo na yongo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akofuta te"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "akofuta"
+    },
+    {
+      "surface": "אם",
+      "gloss": "soki"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "ya kolocuma"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ezali⟩"
+    },
+    {
+      "surface": "בא",
+      "gloss": "eyaki"
+    },
+    {
+      "surface": "בשכרו",
+      "gloss": "na ntalo na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:25:32.140851509Z",
+  "model": "glm-5.3"
+}

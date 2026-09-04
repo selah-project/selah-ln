@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 4:22",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpo ete ngai nakokufa na mabele oyo; nazali te nakoleka ⟨את⟩ Yarden; kasi bino bokoleka mpe bokozwa ⟨את⟩ mabele oyo malamu oyo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo ete"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "מת",
+      "gloss": "nakokufa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "nazali te"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "nakoleka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "kasi bino"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "bokoleka"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "mpe bokozwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "oyo malamu"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "oyo"
+    }
+  ],
+  "timestamp": "2026-09-03T17:25:36.685693527Z",
+  "model": "glm-5.3"
+}

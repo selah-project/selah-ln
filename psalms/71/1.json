@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 71:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 71,
+  "translation": "Na yo, Yawe, nakangamaki; nasekisama te, mbala nyonso.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "Na yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "nakangamaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "nasekisama"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mbala nyonso"
+    }
+  ],
+  "timestamp": "2026-09-03T21:17:47.478459484Z",
+  "model": "glm-5.3"
+}

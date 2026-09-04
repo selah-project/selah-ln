@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 50:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 50,
+  "translation": "Mizmor ya Asaf. El Elohim, Yawe, alobaki, mpe abenganaki mabele, uta na elebo ya mokwi kino na ekoti na yango.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ya Asaf"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "mpe abenganaki"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "uta na elebo"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "ya mokwi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "מבאו",
+      "gloss": "ekoti na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:12:39.448384938Z",
+  "model": "glm-5.3"
+}

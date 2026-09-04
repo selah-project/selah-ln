@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 63:2",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 63,
+  "translation": "Mpo nini ezali moungi na bilamba na yo, mpe bilamba na yo lokola ya moto oyo akangaka bele na divinela?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "Mpo nini"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ezali moungi"
+    },
+    {
+      "surface": "ללבושך",
+      "gloss": "na bilamba na yo"
+    },
+    {
+      "surface": "ובגדיך",
+      "gloss": "mpe bilamba na yo"
+    },
+    {
+      "surface": "כדרך",
+      "gloss": "lokola ya moto oyo akangaka"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "bele na divinela"
+    }
+  ],
+  "timestamp": "2026-09-03T19:37:32.667751346Z",
+  "model": "glm-5.3"
+}

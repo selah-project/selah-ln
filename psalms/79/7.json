@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 79:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 79,
+  "translation": "Mpo baliaki ⟨את⟩ Yaakov, mpe ⟨את⟩ ndako naye ⟨bango⟩ babebaki.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "baliaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "ndako naye"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "ndako naye"
+    },
+    {
+      "surface": "השמו",
+      "gloss": "babebaki"
+    }
+  ],
+  "timestamp": "2026-09-03T21:21:30.491123713Z",
+  "model": "glm-5.3"
+}

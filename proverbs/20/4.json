@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 20:4",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 20,
+  "translation": "Moto mpoli akolimaka te na ponya ya sanza ya malili; asengaka na ntango ya kokamba, mpe ezali na eloko te.",
+  "tokens": [
+    {
+      "surface": "מחרף",
+      "gloss": "ponya ya sanza ya malili"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "moto mpoli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "akolimaka"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "asengaka"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "na ntango ya kokamba"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mpe ezali na eloko te"
+    }
+  ],
+  "timestamp": "2026-09-03T21:45:34.825445021Z",
+  "model": "glm-5.3"
+}

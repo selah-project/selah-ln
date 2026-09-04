@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 18:10",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Moko te akokutama na yo: molekisi mwana na ye ya mobali mpe mwana na ye ya mwasi na moi, mokemi ya bokemi, motangi ya ntango, molangi, mpe monganga wa ndoki.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "akokutama"
+    },
+    {
+      "surface": "בך",
+      "gloss": "na yo"
+    },
+    {
+      "surface": "מעביר",
+      "gloss": "molekisi"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana na ye ya mobali"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "mpe mwana na ye ya mwasi"
+    },
+    {
+      "surface": "באש",
+      "gloss": "na moi"
+    },
+    {
+      "surface": "קסם",
+      "gloss": "bokemi"
+    },
+    {
+      "surface": "קסמים",
+      "gloss": "mokemi"
+    },
+    {
+      "surface": "מעונן",
+      "gloss": "motangi ya ntango"
+    },
+    {
+      "surface": "ומנחש",
+      "gloss": "mpe molangi"
+    },
+    {
+      "surface": "ומכשף",
+      "gloss": "mpe monganga wa ndoki"
+    }
+  ],
+  "timestamp": "2026-09-03T17:32:42.221366784Z",
+  "model": "glm-5.3"
+}

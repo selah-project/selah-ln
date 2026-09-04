@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 30:1",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 30,
+  "translation": "Mpe okosala autel ya kobela nkungu; na nzete ya shitim okosala ⟨את⟩ yango.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Mpe okosala"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "autel"
+    },
+    {
+      "surface": "מקטר",
+      "gloss": "ya kobela"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "nkungu"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "nzete ya"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitim"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "okosala"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yango",
+      "marks": "autel"
+    }
+  ],
+  "timestamp": "2026-09-03T16:32:05.776652479Z",
+  "model": "glm-5.3"
+}

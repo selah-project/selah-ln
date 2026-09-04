@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 3:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Nakobanga te nkoto zomi ya bato, oyo na zingazinga batyelaki ⟨na⟩ ngai.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "nakobanga"
+    },
+    {
+      "surface": "מרבבות",
+      "gloss": "nkoto zomi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ya bato"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "zingazinga"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "batyelaki"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T23:33:33.032700126Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 25:10",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Mpe nkombo na ye ebengamaka na Israel: Ndako ya moto oyo sandale ekangolamaki na ye.",
+  "tokens": [
+    {
+      "surface": "ונקרא",
+      "gloss": "mpe ebengamaka"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nkombo na ye"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "na Israel"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Ndako ya moto oyo"
+    },
+    {
+      "surface": "חלוץ",
+      "gloss": "sandale ekangolamaki"
+    },
+    {
+      "surface": "הנעל",
+      "gloss": "sandale"
+    }
+  ],
+  "timestamp": "2026-09-03T17:35:10.120803340Z",
+  "model": "glm-5.3"
+}

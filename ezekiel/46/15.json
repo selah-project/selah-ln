@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 46:15",
+  "book": "ezekiel",
+  "lang": "ln",
+  "chapter": 46,
+  "translation": "Mpe bakosala ⟨את⟩ mbasi mpe ⟨את⟩ ofrande mpe ⟨את⟩ mafuta na tongo na tongo — sacrifice ya moto ya ntango nyonso.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "mpe bakosala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbasi"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "mbasi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "ofrande"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "ofrande"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mafuta"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "na tongo"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "na tongo"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "sacrifice ya moto"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ya ntango nyonso"
+    }
+  ],
+  "timestamp": "2026-09-03T20:35:33.495531130Z",
+  "model": "glm-5.3"
+}

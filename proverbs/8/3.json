@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 8:3",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Pembeni ya bibete, na monoko ya mboka, na bokoti ya bipanzuki, alobaka na mongongo monene.",
+  "tokens": [
+    {
+      "surface": "ליד",
+      "gloss": "pembeni ya"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "bibete"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "na monoko ya"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "mboka"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "bokoti ya"
+    },
+    {
+      "surface": "פתחים",
+      "gloss": "bipanzuki"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "alobaka na mongongo monene"
+    }
+  ],
+  "timestamp": "2026-09-03T21:39:57.748870244Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 28:9",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 28,
+  "translation": "⟨את⟩ nani atangisaka boyebi, mpe ⟨את⟩ nani asosolaka nsango? Baye batikisaki miliki, baye bakangamaki na tibe.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nani"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nani"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "atangisaka"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "boyebi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "nani"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nani"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "asosolaka"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "nsango"
+    },
+    {
+      "surface": "גמולי",
+      "gloss": "baye batikisaki"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "miliki"
+    },
+    {
+      "surface": "עתיקי",
+      "gloss": "baye bakangamaki"
+    },
+    {
+      "surface": "משדים",
+      "gloss": "na tibe"
+    }
+  ],
+  "timestamp": "2026-09-03T23:25:36.080494116Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 89:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 89,
+  "translation": "Yawe Elohim Tsebaot, nani azali ndenge na yo, Ya wa nguya? Mpe bondimi na yo ezali zingazinga na yo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot (ya bibele ya bitumba)"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nani"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "ndenge na yo"
+    },
+    {
+      "surface": "חסין",
+      "gloss": "wa nguya"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "mpe bondimi na yo"
+    },
+    {
+      "surface": "סביבותיך",
+      "gloss": "zingazinga na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:22:34.422182020Z",
+  "model": "glm-5.3"
+}

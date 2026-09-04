@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 103:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 103,
+  "translation": "Yawe azali na mawa mingi mpe bolimbisi, mabe na ye ekomi loku te, mpe hesed (bolingo ya bondimi) na ye ezali monene.",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "azali na mawa mingi"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "mpe bolimbisi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ekomi loku te"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "mpe ezali monene"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed (bolingo ya bondimi)"
+    }
+  ],
+  "timestamp": "2026-09-03T21:25:46.132981410Z",
+  "model": "glm-5.3"
+}

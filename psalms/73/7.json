@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 73:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 73,
+  "translation": "Liso na bango ebimaki na mafuta; makanisi ya motema balukaki ndelo.",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "ebimaki"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "na mafuta"
+    },
+    {
+      "surface": "עינמו",
+      "gloss": "liso na bango"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "balukaki ndelo"
+    },
+    {
+      "surface": "משכיות",
+      "gloss": "makanisi"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ya motema"
+    }
+  ],
+  "timestamp": "2026-09-03T21:18:28.562853581Z",
+  "model": "glm-5.3"
+}

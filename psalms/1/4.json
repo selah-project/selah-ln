@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Bongo te babubi, kasi bazali lokola mpamba oyo mpema etumbisaka yango.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bongo"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "babubi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kasi"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "lokola mpamba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "תדפנו",
+      "gloss": "etumbisaka yango"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mpema"
+    }
+  ],
+  "timestamp": "2026-09-03T21:00:55.651164483Z",
+  "model": "glm-5.3"
+}

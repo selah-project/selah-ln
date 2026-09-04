@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 34:26",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 34,
+  "translation": "Mpe ⟨את⟩ Hamor mpe ⟨את⟩ Shekem mwana na ye babomaki na monoko ya epaia; mpe bazwaki ⟨את⟩ Dina na ndako ya Shekem, mpe babimaki.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Mpe ⟨את⟩",
+      "marks": "Hamor"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Shekem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekem"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana na ye"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "babomaki"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "na monoko ya"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "epaia"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "mpe bazwaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dina"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dina"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "na ndako ya"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekem"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "mpe babimaki"
+    }
+  ],
+  "timestamp": "2026-09-03T16:03:38.099653497Z",
+  "model": "glm-5.3"
+}

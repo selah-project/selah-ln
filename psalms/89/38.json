@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 89:38",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 89,
+  "translation": "Lokola sanza ekotikala libela, mpe motatoli na likolo andimama. Selah.",
+  "tokens": [
+    {
+      "surface": "כירח",
+      "gloss": "lokola sanza"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "ekotikala"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "libela"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "mpe motatoli"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "na likolo"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "andimama"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-03T23:35:19.969159877Z",
+  "model": "glm-5.3"
+}

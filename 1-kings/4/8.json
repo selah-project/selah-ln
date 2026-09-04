@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 4:8",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe bango bango nkombo na bango: Ben-Hur, na bangomba ya Efraim.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Mpe bango bango"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "nkombo na bango"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben"
+    },
+    {
+      "surface": "חור",
+      "gloss": "Hur"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "na bangomba ya"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    }
+  ],
+  "timestamp": "2026-09-03T18:43:03.109526591Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "mpe ⟨את⟩ lisanga mobimba, sangisa na mbenge ya dampara ya bokutani.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "lisanga mobimba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mobimba"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "lisanga"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "sangisa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "mbenge"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "dampara"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya bokutani"
+    }
+  ],
+  "timestamp": "2026-09-03T16:42:53.524521108Z",
+  "model": "glm-5.3"
+}

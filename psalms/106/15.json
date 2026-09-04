@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 106:15",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 106,
+  "translation": "Mpe apesaki bango libanga na bango, mpe atindaki kokoma mokuse na molimo na bango.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Mpe apesaki"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bango"
+    },
+    {
+      "surface": "שאלתם",
+      "gloss": "libanga na bango"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "mpe atindaki"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "kokoma mokuse"
+    },
+    {
+      "surface": "בנפשם",
+      "gloss": "na molimo na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:27:44.918944096Z",
+  "model": "glm-5.3"
+}

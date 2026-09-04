@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 40:6",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 40,
+  "translation": "Mpe otya ⟨את⟩ etanda ya bobomi liboso ya nzela ya bandaku, bandaku ya bokutani.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "mpe otya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "etanda"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "etanda"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ya bobomi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "nzela"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "bandaku"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "bandaku"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya bokutani"
+    }
+  ],
+  "timestamp": "2026-09-03T16:38:28.025995213Z",
+  "model": "glm-5.3"
+}

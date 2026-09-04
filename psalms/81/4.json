@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 81:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 81,
+  "translation": "Bobeta shofar na sanza, na ntango ya kokamwa, na mokolo ya fete na biso.",
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "Bobeta"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "na sanza"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "shofar"
+    },
+    {
+      "surface": "בכסה",
+      "gloss": "na ntango ya kokamwa"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "na mokolo"
+    },
+    {
+      "surface": "חגנו",
+      "gloss": "ya fete na biso"
+    }
+  ],
+  "timestamp": "2026-09-03T21:21:07.854526367Z",
+  "model": "glm-5.3"
+}

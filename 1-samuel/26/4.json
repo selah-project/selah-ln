@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 26:4",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "Mpe David atindaki bato ya bokengi, mpe ayebaki ete Shaul awei solo.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Mpe atindaki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "bato ya bokengi"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "mpe ayebaki ete"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "בא",
+      "gloss": "awei"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "solo"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "⟨solo⟩"
+    }
+  ],
+  "timestamp": "2026-09-03T18:23:34.997428949Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 23:7",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Mpe abomaki ⟨את⟩ bandako ya bakadeshi oyo ezalaki na ndako ya Yawe, kuna babasi kosalaki bandako mpo na Ashera.",
+  "tokens": [
+    {
+      "surface": "ויתץ",
+      "gloss": "mpe abomaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bandako ya bakadeshi"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "bandako"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "ya bakadeshi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "na ndako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "epai"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "babasi"
+    },
+    {
+      "surface": "ארגות",
+      "gloss": "kosalaki"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "bandako"
+    },
+    {
+      "surface": "לאשרה",
+      "gloss": "mpo na Ashera"
+    }
+  ],
+  "timestamp": "2026-09-03T23:24:31.664471261Z",
+  "model": "glm-5.3"
+}

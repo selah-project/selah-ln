@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 136:14",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 136,
+  "translation": "Mpe atindaki Israel koleka na kati na yango, mpo na agele hesed na yango ezali.",
+  "tokens": [
+    {
+      "surface": "וְהֶעֱבִיר",
+      "gloss": "atindaki koleka"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בְתוֹכוֹ",
+      "gloss": "na kati na yango"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "mpo na"
+    },
+    {
+      "surface": "לְעוֹלָם",
+      "gloss": "agele"
+    },
+    {
+      "surface": "חַסְדּוֹ",
+      "gloss": "hesed na yango ezali"
+    }
+  ],
+  "timestamp": "2026-09-03T21:34:25.584793365Z",
+  "model": "glm-5.3"
+}

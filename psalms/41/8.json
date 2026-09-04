@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 41:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 41,
+  "translation": "Elongo, epai na ngai bakolalaka banso baye bazali koyo na ngai; epai na ngai bakanisaka mabe mpo na ngai.",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "elongo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "epai na ngai"
+    },
+    {
+      "surface": "יתלחשו",
+      "gloss": "bakolalaka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "banso"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "baye bazali koyo na ngai"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "epai na ngai"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "bakanisaka"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mpo na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:10:28.472472030Z",
+  "model": "glm-5.3"
+}

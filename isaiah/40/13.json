@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 40:13",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 40,
+  "translation": "Nani apimaki ⟨את⟩ mpema ya Yawe, mpe moto ya likanu na ye, nani nde amoyebisaki?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Nani"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "apimaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mpema"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mpema"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "mpe moto"
+    },
+    {
+      "surface": "עצתו",
+      "gloss": "ya likanu na ye"
+    },
+    {
+      "surface": "יודיענו",
+      "gloss": "amoyebisaki"
+    }
+  ],
+  "timestamp": "2026-09-03T19:29:53.649595879Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 9:1",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Mpe David alobaki: Soki ezali mpe moko oyo etikali na ndako ya Shaul, mpe nasala na ye hesed mpamba na Yehonatan?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הכי",
+      "gloss": "Soki"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ezali"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mpe moko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "etikali"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "na ndako ya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "mpe nasala"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "mpamba na"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    }
+  ],
+  "timestamp": "2026-09-03T18:31:53.576323504Z",
+  "model": "glm-5.3"
+}

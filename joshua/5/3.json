@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 5:3",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Mpe Yehoshua asalaki na ye mindale ya libanga, mpe abekaki ⟨את⟩ bana ya Israel na ngomba ya bibeki.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "mpe asalaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "mindale"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "ya libanga"
+    },
+    {
+      "surface": "וימל",
+      "gloss": "mpe abekaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bana ya Israel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "ngomba"
+    },
+    {
+      "surface": "הערלות",
+      "gloss": "ya bibeki"
+    }
+  ],
+  "timestamp": "2026-09-03T17:45:09.239909256Z",
+  "model": "glm-5.3"
+}

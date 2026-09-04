@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 24:2",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "Mpe Bilam atombaki ⟨את⟩ miso na ye, mpe amonaki ⟨את⟩ Israel kofanda na mabota na ye; mpe elimo ya Elohim ekotaki likolo na ye.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "atombaki"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miso na ye"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "miso na ye"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "mpe amonaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "kofanda"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "na mabota na ye"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "mpe ekotaki"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "likolo na ye"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "elimo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-03T17:15:29.452046550Z",
+  "model": "glm-5.3"
+}

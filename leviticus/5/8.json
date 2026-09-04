@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 5:8",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Mpe akoyela ⟨את⟩ bango epai ya kohen, mpe akoyema ⟨את⟩ oyo ezali mpo na ofandro ya masumu liboso, mpe akokanga ⟨את⟩ motama na yango pene ya kingo na yango, mpe akabola yango te.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "mpe akoyela"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "epai ya kohen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "mpe akoyema"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oyo ezali mpo na ofandro ya masumu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "mpo na ofandro ya masumu"
+    },
+    {
+      "surface": "ראשונה",
+      "gloss": "liboso"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "mpe akokanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motama na yango"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "motama na yango"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "pene ya"
+    },
+    {
+      "surface": "ערפו",
+      "gloss": "kingo na yango"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "akabola"
+    }
+  ],
+  "timestamp": "2026-09-03T23:16:17.779058152Z",
+  "model": "glm-5.3"
+}

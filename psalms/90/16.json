@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 90:16",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 90,
+  "translation": "Mosala na yo emonane epai ya basali na yo, mpe nkembo na yo likolo ya bana na bango.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "emonane"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "basali na yo"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "Mosala na yo"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "mpe nkembo na yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "bana na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:24:22.657833450Z",
+  "model": "glm-5.3"
+}

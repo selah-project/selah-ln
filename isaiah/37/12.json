@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 37:12",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 37,
+  "translation": "Babombaki ⟨את⟩ bango banzambe ya bikolo, oyo baboti na ngai babebisaki — ⟨את⟩ Gozan, mpe ⟨את⟩ Haran, mpe Retsef, mpe bana ya Eden oyo bazalaki na Telashar?",
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "Babombaki"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ bango",
+      "marks": "banzambe ya bikolo"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "banzambe"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ya bikolo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "babebisaki"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "baboti na ngai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gozan"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Haran"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Haran"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "mpe Retsef"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "mpe bana"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "ya Eden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "בתלשר",
+      "gloss": "na Telashar"
+    }
+  ],
+  "timestamp": "2026-09-03T19:27:09.286165845Z",
+  "model": "glm-5.3"
+}

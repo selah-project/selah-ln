@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 1:6",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe alongolaki lipa ya ⟨את⟩ mbeka ya molilo, mpe akataki ⟨את⟩ yango na biteni na yango.",
+  "tokens": [
+    {
+      "surface": "והפשיט",
+      "gloss": "mpe alongolaki lipa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbeka ya molilo"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "mbeka ya molilo"
+    },
+    {
+      "surface": "ונתח",
+      "gloss": "mpe akataki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ yango",
+      "marks": "biteni na yango"
+    },
+    {
+      "surface": "לנתחיה",
+      "gloss": "na biteni na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:39:25.453983358Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 36:7",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 36,
+  "translation": "Mpe mosala ezalaki makasi mpo na mosala mobimba ya kosala ⟨את⟩ yango, mpe esikataki.",
+  "tokens": [
+    {
+      "surface": "והמלאכה",
+      "gloss": "mpe mosala"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ezalaki"
+    },
+    {
+      "surface": "דים",
+      "gloss": "makasi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "mpo na mobimba"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "ya mosala"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kosala"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ yango",
+      "marks": "mosala"
+    },
+    {
+      "surface": "והותר",
+      "gloss": "mpe esikataki"
+    }
+  ],
+  "timestamp": "2026-09-03T16:37:30.536079572Z",
+  "model": "glm-5.3"
+}

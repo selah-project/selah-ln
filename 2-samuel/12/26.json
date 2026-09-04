@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 12:26",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Mpe Yoab alwanaki na Raba ya bana ya Amon, mpe azwaki ⟨את⟩ engumba ya bokonzi.",
+  "tokens": [
+    {
+      "surface": "וילחם",
+      "gloss": "mpe alwanaki"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "ברבת",
+      "gloss": "na Raba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ya"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "mpe azwaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "engumba"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "engumba"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "ya bokonzi"
+    }
+  ],
+  "timestamp": "2026-09-03T18:32:54.882285283Z",
+  "model": "glm-5.3"
+}

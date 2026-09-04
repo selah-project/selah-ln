@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 17:4",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 17,
+  "translation": "mpe davalu emonanaki malamu na miso ya Avshalom, mpe na miso ya bankulu nyonso ya Israel.",
+  "tokens": [
+    {
+      "surface": "ויישר",
+      "gloss": "emonanaki malamu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "davalu"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "na miso ya"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "mpe na miso ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "bankulu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-03T18:36:08.718124279Z",
+  "model": "glm-5.3"
+}

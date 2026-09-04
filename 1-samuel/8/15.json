@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 8:15",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe mbuto na bino mpe bilanga na bino ya mbila akanzisa congo ya zomi, mpe akopesa na baponami na ye mpe na basali na ye.",
+  "tokens": [
+    {
+      "surface": "וזרעיכם",
+      "gloss": "mpe mbuto na bino"
+    },
+    {
+      "surface": "וכרמיכם",
+      "gloss": "mpe bilanga na bino ya mbila"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "akanzisa congo ya zomi"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "mpe akopesa"
+    },
+    {
+      "surface": "לסריסיו",
+      "gloss": "na baponami na ye"
+    },
+    {
+      "surface": "ולעבדיו",
+      "gloss": "mpe na basali na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T18:10:36.055994235Z",
+  "model": "glm-5.3"
+}

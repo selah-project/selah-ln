@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 12:6",
+  "book": "zechariah",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Na mokolo yango nakotya ⟨את⟩ bakambi ya Yehuda lokola etando ya moto o kati ya nzete, mpe lokola lakipe ya moto o kati ya mosanga, mpe balyaka na loboko ya mobali mpe na loboko ya mwasi ⟨את⟩ bikolo nyonso o zingazinga, mpe Yerushalaim akofanda lisusu na esika na yango, na Yerushalaim.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Na mokolo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yango"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "nakotya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bakambi ya Yehuda"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "bakambi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ככיור",
+      "gloss": "lokola etando"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ya moto"
+    },
+    {
+      "surface": "בעצים",
+      "gloss": "o kati ya nzete"
+    },
+    {
+      "surface": "וכלפיד",
+      "gloss": "mpe lokola lakipe"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ya moto"
+    },
+    {
+      "surface": "בעמיר",
+      "gloss": "o kati ya mosanga"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "mpe balyaka"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "loboko ya mobali"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "mpe na"
+    },
+    {
+      "surface": "שמאול",
+      "gloss": "loboko ya mwasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bikolo nyonso o zingazinga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "bikolo"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "o zingazinga"
+    },
+    {
+      "surface": "וישבה",
+      "gloss": "mpe akofanda"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lisusu"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "na esika na yango"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "na Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-09-03T20:58:43.520802209Z",
+  "model": "glm-5.3"
+}

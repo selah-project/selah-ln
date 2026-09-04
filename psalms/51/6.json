@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 51:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 51,
+  "translation": "Epai wana, moko kaka, nasalaki masumu, mpe mabe nasalaki na miso na yo, mpo ete ozala sembo na maloba na yo, mpe ozala mokei na bosuzi na yo.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "epai wana"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "moko kaka"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "nasalaki masumu"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "mpe mabe"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "na miso na yo"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "nasalaki"
+    },
+    {
+      "surface": "למען",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "תצדק",
+      "gloss": "ozala sembo"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "na maloba na yo"
+    },
+    {
+      "surface": "תזכה",
+      "gloss": "ozala mokei"
+    },
+    {
+      "surface": "בשפטך",
+      "gloss": "na bosuzi na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:13:24.730617700Z",
+  "model": "glm-5.3"
+}

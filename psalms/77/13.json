@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 77:13",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 77,
+  "translation": "Nasema na misala na yo nyonso, mpe na makita na yo nakanisa.",
+  "tokens": [
+    {
+      "surface": "והגיתי",
+      "gloss": "nasema"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na nyonso"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "misala na yo"
+    },
+    {
+      "surface": "ובעלילותיך",
+      "gloss": "mpe na makita na yo"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "nakanisa"
+    }
+  ],
+  "timestamp": "2026-09-03T21:19:04.640829163Z",
+  "model": "glm-5.3"
+}

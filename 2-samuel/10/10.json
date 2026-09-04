@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 10:10",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Mpe ⟨את⟩ bato oyo bakitaki apesaki na maboko ya Abishai ndeko na yango, mpe atyelaki bango na molongo mpo na kosangana na bana ya Amon.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bato oyo bakitaki"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "bato oyo bakitaki"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ya bato"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "apesaki"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "na maboko"
+    },
+    {
+      "surface": "אבשי",
+      "gloss": "Abishai"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ndeko na yango"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "mpe atyelaki na molongo"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "mpo na kosangana na"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amon"
+    }
+  ],
+  "timestamp": "2026-09-03T18:32:20.052436884Z",
+  "model": "glm-5.3"
+}

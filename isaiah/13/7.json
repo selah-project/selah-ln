@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 13:7",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Mpo na yango, maboko nyonso ekokatama, mpe motema ya moto nyonso ekomolama.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "maboko"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "ekokatama"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe nyonso"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "motema"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ya moto"
+    },
+    {
+      "surface": "ימס",
+      "gloss": "ekomolama"
+    }
+  ],
+  "timestamp": "2026-09-03T19:17:09.047306876Z",
+  "model": "glm-5.3"
+}

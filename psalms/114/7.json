@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 114:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 114,
+  "translation": "Liboso ya Adonai, mabele, yanga kozwana; liboso ya Eloa ya Yaakov.",
+  "tokens": [
+    {
+      "surface": "מלפני",
+      "gloss": "Liboso ya"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "חולי",
+      "gloss": "yanga kozwana"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ya Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-03T21:29:37.880381616Z",
+  "model": "glm-5.3"
+}

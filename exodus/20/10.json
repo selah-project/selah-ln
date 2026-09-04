@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 20:10",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 20,
+  "translation": "Mpe mokolo ya nsambo ezali Shabat ya Yawe Elohim na yo; okosala mosala moko te — yo, mpe mwana na yo mobali, mpe mwana na yo mwali, mosali na yo mobali, mpe mosali na yo mwali, banyama na yo, mpe moto ya bapaya na yo oyo azali kati na zela na yo.",
+  "tokens": [
+    {
+      "surface": "ויום",
+      "gloss": "Mpe mokolo"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ya nsambo"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Shabat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ya Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim na yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "okosala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "moko"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "mosala"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "mpe mwana na yo mobali"
+    },
+    {
+      "surface": "ובתך",
+      "gloss": "mpe mwana na yo mwali"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mosali na yo mobali"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "mpe mosali na yo mwali"
+    },
+    {
+      "surface": "ובהמתך",
+      "gloss": "mpe banyama na yo"
+    },
+    {
+      "surface": "וגרך",
+      "gloss": "mpe moto ya bapaya na yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "azali kati na zela na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T23:13:53.650543966Z",
+  "model": "glm-5.3"
+}

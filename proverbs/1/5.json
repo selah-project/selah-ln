@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 1:5",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Moto wa mayele akoyoka mpe abakisi mateya, mpe moyebi azwa bandimbola.",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "akoyoka"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "moto wa mayele"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "mpe abakisi"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "mateya"
+    },
+    {
+      "surface": "ונבון",
+      "gloss": "mpe moyebi"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "bandimbola"
+    },
+    {
+      "surface": "יקנה",
+      "gloss": "azwa"
+    }
+  ],
+  "timestamp": "2026-09-03T21:37:16.383194039Z",
+  "model": "glm-5.3"
+}

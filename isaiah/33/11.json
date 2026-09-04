@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 33:11",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 33,
+  "translation": "Bozali kokama bumbu, botalaka seti; mpema na bino ezali moto, ekolia bino.",
+  "tokens": [
+    {
+      "surface": "תהרו",
+      "gloss": "Bozali kokama"
+    },
+    {
+      "surface": "חשש",
+      "gloss": "bumbu"
+    },
+    {
+      "surface": "תלדו",
+      "gloss": "botalaka"
+    },
+    {
+      "surface": "קש",
+      "gloss": "seti"
+    },
+    {
+      "surface": "רוחכם",
+      "gloss": "mpema na bino"
+    },
+    {
+      "surface": "אש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "תאכלכם",
+      "gloss": "ekolia bino"
+    }
+  ],
+  "timestamp": "2026-09-03T19:23:59.152079690Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 10:11",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Alobaki na motema na ye: El avecoli; abombaki elongi na ye; akomona te, libela.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "na motema na ye"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "avecoli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "abombaki"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "elongi na ye"
+    },
+    {
+      "surface": "בל",
+      "gloss": "te"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "akomona"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "libela"
+    }
+  ],
+  "timestamp": "2026-09-03T21:01:44.854708294Z",
+  "model": "glm-5.3"
+}

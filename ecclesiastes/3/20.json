@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Nyonso ezali kokende na esika moko; nyonso ezalaki kowuta na mpoto, mpe nyonso ekozonga na mpoto.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ezali kokende"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "esika"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "moko"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ezalaki kowuta"
+    },
+    {
+      "surface": "מן",
+      "gloss": "na"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "mpoto"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "mpe nyonso"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ekozonga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "mpoto"
+    }
+  ],
+  "timestamp": "2026-09-03T22:13:31.038539526Z",
+  "model": "glm-5.3"
+}

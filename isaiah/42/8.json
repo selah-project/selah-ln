@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 42:8",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 42,
+  "translation": "Ngai Yawe — yango nde nkombo na ngai; nkembo na ngai nakopesa te epai ya mosusu, mpe bokumisi na ngai ⟨nakopesa te⟩ epai ya bikeko.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ngai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yango"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "nde nkombo na ngai"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "mpe nkembo na ngai"
+    },
+    {
+      "surface": "לאחר",
+      "gloss": "epai ya mosusu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "nakopesa"
+    },
+    {
+      "surface": "ותהלתי",
+      "gloss": "mpe bokumisi na ngai"
+    },
+    {
+      "surface": "לפסילים",
+      "gloss": "epai ya bikeko"
+    }
+  ],
+  "timestamp": "2026-09-03T19:29:50.783210597Z",
+  "model": "glm-5.3"
+}

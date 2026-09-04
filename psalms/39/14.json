@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 39:14",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 39,
+  "translation": "Tala ⟨mosika⟩ na ngai mpo nayeba sepe, liboso ya kokende mpe nakufa ⟨kozala⟩ te.",
+  "tokens": [
+    {
+      "surface": "השע",
+      "gloss": "Tala"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "mosika na ngai"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "mpo nayeba sepe"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "kokende"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "mpe nakufa kozala te"
+    }
+  ],
+  "timestamp": "2026-09-03T21:09:39.484998577Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 2:10",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe David alalaki elongo na batata na ye, mpe bakundaki ye na mboka ya David.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "alalaki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עם",
+      "gloss": "elongo na"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "batata na ye"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "bakundaki ye"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "na mboka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-09-03T18:42:50.121229795Z",
+  "model": "glm-5.3"
+}

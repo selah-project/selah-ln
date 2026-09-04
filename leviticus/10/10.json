@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 10:10",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Mpe mpo na kokabola kati na mosantu mpe kati na mokili, mpe kati na toyo mpe kati na sopa.",
+  "tokens": [
+    {
+      "surface": "ולהבדיל",
+      "gloss": "mpo na kokabola"
+    },
+    {
+      "surface": "בין",
+      "gloss": "kati na"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "mosantu"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "mpe kati na"
+    },
+    {
+      "surface": "החל",
+      "gloss": "mokili"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "mpe kati na"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "toyo"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "mpe kati na"
+    },
+    {
+      "surface": "הטהור",
+      "gloss": "sopa"
+    }
+  ],
+  "timestamp": "2026-09-03T16:44:26.278880005Z",
+  "model": "glm-5.3"
+}

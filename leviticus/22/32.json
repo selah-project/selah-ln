@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 22:32",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Mpe bokobebisaka te ⟨את⟩ nkombo ya nsanzola na ngai, mpe nakosanzolama kati ya bana ya Israel; ngai nazali Yawe, oyo asanzolaka bino.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Mpe ... te"
+    },
+    {
+      "surface": "תחללו",
+      "gloss": "bokobebisaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkombo ya nsanzola na ngai"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nkombo"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "ya nsanzola na ngai"
+    },
+    {
+      "surface": "ונקדשתי",
+      "gloss": "mpe nakosanzolama"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "kati ya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "nazali Yawe"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "oyo asanzolaka bino"
+    }
+  ],
+  "timestamp": "2026-09-03T16:52:18.012376856Z",
+  "model": "glm-5.3"
+}

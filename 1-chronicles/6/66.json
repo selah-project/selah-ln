@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "1-chronicles 6:66",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpe ⟨את⟩ Heshbon mpe ⟨את⟩ mabele na yango ya pembeni, mpe ⟨את⟩ Yaezir mpe ⟨את⟩ mabele na yango ya pembeni.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Heshbon"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Heshbon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mabele na yango ya pembeni"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "mabele na yango ya pembeni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Yaezir"
+    },
+    {
+      "surface": "יעזיר",
+      "gloss": "Yaezir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mabele na yango ya pembeni"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "mabele na yango ya pembeni"
+    }
+  ],
+  "timestamp": "2026-09-03T22:42:30.910054888Z",
+  "model": "glm-5.3"
+}

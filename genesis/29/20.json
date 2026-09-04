@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 29:20",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 29,
+  "translation": "Mpe Yaakov akombokaki mpo na Rahel mbula sambo, mpe na miso na ye ezalaki lokola mikolo mike, na bolingo na ye ⟨את⟩ ye.",
+  "tokens": [
+    {
+      "surface": "ויעבד",
+      "gloss": "Mpe ... akombokaki"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ברחל",
+      "gloss": "mpo na Rahel"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sambo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mbula"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "mpe ... ezalaki"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "na miso na ye"
+    },
+    {
+      "surface": "כימים",
+      "gloss": "lokola mikolo"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "mike"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "na bolingo na ye"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ye (Rahel)"
+    }
+  ],
+  "timestamp": "2026-09-03T15:59:14.070018297Z",
+  "model": "glm-5.3"
+}

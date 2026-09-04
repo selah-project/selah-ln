@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 24:4",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "Mpe napesaki na Yitshak ⟨את⟩ Yaakov mpe ⟨את⟩ Esav; mpe napesaki na Esav ⟨את⟩ mont Seir mpo azwa ⟨את⟩ yango; kasi Yaakov mpe bana na ye bakitaki na Mitsraim.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "Mpe napesaki"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "na Yitshak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Esav"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "mpe napesaki"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "na Esav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mont Seir"
+    },
+    {
+      "surface": "הר",
+      "gloss": "mont"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seir"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "mpo azwa"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ yango",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "kasi Yaakov"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "mpe bana na ye"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "bakitaki"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "na Mitsraim"
+    }
+  ],
+  "timestamp": "2026-09-03T17:55:52.489703230Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 144:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 144,
+  "translation": "Hesed na ngai mpe esika na ngai ya bokangi, esika na ngai ya likolo mpe mobimisi na ngai; na ngai lipaya na ngai, mpe na yango najukaki bobombi; oyo abukisaka bato na ngai nse na ngai.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "hesed na ngai"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "mpe esika na ngai ya bokangi"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "esika na ngai ya likolo"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "mpe mobimisi na ngai"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "lipaya na ngai"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "mpe na yango"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "najukaki bobombi"
+    },
+    {
+      "surface": "הרודד",
+      "gloss": "oyo abukisaka"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "bato na ngai"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "nse na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:35:44.252215342Z",
+  "model": "glm-5.3"
+}

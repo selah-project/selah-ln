@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 19:8",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Mpe Rav-Shakeh azongaki, mpe amonaki ⟨את⟩ mokonzi ya Ashur azalaki kobunda na Livna; mpo akanaki ete abimaki na Lakish.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Mpe ... azongaki"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Rav"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "Shakeh"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "mpe amonaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mokonzi ya Ashur"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ya Ashur"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "azalaki kobunda"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Livna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "akanaki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "abimaki"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "na Lakish"
+    }
+  ],
+  "timestamp": "2026-09-03T19:08:11.414073470Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 46:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 46,
+  "translation": "Mpo na yango tokotoka te, ⟨soki⟩ mabele ebongwani, mpe bangomba etumbuki na mitema ya bibale.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Mpo na"
+    },
+    {
+      "surface": "כן",
+      "gloss": "yango"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "נירא",
+      "gloss": "tokotoka"
+    },
+    {
+      "surface": "בהמיר",
+      "gloss": "ebongwani"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "ובמוט",
+      "gloss": "mpe etumbuki"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "bangomba"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "na mitema"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ya bibale"
+    }
+  ],
+  "timestamp": "2026-09-03T21:11:51.934985098Z",
+  "model": "glm-5.3"
+}

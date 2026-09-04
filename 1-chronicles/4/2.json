@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 4:2",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe Reayah mwana ya Shoval abotaki ⟨את⟩ Yahat, mpe Yahat abotaki ⟨את⟩ Ahumai mpe ⟨את⟩ Lahad; bango wana nde bakelasi ya bato ya Tsorah.",
+  "tokens": [
+    {
+      "surface": "וראיה",
+      "gloss": "Mpe Reayah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "ya Shoval"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "abotaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahat"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Yahat"
+    },
+    {
+      "surface": "ויחת",
+      "gloss": "mpe Yahat"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "abotaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ahumai"
+    },
+    {
+      "surface": "אחומי",
+      "gloss": "Ahumai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Lahad"
+    },
+    {
+      "surface": "להד",
+      "gloss": "Lahad"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bango wana"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "bakelasi ya bato"
+    },
+    {
+      "surface": "הצרעתי",
+      "gloss": "ya Tsorah"
+    }
+  ],
+  "timestamp": "2026-09-03T22:42:00.965285322Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 95:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 95,
+  "translation": "Oyo batoi na bino bakanisaki ngai, balukaki ngai, mpe bamonaki mosala na ngai.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "נסוני",
+      "gloss": "bakanisaki ngai"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "batoi na bino"
+    },
+    {
+      "surface": "בחנוני",
+      "gloss": "balukaki ngai"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "bamonaki"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "mosala na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:23:51.019513796Z",
+  "model": "glm-5.3"
+}

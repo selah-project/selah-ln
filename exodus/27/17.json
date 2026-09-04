@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 27:17",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 27,
+  "translation": "Bapilô nyonso ya hasara na zingazinga bakangami na findo, bapoloke na bango findo, mpe banatele na bango nkufa.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "עמודי",
+      "gloss": "bapilô"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "hasara"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "zingazinga"
+    },
+    {
+      "surface": "מחשקים",
+      "gloss": "bakangami-na-findo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "findo"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "mpe banatele na bango"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "nkufa"
+    }
+  ],
+  "timestamp": "2026-09-03T16:28:31.400532741Z",
+  "model": "glm-5.3"
+}

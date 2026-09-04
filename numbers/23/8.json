@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 23:8",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Nini nakoki kobeta maledi, El abeta maledi te? Mpe nini nakoki kofonya, Yawe afonyaki te?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "אקב",
+      "gloss": "nakoki kobeta maledi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "קבה",
+      "gloss": "abeta maledi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "mpe nini"
+    },
+    {
+      "surface": "אזעם",
+      "gloss": "nakoki kofonya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "afonyaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T17:15:00.038591596Z",
+  "model": "glm-5.3"
+}

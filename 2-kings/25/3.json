@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 25:3",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Na libwa ⟨ya⟩ sanza, nzala emekaki makasi na engumba, mpe molie te ezalaki mpo na bato ya mabele.",
+  "tokens": [
+    {
+      "surface": "בתשעה",
+      "gloss": "Na libwa"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ya sanza"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "emekaki makasi"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "nzala"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "na engumba"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ezalaki"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "molie"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "mpo na bato"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ya mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T19:13:39.076929128Z",
+  "model": "glm-5.3"
+}

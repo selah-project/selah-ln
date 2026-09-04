@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 19:1",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Ahab atangaki na Izebel ⟨את⟩ nyonso oyo Eliyahu asalaki, mpe ⟨את⟩ nyonso oyo abomaki ⟨את⟩ banavi nyonso na mopanga.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "atangaki"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "na Izebel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyonso oyo Eliyahu asalaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "asalaki"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "nyonso oyo abomaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "abomaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "banavi nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "banavi"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "na mopanga"
+    }
+  ],
+  "timestamp": "2026-09-03T18:56:48.981089696Z",
+  "model": "glm-5.3"
+}

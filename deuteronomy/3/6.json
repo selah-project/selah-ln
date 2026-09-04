@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 3:6",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe tosilisaki ⟨את⟩ bango ndenge tosalaki na Sihon, mokonzi ya Heshbon: tosilisaki na mboka nyonso bato, basi mpe bana.",
+  "tokens": [
+    {
+      "surface": "ונחרם",
+      "gloss": "Mpe tosilisaki"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ bango",
+      "marks": "bango"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ndenge"
+    },
+    {
+      "surface": "עשינו",
+      "gloss": "tosalaki"
+    },
+    {
+      "surface": "לסיחן",
+      "gloss": "na Sihon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "ya Heshbon"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "tosilisaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "na mboka"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "basi"
+    },
+    {
+      "surface": "והטף",
+      "gloss": "mpe bana"
+    }
+  ],
+  "timestamp": "2026-09-03T23:18:21.386747861Z",
+  "model": "glm-5.3"
+}

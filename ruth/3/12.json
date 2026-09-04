@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ruth 3:12",
+  "book": "ruth",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe sikoyo, solo namenene, ete ngai ⟨nazali⟩ mobombi (goel); kasi ezali na mobombi mosusu oyo azali pene koleka ngai.",
+  "tokens": [
+    {
+      "surface": "וְעַתָּה֙",
+      "gloss": "Mpe sikoyo"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "solo"
+    },
+    {
+      "surface": "אָמְנָ֔ם",
+      "gloss": "namenene"
+    },
+    {
+      "surface": "כִּ֥י",
+      "gloss": "ete"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "⟨solo⟩"
+    },
+    {
+      "surface": "גֹאֵ֖ל",
+      "gloss": "mobombi (goel)"
+    },
+    {
+      "surface": "אָנֹ֑כִי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "וְגַ֛ם",
+      "gloss": "kasi"
+    },
+    {
+      "surface": "יֵ֥שׁ",
+      "gloss": "ezali na"
+    },
+    {
+      "surface": "גֹאֵ֖ל",
+      "gloss": "mobombi"
+    },
+    {
+      "surface": "קָר֥וֹב",
+      "gloss": "pene"
+    },
+    {
+      "surface": "מִמֶּֽנִּי",
+      "gloss": "koleka ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T22:09:03.600611850Z",
+  "model": "glm-5.3"
+}

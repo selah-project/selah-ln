@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 40:5",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 40,
+  "translation": "Mpe nkembo ya Yawe ekomonana, mpe bopesi nyonso bakomona ⟨yango⟩ elongo, mpo monoko ya Yawe alobaki ⟨yango⟩.",
+  "tokens": [
+    {
+      "surface": "ונגלה",
+      "gloss": "ekomonana"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "nkembo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "bakomona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "bopesi"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "elongo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "פי",
+      "gloss": "monoko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "alobaki"
+    }
+  ],
+  "timestamp": "2026-09-03T19:29:39.010516349Z",
+  "model": "glm-5.3"
+}

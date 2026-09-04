@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "daniel 1:16",
+  "book": "daniel",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe mokambi alongolaki ⟨את⟩ bilei na bango mpe divai ya komeli na bango, mpe apesaki bango bilanga.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mpe esalaki"
+    },
+    {
+      "surface": "המלצר",
+      "gloss": "mokambi"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "alongolaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bilei na bango"
+    },
+    {
+      "surface": "פתבגם",
+      "gloss": "bilei na bango"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "mpe divai"
+    },
+    {
+      "surface": "משתיהם",
+      "gloss": "ya komeli na bango"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "mpe apesaki"
+    },
+    {
+      "surface": "להם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "זרענים",
+      "gloss": "bilanga"
+    }
+  ],
+  "timestamp": "2026-09-03T22:19:26.396148520Z",
+  "model": "glm-5.3"
+}

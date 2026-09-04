@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 12:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Oyo balobaki: Na mondeli na biso tokolambo nguya; mipopa na biso ezali na biso: nani azali nkolo na biso?",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "balobaki"
+    },
+    {
+      "surface": "ללשננו",
+      "gloss": "na mondeli na biso"
+    },
+    {
+      "surface": "נגביר",
+      "gloss": "tokolambo nguya"
+    },
+    {
+      "surface": "שפתינו",
+      "gloss": "mipopa na biso"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ na biso"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nani"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "nkolo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "na biso"
+    }
+  ],
+  "timestamp": "2026-09-03T21:02:20.854758989Z",
+  "model": "glm-5.3"
+}

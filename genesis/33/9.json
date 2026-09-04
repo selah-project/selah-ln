@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 33:9",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 33,
+  "translation": "Esav alobaki: Ezali na ngai ebele, ndeko; oyo ozali na yango, ezala ya yo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "יֵשׁ",
+      "gloss": "ezali"
+    },
+    {
+      "surface": "לִי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "רַב",
+      "gloss": "eebele"
+    },
+    {
+      "surface": "אָחִי",
+      "gloss": "ndeko"
+    },
+    {
+      "surface": "יְהִי",
+      "gloss": "ezala"
+    },
+    {
+      "surface": "לְךָ",
+      "gloss": "ya yo"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לָךְ",
+      "gloss": "ozali na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:02:06.485900303Z",
+  "model": "glm-5.3"
+}

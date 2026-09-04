@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 34:9",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 34,
+  "translation": "Bosangani ⟨את⟩ biso: bana basi na bino bopei biso, mpe ⟨את⟩ bana basi na biso bondima bino moko.",
+  "tokens": [
+    {
+      "surface": "והתחתנו",
+      "gloss": "bosangani"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ biso",
+      "marks": "bana basi na bino"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "bana basi na bino"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "bopei"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "na biso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bana basi na biso"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "bana basi na biso"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "bondima"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bino moko"
+    }
+  ],
+  "timestamp": "2026-09-03T16:03:28.702663485Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 17:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 17,
+  "translation": "Batela ngai lokola ⟨moto ya moke oyo emonani na⟩ katikati ya liso, ohomba ngai na moyindo ya mapapa na yo.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "Batela ngai"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "lokola ⟨moto ya moke oyo emonani na⟩"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ya liso"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "na moyindo"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "ya mapapa na yo"
+    },
+    {
+      "surface": "תסתירני",
+      "gloss": "ohomba ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:02:30.911987864Z",
+  "model": "glm-5.3"
+}

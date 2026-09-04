@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 18:36",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Mpe opesaki ngai mabomba ya lobiko na yo, mpe loboko na yo ya mobali obataka ngai, mpe bokebi na yo okolisaka ngai.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "mpe opesaki"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "mabomba"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "ya lobiko na yo"
+    },
+    {
+      "surface": "וימינך",
+      "gloss": "mpe loboko na yo ya mobali"
+    },
+    {
+      "surface": "תסעדני",
+      "gloss": "obataka ngai"
+    },
+    {
+      "surface": "וענותך",
+      "gloss": "mpe bokebi na yo"
+    },
+    {
+      "surface": "תרבני",
+      "gloss": "okolisaka ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:04:35.839229417Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 24:4",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "Kasi okende na mabele na ngai mpe na mbotama na ngai, mpe ozwa mwasi mpo na mwana na ngai, mpo na Yitshak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kasi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "mabele na ngai"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mpe na"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "mbotama na ngai"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "okende"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "mpe ozwa"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mwasi"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "mpo na mwana na ngai"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "mpo na Yitshak"
+    }
+  ],
+  "timestamp": "2026-09-03T15:55:42.661670815Z",
+  "model": "glm-5.3"
+}

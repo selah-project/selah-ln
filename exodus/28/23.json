@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 28:23",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 28,
+  "translation": "Mpe okosala likolo ya hoshen mibage mibale ya wolo, mpe okoti ⟨את⟩ mibage mibale na nsuka mibale ya hoshen.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Mpe okosala"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "hoshen"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "mibage"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ya wolo"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "mpe okoti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mibage mibale"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "mibage mibale"
+    },
+    {
+      "surface": "הטבעות",
+      "gloss": ""
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "nsuka"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "ya hoshen"
+    }
+  ],
+  "timestamp": "2026-09-03T16:30:02.273342982Z",
+  "model": "glm-5.3"
+}

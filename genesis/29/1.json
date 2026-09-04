@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 29:1",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 29,
+  "translation": "Yaakov atombaki makolo na yango mpe akendaki na mabele ya bana ya lobiko.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "atombaki"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "makolo na yango"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "mpe akendaki"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ya bana"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ya lobiko"
+    }
+  ],
+  "timestamp": "2026-09-03T15:59:57.768626910Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 113:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 113,
+  "translation": "Yawe alemi likolo ya bikolo nyonso, mpe nkembo na yango likolo ya likolo.",
+  "tokens": [
+    {
+      "surface": "רם",
+      "gloss": "alemi"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bikolo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "likolo"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "nkembo na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:29:09.507698200Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 1:1",
+  "book": "malachi",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Motuya ya liloba ya Yawe na Israel, na maboko ya Malaki.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Motuya"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ya liloba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "na maboko ya"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "Malaki"
+    }
+  ],
+  "timestamp": "2026-09-03T20:58:56.571899883Z",
+  "model": "glm-5.3"
+}

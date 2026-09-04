@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 16:7",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Ntango banzela ya moto esepelisi Yawe, ata banguna na ye asalaka botya ⟨את⟩ ⟨na ye⟩.",
+  "tokens": [
+    {
+      "surface": "ברצות",
+      "gloss": "ntango esepelisi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "banzela"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ya moto"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ata"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "banguna na ye"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "asalaka botya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨na ye⟩",
+      "marks": "moto oyo banzela na ye esepelisi Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T21:43:25.629502038Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 139:11",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 139,
+  "translation": "Mpe nabaki: ya solo, molili ekobomba ngai, mpe buto ezali lokola moyi epai ngai.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "mpe nabaki"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ya solo"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "molili"
+    },
+    {
+      "surface": "ישופני",
+      "gloss": "ekobomba ngai"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "mpe buto"
+    },
+    {
+      "surface": "אור",
+      "gloss": "lokola moyi"
+    },
+    {
+      "surface": "בעדני",
+      "gloss": "epai ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:34:57.798733489Z",
+  "model": "glm-5.3"
+}

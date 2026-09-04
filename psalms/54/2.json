@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 54:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 54,
+  "translation": "Ntango bato ya Zifu bawayaki mpe balobi epai ya Shaul ete: soki David abombami na biso te?",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "Ntango … bawayaki"
+    },
+    {
+      "surface": "הזיפים",
+      "gloss": "bato ya Zifu"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "mpe balobi"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "epai ya Shaul"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "ete: soki … te"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מסתתר",
+      "gloss": "abombami"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "na biso"
+    }
+  ],
+  "timestamp": "2026-09-03T21:13:51.542751906Z",
+  "model": "glm-5.3"
+}

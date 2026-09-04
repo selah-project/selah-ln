@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 74:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 74,
+  "translation": "Banguna na yo balobaki mongongo na kati ya esika ya kosangana na yo; batyaki bilembo na bango bilembo.",
+  "tokens": [
+    {
+      "surface": "שאגו",
+      "gloss": "balobaki mongongo"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "banguna na yo"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "na kati"
+    },
+    {
+      "surface": "מועדך",
+      "gloss": "esika ya kosangana na yo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "batyaki"
+    },
+    {
+      "surface": "אותתם",
+      "gloss": "bilembo na bango"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "bilembo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:19:29.501146592Z",
+  "model": "glm-5.3"
+}

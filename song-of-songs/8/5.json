@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 8:5",
+  "book": "song-of-songs",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Nani oyo ayei wuta na mboka-mokongo, apemi na dodo na ye? Na nse ya nzete ya pome nakamwaki yo; kuna mamá na yo azalaki na mpasi ya kobota yo, kuna abotaki yo.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Nani"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ayei"
+    },
+    {
+      "surface": "מן",
+      "gloss": "wuta na"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "mboka-mokongo"
+    },
+    {
+      "surface": "מתרפקת",
+      "gloss": "apemi"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "דודה",
+      "gloss": "dodo na ye"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "na nse ya"
+    },
+    {
+      "surface": "התפוח",
+      "gloss": "nzete ya pome"
+    },
+    {
+      "surface": "עוררתיך",
+      "gloss": "nakamwaki yo"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "חבלתך",
+      "gloss": "azalaki na mpasi ya kobota ⟨yo⟩"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "mamá na yo"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "חבלה",
+      "gloss": "abotaki"
+    },
+    {
+      "surface": "ילדתך",
+      "gloss": "yo"
+    }
+  ],
+  "timestamp": "2026-09-03T22:09:23.785546941Z",
+  "model": "glm-5.3"
+}

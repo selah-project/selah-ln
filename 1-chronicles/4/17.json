@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 4:17",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe bana ya Ezrah: Yeter, mpe Mered, mpe Efer, mpe Yalon; mpe ⟨ye⟩ abotaki ⟨את⟩ Miriam, mpe ⟨את⟩ Shamai, mpe ⟨את⟩ Yishbah, tato ya Eshtemoa.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "mpe bana ya"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "Ezrah"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yeter"
+    },
+    {
+      "surface": "ומרד",
+      "gloss": "mpe Mered"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "mpe Efer"
+    },
+    {
+      "surface": "וילון",
+      "gloss": "mpe Yalon"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "mpe ⟨ye⟩ abotaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Miriam"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "Miriam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Shamai"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Shamai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Yishbah"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "Yishbah"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tato ya"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "Eshtemoa"
+    }
+  ],
+  "timestamp": "2026-09-03T22:42:13.538366910Z",
+  "model": "glm-5.3"
+}

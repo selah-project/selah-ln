@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 119:22",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Blongola na ngai lifinga mpe botutulu, mpo nabatelaki batembe na yo.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "blongola"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "lifinga"
+    },
+    {
+      "surface": "ובוז",
+      "gloss": "mpe botutulu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "batembe na yo"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "nabatelaki"
+    }
+  ],
+  "timestamp": "2026-09-03T21:31:18.246097795Z",
+  "model": "glm-5.3"
+}

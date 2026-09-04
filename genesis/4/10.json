@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 4:10",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe alobaki: Osali nini? Mongongo ya makila ya ndeko na yo ezali koliala ⟨epai na ngai⟩ uta na mabele.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "Osali"
+    },
+    {
+      "surface": "קול",
+      "gloss": "Mongongo"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "ya makila"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ya ndeko na yo"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "ezali koliala"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "epai na ngai"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uta"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "na mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T23:11:18.510956455Z",
+  "model": "glm-5.3"
+}

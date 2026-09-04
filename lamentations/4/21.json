@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "lamentations 4:21",
+  "book": "lamentations",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Sanga mpe kosekana, mwana ya Edom, o zali kofanda na mabele ya Uts; kombo mpe ekolekisa epai na yo: okokoma membe mpe okolakisa nzoto na yo.",
+  "tokens": [
+    {
+      "surface": "שישי",
+      "gloss": "Sanga"
+    },
+    {
+      "surface": "ושמחי",
+      "gloss": "mpe kosekana"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ya Edom"
+    },
+    {
+      "surface": "יושבתי",
+      "gloss": "o zali kofanda"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "ya Uts"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "epai na yo"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "ekolekisa"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "kombo"
+    },
+    {
+      "surface": "תשכרי",
+      "gloss": "okokoma membe"
+    },
+    {
+      "surface": "ותתערי",
+      "gloss": "mpe okolakisa nzoto na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T22:12:19.612398090Z",
+  "model": "glm-5.3"
+}

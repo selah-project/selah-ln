@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 3:1",
+  "book": "song-of-songs",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Na kitanda na ngai, na ba ndondo, nalukaki ⟨את⟩ oyo molimo na ngai alingaka; nalukaki ye, mpe nakutaki na ye te.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Na"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "kitanda na ngai"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "na ba ndondo"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "nalukaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oyo molimo na ngai alingaka"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "molimo na ngai"
+    },
+    {
+      "surface": "בקשתיו",
+      "gloss": "nalukaki ye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "מצאתיו",
+      "gloss": "nakutaki na ye te"
+    }
+  ],
+  "timestamp": "2026-09-03T22:06:25.023200986Z",
+  "model": "glm-5.3"
+}

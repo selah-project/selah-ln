@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 17:18",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 17,
+  "translation": "Mpe na ngambo ya maboko na ye Yehozabad, mpe na ye nkama moko na ntuku mwambe nkoto bato oyo basundolamaki mpo na mpinga.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "Mpe na ngambo ya"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "maboko na ye"
+    },
+    {
+      "surface": "יהוזבד",
+      "gloss": "Yehozabad"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "mpe na ye"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "nkama moko"
+    },
+    {
+      "surface": "ושמונים",
+      "gloss": "na ntuku mwambe"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "nkoto"
+    },
+    {
+      "surface": "חלוצי",
+      "gloss": "bato oyo basundolamaki"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "mpo na mpinga"
+    }
+  ],
+  "timestamp": "2026-09-03T22:59:42.168702158Z",
+  "model": "glm-5.3"
+}

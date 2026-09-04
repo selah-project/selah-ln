@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 23:3",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Mpe mokwama, kotombola ye te na kosolo na ye.",
+  "tokens": [
+    {
+      "surface": "ודל",
+      "gloss": "mpe mokwama"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "kotombola ye"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "na kosolo na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T16:26:18.451141255Z",
+  "model": "glm-5.3"
+}

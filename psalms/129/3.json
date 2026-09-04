@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 129:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 129,
+  "translation": "Likolongo na ngai bafule bafulaki, batindaki biline na bango molai.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "likolongo na ngai"
+    },
+    {
+      "surface": "חרשו",
+      "gloss": "bafulaki"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "bafule"
+    },
+    {
+      "surface": "האריכו",
+      "gloss": "batindaki molai"
+    },
+    {
+      "surface": "למענותם",
+      "gloss": "biline na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:33:10.474950111Z",
+  "model": "glm-5.3"
+}

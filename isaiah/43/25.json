@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 43:25",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 43,
+  "translation": "Ngai, ngai moko nde nakoluka mabe na yo, mpo na ngai, mpe mabe na yo nakokanaka te.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ngai"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nde"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "nakoluka"
+    },
+    {
+      "surface": "פשעיך",
+      "gloss": "mabe na yo"
+    },
+    {
+      "surface": "למעני",
+      "gloss": "mpo na ngai"
+    },
+    {
+      "surface": "וחטאתיך",
+      "gloss": "mpe mabe na yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "nakokanaka"
+    }
+  ],
+  "timestamp": "2026-09-03T19:31:08.143763593Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 37:40",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 37,
+  "translation": "Yawe asalisi bango mpe abombisi bango; abombisi bango na babubi mpe abikisi bango, mpo bamipesi na ye.",
+  "tokens": [
+    {
+      "surface": "ויעזרם",
+      "gloss": "asalisi bango"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויפלטם",
+      "gloss": "mpe abombisi bango"
+    },
+    {
+      "surface": "יפלטם",
+      "gloss": "abombisi bango"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "na babubi"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "mpe abikisi bango"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "חסו",
+      "gloss": "bamipesi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:09:31.651623531Z",
+  "model": "glm-5.3"
+}

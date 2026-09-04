@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 57:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 57,
+  "translation": "Nakobenga Elohim Elion, ⟨kana⟩ El oyo akosilisa likambo na ngai.",
+  "tokens": [
+    {
+      "surface": "אקרא",
+      "gloss": "Nakobenga"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elion"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "El"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "akosilisa likambo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:14:51.396706992Z",
+  "model": "glm-5.3"
+}

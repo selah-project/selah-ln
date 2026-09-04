@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 7:10",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mpe bana ya Yediael: Bilhan; mpe bana ya Bilhan: Yeush, mpe Binyamin, mpe Ehud, mpe Kenaanah, mpe Zetan, mpe Tarshish, mpe Ahishahar.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "mpe bana ya"
+    },
+    {
+      "surface": "ידיעאל",
+      "gloss": "Yediael"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "Bilhan"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "mpe bana ya"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "Bilhan"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Yeush"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "mpe Binyamin"
+    },
+    {
+      "surface": "ואהוד",
+      "gloss": "mpe Ehud"
+    },
+    {
+      "surface": "וכנענה",
+      "gloss": "mpe Kenaanah"
+    },
+    {
+      "surface": "וזיתן",
+      "gloss": "mpe Zetan"
+    },
+    {
+      "surface": "ותרשיש",
+      "gloss": "mpe Tarshish"
+    },
+    {
+      "surface": "ואחישחר",
+      "gloss": "mpe Ahishahar"
+    }
+  ],
+  "timestamp": "2026-09-03T22:43:13.702735650Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 98:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 98,
+  "translation": "Na bitulutulu mpe na lionya ya shofara, boloba makasi liboso ya mokonzi Yawe.",
+  "tokens": [
+    {
+      "surface": "בחצצרות",
+      "gloss": "Na bitulutulu"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "mpe na lionya"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "ya shofara"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "boloba makasi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T21:25:56.854111654Z",
+  "model": "glm-5.3"
+}

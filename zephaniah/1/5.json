@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zephaniah 1:5",
+  "book": "zephaniah",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "mpe ⟨את⟩ baye bazali kokumbela likolo ya matando, na bibele ya likolo; mpe ⟨את⟩ baye bazali kokumbela mpe kolaka na Yawe, mpe kolaka na mokonzi na bango",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "baye bazali kokumbela"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "baye bazali kokumbela"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "הגגות",
+      "gloss": "matando"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "na bibele"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ya likolo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "baye bazali kokumbela"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "baye bazali kokumbela"
+    },
+    {
+      "surface": "הנשבעים",
+      "gloss": "baye bazali kolaka"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "na Yawe"
+    },
+    {
+      "surface": "והנשבעים",
+      "gloss": "mpe baye bazali kolaka"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "na mokonzi na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T20:53:47.533707170Z",
+  "model": "glm-5.3"
+}

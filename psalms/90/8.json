@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 90:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 90,
+  "translation": "Otyaki mabe na biso liboso na yo, makombama na biso na polele ya elongi na yo.",
+  "tokens": [
+    {
+      "surface": "שת",
+      "gloss": "Otyaki"
+    },
+    {
+      "surface": "עונתינו",
+      "gloss": "mabe na biso"
+    },
+    {
+      "surface": "לנגדך",
+      "gloss": "liboso na yo"
+    },
+    {
+      "surface": "עלמנו",
+      "gloss": "makombama na biso"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "na polele"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ya elongi na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:24:46.724417661Z",
+  "model": "glm-5.3"
+}

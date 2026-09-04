@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 62:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 62,
+  "translation": "Kaka ye nde libanga na ngai mpe bobiki na ngai, likolo ya makasi na ngai; nakomboka te.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Kaka"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ye nde"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "libanga na ngai"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "mpe bobiki na ngai"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "likolo ya makasi na ngai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "nakomboka"
+    }
+  ],
+  "timestamp": "2026-09-03T21:15:42.316772852Z",
+  "model": "glm-5.3"
+}

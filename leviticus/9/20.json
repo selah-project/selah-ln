@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 9:20",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Mpe batyaki ⟨את⟩ mafuta likolo ya mabele, mpe atungelaki mafuta likolo ya autelo.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "mpe batyaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafuta"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "החזות",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "mpe atungelaki"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "autelo"
+    }
+  ],
+  "timestamp": "2026-09-03T16:44:29.336200756Z",
+  "model": "glm-5.3"
+}

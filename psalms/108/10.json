@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 108:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 108,
+  "translation": "Moab ⟨ezali⟩ digi ya kokololo na ngai; likolo ya Edom nakobwaka sandale na ngai; likolo ya Peleshet nakosakana.",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "digi"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "ya kokololo na ngai"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "nakobwaka"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "sandale na ngai"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Peleshet"
+    },
+    {
+      "surface": "אתרועע",
+      "gloss": "nakosakana"
+    }
+  ],
+  "timestamp": "2026-09-03T21:29:02.321668512Z",
+  "model": "glm-5.3"
+}

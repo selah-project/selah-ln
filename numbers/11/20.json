@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 11:20",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Kino sanza ya mikolo, kino ebimaka na minyoki na bino, mpe ekokomaka bino zawa, mpo bolimwisi ⟨את⟩ Yawe oyo azali kati na bino, mpe bolalaki liboso na ye, koloba: Mpo nini oyo, tobimaki na Mitsraim?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "sanza"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ya mikolo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ebimaka"
+    },
+    {
+      "surface": "מאפכם",
+      "gloss": "na minyoki na bino"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "mpe ekokomaka"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bino"
+    },
+    {
+      "surface": "לזרא",
+      "gloss": "zawa"
+    },
+    {
+      "surface": "יען",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "מאסתם",
+      "gloss": "bolimwisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "azali kati na bino"
+    },
+    {
+      "surface": "ותבכו",
+      "gloss": "mpe bolalaki"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "liboso na ye"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "koloba"
+    },
+    {
+      "surface": "למה",
+      "gloss": "mpo nini"
+    },
+    {
+      "surface": "זה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "יצאנו",
+      "gloss": "tobimaki"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "na Mitsraim"
+    }
+  ],
+  "timestamp": "2026-09-03T23:17:26.282677775Z",
+  "model": "glm-5.3"
+}

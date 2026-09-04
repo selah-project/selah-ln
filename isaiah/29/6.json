@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 29:6",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 29,
+  "translation": "Epai ya Yawe Tsebaot akomonzama na mabunga, mpe na mpuli ya mabele, mpe mongongo ya monene, mpema ya makasi mpe likofi, mpe lambi ya moto oyo eli.",
+  "tokens": [
+    {
+      "surface": "מעם",
+      "gloss": "Epai ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "akomonzama"
+    },
+    {
+      "surface": "ברעם",
+      "gloss": "na mabunga"
+    },
+    {
+      "surface": "וברעש",
+      "gloss": "mpe na mpuli ya mabele"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "mpe mongongo"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ya monene"
+    },
+    {
+      "surface": "סופה",
+      "gloss": "mpema ya makasi"
+    },
+    {
+      "surface": "וסערה",
+      "gloss": "mpe likofi"
+    },
+    {
+      "surface": "ולהב",
+      "gloss": "mpe lambi"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ya moto"
+    },
+    {
+      "surface": "אוכלה",
+      "gloss": "oyo eli"
+    }
+  ],
+  "timestamp": "2026-09-03T19:25:47.983595509Z",
+  "model": "glm-5.3"
+}

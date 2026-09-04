@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 12:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Na zingazinga babebi bazalakaka kotambola, tango bokweyisi ya bato mibale-monene emonani kati ya bana ya Adam.",
+  "tokens": [
+    {
+      "surface": "סביב",
+      "gloss": "na zingazinga"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "babebi"
+    },
+    {
+      "surface": "יתהלכון",
+      "gloss": "bazalakaka kotambola"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "tango bokweyisi ya bato mibale-monende emonani"
+    },
+    {
+      "surface": "זלות",
+      "gloss": "bokweyisi ya bato mibale-monende"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kati ya bana ya"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    }
+  ],
+  "timestamp": "2026-09-03T21:01:18.433439969Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 18:26",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Boyo bino botala ⟨את⟩ mibeko na ngai mpe ⟨את⟩ makotisi na ngai, mpe bokosala te ndenge nyonso ya misala ya mawa oyo, moto ya mboka mpe mokambi oyo afandaka kati na bino.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "botala"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "bino"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mibeko na ngai"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "mibeko na ngai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "makotisi na ngai"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "makotisi na ngai"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "bokosala"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ndenge nyonso ya"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "misala ya mawa"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "האזרח",
+      "gloss": "moto ya mboka"
+    },
+    {
+      "surface": "והגר",
+      "gloss": "mpe mokambi"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "afandaka"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "kati na bino"
+    }
+  ],
+  "timestamp": "2026-09-03T16:49:08.640699267Z",
+  "model": "glm-5.3"
+}

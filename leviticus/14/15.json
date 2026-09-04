@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 14:15",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Mpe kohen azwaki na loge ya mafuta, mpe abwakaki yango na libanza ya kohen ya mwasi.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "mpe azwaki"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "מלג",
+      "gloss": "na loge"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "ya mafuta"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "mpe abwakaki"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כף",
+      "gloss": "libanza"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ya kohen"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "ya mwasi"
+    }
+  ],
+  "timestamp": "2026-09-03T16:47:50.050738964Z",
+  "model": "glm-5.3"
+}

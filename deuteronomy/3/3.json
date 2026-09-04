@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 3:3",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpé Yawe Elohim na biso apesaki na loboko na biso ata ⟨את⟩ Og, mokonzi ya Bashan, mpe ⟨את⟩ batoibe na ye nyonso; mpé totubwaki ye kino moto oyo akimaki atikaki te na ye.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "mpé apesaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim na biso"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "na loboko na biso"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Og"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "ya Bashan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "batoibe na ye nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "batoibe na ye"
+    },
+    {
+      "surface": "ונכהו",
+      "gloss": "mpé totubwaki ye"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "te"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "atikaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "moto oyo akimaki"
+    }
+  ],
+  "timestamp": "2026-09-03T17:24:33.315654066Z",
+  "model": "glm-5.3"
+}

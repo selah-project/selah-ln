@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 32:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 32,
+  "translation": "Etio nakangaki monoko, mikuwa na ngai ebolaki, na bokali na ngai mokolo mobimba.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Etio"
+    },
+    {
+      "surface": "החרשתי",
+      "gloss": "nakangaki monoko"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "ebolaki"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "mikuwa na ngai"
+    },
+    {
+      "surface": "בשאגתי",
+      "gloss": "na bokali na ngai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mobimba"
+    },
+    {
+      "surface": "היום",
+      "gloss": "mokolo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:08:40.952754573Z",
+  "model": "glm-5.3"
+}

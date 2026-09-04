@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 21:11",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Mboto na bango akolongola na mabele, mpe mboka na bango na kati ya bana ya bato.",
+  "tokens": [
+    {
+      "surface": "פִּ֭רְיָמוֹ",
+      "gloss": "mbota na bango"
+    },
+    {
+      "surface": "מֵאֶ֣רֶץ",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "תְּאַבֵּ֑ד",
+      "gloss": "akolongola"
+    },
+    {
+      "surface": "וְ֝זַרְעָ֗ם",
+      "gloss": "mpe mbota"
+    },
+    {
+      "surface": "מִבְּנֵ֥י",
+      "gloss": "na kati ya bana"
+    },
+    {
+      "surface": "אָדָֽם",
+      "gloss": "ya bato"
+    }
+  ],
+  "timestamp": "2026-09-03T23:33:49.091809692Z",
+  "model": "glm-5.3"
+}

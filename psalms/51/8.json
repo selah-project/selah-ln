@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 51:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 51,
+  "translation": "Tala, olingaka bosolo na kati ya motema, mpe na libombi bwanya oyangolisaka ngai.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Tala"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "bosolo"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "olingaka"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "na kati ya motema"
+    },
+    {
+      "surface": "ובסתם",
+      "gloss": "mpe na libombi"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "bwanya"
+    },
+    {
+      "surface": "תודיעני",
+      "gloss": "oyebisaka ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:13:24.730912036Z",
+  "model": "glm-5.3"
+}

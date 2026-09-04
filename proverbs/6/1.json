@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 6:1",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mwana na ngai, soki osalaki elaka na moninga na yo, okubaki maboko na yo na moto ya mopaya.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Mwana na ngai"
+    },
+    {
+      "surface": "אם",
+      "gloss": "soki"
+    },
+    {
+      "surface": "ערבת",
+      "gloss": "osalaki elaka"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "na moninga na yo"
+    },
+    {
+      "surface": "תקעת",
+      "gloss": "okubaki"
+    },
+    {
+      "surface": "לזר",
+      "gloss": "na moto ya mopaya"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "maboko na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:38:46.602444975Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 23:1",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Mpe David akomaki koko, mpe atondaki na mikolo, mpe atyaki ⟨את⟩ Shelomo mwana na ye mokonzi likolo ya Israel.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "Mpe David"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "akomaki koko"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "mpe atondaki"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "na mikolo"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "mpe atyaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shelomo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana na ye"
+    },
+    {
+      "surface": "על",
+      "gloss": "mokonzi likolo ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-03T22:50:56.061394831Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 12:1",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Mwana wa mbula sambo Yehoash, na bokonzi na ye.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Mwana"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sambo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mbula"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Yehoash"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "na bokonzi na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T19:05:14.639309009Z",
+  "model": "glm-5.3"
+}

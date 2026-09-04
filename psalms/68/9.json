@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 68:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 68,
+  "translation": "Mabele etetwaki, mpe likolo metombaki liboso ya Elohim — yango wana Sinai — liboso ya Elohim, Elohim ya Israel.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "Mabele"
+    },
+    {
+      "surface": "רעשה",
+      "gloss": "etetwaki"
+    },
+    {
+      "surface": "אף",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "likolo"
+    },
+    {
+      "surface": "נטפו",
+      "gloss": "metombaki"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זה",
+      "gloss": "yango wana"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-03T21:16:44.122380233Z",
+  "model": "glm-5.3"
+}

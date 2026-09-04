@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 4:20",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe ⟨את⟩ mabanga zomi na mibale oyo bakangaki na Yarden, Yehoshua atombwaki na Gilgal.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mabanga zomi na mibale"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "zomi"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "mabanga"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "bakangaki"
+    },
+    {
+      "surface": "מן",
+      "gloss": "na"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "atombwaki"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "na Gilgal"
+    }
+  ],
+  "timestamp": "2026-09-03T17:43:22.850446450Z",
+  "model": "glm-5.3"
+}

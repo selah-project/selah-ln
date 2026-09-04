@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 60:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 60,
+  "translation": "Osekisaki mabele, obukaki yango — lisa ebukambo na yango, mpo ezali kokwea!",
+  "tokens": [
+    {
+      "surface": "הרעשתה",
+      "gloss": "Osekisaki"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "פצמתה",
+      "gloss": "obukaki yango"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "lisa"
+    },
+    {
+      "surface": "שבריה",
+      "gloss": "ebukambo na yango"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ezali kokwea"
+    }
+  ],
+  "timestamp": "2026-09-03T21:15:29.421548827Z",
+  "model": "glm-5.3"
+}

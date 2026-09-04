@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ruth 4:19",
+  "book": "ruth",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe Hetsron abotaki ⟨את⟩ Ram, mpe Ram abotaki ⟨את⟩ Aminadav.",
+  "tokens": [
+    {
+      "surface": "וחצרון",
+      "gloss": "mpe Hetsron"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "abotaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ram"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Ram"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "mpe Ram"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "abotaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aminadav"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Aminadav"
+    }
+  ],
+  "timestamp": "2026-09-03T22:08:44.452026279Z",
+  "model": "glm-5.3"
+}

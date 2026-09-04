@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 10:20",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Mpe Samuel apekisaki ⟨את⟩ bituka nyonso ya Israel penepene, mpe etuka ya Binyamin ezuamaki.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "apekisaki penepene"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bituka nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "bituka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "ezuamaki"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "etuka"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "ya Binyamin"
+    }
+  ],
+  "timestamp": "2026-09-03T18:13:21.686270128Z",
+  "model": "glm-5.3"
+}

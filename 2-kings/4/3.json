@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 4:3",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe alobaki: Kende, senga mpo na yo bilo uta libanda, epai ya ⟨את⟩ bansokwami na yo nyonso, bilo mpamba; kokitisa bilo te.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "kende"
+    },
+    {
+      "surface": "שאלי",
+      "gloss": "senga"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mpo na yo"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "bilo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uta"
+    },
+    {
+      "surface": "החוץ",
+      "gloss": "libanda"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "epai ya ⟨את⟩",
+      "marks": "bansokwami na yo nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "שכנכי",
+      "gloss": "bansokwami na yo"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "bilo"
+    },
+    {
+      "surface": "רקים",
+      "gloss": "mpamba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תמעיטי",
+      "gloss": "kokitisa bilo"
+    }
+  ],
+  "timestamp": "2026-09-03T19:00:49.952392348Z",
+  "model": "glm-5.3"
+}

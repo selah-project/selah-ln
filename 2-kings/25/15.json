@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 25:15",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Mpe ⟨את⟩ bipembeli, mpe ⟨את⟩ bisasoli oyo ezalaki wolo, wolo, mpe oyo ezalaki fede, fede — mokambi ya batabahi awutaki yango.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bipembeli"
+    },
+    {
+      "surface": "המחתות",
+      "gloss": "bipembeli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bisasoli"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "bisasoli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "wolo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "wolo"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "mpe oyo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "fede"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "fede"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "awutaki"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mokambi ya"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "batabahi"
+    }
+  ],
+  "timestamp": "2026-09-03T19:12:48.846392263Z",
+  "model": "glm-5.3"
+}

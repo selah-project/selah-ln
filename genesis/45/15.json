@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 45:15",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 45,
+  "translation": "Mpe abesi mpolo bakndeko na ye nyonso, mpe akwei likolo na bango; mpe na nsima bongo bakndeko na ye balobaki elongo na ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וינשק",
+      "gloss": "mpe abesi mpolo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "na bango nyonso"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "bakndeko na ye"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "mpe akwei"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "likolo na bango"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "mpe na nsima"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bongo"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "balobaki"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "bakndeko na ye"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "elongo na ⟨את⟩",
+      "marks": "bakndeko na ye balobaki elongo na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T23:12:50.553929716Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 78:20",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 78,
+  "translation": "Talá, akubaki libanga mpe mai molanda, mpe minzoki eketaka. Akoki mpe kopesa mokelemba, soki abongisi mosolo mpo na ekolo na ye?",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Talá"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "akubaki"
+    },
+    {
+      "surface": "צור",
+      "gloss": "libanga"
+    },
+    {
+      "surface": "ויזובו",
+      "gloss": "mpe molanda"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mai"
+    },
+    {
+      "surface": "ויזובו-not-used",
+      "gloss": ""
+    },
+    {
+      "surface": "ונחלים",
+      "gloss": "mpe minzoki"
+    },
+    {
+      "surface": "ישטפו",
+      "gloss": "eketaka"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mokelemba"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "akoki"
+    },
+    {
+      "surface": "תת",
+      "gloss": "kopesa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "soki"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "abongisi"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "mosolo"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "mpo na ekolo na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:19:27.118731457Z",
+  "model": "glm-5.3"
+}

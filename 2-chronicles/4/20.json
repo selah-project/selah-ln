@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 4:20",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "mpe ⟨את⟩ bamenora mpe bikandela na yango mpo babeta yango ndenge ya mobeko liboso ya debiri, wolo ya kokangama.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bamenora"
+    },
+    {
+      "surface": "המנרות",
+      "gloss": "bamenora"
+    },
+    {
+      "surface": "ונרתיהם",
+      "gloss": "mpe bikandela na yango"
+    },
+    {
+      "surface": "לבערם",
+      "gloss": "mpo babeta yango"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "ndenge ya mobeko"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "debiri"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "wolo"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "ya kokangama"
+    }
+  ],
+  "timestamp": "2026-09-03T22:54:44.762606114Z",
+  "model": "glm-5.3"
+}

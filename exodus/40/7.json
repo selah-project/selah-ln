@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 40:7",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 40,
+  "translation": "Mpe otya ⟨את⟩ beseni kati ya bandaku ya bokutani mpe kati ya etanda, mpe otya kuna mai.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "mpe otya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "beseni"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "beseni"
+    },
+    {
+      "surface": "בין",
+      "gloss": "kati ya"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "bandaku"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya bokutani"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "mpe kati ya"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "etanda"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "mpe otya"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mai"
+    }
+  ],
+  "timestamp": "2026-09-03T16:38:28.026124011Z",
+  "model": "glm-5.3"
+}

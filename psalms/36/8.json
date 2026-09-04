@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 36:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 36,
+  "translation": "Ezali na motuya bonene hesed na yo, Elohim! Mpe bana ya bato bakimingaka na mopaki ya mapapu na yo.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "bonene"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "na motuya"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed na yo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "mpe bana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ya bato"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "na mopaki"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "ya mapapu na yo"
+    },
+    {
+      "surface": "יחסיון",
+      "gloss": "bakimingaka"
+    }
+  ],
+  "timestamp": "2026-09-03T21:08:49.439455084Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 107:34",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 107,
+  "translation": "Mabele ya mbuma ⟨ezali⟩ esika ya mungwa, mpo na mabe ya bafandi na yango.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ya mbuma"
+    },
+    {
+      "surface": "למלחה",
+      "gloss": "esika ya mungwa"
+    },
+    {
+      "surface": "מרעת",
+      "gloss": "mpo na mabe"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ya bafandi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:28:37.296990753Z",
+  "model": "glm-5.3"
+}

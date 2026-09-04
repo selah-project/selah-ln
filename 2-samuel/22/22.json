@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 22:22",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Mpo nakangaki banzela ya Yawe, mpe nasalaki mabe te na Elohim na ngai.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "nakangaki"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "banzela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "רשעתי",
+      "gloss": "nasalaki mabe"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "na Elohim na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T18:40:42.837836898Z",
+  "model": "glm-5.3"
+}

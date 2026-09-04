@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 18:30",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Mpo na yo nakopanzana miminga, mpe na Elohim na ngai nazali kopima etando.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "בך",
+      "gloss": "na yo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "nakopanzana"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "miminga"
+    },
+    {
+      "surface": "ובאלהי",
+      "gloss": "mpe na Elohim na ngai"
+    },
+    {
+      "surface": "אדלג",
+      "gloss": "nazali kopima"
+    },
+    {
+      "surface": "שור",
+      "gloss": "etando"
+    }
+  ],
+  "timestamp": "2026-09-03T21:04:30.594199438Z",
+  "model": "glm-5.3"
+}

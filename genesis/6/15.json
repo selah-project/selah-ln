@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 6:15",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpe oyo nde osalaka ⟨את⟩ yango: bolai ya sanduku nkama misato ya ama, bokasi na yango ntuku mitano ya ama, mpe boemeki na yango ntuku misato ya ama.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "mpe oyo nde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "osalaka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ yango",
+      "marks": "sanduku"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "misato"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "nkama"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "bolai"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ya sanduku"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ntuku mitano"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "bokasi na yango"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "mpe ntuku misato"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "קומתה",
+      "gloss": "boemeki na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T15:47:38.665937758Z",
+  "model": "glm-5.3"
+}

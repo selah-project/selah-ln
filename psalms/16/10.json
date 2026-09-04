@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 16:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Mpo okotika te bomoi na ngai na Sheol, okopesa te oyo azali na hesed na yo komona libulu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "okotika"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "bomoi na ngai"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "na Sheol"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "okopesa te"
+    },
+    {
+      "surface": "חסידך",
+      "gloss": "oyo azali na hesed na yo"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "komona"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "libulu"
+    }
+  ],
+  "timestamp": "2026-09-03T21:01:49.639373281Z",
+  "model": "glm-5.3"
+}

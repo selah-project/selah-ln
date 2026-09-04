@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 65:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 65,
+  "translation": "Akebisaka dengu ya mbu, dengu ya makelo na yango, mpe bowumbu ya bikolo.",
+  "tokens": [
+    {
+      "surface": "משביח",
+      "gloss": "akebisaka"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "dengu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ya mbu"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "dengu"
+    },
+    {
+      "surface": "גליהם",
+      "gloss": "ya makelo na yango"
+    },
+    {
+      "surface": "והמון",
+      "gloss": "mpe bowumbu"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ya bikolo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:16:03.623306186Z",
+  "model": "glm-5.3"
+}

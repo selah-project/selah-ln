@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 111:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 111,
+  "translation": "Asalaki bokundoli ya mamuya na yango — Yawe azali moto ya ngolu mpe mawa.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "bokundoli"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Asalaki"
+    },
+    {
+      "surface": "לנפלאתיו",
+      "gloss": "ya mamuya na yango"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "moto ya ngolu"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "mpe mawa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T21:29:45.487570579Z",
+  "model": "glm-5.3"
+}

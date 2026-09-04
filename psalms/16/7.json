@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 16:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Nakotola ⟨את⟩ Yawe oyo apesi ngai likanisi; ee, na butu bikolo na ngai bizali kolinga ngai.",
+  "tokens": [
+    {
+      "surface": "אברך",
+      "gloss": "Nakotola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "יעצני",
+      "gloss": "apesi ngai likanisi"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ee"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "na butu"
+    },
+    {
+      "surface": "יסרוני",
+      "gloss": "bizali kolinga ngai"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "bikolo na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:02:29.865974943Z",
+  "model": "glm-5.3"
+}

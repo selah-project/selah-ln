@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 6:10",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpe mokonzi ya Israel atindaki na esika oyo moto ya Elohim alobaki ⟨ye⟩, mpe atyaki ⟨ye⟩ likebi; mpe abatelaki ⟨yango⟩ kuna, te mbala moko mpe te mbala mibale.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "mpe atindaki"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "esika"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והזהירה",
+      "gloss": "mpe atyaki likebi"
+    },
+    {
+      "surface": "ונשמר",
+      "gloss": "mpe abatelaki"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "mbala moko"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "mbala mibale"
+    }
+  ],
+  "timestamp": "2026-09-04T00:20:07.073079495Z",
+  "model": "glm-5.3"
+}

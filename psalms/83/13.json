@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 83:13",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 83,
+  "translation": "Baoyo balobaki: Tokozwa na biso ⟨את⟩ bandako ya Elohim.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "baoyo"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "balobaki"
+    },
+    {
+      "surface": "נירשה",
+      "gloss": "tokozwa na biso"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "na biso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bandako"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "bandako"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-03T21:20:55.784531638Z",
+  "model": "glm-5.3"
+}

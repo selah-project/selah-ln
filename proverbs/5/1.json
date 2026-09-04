@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 5:1",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Mwana na ngai, tala bokoki na ngai, tyá matoyi na yo na bwanya na ngai.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Mwana na ngai"
+    },
+    {
+      "surface": "לחכמתי",
+      "gloss": "tala bokoki na ngai"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "tala"
+    },
+    {
+      "surface": "לתבונתי",
+      "gloss": "na bwanya na ngai"
+    },
+    {
+      "surface": "הט",
+      "gloss": "tyá"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "matoyi na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:38:42.838301178Z",
+  "model": "glm-5.3"
+}

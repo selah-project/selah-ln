@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 38:28",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 38,
+  "translation": "Mpe ⟨את⟩ nkoto moko mpe sambo nkama mpe mitano mpe ntuku sambo ⟨asalaki⟩ bavavu mpo na bapila, mpe apekisaki mito na yango, ⟨את⟩ mpe akangisaki bango.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "nkoto moko mpe sambo nkama mpe mitano mpe ntuku sambo"
+    },
+    {
+      "surface": "האלף",
+      "gloss": "nkoto moko"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "mpe sambo"
+    },
+    {
+      "surface": "המאות",
+      "gloss": "nkama"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "mpe mitano"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "mpe ntuku sambo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "asalaki"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "mpe ntuku sambo"
+    },
+    {
+      "surface": "ווים",
+      "gloss": "bavavu"
+    },
+    {
+      "surface": "לעמודים",
+      "gloss": "mpo na bapila"
+    },
+    {
+      "surface": "וצפה",
+      "gloss": "mpe apekisaki"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "mito na yango"
+    },
+    {
+      "surface": "וחשק",
+      "gloss": "⟨את⟩ mpe akangisaki"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "bango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:37:05.539141141Z",
+  "model": "glm-5.3"
+}

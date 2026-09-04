@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 41:5",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 41,
+  "translation": "Bisanga bamonaki mpe babangaki; misuka ya mabele mitombolaki; basukinaki pene mpe bayaki.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "bamonaki"
+    },
+    {
+      "surface": "איים",
+      "gloss": "bisanga"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "mpe babangaki"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "misuka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ya mabele"
+    },
+    {
+      "surface": "יחרדו",
+      "gloss": "mitombolaki"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "basukinaki pene"
+    },
+    {
+      "surface": "ויאתיון",
+      "gloss": "mpe bayaki"
+    }
+  ],
+  "timestamp": "2026-09-03T19:30:14.021739610Z",
+  "model": "glm-5.3"
+}

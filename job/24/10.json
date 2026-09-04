@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 24:10",
+  "book": "job",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "Bakendaka seke kanzanga elamba, mpe banzala babimisaka lipanzu.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "seke"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "bakendaka"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "kanzanga"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "elamba"
+    },
+    {
+      "surface": "ורעבים",
+      "gloss": "mpe banzala"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "babimisaka"
+    },
+    {
+      "surface": "עמר",
+      "gloss": "lipanzu"
+    }
+  ],
+  "timestamp": "2026-09-03T21:59:28.816208172Z",
+  "model": "glm-5.3"
+}

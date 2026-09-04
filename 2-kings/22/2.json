@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 22:2",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Mpe asalaki malamu na miso ya Yawe, mpe atambolaki na nzela nyonso ya David tata na ye, mpe avekaki te na ngambo ya loboko ya mobali to ya loboko ya mwasi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "mpe asalaki"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "malamu"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "na miso ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "mpe atambolaki"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na nzela nyonso"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "nzela"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ya David"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "tata na ye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe ... te"
+    },
+    {
+      "surface": "סר",
+      "gloss": "avekaki"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "na ngambo ya loboko ya mobali"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "to ya loboko ya mwasi"
+    }
+  ],
+  "timestamp": "2026-09-03T19:10:21.804749755Z",
+  "model": "glm-5.3"
+}

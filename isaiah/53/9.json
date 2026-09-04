@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 53:9",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 53,
+  "translation": "Mpe apeki ⟨את⟩ babubi lilomba na ye, mpe ⟨את⟩ moboki-misolo na liwa na ye, mpo asalaki mabebe te, mpe ebewe te ezalaki na monoko na ye.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "apeki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "babubi"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "babubi"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "lilomba na ye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "moboki-misolo"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "moboki-misolo"
+    },
+    {
+      "surface": "במתיו",
+      "gloss": "na liwa na ye"
+    },
+    {
+      "surface": "על",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "mabebe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "asalaki"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "ebewe"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "na monoko na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T19:35:33.018341201Z",
+  "model": "glm-5.3"
+}

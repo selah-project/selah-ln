@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 12:2",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Sanza oyo ezali na bino ebandeli ya basanza; yango ezali ya liboso na bino kati na basanza ya mbula.",
+  "tokens": [
+    {
+      "surface": "החדש",
+      "gloss": "Sanza"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "na bino"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ebandeli"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "ya basanza"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "ya liboso"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yango"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "na bino"
+    },
+    {
+      "surface": "לחדשי",
+      "gloss": "kati na basanza"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "ya mbula"
+    }
+  ],
+  "timestamp": "2026-09-03T16:18:58.515179201Z",
+  "model": "glm-5.3"
+}

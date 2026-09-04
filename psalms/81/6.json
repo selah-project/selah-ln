@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 81:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 81,
+  "translation": "Temo na Yehosef atyaki yango, ntango ⟨ye⟩ abimaki na mabele ya Mitsraim; lokota oyo nayebaki te, nayoki ⟨yango⟩.",
+  "tokens": [
+    {
+      "surface": "עדות",
+      "gloss": "Temo"
+    },
+    {
+      "surface": "ביהוסף",
+      "gloss": "na Yehosef"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "atyaki yango"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "ntango abimaki"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "lokota"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "nayebaki"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "nayoki"
+    }
+  ],
+  "timestamp": "2026-09-03T21:21:13.719594337Z",
+  "model": "glm-5.3"
+}

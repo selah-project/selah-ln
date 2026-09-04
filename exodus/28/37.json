@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 28:37",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 28,
+  "translation": "Mpe otyaka ⟨את⟩ yango na filo ya tekhelet, mpe ekozala na kitambala ya moto; na elongi ya liboso ya kitambala ekotikala.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "Mpe otyaka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yango",
+      "marks": "yango (lokasa ya kolamu ya v.36)"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "פתיל",
+      "gloss": "filo"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "ya tekhelet"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "mpe ekozala"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "kitambala ya moto"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kino"
+    },
+    {
+      "surface": "מול",
+      "gloss": "na elongi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ya liboso"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "kitambala"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ekotikala"
+    }
+  ],
+  "timestamp": "2026-09-03T16:30:28.087217631Z",
+  "model": "glm-5.3"
+}

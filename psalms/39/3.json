@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 39:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 39,
+  "translation": "Nakangamaki na kimya, natelemaki na boumumi; nayoki mabe te ata na malamu; mpe mawa na ngai ebandaki koloba makasi.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "Nakangamaki"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "na kimya"
+    },
+    {
+      "surface": "החשיתי",
+      "gloss": "natelemaki na boumumi"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "mabe te ata na malamu"
+    },
+    {
+      "surface": "וכאבי",
+      "gloss": "mpe mawa na ngai"
+    },
+    {
+      "surface": "נעכר",
+      "gloss": "ebandaki koloba makasi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:10:07.988237900Z",
+  "model": "glm-5.3"
+}

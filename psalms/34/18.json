@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 34:18",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 34,
+  "translation": "Baya-screaming: bango bayeaki, mpe Yawe ayokaki, mpe abikisaki bango na makama na bango nyonso.",
+  "tokens": [
+    {
+      "surface": "צעקו",
+      "gloss": "bayeaki"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "mpe Yawe"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ayokaki"
+    },
+    {
+      "surface": "ו מכל",
+      "gloss": "mpe na ⟨nyonso⟩"
+    },
+    {
+      "surface": "צרותם",
+      "gloss": "makama na bango"
+    },
+    {
+      "surface": "הצילם",
+      "gloss": "abikisaki bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:08:09.404431169Z",
+  "model": "glm-5.3"
+}

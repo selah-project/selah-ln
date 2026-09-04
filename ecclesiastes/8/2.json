@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 8:2",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Ngai: landa monoko ya mokonzi, mpe mpo na sermanti ya Elohim.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ngai"
+    },
+    {
+      "surface": "פי",
+      "gloss": "monoko"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ya mokonzi"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "landa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "mpe mpo na"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "soki"
+    },
+    {
+      "surface": "שבועת",
+      "gloss": "sermanti"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-03T22:14:57.832692693Z",
+  "model": "glm-5.3"
+}

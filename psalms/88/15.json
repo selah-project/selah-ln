@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 88:15",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 88,
+  "translation": "Mpo na nini, Yawe, olimwisi molimo na ngai? Mpe oboyi komonisa elongi na yo epai na ngai?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "mpo na nini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "olimwisi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "molimo na ngai"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "oboyi komonisa"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "elongi na yo"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "epai na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:22:24.723537387Z",
+  "model": "glm-5.3"
+}

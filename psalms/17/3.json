@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 17:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 17,
+  "translation": "Onaki motema na ngai, osolaki ngai na butu, osukoli ngai — ozwaki eloko te; mabongisi na ngai te epasaka monoko na ngai.",
+  "tokens": [
+    {
+      "surface": "בחנת",
+      "gloss": "Onaki"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "motema na ngai"
+    },
+    {
+      "surface": "פקדת",
+      "gloss": "osolaki"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "na butu"
+    },
+    {
+      "surface": "צרפתני",
+      "gloss": "osukoli ngai"
+    },
+    {
+      "surface": "בל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "ozwaki eloko"
+    },
+    {
+      "surface": "זמתי",
+      "gloss": "mabongisi na ngai"
+    },
+    {
+      "surface": "בל",
+      "gloss": "te"
+    },
+    {
+      "surface": "יַעֲבָר",
+      "gloss": "epasaka"
+    },
+    {
+      "surface": "פִּי",
+      "gloss": "monoko na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:02:50.304572159Z",
+  "model": "glm-5.3"
+}

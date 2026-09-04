@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 33:16",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 33,
+  "translation": "Mokonzi abikami te na ebele ya mampinga; moyengeli alokolamaka te na ebele ya makasi.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "te"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Mokonzi"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "abikami"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "na ebele"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ya mampinga"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "moyengeli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "alokolamaka"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "na ebele"
+    },
+    {
+      "surface": "כח",
+      "gloss": "ya makasi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:08:31.441783640Z",
+  "model": "glm-5.3"
+}

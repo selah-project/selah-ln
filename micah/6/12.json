@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 6:12",
+  "book": "micah",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Oyo bakumi na yango bajakaki likama, mpe bafandi na yango balobaki lokuta, mpe monokoli na bango ezali bokosi na monoko na bango.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "עשיריה",
+      "gloss": "bakumi na yango"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "bajakaki"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "likama"
+    },
+    {
+      "surface": "וישביה",
+      "gloss": "mpe bafandi na yango"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "balobaki"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lokuta"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "mpe monokoli na bango"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "bokosi"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "na monoko na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T20:49:50.758028550Z",
+  "model": "glm-5.3"
+}

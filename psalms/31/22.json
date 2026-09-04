@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 31:22",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 31,
+  "translation": "Ntomo ezala na Yawe, ete asalaki likambo ya likolo na hesed na Ye (ngolu) epai na ngai, na mboka ya bokangami.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Ntomo ezala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "na Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "הפליא",
+      "gloss": "asalaki likambo ya likolo na"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed na Ye (ngolu)"
+    },
+    {
+      "surface": "לי",
+      "gloss": "epai na ngai"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "na mboka"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "ya bokangami"
+    }
+  ],
+  "timestamp": "2026-09-03T21:08:10.425115487Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 12:4",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Mwasi ya nguya azali lonkasa ya mobali na ye, kasi oyo abosanisi ⟨azali lokola⟩ bobele na miku na ye.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "Mwasi"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ya nguya"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "azali lonkasa"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "ya mobali na ye"
+    },
+    {
+      "surface": "וכרקב",
+      "gloss": "kasi ⟨lokola⟩ bobele"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "na miku na ye"
+    },
+    {
+      "surface": "מבישה",
+      "gloss": "oyo abosanisi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:41:58.073671545Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 6:16",
+  "book": "judges",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpe Yawe alobaki epai naye: Nakokaka na yo, mpe okobeta ⟨את⟩ Midian lokola moto moko.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "epai naye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo nde"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "nakokaka"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "na yo"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "mpe okobeta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Midian"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midian"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "lokola moto"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "moko"
+    }
+  ],
+  "timestamp": "2026-09-03T17:58:48.441373836Z",
+  "model": "glm-5.3"
+}

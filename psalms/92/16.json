@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 92:16",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 92,
+  "translation": "Mpo na kolakisa ete Yawe azali molongoke; Libanga na ngai, mpe mabe ezali na ye te.",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "Mpo na kolakisa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "azali molongoke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "Libanga na ngai"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe ... te"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:24:20.482099276Z",
+  "model": "glm-5.3"
+}

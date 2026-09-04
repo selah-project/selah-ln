@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 1:7",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe Elohim asalaki ⟨את⟩ etando, mpe akabaki kati na mai oyo ezali nse ya etando na kati na mai oyo ezali likolo ya etando; mpe ekalaki bongo.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "mpe asalaki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "etando"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "etando"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "mpe akabaki"
+    },
+    {
+      "surface": "בין",
+      "gloss": "kati na"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "nse ya"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "etando"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na kati na"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "etando"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mpe ekalaki"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bongo"
+    }
+  ],
+  "timestamp": "2026-09-03T15:43:55.247806656Z",
+  "model": "glm-5.3"
+}

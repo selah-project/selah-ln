@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 21:10",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Mpe alobaki na Avraham: Longola mwasi wumbu oyo mpe ⟨את⟩ mwana na ye, mpo ete mwana wa mwasi wumbu oyo akozua bokabu elongo na mwana na ngai, elongo na Yitshak, te.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "na Avraham"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "Longola"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "mwasi wumbu"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mwana na ye"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "mwana na ye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "akozua bokabu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "wa mwasi wumbu"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "elongo na"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mwana na ngai"
+    },
+    {
+      "surface": "עם",
+      "gloss": "elongo na"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    }
+  ],
+  "timestamp": "2026-09-03T15:54:18.088276328Z",
+  "model": "glm-5.3"
+}

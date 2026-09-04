@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 22:1",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Okomona te ⟨את⟩ ngombe ya ndeko yo to ⟨את⟩ sembe na yango ebimi, mpe obomba yo moko na bango te: ozonga ozongisa bango epai ya ndeko yo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "okomona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngombe"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ngombe"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ya ndeko yo"
+    },
+    {
+      "surface": "או",
+      "gloss": "to"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sembe"
+    },
+    {
+      "surface": "שיו",
+      "gloss": "sembe na yango"
+    },
+    {
+      "surface": "נדחים",
+      "gloss": "ebimi"
+    },
+    {
+      "surface": "והתעלמת",
+      "gloss": "mpe obomba yo moko"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "השב",
+      "gloss": "ozonga"
+    },
+    {
+      "surface": "תשיבם",
+      "gloss": "ozongisa bango"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "epai ya ndeko yo"
+    }
+  ],
+  "timestamp": "2026-09-03T17:34:28.923525474Z",
+  "model": "glm-5.3"
+}

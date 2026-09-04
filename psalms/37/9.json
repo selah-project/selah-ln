@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 37:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 37,
+  "translation": "Mpo babebi bakokatamwa, mpe baye bazali kolata Yawe, bango bakokokana mabele.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "babei"
+    },
+    {
+      "surface": "יכרתון",
+      "gloss": "bakokatamwa"
+    },
+    {
+      "surface": "וקוי",
+      "gloss": "mpe baye bazali kolata"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bango"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "bakokokana"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T21:08:40.689059408Z",
+  "model": "glm-5.3"
+}

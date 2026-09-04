@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 16:10",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Ye amemaki ⟨את⟩ yo, mpe ⟨את⟩ bandeko na yo nyonso, bana ya Levi, ⟨את⟩ elongo na yo — mpe bino boluki mpe bokohen?",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "amemaki"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ yo",
+      "marks": "yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bandeko na yo nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "bandeko na yo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ya Levi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ elongo na yo"
+    },
+    {
+      "surface": "ובקשתם",
+      "gloss": "mpe boluki"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "bokohen"
+    }
+  ],
+  "timestamp": "2026-09-03T17:10:04.151923083Z",
+  "model": "glm-5.3"
+}

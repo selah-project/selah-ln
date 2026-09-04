@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 5:12",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Mpe bato oyo bakufaki te bakubamaki na matelembe, mpe mabondo ya mboka elekaki kino na likolo.",
+  "tokens": [
+    {
+      "surface": "והאנשים",
+      "gloss": "Mpe bato"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "bakufaki"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "bakubamaki"
+    },
+    {
+      "surface": "בעפלים",
+      "gloss": "na matelembe"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "elekaki"
+    },
+    {
+      "surface": "שועת",
+      "gloss": "mabondo ya"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mboka"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kino na likolo"
+    }
+  ],
+  "timestamp": "2026-09-03T18:11:38.184160952Z",
+  "model": "glm-5.3"
+}

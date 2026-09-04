@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 5:8",
+  "book": "hosea",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Pusa shofar na Giva, mpe litrompete na Rama; boloba na mongongo monene na Betaven: na sima na yo, Benyamin!",
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "pusa"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "shofar"
+    },
+    {
+      "surface": "בגבעה",
+      "gloss": "na Giva"
+    },
+    {
+      "surface": "חצצרה",
+      "gloss": "litrompete"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "na Rama"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "boloba na mongongo monene"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "און",
+      "gloss": "aven"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "na sima na yo"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "Benyamin"
+    }
+  ],
+  "timestamp": "2026-09-03T20:37:50.995418799Z",
+  "model": "glm-5.3"
+}

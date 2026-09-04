@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 104:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 104,
+  "translation": "Otyaki ndelo, bakokota te; bazongaka te mpo na kobomba mabele.",
+  "tokens": [
+    {
+      "surface": "גבול",
+      "gloss": "ndelo"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "Otyaki"
+    },
+    {
+      "surface": "בל",
+      "gloss": "te"
+    },
+    {
+      "surface": "יעברון",
+      "gloss": "bakokota"
+    },
+    {
+      "surface": "בל",
+      "gloss": "te"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "bazongaka"
+    },
+    {
+      "surface": "לכסות",
+      "gloss": "mpo na kobomba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T21:25:50.196647525Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 26:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "Natyaki te na bato ya lokuta, mpe na babombi-likolo te nakokota.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "Natyaki"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "bato"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ya lokuta"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "mpe na"
+    },
+    {
+      "surface": "נעלמים",
+      "gloss": "babombi-likolo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "nakokota"
+    }
+  ],
+  "timestamp": "2026-09-03T21:06:50.824037132Z",
+  "model": "glm-5.3"
+}

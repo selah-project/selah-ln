@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 4:16",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Baana mwana wa Hushai na Asher mpe na Bealot.",
+  "tokens": [
+    {
+      "surface": "בענא",
+      "gloss": "Baana"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "Hushai"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "na Asher"
+    },
+    {
+      "surface": "ובעלות",
+      "gloss": "mpe na Bealot"
+    }
+  ],
+  "timestamp": "2026-09-03T18:42:59.983537341Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 17:9",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 17,
+  "translation": "Elohim alobaki epai ya Avraham: mpe yo, okotala ⟨את⟩ bongoni na ngai, yo mpe mbuta na yo sima na yo, na mibota na bango.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "mpe yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bongoni na ngai"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "bongoni na ngai"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "okotala"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "mpe mbuta na yo"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "sima na yo"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "na mibota na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T15:51:06.719380398Z",
+  "model": "glm-5.3"
+}

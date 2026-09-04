@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 25:28",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Mpe Yitshak alingaki ⟨את⟩ Esav, mpo nyama ya koluka ezalaka na monoko na ye; kasi Rivka alingaki ⟨את⟩ Yaakov.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "mpe alingaki"
+    },
+    {
+      "surface": "יִצְחָק",
+      "gloss": "Yitshak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Esav"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "ציד",
+      "gloss": "nyama ya koluka"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "ezalaka na monoko na ye"
+    },
+    {
+      "surface": "ורבקה",
+      "gloss": "kasi Rivka"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "alingaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-03T15:57:08.071081573Z",
+  "model": "glm-5.3"
+}

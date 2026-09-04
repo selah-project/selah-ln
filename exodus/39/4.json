@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 39:4",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 39,
+  "translation": "Basalaki bizalisi ya mabongo mpo na yango, basangisaki yango elongo; na mibale ya nsuka na yango esangisamaki.",
+  "tokens": [
+    {
+      "surface": "כתפת",
+      "gloss": "bizalisi ya mabongo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "basalaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mpo na yango"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "basangisaki"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "קצוותו",
+      "gloss": "ya nsuka na yango"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "esangisamaki"
+    }
+  ],
+  "timestamp": "2026-09-03T16:37:49.473416421Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 31:8",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 31,
+  "translation": "Mpe Yehizkiyahu mpe bankɔmbɔ bakɔtɔlaki mpe bamɔnaki ⟨את⟩ bongongo, mpe babɛnisaki ⟨את⟩ Yawe mpe ⟨את⟩ mbɔ na yɛ Yisrael.",
+  "tokens": [
+    {
+      "surface": "וַיָּבֹאוּ",
+      "gloss": "Mpe bakɔtɔlaki"
+    },
+    {
+      "surface": "יְחִזְקִיָּהוּ",
+      "gloss": "Yehizkiyahu"
+    },
+    {
+      "surface": "וְהַשָּׂרִים",
+      "gloss": "mpe bankɔmbɔ"
+    },
+    {
+      "surface": "וַיִּרְאוּ",
+      "gloss": "mpe bamɔnaki"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "bongongo"
+    },
+    {
+      "surface": "הָעֲרֵמוֹת",
+      "gloss": "bongongo"
+    },
+    {
+      "surface": "וַיְבָרֲכוּ",
+      "gloss": "mpe babɛnisaki"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וְאֵת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mbɔ na yɛ Yisrael"
+    },
+    {
+      "surface": "עַמּוֹ",
+      "gloss": "mbɔ na yɛ"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-09-03T23:07:25.928404184Z",
+  "model": "glm-5.3"
+}

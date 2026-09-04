@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 9:2",
+  "book": "nehemiah",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Mpe mbota ya Israel bakabwanaki uta na bana ya bapaya nyonso, mpe batelamaki mpe bayebisaki masumu na bango, mpe mabe ya batata na bango.",
+  "tokens": [
+    {
+      "surface": "ויבדלו",
+      "gloss": "bakabwanaki"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mbota"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "na nyonso"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "bapaya"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "mpe batelamaki"
+    },
+    {
+      "surface": "ויתודו",
+      "gloss": "mpe bayebisaki"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "חטאתיהם",
+      "gloss": "masumu na bango"
+    },
+    {
+      "surface": "ועונות",
+      "gloss": "mpe mabe"
+    },
+    {
+      "surface": "אבתיהם",
+      "gloss": "ya batata na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T22:37:20.696986066Z",
+  "model": "glm-5.3"
+}

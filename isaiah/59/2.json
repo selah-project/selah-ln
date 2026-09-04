@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 59:2",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 59,
+  "translation": "Kaka makama na bino nde ezalaki bakaboli kati na bino na Elohim na bino, mpe masumu na bino ebombaki elongi ⟨na ye⟩, na koyoka te.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kaka"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nde"
+    },
+    {
+      "surface": "עונתיכם",
+      "gloss": "makama na bino"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ezalaki"
+    },
+    {
+      "surface": "מבדלים",
+      "gloss": "bakaboli"
+    },
+    {
+      "surface": "בינכם",
+      "gloss": "kati na bino"
+    },
+    {
+      "surface": "לבין",
+      "gloss": "na Elohim na bino tê"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim na bino"
+    },
+    {
+      "surface": "וחטאותיכם",
+      "gloss": "mpe masumu na bino"
+    },
+    {
+      "surface": "הסתירו",
+      "gloss": "ebombaki"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "elongi"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "na bino tê"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "na koyoka te"
+    }
+  ],
+  "timestamp": "2026-09-03T19:38:14.173616284Z",
+  "model": "glm-5.3"
+}

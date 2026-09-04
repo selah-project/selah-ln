@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 9:17",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Mpe tango Shemuel amonaki ⟨את⟩ Shaul, Yawe ayanaki ye: Talá, moto oyo nalobaki na yo — ye nde akokanga bato na ngai.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Mpe Shemuel"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "amonaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shaul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "ayanaki ye"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Talá"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nalobaki"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "na yo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ye nde"
+    },
+    {
+      "surface": "יעצר",
+      "gloss": "akokanga"
+    },
+    {
+      "surface": "בעמי",
+      "gloss": "bato na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T18:13:55.147383396Z",
+  "model": "glm-5.3"
+}

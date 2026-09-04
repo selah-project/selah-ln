@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 25:12",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Mpe bango oyo bokweyi ya Yishmael mwana wa Avraham, oyo Hagar Mumitsraim, mosali-mwasi ya Sara, abotaki na Avraham.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "mpe bango oyo"
+    },
+    {
+      "surface": "תלדת",
+      "gloss": "bokweyi"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yishmael"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "abotaki"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "Mumitsraim"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "mosali-mwasi"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "na Avraham"
+    }
+  ],
+  "timestamp": "2026-09-03T15:56:50.197525311Z",
+  "model": "glm-5.3"
+}

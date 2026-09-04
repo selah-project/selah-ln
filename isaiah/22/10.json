@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 22:10",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Mpe bokanisaki ⟨את⟩ bandako ya Yerushalaim, mpe bolongolaki bandako mpo na kolendisa mpanda.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bandako ya Yerushalaim"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "bandako"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "ספרתם",
+      "gloss": "bokanisaki"
+    },
+    {
+      "surface": "ותתצו",
+      "gloss": "mpe bolongolaki"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "bandako"
+    },
+    {
+      "surface": "לבצר",
+      "gloss": "mpo na kolendisa"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "mpanda"
+    }
+  ],
+  "timestamp": "2026-09-03T19:20:41.418045752Z",
+  "model": "glm-5.3"
+}

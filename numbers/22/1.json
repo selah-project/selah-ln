@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 22:1",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Mpe bana ya Israel basalaki mobembo, mpe bafandaki na bele ya Moab, na ngambo ya Yarden, na Yericho.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "basalaki mobembo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "mpe bafandaki"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "na bele ya"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "na ngambo ya"
+    },
+    {
+      "surface": "לירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Yericho"
+    }
+  ],
+  "timestamp": "2026-09-03T17:13:44.759420096Z",
+  "model": "glm-5.3"
+}

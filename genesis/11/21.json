@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 11:21",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpe Reu avandaki na bomoi, nsima ya kobota ⟨את⟩ Serug, mbula nkama mibale na sambo, mpe abotaki bilimi mpe bilimi-basali.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "avandaki na bomoi"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Reu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nsima ya"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "kobota"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serug"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Serug"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sambo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mbula"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "mpe nkama mibale"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mbula"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "mpe abotaki"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bilimi"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "mpe bilimi-basali"
+    }
+  ],
+  "timestamp": "2026-09-03T15:48:42.313939214Z",
+  "model": "glm-5.3"
+}

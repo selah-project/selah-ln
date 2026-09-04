@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 10:5",
+  "book": "daniel",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Namati ⟨את⟩ misu na ngai, mpe namoni, mpe tala, moto moko elambami na bilamba ya lin, mpe libumu na ye ekangami na kleta ya nsano ya Uphaz.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "namati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "misu na ngai"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "misu na ngai"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "mpe namoni"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mpe tala"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "moko"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "elambami"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "bilamba ya lin"
+    },
+    {
+      "surface": "ומתניו",
+      "gloss": "mpe libumu na ye"
+    },
+    {
+      "surface": "חגרים",
+      "gloss": "ekangami"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "na kleta ya nsano"
+    },
+    {
+      "surface": "אופז",
+      "gloss": "Uphaz"
+    }
+  ],
+  "timestamp": "2026-09-03T23:39:55.620613430Z",
+  "model": "glm-5.3"
+}

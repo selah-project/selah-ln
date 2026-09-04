@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 7:15",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Ngombe moko, mwana ya banyama ya ndako; toyo ya mobali moko; toyo moko, mwana ya mbula moko, mpo na ola.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "Ngombe"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "moko"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ya banyama ya ndako"
+    },
+    {
+      "surface": "איל",
+      "gloss": "toyo ya mobali"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "moko"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "toyo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "moko"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "ya mbula moko"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "mpo na ola"
+    }
+  ],
+  "timestamp": "2026-09-03T17:01:53.156241123Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 1:12",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "mpe ⟨את⟩ Pathrusim, mpe ⟨את⟩ Kasluhim, oyo na kati na bango babimaki Pelishti, mpe ⟨את⟩ Kaftorim.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Pathrusim"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "Pathrusim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Kasluhim"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "Kasluhim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo na kati na bango"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "babimaki"
+    },
+    {
+      "surface": "משם",
+      "gloss": "wana"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Kaftorim"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "Kaftorim"
+    }
+  ],
+  "timestamp": "2026-09-03T22:39:46.242336974Z",
+  "model": "glm-5.3"
+}

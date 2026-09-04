@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 102:11",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 102,
+  "translation": "Na sanya na yo mpe na mawa na yo, mpo na ete okangaki ngai likolo mpe obungisaki ngai.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "na"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "sanya na yo"
+    },
+    {
+      "surface": "וקצפך",
+      "gloss": "mpe mawa na yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo na ete"
+    },
+    {
+      "surface": "נשאתני",
+      "gloss": "okangaki ngai likolo"
+    },
+    {
+      "surface": "ותשליכני",
+      "gloss": "mpe obungisaki ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:25:43.507651384Z",
+  "model": "glm-5.3"
+}

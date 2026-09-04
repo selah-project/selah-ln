@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 59:1",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 59,
+  "translation": "Talá, loboko ya Yawe esukaki te na kobikisa, mpe matoyi na ⟨ye⟩ ekangamaki te na koyoka.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Talá"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "קצרה",
+      "gloss": "esukaki te"
+    },
+    {
+      "surface": "יד",
+      "gloss": "loboko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מהושיע",
+      "gloss": "na kobikisa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "כבדה",
+      "gloss": "ekangamaki"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "matoyi na ye"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "na koyoka"
+    }
+  ],
+  "timestamp": "2026-09-03T19:38:14.173385161Z",
+  "model": "glm-5.3"
+}

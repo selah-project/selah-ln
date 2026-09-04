@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "deuteronomy 4:35",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Yo moko Yawe aamonisaki yo mpo oyeba ete Yawe, ye moko, azali Elohim; ezali mosusu te libanza na ye.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "yo moko"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "aamonisaki yo"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "mpo oyeba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ye moko"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ezali te"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mosusu"
+    },
+    {
+      "surface": "מלבדו",
+      "gloss": "libanza na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T17:26:01.832179552Z",
+  "model": "glm-5.3"
+}

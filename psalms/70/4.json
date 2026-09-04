@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 70:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 70,
+  "translation": "Bazonga nsima mpo na mawa na bango, bango balobi: Heah, Heah.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "bazonga"
+    },
+    {
+      "surface": "על",
+      "gloss": "mpo na"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "⟨esika ya⟩ mawa"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "mawa na bango"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "bango balobi"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Heah"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Heah"
+    }
+  ],
+  "timestamp": "2026-09-03T21:17:08.088009020Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 87:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 87,
+  "translation": "Yawe akokoma, ntango azali kokoma bato: oyo abotamaki kuna. Selah.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "akokoma"
+    },
+    {
+      "surface": "בכתוב",
+      "gloss": "na kokoma"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "bato"
+    },
+    {
+      "surface": "זה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "abotamaki"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-03T21:22:13.206642286Z",
+  "model": "glm-5.3"
+}

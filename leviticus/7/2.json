@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 7:2",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Na esika oyo babomaka ⟨את⟩ olah, kuna babomaka ⟨את⟩ asham; mpe ⟨את⟩ makila na yango akosasa ⟨yango⟩ likolo ya autel na zingazinga.",
+  "tokens": [
+    {
+      "surface": "במקום",
+      "gloss": "Na esika"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "babomaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olah"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "olah"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "babomaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "asham"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "asham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "makila na yango"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "makila na yango"
+    },
+    {
+      "surface": "יזרק",
+      "gloss": "akosasa"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "autel"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "na zingazinga"
+    }
+  ],
+  "timestamp": "2026-09-03T16:42:03.072053292Z",
+  "model": "glm-5.3"
+}

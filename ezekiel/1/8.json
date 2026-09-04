@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 1:8",
+  "book": "ezekiel",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe maboko ya moto ezalaki na nse ya mapapu na bango, na minei ya bipiko na bango; mpe balongi na bango mpe mapapu na bango, na bango minei.",
+  "tokens": [
+    {
+      "surface": "וידו",
+      "gloss": "Mpe maboko"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ya moto"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "na nse"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "ya mapapu na bango"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "minei"
+    },
+    {
+      "surface": "רבעיהם",
+      "gloss": "ya bipiko na bango"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "mpe balongi na bango"
+    },
+    {
+      "surface": "וכנפיהם",
+      "gloss": "mpe mapapu na bango"
+    },
+    {
+      "surface": "לארבעתם",
+      "gloss": "na bango minei"
+    }
+  ],
+  "timestamp": "2026-09-03T20:09:14.573783652Z",
+  "model": "glm-5.3"
+}

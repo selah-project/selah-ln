@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 60:10",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 60,
+  "translation": "Mpe bana ya bapaya bakotonga bibenga na yo, mpe bakonzi na bango basalela yo; mpo na sanzo na ngai nakubaki yo, mpe na mokembo na ngai namawisaki yo.",
+  "tokens": [
+    {
+      "surface": "וּבָנוּ",
+      "gloss": "bakotonga"
+    },
+    {
+      "surface": "בְנֵי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "נֵכָר",
+      "gloss": "ya bapaya"
+    },
+    {
+      "surface": "חֹמֹתַיִךְ",
+      "gloss": "bibenga na yo"
+    },
+    {
+      "surface": "וּמַלְכֵיהֶם",
+      "gloss": "mpe bakonzi na bango"
+    },
+    {
+      "surface": "יְשָׁרְתֻנֶךְ",
+      "gloss": "basalela yo"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "בְקִצְפִּי",
+      "gloss": "na sanzo na ngai"
+    },
+    {
+      "surface": "הִכִּיתִיךְ",
+      "gloss": "nakubaki yo"
+    },
+    {
+      "surface": "וּבִרְצוֹנִי",
+      "gloss": "mpe na mokembo na ngai"
+    },
+    {
+      "surface": "רִחַמְתִּיךְ",
+      "gloss": "namawisaki yo"
+    }
+  ],
+  "timestamp": "2026-09-03T19:37:43.311845301Z",
+  "model": "glm-5.3"
+}

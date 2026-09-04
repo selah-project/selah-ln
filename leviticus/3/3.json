@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 3:3",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe apei kati ya zevah ya shelamim esha ya Yawe: ⟨את⟩ mavuta oyo ekangi ⟨את⟩ libunda, mpe ⟨את⟩ mavuta nyonso oyo ezali na libunda.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "Mpe apei"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "kati ya zevah"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "ya shelamim"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "esha"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ya Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mavuta"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "mavuta"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "oyo ekangi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "libunda"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "libunda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mavuta nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "mavuta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "libunda"
+    }
+  ],
+  "timestamp": "2026-09-03T16:40:12.828639788Z",
+  "model": "glm-5.3"
+}

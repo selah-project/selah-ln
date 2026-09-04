@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 28:26",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 28,
+  "translation": "mpe okosala bilingi mibale ya dhahabu, mpe okotya ⟨את⟩ bongo na bansuka mibale ya loseni, na mokeke na yango, oyo ezali kati na ngambo ya epode, na ndako.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "mpe okosala"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "bilingi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ya dhahabu"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "mpe okotya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bongo",
+      "marks": "bilingi"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "bansuka"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "ya loseni"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "שפתו",
+      "gloss": "mokeke na yango"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kati"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ngambo"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ya epode"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "na ndako"
+    }
+  ],
+  "timestamp": "2026-09-03T16:31:18.451582306Z",
+  "model": "glm-5.3"
+}

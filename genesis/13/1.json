@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 13:1",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Avram alongaki uta na Mitsraim, ye na mwasi na ye mpe nyonso oyo ezalaki na ye, mpe Lot elongo na ye, na ngambo ya sudi.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "alongaki"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "uta na Mitsraim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ye"
+    },
+    {
+      "surface": "ו אשתו",
+      "gloss": "mpe mwasi na ye"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe nyonso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ezalaki na ye"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "mpe Lot"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "elongo na ye"
+    },
+    {
+      "surface": "הנגבה",
+      "gloss": "na ngambo ya sudi"
+    }
+  ],
+  "timestamp": "2026-09-03T15:50:08.166715820Z",
+  "model": "glm-5.3"
+}

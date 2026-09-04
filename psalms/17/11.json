@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 17:11",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 17,
+  "translation": "Mateya na biso sikoyo balingolaki ngai; misu na bango batyaki mpo na kobwaka na mabele.",
+  "tokens": [
+    {
+      "surface": "אשרינו",
+      "gloss": "mateya na biso"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "sikoyo"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "blingolaki ngai"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "misu na bango"
+    },
+    {
+      "surface": "יָשִׁיתוּ",
+      "gloss": "batyaki"
+    },
+    {
+      "surface": "לנטות",
+      "gloss": "mpo na kobwaka"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T21:01:45.508927188Z",
+  "model": "glm-5.3"
+}

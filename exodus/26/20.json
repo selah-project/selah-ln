@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 26:20",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "Mpe mpo na elongi ya mibale ya Mishkan, na mopanzi ya nord, biloti nkoto mibale.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "mpe mpo na elongi"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ya Mishkan"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ya mibale"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "na mopanzi ya"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "nord"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "nkoto mibale"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "biloti"
+    }
+  ],
+  "timestamp": "2026-09-03T16:29:03.362748471Z",
+  "model": "glm-5.3"
+}

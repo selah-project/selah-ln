@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 3:11",
+  "book": "job",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpo na nini nakufaki te na libuma? Nabimaki na libumu, mpe nakufaki.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "mpo na nini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "na libuma"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "nakufaki"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "na libumu"
+    },
+    {
+      "surface": "יצאתי",
+      "gloss": "nabimaki"
+    },
+    {
+      "surface": "ואגוע",
+      "gloss": "mpe nakufaki"
+    }
+  ],
+  "timestamp": "2026-09-03T21:50:12.677931038Z",
+  "model": "glm-5.3"
+}

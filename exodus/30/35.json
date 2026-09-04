@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 30:35",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 30,
+  "translation": "Mpe osali ⟨את⟩ yango nkunza ya bope, bolangi, mosala ya molangi, ya mungwa, ya pete, eloko ya santu.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "mpe osali"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nkunza ya bope"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "nkunza ya bope"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "bolangi"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "mosala"
+    },
+    {
+      "surface": "רוקח",
+      "gloss": "molangi"
+    },
+    {
+      "surface": "ממלח",
+      "gloss": "ya mungwa"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ya pete"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "eloko ya santu"
+    }
+  ],
+  "timestamp": "2026-09-03T23:14:44.473031341Z",
+  "model": "glm-5.3"
+}

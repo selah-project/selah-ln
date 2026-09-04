@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 31:4",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 31,
+  "translation": "Te mpo na bakonzi, Lemuel, te mpo na bakonzi komeka vin, mpe mpo na bakonzi-nene, masanga ya makasi to ⟨te⟩.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Te"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "mpo na bakonzi"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "Lemuel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "mpo na bakonzi"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "komeka"
+    },
+    {
+      "surface": "יין",
+      "gloss": "vin"
+    },
+    {
+      "surface": "ולרוזנים",
+      "gloss": "mpe mpo na bakonzi-nene"
+    },
+    {
+      "surface": "או",
+      "gloss": "to"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "masanga ya makasi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:50:05.645441806Z",
+  "model": "glm-5.3"
+}

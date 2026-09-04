@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 17:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 17,
+  "translation": "Monisa hesed na yo ⟨na ndenge ya likolo⟩, Mokangi ya baye bazali kokima epai na yo, uta na baye bazali kolemwa, na loboko na yo ya mobali.",
+  "tokens": [
+    {
+      "surface": "הפלה",
+      "gloss": "Monisa ⟨na ndenge ya likolo⟩"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "hesed na yo"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "Mokangi"
+    },
+    {
+      "surface": "חוסים",
+      "gloss": "ya baye bazali kokima epai na yo"
+    },
+    {
+      "surface": "ממתקוממים",
+      "gloss": "uta na baye bazali kolemwa"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "na loboko na yo ya mobali"
+    }
+  ],
+  "timestamp": "2026-09-03T21:02:30.911849427Z",
+  "model": "glm-5.3"
+}

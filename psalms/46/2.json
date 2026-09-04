@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 46:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 46,
+  "translation": "Elohim azali mpo na biso esika ya bobombi mpe nguya, bosaliseli oyo ezuami mingi na makama.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mpo na biso"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "esika ya bobombi"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "mpe nguya"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "bosaliseli"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "na makama"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "ezuami"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mingi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:11:51.934844705Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 68:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 68,
+  "translation": "Mpe batataki bakosekana, bakosekela liboso ya Elohim, mpe bakosekana mingi na esengo.",
+  "tokens": [
+    {
+      "surface": "וצדיקים",
+      "gloss": "Mpe batataki"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "bakosekana"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "bakosekela"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וישישו",
+      "gloss": "mpe bakosekana mingi"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "na esengo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:16:18.972781208Z",
+  "model": "glm-5.3"
+}

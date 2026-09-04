@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 26:32",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "Mpe nakoebisa ngai moko ⟨את⟩ mabele, mpe banguna na bino oyo bafandi na yango bakoebama likolo na yango.",
+  "tokens": [
+    {
+      "surface": "והשמתי",
+      "gloss": "mpe nakoebisa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai moko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "ושממו",
+      "gloss": "mpe bakoebama"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "likolo na yango"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "banguna na bino"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "oyo bafandi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:56:58.309947164Z",
+  "model": "glm-5.3"
+}

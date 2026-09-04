@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 85:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 85,
+  "translation": "Okangolaki nkanda na yo nyonso, ozongaki yo mosika na moto ya nkanda na yo.",
+  "tokens": [
+    {
+      "surface": "אספת",
+      "gloss": "Okangolaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "nkanda na yo"
+    },
+    {
+      "surface": "השיבות",
+      "gloss": "ozongaki"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "moto"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "ya nkanda na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:22:13.438274702Z",
+  "model": "glm-5.3"
+}

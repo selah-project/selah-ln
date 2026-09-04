@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 6:1",
+  "book": "hosea",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Boya, mpe tozongi epai ya Yawe, mpo ye andimboli mpe akokolisa biso; abeti mpe akokanga biso.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Boya"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "mpe tozongi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ye"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "andimboli"
+    },
+    {
+      "surface": "וירפאנו",
+      "gloss": "mpe akokolisa biso"
+    },
+    {
+      "surface": "יך",
+      "gloss": "abeti"
+    },
+    {
+      "surface": "ויחבשנו",
+      "gloss": "mpe akokanga biso"
+    }
+  ],
+  "timestamp": "2026-09-03T20:37:44.958841264Z",
+  "model": "glm-5.3"
+}

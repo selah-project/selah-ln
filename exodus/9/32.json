@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 9:32",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Kasi ble mpe kisemete ebomamaki te, ete bizali milai yango moko.",
+  "tokens": [
+    {
+      "surface": "והחטה",
+      "gloss": "mpe ble"
+    },
+    {
+      "surface": "והכסמת",
+      "gloss": "mpe kisemete"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "ebomamaki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "אפילות",
+      "gloss": "bizali milai"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "yango moko"
+    }
+  ],
+  "timestamp": "2026-09-03T16:17:44.113043387Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 132:17",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 132,
+  "translation": "Kuna nakolaka ete lungumba ya David ebimaka lokola banane; namipesi nlama mpo na Mashiah na ngai.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "אצמיח",
+      "gloss": "nakolaka ete ebimaka lokola banane"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "lungumba"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya David"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "namipesi"
+    },
+    {
+      "surface": "נר",
+      "gloss": "nlama"
+    },
+    {
+      "surface": "למשיחי",
+      "gloss": "mpo na Mashiah na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:32:46.453460770Z",
+  "model": "glm-5.3"
+}

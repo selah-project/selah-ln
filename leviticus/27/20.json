@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 27:20",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 27,
+  "translation": "Mpe soki asomba lisusu te ⟨את⟩ elanga, mpe soki asalaki ⟨את⟩ elanga na moto mosusu, ekosombwama lisusu te ata lisusu.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Mpe soki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "asomba lisusu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elanga"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "elanga"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "mpe soki"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "asalaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elanga"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "elanga"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "na moto"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "mosusu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "kosombwama lisusu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ata lisusu"
+    }
+  ],
+  "timestamp": "2026-09-03T16:57:39.916614599Z",
+  "model": "glm-5.3"
+}

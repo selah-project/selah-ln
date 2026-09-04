@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 6:13",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpe nakofanda kati ya bana ya Israel, mpe nakotika te ⟨את⟩ mboka na ngai Israel.",
+  "tokens": [
+    {
+      "surface": "ושכנתי",
+      "gloss": "mpe nakofanda"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "kati ya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe … te"
+    },
+    {
+      "surface": "אעזב",
+      "gloss": "nakotika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mboka na ngai"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mboka na ngai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-03T18:45:51.279352970Z",
+  "model": "glm-5.3"
+}

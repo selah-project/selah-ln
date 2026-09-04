@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 19:37",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Mpe bokekela ⟨את⟩ mikili na ngai nyonso mpe ⟨את⟩ mibeko na ngai nyonso, mpe bosali ⟨את⟩ yango: nazali Yawe.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "mpe bokekela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mikili na ngai nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "mikili na ngai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mibeko na ngai nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "mibeko na ngai"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "mpe bosali"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ yango",
+      "marks": "mikili na ngai nyonso mpe mibeko na ngai nyonso"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nazali"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T16:51:19.604695777Z",
+  "model": "glm-5.3"
+}

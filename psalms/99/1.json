@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 99:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 99,
+  "translation": "Yawe amekonza — bikolo bakangaka linyu; yeye afandi likolo ya bakelubi — mabele ketuka nteni.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "amekonza"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "bakangaka linyu"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "bikolo"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "afandi"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "bakelubi"
+    },
+    {
+      "surface": "תנוט",
+      "gloss": "ketuka nteni"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T21:26:27.707253034Z",
+  "model": "glm-5.3"
+}

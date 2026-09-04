@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 78:35",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 78,
+  "translation": "Mpe bakanaki ete Elohim ⟨azali⟩ libanga na bango, mpe El Elion mobikisi na bango.",
+  "tokens": [
+    {
+      "surface": "ויזכרו",
+      "gloss": "mpe bakanaki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צורם",
+      "gloss": "libanga na bango"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mpe El"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elion"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "mobikisi na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:19:52.378288257Z",
+  "model": "glm-5.3"
+}

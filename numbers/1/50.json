@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 1:50",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe yo, okotyá ⟨את⟩ Balavi likolo ya ndako ya motatoli, mpe likolo ya bileko na yango nyonso, mpe likolo ya nyonso oyo ezali na yango; bango bakomema ⟨את⟩ ndako mpe ⟨את⟩ bileko na yango nyonso; mpe bango bakosalela yango; mpe pembeni ya ndako bakotelema na kaa.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Mpe yo"
+    },
+    {
+      "surface": "הפקד",
+      "gloss": "okotyá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Balavi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Balavi"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ya motatoli"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "mpe likolo ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "bileko na yango"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "mpe likolo ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ezali na yango"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bango"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "bakomema"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndako"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "bileko na yango"
+    },
+    {
+      "surface": "והם",
+      "gloss": "mpe bango"
+    },
+    {
+      "surface": "ישרתהו",
+      "gloss": "bakosalela yango"
+    },
+    {
+      "surface": "וסביב",
+      "gloss": "mpe pembeni"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "ya ndako"
+    },
+    {
+      "surface": "יחנו",
+      "gloss": "bakotelema na kaa"
+    }
+  ],
+  "timestamp": "2026-09-03T16:57:43.865406101Z",
+  "model": "glm-5.3"
+}

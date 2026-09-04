@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 103,
+  "ref": "psalms 119:103",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Liloba na yo eleki malembu mingi na mino na ngai, eleki liki na monoko!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Mingi!"
+    },
+    {
+      "surface": "נמלצו",
+      "gloss": "eleki malembu"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "na mino na ngai"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "liloba na yo"
+    },
+    {
+      "surface": "מדבש",
+      "gloss": "liki"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "na monoko"
+    }
+  ],
+  "timestamp": "2026-09-03T21:31:26.160334370Z",
+  "model": "glm-5.3"
+}

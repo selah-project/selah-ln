@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 5:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Mpo na bango bosolo ezali te na nwa na bango; kati na bango ezali bonyoki; nwa na bango ezali eka ya mpata; na lilongo na bango balalisaka ⟨maloba⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ezali te"
+    },
+    {
+      "surface": "בפיהו",
+      "gloss": "na nwa na bango"
+    },
+    {
+      "surface": "נכונה",
+      "gloss": "bosolo"
+    },
+    {
+      "surface": "קרבם",
+      "gloss": "kati na bango"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "bonyoki"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "eka"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "ya mpata"
+    },
+    {
+      "surface": "גרונם",
+      "gloss": "nwa na bango"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "lilongo na bango"
+    },
+    {
+      "surface": "יחליקון",
+      "gloss": "balalisaka"
+    }
+  ],
+  "timestamp": "2026-09-03T20:59:33.104819522Z",
+  "model": "glm-5.3"
+}

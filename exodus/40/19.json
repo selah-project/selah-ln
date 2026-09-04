@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 40:19",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 40,
+  "translation": "Mpe atandolaki ⟨את⟩ tente likolo ya Mishkan, mpe atyaki ⟨את⟩ likweya ya tente likolo na yango na likolo, ndenge Yawe atesaki ⟨את⟩ Moshe.",
+  "tokens": [
+    {
+      "surface": "ויפרש",
+      "gloss": "atandolaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tente"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "tente"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "atyaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "likweya ya tente"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "likweya"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "ya tente"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "likolo na yango"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "na likolo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ndenge"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "atesaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-03T16:39:53.994516820Z",
+  "model": "glm-5.3"
+}

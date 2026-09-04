@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 37:15",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 37,
+  "translation": "Mpe moto moko amonaki ye, mpe talá: azangaki nzela na shamba; mpe moto yango atunaki ye na koloba: Oyo ozali koluka nini?",
+  "tokens": [
+    {
+      "surface": "וימצאהו",
+      "gloss": "Mpe moto moko amonaki ye"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto moko"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mpe talá"
+    },
+    {
+      "surface": "תעה",
+      "gloss": "azangaki nzela"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "na shamba"
+    },
+    {
+      "surface": "וישאלהו",
+      "gloss": "mpe atunaki ye"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "moto yango"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na koloba"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "תבקש",
+      "gloss": "ozali koluka"
+    }
+  ],
+  "timestamp": "2026-09-03T16:04:37.636692030Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 98:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 98,
+  "translation": "Akanaki hesed na ye mpe bondimi na ye na ndako ya Israel; nsuka ya mabele nyonso bamoni ⟨את⟩ lobiko ya Elohim na biso.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Akanaki"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed na ye"
+    },
+    {
+      "surface": "ואמונתו",
+      "gloss": "mpe bondimi na ye"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "na ndako ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "bamoni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "nsuka ya"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lobiko"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "lobiko"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim na biso"
+    }
+  ],
+  "timestamp": "2026-09-03T21:26:16.083161893Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 8:23",
+  "book": "judges",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Gidon alobaki na bango: Ngai natambwisi bino te, mpe mwana na ngai atambwisi bino te; Yawe atambwisi bino.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gidon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "אמשל",
+      "gloss": "natambwisi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "bino"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "ימשל",
+      "gloss": "atambwisi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mwana na ngai"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "bino"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ימשל",
+      "gloss": "atambwisi"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "bino"
+    }
+  ],
+  "timestamp": "2026-09-03T18:00:57.490849891Z",
+  "model": "glm-5.3"
+}

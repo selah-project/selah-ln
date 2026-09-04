@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 8:23",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe bakangaki ⟨את⟩ mokonzi ya Ai na bomoi, mpe batyaki ⟨את⟩ ye epai ya Yehoshua.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Mpe ⟨את⟩",
+      "marks": "mokonzi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "העי",
+      "gloss": "ya Ai"
+    },
+    {
+      "surface": "תפשו",
+      "gloss": "bakangaki"
+    },
+    {
+      "surface": "חי",
+      "gloss": "na bomoi"
+    },
+    {
+      "surface": "ויקרבו",
+      "gloss": "mpe batyaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ye",
+      "marks": "ye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    }
+  ],
+  "timestamp": "2026-09-03T17:47:14.999199049Z",
+  "model": "glm-5.3"
+}

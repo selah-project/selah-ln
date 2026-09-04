@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 39:11",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 39,
+  "translation": "Longola epai na ngai etumbu na yo; na likebi ya loboko na yo ngai nazali kokufa.",
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "Longola"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "epai na ngai"
+    },
+    {
+      "surface": "נגעך",
+      "gloss": "etumbu na yo"
+    },
+    {
+      "surface": "מתגרת",
+      "gloss": "ya likebi"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ya loboko na yo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "nazali kokufa"
+    }
+  ],
+  "timestamp": "2026-09-03T21:09:52.174721544Z",
+  "model": "glm-5.3"
+}

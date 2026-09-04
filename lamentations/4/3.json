@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 4:3",
+  "book": "lamentations",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Ata mbwa ya zamba mpe basundoli mabolo na bango, bomeki bana na bango; mwana ya bato na ngai ⟨akomi⟩ mabe makasi, lokola onyo na zombo.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ata"
+    },
+    {
+      "surface": "תנין",
+      "gloss": "mbwa ya zamba"
+    },
+    {
+      "surface": "חלצו",
+      "gloss": "basundoli"
+    },
+    {
+      "surface": "שד",
+      "gloss": "mabolo"
+    },
+    {
+      "surface": "היניקו",
+      "gloss": "bomeki"
+    },
+    {
+      "surface": "גוריהן",
+      "gloss": "bana na bango"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ya bato na ngai"
+    },
+    {
+      "surface": "לאכזר",
+      "gloss": "mabe makasi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lokola"
+    },
+    {
+      "surface": "ענים",
+      "gloss": "onyo"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "na zombo"
+    }
+  ],
+  "timestamp": "2026-09-03T22:11:25.818273763Z",
+  "model": "glm-5.3"
+}

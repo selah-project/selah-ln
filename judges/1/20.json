@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 1:20",
+  "book": "judges",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Bapesaki na Kalev ⟨את⟩ Hevron, ndenge Moshe alobaki; mpe alongolaki wana ⟨את⟩ bana misato ya Anak.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "Bapesaki"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "na Kalev"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevron"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ndenge"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויורש",
+      "gloss": "mpe alongolaki"
+    },
+    {
+      "surface": "משם",
+      "gloss": "wana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bana misato"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "misato"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "הענק",
+      "gloss": "ya Anak"
+    }
+  ],
+  "timestamp": "2026-09-03T17:56:15.802024139Z",
+  "model": "glm-5.3"
+}

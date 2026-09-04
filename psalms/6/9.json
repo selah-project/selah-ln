@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 6:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Boya na ngai, bino nyonso basalaka mabe, mpo Yawe ayokaki mongongo ya kolia na ngai.",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "Boya"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "basalaka"
+    },
+    {
+      "surface": "און",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ayokaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "mongongo"
+    },
+    {
+      "surface": "בכיי",
+      "gloss": "kolia na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T20:59:00.286260283Z",
+  "model": "glm-5.3"
+}

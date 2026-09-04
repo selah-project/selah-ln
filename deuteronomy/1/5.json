@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 1:5",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Na ngambo mosusu ya Yarden, na mabele ya Moab, Moshe abandanaki kolimbola ⟨את⟩ Tora oyo, koloba:",
+  "tokens": [
+    {
+      "surface": "בעבר",
+      "gloss": "Na ngambo mosusu ya"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mabele ya"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "abandanaki"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "באר",
+      "gloss": "kolimbola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tora oyo"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "koloba"
+    }
+  ],
+  "timestamp": "2026-09-03T17:23:52.543998845Z",
+  "model": "glm-5.3"
+}

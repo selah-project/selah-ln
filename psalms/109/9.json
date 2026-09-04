@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 109,
+  "translation": "Bana na ye bakoka kozala bayatoma, mpe mwasi na ye akoka kozala likama.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "bakoka"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bana na ye"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "bayatoma"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "mpe mwasi na ye"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "likama"
+    }
+  ],
+  "timestamp": "2026-09-03T21:29:09.168138630Z",
+  "model": "glm-5.3"
+}

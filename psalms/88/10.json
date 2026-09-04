@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 88:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 88,
+  "translation": "Miso na ngai ekufi na mawa; nabengi yo Yawe mokolo nyonso, natombolaki maboko na ngai epai na yo.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Miso na ngai"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "ekufi"
+    },
+    {
+      "surface": "מני",
+      "gloss": "na"
+    },
+    {
+      "surface": "עני",
+      "gloss": "mawa"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "nabengi yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mokolo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "שטחתי",
+      "gloss": "natombolaki"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "epai na yo"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "maboko na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:22:02.139734297Z",
+  "model": "glm-5.3"
+}

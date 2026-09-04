@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 78:33",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 78,
+  "translation": "Akomisaki suka mikuwi na bango na mokemoke, mpe mbula na bango na bangwela.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "akomisaki suka"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "na mokemoke"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "mikuwi na bango"
+    },
+    {
+      "surface": "ושנותם",
+      "gloss": "mpe mbula na bango"
+    },
+    {
+      "surface": "בבהלה",
+      "gloss": "na bangwela"
+    }
+  ],
+  "timestamp": "2026-09-03T21:19:52.377904170Z",
+  "model": "glm-5.3"
+}

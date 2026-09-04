@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 135:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 135,
+  "translation": "Boloba lokumu, Ya; boloba lokumu ⟨את⟩ nkombo ya Yawe; boloba lokumu, bó basaleli ya Yawe.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "boloba lokumu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "boloba lokumu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkombo ya Yawe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nkombo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "boloba lokumu"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "basaleli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T21:33:56.715325829Z",
+  "model": "glm-5.3"
+}

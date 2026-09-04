@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 42:5",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 42,
+  "translation": "Mpe bana ya Israel bayaki kosomba biloko kati ya bayaki, mpo nzala ezalaki na mabele ya Kenaan.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "bayaki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "kosomba biloko"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "kati"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "ya bayaki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ezalaki"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "nzala"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-09-03T16:08:45.275720656Z",
+  "model": "glm-5.3"
+}

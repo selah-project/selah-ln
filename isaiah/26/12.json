@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 26:12",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "Yawe, otyaki kimya mpo na biso; mpo misala na biso nyonso mpe osalaki mpo na biso.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "תשפת",
+      "gloss": "otyaki"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kimya"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mpo na biso"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "מעשינו",
+      "gloss": "misala na biso"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "osalaki"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mpo na biso"
+    }
+  ],
+  "timestamp": "2026-09-03T19:22:02.585030803Z",
+  "model": "glm-5.3"
+}

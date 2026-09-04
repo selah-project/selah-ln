@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 20:20",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 20,
+  "translation": "Mpe Yoab eyanoli mpe alobaki: Ekoki te, ekoki te, ete ngai nakolie to nakolongisa!",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "eyanoli"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "Ekoki te"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "ekoki te"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ete ngai"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ete"
+    },
+    {
+      "surface": "אבלע",
+      "gloss": "nakolie"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "to"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "nakolongisa"
+    }
+  ],
+  "timestamp": "2026-09-03T18:37:42.649830435Z",
+  "model": "glm-5.3"
+}

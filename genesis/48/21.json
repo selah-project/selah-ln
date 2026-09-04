@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 48:21",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 48,
+  "translation": "Mpe Israel alobaki na Yosef: Talá, ngai nazali kokufa, kasi Elohim akozala na bino, mpe akozongisa bino na mabele ya baboti na bino.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Talá"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "מת",
+      "gloss": "nazali kokufa"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "mpe akozala"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "na bino"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "mpe akozongisa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ bino",
+      "marks": "bino"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "ya baboti na bino"
+    }
+  ],
+  "timestamp": "2026-09-03T16:11:44.414205669Z",
+  "model": "glm-5.3"
+}

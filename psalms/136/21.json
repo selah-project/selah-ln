@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 136:21",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 136,
+  "translation": "Mpe apeki mabele na bango lokola bosikoloki, mpo na ntango nyonso hesed na ye.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "Mpe apeki"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "mabele na bango"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "lokola bosikoloki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na ntango nyonso"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:34:25.560727734Z",
+  "model": "glm-5.3"
+}

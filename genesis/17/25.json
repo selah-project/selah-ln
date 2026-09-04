@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 17:25",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 17,
+  "translation": "Mpe Yishmaeli mwana na ye, mwana ya mbula zomi na misato, na kobengama ⟨את⟩ makasi ya ndambu na ye ya libanga.",
+  "tokens": [
+    {
+      "surface": "וישמעאל",
+      "gloss": "Mpe Yishmaeli"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana na ye"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana ya"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "misato"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "zomi na"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mbula"
+    },
+    {
+      "surface": "בהמלו",
+      "gloss": "na kobengama na ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makasi"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "makasi"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "ya ndambu na ye ya libanga"
+    }
+  ],
+  "timestamp": "2026-09-03T15:51:04.818307704Z",
+  "model": "glm-5.3"
+}

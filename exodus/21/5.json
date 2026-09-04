@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 21:5",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Mpe soki moyebeli alobi polele: Nalingi nkolo na ngai, ⟨את⟩ mwasi na ngai mpe ⟨את⟩ bana na ngai; nakobima na bonsomi te.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Mpe soki"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "alobi"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "polele"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "moyebeli"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "nalingi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkolo na ngai"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "nkolo na ngai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwasi na ngai"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "mwasi na ngai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bana na ngai"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana na ngai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "nakobima"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "na bonsomi"
+    }
+  ],
+  "timestamp": "2026-09-03T16:25:59.877151139Z",
+  "model": "glm-5.3"
+}

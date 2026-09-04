@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 19:2",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Mpe atindaki ⟨את⟩ Elyakim oyo azali na likolo ya ndako, mpe ⟨את⟩ Shevna mokomi, mpe ⟨את⟩ bankulu ya bakohen, babekisami na masaku, epai ya Yeshayahu navi, mwana wa Amots.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "mpe atindaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elyakim"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Elyakim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "na likolo ya"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "ושבנא",
+      "gloss": "mpe Shevna"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "mokomi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bankulu ya bakohen"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "bankulu"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ya bakohen"
+    },
+    {
+      "surface": "מתכסים",
+      "gloss": "babekisami"
+    },
+    {
+      "surface": "בשקים",
+      "gloss": "na masaku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshayahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "navi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "wa Amots"
+    }
+  ],
+  "timestamp": "2026-09-03T19:08:52.524286924Z",
+  "model": "glm-5.3"
+}

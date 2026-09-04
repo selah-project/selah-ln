@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 46:5",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 46,
+  "translation": "Na nani bokokanisango ngai, mpe bokomisa ngai kokani, mpe bokokanisango ngai lisusu, mpe tokokana ⟨na yango⟩?",
+  "tokens": [
+    {
+      "surface": "למי",
+      "gloss": "na nani"
+    },
+    {
+      "surface": "תדמיוני",
+      "gloss": "bokokanisango ngai"
+    },
+    {
+      "surface": "ותשוו",
+      "gloss": "mpe bokomisa ngai kokani"
+    },
+    {
+      "surface": "ותמשלוני",
+      "gloss": "mpe bokokanisango ngai lisusu"
+    },
+    {
+      "surface": "ונדמה",
+      "gloss": "mpe tokokana"
+    }
+  ],
+  "timestamp": "2026-09-03T19:33:21.240569967Z",
+  "model": "glm-5.3"
+}

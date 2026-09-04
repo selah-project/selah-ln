@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 9:2",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Abeki kobeka na yango, asangisini vinyo na yango, ata mpe ateyaki mesa na yango.",
+  "tokens": [
+    {
+      "surface": "טבחה",
+      "gloss": "abeki"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "kobeka na yango"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "asangisini"
+    },
+    {
+      "surface": "יינה",
+      "gloss": "vinyo na yango"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ata mpe"
+    },
+    {
+      "surface": "ערכה",
+      "gloss": "ateyaki"
+    },
+    {
+      "surface": "שלחנה",
+      "gloss": "mesa na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:40:28.241378315Z",
+  "model": "glm-5.3"
+}

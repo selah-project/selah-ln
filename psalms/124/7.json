@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 124:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 124,
+  "translation": "Bomoi na biso elongwaki lokola ndeke uta na kambe ya bakangi-ndeke; kambe ebukaki, mpe biso tolongwaki.",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "bomoi na biso"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "lokola ndeke"
+    },
+    {
+      "surface": "נמלטה",
+      "gloss": "elongwaki"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "uta na kambe"
+    },
+    {
+      "surface": "יוקשים",
+      "gloss": "ya bakangi-ndeke"
+    },
+    {
+      "surface": "הפח",
+      "gloss": "kambe"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "ebukaki"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "mpe biso"
+    },
+    {
+      "surface": "נמלטנו",
+      "gloss": "tolongwaki"
+    }
+  ],
+  "timestamp": "2026-09-03T21:34:03.100107790Z",
+  "model": "glm-5.3"
+}

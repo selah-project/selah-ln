@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 150:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 150,
+  "translation": "Bokumisa ye na binguya na ye, bokumisa ye komeka bonene na ye.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Bokumisa ye"
+    },
+    {
+      "surface": "בגבורתיו",
+      "gloss": "na binguya na ye"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "bokumisa ye"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "komeka"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "bonene na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:35:53.877292894Z",
+  "model": "glm-5.3"
+}

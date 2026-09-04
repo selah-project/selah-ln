@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 38:8",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 38,
+  "translation": "Mpe Yehuda alobaki na Onan: Kɔta epai ya mwasi ya ndeko ya yo, mpe bala ⟨את⟩ ye, mpe botisa mbota mpo na ndeko ya yo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "לאונן",
+      "gloss": "na Onan"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kɔta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mwasi ya"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ndeko ya yo"
+    },
+    {
+      "surface": "ויבם",
+      "gloss": "mpe bala"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ye"
+    },
+    {
+      "surface": "והקם",
+      "gloss": "mpe botisa"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mbota"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "mpo na ndeko ya yo"
+    }
+  ],
+  "timestamp": "2026-09-03T16:05:08.505136281Z",
+  "model": "glm-5.3"
+}

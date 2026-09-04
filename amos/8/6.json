@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 8:6",
+  "book": "amos",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpo na kosomba bapesi na mbongo, mpe mopasi na sapatu, mpe tosololi mputulu wa bukari.",
+  "tokens": [
+    {
+      "surface": "לקנות",
+      "gloss": "mpo na kosomba"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "na mbongo"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "bapesi"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "mpe mopasi"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "na"
+    },
+    {
+      "surface": "נעלים",
+      "gloss": "sapatu"
+    },
+    {
+      "surface": "ומפל",
+      "gloss": "mpe mputulu"
+    },
+    {
+      "surface": "בר",
+      "gloss": "wa bukari"
+    },
+    {
+      "surface": "נשביר",
+      "gloss": "tosololi"
+    }
+  ],
+  "timestamp": "2026-09-03T20:45:49.854591461Z",
+  "model": "glm-5.3"
+}

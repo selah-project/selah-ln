@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 21:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Mposa ya motema na ye opei ye, mpe lombosa ya minope na ye opekisaki te. Sela.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "Mposa"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ya motema na ye"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "opei"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "וארשת",
+      "gloss": "mpe lombosa"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "ya minope na ye"
+    },
+    {
+      "surface": "בל",
+      "gloss": "te"
+    },
+    {
+      "surface": "מנעת",
+      "gloss": "opekisaki"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-03T21:04:59.530144974Z",
+  "model": "glm-5.3"
+}

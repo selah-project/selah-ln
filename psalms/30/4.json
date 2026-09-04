@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 30:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 30,
+  "translation": "Yawe, okangaki molimo na ngai uta na Sheol, ozalisaki ngai bomoi uta na bato ya kokita na libanga.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "okangaki likolo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uta na"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "molimo na ngai"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "ozalisaki ngai bomoi"
+    },
+    {
+      "surface": "מיורדי",
+      "gloss": "bato ya kokita"
+    },
+    {
+      "surface": "בור",
+      "gloss": "libanga"
+    }
+  ],
+  "timestamp": "2026-09-03T21:06:41.199920385Z",
+  "model": "glm-5.3"
+}

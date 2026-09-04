@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 28:10",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 28,
+  "translation": "Motoba ya bankombo na bango likolo ya libanga ya liboso, mpe ⟨את⟩ bankombo ya motoba oyo etikali likolo ya libanga ya mibale, kolanda mboto na bango.",
+  "tokens": [
+    {
+      "surface": "ששה",
+      "gloss": "motoba"
+    },
+    {
+      "surface": "משמתם",
+      "gloss": "ya bankombo na bango"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "ya libanga"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ya liboso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bankombo ya motoba oyo etikali"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "bankombo"
+    },
+    {
+      "surface": "הששה",
+      "gloss": "ya motoba"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "oyo etikali"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "ya libanga"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ya mibale"
+    },
+    {
+      "surface": "כתולדתם",
+      "gloss": "kolanda mboto na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T23:13:42.145591713Z",
+  "model": "glm-5.3"
+}

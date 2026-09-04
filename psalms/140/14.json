@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 140:14",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 140,
+  "translation": "Solo, batomboki ba sembo bakotondo nkombo na yo; babongi bakofanda ⟨את⟩ liboso ya yo.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Solo"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "batomboki ba sembo"
+    },
+    {
+      "surface": "יודו",
+      "gloss": "bakotondo"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "nkombo na yo"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "bakofanda"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "babongi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "liboso ya yo"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "liboso ya yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:34:17.380388531Z",
+  "model": "glm-5.3"
+}

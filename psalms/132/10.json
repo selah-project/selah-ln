@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 132:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 132,
+  "translation": "Mpo na Davide mowumbu na yo, kotyola elongi ya Mashiah na yo te.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mowumbu na yo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "kotyola"
+    },
+    {
+      "surface": "פני",
+      "gloss": "elongi ya"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "Mashiah na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:33:07.058315482Z",
+  "model": "glm-5.3"
+}

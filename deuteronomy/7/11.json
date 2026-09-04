@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 7:11",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mpe okobatela ⟨את⟩ malako mpe ⟨את⟩ mikanda ya mibeko mpe ⟨את⟩ mikanda ya bosolo oyo nazali kopesa yo lelo, mpo osala yango.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "Mpe okobatela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "malako"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "malako"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mikanda ya mibeko"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "mikanda ya mibeko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mikanda ya bosolo"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "mikanda ya bosolo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "nazali kopesa yo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lelo"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "mpo osala yango"
+    }
+  ],
+  "timestamp": "2026-09-03T17:27:11.107332472Z",
+  "model": "glm-5.3"
+}

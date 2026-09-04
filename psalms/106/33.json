@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 106:33",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 106,
+  "translation": "Mpo balalisaki ⟨את⟩ elimo na ye, mpe alobaki makoya te na mabenva na ye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "balalisaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elimo na ye"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "elimo na ye"
+    },
+    {
+      "surface": "ויבטא",
+      "gloss": "mpe alobaki makoya te"
+    },
+    {
+      "surface": "בשפתיו",
+      "gloss": "na mabenva na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:27:54.464106386Z",
+  "model": "glm-5.3"
+}

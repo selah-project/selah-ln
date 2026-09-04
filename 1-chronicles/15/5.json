@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 15:5",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 15,
+  "translation": "Ya bana ya Kehat: Uriel mokambi, mpe bandeko na ye nkoto moko na ntuku mibale.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "ya bana ya"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehat"
+    },
+    {
+      "surface": "אוריאל",
+      "gloss": "Uriel"
+    },
+    {
+      "surface": "השר",
+      "gloss": "mokambi"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "mpe bandeko na ye"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "nkoto moko"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "na ntuku mibale"
+    }
+  ],
+  "timestamp": "2026-09-03T22:45:56.012747091Z",
+  "model": "glm-5.3"
+}

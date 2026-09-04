@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 23:4",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Soki okutanaka ngombe ya monguna na yo, to bourikou na ye oyo ebungi nzela, ozongisaka ye ya solo epai na ye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "soki"
+    },
+    {
+      "surface": "תפגע",
+      "gloss": "okutanaka"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ngombe"
+    },
+    {
+      "surface": "איבך",
+      "gloss": "ya monguna na yo"
+    },
+    {
+      "surface": "או",
+      "gloss": "to"
+    },
+    {
+      "surface": "חמרו",
+      "gloss": "bourikou na ye"
+    },
+    {
+      "surface": "תעה",
+      "gloss": "oyo ebungi nzela"
+    },
+    {
+      "surface": "השב",
+      "gloss": "ya solo"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "ozongisaka ye"
+    },
+    {
+      "surface": "לו",
+      "gloss": "epai na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T16:26:18.451266700Z",
+  "model": "glm-5.3"
+}

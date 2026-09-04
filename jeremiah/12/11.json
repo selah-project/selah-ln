@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 12:11",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Basali yango esika ya nsukuni, mpe yango ezali kolia mawa na ngai; nsukuni ememi mabele mobimba, mpo moto azali te oyo atyaki yango na motema.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "Basali yango"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "esika ya nsukuni"
+    },
+    {
+      "surface": "אבלה",
+      "gloss": "ezali kolia mawa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "nsukuni"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "ememi nsukuni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mobimba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "אין",
+      "gloss": "azali te"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "שם",
+      "gloss": "atyaki"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "לב",
+      "gloss": "motema"
+    }
+  ],
+  "timestamp": "2026-09-03T19:47:55.999271790Z",
+  "model": "glm-5.3"
+}

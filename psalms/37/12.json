@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 37:12",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 37,
+  "translation": "Mabe asalaka mikesa na mobongi, mpe akangaka meno na ye na ye.",
+  "tokens": [
+    {
+      "surface": "זמם",
+      "gloss": "asalaka mikesa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "na mobongi"
+    },
+    {
+      "surface": "וחרק",
+      "gloss": "mpe akangaka meno"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "meno na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:08:40.689588150Z",
+  "model": "glm-5.3"
+}

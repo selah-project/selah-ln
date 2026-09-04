@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 9:15",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Mpe bakutaki na yango moto ya mawa, moyebi, mpe ye moko asungaki ⟨את⟩ mboka na boyebi na ye; mpe moto akanaki te ⟨את⟩ moto ya mawa wana.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "mpe bakutaki"
+    },
+    {
+      "surface": "בה",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "ya mawa"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "moyebi"
+    },
+    {
+      "surface": "ומלט",
+      "gloss": "mpe asungaki"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ye moko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mboka"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mboka"
+    },
+    {
+      "surface": "בחכמתו",
+      "gloss": "na boyebi na ye"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "mpe moto"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "akanaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moto ya mawa wana"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "ya mawa"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "wana"
+    }
+  ],
+  "timestamp": "2026-09-03T23:39:27.949666452Z",
+  "model": "glm-5.3"
+}

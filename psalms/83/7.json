@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 83:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 83,
+  "translation": "Maanda ya Edom mpe Bayishmaelim, Moab mpe Bahagarim —",
+  "tokens": [
+    {
+      "surface": "אהלי",
+      "gloss": "Maanda ya"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "וישמעאלים",
+      "gloss": "mpe Bayishmaelim"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "והגרים",
+      "gloss": "mpe Bahagarim"
+    }
+  ],
+  "timestamp": "2026-09-03T21:20:57.332685572Z",
+  "model": "glm-5.3"
+}

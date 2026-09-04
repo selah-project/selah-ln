@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 18:20",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Mpe epai ya mwasi ya moninga na yo, okopesa te bobali na yo lokola mbeka, mpo na motongo na yango.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "mpe epai ya"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mwasi"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "ya moninga na yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "okopesa"
+    },
+    {
+      "surface": "שכבתך",
+      "gloss": "bobali na yo"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "lokola mbeka"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "mpo na motongo"
+    },
+    {
+      "surface": "בה",
+      "gloss": "na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T23:15:36.578569071Z",
+  "model": "glm-5.3"
+}

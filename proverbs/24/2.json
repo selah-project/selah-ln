@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 24:2",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "Mpo motema na bango etalelaka bonsoshi, mpe minolo na bango milobaka mikakatano.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "שד",
+      "gloss": "bonsoshi"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "etalelaka"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "motema na bango"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "mpe mikakatano"
+    },
+    {
+      "surface": "שפתיהם",
+      "gloss": "minolo na bango"
+    },
+    {
+      "surface": "תדברנה",
+      "gloss": "milobaka"
+    }
+  ],
+  "timestamp": "2026-09-03T21:46:53.529509528Z",
+  "model": "glm-5.3"
+}

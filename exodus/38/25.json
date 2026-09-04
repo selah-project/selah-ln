@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 38:25",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 38,
+  "translation": "Mpe féro ya baoei ya likita ⟨ezalaki⟩ nkama moko kikar, mpe nkoto moko mpe sambo nkama mpe mitano mpe ntuku sambo shekel, na shekel ya esantu;",
+  "tokens": [
+    {
+      "surface": "וכסף",
+      "gloss": "mpe féro"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "ya baoei"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "likita"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "nkama moko"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "kikar"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "mpe nkoto moko"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "mpe sambo"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "nkama"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "mpe mitano"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "mpe ntuku sambo"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "shekel"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "na shekel"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ya esantu"
+    }
+  ],
+  "timestamp": "2026-09-03T16:37:05.538447699Z",
+  "model": "glm-5.3"
+}

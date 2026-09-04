@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 2:3",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe akokaki lisusu te kobomba ⟨ye⟩, mpe azwaki na ye teba ya nkende, mpe asololaki yango na litoki mpe na zefe, mpe atyaki kati na yango ⟨את⟩ mwana, mpe atyaki ⟨yango⟩ kati ya nkende, na nsela ya ebale.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יכלה",
+      "gloss": "akokaki"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lisusu"
+    },
+    {
+      "surface": "הצפינו",
+      "gloss": "kobomba ⟨ye⟩"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "azwaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "תבת",
+      "gloss": "teba"
+    },
+    {
+      "surface": "גמא",
+      "gloss": "nkende"
+    },
+    {
+      "surface": "ותחמרה",
+      "gloss": "asololaki yango na"
+    },
+    {
+      "surface": "בחמר",
+      "gloss": "litoki"
+    },
+    {
+      "surface": "ובזפת",
+      "gloss": "mpe na zefe"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "atyaki"
+    },
+    {
+      "surface": "בה",
+      "gloss": "kati na yango"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwana"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "atyaki"
+    },
+    {
+      "surface": "בסוף",
+      "gloss": "kati ya nkende"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "nsela ya"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "ebale"
+    }
+  ],
+  "timestamp": "2026-09-03T16:14:00.565500149Z",
+  "model": "glm-5.3"
+}

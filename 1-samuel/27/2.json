@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 27:2",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 27,
+  "translation": "David atombaki mpe atambolaki, yeye mpe mibali nkama motoba oyo ezalaki na ye, epai ya Akish mwana ya Maok, mokonzi ya Gat.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "atombaki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "mpe atambolaki"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "mpe motoba"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "nkama"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mibali"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ezalaki na ye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akish"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "מעוך",
+      "gloss": "Maok"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    }
+  ],
+  "timestamp": "2026-09-03T18:24:47.907460583Z",
+  "model": "glm-5.3"
+}

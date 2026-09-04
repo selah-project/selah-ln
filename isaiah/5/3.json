@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 5:3",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Mpe sikoyo, bato ya Yerushalaim, mpe bato ya Yehuda, bosambisi, na boboto, kati na ngai mpe kati na elanga na ngai.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "mpe sikoyo"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "bato ya"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "mpe bato ya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "bosambisi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "na boboto"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "kati na ngai"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "mpe kati na"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "elanga na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T19:16:08.599983566Z",
+  "model": "glm-5.3"
+}

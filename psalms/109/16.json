@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 109:16",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 109,
+  "translation": "Mpo te akanaki kosala hesed (bolingo ya bondimi), mpe alandaki moto mosunya mpe oyo na mpasi, mpe oyo mobetesami na motema, mpo na kufisa.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "te"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "akanaki"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "kosala"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "mpe alandaki"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "עני",
+      "gloss": "mosunya"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "mpe oyo na mpasi"
+    },
+    {
+      "surface": "ונכאה",
+      "gloss": "mpe oyo mobetesami"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "motema"
+    },
+    {
+      "surface": "למותת",
+      "gloss": "mpo na kufisa"
+    }
+  ],
+  "timestamp": "2026-09-03T21:29:35.777434695Z",
+  "model": "glm-5.3"
+}

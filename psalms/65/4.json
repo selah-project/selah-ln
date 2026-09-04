@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 65:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 65,
+  "translation": "Maloba ya makosa eleki ngai likolo; masumu na biso, yo ozipaka yango.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "maloba"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "ya makosa"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "eleki ngai likolo"
+    },
+    {
+      "surface": "מני",
+      "gloss": "likolo ya ngai"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "masumu na biso"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "תכפרם",
+      "gloss": "ozipaka yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:16:02.396188574Z",
+  "model": "glm-5.3"
+}

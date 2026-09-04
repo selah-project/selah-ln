@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 49:14",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 49,
+  "translation": "Oyo ezali nzela na bango, ezali bobwe na bango, mpe baye bazali na sima na bango bakosepela na monoko na bango. Selah.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Oyo"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "nzela na bango"
+    },
+    {
+      "surface": "כסל",
+      "gloss": "bobwe"
+    },
+    {
+      "surface": "למו",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "mpe baye bazali na sima na bango"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "na monoko na bango"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "bakosepela"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-03T21:12:15.160376347Z",
+  "model": "glm-5.3"
+}

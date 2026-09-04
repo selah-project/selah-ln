@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 17:6",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 17,
+  "translation": "Mpe matamba ya nekeso na makolo na ye, mpe musele ya nekeso kati ya mabepa na ye.",
+  "tokens": [
+    {
+      "surface": "ומצחת",
+      "gloss": "mpe matamba"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "nekeso"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "makolo na ye"
+    },
+    {
+      "surface": "וכידון",
+      "gloss": "mpe musele"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "nekeso"
+    },
+    {
+      "surface": "בין",
+      "gloss": "kati ya"
+    },
+    {
+      "surface": "כתפיו",
+      "gloss": "mabepa na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T18:17:22.617223990Z",
+  "model": "glm-5.3"
+}

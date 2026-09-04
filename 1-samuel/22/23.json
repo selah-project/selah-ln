@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 22:23",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Fanda na ngai, banga te, mpo oyo alukaka ⟨את⟩ bomoi na ngai alukaka ⟨את⟩ bomoi na yo mpe; mpo na ngai yo ozali na libateli.",
+  "tokens": [
+    {
+      "surface": "שבה",
+      "gloss": "Fanda"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ na ngai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "banga te"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "banga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "alukaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bomoi na ngai"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "bomoi na ngai"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "alukaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bomoi na yo"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "bomoi na yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "libateli"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T18:20:36.637273510Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 16:8",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Mpe Ahaz azwaki ⟨את⟩ likaya mpe ⟨את⟩ likasa oyo ezalaki kozwama na ndako ya Yawe mpe na bibombelo ya ndako ya mokonzi, mpe atindaki yango epai ya mokonzi ya Ashur, lifuta.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Mpe azwaki"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "likaya"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "likaya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "likasa"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "likasa"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "oyo ezalaki kozwama"
+    },
+    {
+      "surface": "בית",
+      "gloss": "na ndako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yawe"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "mpe na bibombelo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ya ndako"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya mokonzi"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "mpe atindaki"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "epai ya mokonzi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ya Ashur"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "lifuta"
+    }
+  ],
+  "timestamp": "2026-09-03T19:08:38.946878353Z",
+  "model": "glm-5.3"
+}

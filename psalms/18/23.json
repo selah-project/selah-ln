@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 18:23",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Mpo makambo ya bokati na yango nyonso ezalaki liboso na ngai, mpe mibeko na yango nabongolaki te na ngai.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "makambo ya bokati na yango"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "ezalaki liboso na ngai"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "mpe mibeko na yango"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "nabongolaki"
+    },
+    {
+      "surface": "מני",
+      "gloss": "na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:03:52.501447854Z",
+  "model": "glm-5.3"
+}

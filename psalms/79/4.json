@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 79:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 79,
+  "translation": "Tokomaki mabe liboso ya bamonisi na biso, seke mpe mabe epai ya baoyo bazali etando na biso.",
+  "tokens": [
+    {
+      "surface": "היינו",
+      "gloss": "Tokomaki"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "ya bamonisi na biso"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "seke"
+    },
+    {
+      "surface": "וקלס",
+      "gloss": "mpe mabe"
+    },
+    {
+      "surface": "לסביבותינו",
+      "gloss": "ya baoyo bazali etando na biso"
+    }
+  ],
+  "timestamp": "2026-09-03T21:21:37.482621801Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 42:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 42,
+  "translation": "Makambo oyo nakanisi, mpe nakitisi molimo na ngai na ngai, mpo nazalaki kotambola na motango, nakendaki na bango kelakela kino ndako ya Elohim, na lolaka ya kosekana mpe matonda, motango oyo bazalaki kosala ngondo.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Makambo oyo"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "nakanisi"
+    },
+    {
+      "surface": "ואשפכה",
+      "gloss": "mpe nakitisi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "molimo na ngai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "אעבר",
+      "gloss": "nazalaki kotambola"
+    },
+    {
+      "surface": "בסך",
+      "gloss": "na motango"
+    },
+    {
+      "surface": "אדדם",
+      "gloss": "nakendaki na bango kelakela"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "na lolaka"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "ya kosekana"
+    },
+    {
+      "surface": "ותודה",
+      "gloss": "mpe matonda"
+    },
+    {
+      "surface": "המון",
+      "gloss": "motango"
+    },
+    {
+      "surface": "חוגג",
+      "gloss": "oyo bazalaki kosala ngondo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:11:00.806615005Z",
+  "model": "glm-5.3"
+}

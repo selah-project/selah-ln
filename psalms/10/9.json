@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 10:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Azali kobomba na esika ya pakata, lokola singa na zamba na yango; azali kolinda mpo na kongoa moto oyo azali na mawa; akongoa moto oyo azali na mawa, soki amemaka yango na zulu ya nylonso na yango.",
+  "tokens": [
+    {
+      "surface": "יארב",
+      "gloss": "azali kolinda"
+    },
+    {
+      "surface": "במסתר",
+      "gloss": "na esika ya pakata"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "lokola singa"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "na zamba na yango"
+    },
+    {
+      "surface": "יארב",
+      "gloss": "azali kolinda"
+    },
+    {
+      "surface": "לחטוף",
+      "gloss": "mpo na kongoa"
+    },
+    {
+      "surface": "עני",
+      "gloss": "moto oyo azali na mawa"
+    },
+    {
+      "surface": "יחטף",
+      "gloss": "akongoa"
+    },
+    {
+      "surface": "עני",
+      "gloss": "moto oyo azali na mawa"
+    },
+    {
+      "surface": "במשכו",
+      "gloss": "soki amemaka yango"
+    },
+    {
+      "surface": "ברשתו",
+      "gloss": "na zulu ya nylonso na yango"
+    }
+  ],
+  "timestamp": "2026-09-04T00:22:12.525398279Z",
+  "model": "glm-5.3"
+}

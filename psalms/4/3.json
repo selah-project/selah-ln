@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 4:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Bana ya bato, tuka nini nkembo na ngai ekomaka soni? Bolingaka elongo moko te, bolukaka lokuta. Sela.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Bana"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ya bato"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tuka"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "nkembo na ngai"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "ekomaka soni"
+    },
+    {
+      "surface": "תאהבון",
+      "gloss": "Bolingaka"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "elongo moko te"
+    },
+    {
+      "surface": "תבקשו",
+      "gloss": "bolukaka"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "lokuta"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-03T21:00:27.175195507Z",
+  "model": "glm-5.3"
+}

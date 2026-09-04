@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 8:7",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Bato nyonso oyo batikaki, kowuta na ba-Hiti, mpe ba-Amori, mpe ba-Perizi, mpe ba-Hivi, mpe ba-Yevusi, oyo bazalaki bana ya Israel te, bango.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "הנותר",
+      "gloss": "otikaki"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kowuta na"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "ba-Hiti"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "mpe ba-Amori"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "mpe ba-Perizi"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "mpe ba-Hivi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "mpe ba-Yevusi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "na Israel"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bango"
+    }
+  ],
+  "timestamp": "2026-09-03T22:59:14.323721255Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 1:30",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Yawe Elohim na bino, oyo azali kotambola liboso na bino, ye nde akobunda mpo na bino, ndenge asalaki nyonso na ⟨את⟩ bino na Mitsraim, miso na bino etali.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim na bino"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "oyo azali kotambola"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "liboso na bino"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ye nde"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "akobunda"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "mpo na bino"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ndenge nyonso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "asalaki"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "na ⟨את⟩ bino",
+      "marks": "bino"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "na Mitsraim"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "miso na bino etali"
+    }
+  ],
+  "timestamp": "2026-09-03T17:23:10.011487019Z",
+  "model": "glm-5.3"
+}

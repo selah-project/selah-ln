@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 40:9",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 40,
+  "translation": "Mpe okomaka ⟨את⟩ mafuta ya mpozi, mpe okompozi ⟨את⟩ hema mpe ⟨את⟩ nyonso oyo ezali na yango, mpe okosantisa ⟨את⟩ yango mpe ⟨את⟩ biloko na yango nyonso, mpe ekokala mosantu.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "mpe okomaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafuta"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "ya mpozi"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "mpe okompozi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hema"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "hema"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "mpe okosantisa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yango",
+      "marks": "hema"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "biloko na yango"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "mpe ekokala"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "mosantu"
+    }
+  ],
+  "timestamp": "2026-09-03T16:38:52.723872290Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 15:3",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 15,
+  "translation": "Mpe David abokisaki ⟨את⟩ Israel nyonso epai ya Yerushalaim, mpo na kotombola ⟨את⟩ sanduku ya Yawe na esika na yango, oyo aprekaki mpo na yango.",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "abokisaki"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "mpo na kotombola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduku"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "esika na yango"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "aprekaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mpo na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T22:46:54.445455433Z",
+  "model": "glm-5.3"
+}

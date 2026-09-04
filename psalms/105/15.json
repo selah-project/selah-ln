@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 105:15",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 105,
+  "translation": "Bosimba te Mashiah na ngai, mpe na banavi na ngai bo salisa mabe te.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "bo ... te"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "bosimba"
+    },
+    {
+      "surface": "במשיחי",
+      "gloss": "Mashiah na ngai"
+    },
+    {
+      "surface": "ולנביאי",
+      "gloss": "mpe na banavi na ngai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bo ... te"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "bo salisa mabe"
+    }
+  ],
+  "timestamp": "2026-09-03T21:27:44.008242763Z",
+  "model": "glm-5.3"
+}

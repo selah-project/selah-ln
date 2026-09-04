@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 10:2",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "mpo ya kolongola bapovre na kokata, mpe mpo ya kozwaka na makasi bosungi ya bampasi ya bato na ngai, mpo ete baliya ezala butu na bango, mpe ⟨את⟩ bakanyente bazwaka na makasi.",
+  "tokens": [
+    {
+      "surface": "להטות",
+      "gloss": "mpo ya kolongola"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "kokata"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "bapovre"
+    },
+    {
+      "surface": "ולגזל",
+      "gloss": "mpe mpo ya kozwaka na makasi"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "bosungi"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "bampasi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ya bato na ngai"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "baliya"
+    },
+    {
+      "surface": "שללם",
+      "gloss": "ezala butu na bango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bakanyente"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "bakanyente"
+    },
+    {
+      "surface": "יבזו",
+      "gloss": "bazwaka na makasi"
+    }
+  ],
+  "timestamp": "2026-09-03T23:25:10.633595058Z",
+  "model": "glm-5.3"
+}

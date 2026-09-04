@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 91:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 91,
+  "translation": "Mabe ekoyela yo te, mpe mposa ekokota na nlamba na yo te.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "ekoyela"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "yo"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "mpe mposa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "ekokota"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "na nlamba na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:23:59.481579155Z",
+  "model": "glm-5.3"
+}

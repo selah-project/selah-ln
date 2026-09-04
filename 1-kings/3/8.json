@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 3:8",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe mosaleli na yo azali kati ya bato na yo oyo oponaki, bato ebele oyo bakoki kokanama te mpe kokomama te, mpamba ya bokenso.",
+  "tokens": [
+    {
+      "surface": "ועבדך",
+      "gloss": "mpe mosaleli na yo"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "kati ya"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bato na yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "בחרת",
+      "gloss": "oponaki"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ebele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "bakoki kokanama"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "kokomama"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "mpamba ya bokenso"
+    }
+  ],
+  "timestamp": "2026-09-03T18:44:12.722663223Z",
+  "model": "glm-5.3"
+}

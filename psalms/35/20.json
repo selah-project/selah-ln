@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 35:20",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 35,
+  "translation": "Mpo balobaka kimya te, kasi na bato ya kimya ya mabele bakoseka maloba ya bonyongo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kimya"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "balobaka"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kasi na"
+    },
+    {
+      "surface": "רגעי",
+      "gloss": "ya kimya"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ya mabele"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "maloba"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "ya bonyongo"
+    },
+    {
+      "surface": "יחשבון",
+      "gloss": "bakoseka"
+    }
+  ],
+  "timestamp": "2026-09-03T21:08:37.772182708Z",
+  "model": "glm-5.3"
+}

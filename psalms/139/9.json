@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 139:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 139,
+  "translation": "Soki nakanga mapapu ya bopesinzela, nakofanda na nsuka ya mbu,",
+  "tokens": [
+    {
+      "surface": "אשא",
+      "gloss": "nakanga"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "mapapu"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "ya bopesinzela"
+    },
+    {
+      "surface": "אשכנה",
+      "gloss": "nakofanda"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "na nsuka"
+    },
+    {
+      "surface": "ים",
+      "gloss": "mbu"
+    }
+  ],
+  "timestamp": "2026-09-03T21:34:57.798330123Z",
+  "model": "glm-5.3"
+}

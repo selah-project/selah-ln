@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 25:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Kanisaka mawa na yo mpe hesed na yo, Yawe, mpo uta libela bazalaki.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Kanisaka"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "mawa na yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וחסדיך",
+      "gloss": "mpe hesed na yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "uta libela"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bazalaki"
+    }
+  ],
+  "timestamp": "2026-09-03T21:06:00.368044268Z",
+  "model": "glm-5.3"
+}

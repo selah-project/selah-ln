@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 39,
+  "translation": "Nakangi monoko, nakangola te monoko na ngai; mpo yo osali yango.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "nakangi monoko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "nakangola"
+    },
+    {
+      "surface": "פי",
+      "gloss": "monoko na ngai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "osali yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:09:52.174607414Z",
+  "model": "glm-5.3"
+}

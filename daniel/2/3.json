@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 2:3",
+  "book": "daniel",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe mokonzi alobaki na bango: Mampunga nalalaki, mpe elimo na ngai ekangwamaki, mpo na koyeba ⟨את⟩ mampunga oyo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "להם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "Mampunga"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "nalalaki"
+    },
+    {
+      "surface": "ותפעם",
+      "gloss": "mpe ekangwamaki"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "elimo na ngai"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "mpo na koyeba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mampunga oyo"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "mampunga oyo"
+    }
+  ],
+  "timestamp": "2026-09-03T22:20:27.927227500Z",
+  "model": "glm-5.3"
+}

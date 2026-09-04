@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 26:11",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "Kasi ngai nakende na bosembo na ngai; kangisa ngai, mpe pesa ngai ngolu.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "kasi ngai"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "na bosembo na ngai"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "nakende"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "kangisa ngai"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "mpe pesa ngai ngolu"
+    }
+  ],
+  "timestamp": "2026-09-03T21:05:38.450650919Z",
+  "model": "glm-5.3"
+}

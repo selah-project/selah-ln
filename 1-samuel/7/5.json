@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 7:5",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mpe Shemuel alobaki: Bokisa ⟨את⟩ Israel nyonso na Mitspa, mpe nakolapela mpo na bino epai ya Yawe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "קבצו",
+      "gloss": "Bokisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "המצפתה",
+      "gloss": "na Mitspa"
+    },
+    {
+      "surface": "ואתפלל",
+      "gloss": "mpe nakolapela"
+    },
+    {
+      "surface": "בעדכם",
+      "gloss": "mpo na bino"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T18:11:49.277195259Z",
+  "model": "glm-5.3"
+}

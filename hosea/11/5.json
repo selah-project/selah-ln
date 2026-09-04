@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 11:5",
+  "book": "hosea",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Akotelema te na mabele ya Mitsraim, mpe Ashur, ye nde mokonzi na bango, mpo bayanaki kozonga.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "akotelema"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "mpe Ashur"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ye"
+    },
+    {
+      "surface": "מלכו",
+      "gloss": "mokonzi na bango"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "bayanaki"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "kozonga"
+    }
+  ],
+  "timestamp": "2026-09-03T20:40:06.950451134Z",
+  "model": "glm-5.3"
+}

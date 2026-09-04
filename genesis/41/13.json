@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 41:13",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 41,
+  "translation": "Mpe ekamwaki, lokola andimbolaki biso, boye nde esalemaki: ⟨את⟩ ngai azongisaki na esika nangai, mpe ⟨את⟩ ye atamaki na nkoma.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mpe ekamwaki"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "lokola"
+    },
+    {
+      "surface": "פתר",
+      "gloss": "andimbolaki"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "biso"
+    },
+    {
+      "surface": "כן",
+      "gloss": "boye nde"
+    },
+    {
+      "surface": "היה",
+      "gloss": "esalemaki"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ngai",
+      "marks": "ngai"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "azongisaki"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כני",
+      "gloss": "esika nangai"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "ye"
+    },
+    {
+      "surface": "תלה",
+      "gloss": "atamaki na nkoma"
+    }
+  ],
+  "timestamp": "2026-09-03T23:13:01.841903158Z",
+  "model": "glm-5.3"
+}

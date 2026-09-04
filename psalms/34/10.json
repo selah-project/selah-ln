@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 34:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 34,
+  "translation": "Babanga ⟨את⟩ Yawe, batoya naye; ete bobele ezali te na baye babangaka naye.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "Babanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "batoya naye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ezali te"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "bobele"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "na babangi naye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:08:08.821474390Z",
+  "model": "glm-5.3"
+}

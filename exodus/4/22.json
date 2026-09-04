@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 4:22",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe okoloba na Parao: Ndenge wana Yawe alobi: mwana na ngai, motombo na ngai, ⟨ezali⟩ Israel.",
+  "tokens": [
+    {
+      "surface": "וְאָמַרְתָּ",
+      "gloss": "mpe okoloba"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "na"
+    },
+    {
+      "surface": "פַּרְעֹה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "כֹּה",
+      "gloss": "Ndenge wana"
+    },
+    {
+      "surface": "אָמַר",
+      "gloss": "alobi"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בְּנִי",
+      "gloss": "mwana na ngai"
+    },
+    {
+      "surface": "בְּכֹרִי",
+      "gloss": "motombo na ngai"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T00:18:09.462540732Z",
+  "model": "glm-5.3"
+}

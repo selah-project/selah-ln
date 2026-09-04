@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 20:10",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 20,
+  "translation": "Mpe David alobaki epai ya Yehonatan: Nani akoyebisa ngai? To soki tata na yo ayanoli yo makasi?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Nani"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "akoyebisa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "או",
+      "gloss": "To"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "יענך",
+      "gloss": "ayanoli yo"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tata na yo"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "makasi"
+    }
+  ],
+  "timestamp": "2026-09-03T18:18:39.436747683Z",
+  "model": "glm-5.3"
+}

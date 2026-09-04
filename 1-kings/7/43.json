@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 7:43",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mpe ⟨את⟩ mabanzo zomi, mpe ⟨את⟩ maba zomi likolo ya mabanzo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mabanzo zomi"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "mabanzo"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "zomi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "maba zomi"
+    },
+    {
+      "surface": "הכירות",
+      "gloss": "maba"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "zomi"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "mabanzo"
+    }
+  ],
+  "timestamp": "2026-09-03T18:47:25.244440585Z",
+  "model": "glm-5.3"
+}

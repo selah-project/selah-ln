@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 104:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 104,
+  "translation": "Atindaka masanga ya mai o kati ya minzela ya mai; kati ya bangomba bazalaka kolata.",
+  "tokens": [
+    {
+      "surface": "המשלח",
+      "gloss": "Atindaka"
+    },
+    {
+      "surface": "מעינים",
+      "gloss": "masanga ya mai"
+    },
+    {
+      "surface": "בנחלים",
+      "gloss": "o kati ya minzela ya mai"
+    },
+    {
+      "surface": "בין",
+      "gloss": "kati"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "bangomba"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "bazalaka kolata"
+    }
+  ],
+  "timestamp": "2026-09-03T21:25:50.196950940Z",
+  "model": "glm-5.3"
+}

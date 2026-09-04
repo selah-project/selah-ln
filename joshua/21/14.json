@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 21:14",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Mpe ⟨את⟩ Yatir na ⟨את⟩ bipembe na yango, mpe ⟨את⟩ Eshtemoa na ⟨את⟩ bipembe na yango.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Yatir"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Yatir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "bipembe na yango"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "bipembe na yango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Eshtemoa"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "Eshtemoa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "bipembe na yango"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "bipembe na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T17:53:02.881207020Z",
+  "model": "glm-5.3"
+}

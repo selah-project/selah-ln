@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 12:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Lokuta balobaka, moto na moto na ⟨את⟩ moninga na ye; na mono ya bokeke, na motema mpe ⟨na⟩ motema balobaka.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "Lokuta"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "balobaka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto na moto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moninga na ye"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "moninga na ye"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "mono"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "ya bokeke"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "na motema"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "mpe motema"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "balobaka"
+    }
+  ],
+  "timestamp": "2026-09-03T21:02:15.118931734Z",
+  "model": "glm-5.3"
+}

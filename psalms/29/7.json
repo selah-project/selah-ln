@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 29,
+  "translation": "Mongongo ya Yawe ekatakaka balangwi ya moto.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "mongongo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "ekatakaka"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "balangwi"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ya moto"
+    }
+  ],
+  "timestamp": "2026-09-03T21:06:12.392810412Z",
+  "model": "glm-5.3"
+}

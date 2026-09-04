@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 26:19",
+  "book": "ezekiel",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "Mpo ndenge wana Adonai Yawe alobaki: Soki napesi ⟨את⟩ yo mboka ebombami, lokola mboka oyo ezali na bato te; soki natomboli ⟨את⟩ tehom epai na yo, mpe mai minene makangisi yo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ndenge wana"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בתתי",
+      "gloss": "soki napesi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "mboka ebombami (oyo epai ya yo)"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mboka"
+    },
+    {
+      "surface": "נחרבת",
+      "gloss": "ebombami"
+    },
+    {
+      "surface": "כערים",
+      "gloss": "lokola mboka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "נושבו",
+      "gloss": "ezali na bato te"
+    },
+    {
+      "surface": "בהעלות",
+      "gloss": "soki natomboli"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "epai na yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tehom"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "tehom"
+    },
+    {
+      "surface": "וכסוך",
+      "gloss": "mpe makangisi"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mai"
+    },
+    {
+      "surface": "הרבים",
+      "gloss": "minene"
+    }
+  ],
+  "timestamp": "2026-09-03T20:25:31.909266276Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 30:23",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 30,
+  "translation": "Mpe David alobaki: Bosali bongo te, bandeko na ngai, na ⟨את⟩ oyo Yawe apesaki biso, mpe abatelaki ⟨את⟩ biso, mpe apekisaki ⟨na⟩ ⟨את⟩ etuluku oyo eyelaki biso na maboko na biso.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "bosali"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bongo"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "bandeko na ngai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oyo (apo Yawe apesaki biso)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "apesaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "biso"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "mpe abatelaki"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ biso"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "mpe apekisaki ⟨na⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "etuluku"
+    },
+    {
+      "surface": "הגדוד",
+      "gloss": "etuluku"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "oyo eyelaki"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "biso"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "na maboko na biso"
+    }
+  ],
+  "timestamp": "2026-09-03T18:24:35.386617372Z",
+  "model": "glm-5.3"
+}

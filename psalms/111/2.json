@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 111:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 111,
+  "translation": "Minene misala ya Yawe, balukalukama na bato nyonso oyo basepelaka na yango.",
+  "tokens": [
+    {
+      "surface": "גדלים",
+      "gloss": "Minene"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "misala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yawe"
+    },
+    {
+      "surface": "דרושים",
+      "gloss": "balukalukama"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "na bato nyonso"
+    },
+    {
+      "surface": "חפציהם",
+      "gloss": "oyo basepelaka na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:29:45.487341690Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 4:4",
+  "book": "judges",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe Debora, mwasi navia, mwasi ya Lapidot, ye asambisaki ⟨את⟩ Israel na ntango wana.",
+  "tokens": [
+    {
+      "surface": "ודבורה",
+      "gloss": "Mpe Debora"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mwasi"
+    },
+    {
+      "surface": "נביאה",
+      "gloss": "navia"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mwasi ya"
+    },
+    {
+      "surface": "לפידות",
+      "gloss": "Lapidot"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ye"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "asambisaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "na ntango"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "wana"
+    }
+  ],
+  "timestamp": "2026-09-03T17:59:06.655323130Z",
+  "model": "glm-5.3"
+}

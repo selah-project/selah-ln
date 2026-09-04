@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 109:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 109,
+  "translation": "Mpe bana na ye bayekola-bayekola, mpe basenga, mpe baluka uta na bibwaki na bango.",
+  "tokens": [
+    {
+      "surface": "ונוע",
+      "gloss": "bayekola"
+    },
+    {
+      "surface": "ינועו",
+      "gloss": "bayekola"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bana na ye"
+    },
+    {
+      "surface": "ושאלו",
+      "gloss": "mpe basenga"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "mpe baluka"
+    },
+    {
+      "surface": "מחרבותיהם",
+      "gloss": "uta na bibwaki na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:29:09.168393152Z",
+  "model": "glm-5.3"
+}

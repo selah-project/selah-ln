@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 104:21",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 104,
+  "translation": "Bankosi bayokolaki mpo na kolia, mpe bakoluka ⟨epai⟩ ya El bilei na bango.",
+  "tokens": [
+    {
+      "surface": "הכפירים",
+      "gloss": "bankosi"
+    },
+    {
+      "surface": "שאגים",
+      "gloss": "bayokolaki"
+    },
+    {
+      "surface": "לטרף",
+      "gloss": "mpo na kolia"
+    },
+    {
+      "surface": "ולבקש",
+      "gloss": "mpe bakoluka"
+    },
+    {
+      "surface": "מאל",
+      "gloss": "epai ya El"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "bilei na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:26:15.685396082Z",
+  "model": "glm-5.3"
+}

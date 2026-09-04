@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 5:3",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Mpe ba-Ashdod babikaki na ntongo ya lobi, mpe talá, Dagon awei elongi na yango na mabele, liboso ya sanduku ya Yawe; mpe basalaki ⟨את⟩ Dagon mpe bazongisaki ⟨את⟩ yango na esika na yango.",
+  "tokens": [
+    {
+      "surface": "וישכמו",
+      "gloss": "Mpe babikaki na ntongo"
+    },
+    {
+      "surface": "אשדודים",
+      "gloss": "ba-Ashdod"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "ya lobi"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mpe talá"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagon"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "awei"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "elongi na yango"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "mpe basalaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dagon"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagon"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "mpe bazongisaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yango",
+      "marks": "Dagon"
+    },
+    {
+      "surface": "למקומו",
+      "gloss": "na esika na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T18:11:45.760202427Z",
+  "model": "glm-5.3"
+}

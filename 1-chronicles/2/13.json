@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 2:13",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe Ishai abotaki ⟨את⟩ mobotami na yango ya liboso ⟨את⟩ Eliab, mpe Abinadab ya mibale, mpe Shimea ya misato.",
+  "tokens": [
+    {
+      "surface": "ואישי",
+      "gloss": "Mpe Ishai"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "abotaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mobotami na yango ya liboso"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "mobotami na yango ya liboso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliab"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Eliab"
+    },
+    {
+      "surface": "ואבינדב",
+      "gloss": "mpe Abinadab"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ya mibale"
+    },
+    {
+      "surface": "ושמעא",
+      "gloss": "mpe Shimea"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ya misato"
+    }
+  ],
+  "timestamp": "2026-09-03T22:40:03.664438912Z",
+  "model": "glm-5.3"
+}

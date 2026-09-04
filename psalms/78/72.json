@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "psalms 78:72",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 78,
+  "translation": "Mpe akombaki bango na bosolo ya motema na yango, mpe na mayele ya maboko na yango alongaki bango.",
+  "tokens": [
+    {
+      "surface": "וירעם",
+      "gloss": "akombaki bango"
+    },
+    {
+      "surface": "כתם",
+      "gloss": "na bosolo"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "ya motema na yango"
+    },
+    {
+      "surface": "ובתבונות",
+      "gloss": "mpe na mayele"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "ya maboko na yango"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "alongaki bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:20:18.409843740Z",
+  "model": "glm-5.3"
+}

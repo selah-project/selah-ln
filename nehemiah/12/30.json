@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 12:30",
+  "book": "nehemiah",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Bakohen mpe balevi balafwaki ⟨את⟩ bato, mpe ⟨את⟩ baporta, mpe ⟨את⟩ ngonga, bango mene bakangaki bongo.",
+  "tokens": [
+    {
+      "surface": "ויטהרו",
+      "gloss": "balafwaki"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "Bakohen"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "mpe balevi"
+    },
+    {
+      "surface": "ויטהרו",
+      "gloss": "bakangaki bongo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bato"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "baporta"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "baporta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "ngonga"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "ngonga"
+    }
+  ],
+  "timestamp": "2026-09-03T22:38:57.768648414Z",
+  "model": "glm-5.3"
+}

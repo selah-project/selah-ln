@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 7:2",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mpe Yawe Elohim na yo akopesa bango liboso na yo, mpe okobundela bango; boma boboma ⟨את⟩ bango; okosala boyokani na bango te, mpe okomona bango mawa te.",
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "mpe akopesa bango"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim na yo"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "liboso na yo"
+    },
+    {
+      "surface": "והכיתם",
+      "gloss": "mpe okobundela bango"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "boma"
+    },
+    {
+      "surface": "תחרים",
+      "gloss": "boboma"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bango"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "okosala boyokani"
+    },
+    {
+      "surface": "להם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "boyokani"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe ... te"
+    },
+    {
+      "surface": "תחנם",
+      "gloss": "okomona bango mawa"
+    }
+  ],
+  "timestamp": "2026-09-03T23:18:54.051913192Z",
+  "model": "glm-5.3"
+}

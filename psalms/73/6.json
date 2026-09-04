@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 73:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 73,
+  "translation": "Yango wana lolendo ekangaki bango lokola limbama, bonyokoli ezali kundola bango lokola elambu.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "yango wana"
+    },
+    {
+      "surface": "ענקתמו",
+      "gloss": "ekangaki bango"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "lolendo"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "ezali kundola"
+    },
+    {
+      "surface": "שית",
+      "gloss": "elambu"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "bonyokoli"
+    },
+    {
+      "surface": "למו",
+      "gloss": "bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:18:28.562693981Z",
+  "model": "glm-5.3"
+}

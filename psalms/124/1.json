@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 124:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 124,
+  "translation": "Lokasa ya bikwelelo, ya Davidi. Soki Yawe azalaki te mpo na biso — aloba Israel na lisumu:",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Lokasa"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ya bikwelelo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Davidi"
+    },
+    {
+      "surface": "לולי",
+      "gloss": "soki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "azalaki"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mpo na biso"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "aloba"
+    },
+    {
+      "surface": "נא",
+      "gloss": "na lisumu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-03T21:33:30.571646784Z",
+  "model": "glm-5.3"
+}

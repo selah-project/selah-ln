@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 94:14",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 94,
+  "translation": "Mpo ete Yawe akoboya te bato na ye, mpe lopekisi na ye akotika te.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יטש",
+      "gloss": "akoboya te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bato na ye"
+    },
+    {
+      "surface": "ונחלתו",
+      "gloss": "mpe lopekisi na ye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "akotika te"
+    }
+  ],
+  "timestamp": "2026-09-03T21:24:35.747325906Z",
+  "model": "glm-5.3"
+}

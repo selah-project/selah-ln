@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 17:19",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 17,
+  "translation": "Mpe Shaul mpe bango mpe bato nyonso ya Israel bazalaki na libulu ya Ela, bazalaki kobunda na Bafilisiti.",
+  "tokens": [
+    {
+      "surface": "ושאול",
+      "gloss": "mpe Shaul"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "mpe bango"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe nyonso"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto nyonso"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "na libulu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ya Ela"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "bazalaki kobunda"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Bafilisiti"
+    }
+  ],
+  "timestamp": "2026-09-03T18:18:10.606712225Z",
+  "model": "glm-5.3"
+}

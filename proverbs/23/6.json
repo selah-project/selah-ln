@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 23:6",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Bolia te ⟨את⟩ lipa ya moki mabe, mpe bolinga te biloko ya nkanda na ye.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תלחם",
+      "gloss": "bolia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lipa"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "lipa"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "עין",
+      "gloss": "moki"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "bolinga"
+    },
+    {
+      "surface": "למטעמתיו",
+      "gloss": "biloko ya nkanda na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:46:38.561840308Z",
+  "model": "glm-5.3"
+}

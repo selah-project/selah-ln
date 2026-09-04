@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 7:5",
+  "book": "hosea",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Na mokolo ya mokonzi na biso bankumu bawomaki ⟨ye⟩ na bosungi ya maliva; atombolaki loboko na ye na ⟨את⟩ baleli.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "mokolo"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "mokonzi na biso"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "bawomaki"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "bankumu"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "bosungi"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "maliva"
+    },
+    {
+      "surface": "משך",
+      "gloss": "atombolaki"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "loboko na ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baleli"
+    },
+    {
+      "surface": "לצצים",
+      "gloss": "baleli"
+    }
+  ],
+  "timestamp": "2026-09-03T20:40:23.502415163Z",
+  "model": "glm-5.3"
+}

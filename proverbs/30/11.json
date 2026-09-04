@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 30,
+  "translation": "Mokili moko, bakufelaka tata na bango, mpe ⟨את⟩ mama na bango batombolaka te.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "mokili moko"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "tata na bango"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "bakufelaka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mama na bango"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mama na bango"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "batombolaka"
+    }
+  ],
+  "timestamp": "2026-09-03T21:48:36.619859592Z",
+  "model": "glm-5.3"
+}

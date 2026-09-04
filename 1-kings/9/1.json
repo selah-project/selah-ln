@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 9:1",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Esalamaki, ntango Shelomo asilaki kotonga ⟨את⟩ ndako ya Yawe mpe ⟨את⟩ ndako ya mokonzi, mpe ⟨את⟩ mposa nyonso ya Shelomo oyo alingaki kosala.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Esalamaki"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "ntango asilaki"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "kotonga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndako ya Yawe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "ndako ya mokonzi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya mokonzi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mposa nyonso ya Shelomo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "mposa"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "alingaki"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kosala"
+    }
+  ],
+  "timestamp": "2026-09-03T18:49:22.529971463Z",
+  "model": "glm-5.3"
+}

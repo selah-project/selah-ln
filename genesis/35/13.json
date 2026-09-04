@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 35:13",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 35,
+  "translation": "Mpe Elohim amataka likolo na ye, na esika oyo alobaki ⟨את⟩ ye.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "amataka"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "likolo na ye"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "na esika"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ye",
+      "marks": "ye"
+    }
+  ],
+  "timestamp": "2026-09-03T16:04:05.658484353Z",
+  "model": "glm-5.3"
+}

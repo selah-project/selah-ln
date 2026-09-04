@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 94:17",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 94,
+  "translation": "Soki Yawe azalaki lisalisi na ngai, kaka moke mpe molimo na ngai ekandaki na bokengeli.",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "soki ... te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "lisalisi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "kaka moke"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "ekandaki"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "na bokengeli"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "molimo na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:24:16.043481868Z",
+  "model": "glm-5.3"
+}

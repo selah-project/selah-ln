@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-samuel 25:44",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Mpe Shaul apesaki ⟨את⟩ Mikal, mwana na ye mwasi, mwasi ya David, na Palati mwana ya Layish, oyo azali na Gallim.",
+  "tokens": [
+    {
+      "surface": "ושאול",
+      "gloss": "mpe Shaul"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "apesaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mikal"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikal"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "mwana na ye mwasi"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mwasi ya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לפלטי",
+      "gloss": "na Palati"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "ליש",
+      "gloss": "Layish"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "מגלים",
+      "gloss": "na Gallim"
+    }
+  ],
+  "timestamp": "2026-09-03T18:23:07.270054723Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 30:2",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 30,
+  "translation": "Mpo nazali beya koleka moto nyonso, mpe boyebi ya moto nazali na yango te.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "בער",
+      "gloss": "beya"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nazali"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "koleka moto nyonso"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe ... te"
+    },
+    {
+      "surface": "בינת",
+      "gloss": "boyebi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ya moto"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nazali na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:49:31.335839612Z",
+  "model": "glm-5.3"
+}

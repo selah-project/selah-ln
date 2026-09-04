@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 33:18",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 33,
+  "translation": "Mpe alobaki: Lakisa ngai na bolingo ⟨את⟩ nkembo na yo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "Lakisa ngai"
+    },
+    {
+      "surface": "נא",
+      "gloss": "na bolingo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkembo na yo"
+    },
+    {
+      "surface": "כבדך",
+      "gloss": "nkembo na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T16:34:26.809244290Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 33:12",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 33,
+  "translation": "Bozwa bosepeli ekolo oyo Yawe ⟨azali⟩ Elohim na yango, bato oyo aponaki lokota na ye.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Bozwa bosepeli"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "ekolo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim na yango"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "aponaki"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "lokota"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:07:50.114919013Z",
+  "model": "glm-5.3"
+}

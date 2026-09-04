@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 109:30",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 109,
+  "translation": "Nalongi Yawe mingi na monoko na ngai, mpe na kati ya b ebeli nalimbolaka ye.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "Nalongi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mingi"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "na monoko na ngai"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "mpe na kati ya"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ebeli"
+    },
+    {
+      "surface": "אהללנו",
+      "gloss": "nalimbolaka ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:29:21.119736457Z",
+  "model": "glm-5.3"
+}

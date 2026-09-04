@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 6:7",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Okotangisa yango na bana na yo mbala na mbala, mpe okanisa koloba yango ntango ozali kofanda na ndako na yo, mpe ntango ozali kolakata na nzela, mpe ntango ozali kolala, mpe ntango ozali likolo.",
+  "tokens": [
+    {
+      "surface": "ושננתם",
+      "gloss": "Okotangisa yango mbala na mbala"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "na bana na yo"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "mpe okanisa koloba"
+    },
+    {
+      "surface": "בם",
+      "gloss": "yango"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "ntango ozali kofanda"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "na ndako na yo"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "mpe ntango ozali kolakata"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "na nzela"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "mpe ntango ozali kolala"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "mpe ntango ozali likolo"
+    }
+  ],
+  "timestamp": "2026-09-03T17:24:35.956380917Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 3:20",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "mpe Hashuva, mpe Ohel, mpe Berekjah, mpe Hasadjah, Yushav-Hesed — mitanu.",
+  "tokens": [
+    {
+      "surface": "וחשבה",
+      "gloss": "mpe Hashuva"
+    },
+    {
+      "surface": "ואהל",
+      "gloss": "mpe Ohel"
+    },
+    {
+      "surface": "וברכיה",
+      "gloss": "mpe Berekjah"
+    },
+    {
+      "surface": "וחסדיה",
+      "gloss": "mpe Hasadjah"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "Yushav"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "Hesed"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "mitanu"
+    }
+  ],
+  "timestamp": "2026-09-03T22:41:28.725028947Z",
+  "model": "glm-5.3"
+}

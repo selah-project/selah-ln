@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 94,
+  "translation": "Yawe ayebi makanisi ya moto, ete bango ezali bofe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ayebi"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "makanisi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moto"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bango"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "bofe"
+    }
+  ],
+  "timestamp": "2026-09-03T21:24:07.965421074Z",
+  "model": "glm-5.3"
+}

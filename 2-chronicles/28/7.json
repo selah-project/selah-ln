@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 28:7",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 28,
+  "translation": "Mpe Zikhri, moto ya nguya ya Efrayim, abomaki ⟨את⟩ Maaseyahu mwana ya mokonzi, mpe ⟨את⟩ Azrikam mokambi ya ndako, mpe ⟨את⟩ Elkana mibale na mokonzi.",
+  "tokens": [
+    {
+      "surface": "ויהרג",
+      "gloss": "mpe abomaki"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "Zikhri"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "moto ya nguya"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ya Efrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Maaseyahu mwana ya mokonzi"
+    },
+    {
+      "surface": "מעשיהו",
+      "gloss": "Maaseyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya mokonzi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Azrikam mokambi ya ndako"
+    },
+    {
+      "surface": "עזריקם",
+      "gloss": "Azrikam"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "mokambi"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ya ndako"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Elkana mibale na mokonzi"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkana"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "na mokonzi"
+    }
+  ],
+  "timestamp": "2026-09-03T23:05:40.763059541Z",
+  "model": "glm-5.3"
+}

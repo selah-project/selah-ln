@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 24:3",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "Avira solo, mabele ekovirama; mpe kobuna solo, ekobunama; mpo ete Yawe alobaki ⟨את⟩ liloba oyo.",
+  "tokens": [
+    {
+      "surface": "הבוק",
+      "gloss": "Avira solo"
+    },
+    {
+      "surface": "תבוק",
+      "gloss": "ekovirama"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "והבוז",
+      "gloss": "mpe kobuna solo"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "ekobunama"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "liloba oyo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "liloba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    }
+  ],
+  "timestamp": "2026-09-03T19:23:15.786279470Z",
+  "model": "glm-5.3"
+}

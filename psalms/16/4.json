@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 16:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Bampasi na bango ekomata mingi, bango oyo bazali koluka noki na ⟨mosusu⟩; nakobwaka te nsemba na bango ya makila, mpe nakomema te ⟨את⟩ bankombo na bango na milosu na ngai.",
+  "tokens": [
+    {
+      "surface": "ירבו",
+      "gloss": "ekomata mingi"
+    },
+    {
+      "surface": "עצבותם",
+      "gloss": "Bampasi na bango"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "na mosusu"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "bazali koluka noki"
+    },
+    {
+      "surface": "בל",
+      "gloss": "te"
+    },
+    {
+      "surface": "אסיך",
+      "gloss": "nakobwaka te"
+    },
+    {
+      "surface": "נסכיהם",
+      "gloss": "nsemba na bango"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "ya makila"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "mpe nakomema te"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "nakomema te"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bankombo na bango"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "bankombo na bango"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "milosu na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:02:23.378490301Z",
+  "model": "glm-5.3"
+}

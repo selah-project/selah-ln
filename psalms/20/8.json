@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 20:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 20,
+  "translation": "Bangana oyo na bisikelé, mpe bangana oyo na bampaka; ⟨kasi⟩ biso, na nkombo ya Yawe Elohim na biso, tokanisi.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "bangana oyo"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "na bisikelé"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "mpe bangana oyo"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "na bampaka"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "biso"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "na nkombo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim na biso"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "tokanisi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:04:57.841571004Z",
+  "model": "glm-5.3"
+}

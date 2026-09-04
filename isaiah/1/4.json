@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 1:4",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mawa! Mboka ya masumu, bato beni na mabe, libota ya babebi, bana bobebi; bayiki ⟨את⟩ Yawe, batelemaki lokumu te na ⟨את⟩ Mozali-Mosantu ya Israel, basopolaki na nsima.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Mawa!"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "mboka"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "ya masumu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "beni"
+    },
+    {
+      "surface": "עון",
+      "gloss": "na mabe"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "libota"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "ya babebi"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bana"
+    },
+    {
+      "surface": "משחיתים",
+      "gloss": "bobebi"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "bayiki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "batelemaki lokumu te"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mozali-Mosantu ya Israel"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Mozali-Mosantu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "basopolaki"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "na nsima"
+    }
+  ],
+  "timestamp": "2026-09-03T23:25:19.193870964Z",
+  "model": "glm-5.3"
+}

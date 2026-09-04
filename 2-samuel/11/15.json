@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 11:15",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpe akomaki na mokanda boye: Botya ⟨את⟩ Uria liboso ya etumba ya makasi, mpe bozonga sima na sima na ye, mpe akokangama mpe akokufa.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "akomaki"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "na mokanda"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "boye"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "Botya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uria"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uria"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai"
+    },
+    {
+      "surface": "מול",
+      "gloss": "liboso"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ya etumba"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ya etumba"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "ya makasi"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "mpe bozonga sima"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "na sima na ye"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "mpe akokangama"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "mpe akokufa"
+    }
+  ],
+  "timestamp": "2026-09-03T18:32:41.303737511Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 17:20",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 17,
+  "translation": "Moto oyo azali na motema mabe amonaka malamu te, mpe oyo azali na monoko oyo ekobongwana akweyaka na mabe.",
+  "tokens": [
+    {
+      "surface": "עקש",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "לב",
+      "gloss": "motema"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "amonaka"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "malamu"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "mpe oyo ekobongwana"
+    },
+    {
+      "surface": "בלשונו",
+      "gloss": "na monoko na ye"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "akweyaka"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "na mabe"
+    }
+  ],
+  "timestamp": "2026-09-03T21:43:43.132260154Z",
+  "model": "glm-5.3"
+}

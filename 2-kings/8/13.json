@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 8:13",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe Hazael alobaki: Nini? Mosali na yo, mbwa, nde akomaka likambo oyo monene? Mpe Elisha alobaki: Yawe amoniselaki ngai ⟨את⟩ yo, mokonzi na Aram.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "חזהאל",
+      "gloss": "Hazael"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨ete⟩"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mosali na yo"
+    },
+    {
+      "surface": "הכלב",
+      "gloss": "mbwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨ete⟩"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "akomaka"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "likambo"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "monene"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "amoniselaki ngai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "yo mokonzi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-09-03T19:02:41.738524108Z",
+  "model": "glm-5.3"
+}

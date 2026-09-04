@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 14:18",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Bakonzi ya bikolo nyonso, na bango banso, balali na nkembo, moto na moto na ndako na ye.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "bakonzi"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ya bikolo"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "banso"
+    },
+    {
+      "surface": "שכבו",
+      "gloss": "balali"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "na nkembo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto na moto"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "na ndako na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T19:18:23.592235168Z",
+  "model": "glm-5.3"
+}

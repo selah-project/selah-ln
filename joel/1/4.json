@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 1:4",
+  "book": "joel",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Oyo etikali ya gazam, arbe aliaki, mpe oyo etikali yaarbe, yelek aliaki, mpe oyo etikali ya yelek, hasil aliaki.",
+  "tokens": [
+    {
+      "surface": "יתר",
+      "gloss": "Oyo etikali"
+    },
+    {
+      "surface": "הגזם",
+      "gloss": "gazam"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "aliaki"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "arbe"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "mpe oyo etikali"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "arbe"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "aliaki"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "yelek"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "mpe oyo etikali"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "yelek"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "aliaki"
+    },
+    {
+      "surface": "החסיל",
+      "gloss": "hasil"
+    }
+  ],
+  "timestamp": "2026-09-03T20:40:50.774128691Z",
+  "model": "glm-5.3"
+}

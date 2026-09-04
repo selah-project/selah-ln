@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "ezra 2:64",
+  "book": "ezra",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Lisangani nyonso ⟨elukamaki⟩ ⟨lokola⟩ moko: nkoto ntuku minei na mibale, nkoto mibale, mikama misato, ntuku motoba.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "Lisangani"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "⟨lokola⟩ moko"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ntuku minei na mibale"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "nkoto"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "nkoto mibale"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "misato"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "mikama"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "ntuku motoba"
+    }
+  ],
+  "timestamp": "2026-09-03T22:29:59.435691313Z",
+  "model": "glm-5.3"
+}

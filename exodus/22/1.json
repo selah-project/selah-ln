@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 22:1",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Soki mozikwi emonanaki na kopanza ndako, mpe babundi ye mpe akufaki, misting ezali te na ye.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Soki"
+    },
+    {
+      "surface": "במחתרת",
+      "gloss": "na kopanza ndako"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "emonanaki"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "mozikwi"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "mpe babundi"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "mpe akufaki"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ezali te"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "misting"
+    }
+  ],
+  "timestamp": "2026-09-03T16:26:09.136670159Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 29:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 29,
+  "translation": "Mizmore ya David. Pesa Yawe, bana ya banzambe, pesa Yawe nkembo mpe nguya.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmore"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya David"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "Pesa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ya"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "banzambe"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "pesa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "nkembo"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "mpe nguya"
+    }
+  ],
+  "timestamp": "2026-09-03T21:06:24.786296510Z",
+  "model": "glm-5.3"
+}

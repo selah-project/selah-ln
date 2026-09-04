@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 50:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 50,
+  "translation": "Yoka, bato na ngai, mpe nakoloba; Israel, mpe nakoyebisa yo: Elohim, Elohim na yo, ngai nde nazali.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "Yoka"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "bato na ngai"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "mpe nakoloba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "mpe nakoyebisa yo"
+    },
+    {
+      "surface": "בך",
+      "gloss": "yo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim na yo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ngai nde nazali"
+    }
+  ],
+  "timestamp": "2026-09-03T21:11:40.414990119Z",
+  "model": "glm-5.3"
+}

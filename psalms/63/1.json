@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 63:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 63,
+  "translation": "Nzembo ya David, tango azalaki na mpamba ya Yehuda.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Nzembo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya David"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "tango azalaki"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "na mpamba"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ya Yehuda"
+    }
+  ],
+  "timestamp": "2026-09-03T21:16:20.080071352Z",
+  "model": "glm-5.3"
+}

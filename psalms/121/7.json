@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 121:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 121,
+  "translation": "Yawe akobatela yo utaka na mabe nyonso; akobatela ⟨את⟩ molimo wa yo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ישמרך",
+      "gloss": "akobatela yo"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "utaka na"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mabe nyonso"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "akobatela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "molimo wa yo"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "molimo wa yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:33:01.693554234Z",
+  "model": "glm-5.3"
+}

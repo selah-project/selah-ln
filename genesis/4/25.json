@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 4:25",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe Adam amoni lisusu ⟨את⟩ mwanasasi na ye, mpe abotaki mwana, mpe abengaki ⟨את⟩ nkombo na ye Shet, mpo Elohim atiki na ngai mbeka mosusu na esika ya Hevel, mpamba te Kayin abomaki ye.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "amoni lisusu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lisusu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwanasasi na ye"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mwanasasi na ye"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "abotaki"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "abengaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkombo na ye"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nkombo na ye"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Shet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "שת",
+      "gloss": "atiki"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "mbeka"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "mosusu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "na esika ya"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hevel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpamba te"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "abomaki ye"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    }
+  ],
+  "timestamp": "2026-09-03T15:43:47.524106049Z",
+  "model": "glm-5.3"
+}

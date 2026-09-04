@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 3:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Bato ebele balobi na molimo na ngai ete: lobiko ezali te epai na yango, na Elohim. Selah.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Bato ebele"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "balobi"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "na molimo na ngai"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ezali te"
+    },
+    {
+      "surface": "ישועתה",
+      "gloss": "lobiko"
+    },
+    {
+      "surface": "לו",
+      "gloss": "epai na yango"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "na Elohim"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-03T20:59:54.074964998Z",
+  "model": "glm-5.3"
+}

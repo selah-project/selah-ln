@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 80:13",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 80,
+  "translation": "Mpo na nini obunduki bizipela na yango, mpe baye nyonso oyo bazali kopasa nzela bakolaka yango?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Mpo na nini"
+    },
+    {
+      "surface": "פרצת",
+      "gloss": "obunduki"
+    },
+    {
+      "surface": "גדריה",
+      "gloss": "bizipela na yango"
+    },
+    {
+      "surface": "וארוה",
+      "gloss": "mpe bakolaka yango"
+    },
+    {
+      "surface": "כל",
+      "gloss": "baye nyonso"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "bazali kopasa"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "nzela"
+    }
+  ],
+  "timestamp": "2026-09-03T21:21:11.180851734Z",
+  "model": "glm-5.3"
+}

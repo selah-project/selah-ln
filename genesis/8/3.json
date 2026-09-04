@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 8:3",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe mai ezongaki likolo ya mabele, kolonga mpe kozonga; mpe mai makitaki na nsuka ya mikolo zomi na mitano na nkama moko.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "ezongaki"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mai"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "kolonga"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "kozonga"
+    },
+    {
+      "surface": "ויחסרו",
+      "gloss": "makitaki"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mai"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "na nsuka ya"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "zomi na mitano na"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "nkama moko"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mikolo"
+    }
+  ],
+  "timestamp": "2026-09-03T15:47:44.167915704Z",
+  "model": "glm-5.3"
+}

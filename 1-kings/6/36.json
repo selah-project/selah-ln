@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-kings 6:36",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpe atongaki ⟨את⟩ libanda ya kati: mirongo misato ya mabanga ya kokata, mpe molongo moko ya bikwiya ya kokata ya bazere.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Mpe atongaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "libanda ya kati"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "libanda"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "ya kati"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "misato"
+    },
+    {
+      "surface": "טורי",
+      "gloss": "mirongo"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "ya mabanga ya kokata"
+    },
+    {
+      "surface": "וטור",
+      "gloss": "mpe molongo"
+    },
+    {
+      "surface": "כרתת",
+      "gloss": "ya bikwiya ya kokata"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "ya bazere"
+    }
+  ],
+  "timestamp": "2026-09-03T18:46:48.075755404Z",
+  "model": "glm-5.3"
+}

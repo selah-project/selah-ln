@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 20:4",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 20,
+  "translation": "Mpe mokonzi alobaki na Amasha: Benga ngai bato ya Yehuda na mikola misato; mpe yo, telama awa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasha"
+    },
+    {
+      "surface": "הזעק",
+      "gloss": "Benga"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bato ya Yehuda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bato"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ya Yehuda"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "misato"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "na mikola"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "mpe yo"
+    },
+    {
+      "surface": "פה",
+      "gloss": "awa"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "telama"
+    }
+  ],
+  "timestamp": "2026-09-03T18:39:03.473227474Z",
+  "model": "glm-5.3"
+}

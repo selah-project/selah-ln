@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 90:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 90,
+  "translation": "Na tongo etondi mpe ekitaki, na mpokwa ekatamaki mpe ekaukaki.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "na tongo"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "etondi"
+    },
+    {
+      "surface": "וחלף",
+      "gloss": "mpe ekitaki"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "na mpokwa"
+    },
+    {
+      "surface": "ימולל",
+      "gloss": "ekatamaki"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "mpe ekaukaki"
+    }
+  ],
+  "timestamp": "2026-09-03T21:24:46.724145049Z",
+  "model": "glm-5.3"
+}

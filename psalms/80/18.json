@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 80:18",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 80,
+  "translation": "⟨Ezala⟩ loboko na yo likolo ya moto ya monotoka na yo, likolo ya mwana wa Adamu oyo ozalisaki nguya mpo na yo.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "⟨ezala⟩"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "loboko na yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "monotoka na yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adamu"
+    },
+    {
+      "surface": "אמצת",
+      "gloss": "ozalisaki nguya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mpo na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:21:23.571679347Z",
+  "model": "glm-5.3"
+}

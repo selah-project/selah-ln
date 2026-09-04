@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 17:15",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 17,
+  "translation": "Mpe Moshe atolaki autelo, mpe abengaki nkombo na yango Yawe-Nisi (Yawe mombongo ya ngai).",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Mpe atolaki"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "autelo"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "mpe abengaki"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nkombo na yango"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "נסי",
+      "gloss": "Nisi"
+    }
+  ],
+  "timestamp": "2026-09-03T16:21:52.434118288Z",
+  "model": "glm-5.3"
+}

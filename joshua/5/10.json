@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 5:10",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Bana ya Israel bakangaki kaa na Gilgal, mpe basalaki ⟨את⟩ Pesa na mokolo ya zomi na minei ya sanza, na mpokwa, na bangamba ya Yericho.",
+  "tokens": [
+    {
+      "surface": "ויחנו",
+      "gloss": "mpe bakangaki kaa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "na Gilgal"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "mpe basalaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pesa"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesa"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "na zomi na"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "minei"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ya mokolo"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ya sanza"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "na mpokwa"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "na bangamba"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "ya Yericho"
+    }
+  ],
+  "timestamp": "2026-09-03T17:43:25.702935142Z",
+  "model": "glm-5.3"
+}

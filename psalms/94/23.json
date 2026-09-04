@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 94:23",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 94,
+  "translation": "Mpe azongisaki likolo na bango ⟨את⟩ mabe na bango, mpe na mabe na bango abomaki bango; abomaki bango Yawe Elohim na biso.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Mpe azongisaki"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "likolo na bango"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabe na bango"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "mabe na bango"
+    },
+    {
+      "surface": "וברעתם",
+      "gloss": "mpe na mabe na bango"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "abomaki bango"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "abomaki bango"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim na biso"
+    }
+  ],
+  "timestamp": "2026-09-03T21:23:49.959417787Z",
+  "model": "glm-5.3"
+}

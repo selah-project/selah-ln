@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 18:5",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Na Yawe Elohim ya Israel atambolisaki motema, mpe na sima na yaye azalaki te lokola yaye kati na bakonzi nyonso ya Yehuda, mpe oyo bazalaki liboso na yaye ⟨te⟩.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "Na Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "atambolisaki motema"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "mpe na sima na yaye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "היה",
+      "gloss": "azalaki"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "lokola yaye"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kati na nyonso"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ya bakonzi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "mpe oyo"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bazalaki"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "liboso na yaye"
+    }
+  ],
+  "timestamp": "2026-09-03T19:06:53.743688233Z",
+  "model": "glm-5.3"
+}

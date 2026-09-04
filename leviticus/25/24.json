@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 25:24",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Mpe na mabele nyonso ya bozwi na bino, bokopesa kosomba lisusu mpo na mabele.",
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "mpe na nyonso"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "אחזתכם",
+      "gloss": "ya bozwi na bino"
+    },
+    {
+      "surface": "גאלה",
+      "gloss": "kosomba lisusu"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "bokopesa"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "mpo na mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T16:54:35.471233049Z",
+  "model": "glm-5.3"
+}

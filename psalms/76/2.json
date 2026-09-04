@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 76:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 76,
+  "translation": "Elohim eyebani na Yehuda; nkombo na ye monene na Israel.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "eyebani"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "na Yehuda"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "na Israel"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "monene"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nkombo na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:18:50.031695075Z",
+  "model": "glm-5.3"
+}

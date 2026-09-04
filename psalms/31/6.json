@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 31:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 31,
+  "translation": "Na loboko na yo nakotia molimo na ngai; okangolaki ⟨את⟩ ngai, Yawe, El ya bosolo.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "Na loboko na yo"
+    },
+    {
+      "surface": "אפקיד",
+      "gloss": "nakotia"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "molimo na ngai"
+    },
+    {
+      "surface": "פדיתה",
+      "gloss": "okangolaki"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ ngai",
+      "marks": "ngai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ya bosolo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:07:23.609079357Z",
+  "model": "glm-5.3"
+}

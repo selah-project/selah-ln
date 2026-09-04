@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 8:31",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Nazalaki kosakana na mokili, mabele na yango; mpe masepela na ngai ezalaki na ⟨את⟩ bana ya bato.",
+  "tokens": [
+    {
+      "surface": "משחקת",
+      "gloss": "kosakana"
+    },
+    {
+      "surface": "בתבל",
+      "gloss": "na mokili"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "mabele na yango"
+    },
+    {
+      "surface": "ושעשעי",
+      "gloss": "mpe masepela na ngai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bana ya bato"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ya bato"
+    }
+  ],
+  "timestamp": "2026-09-03T21:40:13.766629661Z",
+  "model": "glm-5.3"
+}

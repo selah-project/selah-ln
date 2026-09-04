@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 22:2",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Loba epai ya Aharon mpe epai ya bana na yango, bamibatela na biloko nsantu ya bana ya Israel, mpe babebisi te ⟨את⟩ nkombo nsantu na ngai, oyo bango bazali kosantisa epai na ngai; ngai nazali Yawe.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Loba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mpe epai ya"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bana na yango"
+    },
+    {
+      "surface": "וינזרו",
+      "gloss": "mpe bamibatela"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "na biloko nsantu ya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "babebisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkombo nsantu na ngai"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nkombo"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "nsantu na ngai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "הם",
+      "gloss": "bango"
+    },
+    {
+      "surface": "מקדשים",
+      "gloss": "bazali kosantisa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "epai na ngai"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T23:15:35.415517483Z",
+  "model": "glm-5.3"
+}

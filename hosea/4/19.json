@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 4:19",
+  "book": "hosea",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpepe ekangaki ⟨את⟩ ye na mapapo na yango, mpe bakoza na nsoni na bimpo na bango.",
+  "tokens": [
+    {
+      "surface": "צרר",
+      "gloss": "ekangaki"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mpepe"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ ye",
+      "marks": "ye"
+    },
+    {
+      "surface": "בכנפיה",
+      "gloss": "na mapapo na yango"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "mpe bakoza na nsoni"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "na bimpo na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T20:36:44.224309554Z",
+  "model": "glm-5.3"
+}

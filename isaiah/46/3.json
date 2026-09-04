@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 46:3",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 46,
+  "translation": "Boyoka ngai, ndako ya Yaakov, mpe motango mobimba ya ndako ya Israel, baoyo babotamaki uta libumu, baoyo balemamaki uta tina ya libumu:",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Boyoka"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe mobimba"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "motango"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "העמסים",
+      "gloss": "baoyo babotamaki"
+    },
+    {
+      "surface": "מני",
+      "gloss": "uta"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "libumu"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "baoyo balemamaki"
+    },
+    {
+      "surface": "מני",
+      "gloss": "uta"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "tina ya libumu"
+    }
+  ],
+  "timestamp": "2026-09-03T19:32:40.955007360Z",
+  "model": "glm-5.3"
+}

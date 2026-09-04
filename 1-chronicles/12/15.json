@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 12:15",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Bango oyo ezali ya bana ya Gad, bankambi ya mampinga: moke azali moko na nkama, mpe monene na nkoto.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Bango oyo"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ya bana"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "bankambi"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "ya mampinga"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "moko"
+    },
+    {
+      "surface": "למאה",
+      "gloss": "na nkama"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "moke"
+    },
+    {
+      "surface": "והגדול",
+      "gloss": "mpe monene"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "na nkoto"
+    }
+  ],
+  "timestamp": "2026-09-03T22:46:48.768589997Z",
+  "model": "glm-5.3"
+}

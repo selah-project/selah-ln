@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 74:19",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 74,
+  "translation": "Pesa te na nyama bomoi ya nkoyu na yo; suwela te libela nyonso bomoi ya bapemi na yo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "Pesa"
+    },
+    {
+      "surface": "לחית",
+      "gloss": "na nyama"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "bomoi"
+    },
+    {
+      "surface": "תורך",
+      "gloss": "nkoyu na yo"
+    },
+    {
+      "surface": "חית",
+      "gloss": "bomoi"
+    },
+    {
+      "surface": "ענייך",
+      "gloss": "ya bapemi na yo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "suwela"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "libela nyonso"
+    }
+  ],
+  "timestamp": "2026-09-03T21:19:18.480331664Z",
+  "model": "glm-5.3"
+}

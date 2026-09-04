@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 15:2",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 15,
+  "translation": "Nguya na ngai mpe nzembo — Ya; mpe akomaki na ngai libiki. Oyo El na ngai, mpe nakopesa ye lokumu; Elohim ya tata na ngai, mpe nakokitis ye likolo.",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "Nguya na ngai"
+    },
+    {
+      "surface": "וזמרת",
+      "gloss": "mpe nzembo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mpe akomaki"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "libiki"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Oyo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El na ngai"
+    },
+    {
+      "surface": "ואנוהו",
+      "gloss": "mpe nakopesa ye lokumu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ya tata na ngai"
+    },
+    {
+      "surface": "וארממנהו",
+      "gloss": "mpe nakokitis ye likolo"
+    }
+  ],
+  "timestamp": "2026-09-03T16:21:18.300639227Z",
+  "model": "glm-5.3"
+}

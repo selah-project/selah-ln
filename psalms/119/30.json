@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 119:30",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Nzela ya bosolo nasuali, mpe mibeko na yo natyi yango liboso.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "nzela"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "bosolo"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "nasuali"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "mpe mibeko na yo"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "natyi yango liboso"
+    }
+  ],
+  "timestamp": "2026-09-03T21:31:07.563982415Z",
+  "model": "glm-5.3"
+}

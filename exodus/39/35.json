@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 39:35",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 39,
+  "translation": "⟨את⟩ sanduku ya litatoli mpe ⟨את⟩ bapoto na yango, mpe ⟨את⟩ Kaporet.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduku ya litatoli"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "sanduku"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ya litatoli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bapoto na yango"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "bapoto na yango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Kaporet"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "Kaporet"
+    }
+  ],
+  "timestamp": "2026-09-03T16:38:44.993683964Z",
+  "model": "glm-5.3"
+}

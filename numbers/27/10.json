@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 27:10",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 27,
+  "translation": "Mpe soki azali na bandeko te, bopesa ⟨את⟩ lokabo na ye na bandeko ya tata na ye.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "mpe soki"
+    },
+    {
+      "surface": "אין",
+      "gloss": "te"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "bandeko"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "bopesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lokabo na ye"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "lokabo na ye"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "na bandeko"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ya tata na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T17:17:00.687312020Z",
+  "model": "glm-5.3"
+}

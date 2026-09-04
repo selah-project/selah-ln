@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 57:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 57,
+  "translation": "Motema na ngai ⟨ezali⟩ kokanama, Elohim; motema na ngai ⟨ezali⟩ kokanama; nakoyemba mpe nakoyimbisa.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "ezali kokanama"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "motema na ngai"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "ezali kokanama"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "motema na ngai"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "nakoyemba"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "mpe nakoyimbisa"
+    }
+  ],
+  "timestamp": "2026-09-03T23:34:58.801850320Z",
+  "model": "glm-5.3"
+}

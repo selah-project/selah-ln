@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Mpe okoti o arka ⟨את⟩ litatoli oyo nakopesa yo.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "Mpe okoti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "arka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "litatoli"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "litatoli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "nakopesa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "yo"
+    }
+  ],
+  "timestamp": "2026-09-03T16:27:45.123606772Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 12:5",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Yawe akitaki na likonzilongo ya lipata, mpe atelemaki na esika ya kokota ya ohela, mpe abengaki Aharon mpe Miriam, mpe babimaki bango mibale.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "akitaki"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בְּעַמּ֣וּד",
+      "gloss": "na likonzilongo"
+    },
+    {
+      "surface": "עָנָ֔ן",
+      "gloss": "ya lipata"
+    },
+    {
+      "surface": "וַֽיַּעֲמֹ֖ד",
+      "gloss": "mpe atelemaki"
+    },
+    {
+      "surface": "פֶּ֣תַח",
+      "gloss": "na esika ya kokota"
+    },
+    {
+      "surface": "הָאֹ֑הֶל",
+      "gloss": "ya ohela"
+    },
+    {
+      "surface": "וַיִּקְרָא֙",
+      "gloss": "mpe abengaki"
+    },
+    {
+      "surface": "אַהֲרֹ֣ן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "וּמִרְיָ֔ם",
+      "gloss": "mpe Miriam"
+    },
+    {
+      "surface": "וַיֵּצְא֖וּ",
+      "gloss": "mpe babimaki"
+    },
+    {
+      "surface": "שְׁנֵיהֶֽם",
+      "gloss": "bango mibale"
+    }
+  ],
+  "timestamp": "2026-09-03T17:08:26.465093081Z",
+  "model": "glm-5.3"
+}

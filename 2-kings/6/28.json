@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 6:28",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpe mokonzi alobaki na ye: Nini ezali na yo? Mpe alobaki: Mwasi oyo alobaki na ngai: Pesa ⟨את⟩ mwana na yo mpe tolya ye lelo, mpe ⟨את⟩ mwana na ngai tolya lobi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "לה",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Nini"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ezali na yo"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mwasi"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "תני",
+      "gloss": "Pesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwana na yo"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "mwana na yo"
+    },
+    {
+      "surface": "ונאכלנו",
+      "gloss": "mpe tolya ye"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lelo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mwana na ngai"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mwana na ngai"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "tolya"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "lobi"
+    }
+  ],
+  "timestamp": "2026-09-03T19:00:14.849106620Z",
+  "model": "glm-5.3"
+}

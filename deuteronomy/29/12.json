@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 29:12",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 29,
+  "translation": "Mpo atondisa yo ⟨את⟩ mokolo oyo awe lokola ekolo na ye, mpe ye akozala Elohim na yo, ndenge alobaki na yo mpe ndenge asermaki batata na yo, na Avraham, na Yitshak, mpe na Yaakov.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "atondisa"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "yo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "mokolo oyo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "lokola ekolo"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "mpe ye"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "akozala"
+    },
+    {
+      "surface": "לך",
+      "gloss": "na yo"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ndenge"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "לך",
+      "gloss": "na yo"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "mpe ndenge"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "asermaki"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "batata na yo"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "na Avraham"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "na Yitshak"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "mpe na Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-03T17:38:23.475127922Z",
+  "model": "glm-5.3"
+}

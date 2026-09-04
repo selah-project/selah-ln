@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 120,
+  "ref": "psalms 119:120",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Monyoli na ngai ezali kotetana na bobangi na yo, mpe na bakatikati na yo nazali kobanga.",
+  "tokens": [
+    {
+      "surface": "סמר",
+      "gloss": "ezali kotetana"
+    },
+    {
+      "surface": "מפחדך",
+      "gloss": "na bobangi na yo"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "monyoli na ngai"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "mpe na bakatikati na yo"
+    },
+    {
+      "surface": "יראתי",
+      "gloss": "nazali kobanga"
+    }
+  ],
+  "timestamp": "2026-09-03T21:31:52.309553493Z",
+  "model": "glm-5.3"
+}

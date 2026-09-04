@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 34:32",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 34,
+  "translation": "Mpe na nsima ya yango, bana nyonso ya Israel bayaki pene; mpe atindaki bango ⟨את⟩ nyonso oyo Yawe alobaki elongo na ⟨את⟩ ye na ngomba ya Sinay.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "Mpe na nsima"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ya yango"
+    },
+    {
+      "surface": "נגשו",
+      "gloss": "bayaki pene"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "ויצום",
+      "gloss": "mpe atindaki bango"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "elongo na ⟨את⟩ ye"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "na ngomba ya"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinay"
+    }
+  ],
+  "timestamp": "2026-09-03T16:34:02.997800284Z",
+  "model": "glm-5.3"
+}

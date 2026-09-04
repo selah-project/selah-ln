@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "habakkuk 3:9",
+  "book": "habakkuk",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Lilanga ya lipa na yo emonanaki monene, bilaka ya bankonzi ⟨ezali⟩ liloba. Sela. Na ebale okabaki mabele.",
+  "tokens": [
+    {
+      "surface": "עריה",
+      "gloss": "lilanga"
+    },
+    {
+      "surface": "תעור",
+      "gloss": "emonanaki"
+    },
+    {
+      "surface": "קשתך",
+      "gloss": "lipa na yo"
+    },
+    {
+      "surface": "שבעות",
+      "gloss": "bilaka"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "ya bankonzi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "liloba"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "na ebale"
+    },
+    {
+      "surface": "תבקע",
+      "gloss": "okabaki"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T20:52:53.442490512Z",
+  "model": "glm-5.3"
+}

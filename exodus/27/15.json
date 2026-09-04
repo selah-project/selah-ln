@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 27:15",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 27,
+  "translation": "Mpe na ketufe ya mibale, zomi na mitano ekangi bilamba; bamatangi na bango misato, mpe matelo na bango misato.",
+  "tokens": [
+    {
+      "surface": "וְלַכָּתֵ֤ף",
+      "gloss": "mpe na ketufe"
+    },
+    {
+      "surface": "הַשֵּׁנִ֙ית֙",
+      "gloss": "ya mibale"
+    },
+    {
+      "surface": "חֲמֵ֥שׁ",
+      "gloss": "zomi na mitano"
+    },
+    {
+      "surface": "עֶשְׂרֵ֖ה",
+      "gloss": ""
+    },
+    {
+      "surface": "קְלָעִ֣ים",
+      "gloss": "bilamba"
+    },
+    {
+      "surface": "עַמֻּדֵיהֶ֣ם",
+      "gloss": "bamatangi na bango"
+    },
+    {
+      "surface": "שְׁלֹשָׁ֔ה",
+      "gloss": "misato"
+    },
+    {
+      "surface": "וְאַדְנֵיהֶ֖ם",
+      "gloss": "mpe matelo na bango"
+    },
+    {
+      "surface": "שְׁלֹשָׁ֖ה",
+      "gloss": "misato"
+    }
+  ],
+  "timestamp": "2026-09-03T23:14:04.538037745Z",
+  "model": "glm-5.3"
+}

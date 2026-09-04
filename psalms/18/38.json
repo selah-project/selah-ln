@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 18:38",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Nakolanda banguna na ngai mpe nakosanga bango, mpe nakozonga te kino bakisama.",
+  "tokens": [
+    {
+      "surface": "ארדוף",
+      "gloss": "nakolanda"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "banguna na ngai"
+    },
+    {
+      "surface": "ואשיגם",
+      "gloss": "mpe nakosanga bango"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe ... te"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "nakozonga"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "bakisama"
+    }
+  ],
+  "timestamp": "2026-09-03T21:03:41.649686621Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 13:13",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Mpe David abungisaki te ⟨את⟩ sanduku epai na ye, na engumba ya David; ayingelaki yango na ndako ya Obed-Edom wa Gati.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "te"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "abungisaki"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduku"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "sanduku"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "epai na ye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "engumba"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ya David"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "mpe ayingelaki yango"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Obed"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "wa Gati"
+    }
+  ],
+  "timestamp": "2026-09-03T22:45:39.743003058Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 104:32",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 104,
+  "translation": "Oyo atali mabele, mpe mabele etetanaka; asukaka na bangomba, mpe bimonisaka moyi.",
+  "tokens": [
+    {
+      "surface": "המביט",
+      "gloss": "oyo atali"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "ותרעד",
+      "gloss": "mpe etetanaka"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "asukaka"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "na bangomba"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "mpe bimonisaka moyi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:27:12.908535009Z",
+  "model": "glm-5.3"
+}

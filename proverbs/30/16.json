@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 30:16",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 30,
+  "translation": "Sheol, mpe libumu ekangi, mpe mabele etondi te na mai, mpe moto elobi te: Ese.",
+  "tokens": [
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "ועצר",
+      "gloss": "mpe ekangi"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "libumu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "etondi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "na mai"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "mpe moto"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "elobi"
+    },
+    {
+      "surface": "הון",
+      "gloss": "Ese"
+    }
+  ],
+  "timestamp": "2026-09-03T21:49:23.601304335Z",
+  "model": "glm-5.3"
+}

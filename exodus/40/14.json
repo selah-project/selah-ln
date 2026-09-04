@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 40:14",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 40,
+  "translation": "Mpe okoyela ⟨את⟩ bana baye, mpe okokingisa ⟨את⟩ bango na makutonot.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Mpe okoyela ⟨את⟩",
+      "marks": "bana baye"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bana baye"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "okoyela"
+    },
+    {
+      "surface": "והלבשת",
+      "gloss": "mpe okokingisa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bango",
+      "marks": "bango"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "na makutonot"
+    }
+  ],
+  "timestamp": "2026-09-03T16:38:59.221059499Z",
+  "model": "glm-5.3"
+}

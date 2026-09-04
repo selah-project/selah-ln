@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 116:16",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 116,
+  "translation": "Yo, Yawe, mpo ngai nazali mosali na yo; ngai nazali mosali na yo, mwana ya mosali mwasi na yo; oyoli mbindi na ngai.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "nazali mosali na yo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "nazali mosali na yo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "ya mosali mwasi na yo"
+    },
+    {
+      "surface": "פתחת",
+      "gloss": "oyoli"
+    },
+    {
+      "surface": "למוסרי",
+      "gloss": "mbindi na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:30:32.473191264Z",
+  "model": "glm-5.3"
+}

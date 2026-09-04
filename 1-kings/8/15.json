@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 8:15",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe alobaki: Yawe, Elohim ya Israel, azali wa matoya, oyo alobaki na monoko na ye ⟨את⟩ na David tata na ngai, mpe na maboko na ye amakisaki yango, alobaki ete:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "azali wa matoya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "na monoko na ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David tata na ngai"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tata na ngai"
+    },
+    {
+      "surface": "ובידו",
+      "gloss": "mpe na maboko na ye"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "amakisaki yango"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "alobaki ete"
+    }
+  ],
+  "timestamp": "2026-09-03T18:48:38.137773189Z",
+  "model": "glm-5.3"
+}

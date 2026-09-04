@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 17:8",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 17,
+  "translation": "Mpe Moshe mpe Aharon bakendaki liboso ya hema ya bokutani.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "bakendaki"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "mpe Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "פני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "hema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya bokutani"
+    }
+  ],
+  "timestamp": "2026-09-03T17:09:24.540485864Z",
+  "model": "glm-5.3"
+}

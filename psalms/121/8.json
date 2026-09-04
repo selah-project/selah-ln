@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 121:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 121,
+  "translation": "Yawe akobatela bokende wa yo mpe koya na yo, kutano mpe kino na elibela.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "akobatela"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "bokende wa yo"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "mpe koya na yo"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "kutano"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "mpe kino"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "na elibela"
+    }
+  ],
+  "timestamp": "2026-09-03T21:33:01.693690506Z",
+  "model": "glm-5.3"
+}

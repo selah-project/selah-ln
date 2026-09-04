@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 20:12",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 20,
+  "translation": "Mpe pe solo ye azali ndeko na ngai ya mwasi, mwana ya tata na ngai, kasi ⟨ezali⟩ te mwana ya mama na ngai; mpe abekaki na ngai mwasi.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Mpe pe"
+    },
+    {
+      "surface": "אמנה",
+      "gloss": "solo"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "ndeko na ngai ya mwasi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana ya"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tata na ngai"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ye"
+    },
+    {
+      "surface": "אך",
+      "gloss": "kasi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana ya"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mama na ngai"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "mpe abekaki"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "mwasi"
+    }
+  ],
+  "timestamp": "2026-09-03T15:54:03.303250682Z",
+  "model": "glm-5.3"
+}

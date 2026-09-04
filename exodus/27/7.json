@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 27:7",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 27,
+  "translation": "Mpe bakokotisa ⟨את⟩ banzekete yango na minsanne, mpe banzekete bikokala likolo ya mipanzi mibale ya autel, ntango bakombata ⟨את⟩ yango.",
+  "tokens": [
+    {
+      "surface": "והובא",
+      "gloss": "mpe bakokotisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "banzekete yango"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "banzekete yango"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "na minsanne"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "mpe bikokala"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "banzekete"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "mipanzi"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "autel"
+    },
+    {
+      "surface": "בשאת",
+      "gloss": "ntango bakombata"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:28:04.025878532Z",
+  "model": "glm-5.3"
+}

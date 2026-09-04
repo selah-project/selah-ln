@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 28:2",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 28,
+  "translation": "Mpe okosala bilamba ya bondimi mpo na Aharon ndeko yo, mpo na nkembo mpe mpo na kitoko.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Mpe okosala"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "bilamba"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ya bondimi"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "mpo na Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ndeko yo"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "mpo na nkembo"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "mpe mpo na kitoko"
+    }
+  ],
+  "timestamp": "2026-09-03T16:28:49.575449962Z",
+  "model": "glm-5.3"
+}

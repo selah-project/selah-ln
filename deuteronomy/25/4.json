@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 25:4",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Okokangisa te ngombe na kobeta ngoyo na ye.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תחסם",
+      "gloss": "okokangisa"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ngombe"
+    },
+    {
+      "surface": "בדישו",
+      "gloss": "na kobeta ngoyo na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T17:35:34.975489867Z",
+  "model": "glm-5.3"
+}

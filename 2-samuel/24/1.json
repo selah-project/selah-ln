@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 24:1",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "Mpe colère ya Yawe ebakisaki lisusu kokanda na Israel, mpe Yawe asakolaki ⟨את⟩ David na bango, koloba: cela, kanga motango ya ⟨את⟩ Israel mpe ⟨את⟩ Yuda.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "ebakisaki lisusu"
+    },
+    {
+      "surface": "אף",
+      "gloss": "colère"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לחרות",
+      "gloss": "kokanda na"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "na Israel"
+    },
+    {
+      "surface": "ויסת",
+      "gloss": "asakolaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "koloba"
+    },
+    {
+      "surface": "לך",
+      "gloss": "cela"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "kanga motango ya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Yuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    }
+  ],
+  "timestamp": "2026-09-03T18:42:02.866694927Z",
+  "model": "glm-5.3"
+}

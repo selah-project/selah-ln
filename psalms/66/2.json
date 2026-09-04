@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 66:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 66,
+  "translation": "Bozemba nkembo ya nkombo na ye; botiya nkembo na losambo na ye.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Bozemba"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "nkembo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nkombo na ye"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "botiya"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "nkembo"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "losambo na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:15:36.081721204Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 15:16",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 15,
+  "translation": "Mpe mokonzi abimaki, mpe ndako na ye nyonso na makolo na ye; mpe mokonzi atikaki ⟨את⟩ basi zomi, bapilageshi, mpo na kobatela ndako.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Mpe abimaki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe ... nyonso"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ndako na ye"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "na makolo na ye"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "mpe atikaki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "basi zomi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "zomi"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "basi"
+    },
+    {
+      "surface": "פלגשים",
+      "gloss": "bapilageshi"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "mpo na kobatela"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ndako"
+    }
+  ],
+  "timestamp": "2026-09-03T18:35:06.848149209Z",
+  "model": "glm-5.3"
+}

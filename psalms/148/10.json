@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 148:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 148,
+  "translation": "Banyama ya mbengu mpe banyama ya ndako nyonso, binyama ya komimwela nsé mpe bandeke ya mapapo.",
+  "tokens": [
+    {
+      "surface": "החיה",
+      "gloss": "banyama ya mbengu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe nyonso"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "banyama ya ndako"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "binyama ya komimwela nsé"
+    },
+    {
+      "surface": "וצפור",
+      "gloss": "mpe bandeke"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "ya mapapo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:36:18.071527723Z",
+  "model": "glm-5.3"
+}

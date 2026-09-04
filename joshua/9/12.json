@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 9:12",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Oyo mopannde na biso, ya molili totyaki ⟨את⟩ yango uta na bandako na biso, na mokolo bokendi na biso mpo na kokende epai na bino; mpe sikoyo talá, ememi, mpe ekomi bikuku.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Oyo"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "mopannde na biso"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ya molili"
+    },
+    {
+      "surface": "הצטידנו",
+      "gloss": "totyaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yango",
+      "marks": "yango (mopannde na biso)"
+    },
+    {
+      "surface": "מבתינו",
+      "gloss": "uta na bandako na biso"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na mokolo"
+    },
+    {
+      "surface": "צאתנו",
+      "gloss": "bokendi na biso"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "mpo na kokende"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "epai na bino"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "mpe sikoyo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "talá"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "ememi"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "mpe ekomi"
+    },
+    {
+      "surface": "נקדים",
+      "gloss": "bikuku"
+    }
+  ],
+  "timestamp": "2026-09-03T17:46:06.312237093Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 3:7",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe Yawe alobaki: Namoni penza ⟨את⟩ mawa ya bato na ngai oyo bazali na Mitsraim; mpe ⟨את⟩ bondengele na bango namoyoki, ewutaki na babomi-nguya na bango; mpo nayebi ⟨את⟩ mpasi na bango.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "penza"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "namoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mawa ya bato na ngai"
+    },
+    {
+      "surface": "עני",
+      "gloss": "mawa"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ya bato na ngai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "bazali na Mitsraim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bondengele na bango"
+    },
+    {
+      "surface": "צעקתם",
+      "gloss": "bondengele na bango"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "namoyoki"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ewutaki na"
+    },
+    {
+      "surface": "נגשיו",
+      "gloss": "babomi-nguya na bango"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "nayebi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mpasi na bango"
+    },
+    {
+      "surface": "מכאביו",
+      "gloss": "mpasi na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:14:15.679111978Z",
+  "model": "glm-5.3"
+}

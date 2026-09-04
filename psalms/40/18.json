@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 40:18",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 40,
+  "translation": "Mpe ngai nazali moto ya mawa mpe mobola; Adonai akokanisa ngai. Yo nde lisalisi na ngai mpe mobiki na ngai, Elohim na ngai; kozela te.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "mpe ngai"
+    },
+    {
+      "surface": "עני",
+      "gloss": "moto ya mawa"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "mpe mobola"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "akokanisa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "lisalisi na ngai"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "mpe mobiki na ngai"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim na ngai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "kozela"
+    }
+  ],
+  "timestamp": "2026-09-03T21:09:46.009582386Z",
+  "model": "glm-5.3"
+}

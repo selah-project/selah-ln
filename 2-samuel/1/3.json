@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 1:3",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "David alobaki ye: \"Utaka wapi oyei?\" Mpe alobaki epai na ye: \"Utaka lipanzi ya Israel namalaki.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אי",
+      "gloss": "wapi"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "utaka"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "oyei"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "epai na ye"
+    },
+    {
+      "surface": "ממחנה",
+      "gloss": "utaka lipanzi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "נמלטתי",
+      "gloss": "namalaki"
+    }
+  ],
+  "timestamp": "2026-09-03T23:21:57.175818968Z",
+  "model": "glm-5.3"
+}

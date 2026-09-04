@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 133:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 133,
+  "translation": "Lokola mafuta ya malamu oyo ekiti na motó, ekita na missapi, missapi ya Aharon, oyo ekita na nkingo ya bilamba na ye.",
+  "tokens": [
+    {
+      "surface": "כשמן",
+      "gloss": "Lokola mafuta"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "ya malamu"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "motó"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ekiti"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "missapi"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "missapi"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "oyo ekita"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "פי",
+      "gloss": "nkingo"
+    },
+    {
+      "surface": "מדותיו",
+      "gloss": "ya bilamba na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T23:35:52.368433395Z",
+  "model": "glm-5.3"
+}

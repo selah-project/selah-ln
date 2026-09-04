@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 119:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Esengo ezali na bato ya bosembo na nzela, bato oyo batambolaka na Tora ya Yawe.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "esengo"
+    },
+    {
+      "surface": "תמימי",
+      "gloss": "bato ya bosembo"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "na nzela"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "batambolaka"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "na Tora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T21:30:57.710488865Z",
+  "model": "glm-5.3"
+}

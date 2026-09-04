@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 78:65",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 78,
+  "translation": "Mpe Adonai atombaki ndenge moto alali, lokola mobwakani oyo azali kobela na mabindo ya vino.",
+  "tokens": [
+    {
+      "surface": "ויקץ",
+      "gloss": "atombaki"
+    },
+    {
+      "surface": "כישן",
+      "gloss": "ndenge moto alali"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "lokola mobwakani"
+    },
+    {
+      "surface": "מתרונן",
+      "gloss": "oyo azali kobela"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "na mabindo ya vino"
+    }
+  ],
+  "timestamp": "2026-09-03T21:19:59.187693977Z",
+  "model": "glm-5.3"
+}

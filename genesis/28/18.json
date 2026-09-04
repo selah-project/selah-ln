@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 28:18",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 28,
+  "translation": "Yaakov asemwaki tongo, mpe akangaki ⟨את⟩ libanga oyo atyaki na likolo ya motó na yango, mpe atyaki ⟨את⟩ yango lokola likonzi, mpe akundolaki mafuta na likolo na yango.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "asemwaki tongo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "tongo"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "mpe akangaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "libanga"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "libanga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "atyaki"
+    },
+    {
+      "surface": "מראשתיו",
+      "gloss": "na likolo ya motó na yango"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "mpe atyaki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "likonzi"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "likonzi"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "mpe akundolaki"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "על",
+      "gloss": "na likolo"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T15:59:54.023387347Z",
+  "model": "glm-5.3"
+}

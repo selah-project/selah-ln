@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 26:4",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "Mpe nakopesa mbula ya bino na ntango na yango, mpe mabele ekopesa bonjisi na yango, mpe nzete ya esobe ekopesa bumeli na yango.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "mpe nakopesa"
+    },
+    {
+      "surface": "גשמיכם",
+      "gloss": "mbula ya bino"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "na ntango na yango"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "mpe ekopesa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "bonjisi na yango"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "mpe nzete"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ya esobe"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "akopesa"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "bumeli na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:56:02.193589864Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 19:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Mibeko ya Yawe ezali ya lokoto, esalisi motema kosepela; malako ya Yawe ezali mokei, epesi poleli na miso.",
+  "tokens": [
+    {
+      "surface": "פקודי",
+      "gloss": "mibeko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "ya lokoto"
+    },
+    {
+      "surface": "משמחי",
+      "gloss": "esalisi kosepela"
+    },
+    {
+      "surface": "לב",
+      "gloss": "motema"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "malako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "mokei"
+    },
+    {
+      "surface": "מאירת",
+      "gloss": "epesi poleli"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "miso"
+    }
+  ],
+  "timestamp": "2026-09-03T21:04:06.908144771Z",
+  "model": "glm-5.3"
+}

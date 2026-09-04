@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 33:10",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 33,
+  "translation": "Mpe bato banso bamonaki ⟨את⟩ etiangala ya lipata etelemi na monyoko ya lihela, mpe bato banso bamibwakaki, balambaki moto na moto na monyoko ya ndako na ye.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "Mpe ... bamonaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "banso"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "etiangala"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "etiangala"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "ya lipata"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "etelemi"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "na monyoko"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "ya lihela"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "mpe bamibwakaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "banso"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "balambaki"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto na moto"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "na monyoko"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "ya ndako na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T16:35:07.940781937Z",
+  "model": "glm-5.3"
+}

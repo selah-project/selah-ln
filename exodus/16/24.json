@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 16:24",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Mpe batikaki yango ⟨את⟩ tee na tongo, lokola Moshe atindaki; mpe ebungisamaki te, mpe libenga te ezalaki na yango.",
+  "tokens": [
+    {
+      "surface": "ויניחו",
+      "gloss": "Mpe batikaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yango"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tee na"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "tongo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "lokola"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "atindaki"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "הבאיש",
+      "gloss": "ebungisamaki"
+    },
+    {
+      "surface": "ורמה",
+      "gloss": "mpe libenga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ezalaki"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:22:30.915836404Z",
+  "model": "glm-5.3"
+}

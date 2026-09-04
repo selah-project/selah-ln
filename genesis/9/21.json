@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 9:21",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Mpe ameli vai ya divai mpe amasaraki, mpe afundolaki ye momo na kati ya tente na yango.",
+  "tokens": [
+    {
+      "surface": "וישת",
+      "gloss": "ameli"
+    },
+    {
+      "surface": "מן",
+      "gloss": "vai ya"
+    },
+    {
+      "surface": "היין",
+      "gloss": "divai"
+    },
+    {
+      "surface": "וישכר",
+      "gloss": "mpe amasaraki"
+    },
+    {
+      "surface": "ויתגל",
+      "gloss": "mpe afundolaki ye moko"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "na kati ya"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "tente na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T15:47:05.744114935Z",
+  "model": "glm-5.3"
+}

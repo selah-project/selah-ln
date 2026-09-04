@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 6:3",
+  "book": "hosea",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpe toyeba, tokozala na boluki mpo na koyeba ⟨את⟩ Yawe; bimo na ye ezali sikisiki lokola eleko ya ntongo, mpe akoya epai na biso lokola mbula, lokola mbula ya nsuka ezali konoka mabele.",
+  "tokens": [
+    {
+      "surface": "ונדעה",
+      "gloss": "Mpe toyeba"
+    },
+    {
+      "surface": "נרדפה",
+      "gloss": "tokozala na boluki"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "mpo na koyeba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כשחר",
+      "gloss": "lokola eleko ya ntongo"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "ezali sikisiki"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "bimo na ye"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "mpe akoya"
+    },
+    {
+      "surface": "כגשם",
+      "gloss": "lokola mbula"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "epai na biso"
+    },
+    {
+      "surface": "כמלקוש",
+      "gloss": "lokola mbula ya nsuka"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "ezali konoka"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T20:37:44.959295060Z",
+  "model": "glm-5.3"
+}

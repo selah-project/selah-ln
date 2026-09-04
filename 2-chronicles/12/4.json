@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 12:4",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Mpe azwaki ⟨את⟩ bimenga bya makasi oyo ezalaki ya Yuda, mpe ayaki kino na Yerushalaim.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "Mpe azwaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bimenga"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "bimenga"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "bya makasi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "ya Yuda"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "mpe ayaki"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino na"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-09-03T22:58:24.686907750Z",
+  "model": "glm-5.3"
+}

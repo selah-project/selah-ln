@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 15:40",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 15,
+  "translation": "Mpo na bokanisaka mpe bosalaka ⟨את⟩ mibeko naysonso na ngai, mpe bokokama bamosantu na Elohim na bango.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "mpo na"
+    },
+    {
+      "surface": "תזכרו",
+      "gloss": "bokanisaka"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "mpe bosalaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mibeko naysonso na ngai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "mibeko na ngai"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "mpe bokokama"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "bamosantu"
+    },
+    {
+      "surface": "לאלהיכם",
+      "gloss": "na Elohim na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T17:09:53.572918515Z",
+  "model": "glm-5.3"
+}

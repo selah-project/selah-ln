@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 60:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 60,
+  "translation": "Elohim, oyebisi biso libanda, obukisi biso, okandaki — kozonga epai na biso!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "oyebisi biso libanda"
+    },
+    {
+      "surface": "פרצתנו",
+      "gloss": "obukisi biso"
+    },
+    {
+      "surface": "אנפת",
+      "gloss": "okandaki"
+    },
+    {
+      "surface": "תשובב",
+      "gloss": "kozonga"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "epai na biso"
+    }
+  ],
+  "timestamp": "2026-09-03T21:15:29.421422473Z",
+  "model": "glm-5.3"
+}

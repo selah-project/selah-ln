@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 11:3",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpe azalaki na basi, basi ya bankonzi, nkama sambo, mpe bapinga nkama misato; mpe basi na ye batololaki ⟨את⟩ motema na ye.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mpe azalaki na"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "basi"
+    },
+    {
+      "surface": "שרות",
+      "gloss": "basi ya bankonzi"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sambo"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "nkama"
+    },
+    {
+      "surface": "ופלגשים",
+      "gloss": "mpe bapinga"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "misato"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "nkama"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "batololaki"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "basi na ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motema na ye"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "motema na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T18:52:01.814439092Z",
+  "model": "glm-5.3"
+}

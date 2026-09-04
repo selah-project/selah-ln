@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 7:24",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mpe mafuta ya nzombo, mpe mafuta ya oyo bakangaki bongo na yango, esalelami na mosala nyonso; kolia bokolia yango te penza.",
+  "tokens": [
+    {
+      "surface": "וחלב",
+      "gloss": "Mpe mafuta"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "ya nzombo"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "mpe mafuta"
+    },
+    {
+      "surface": "טרפה",
+      "gloss": "ya oyo bakangaki"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "esalelami"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "na nyonso"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "mosala"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "kolia"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te penza"
+    },
+    {
+      "surface": "תאכלהו",
+      "gloss": "bokolia yango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:40:55.454391977Z",
+  "model": "glm-5.3"
+}

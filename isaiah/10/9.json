@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 10:9",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Soki te lokola Karkemish Calno; soki te lokola Arpad Hamath; soki te lokola Damashek Shomeron?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "soki te"
+    },
+    {
+      "surface": "ככרכמיש",
+      "gloss": "lokola Karkemish"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "Calno"
+    },
+    {
+      "surface": "אם",
+      "gloss": "soki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "כארפד",
+      "gloss": "lokola Arpad"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamath"
+    },
+    {
+      "surface": "אם",
+      "gloss": "soki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "כדמשק",
+      "gloss": "lokola Damashek"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    }
+  ],
+  "timestamp": "2026-09-03T19:16:42.160043762Z",
+  "model": "glm-5.3"
+}

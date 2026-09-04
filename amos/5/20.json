@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "amos 5:20",
+  "book": "amos",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Mokolo ya Yawe, ezali moke te mpe polele? Ezali dungili mpe bongengi te na yango?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ezali ... te"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "moke"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mokolo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yawe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "אור",
+      "gloss": "polele"
+    },
+    {
+      "surface": "ואפל",
+      "gloss": "mpe dungili"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "נגה",
+      "gloss": "bongengi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T20:45:08.289859409Z",
+  "model": "glm-5.3"
+}

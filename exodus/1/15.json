@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 1:15",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe mokonzi ya Mitsraim alobaki na basalisi ya mbota bahebri — oyo kombo ya moko ezalaki Shifra, mpe kombo ya mibale Pua.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "na basalisi ya mbota"
+    },
+    {
+      "surface": "העבריות",
+      "gloss": "bahebri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kombo"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ya moko"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "Shifra"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "mpe kombo"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ya mibale"
+    },
+    {
+      "surface": "פועה",
+      "gloss": "Pua"
+    }
+  ],
+  "timestamp": "2026-09-03T16:13:13.422875995Z",
+  "model": "glm-5.3"
+}

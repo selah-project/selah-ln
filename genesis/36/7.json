@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 36:7",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 36,
+  "translation": "Mpo ete biloko na bango ezalaki monene ⟨koleka⟩ kofanda elongo, mpe mboka ya boyei na bango ekokaki te komeka ⟨את⟩ bango mpo na banyama na bango.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo ete"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ezalaki"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "biloko na bango"
+    },
+    {
+      "surface": "רב",
+      "gloss": "monene"
+    },
+    {
+      "surface": "משבת",
+      "gloss": "kofanda"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "elongo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "יכלה",
+      "gloss": "ekokaki"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mboka"
+    },
+    {
+      "surface": "מגוריהם",
+      "gloss": "ya boyei na bango"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "komeka"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bango",
+      "marks": "bango"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "mpo na"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "banyama na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:03:51.141622780Z",
+  "model": "glm-5.3"
+}

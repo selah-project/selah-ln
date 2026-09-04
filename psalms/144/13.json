@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 144:13",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 144,
+  "translation": "Madire na biso mazali mokongo, mpezami biloko ya lolenge nyonso; bikuku na biso bizali kobota nkote, nkote zomi na mibe na bizenga na biso.",
+  "tokens": [
+    {
+      "surface": "מזוינו",
+      "gloss": "madire na biso"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "mazali mokongo"
+    },
+    {
+      "surface": "מפיקים",
+      "gloss": "mpezami"
+    },
+    {
+      "surface": "מזן",
+      "gloss": "biloko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kino"
+    },
+    {
+      "surface": "זן",
+      "gloss": "lolenge"
+    },
+    {
+      "surface": "צאוננו",
+      "gloss": "bikuku na biso"
+    },
+    {
+      "surface": "מאליפות",
+      "gloss": "bizali kobota nkote"
+    },
+    {
+      "surface": "מרבבות",
+      "gloss": "nkote zomi na mibe"
+    },
+    {
+      "surface": "בחוצותינו",
+      "gloss": "na bizenga na biso"
+    }
+  ],
+  "timestamp": "2026-09-03T21:36:03.114223192Z",
+  "model": "glm-5.3"
+}

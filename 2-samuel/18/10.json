@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 18:10",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Mpe moto moko amonaki yango, mpe atolakaki na Yoav, alobaki: Tala, namoni ⟨את⟩ Avshalom akangisami na elah.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "mpe amonaki"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "moko"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "mpe atolakaki"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "na Yoav"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tala"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "namoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avshalom"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "תלוי",
+      "gloss": "akangisami"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "na elah"
+    }
+  ],
+  "timestamp": "2026-09-03T18:37:17.492615359Z",
+  "model": "glm-5.3"
+}

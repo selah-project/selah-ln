@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 25:22",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Mpe ⟨את⟩ bakonzi nyonso ya Tsor, mpe ⟨את⟩ bakonzi nyonso ya Tsidon, mpe ⟨את⟩ bakonzi ya lilwa, oyo ezali na nsima ya mai.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bakonzi nyonso ya Tsor"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "bakonzi"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ya Tsor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bakonzi nyonso ya Tsidon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "bakonzi"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "ya Tsidon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bakonzi ya lilwa"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "bakonzi"
+    },
+    {
+      "surface": "האי",
+      "gloss": "ya lilwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "na nsima"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ya mai"
+    }
+  ],
+  "timestamp": "2026-09-03T19:52:45.027464670Z",
+  "model": "glm-5.3"
+}

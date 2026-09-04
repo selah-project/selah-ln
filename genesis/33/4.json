@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 33:4",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 33,
+  "translation": "Esav abengaki kokutana na ye, mpe akangaki ye na maboku, mpe akweyaki epai ya kingo na ye, mpe abesi ye, mpe balilaki.",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "abengaki"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "kokutana na ye"
+    },
+    {
+      "surface": "ויחבקהו",
+      "gloss": "akangaki ye na maboku"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "akweyaki"
+    },
+    {
+      "surface": "על",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "צוארו",
+      "gloss": "kingo na ye"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "abesi ye"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "balilaki"
+    }
+  ],
+  "timestamp": "2026-09-03T16:02:50.652881093Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 22:42",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Yehoshaphat azalaki na mbula ntuku misato na mitano ntango azwaki bokonzi, mpe amekaki bokonzi na Yerushalaim mbula ntuku mibale na mitano; mpe kombo ya mama na ye Azuba, mwana mwasi ya Shilhi.",
+  "tokens": [
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshaphat"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana (na mbula)"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ntuku misato"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "na mitano"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mbula"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "ntango azwaki bokonzi"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "mpe ntuku mibale"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "na mitano"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mbula"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "amekaki bokonzi"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "na Yerushalaim"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "mpe kombo"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ya mama na ye"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "Azuba"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana mwasi"
+    },
+    {
+      "surface": "שלחי",
+      "gloss": "ya Shilhi"
+    }
+  ],
+  "timestamp": "2026-09-03T18:57:48.851719826Z",
+  "model": "glm-5.3"
+}

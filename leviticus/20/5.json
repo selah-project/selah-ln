@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 20:5",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 20,
+  "translation": "Mpe ngai nakotya ⟨את⟩ elongi na ngai likolo ya moto yango mpe libota na ye, mpe nakolongola ⟨את⟩ ye mpe ⟨את⟩ banso baye bazali kosala bosato na nsima na ye, mpo na kosala bosato na nsima ya Molok, kati na bato na bango.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "nakotya"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elongi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "elongi"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "na moto"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yango"
+    },
+    {
+      "surface": "ובמשפחתו",
+      "gloss": "mpe na libota na ye"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "mpe nakolongola"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ye",
+      "marks": "ye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "banso"
+    },
+    {
+      "surface": "הזנים",
+      "gloss": "baye bazali kosala bosato"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "na nsima na ye"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "mpo na kosala bosato"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "na nsima ya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Molok"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "kati na"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "bato na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:52:30.476647868Z",
+  "model": "glm-5.3"
+}

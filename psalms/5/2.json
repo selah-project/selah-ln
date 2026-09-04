@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 5:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Maloba na ngai, Yawe, kanga matoyi ⟨na yango⟩; yoka malamu monji na ngai.",
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "maloba na ngai"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "kanga matoyi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "yoka malamu"
+    },
+    {
+      "surface": "הגיגי",
+      "gloss": "monji na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:00:04.492133833Z",
+  "model": "glm-5.3"
+}

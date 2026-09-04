@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 25:13",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Mpe bango bankombo ya bana ya Yishmael, na bankombo na bango, na mboto na bango: ya liboso ya Yishmael Nevayot, mpe Kedar, mpe Adbel, mpe Mibsham.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "mpe bango"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "bankombo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ya"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yishmael"
+    },
+    {
+      "surface": "בשמתם",
+      "gloss": "na bankombo na bango"
+    },
+    {
+      "surface": "לתולדתם",
+      "gloss": "na mboto na bango"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "ya liboso"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "ya Yishmael"
+    },
+    {
+      "surface": "נבית",
+      "gloss": "Nevayot"
+    },
+    {
+      "surface": "וקדר",
+      "gloss": "mpe Kedar"
+    },
+    {
+      "surface": "ואדבאל",
+      "gloss": "mpe Adbel"
+    },
+    {
+      "surface": "ומבשם",
+      "gloss": "mpe Mibsham"
+    }
+  ],
+  "timestamp": "2026-09-03T15:56:46.888453541Z",
+  "model": "glm-5.3"
+}

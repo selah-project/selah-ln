@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 23:16",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Mpe Yehonatan mwana wa Shaul atomboki mpe akendaki epai ya David na Horesha, mpe akangaki makasi ⟨את⟩ mokono na ye na Elohim.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "atomboki"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "wa Shaul"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "mpe akendaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "חרשה",
+      "gloss": "na Horesha"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "mpe akangaki makasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mokono na ye"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "mokono na ye"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "na Elohim"
+    }
+  ],
+  "timestamp": "2026-09-03T18:21:05.682200149Z",
+  "model": "glm-5.3"
+}

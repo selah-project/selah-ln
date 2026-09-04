@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 137:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 137,
+  "translation": "Yakanisa, Yawe, bana ya Edom ⟨את⟩ mokolo ya Yerushalaim, baye balobaki: Bunisa, bunisa, tee na masese na yango.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Yakanisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "bana ya"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mokolo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mokolo"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "baye balobaki"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "bunisa"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "bunisa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tee na"
+    },
+    {
+      "surface": "היסוד",
+      "gloss": "masese"
+    },
+    {
+      "surface": "בה",
+      "gloss": "na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:35:30.061389013Z",
+  "model": "glm-5.3"
+}

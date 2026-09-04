@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 37:6",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 37,
+  "translation": "Mpe asalaki kaporet ya wolo ya solo: maboko mibale mpe ndambo bolai na yango, mpe liboko moko mpe ndambo bonene na yango.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "mpe asalaki"
+    },
+    {
+      "surface": "כפרת",
+      "gloss": "kaporet"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "wolo"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ya solo"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "maboko mibale"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "mpe ndambo"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "bolai na yango"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "mpe liboko moko"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "mpe ndambo"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "bonene na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:36:21.934422393Z",
+  "model": "glm-5.3"
+}

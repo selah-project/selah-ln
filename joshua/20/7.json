@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 20:7",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 20,
+  "translation": "Mpe bakaboli ⟨את⟩ Kedesh na Galil na ngomba ya Naftali, mpe ⟨את⟩ Shekhem na ngomba ya Efrayim, mpe ⟨את⟩ Kiryat-Arba, yango ezali Hevron, na ngomba ya Yehuda.",
+  "tokens": [
+    {
+      "surface": "ויקדשו",
+      "gloss": "bakaboli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedesh"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kedesh"
+    },
+    {
+      "surface": "בגליל",
+      "gloss": "na Galil"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "na ngomba ya"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Shekhem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "na ngomba ya"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Kiryat-Arba"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat-"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "היא",
+      "gloss": "yango"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "ezali Hevron"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "na ngomba ya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-09-03T17:53:53.768723681Z",
+  "model": "glm-5.3"
+}

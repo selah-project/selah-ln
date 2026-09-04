@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 3:3",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "kasi na bombokasusu ya nzete oyo ezali na kati ya bondindo Elohim alobaki ete: bolia yango te, mpe bokangama na yango te, mpo te bokufa.",
+  "tokens": [
+    {
+      "surface": "ומפרי",
+      "gloss": "kasi na bombokasusu"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "ya nzete"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "na kati ya"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "bondindo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "bolia"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "yango"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "bokangama"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "פן",
+      "gloss": "mpo te"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "bokufa"
+    }
+  ],
+  "timestamp": "2026-09-03T15:45:33.625004851Z",
+  "model": "glm-5.3"
+}

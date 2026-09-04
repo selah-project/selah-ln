@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 21:20",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Mpe soko moto abundi ⟨את⟩ mowumbu na ye to ⟨את⟩ mowumbu mwasi na ye na baton, mpe akufa nse na maboko na ye, etumbu, etumbisama na penepene.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Mpe soko"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "abundi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mowumbu na ye"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "mowumbu na ye"
+    },
+    {
+      "surface": "או",
+      "gloss": "to"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mowumbu mwasi na ye"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "mowumbu mwasi na ye"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "na baton"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "mpe akufa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "nse na"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "maboko na ye"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "etumbu"
+    },
+    {
+      "surface": "ינקם",
+      "gloss": "etumbisama na penepene"
+    }
+  ],
+  "timestamp": "2026-09-03T16:26:37.219268553Z",
+  "model": "glm-5.3"
+}

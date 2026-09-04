@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 26:10",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "Bokolia bilei ya ntako eki, bilei ya ntako mingi; mpe bilei ya ntako eki bokobimisa mpo na ya sika.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "bokolia"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "ya ntako eki"
+    },
+    {
+      "surface": "נושן",
+      "gloss": "ya ntako mingi"
+    },
+    {
+      "surface": "וישן",
+      "gloss": "mpe ya ntako eki"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "mpo na"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ya sika"
+    },
+    {
+      "surface": "תוציאו",
+      "gloss": "bokobimisa"
+    }
+  ],
+  "timestamp": "2026-09-03T16:55:56.027691703Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 20:5",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 20,
+  "translation": "Babangaki mpe bamonaki liliya mpo na Kush, ezali botoli na bango, mpe mpo na Mitsraim, ezali nkembo na bango.",
+  "tokens": [
+    {
+      "surface": "וְחַתּוּ",
+      "gloss": "Babangaki"
+    },
+    {
+      "surface": "וָבֹשׁוּ",
+      "gloss": "mpe bamonaki liliya"
+    },
+    {
+      "surface": "מִכּוּשׁ",
+      "gloss": "mpo na Kush"
+    },
+    {
+      "surface": "מַבָּטָם",
+      "gloss": "ezali botoli na bango"
+    },
+    {
+      "surface": "וּמִן",
+      "gloss": "mpe mpo na"
+    },
+    {
+      "surface": "מִצְרַיִם",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "תִּפְאַרְתָּם",
+      "gloss": "ezali nkembo na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T19:19:18.443380881Z",
+  "model": "glm-5.3"
+}

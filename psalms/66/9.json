@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 66:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 66,
+  "translation": "Oyo atyaki molimo na biso na bomoi, mpe atikaki te mangwele na biso ela.",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "Oyo atyaki"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "molimo na biso"
+    },
+    {
+      "surface": "בחיים",
+      "gloss": "na bomoi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "atikaki"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "ela"
+    },
+    {
+      "surface": "רגלנו",
+      "gloss": "mangwele na biso"
+    }
+  ],
+  "timestamp": "2026-09-03T21:15:16.670683713Z",
+  "model": "glm-5.3"
+}

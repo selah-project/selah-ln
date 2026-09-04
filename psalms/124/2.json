@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 124:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 124,
+  "translation": "Soki Yawe azalaki te mpo na biso, tango moto alongwaki na biso,",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "soki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "azalaki"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mpo na biso"
+    },
+    {
+      "surface": "בקום",
+      "gloss": "tango ya kolonga"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "na biso"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moto"
+    }
+  ],
+  "timestamp": "2026-09-03T21:33:30.571952364Z",
+  "model": "glm-5.3"
+}

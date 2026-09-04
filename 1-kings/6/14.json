@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 6:14",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpe Shelomo akaki ⟨את⟩ ndako mpe asilisaki yango.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "mpe akaki"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndako"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "mpe asilisaki yango"
+    }
+  ],
+  "timestamp": "2026-09-03T18:45:51.279567261Z",
+  "model": "glm-5.3"
+}

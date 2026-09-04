@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 10:27",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Mpe babukaki ⟨את⟩ etanda ya Baal, mpe babukaki ⟨את⟩ ndako ya Baal, mpe batyaki yango lokola esika ya bipeni taka lelo.",
+  "tokens": [
+    {
+      "surface": "ויתצו",
+      "gloss": "Mpe babukaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "etanda"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "etanda"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "ya Baal"
+    },
+    {
+      "surface": "ויתצו",
+      "gloss": "mpe babukaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndako"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "ya Baal"
+    },
+    {
+      "surface": "וישמהו",
+      "gloss": "mpe batyaki yango"
+    },
+    {
+      "surface": "למחראות",
+      "gloss": "lokola esika ya bipeni"
+    },
+    {
+      "surface": "עד",
+      "gloss": "taka"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lelo"
+    }
+  ],
+  "timestamp": "2026-09-03T23:25:11.114306444Z",
+  "model": "glm-5.3"
+}

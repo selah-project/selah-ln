@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 22:9",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Mpe bakolobaki ete: Mpo na ete batikaki ⟨את⟩ bondimi ya Yawe Elohim na bango, mpe basembelaki banzambe mosusu, mpe bakolamelaki bango.",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "Mpe bakolobaki"
+    },
+    {
+      "surface": "על",
+      "gloss": "mpo na"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ete"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "batikaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bondimi"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "bondimi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim na bango"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "mpe basembelaki"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "epai ya banzambe"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "mosusu"
+    },
+    {
+      "surface": "ויעבדום",
+      "gloss": "mpe bakolamelaki bango"
+    }
+  ],
+  "timestamp": "2026-09-03T23:27:38.335699126Z",
+  "model": "glm-5.3"
+}

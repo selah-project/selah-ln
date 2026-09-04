@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 116,
+  "ref": "psalms 119:116",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Sunga ngai lokola liloba na yo, mpe nakovanda na bomoi; mpe kotiya ngai libanga na litomba na ngai te.",
+  "tokens": [
+    {
+      "surface": "סמכני",
+      "gloss": "Sunga ngai"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "lokola liloba na yo"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "mpe nakovanda na bomoi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mpe ... te"
+    },
+    {
+      "surface": "תבישני",
+      "gloss": "kotiya ngai libanga"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "na litomba na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:32:20.010705811Z",
+  "model": "glm-5.3"
+}

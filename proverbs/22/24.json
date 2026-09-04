@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 22:24",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Kobanda moninga ya moto ya colère te, mpe na moto ya mpopi kokende elongo te.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תתרע",
+      "gloss": "Kobanda moninga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moto ya colère"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ya moto"
+    },
+    {
+      "surface": "אף",
+      "gloss": "colère"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "ya mpopi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kokote"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "kokende elongo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:45:53.143937964Z",
+  "model": "glm-5.3"
+}

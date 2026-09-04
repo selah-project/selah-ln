@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 83:16",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 83,
+  "translation": "Ndenge wana, landa bango na seko na yo, mpe na mpota na yo tya bangi na bango.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "ndenge wana"
+    },
+    {
+      "surface": "תרדפם",
+      "gloss": "landa bango"
+    },
+    {
+      "surface": "בסערך",
+      "gloss": "na seko na yo"
+    },
+    {
+      "surface": "ובסופתך",
+      "gloss": "mpe na mpota na yo"
+    },
+    {
+      "surface": "תבהלם",
+      "gloss": "tya bangi na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:20:55.785048085Z",
+  "model": "glm-5.3"
+}

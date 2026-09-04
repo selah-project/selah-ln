@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 27:9",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 27,
+  "translation": "Mpe okosala ⟨את⟩ esika ya Mishkan, na eteni ya notsela, na sud: mikanda ya esika, lini mosangami, zomi na nkama ya maboko molayi, mpo na eteni moko.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Mpe okosala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "esika"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "esika"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ya Mishkan"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "na eteni ya"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "notsela"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "na sud"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "mikanda"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "ya esika"
+    },
+    {
+      "surface": "שש",
+      "gloss": "lini"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "mosangami"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "zomi na nkama"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ya maboko"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "molayi"
+    },
+    {
+      "surface": "לפאה",
+      "gloss": "mpo na eteni"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "moko"
+    }
+  ],
+  "timestamp": "2026-09-03T16:27:22.679383704Z",
+  "model": "glm-5.3"
+}

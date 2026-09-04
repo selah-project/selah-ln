@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 82:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 82,
+  "translation": "Yuka, Elohim, kosambisa mabele; mpo yo ozali kozwa bokabu na bikolo nyonso.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Yuka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "kosambisa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "תנחל",
+      "gloss": "ozali kozwa bokabu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na ... nyonso"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bikolo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:20:43.725179698Z",
+  "model": "glm-5.3"
+}

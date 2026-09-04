@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 31:11",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 31,
+  "translation": "Mpo Yawe asombaki ⟨את⟩ Yaakov, mpe abimisaki ye uti na loboko ya makasi koleka ye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "asombaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "וגאלו",
+      "gloss": "mpe abimisaki ye"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "uti na loboko"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "ya makasi"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "koleka ye"
+    }
+  ],
+  "timestamp": "2026-09-03T19:55:29.797614378Z",
+  "model": "glm-5.3"
+}

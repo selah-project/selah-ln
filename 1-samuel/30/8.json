@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 30:8",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 30,
+  "translation": "Mpe David atunaki na Yawe, alobaka: Nakolanda sima ya mampinga oyo, nakoyekisa bango? Mpe ⟨Yawe⟩ alobaki na ye: Landa; mpo okoyekisi libela mpe okobikisi libela.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "atunaki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "na Yawe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "koloba"
+    },
+    {
+      "surface": "ארדף",
+      "gloss": "Nakolanda"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sima ya"
+    },
+    {
+      "surface": "הגדוד",
+      "gloss": "mampinga"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "האשגנו",
+      "gloss": "nakoyekisa bango"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "Landa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "השג",
+      "gloss": "koyekisa"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "okoyekisi libela"
+    },
+    {
+      "surface": "והצל",
+      "gloss": "kobikisa"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "okobikisi libela"
+    }
+  ],
+  "timestamp": "2026-09-03T18:24:01.055572371Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 21:31",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "To mwana mobali akofuta yango, to mwana mwasi akofuta yango — ndenge oyo ya mibeko ndeke ekosalama na yango.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "To"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana mobali"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "akofuta yango"
+    },
+    {
+      "surface": "או",
+      "gloss": "to"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana mwasi"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "akofuta yango"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "ndenge oyo ya mibeko ndeke"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ekosalama"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:26:14.186054900Z",
+  "model": "glm-5.3"
+}

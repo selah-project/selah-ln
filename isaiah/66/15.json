@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 66:15",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 66,
+  "translation": "Mpo ete tala, Yawe akoya na moto, mpe banketo na yě lokola mpuya makasi, mpo na kozonga na likebi nyongo na yě, mpe bobela na yě na lilemba la moto.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo ete"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "באש",
+      "gloss": "na moto"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "akoya"
+    },
+    {
+      "surface": "וכסופה",
+      "gloss": "mpe lokola mpuya makasi"
+    },
+    {
+      "surface": "מרכבתיו",
+      "gloss": "banketo na yě"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "mpo na kozonga"
+    },
+    {
+      "surface": "בחמה",
+      "gloss": "na likebi"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "nyongo na yě"
+    },
+    {
+      "surface": "וגערתו",
+      "gloss": "mpe bobela na yě"
+    },
+    {
+      "surface": "בלהבי",
+      "gloss": "na lilemba"
+    },
+    {
+      "surface": "אש",
+      "gloss": "la moto"
+    }
+  ],
+  "timestamp": "2026-09-03T19:40:23.028344905Z",
+  "model": "glm-5.3"
+}

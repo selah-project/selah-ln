@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 73:18",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 73,
+  "translation": "Ya solo, otyaka bango na nzela ya koleka, owerisaka bango na bobungisi.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Ya solo"
+    },
+    {
+      "surface": "בחלקות",
+      "gloss": "na nzela ya koleka"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "otyaka"
+    },
+    {
+      "surface": "למו",
+      "gloss": "bango"
+    },
+    {
+      "surface": "הפלתם",
+      "gloss": "owerisaka bango"
+    },
+    {
+      "surface": "למשואות",
+      "gloss": "na bobungisi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:18:23.902225452Z",
+  "model": "glm-5.3"
+}

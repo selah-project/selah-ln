@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 25:20",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Batela molimo na ngai mpe batisa ngai; nazala na soni te, mpo nazali na esiko na yo.",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "batela"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "molimo na ngai"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "mpe batisa ngai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "nazala na soni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "nazali na esiko"
+    },
+    {
+      "surface": "בך",
+      "gloss": "na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:05:52.573384904Z",
+  "model": "glm-5.3"
+}

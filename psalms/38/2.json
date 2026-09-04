@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 38:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 38,
+  "translation": "Yawe, na likebi na yo obosola ngai te, mpe na mbuma na yo opesa ngai etumbu te.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "בקצפך",
+      "gloss": "na likebi na yo"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "obosola ngai"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "mpe na mbuma na yo"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "opesa ngai etumbu"
+    }
+  ],
+  "timestamp": "2026-09-03T23:33:50.584837387Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 145:14",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 145,
+  "translation": "Yawe atandisaka banso oyo baswei, mpe atombolaka banso oyo bakamisami.",
+  "tokens": [
+    {
+      "surface": "סומך",
+      "gloss": "atandisaka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "banso"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "oyo baswei"
+    },
+    {
+      "surface": "וזוקף",
+      "gloss": "mpe atombolaka"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "banso"
+    },
+    {
+      "surface": "הכפופים",
+      "gloss": "oyo bakamisami"
+    }
+  ],
+  "timestamp": "2026-09-03T21:36:19.465570125Z",
+  "model": "glm-5.3"
+}

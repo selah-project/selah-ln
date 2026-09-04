@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 50:2",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 50,
+  "translation": "Mpe Yosef atindaki ⟨את⟩ basalaki na ye, ⟨את⟩ banganga, kofemba ⟨את⟩ tata na ye; mpe banganga bafembaki ⟨את⟩ Israel.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Mpe atindaki"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "basalaki na ye"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "basalaki na ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "banganga"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "banganga"
+    },
+    {
+      "surface": "לחנט",
+      "gloss": "kofemba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tata na ye"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "tata na ye"
+    },
+    {
+      "surface": "ויחנטו",
+      "gloss": "mpe bafembaki"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "banganga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-03T16:13:47.917701391Z",
+  "model": "glm-5.3"
+}

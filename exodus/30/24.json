@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 30:24",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 30,
+  "translation": "Mpe kida nkama mitano, na shekel ya sanza ya boyokani; mpe mafuta ya oliva, hin moko.",
+  "tokens": [
+    {
+      "surface": "וקדה",
+      "gloss": "Mpe kida"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "nkama mitano"
+    },
+    {
+      "surface": "מאות",
+      "gloss": ""
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "na shekel ya"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "sanza ya boyokani"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "mpe mafuta ya"
+    },
+    {
+      "surface": "זית",
+      "gloss": "oliva"
+    },
+    {
+      "surface": "הין",
+      "gloss": "hin moko"
+    }
+  ],
+  "timestamp": "2026-09-03T16:30:03.577263713Z",
+  "model": "glm-5.3"
+}

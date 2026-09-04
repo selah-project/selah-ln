@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 11:16",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpe Yehoshua azwaki ⟨את⟩ mabele nyonso oyo: ngomba, mpe ⟨את⟩ Neguev nyonso, mpe ⟨את⟩ mabele ya Goshen nyonso, mpe ⟨את⟩ sekele, mpe ⟨את⟩ Arava, mpe ⟨את⟩ ngomba ya Israel mpe sekele na yango.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "azwaki"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabele nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ngomba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Neguev nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "Neguev"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mabele ya Goshen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "הגשן",
+      "gloss": "ya Goshen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "sekele"
+    },
+    {
+      "surface": "השפלה",
+      "gloss": "sekele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Arava"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "Arava"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "ngomba ya Israel"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ngomba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "ושפלתה",
+      "gloss": "mpe sekele na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T17:49:56.095787487Z",
+  "model": "glm-5.3"
+}

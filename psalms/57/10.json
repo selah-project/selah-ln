@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 57:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 57,
+  "translation": "Natondo yo kati ya bato, Adonai; nazembe yo kati ya bikolo.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Natondo yo"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "kati ya bato"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "nazembe yo"
+    },
+    {
+      "surface": "בל",
+      "gloss": "kati ya"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "bikolo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:13:44.756864917Z",
+  "model": "glm-5.3"
+}

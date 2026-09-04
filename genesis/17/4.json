@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 17:4",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 17,
+  "translation": "Ngai, mona, boyokani na ngai ezali ⟨na⟩ yo ⟨את⟩, mpe okozala tata wa ebele ya bikolo.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ngai"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "mona"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "boyokani na ngai"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ na yo",
+      "marks": "na yo"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "mpe okozala"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "tata wa"
+    },
+    {
+      "surface": "המון",
+      "gloss": "ebele ya"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bikolo"
+    }
+  ],
+  "timestamp": "2026-09-03T15:53:10.925525734Z",
+  "model": "glm-5.3"
+}

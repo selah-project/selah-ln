@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 23:21",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Natindaki te baprofete, mpe bazingaki; Nalobaki te na bango, mpe baprofetaki.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "Natindaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baprofete"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "baprofete"
+    },
+    {
+      "surface": "והם",
+      "gloss": "mpe bango"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "bazingaki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "Nalobaki"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "והם",
+      "gloss": "mpe bango"
+    },
+    {
+      "surface": "נבאו",
+      "gloss": "baprofetaki"
+    }
+  ],
+  "timestamp": "2026-09-03T19:53:16.321589477Z",
+  "model": "glm-5.3"
+}

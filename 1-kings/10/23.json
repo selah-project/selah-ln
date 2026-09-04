@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 10:23",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Mpe mokonzi Shelomo amonanaki monene koleka bakonzi nyonso ya mabele, na bobungsi mpe na bwanya.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "amonanaki monene koleka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "koleka nyonso"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "bakonzi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ya mabele"
+    },
+    {
+      "surface": "לעשר",
+      "gloss": "na bobungsi"
+    },
+    {
+      "surface": "ולחכמה",
+      "gloss": "mpe na bwanya"
+    }
+  ],
+  "timestamp": "2026-09-03T18:47:33.680335229Z",
+  "model": "glm-5.3"
+}

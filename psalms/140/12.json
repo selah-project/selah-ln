@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 140:12",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 140,
+  "translation": "Moto ya mondeli asimamaka te na mabele; moto ya bobomi mabe, mabe ekoluka-yango tii na bowei.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ya mondeli"
+    },
+    {
+      "surface": "בל",
+      "gloss": "te"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "asimamaka"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ya bobomi"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "יצודנו",
+      "gloss": "ekoluka-yango"
+    },
+    {
+      "surface": "למדחפת",
+      "gloss": "tii na bowei"
+    }
+  ],
+  "timestamp": "2026-09-03T21:34:48.925490074Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 122:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 122,
+  "translation": "Lokasa ya botombwi, ya David. Nasepelaki ntango bato balobaki na ngai: na ndako ya Yawe tokende.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Lokasa"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ya botombwi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya David"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "Nasepelaki"
+    },
+    {
+      "surface": "באמרים",
+      "gloss": "ntango bato balobaki"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "tokende"
+    }
+  ],
+  "timestamp": "2026-09-03T21:33:39.969869952Z",
+  "model": "glm-5.3"
+}

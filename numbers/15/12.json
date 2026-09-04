@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 15:12",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 15,
+  "translation": "Kotya motango oyo bokoza kosala, ndenge wana bokoza kosala moko na moko, na motango na bango.",
+  "tokens": [
+    {
+      "surface": "כמספר",
+      "gloss": "Kotya motango"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "bokoza kosala"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "ndenge wana"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "bokoza kosala"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "moko na moko"
+    },
+    {
+      "surface": "כמספרם",
+      "gloss": "na motango na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T17:09:32.083516201Z",
+  "model": "glm-5.3"
+}

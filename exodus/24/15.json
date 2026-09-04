@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "Mpe Moshe akotaki na ngomba, mpe lipanga ebombaki ⟨את⟩ ngomba.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "mpe akotaki"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ngomba"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "mpe ebombaki"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "lipanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngomba"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ngomba"
+    }
+  ],
+  "timestamp": "2026-09-03T16:26:12.494233205Z",
+  "model": "glm-5.3"
+}

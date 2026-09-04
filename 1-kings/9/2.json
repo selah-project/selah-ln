@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 9:2",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Yawe amonanaki epai ya Shelomo mbala ya mibale, ndenge amonanaki epai ya ye na Gibeon.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "amonanaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "mbala ya mibale"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ndenge"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "amonanaki"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "epai ya ye"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "na Gibeon"
+    }
+  ],
+  "timestamp": "2026-09-03T18:49:22.530212575Z",
+  "model": "glm-5.3"
+}

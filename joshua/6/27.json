@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 6:27",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpe Yawe azalaki ⟨את⟩ elongo na Yehoshua; mpe sango na yango ekotaki na mabele mobimba.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mpe azalaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ elongo na",
+      "marks": "Yehoshua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mpe ekotaki"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "sango na yango"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na mabele mobimba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T17:45:34.373059915Z",
+  "model": "glm-5.3"
+}

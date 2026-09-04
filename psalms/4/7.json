@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 4:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Batoi mingi balobaka: Nani akolakisa biso malamu? Tula likolo na biso mokangya ya elongi na yo, Yawe.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Batoi mingi"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "balobaka"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Nani"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "akolakisa biso"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "malamu"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "Tula"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "likolo na biso"
+    },
+    {
+      "surface": "אור",
+      "gloss": "mokangya"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ya elongi na yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T20:59:48.631064858Z",
+  "model": "glm-5.3"
+}

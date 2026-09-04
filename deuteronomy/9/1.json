@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 9:1",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Yoka, Israel: yo oleki ⟨את⟩ Yarden lelo, mpo na kokota mpo na kozua bikolo minene mpe makasi koleka yo — mboka minene mpe mibateli kino likolo.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Yoka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "oleki"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lelo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "mpo na kokota"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "mpo na kozua"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bikolo"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "minene"
+    },
+    {
+      "surface": "ועצמים",
+      "gloss": "mpe makasi"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "koleka yo"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "mboka"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "minene"
+    },
+    {
+      "surface": "ובצרת",
+      "gloss": "mpe mibateli"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "kino likolo"
+    }
+  ],
+  "timestamp": "2026-09-03T17:28:57.145852116Z",
+  "model": "glm-5.3"
+}

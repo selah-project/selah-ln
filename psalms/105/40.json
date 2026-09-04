@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 105:40",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 105,
+  "translation": "Basengaki, mpe amakis bango selavu, mpe na mombia ya likolo amekisaki bango.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "basengaki"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "mpe amakis bango"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "selavu"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "mpe na mombia"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ya likolo"
+    },
+    {
+      "surface": "ישביעם",
+      "gloss": "amekisaki bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:27:20.077617790Z",
+  "model": "glm-5.3"
+}

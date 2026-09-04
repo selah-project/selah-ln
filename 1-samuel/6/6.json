@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 6:6",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpe mpo na nini bozali kolemisa ⟨את⟩ motema na bino, lokola Mitsraim mpe Parao ba-lemisi ⟨את⟩ motema na bango? Boye te, tango asalaki makambo ya mabe na bango, batindaki bango mpe bakendeaki.",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "mpe mpo na nini"
+    },
+    {
+      "surface": "תכבדו",
+      "gloss": "bolemisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motema na bino"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "motema na bino"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "lokola"
+    },
+    {
+      "surface": "כבדו",
+      "gloss": "ba-lemisi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "ופרעה",
+      "gloss": "mpe Parao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motema na bango"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "motema na bango"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Boye te"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "tango"
+    },
+    {
+      "surface": "התעלל",
+      "gloss": "asalaki makambo ya mabe na bango"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "וישלחום",
+      "gloss": "batindaki bango"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "bakendeaki"
+    }
+  ],
+  "timestamp": "2026-09-03T18:12:31.861008700Z",
+  "model": "glm-5.3"
+}

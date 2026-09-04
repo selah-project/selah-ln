@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 127:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 127,
+  "translation": "Pamba na bino, bomi longama na tongo, bomi longama na butu, boli panzo ya mawa; ndenge wana Yawe apesi na oyo alingami na ye dodo.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "Pamba"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "na bino"
+    },
+    {
+      "surface": "משכימי",
+      "gloss": "bomi longama na tongo"
+    },
+    {
+      "surface": "קום",
+      "gloss": "bomi longama na butu"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "na nsima"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "kozonga"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "boli"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "panzo"
+    },
+    {
+      "surface": "העצבים",
+      "gloss": "ya mawa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ndenge wana"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "Yawe apesi"
+    },
+    {
+      "surface": "לידידו",
+      "gloss": "na oyo alingami na ye"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "dodo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:33:40.544196691Z",
+  "model": "glm-5.3"
+}

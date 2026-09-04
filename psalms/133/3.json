@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 133:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 133,
+  "translation": "Lokola mabele ya Hermon oyo ezoukaka na bangomba ya Tsion, mpo kuna Yawe atindaki ⟨את⟩ boloko, bomoi kino na seko.",
+  "tokens": [
+    {
+      "surface": "כטל",
+      "gloss": "Lokola mabele ya"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Hermon"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "oyozoukaka"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "bangomba ya"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsion"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "atindaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boloko"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "boloko"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "bomoi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino na"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "seko"
+    }
+  ],
+  "timestamp": "2026-09-03T23:35:33.695309243Z",
+  "model": "glm-5.3"
+}

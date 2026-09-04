@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 33:7",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 33,
+  "translation": "Mpe nakozongisa ⟨את⟩ bobwanami ya Yehuda mpe ⟨את⟩ bobwanami ya Israel, mpe nakotonga bango lokola na ebandeli.",
+  "tokens": [
+    {
+      "surface": "והשבתי",
+      "gloss": "Mpe nakozongisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bobwanami ya Yehuda"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "bobwanami"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bobwanami ya Israel"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "bobwanami"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ובנתים",
+      "gloss": "mpe nakotonga bango"
+    },
+    {
+      "surface": "כבראשנה",
+      "gloss": "lokola na ebandeli"
+    }
+  ],
+  "timestamp": "2026-09-03T19:57:53.598222215Z",
+  "model": "glm-5.3"
+}

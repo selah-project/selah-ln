@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 50:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 50,
+  "translation": "Sangisa epai na ngai bandimi na ngai, bapangi bondimi na ngai likolo ya mbeka.",
+  "tokens": [
+    {
+      "surface": "אספו",
+      "gloss": "Sangisa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "epai na ngai"
+    },
+    {
+      "surface": "חסידי",
+      "gloss": "bandimi na ngai"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "bapangi"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "bondimi na ngai"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "mbeka"
+    }
+  ],
+  "timestamp": "2026-09-03T21:11:40.414623422Z",
+  "model": "glm-5.3"
+}

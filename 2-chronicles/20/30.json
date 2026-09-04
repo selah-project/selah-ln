@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-chronicles 20:30",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 20,
+  "translation": "Mpe bokonzi bwa Yehoshafat etikaki kimya, mpe Elohim na ye apeki ye libanda nyonso.",
+  "tokens": [
+    {
+      "surface": "ותשקט",
+      "gloss": "Mpe ... etikaki kimya"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "bokonzi"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "bwa Yehoshafat"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "Mpe ... apeki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim na ye"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "libanda nyonso"
+    }
+  ],
+  "timestamp": "2026-09-03T23:42:08.906554823Z",
+  "model": "glm-5.3"
+}

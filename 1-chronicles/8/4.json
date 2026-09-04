@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 8:4",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "mpe Avishua, mpe Naaman, mpe Ahoah.",
+  "tokens": [
+    {
+      "surface": "ואבישוע",
+      "gloss": "mpe Avishua"
+    },
+    {
+      "surface": "ונעמן",
+      "gloss": "mpe Naaman"
+    },
+    {
+      "surface": "ואחוח",
+      "gloss": "mpe Ahoah"
+    }
+  ],
+  "timestamp": "2026-09-03T22:43:13.686855177Z",
+  "model": "glm-5.3"
+}

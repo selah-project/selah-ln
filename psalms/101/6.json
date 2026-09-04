@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 101:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 101,
+  "translation": "Miso na ngai etali bato ya bosolo ya mabele, bafanda elongo na ngai; oyo azali kotambola na nzela ya bobato, yeye akosalela ngai.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "miso-na-ngai"
+    },
+    {
+      "surface": "בנאמני",
+      "gloss": "bato-ya-bosolo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "bafanda"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "elongo-na-ngai"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "oyozali-kotambola"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "na-nzela"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ya-bobato"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "ישרתני",
+      "gloss": "akosalela-ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:26:49.891021689Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 20:5",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 20,
+  "translation": "Mpe mbala mosusu bitumba ekwelaki ⟨את⟩ Baflishtim; mpe Elhanan mwana ya Yair akubaki ⟨את⟩ Lahmi, ndeko ya Goliath wa Gat, mpe nzete ya seke na ye ezalaki lokola etando ya bapengele.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "ekwelaki"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mbala mosusu"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "bitumba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Baflishtim"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Baflishtim"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "akubaki"
+    },
+    {
+      "surface": "אלחנן",
+      "gloss": "Elhanan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "Yair"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lahmi"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "Lahmi"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ndeko"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "Goliath"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "wa Gat"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "mpe nzete"
+    },
+    {
+      "surface": "חניתו",
+      "gloss": "ya seke na ye"
+    },
+    {
+      "surface": "כמנור",
+      "gloss": "lokola etando"
+    },
+    {
+      "surface": "ארגים",
+      "gloss": "ya bapengele"
+    }
+  ],
+  "timestamp": "2026-09-03T22:49:03.575324497Z",
+  "model": "glm-5.3"
+}

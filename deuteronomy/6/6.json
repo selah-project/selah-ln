@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 6:6",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Maloba oyo namipesa yo lelo ekozala na motema na yo.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "ekozala"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "maloba"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨oyo⟩"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "na"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "mipesa yo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lelo"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "motema na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T17:24:35.956247160Z",
+  "model": "glm-5.3"
+}

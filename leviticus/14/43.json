@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 14:43",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Mpe soki boneyi ekozonga mpe ebotaka na ndako, sima ya kolongola ⟨את⟩ mabanga, mpe sima ya kokopa ⟨את⟩ ndako, mpe sima ya kotombola ⟨את⟩ ⟨ndako⟩.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "mpe soki"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ekozonga"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "boneyi"
+    },
+    {
+      "surface": "ופרח",
+      "gloss": "mpe ebotaka"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "na ndako"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "sima ya"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "kolongola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabanga"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "mabanga"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "mpe sima ya"
+    },
+    {
+      "surface": "הקצות",
+      "gloss": "kokopa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndako"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "mpe sima ya"
+    },
+    {
+      "surface": "הטוח",
+      "gloss": "kotombola"
+    }
+  ],
+  "timestamp": "2026-09-03T16:47:15.875939142Z",
+  "model": "glm-5.3"
+}

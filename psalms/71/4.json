@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 71:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 71,
+  "translation": "Elohim na ngai, bimisa ngai na maboko ya moto mabe, na libanza ya moto ya bokosi mpe ya makasi.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim na ngai"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "bimisa ngai"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "na maboko"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ya moto mabe"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "na libanza"
+    },
+    {
+      "surface": "מעול",
+      "gloss": "ya bokosi"
+    },
+    {
+      "surface": "וחומץ",
+      "gloss": "mpe ya makasi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:17:47.479042004Z",
+  "model": "glm-5.3"
+}

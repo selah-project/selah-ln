@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 7:1",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Yawe alobaki na Moshe: Tala, nameti yo Elohim epai ya Parao, mpe Aharon ndeko na yo akokala navi na yo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Tala"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "nameti yo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "epai ya Parao"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "mpe Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ndeko na yo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "akokala"
+    },
+    {
+      "surface": "נביאך",
+      "gloss": "navi na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T16:16:21.514206342Z",
+  "model": "glm-5.3"
+}

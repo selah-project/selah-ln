@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 72:11",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 72,
+  "translation": "Mpe bakonzi nyonso bakokumbama epai na ye, bikolo nyonso bakosalela ye.",
+  "tokens": [
+    {
+      "surface": "וישתחוו",
+      "gloss": "mpe bakokumbama"
+    },
+    {
+      "surface": "לו",
+      "gloss": "epai na ye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "bakonzi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bikolo"
+    },
+    {
+      "surface": "יעבדוהו",
+      "gloss": "bakosalela ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:16:59.501796602Z",
+  "model": "glm-5.3"
+}

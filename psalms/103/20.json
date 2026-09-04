@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 103:20",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 103,
+  "translation": "Bokumisa Yawe, batinda na ye, baombi ya nguya, basali liloba na ye, mpo na koyoka mongongo ya liloba na ye.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Bokumisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "batinda na ye"
+    },
+    {
+      "surface": "גברי",
+      "gloss": "baombi ya"
+    },
+    {
+      "surface": "כח",
+      "gloss": "nguya"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "basali"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "liloba na ye"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "mpo na koyoka"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "mongongo ya"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "liloba na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:26:01.954836843Z",
+  "model": "glm-5.3"
+}

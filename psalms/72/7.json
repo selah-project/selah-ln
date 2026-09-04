@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 72:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 72,
+  "translation": "Mosembo akobola na mikolo na ye, mpe bolamu ⟨ebeli⟩ ebele kino sanza ezala te.",
+  "tokens": [
+    {
+      "surface": "יפרח",
+      "gloss": "akobola"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "na mikolo na ye"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "mosembo"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "mpe ⟨ebeli⟩ ebele"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "bolamu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "ezala te"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "sanza"
+    }
+  ],
+  "timestamp": "2026-09-03T21:17:56.856829101Z",
+  "model": "glm-5.3"
+}

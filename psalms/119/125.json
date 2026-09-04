@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 125,
+  "ref": "psalms 119:125",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Mosali na yo nazali; pesa ngai bokangi, mpo nayeba bandimi na yo.",
+  "tokens": [
+    {
+      "surface": "עבדך",
+      "gloss": "Mosali na yo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nazali"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "pesa ngai bokangi"
+    },
+    {
+      "surface": "ואדעה",
+      "gloss": "mpo nayeba"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "bandimi na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:32:02.076690776Z",
+  "model": "glm-5.3"
+}

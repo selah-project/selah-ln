@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 19:15",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Maloba ya monoko na ngai mpe makanisi ya motema na ngai ezale malamu liboso na yo, Yawe, lipanga na ngai mpe Mobikisi na ngai.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ezale"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "malamu"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "Maloba"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ya monoko na ngai"
+    },
+    {
+      "surface": "והגיון",
+      "gloss": "mpe makanisi"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ya motema na ngai"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "liboso na yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "lipanga na ngai"
+    },
+    {
+      "surface": "וגאלי",
+      "gloss": "mpe Mobikisi na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:03:49.031444213Z",
+  "model": "glm-5.3"
+}

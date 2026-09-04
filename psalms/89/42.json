@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 89:42",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 89,
+  "translation": "Bayei na nzela nyonso babumbi ⟨את⟩ ye; akomaki lotomo epai ya banzi na ye.",
+  "tokens": [
+    {
+      "surface": "שסהו",
+      "gloss": "babumbi ye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "bayei"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "na nzela"
+    },
+    {
+      "surface": "היה",
+      "gloss": "akomaki"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "lotomo"
+    },
+    {
+      "surface": "לשכניו",
+      "gloss": "epai ya banzi na ye"
+    }
+  ],
+  "timestamp": "2026-09-04T00:29:01.783913011Z",
+  "model": "glm-5.3"
+}

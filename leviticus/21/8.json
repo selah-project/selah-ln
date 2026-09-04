@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 21:8",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Mpe bosantisa ye, mpo ⟨את⟩ bolei ya Elohim na yo nde ye azali komema; akala santu epai na yo, mpo nazali santu, ngai Yawe, oyo asantisa bino.",
+  "tokens": [
+    {
+      "surface": "וקדשתו",
+      "gloss": "mpe bosantisa ye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bolei ya Elohim na yo"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bolei"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ya Elohim na yo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ye"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "azali komema"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "santu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "akala"
+    },
+    {
+      "surface": "לך",
+      "gloss": "epai na yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "santu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "asantisa bino"
+    }
+  ],
+  "timestamp": "2026-09-03T16:53:46.521251269Z",
+  "model": "glm-5.3"
+}

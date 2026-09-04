@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 23:20",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Okotola ndeko na yo nkita te: nkita ya mbongo, nkita ya bilei, nkita ya eloko nyonso oyo etolamaka na nkita.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "okotola"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "ndeko na yo"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "nkita"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ya mbongo"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "nkita"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ya bilei"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "nkita"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ya eloko nyonso"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "eloko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "etolamaka na nkita"
+    }
+  ],
+  "timestamp": "2026-09-03T17:36:12.695346459Z",
+  "model": "glm-5.3"
+}

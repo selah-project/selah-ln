@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 29:7",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 29,
+  "translation": "Mpe okaki ⟨את⟩ mafuta ya bokombi, mpe obwaki ⟨yango⟩ na motó na ye, mpe okombi ⟨את⟩ ye.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "Mpe okaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafuta ya bokombi"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "ya bokombi"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "mpe obwaki"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "motó na ye"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "mpe okombi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ye",
+      "marks": "ye (Aharon)"
+    }
+  ],
+  "timestamp": "2026-09-03T23:13:38.871153264Z",
+  "model": "glm-5.3"
+}

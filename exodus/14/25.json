@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 14:25",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Mpe ⟨yawe⟩ azongisaki ⟨את⟩ mapasa ya bakumbu na bango, mpe banyokolaki bango na mpasi; mpe ba-Mitsraim balobaki: Tiká totóka liboso ya Israel, mpo Yawe azalaki kolwana mpo na bango epai ya Mitsraim.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "azongisaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mapasa"
+    },
+    {
+      "surface": "אפן",
+      "gloss": "mapasa"
+    },
+    {
+      "surface": "מרכבתיו",
+      "gloss": "ya bakumbu na bango"
+    },
+    {
+      "surface": "וינהגהו",
+      "gloss": "mpe banyokolaki bango"
+    },
+    {
+      "surface": "בכבדות",
+      "gloss": "na mpasi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe balobaki"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ba-Mitsraim"
+    },
+    {
+      "surface": "אנוסה",
+      "gloss": "Tiká totóka"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "azalaki kolwana"
+    },
+    {
+      "surface": "להם",
+      "gloss": "mpo na bango"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "epai ya Mitsraim"
+    }
+  ],
+  "timestamp": "2026-09-03T16:20:31.921355512Z",
+  "model": "glm-5.3"
+}

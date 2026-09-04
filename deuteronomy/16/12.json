@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 16:12",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Mpe yokanisa ete ozalaki mosali na Mitsraim, mpe okolandela mpe okosala ⟨את⟩ mibeko oyo.",
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "mpe yokanisa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "mosali"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ozalaki"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "na Mitsraim"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "mpe okolandela"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "mpe okosala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mibeko oyo"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "mibeko"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "oyo"
+    }
+  ],
+  "timestamp": "2026-09-03T17:29:51.667364899Z",
+  "model": "glm-5.3"
+}

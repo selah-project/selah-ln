@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 18:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Epai ya moyekoli, ya mosengeli ya Yawe, ya David, oyo alobaki epai ya Yawe ⟨את⟩ maloba ya losambo oyo, na mokolo Yawe ayokisaki ⟨את⟩ ye na loboko ya bangonzi na ye nyonso mpe na maboko ya Shaul.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "epai ya moyekoli"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ya mosengeli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya David"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "epai ya Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maloba"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "maloba"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "ya losambo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na mokolo"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "ayokisaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ ye",
+      "marks": "ye (David)"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "na loboko ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "bangonzi na ye"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "mpe na maboko ya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    }
+  ],
+  "timestamp": "2026-09-03T21:03:13.299280163Z",
+  "model": "glm-5.3"
+}

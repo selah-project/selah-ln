@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 4:15",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe bankoko ya lisangli batyaki maboko na bango na ⟨את⟩ maboko na bango na mutue ya ngombe liboso ya Yawe, mpe ⟨ye⟩ abomaki ⟨את⟩ ngombe liboso ya Yawe.",
+  "tokens": [
+    {
+      "surface": "וסמכו",
+      "gloss": "mpe batyaki maboko na bango"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "bankoko"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ya lisangli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maboko na bango"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "maboko na bango"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "mutue"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ya ngombe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "mpe abomaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngombe"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ngombe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T23:16:10.534310908Z",
+  "model": "glm-5.3"
+}

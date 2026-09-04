@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 4:20",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe Ada abotaki ⟨את⟩ Yabal; ye moko azalaki tata ya baye bakandaka na matente mpe bwa banyama.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "mpe abotaki"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Ada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yabal"
+    },
+    {
+      "surface": "יבל",
+      "gloss": "Yabal"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ye moko"
+    },
+    {
+      "surface": "היה",
+      "gloss": "azalaki"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tata ya"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "baye bakandaka"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "na matente"
+    },
+    {
+      "surface": "ומקנה",
+      "gloss": "mpe bwa banyama"
+    }
+  ],
+  "timestamp": "2026-09-03T15:45:28.065417674Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 45:2",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 45,
+  "translation": "Mpe atiaki ⟨את⟩ mongongo na ye na koka; mpe Baye ya Mitsraim bayokaki, mpe ndako ya Parao eyokaki.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "mpe atiaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mongongo na ye"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "mongongo na ye"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "na koka"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "mpe bayokaki"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Baye ya Mitsraim"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "mpe eyokaki"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    }
+  ],
+  "timestamp": "2026-09-03T16:11:23.802552077Z",
+  "model": "glm-5.3"
+}

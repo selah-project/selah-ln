@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 6:8",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpe nayokaki ⟨את⟩ mongongo ya Adonai alobaki: ⟨את⟩ nani natinda, mpe nani akenda mpo na biso? Mpe nalobaki: Nazali awa, tinda ngai.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "Mpe nayokaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mongongo"
+    },
+    {
+      "surface": "קול",
+      "gloss": "mongongo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ya Adonai"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nani"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nani"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "natinda"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "mpe nani"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "akenda"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mpo na biso"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "Mpe nalobaki"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Nazali awa"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "tinda ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T19:15:46.989876868Z",
+  "model": "glm-5.3"
+}

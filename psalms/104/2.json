@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 104:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 104,
+  "translation": "Ozali kozipa pole lokola elamba, ozali kotanda likolo lokola te ya ndako.",
+  "tokens": [
+    {
+      "surface": "עטה",
+      "gloss": "ozali kozipa"
+    },
+    {
+      "surface": "אור",
+      "gloss": "pole"
+    },
+    {
+      "surface": "כשלמה",
+      "gloss": "lokola elamba"
+    },
+    {
+      "surface": "נוטה",
+      "gloss": "ozali kotanda"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "likolo"
+    },
+    {
+      "surface": "כיריעה",
+      "gloss": "lokola te ya ndako"
+    }
+  ],
+  "timestamp": "2026-09-03T21:26:50.360772378Z",
+  "model": "glm-5.3"
+}

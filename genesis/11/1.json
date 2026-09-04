@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpe mabele mobimba esalaki na monoko moko, mpe na maloba moko.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mpe esalaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mobimba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "monoko"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "moko"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "mpe na maloba"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "moko"
+    }
+  ],
+  "timestamp": "2026-09-03T15:49:36.767451210Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 9:30",
+  "book": "judges",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Mpe Zebul, mokonzi ya mboka, ayokaki ⟨את⟩ maloba ya Gaal mwana ya Ebed, mpe mawa na ye ndimaki.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Mpe ayokaki"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "Zebul"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ya mboka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maloba"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "maloba"
+    },
+    {
+      "surface": "געל",
+      "gloss": "ya Gaal"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana ya"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Ebed"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "ndimaki"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "mawa na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T18:00:51.223656711Z",
+  "model": "glm-5.3"
+}

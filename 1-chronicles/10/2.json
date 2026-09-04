@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 10:2",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Mpe Bafilisiti balandaki nsima ya Shaul mpe nsima ya bana na ye, mpe Bafilisiti babomaki ⟨את⟩ Yonatan mpe ⟨את⟩ Avinadab mpe ⟨את⟩ Malkishua, bana ya Shaul.",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "mpe balandaki"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Bafilisiti"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nsima ya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "mpe nsima ya"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bana na ye"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "mpe babomaki"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Bafilisiti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonatan"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonatan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Avinadab"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Avinadab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Malkishua"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "shua"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ya Shaul"
+    }
+  ],
+  "timestamp": "2026-09-03T22:45:21.093670613Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 105:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 105,
+  "translation": "Botonda Yawe, benga na nkombo na ye, boyebisa na kati ya bambele misala na ye.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Botonda"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "benga"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "na nkombo na ye"
+    },
+    {
+      "surface": "הודיעו",
+      "gloss": "boyebisa"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "na kati ya bambele"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "misala na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:27:33.475516407Z",
+  "model": "glm-5.3"
+}

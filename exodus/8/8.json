@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 8:8",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe Moshe mpe Aharon babimaki epai ya Parao; mpe Moshe akangaki mongongo epai ya Yawe likolo ya likambo ya bisanga oyo atyaki na Parao.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Mpe babimaki"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "mpe Aharon"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "ויצעק",
+      "gloss": "mpe akangaki mongongo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "likambo"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "bisanga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "atyaki"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "na Parao"
+    }
+  ],
+  "timestamp": "2026-09-03T16:17:08.944810356Z",
+  "model": "glm-5.3"
+}

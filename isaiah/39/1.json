@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 39:1",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 39,
+  "translation": "Na ntango yango Merodak-Baladan, mwana wa Baladan, mokonzi wa Bavel, atindaki mikanda mpe ntalo epai ya Hizkiyahu, mpe ayokaki ete azalaki na bokono mpe azwaki makasi.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "Na ntango"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yango"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "atindaki"
+    },
+    {
+      "surface": "מרדך",
+      "gloss": "Merodak"
+    },
+    {
+      "surface": "בלאדן",
+      "gloss": "Baladan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "בלאדן",
+      "gloss": "Baladan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "mikanda"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "mpe ntalo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkiyahu"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "mpe ayokaki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "azalaki na bokono"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "mpe azwaki makasi"
+    }
+  ],
+  "timestamp": "2026-09-03T19:29:08.388439975Z",
+  "model": "glm-5.3"
+}

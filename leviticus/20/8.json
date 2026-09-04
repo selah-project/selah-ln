@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 20:8",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 20,
+  "translation": "Mpe bokokengela ⟨את⟩ mibeko na ngai mpe bosala ⟨את⟩ yango; ngai nazali Yawe, mokemyi na bino.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "mpe bokokengela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mibeko na ngai"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "mibeko na ngai"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "mpe bosala"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ yango",
+      "marks": "yango"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "mokemyi na bino"
+    }
+  ],
+  "timestamp": "2026-09-03T16:52:30.477295208Z",
+  "model": "glm-5.3"
+}

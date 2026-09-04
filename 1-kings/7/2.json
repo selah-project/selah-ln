@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 7:2",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mpe atongaki ⟨את⟩ ndako ya zamba ya Levanon: ema nkama moko molayi na yango, mpe ema ntuku mitano bonene na yango, mpe ema ntuku misato botelema na yango, na bamolongo minei ya baompila ya ereza, mpe makatami ya ereza na likolo ya baompila.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "mpe atongaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndako ya zamba ya Levanon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "יער",
+      "gloss": "ya zamba"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "ya Levanon"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "nkama moko"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ema"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "molayi na yango"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "mpe ntuku mitano"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ema"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "bonene na yango"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "mpe ntuku misato"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ema"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "botelema na yango"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "minei"
+    },
+    {
+      "surface": "טורי",
+      "gloss": "bamolongo"
+    },
+    {
+      "surface": "עמודי",
+      "gloss": "ya baompila"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "ya ereza"
+    },
+    {
+      "surface": "וכרתות",
+      "gloss": "mpe makatami"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "ya ereza"
+    },
+    {
+      "surface": "על",
+      "gloss": "na likolo ya"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "baompila"
+    }
+  ],
+  "timestamp": "2026-09-03T18:46:01.567698279Z",
+  "model": "glm-5.3"
+}

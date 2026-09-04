@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 8:45",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "mpe okoyoka likolo ⟨את⟩ losambo na bango mpe ⟨את⟩ bosengi na bango, mpe okosala mibeko na bango.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "mpe okoyoka"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "likolo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "losambo na bango"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "losambo na bango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bosengi na bango"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "bosengi na bango"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "mpe okosala"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "mibeko na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T18:48:36.076679177Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 6:8",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpe boela ⟨את⟩ sanduku ya Yawe, mpe botya ⟨את⟩ yango na bongombo, mpe ⟨את⟩ bisaleli ya wolo oyo bozongisaki epai na ye lokola asham (mosolo ya likebi), botya na sanduku ya moke na ngambo na yango, mpe botinda ⟨את⟩ yango mpe akende.",
+  "tokens": [
+    {
+      "surface": "ולקחתם",
+      "gloss": "mpe boela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduku ya Yawe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "mpe botya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yango",
+      "marks": "bongombo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "bongombo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "bisaleli"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ya wolo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "השבתם",
+      "gloss": "bozongisaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "epai na ye"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "asham (mosolo ya likebi)"
+    },
+    {
+      "surface": "תשימו",
+      "gloss": "botya"
+    },
+    {
+      "surface": "בארגז",
+      "gloss": "na sanduku ya moke"
+    },
+    {
+      "surface": "מצדו",
+      "gloss": "na ngambo na yango"
+    },
+    {
+      "surface": "ושלחתם",
+      "gloss": "mpe botinda"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yango",
+      "marks": "akende"
+    },
+    {
+      "surface": "והלך",
+      "gloss": "mpe akende"
+    }
+  ],
+  "timestamp": "2026-09-03T18:12:31.861582145Z",
+  "model": "glm-5.3"
+}

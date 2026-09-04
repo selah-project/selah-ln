@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 20:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 20,
+  "translation": "Akokanisa mikonzi na yo nyonso, mpe boloko bwa yo akondisa yango. Selah.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "Akokanisa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "מנחתך",
+      "gloss": "mikonzi na yo"
+    },
+    {
+      "surface": "ועולתך",
+      "gloss": "mpe boloko bwa yo"
+    },
+    {
+      "surface": "ידשנה",
+      "gloss": "akondisa yango"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-03T21:04:52.193719180Z",
+  "model": "glm-5.3"
+}

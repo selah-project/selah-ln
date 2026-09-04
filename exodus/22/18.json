@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 22:18",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Nyonso ⟨oyo⟩ akolala na nyama, kufa akokufa.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "nyonso ⟨oyo⟩"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "akolala"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kufa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "akokufa"
+    }
+  ],
+  "timestamp": "2026-09-03T16:25:53.713652694Z",
+  "model": "glm-5.3"
+}

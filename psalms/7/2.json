@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 7:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Yawe Elohim na ngai, na yo napemi; bikisa ngai na balandi ngai nyonso, mpe lokola ngai.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim na ngai"
+    },
+    {
+      "surface": "בך",
+      "gloss": "na yo"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "napemi"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "bikisa ngai"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "na ... nyonso"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "balandi ngai"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "mpe lokola ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:00:25.825932563Z",
+  "model": "glm-5.3"
+}

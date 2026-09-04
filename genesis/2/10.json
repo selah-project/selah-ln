@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 2:10",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe ebale ebimaki uta na Eden mpo na komelisa ⟨את⟩ egbene, mpe kuna eklekamaki mpe ekomaki na mitwe minei.",
+  "tokens": [
+    {
+      "surface": "ונהר",
+      "gloss": "Mpe ebale"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ebimaki"
+    },
+    {
+      "surface": "מעדן",
+      "gloss": "uta na Eden"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "mpo na komelisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "egbene"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "egbene"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "mpe kuna"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "eklekamaki"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "mpe ekomaki"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "na minei"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "mitwe"
+    }
+  ],
+  "timestamp": "2026-09-03T15:44:16.654157662Z",
+  "model": "glm-5.3"
+}

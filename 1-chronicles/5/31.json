@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 5:31",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Mpe Avishua abotisi ⟨את⟩ Bukki; mpe Bukki abotisi ⟨את⟩ Uzi.",
+  "tokens": [
+    {
+      "surface": "ואבישוע",
+      "gloss": "Mpe Avishua"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "abotisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bukki"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "Bukki"
+    },
+    {
+      "surface": "ובקי",
+      "gloss": "mpe Bukki"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "abotisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uzi"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "Uzi"
+    }
+  ],
+  "timestamp": "2026-09-03T22:41:38.408818373Z",
+  "model": "glm-5.3"
+}

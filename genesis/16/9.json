@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 16:9",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Mokemoke ya Yawe alobaki na ye: Zonga epai ya nkolo na yo mpe kokitisama na nse ya maboko na ye.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "לה",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "mokemoke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "שובי",
+      "gloss": "zonga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "גברתך",
+      "gloss": "nkolo na yo"
+    },
+    {
+      "surface": "והתעני",
+      "gloss": "mpe kokitisama"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "nse ya"
+    },
+    {
+      "surface": "ידיה",
+      "gloss": "maboko na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T15:52:00.204027352Z",
+  "model": "glm-5.3"
+}

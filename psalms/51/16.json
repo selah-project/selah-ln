@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 51:16",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 51,
+  "translation": "Lungola ngai na mami, Elohim, Elohim ya bobombi na ngai; lilomo na ngai ekoyemba bosembo na yo.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "Lungola ngai"
+    },
+    {
+      "surface": "מדמים",
+      "gloss": "na mami"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ya"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "bobombi na ngai"
+    },
+    {
+      "surface": "תרנן",
+      "gloss": "ekoyemba"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "lilomo na ngai"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "bosembo na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:13:59.189859405Z",
+  "model": "glm-5.3"
+}

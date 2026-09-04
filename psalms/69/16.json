@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 69:16",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 69,
+  "translation": "Kaka mbonge ya mai ezipa ngai te, mpe nse ya mai emele ngai te; mpe bofu etinda monoko na yango likolo ngai te.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "kaka"
+    },
+    {
+      "surface": "תשטפני",
+      "gloss": "ezipa ngai te"
+    },
+    {
+      "surface": "שבלת",
+      "gloss": "mbonge ya"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mai"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mpe kaka"
+    },
+    {
+      "surface": "תבלעני",
+      "gloss": "emele ngai te"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "nse ya mai"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mpe kaka"
+    },
+    {
+      "surface": "תאטר",
+      "gloss": "etinda"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "likolo ngai"
+    },
+    {
+      "surface": "באר",
+      "gloss": "bofu"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "monoko na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:17:04.719715937Z",
+  "model": "glm-5.3"
+}

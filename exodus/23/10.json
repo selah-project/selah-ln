@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 23:10",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Mpe mbula motoba okobela ⟨את⟩ mabele na yo, mpe okokangata ⟨את⟩ mbuto na yango.",
+  "tokens": [
+    {
+      "surface": "ושש",
+      "gloss": "Mpe mbula motoba"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mbula motoba"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "okobela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabele na yo"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "mabele na yo"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "mpe okokangata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbuto na yango"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "mbuto na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T23:13:34.649977981Z",
+  "model": "glm-5.3"
+}

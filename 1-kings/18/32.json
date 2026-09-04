@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 18:32",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Mpe akangaki ⟨את⟩ mabanga na autelo, na nkombo ya Yawe, mpe asalaki libulu ya mai na bonene ya esika ya saa mibale ya mbuto, zingazinga na autelo.",
+  "tokens": [
+    {
+      "surface": "ויבנה",
+      "gloss": "Mpe akangaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabanga"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "mabanga"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "na autelo"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "na nkombo ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "mpe asalaki"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "libulu ya mai"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "na bonene ya esika ya"
+    },
+    {
+      "surface": "סאתים",
+      "gloss": "saa mibale"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ya mbuto"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "zingazinga"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "na autelo"
+    }
+  ],
+  "timestamp": "2026-09-03T18:55:30.291397277Z",
+  "model": "glm-5.3"
+}

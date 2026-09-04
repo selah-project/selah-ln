@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 26:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "Kosangisa molimo na ngai elongo na bato mabe te, mpe bomoi na ngai elongo na bato ya makila te.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "kosangisa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "elongo na"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "bato mabe"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "molimo na ngai"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "mpe elongo na"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "bato"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "ya makila"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "bomoi na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:05:38.450285060Z",
+  "model": "glm-5.3"
+}

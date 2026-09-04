@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 103:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 103,
+  "translation": "Bolamusa, molimo na ngai, ⟨את⟩ Yawe, mpe kokanwa te nyonso bikombo na ye.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "Bolamusa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "molimo na ngai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mpe ... te"
+    },
+    {
+      "surface": "תשכחי",
+      "gloss": "kokanwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "גמוליו",
+      "gloss": "bikombo na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:26:15.802157339Z",
+  "model": "glm-5.3"
+}

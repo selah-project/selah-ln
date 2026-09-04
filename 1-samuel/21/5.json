@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 21:5",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Mpe kohen ayanolaki ⟨את⟩ David mpe alobaki: lima ya nkaka ezali te na nse ya maboko na ngai, kasi lima ya mosantu ezali, soki bana bakangamaki kaka na banzambe ya mwasi te — soki bana bakangamaki kaka bandaku na basi.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "mpe ayanolaki"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ezali te"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "lima"
+    },
+    {
+      "surface": "חל",
+      "gloss": "ya nkaka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "nse"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ya maboko na ngai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kasi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kaka"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "lima"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ya mosantu"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ezali"
+    },
+    {
+      "surface": "אם",
+      "gloss": "soki"
+    },
+    {
+      "surface": "נשמרו",
+      "gloss": "bakangamaki"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "bana"
+    },
+    {
+      "surface": "אך",
+      "gloss": "kaka"
+    },
+    {
+      "surface": "מאשה",
+      "gloss": "bandaku na basi"
+    }
+  ],
+  "timestamp": "2026-09-03T18:22:15.422556462Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 9:3",
+  "book": "hosea",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Bakofanda te na mabele ya Yawe; mpe Efrayim azongi na Mitsraim, mpe na Ashur balyaka bilya ya makwe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "bakofanda"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "mpe azongi"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "ובאשור",
+      "gloss": "mpe na Ashur"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "makwe"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "balyaka"
+    }
+  ],
+  "timestamp": "2026-09-03T20:40:25.575211227Z",
+  "model": "glm-5.3"
+}

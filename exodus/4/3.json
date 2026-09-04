@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 4:3",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe alobaki: Botika yango na mabele; mpe atikaki yango na mabele, mpe ekomaki njokoki, mpe Moshe awayaki liboso na yango.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "השליכהו",
+      "gloss": "botika yango"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "וישליכהו",
+      "gloss": "atikaki yango"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ekomaki"
+    },
+    {
+      "surface": "לנחש",
+      "gloss": "njokoki"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "awayaki"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "liboso na yango"
+    }
+  ],
+  "timestamp": "2026-09-04T00:18:11.342861921Z",
+  "model": "glm-5.3"
+}

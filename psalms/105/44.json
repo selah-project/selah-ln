@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 105:44",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 105,
+  "translation": "Apesaki na bango mabele ya bikolo, mpe mosala ya bato babombaki yango.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Apesaki"
+    },
+    {
+      "surface": "להם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "ארצות",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ya bikolo"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "mpe mosala"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ya bato"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "babombaki"
+    }
+  ],
+  "timestamp": "2026-09-03T21:27:15.136702231Z",
+  "model": "glm-5.3"
+}

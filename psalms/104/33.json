@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 104:33",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 104,
+  "translation": "Nakoyemba na Yawe na bomoi na ngai, nakobeta masini ya malilu na Elohim na ngai, ntango nazali kaka na bomoi.",
+  "tokens": [
+    {
+      "surface": "אשירה",
+      "gloss": "nakoyemba"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "na Yawe"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "na bomoi na ngai"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "nakobeta masini ya malilu"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "na Elohim na ngai"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "ntango nazali kaka na bomoi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:27:13.049343040Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 30:20",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 30,
+  "translation": "Mpe David amakisaki ⟨את⟩ mbote nyonso mpe ngombe; basalaka komema liboso ya bibwele wana, mpe balobaki ete: Oyo ezali nkita ya David.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "amakisaki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbote nyonso mpe ngombe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "mbote"
+    },
+    {
+      "surface": "והבקר",
+      "gloss": "mpe ngombe"
+    },
+    {
+      "surface": "נהגו",
+      "gloss": "basalaka komema"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "bibwele"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "wana"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "mpe balobaki"
+    },
+    {
+      "surface": "זה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "nkita"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-09-03T18:24:11.815167779Z",
+  "model": "glm-5.3"
+}

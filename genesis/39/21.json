@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 39:21",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 39,
+  "translation": "Mpe Yawe azalaki ⟨את⟩ Yosef, mpe atyaki hesed epai na ye, mpe apesaki bolamu na ye na misu ya mokonzi ya ndako ya ekangeli.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mpe azalaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "mpe atyaki"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "epai na ye"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "mpe apesaki"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "bolamu na ye"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "na misu ya"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ya ndako"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "ya ekangeli"
+    }
+  ],
+  "timestamp": "2026-09-03T16:05:56.541840012Z",
+  "model": "glm-5.3"
+}

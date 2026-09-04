@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 29:11",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 29,
+  "translation": "Mpe Yaakov baisaki Rahel, mpe atombaki ⟨את⟩ mongongo na ye mpe atolakaki.",
+  "tokens": [
+    {
+      "surface": "וישק",
+      "gloss": "mpe baisaki"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "Rahel"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "mpe atombaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mongongo na ye"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "mongongo na ye"
+    },
+    {
+      "surface": "וי׬ך",
+      "gloss": "mpe atolakaki"
+    }
+  ],
+  "timestamp": "2026-09-03T15:58:33.082167779Z",
+  "model": "glm-5.3"
+}

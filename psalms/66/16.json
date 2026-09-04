@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 66:16",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 66,
+  "translation": "Boya, boyoka, banso bino oyo bozali kobanga Elohim, mpe nakolobela oyo asali na bomoi na ngai.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "boya"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "boyoka"
+    },
+    {
+      "surface": "ואספרה",
+      "gloss": "mpe nakolobela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "banso"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "oyo bozali kobanga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "asali"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "na bomoi na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:15:39.918829809Z",
+  "model": "glm-5.3"
+}

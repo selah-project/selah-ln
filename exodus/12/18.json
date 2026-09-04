@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 12:18",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Na liboso, na mokolo ya zomi na minei ya sanza, na mpokwa, bokolia matsotso, kino na mokolo ya moko na zomi na mibale ya sanza na mpokwa.",
+  "tokens": [
+    {
+      "surface": "בראשן",
+      "gloss": "Na liboso"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "minei"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "zomi na"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mokolo"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ya sanza"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "na mpokwa"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "bokolia"
+    },
+    {
+      "surface": "מצת",
+      "gloss": "matsotso"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mokolo"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "moko na"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "zomi na mibale"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ya sanza"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "na mpokwa"
+    }
+  ],
+  "timestamp": "2026-09-03T16:20:40.049487784Z",
+  "model": "glm-5.3"
+}

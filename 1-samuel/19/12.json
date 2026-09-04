@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 19:12",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Mpe Mikal amokitisi ⟨את⟩ David na fineta, mpe akendaki, akimaki, mpe alongwisamaki.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "amokitisi"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "na"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "fineta"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "mpe akendaki"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "akimaki"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "mpe alongwisamaki"
+    }
+  ],
+  "timestamp": "2026-09-03T18:19:21.178909050Z",
+  "model": "glm-5.3"
+}

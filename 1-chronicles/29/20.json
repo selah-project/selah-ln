@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 29:20",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 29,
+  "translation": "Mpe David alobaki na lisangani nyonso: bokumisa na boboto ⟨את⟩ Yawe, Elohim na bino; mpe lisangani nyonso bakumisaki Yawe, Elohim ya bankoko na bango; mpe bakitisaki mpe basambelaki epai ya Yawe mpe epai ya mokonzi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "na nyonso"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "lisangani"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "bokumisa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "na boboto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim na bino"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "mpe bakumisaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "lisangani"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ya"
+    },
+    {
+      "surface": "אבתיהם",
+      "gloss": "bankoko na bango"
+    },
+    {
+      "surface": "ויקדו",
+      "gloss": "mpe bakitisaki"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "mpe basambelaki"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "epai ya Yawe"
+    },
+    {
+      "surface": "ולמלך",
+      "gloss": "mpe epai ya mokonzi"
+    }
+  ],
+  "timestamp": "2026-09-03T22:52:50.533162338Z",
+  "model": "glm-5.3"
+}

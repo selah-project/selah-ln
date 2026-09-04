@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 42:11",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 42,
+  "translation": "Lokola likonzeli na mikuwa na ngai, banguna na ngai balalaki ngai mabe, ntango balobaka na ngai mokolo nyonso: Elohim na yo azali wapi?",
+  "tokens": [
+    {
+      "surface": "ברצח",
+      "gloss": "lokola likonzeli"
+    },
+    {
+      "surface": "בעצמותי",
+      "gloss": "na mikuwa na ngai"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "balalaki ngai mabe"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "banguna na ngai"
+    },
+    {
+      "surface": "באמרם",
+      "gloss": "ntango balobaka"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "היום",
+      "gloss": "mokolo"
+    },
+    {
+      "surface": "איה",
+      "gloss": "azali wapi"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T23:35:06.787500080Z",
+  "model": "glm-5.3"
+}

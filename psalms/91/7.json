@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 91:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 91,
+  "translation": "Elufi ekokweya na mpambama na yo, mpe nkoto zomi na loboko ya mobali na yo; epai na yo ⟨yango⟩ ekokota te.",
+  "tokens": [
+    {
+      "surface": "יפל",
+      "gloss": "ekokweya"
+    },
+    {
+      "surface": "מצדך",
+      "gloss": "na mpambama na yo"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "elufi"
+    },
+    {
+      "surface": "ורבבה",
+      "gloss": "mpe nkoto zomi"
+    },
+    {
+      "surface": "מימינך",
+      "gloss": "na loboko ya mobali na yo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "epai na yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "ekokota"
+    }
+  ],
+  "timestamp": "2026-09-03T21:25:02.531111591Z",
+  "model": "glm-5.3"
+}

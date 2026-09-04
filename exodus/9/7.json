@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 9:7",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Parao atindi ⟨komona⟩; mpe talá, banyama ya Israel akufaki te, ata moko te; mpe motema ya Parao emikaki, mpe atikaki te ⟨את⟩ bato.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "atindi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mpe talá"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "מת",
+      "gloss": "akufaki"
+    },
+    {
+      "surface": "ממקנה",
+      "gloss": "ya banyama"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ata"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "moko"
+    },
+    {
+      "surface": "ויכבד",
+      "gloss": "mpe emikaki"
+    },
+    {
+      "surface": "לב",
+      "gloss": "motema"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "atikaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bato"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    }
+  ],
+  "timestamp": "2026-09-03T23:12:44.049283216Z",
+  "model": "glm-5.3"
+}

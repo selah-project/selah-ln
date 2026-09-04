@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 30:10",
+  "book": "ezekiel",
+  "lang": "ln",
+  "chapter": 30,
+  "translation": "Bongo lobi Adonai Yawe: Nakosilisi ⟨את⟩ motuya ya Mitsraim na maboko ya Nevukadretsar, mokonzi ya Bavel.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Bongo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "lobi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "mpe nakosilisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motuya ya Mitsraim"
+    },
+    {
+      "surface": "המון",
+      "gloss": "motuya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Mitsraim"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "na maboko ya"
+    },
+    {
+      "surface": "נבוכדראצר",
+      "gloss": "Nevukadretsar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ya Bavel"
+    }
+  ],
+  "timestamp": "2026-09-03T20:25:07.851324040Z",
+  "model": "glm-5.3"
+}

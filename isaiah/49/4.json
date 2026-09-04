@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 49:4",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 49,
+  "translation": "Mpe ngai nalobaki: Mpamba te nasalaki makasi, na mpamba mpe futa te nasilaki makasi na ngai; kasi ya solo, bosolo na ngai ezali na ⟨את⟩ Yawe, mpe mosala na ngai ezali na ⟨את⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Mpe ngai"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nalobaki"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "Mpamba te"
+    },
+    {
+      "surface": "יגעתי",
+      "gloss": "nasalaki makasi"
+    },
+    {
+      "surface": "לתהו",
+      "gloss": "na mpamba"
+    },
+    {
+      "surface": "והבל",
+      "gloss": "mpe futa te"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "makasi na ngai"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "nasilaki"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "kasi ya solo"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "bosolo na ngai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ופעלתי",
+      "gloss": "mpe mosala na ngai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-03T19:33:53.957598247Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 15:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 15,
+  "translation": "Mizmor ya David. Yawe, nani akokweya kofanda na nkenga na yo? Nani akofanda na montagne ya santu ya yo?",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nani"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "akokweya kofanda"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "na nkenga na yo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nani"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "akofanda"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "na montagne"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "ya santu ya yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:03:04.721475834Z",
+  "model": "glm-5.3"
+}

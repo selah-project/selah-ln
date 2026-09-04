@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 7:5",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mpe kohen akotela ⟨את⟩ yango likolo ya autel, ofele ya moto epai ya Yawe; mbeka ya likebi yango ezali.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "Mpe akotela"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "yango (bonene mpe mposo ya v4)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "likolo ya autel"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ofele ya moto"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "epai ya Yawe"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "mbeka ya likebi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yango ezali"
+    }
+  ],
+  "timestamp": "2026-09-03T16:41:17.850665474Z",
+  "model": "glm-5.3"
+}

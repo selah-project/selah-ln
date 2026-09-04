@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 112:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 112,
+  "translation": "Bomengo mpe bonene ya bikoko ezali na ndako na ye, mpe bosembo na ye etalemaki libela.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "Bomengo"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "mpe bonene ya bikoko"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "na ndako na ye"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "mpe bosembo na ye"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "etalemaki"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "libela"
+    }
+  ],
+  "timestamp": "2026-09-03T21:29:03.166246584Z",
+  "model": "glm-5.3"
+}

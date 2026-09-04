@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 107:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 107,
+  "translation": "Bato basanzola Yawe na hesed na yango (bolingo na ye), mpe makambo-na-kokamwa na ye mpo na bana ya bato.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "Bato basanzola"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "na hesed na yango"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "mpe makambo-na-kokamwa na ye"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "mpo na bana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ya bato"
+    }
+  ],
+  "timestamp": "2026-09-03T21:28:22.625158300Z",
+  "model": "glm-5.3"
+}

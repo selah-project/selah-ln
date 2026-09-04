@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 106:37",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 106,
+  "translation": "Mpe basakrifikaki ⟨את⟩ mibala na bango mpe ⟨את⟩ basi na bango epai ya bankembe.",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "Mpe basakrifikaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mibala na bango"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "mibala na bango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "basi na bango"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "basi na bango"
+    },
+    {
+      "surface": "לשדים",
+      "gloss": "epai ya bankembe"
+    }
+  ],
+  "timestamp": "2026-09-03T21:27:14.528998246Z",
+  "model": "glm-5.3"
+}

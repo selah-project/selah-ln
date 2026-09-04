@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 45:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 45,
+  "translation": "Kangola sabre na yo na likau na yo, Wani nguya; nkembo na yo mpe lokumu na yo.",
+  "tokens": [
+    {
+      "surface": "חגור",
+      "gloss": "Kangola"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "sabre na yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "likau"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "Wani nguya"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "nkembo na yo"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "mpe lokumu na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:12:14.604953051Z",
+  "model": "glm-5.3"
+}

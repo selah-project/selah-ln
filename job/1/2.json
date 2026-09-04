@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 1:2",
+  "book": "job",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe botalamaki na ye bana mibali sambo mpe bana basi misato.",
+  "tokens": [
+    {
+      "surface": "ויולדו",
+      "gloss": "mpe botalamaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "sambo"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bana mibali"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "mpe misato"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "bana basi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:51:17.881608975Z",
+  "model": "glm-5.3"
+}

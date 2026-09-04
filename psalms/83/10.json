@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 83:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 83,
+  "translation": "Salisa bango lokola Madian, lokola Sisera, lokola Yavin, na libulu ya Kishon.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Salisa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bango"
+    },
+    {
+      "surface": "כמדין",
+      "gloss": "lokola Madian"
+    },
+    {
+      "surface": "כסיסרא",
+      "gloss": "lokola Sisera"
+    },
+    {
+      "surface": "כיבין",
+      "gloss": "lokola Yavin"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "na libulu ya"
+    },
+    {
+      "surface": "קישון",
+      "gloss": "Kishon"
+    }
+  ],
+  "timestamp": "2026-09-03T21:20:34.311485406Z",
+  "model": "glm-5.3"
+}

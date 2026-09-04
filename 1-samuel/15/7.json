@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 15:7",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 15,
+  "translation": "Mpe Shaul akubaki ⟨את⟩ Amalek, uta Havila kino na kokota na Shur, oyo ezali liboso ya Mitsraim.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "akubaki"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "מחוילה",
+      "gloss": "uta Havila"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "kino na kokota"
+    },
+    {
+      "surface": "שור",
+      "gloss": "na Shur"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "פני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    }
+  ],
+  "timestamp": "2026-09-03T18:16:35.288389221Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 14:5",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Na mbula zomi na minei Kedarlaomer abaki, mpe bakonzi oyo bazalaki ⟨את⟩ elongo na ye, mpe babundi ⟨את⟩ bikenene ya Refaim na Ashterot-Karnaim, mpe ⟨את⟩ baZuzim na Ham, mpe ⟨את⟩ baEmim na Shave-Kiriatayim.",
+  "tokens": [
+    {
+      "surface": "ובארבע",
+      "gloss": "mpe na ... minei"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "zomi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mbula"
+    },
+    {
+      "surface": "בא",
+      "gloss": "abaki"
+    },
+    {
+      "surface": "כדרלעמר",
+      "gloss": "Kedarlaomer"
+    },
+    {
+      "surface": "והמלכים",
+      "gloss": "mpe bakonzi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ elongo na ye"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "mpe babundi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bikenene ya Refaim"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "bikenene ya Refaim"
+    },
+    {
+      "surface": "בעשתרת",
+      "gloss": "na Ashterot"
+    },
+    {
+      "surface": "קרנים",
+      "gloss": "Karnaim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "baZuzim"
+    },
+    {
+      "surface": "הזוזים",
+      "gloss": "baZuzim"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "na Ham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "baEmim"
+    },
+    {
+      "surface": "האימים",
+      "gloss": "baEmim"
+    },
+    {
+      "surface": "בשוה",
+      "gloss": "na Shave"
+    },
+    {
+      "surface": "קריתים",
+      "gloss": "Kiriatayim"
+    }
+  ],
+  "timestamp": "2026-09-03T15:50:13.609273824Z",
+  "model": "glm-5.3"
+}

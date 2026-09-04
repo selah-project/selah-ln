@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 29:8",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 29,
+  "translation": "Mpe okangisa ⟨את⟩ bana na ye, mpe olengi bango mikapo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Mpe okangisa ⟨את⟩",
+      "marks": "bana na ye"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bana na ye"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "okangisa"
+    },
+    {
+      "surface": "והלבשתם",
+      "gloss": "mpe olengi bango"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "mikapo"
+    }
+  ],
+  "timestamp": "2026-09-03T23:13:38.871446693Z",
+  "model": "glm-5.3"
+}

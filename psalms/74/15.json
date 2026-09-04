@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 74:15",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 74,
+  "translation": "Yo ofungolaki liziba mpe ebale, yo moko osekisaki baebale ya libela.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Yo"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "ofungolaki"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "liziba"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "mpe ebale"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo moko"
+    },
+    {
+      "surface": "הובשת",
+      "gloss": "osekisaki"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "baebale"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "ya libela"
+    }
+  ],
+  "timestamp": "2026-09-03T21:19:15.355142541Z",
+  "model": "glm-5.3"
+}

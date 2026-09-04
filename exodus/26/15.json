@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 26:15",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "Mpe okosala ⟨את⟩ bikalanzi mpo na miskan, boku ya shitim, batelemi.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "mpe okosala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bikalanzi"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "bikalanzi"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "mpo na miskan"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "boku ya"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitim"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "batelemi"
+    }
+  ],
+  "timestamp": "2026-09-03T16:28:26.587514887Z",
+  "model": "glm-5.3"
+}

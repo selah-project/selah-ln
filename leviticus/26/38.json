@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 26:38",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "Mpe bokobungama kati ya bikolo, mpe mabele ya banguna na bino eboli ⟨את⟩ bino.",
+  "tokens": [
+    {
+      "surface": "ואבדתם",
+      "gloss": "Mpe bokobungama"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "kati ya bikolo"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "mpe eboli"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ bino",
+      "marks": "bino"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "ya banguna na bino"
+    }
+  ],
+  "timestamp": "2026-09-03T16:56:49.396162098Z",
+  "model": "glm-5.3"
+}

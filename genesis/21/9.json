@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 21:9",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Sarah amonaki ⟨את⟩ mwana wa Hagar, mumitsraim, oyo abotaki na Avraham, azalaki koseka.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "amonaki"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwana"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "wa Hagar"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "mumitsraim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "abotaki"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "na Avraham"
+    },
+    {
+      "surface": "מצחק",
+      "gloss": "azalaki koseka"
+    }
+  ],
+  "timestamp": "2026-09-03T15:54:18.088014541Z",
+  "model": "glm-5.3"
+}

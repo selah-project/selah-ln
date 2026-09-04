@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 8:7",
+  "book": "ezekiel",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe akendisaki ⟨את⟩ ngai kino na porte ya libanda; mpe namonaki, mpe talá, libulu moko na ekulu.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "mpe akendisaki"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ngai",
+      "marks": "ngai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kino na"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "porte"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ya libanda"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "mpe namonaki"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mpe talá"
+    },
+    {
+      "surface": "חר",
+      "gloss": "libulu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "moko"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "na ekulu"
+    }
+  ],
+  "timestamp": "2026-09-03T20:12:00.497630302Z",
+  "model": "glm-5.3"
+}

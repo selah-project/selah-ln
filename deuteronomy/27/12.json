@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 27:12",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 27,
+  "translation": "Baye bakotelema mpo na bolekisa ⟨את⟩ mboka na ngomba Gerizim, ntango bokomata ⟨את⟩ Yarden: Shimeon, mpe Levi, mpe Yehuda, mpe Yisaskar, mpe Yosef, mpe Binyamin.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Baye"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "bakotelema"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "mpo na bolekisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mboka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mboka"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ngomba"
+    },
+    {
+      "surface": "גרזים",
+      "gloss": "Gerizim"
+    },
+    {
+      "surface": "בעברכם",
+      "gloss": "ntango bokomata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimeon"
+    },
+    {
+      "surface": "ולוי",
+      "gloss": "mpe Levi"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "mpe Yehuda"
+    },
+    {
+      "surface": "ויששכר",
+      "gloss": "mpe Yisaskar"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "mpe Yosef"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "mpe Binyamin"
+    }
+  ],
+  "timestamp": "2026-09-03T17:35:30.083283015Z",
+  "model": "glm-5.3"
+}

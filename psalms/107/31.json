@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 107:31",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 107,
+  "translation": "Bato basengi Yawe na hesed na yango (bolingo ya solo), mpe na makamiki na yango epai ya bana ya bato.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "Basengi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "na hesed na yango"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "mpe na makamiki na yango"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "epai ya bana ya"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "bato"
+    }
+  ],
+  "timestamp": "2026-09-03T21:28:32.625354478Z",
+  "model": "glm-5.3"
+}

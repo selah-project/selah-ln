@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 5:2",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Mibali mpe basi akelaki ⟨את⟩ bango, mpe abondelaki bango, mpe abengaki ⟨את⟩ nkombo na bango Adam, na mokolo bakelamaki.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "mibali"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "mpe basi"
+    },
+    {
+      "surface": "בראם",
+      "gloss": "akelaki bango"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "mpe abondelaki"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bango",
+      "marks": "bango (mibali mpe basi)"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "mpe abengaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkombo na bango"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "nkombo na bango"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na mokolo"
+    },
+    {
+      "surface": "הבראם",
+      "gloss": "bakelamaki"
+    }
+  ],
+  "timestamp": "2026-09-03T15:46:14.200279751Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 128,
+  "ref": "psalms 119:128",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Mpo na yango, mibeko na yo nyonso nazalaki sembo na makambo nyonso; nzela nyonso ya lokuta nazalaki kozela mabe.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "mibeko na yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "makambo"
+    },
+    {
+      "surface": "נישרתי",
+      "gloss": "nazalaki sembo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "nzela"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ya lokuta"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "nazalaki kozela mabe"
+    }
+  ],
+  "timestamp": "2026-09-03T21:32:02.077169158Z",
+  "model": "glm-5.3"
+}

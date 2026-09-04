@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 2:5",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe baoyo bakanaka pembeni na yango, mokonzi wa liyanza ya Yissaskar, mpe mokonzi ya bana ba Yissaskar, Netanel mwana wa Tsuar.",
+  "tokens": [
+    {
+      "surface": "והחנים",
+      "gloss": "mpe baoyo bakanaka"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "pembeni na yango"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "mokonzi wa liyanza"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "ya Yissaskar"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "mpe mokonzi"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ya bana ba"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yissaskar"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "Netanel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "Tsuar"
+    }
+  ],
+  "timestamp": "2026-09-03T16:58:53.482502946Z",
+  "model": "glm-5.3"
+}

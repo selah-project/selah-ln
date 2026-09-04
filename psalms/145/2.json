@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 145:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 145,
+  "translation": "Mokolo na mokolo nakokumisa yo, mpe nakotoba nkombo na yo libela, mpe tii nsuka ya nsuka.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "na mokolo nyonso"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mokolo na mokolo"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "nakokumisa yo"
+    },
+    {
+      "surface": "ואהללה",
+      "gloss": "mpe nakotoba"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nkombo na yo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "libela"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "mpe tii nsuka ya nsuka"
+    }
+  ],
+  "timestamp": "2026-09-03T21:36:51.717588490Z",
+  "model": "glm-5.3"
+}

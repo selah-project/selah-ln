@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 1:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Boboki ⟨ya⟩ moto oyo atambolaki te na likanisi ya babubi, mpe na nzela ya bato ya masumu atelemaki te, mpe na esika ya kovanda ya baseki avandaki te.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Boboki"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "atambolaki"
+    },
+    {
+      "surface": "בעצת",
+      "gloss": "na likanisi ya"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "babubi"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "mpe na nzela"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "bato ya masumu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "atelemaki"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "mpe na esika ya kovanda"
+    },
+    {
+      "surface": "לצים",
+      "gloss": "baseki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "avandaki"
+    }
+  ],
+  "timestamp": "2026-09-03T21:00:55.650560654Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 16:4",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Oyo akufi ya Baasha na engumba, bankie bakolí ⟨את⟩ ye; mpe oyo akufi na ye na shamba, ndeke ya likolo bokolí ⟨את⟩ ye.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "Oyo akufi"
+    },
+    {
+      "surface": "לבעשא",
+      "gloss": "ya Baasha"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "na engumba"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "bakolia"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "bankie"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "mpe oyo akufi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "na shamba"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "bokolia"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ndeke"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ya likolo"
+    }
+  ],
+  "timestamp": "2026-09-03T18:53:30.369019067Z",
+  "model": "glm-5.3"
+}

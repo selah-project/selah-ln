@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jonah 4:7",
+  "book": "jonah",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Elohim atiyaki lokoso ntango etangolaki tongo na mokolo ya lobi, mpe etakaki ⟨את⟩ kikayon, mpe emikaki.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "atiyaki"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "lokoso"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "etangolaki"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "tongo"
+    },
+    {
+      "surface": "למחרת",
+      "gloss": "na mokolo ya lobi"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "etakaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kikayon"
+    },
+    {
+      "surface": "הקיקיון",
+      "gloss": "kikayon"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "emikaki"
+    }
+  ],
+  "timestamp": "2026-09-03T20:49:11.341383748Z",
+  "model": "glm-5.3"
+}

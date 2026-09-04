@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 26:35",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "Oyo bana ya Efraim na mibota na bango: ya Shutelah, libota ya Bashutelah; ya Bekere, libota ya Babekeri; ya Tahan, libota ya Batahani.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Oyo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ya Efraim"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "na mibota na bango"
+    },
+    {
+      "surface": "לשותלח",
+      "gloss": "ya Shutelah"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "libota"
+    },
+    {
+      "surface": "השתלחי",
+      "gloss": "ya Bashutelah"
+    },
+    {
+      "surface": "לבכר",
+      "gloss": "ya Bekere"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "libota"
+    },
+    {
+      "surface": "הבכרי",
+      "gloss": "ya Babekeri"
+    },
+    {
+      "surface": "לתחן",
+      "gloss": "ya Tahan"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "libota"
+    },
+    {
+      "surface": "התחני",
+      "gloss": "ya Batahani"
+    }
+  ],
+  "timestamp": "2026-09-03T17:16:26.567577912Z",
+  "model": "glm-5.3"
+}

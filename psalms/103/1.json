@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 103:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 103,
+  "translation": "Na David. Bolamusa, molimo na ngai, ⟨את⟩ Yawe, mpe bontito na ngai nyonso ⟨את⟩ nkombo ya boyoki na ye.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Na David"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "Bolamusa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "molimo na ngai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe nyonso"
+    },
+    {
+      "surface": "קרבי",
+      "gloss": "bontito na ngai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkombo ya boyoki na ye"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nkombo"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ya boyoki na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:26:15.801934877Z",
+  "model": "glm-5.3"
+}

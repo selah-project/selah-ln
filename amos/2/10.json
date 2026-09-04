@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 2:10",
+  "book": "amos",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe ngai nabimisaki ⟨את⟩ bino na mboka ya Mitsraim, mpe natambolisaki ⟨את⟩ bino na zongo bamyaka ntuku minei, mpo na kozwa ⟨את⟩ mabele ya baEmori.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "mpe ngai"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "nabimisaki"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ bino",
+      "marks": "bino"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "na mboka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "ואולך",
+      "gloss": "mpe natambolisaki"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ bino",
+      "marks": "bino"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "na zongo"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ntuku minei"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "bamyaka"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "mpo na kozwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabele ya baEmori"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ya baEmori"
+    }
+  ],
+  "timestamp": "2026-09-03T20:41:54.645096990Z",
+  "model": "glm-5.3"
+}

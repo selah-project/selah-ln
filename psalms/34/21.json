@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 34:21",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 34,
+  "translation": "Abatelaka mikuwa na ye yonso; moko kati na yango ebukamaki te.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Abatelaka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "עצמותיו",
+      "gloss": "mikuwa na ye"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "moko"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "kati na yango"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "ebukamaki"
+    }
+  ],
+  "timestamp": "2026-09-03T21:07:43.465428173Z",
+  "model": "glm-5.3"
+}

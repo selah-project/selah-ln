@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 29:3",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 29,
+  "translation": "Mpe nafandaki na kaa na zingazinga likolo ya yó, mpe nakangaki yó na esika ya mapinga, mpe natombaki likolo ya yó bibende ya bokangami.",
+  "tokens": [
+    {
+      "surface": "וחניתי",
+      "gloss": "mpe nafandaki na kaa"
+    },
+    {
+      "surface": "כדור",
+      "gloss": "na zingazinga"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "likolo ya yó"
+    },
+    {
+      "surface": "וצרתי",
+      "gloss": "mpe nakangaki"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "yó"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "esika ya mapinga"
+    },
+    {
+      "surface": "והקימתי",
+      "gloss": "mpe natombaki"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "likolo ya yó"
+    },
+    {
+      "surface": "מצרת",
+      "gloss": "bibende ya bokangami"
+    }
+  ],
+  "timestamp": "2026-09-03T19:24:50.501173608Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 136:17",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 136,
+  "translation": "Mpo na oyo abetaki bakonzi minene, mpo hesed na ye ⟨ezali⟩ kino seko.",
+  "tokens": [
+    {
+      "surface": "למכה",
+      "gloss": "mpo na oyo abetaki"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "bakonzi"
+    },
+    {
+      "surface": "גדולים",
+      "gloss": "minene"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kino seko"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:34:27.028371551Z",
+  "model": "glm-5.3"
+}

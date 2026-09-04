@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 3:4",
+  "book": "daniel",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe mokambi-nsango alobaki na lopito: na bino balobami, bato, bansi, mpe minoko.",
+  "tokens": [
+    {
+      "surface": "וכרוזא",
+      "gloss": "Mpe mokambi-nsango"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "בחיל",
+      "gloss": "na lopito"
+    },
+    {
+      "surface": "לכון",
+      "gloss": "na bino"
+    },
+    {
+      "surface": "אמרין",
+      "gloss": "balobami"
+    },
+    {
+      "surface": "עממיא",
+      "gloss": "bato"
+    },
+    {
+      "surface": "אמיא",
+      "gloss": "bansi"
+    },
+    {
+      "surface": "ולשניא",
+      "gloss": "mpe minoko"
+    }
+  ],
+  "timestamp": "2026-09-03T22:22:06.147619903Z",
+  "model": "glm-5.3"
+}

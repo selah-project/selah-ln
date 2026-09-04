@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 78:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 78,
+  "translation": "Oyo toyoki mpe toyebaki, mpe batata na biso balobaki na biso.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Oyo"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "toyoki"
+    },
+    {
+      "surface": "ונדעם",
+      "gloss": "mpe toyebaki"
+    },
+    {
+      "surface": "ואבותינו",
+      "gloss": "mpe batata na biso"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "balobaki"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "na biso"
+    }
+  ],
+  "timestamp": "2026-09-03T21:19:48.917689147Z",
+  "model": "glm-5.3"
+}

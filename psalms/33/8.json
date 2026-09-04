@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 33:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 33,
+  "translation": "Mabele nyonso ebanga Yawe, bato nyonso oyo bafandi na mokili bazali kokangama na yango.",
+  "tokens": [
+    {
+      "surface": "ייראו",
+      "gloss": "ebanga"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "bazali kokangama"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bato nyonso"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "oyo bafandi"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "na mokili"
+    }
+  ],
+  "timestamp": "2026-09-03T21:07:47.832931072Z",
+  "model": "glm-5.3"
+}

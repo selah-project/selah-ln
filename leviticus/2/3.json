@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 2:3",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe oyo etikali na minha ezali ya Aharon mpe ya bana na ye: eloko mosantu ya mosantu koleka, na ofele ya moto ya Yawe.",
+  "tokens": [
+    {
+      "surface": "והנותרת",
+      "gloss": "mpe oyo etikali"
+    },
+    {
+      "surface": "מן",
+      "gloss": "na"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minha"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "epai ya Aharon"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "mpe epai ya bana na ye"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "eloko mosantu"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ya mosantu koleka"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "na ofele ya moto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T16:40:10.872061652Z",
+  "model": "glm-5.3"
+}

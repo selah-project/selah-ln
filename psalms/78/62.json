@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "psalms 78:62",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 78,
+  "translation": "Mpe atiaki bato na yeye na ekifa, mpe akolakisaki mungwa na lokabo na yeye.",
+  "tokens": [
+    {
+      "surface": "ויסגר",
+      "gloss": "Mpe atiaki"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "na ekifa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bato na yeye"
+    },
+    {
+      "surface": "ובנחלתו",
+      "gloss": "mpe lokabo na yeye"
+    },
+    {
+      "surface": "התעבר",
+      "gloss": "akolakisaki mungwa"
+    }
+  ],
+  "timestamp": "2026-09-03T21:20:12.084527581Z",
+  "model": "glm-5.3"
+}

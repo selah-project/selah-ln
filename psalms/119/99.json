@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 99,
+  "ref": "psalms 119:99",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Nazali na mayele koleka balakisi na ngai banso, mpo bantembe na yo ezali mibanzabanza na ngai.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "koleka banso"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "balakisi na ngai"
+    },
+    {
+      "surface": "השכלתי",
+      "gloss": "nazali na mayele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "bantembe na yo"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "mibanzabanza"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:32:13.830036734Z",
+  "model": "glm-5.3"
+}

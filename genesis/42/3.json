@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 42,
+  "translation": "Mpe bandeko ya Yosef zomi bakitaki mpo na kosomba bilei na Mitsraim.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "bakitaki"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "bandeko"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ya Yosef"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "zomi"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "mpo na kosomba"
+    },
+    {
+      "surface": "בר",
+      "gloss": "bilei"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "na Mitsraim"
+    }
+  ],
+  "timestamp": "2026-09-03T16:09:19.401003210Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 138:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 138,
+  "translation": "Bakosembola yo, Yawe, bakonzi ya mabele nyonso, mpo bayoki maloba ya monoko na yo.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "bakosembola yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "bakonzi ya"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "bayoki"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "maloba ya"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "monoko na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:35:17.797185824Z",
+  "model": "glm-5.3"
+}

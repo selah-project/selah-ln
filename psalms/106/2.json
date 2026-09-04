@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 106:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 106,
+  "translation": "Nani akoki koloba nguya ya Yawe, mpe kolakisa lokumu na ye nyonso?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Nani"
+    },
+    {
+      "surface": "ימלל",
+      "gloss": "akoki koloba"
+    },
+    {
+      "surface": "גבורות",
+      "gloss": "nguya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "kolakisa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "lokumu na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:28:03.445548272Z",
+  "model": "glm-5.3"
+}

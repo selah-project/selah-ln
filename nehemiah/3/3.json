@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 3:3",
+  "book": "nehemiah",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe ⟨את⟩ potae ya mbisi babaki bana ya Hasena; bango batyolaki makonzi na yango, mpe batombolaki matudi na yango, makangi na yango, mpe mabongwe na yango.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Mpe ⟨את⟩",
+      "marks": "potae"
+    },
+    {
+      "surface": "שער",
+      "gloss": "potae"
+    },
+    {
+      "surface": "הדגים",
+      "gloss": "ya mbisi"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "babaki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "הסנאה",
+      "gloss": "ya Hasena"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bango"
+    },
+    {
+      "surface": "קרוהו",
+      "gloss": "batyolaki makonzi na yango"
+    },
+    {
+      "surface": "ויעמידו",
+      "gloss": "mpe batombolaki"
+    },
+    {
+      "surface": "דלתתיו",
+      "gloss": "matudi na yango"
+    },
+    {
+      "surface": "מנעוליו",
+      "gloss": "makangi na yango"
+    },
+    {
+      "surface": "ובריחיו",
+      "gloss": "mpe mabongwe na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T22:35:36.058321347Z",
+  "model": "glm-5.3"
+}

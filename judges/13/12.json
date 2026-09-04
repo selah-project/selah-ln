@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 13:12",
+  "book": "judges",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Mpe Manoah alobaki: Sikoyo maloba na yo ekoya — nini ekozali mibeko ya mwana, mpe misala na ye?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "Manoah"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "Sikoyo"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ekoya"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "maloba na yo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ekozali"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "mibeko"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ya mwana"
+    },
+    {
+      "surface": "ומעשהו",
+      "gloss": "mpe misala na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T18:02:47.177236640Z",
+  "model": "glm-5.3"
+}

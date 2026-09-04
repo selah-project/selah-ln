@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 2:7",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Yawe akomisaka mokemba, mpe akomisaka moto oyo azali na ebele; akitisaka, atá atombolaka.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מוריש",
+      "gloss": "akomisaka mokemba"
+    },
+    {
+      "surface": "ומעשיר",
+      "gloss": "mpe akomisaka moto oyo azali na ebele"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "akitisaka"
+    },
+    {
+      "surface": "אף",
+      "gloss": "atá"
+    },
+    {
+      "surface": "מרומם",
+      "gloss": "atombolaka"
+    }
+  ],
+  "timestamp": "2026-09-03T18:08:47.805552481Z",
+  "model": "glm-5.3"
+}

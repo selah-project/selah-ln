@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 42:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 42,
+  "translation": "Molimo na ngai ekonzalaka na Elohim, na El ya bomoi — tango nini nakoya mpe namonaka elongi ya Elohim?",
+  "tokens": [
+    {
+      "surface": "צמאה",
+      "gloss": "ekonzalaka"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "molimo na ngai"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "na Elohim"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "na El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ya bomoi"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "tango nini"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "nakoya"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "mpe namonaka"
+    },
+    {
+      "surface": "פני",
+      "gloss": "elongi ya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-03T21:10:44.892142969Z",
+  "model": "glm-5.3"
+}

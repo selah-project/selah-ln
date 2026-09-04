@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 33:9",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 33,
+  "translation": "Oyo alobaki na tata na ye mpe na mama na ye: Namonaki ye te; mpe ⟨את⟩ bandeko na ye atángaki te, mpe ⟨את⟩ bana na ye andeyaki te; mpo ete babatelaki liloba na yo, mpe bondeli na yo bakengelaka.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "Oyo alobaki"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "na tata na ye"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "mpe na mama na ye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ראיתיו",
+      "gloss": "namonaki ye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bandeko na ye"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "bandeko na ye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "atángaki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bana na ye"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "bana na ye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "andeyaki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "babatelaki"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "liloba na yo"
+    },
+    {
+      "surface": "ובריתך",
+      "gloss": "mpe bondeli na yo"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "bakengelaka"
+    }
+  ],
+  "timestamp": "2026-09-03T17:40:13.931981295Z",
+  "model": "glm-5.3"
+}

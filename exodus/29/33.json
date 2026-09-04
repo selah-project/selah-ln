@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 29:33",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 29,
+  "translation": "Mpe bakolia ⟨את⟩ bango, oyo bokangoli-masumu esalamaki na yango, mpo kobakisa ⟨את⟩ maboko na bango, mpo kokundola ⟨את⟩ bango; mpe moto ya libanda akolia te, mpo bosantu nde bango bazali.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "Mpe bakolia"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bango",
+      "marks": "bilo�ko bya bokangoli-masumu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "bokangoli-masumu esalamaki"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "למלא",
+      "gloss": "mpo kobakisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maboko na bango"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "maboko na bango"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "mpo kokundola"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bango",
+      "marks": "Aharon mpe bana na ye"
+    },
+    {
+      "surface": "וזר",
+      "gloss": "mpe moto ya libanda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "akolia"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "bosantu"
+    },
+    {
+      "surface": "הם",
+      "gloss": "bango bazali"
+    }
+  ],
+  "timestamp": "2026-09-03T16:30:44.810652885Z",
+  "model": "glm-5.3"
+}

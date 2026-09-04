@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 13:10",
+  "book": "hosea",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Ezali wapi sikoyo mokonzi na yo, mpe abikisi yo na mboka na yo nyonso? Mpe bazuzi na yo, oyo bolobaki ete: Pesa ngai mokonzi mpe bankulutu!",
+  "tokens": [
+    {
+      "surface": "אהי",
+      "gloss": "Ezali wapi"
+    },
+    {
+      "surface": "מלכך",
+      "gloss": "mokonzi na yo"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "sikoyo"
+    },
+    {
+      "surface": "ויושיעך",
+      "gloss": "mpe abikisi yo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na nyonso"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "mboka na yo"
+    },
+    {
+      "surface": "ושפטיך",
+      "gloss": "mpe bazuzi na yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "bolobaki"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "Pesa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "ושרים",
+      "gloss": "mpe bankulutu"
+    }
+  ],
+  "timestamp": "2026-09-03T20:39:42.549872017Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 33:10",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 33,
+  "translation": "Sika oyo nakotelema, alobi Yawe; sika oyo nakokwama; sika oyo nakotombola ngai moko.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "sika oyo"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "nakotelema"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "alobi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "sika oyo"
+    },
+    {
+      "surface": "ארומם",
+      "gloss": "nakokwama"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "sika oyo"
+    },
+    {
+      "surface": "אנשא",
+      "gloss": "nakotombola ngai moko"
+    }
+  ],
+  "timestamp": "2026-09-03T19:23:59.151919670Z",
+  "model": "glm-5.3"
+}

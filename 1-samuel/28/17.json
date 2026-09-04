@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 28:17",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 28,
+  "translation": "Mpe Yawe asalaki yo ndenge alobaki na maboko na ngai, mpe Yawe ekangolaki ⟨את⟩ bokonzi na maboko na yo, mpe apesaki yango moninga na yo, David.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Mpe asalaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ndenge"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "na maboko na ngai"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "mpe ekangolaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bokonzi"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "bokonzi"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "na maboko na yo"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "mpe apesaki yango"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "moninga na yo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-09-03T18:24:44.000392199Z",
+  "model": "glm-5.3"
+}

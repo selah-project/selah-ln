@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 19:12",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "mpe babange ya engumba na ye batindaki mpe bakangaki ⟨את⟩ ye kuna, mpe bakopesaki ⟨את⟩ ye na loboko ya molombi-masi, mpe akufaki.",
+  "tokens": [
+    {
+      "surface": "ושלחו",
+      "gloss": "batindaki"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "babange ya"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "engumba na ye"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "mpe bakangaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ye"
+    },
+    {
+      "surface": "משם",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "mpe bakopesaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ye"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "na loboko ya"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "molombi-masi"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "masi"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "mpe akufaki"
+    }
+  ],
+  "timestamp": "2026-09-03T17:33:03.852608369Z",
+  "model": "glm-5.3"
+}

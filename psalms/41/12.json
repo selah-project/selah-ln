@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 41:12",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 41,
+  "translation": "Na yango nayebi ete olingi ngai, mpo ete moyinga na ngai akosepela kokanza likolo na ngai te.",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "Na yango"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "nayebi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "olingi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "akosepela kokanza"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "moyinga na ngai"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "likolo na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:10:04.020433679Z",
+  "model": "glm-5.3"
+}

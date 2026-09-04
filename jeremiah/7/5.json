@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 7:5",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mpo soki bobongisi nde malamu ⟨את⟩ banjela na bino mpe ⟨את⟩ misala na bino, soki bosali nde kosala bosolo kati ya moto mpe kati ya moninga na yango,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "soki"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "malamu"
+    },
+    {
+      "surface": "תיטיבו",
+      "gloss": "bobongisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "banjela na bino"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "banjela na bino"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "misala na bino"
+    },
+    {
+      "surface": "מעלליכם",
+      "gloss": "misala na bino"
+    },
+    {
+      "surface": "אם",
+      "gloss": "soki"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "kosala"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "bosali"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "bosolo"
+    },
+    {
+      "surface": "בין",
+      "gloss": "kati ya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "mpe kati ya"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "moninga na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T19:43:14.731820233Z",
+  "model": "glm-5.3"
+}

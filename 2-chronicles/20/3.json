@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 20:3",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 20,
+  "translation": "Mpe Yehoshafat abangaki, mpe atyaki ⟨את⟩ elongi naye mpo na koluka Yawe, mpe atangaki bolo likolo ya Yehuda mobimba.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "mpe abangaki"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "mpe atyaki"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elongi naye"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "elongi naye"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "mpo na koluka"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "mpe atangaki"
+    },
+    {
+      "surface": "צום",
+      "gloss": "bolo"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mobimba"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ya Yehuda"
+    }
+  ],
+  "timestamp": "2026-09-03T23:02:27.330465536Z",
+  "model": "glm-5.3"
+}

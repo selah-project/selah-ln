@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 78:42",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 78,
+  "translation": "Bayanoli te ⟨את⟩ loboko na ye, mokolo oyo akeyisaki bango na monguna.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "Bayanoli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "loboko na ye"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "loboko na ye"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mokolo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "פדם",
+      "gloss": "akeyisaki bango"
+    },
+    {
+      "surface": "מני",
+      "gloss": "na"
+    },
+    {
+      "surface": "צר",
+      "gloss": "monguna"
+    }
+  ],
+  "timestamp": "2026-09-03T21:20:01.294494034Z",
+  "model": "glm-5.3"
+}

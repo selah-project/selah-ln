@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 2:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Oyo azali kofanda na likolo asekelaka, Adonai akebisanaka bango.",
+  "tokens": [
+    {
+      "surface": "יושב",
+      "gloss": "Oyo azali kofanda"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "na likolo"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "asekelaka"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ילעג",
+      "gloss": "akebisanaka"
+    },
+    {
+      "surface": "למו",
+      "gloss": "bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:00:12.766281714Z",
+  "model": "glm-5.3"
+}

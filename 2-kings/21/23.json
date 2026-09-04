@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 21:23",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Mpe basaleli ya Amon basalaki likololo likolo na ye, mpe babomaki ⟨את⟩ mokonzi na ndako na ye.",
+  "tokens": [
+    {
+      "surface": "ויקשרו",
+      "gloss": "basalaki likololo"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "basaleli"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "likolo na ye"
+    },
+    {
+      "surface": "וימיתו",
+      "gloss": "babomaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mokonzi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "na ndako na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T19:09:24.125378371Z",
+  "model": "glm-5.3"
+}

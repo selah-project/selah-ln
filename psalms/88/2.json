@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 88:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 88,
+  "translation": "Yawe, Elohim ya bobikisi na ngai, mokolo nakangaki mongongo, na butu liboso na yo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ya"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "bobikisi na ngai"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mokolo"
+    },
+    {
+      "surface": "צעקתי",
+      "gloss": "nakangaki mongongo"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "na butu"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "liboso na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:22:37.375685742Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 120:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 120,
+  "translation": "Ngai nazali ⟨na⟩ kimya; kasi tango nakoloba, bango bazali na etumba.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ngai"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kimya"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "kasi tango"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "nakoloba"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bango"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "na etumba"
+    }
+  ],
+  "timestamp": "2026-09-03T21:32:32.629744324Z",
+  "model": "glm-5.3"
+}

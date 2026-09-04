@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 45:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 45,
+  "translation": "Motema na ngai ebotaki liloba ya malamu; nazali koloba: misala na ngai ezali mpo na mokonzi; liloba na ngai ⟨ezali⟩ peni ya mosanzi ya noki.",
+  "tokens": [
+    {
+      "surface": "רחש",
+      "gloss": "ebotaki"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "Motema na ngai"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "liloba"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ya malamu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "nazali koloba"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "misala na ngai"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "mpo na mokonzi"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "liloba na ngai"
+    },
+    {
+      "surface": "עט",
+      "gloss": "peni"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "ya mosanzi"
+    },
+    {
+      "surface": "מהיר",
+      "gloss": "ya noki"
+    }
+  ],
+  "timestamp": "2026-09-03T21:12:14.604609054Z",
+  "model": "glm-5.3"
+}

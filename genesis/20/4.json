@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 20:4",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 20,
+  "translation": "Mpe Avimelekh akokaki te epai na ye, mpe alobaki: Adonai, ekolo mpe ya sembo obomaka?",
+  "tokens": [
+    {
+      "surface": "ואבימלך",
+      "gloss": "mpe Avimelekh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "akokaki"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "epai na ye"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "ekolo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ya sembo"
+    },
+    {
+      "surface": "תהרג",
+      "gloss": "obomaka"
+    }
+  ],
+  "timestamp": "2026-09-03T15:55:26.008229917Z",
+  "model": "glm-5.3"
+}

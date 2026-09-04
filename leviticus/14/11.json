@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 14:11",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Mpe kohen oyo asanzaka atelemisi ⟨את⟩ moto oyo asanzolami mpe ⟨את⟩ biloko ya sakrifi, liboso ya Yawe, na libanza ya nzenza ya kokutana.",
+  "tokens": [
+    {
+      "surface": "והעמיד",
+      "gloss": "mpe atelemisi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "oyo asanzaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moto oyo asanzolami"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "oyo asanzolami"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "biloko ya sakrifi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "libanza"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "nzenza"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya kokutana"
+    }
+  ],
+  "timestamp": "2026-09-03T16:47:16.196200458Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 30:20",
+  "book": "job",
+  "lang": "ln",
+  "chapter": 30,
+  "translation": "Nabengi epai na yo, mpe oyanoli ngai te; natelemi, mpe otali ngai.",
+  "tokens": [
+    {
+      "surface": "אשוע",
+      "gloss": "Nabengi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "epai na yo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "oyanoli ngai"
+    },
+    {
+      "surface": "עמדתי",
+      "gloss": "natelemi"
+    },
+    {
+      "surface": "ותתבנן",
+      "gloss": "mpe otali"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T22:01:17.399290220Z",
+  "model": "glm-5.3"
+}

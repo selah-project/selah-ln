@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 11:13",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpe ⟨את⟩ manzombi aya bokoboya kati na manzombi: ekoliamaka te, ezali ekwezi: ⟨את⟩ Neshet mpe ⟨את⟩ Peres mpe ⟨את⟩ Azniya.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "manzombi aya"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "bokoboya"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kati na"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "manzombi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ekoliamaka"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "ekwezi"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ezali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Neshet"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "Neshet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Peres"
+    },
+    {
+      "surface": "הפרס",
+      "gloss": "Peres"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Azniya"
+    },
+    {
+      "surface": "העזניה",
+      "gloss": "Azniya"
+    }
+  ],
+  "timestamp": "2026-09-03T16:43:31.885131865Z",
+  "model": "glm-5.3"
+}

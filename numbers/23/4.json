@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 23:4",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Mpe Elohim akutanaki na Bilam, mpe alobaki na ye: ⟨את⟩ baauteli sambo natelemisaki, mpe natikelaki ngombe mpe tonto na auteli.",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "Mpe akutanaki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baauteli sambo"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sambo"
+    },
+    {
+      "surface": "המזבחת",
+      "gloss": "baauteli"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "natelemisaki"
+    },
+    {
+      "surface": "ואעל",
+      "gloss": "mpe natikelaki"
+    },
+    {
+      "surface": "פר",
+      "gloss": "ngombe"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "mpe tonto"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "na auteli"
+    }
+  ],
+  "timestamp": "2026-09-03T17:14:59.138469451Z",
+  "model": "glm-5.3"
+}

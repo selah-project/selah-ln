@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 21:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Mpo ete otyi ye mapamboli kino seko; okesi ye na esengo na ⟨את⟩ elongi nawe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo ete"
+    },
+    {
+      "surface": "תשיתהו",
+      "gloss": "otyi ⟨ye⟩"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "mapamboli"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "kino seko"
+    },
+    {
+      "surface": "תחדהו",
+      "gloss": "okesi ⟨ye⟩"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "na esengo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elongi nawe"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "elongi nawe"
+    }
+  ],
+  "timestamp": "2026-09-03T21:04:58.632430399Z",
+  "model": "glm-5.3"
+}

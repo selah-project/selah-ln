@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 35:32",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 35,
+  "translation": "Mpe kokanisa makanisi ya kosala na wolo, mpe na fede, mpe na bronzi.",
+  "tokens": [
+    {
+      "surface": "ולחשב",
+      "gloss": "mpe kokanisa"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "makanisi"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "ya kosala"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "na wolo"
+    },
+    {
+      "surface": "ובכסף",
+      "gloss": "mpe na fede"
+    },
+    {
+      "surface": "ובנחשת",
+      "gloss": "mpe na bronzi"
+    }
+  ],
+  "timestamp": "2026-09-03T16:35:46.055239983Z",
+  "model": "glm-5.3"
+}

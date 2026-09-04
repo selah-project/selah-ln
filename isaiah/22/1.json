@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 22:1",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Masa ya ebale ya likita. Nini esali yo sikoyo, ete okwei yo nyonso na ntoki ya bandako?",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Masa"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "ya ebale"
+    },
+    {
+      "surface": "חזיון",
+      "gloss": "ya likita"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Nini"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yo"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "sikoyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "okwei"
+    },
+    {
+      "surface": "כלך",
+      "gloss": "yo nyonso"
+    },
+    {
+      "surface": "לגגות",
+      "gloss": "na ntoki ya bandako"
+    }
+  ],
+  "timestamp": "2026-09-03T19:20:50.693834317Z",
+  "model": "glm-5.3"
+}

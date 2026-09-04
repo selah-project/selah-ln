@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 32:8",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 32,
+  "translation": "Ndenge wana bakoko na bino basalaki, ntango natindaki bango ⟨את⟩ uta Kadesh Barnea mpo na komona ⟨את⟩ mabele.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ndenge wana"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "basalaki"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "bakoko na bino"
+    },
+    {
+      "surface": "בשלחי",
+      "gloss": "ntango natindaki"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "Kadesh Barnea"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "uta Kadesh"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barnea"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "mpo na komona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T17:18:46.635572824Z",
+  "model": "glm-5.3"
+}

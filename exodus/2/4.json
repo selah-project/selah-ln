@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 2:4",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe ndumu na ye atelamaki mosika, mpo na koyeba nini ekosalelama ⟨na ye⟩.",
+  "tokens": [
+    {
+      "surface": "ותתצב",
+      "gloss": "atelamaki"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "ndumu na ye"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "mosika"
+    },
+    {
+      "surface": "לדעה",
+      "gloss": "mpo na koyeba"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ekosalelama"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T16:14:00.565629856Z",
+  "model": "glm-5.3"
+}

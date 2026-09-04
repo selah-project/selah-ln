@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 75:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 75,
+  "translation": "Na mokambi; Kolimwisa te; nzembo ya Asaf; moyembi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Na mokambi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "kolimwisa"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "nzembo"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ya Asaf"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "moyembi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:19:06.891658312Z",
+  "model": "glm-5.3"
+}

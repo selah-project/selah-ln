@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 5:5",
+  "book": "job",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Oyo nzala elie lokoso na ye, mpe na kati ya matiti bakaka yango, mpe bikanga kolekisa makabo na bango.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "קצירו",
+      "gloss": "lokoso na ye"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "nzala"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "elie"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mpe na"
+    },
+    {
+      "surface": "מצנים",
+      "gloss": "matiti"
+    },
+    {
+      "surface": "יקחהו",
+      "gloss": "bakaka yango"
+    },
+    {
+      "surface": "ושאף",
+      "gloss": "mpe kolekisa"
+    },
+    {
+      "surface": "צמים",
+      "gloss": "bikanga"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "makabo na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:52:37.161674883Z",
+  "model": "glm-5.3"
+}

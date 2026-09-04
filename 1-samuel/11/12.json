@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 11:12",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpe bato alobaki epai na Shemuel: Nani alobaki ete Shaul akokonza likolo na biso? Bipesa bato yango, mpe tobomaka bango.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai na"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nani"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "akokonza"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "likolo na biso"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "bipesa"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "bato yango"
+    },
+    {
+      "surface": "ונמיתם",
+      "gloss": "mpe tobomaka bango"
+    }
+  ],
+  "timestamp": "2026-09-03T18:13:21.370633179Z",
+  "model": "glm-5.3"
+}

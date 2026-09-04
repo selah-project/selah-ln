@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 9:10",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Mpe Yawe atandisaki ⟨את⟩ banguna ya Retsin likolo na ye, mpe ⟨את⟩ banguna na ye asangisaki.",
+  "tokens": [
+    {
+      "surface": "וטשגב",
+      "gloss": "mpe atandisaki na likolo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "banguna ya Retsin"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "banguna"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "ya Retsin"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "likolo na ye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "banguna na ye"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "banguna na ye"
+    },
+    {
+      "surface": "יסכסך",
+      "gloss": "asangisaki"
+    }
+  ],
+  "timestamp": "2026-09-03T19:16:44.217958057Z",
+  "model": "glm-5.3"
+}

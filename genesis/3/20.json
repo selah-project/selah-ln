@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 3:20",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe moto abengaki nkombo ya mwasi na ye Hava, mpo ye azalaki mama ya bomoi nyonso.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Mpe abengaki"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "moto"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nkombo ya"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mwasi na ye"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Hava"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ye"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "azalaki"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mama ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "חי",
+      "gloss": "bomoi"
+    }
+  ],
+  "timestamp": "2026-09-03T15:45:34.638052070Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 11:22",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpe motindami akendaki, mpe ayaki, mpe atangaki na David ⟨את⟩ nyonso oyo Yoab atindaki ye.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Mpe ... akendaki"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "motindami"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "mpe ayaki"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "mpe atangaki"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "na David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "atindaki ye"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    }
+  ],
+  "timestamp": "2026-09-03T18:32:08.735411969Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 107:21",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 107,
+  "translation": "Batondisaka Yawe na hesed na yaye, mpe na makambo ya kokamwisa na yaye na bana ya adam.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "Batondisaka"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "na hesed na yaye"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "mpe na makambo ya kokamwisa na yaye"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "na bana ya"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "adam"
+    }
+  ],
+  "timestamp": "2026-09-03T21:27:38.977174876Z",
+  "model": "glm-5.3"
+}

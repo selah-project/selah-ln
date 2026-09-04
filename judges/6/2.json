@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 6:2",
+  "book": "judges",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpe loboko ya Midian ekangaki likolo ya Israel; mpamba ya Midian bana ya Israel basalaki ⟨את⟩ bisika ya kobomba oyo ezali na bangomba, mpe ⟨את⟩ bifwele, mpe ⟨את⟩ bisika ya makasi, mpo na bango.",
+  "tokens": [
+    {
+      "surface": "ויעז",
+      "gloss": "mpe ekangaki"
+    },
+    {
+      "surface": "יד",
+      "gloss": "loboko"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "ya Midian"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "mpamba ya"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midian"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "basalaki"
+    },
+    {
+      "surface": "להם",
+      "gloss": "mpo na bango"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bisika ya kobomba"
+    },
+    {
+      "surface": "המנהרות",
+      "gloss": "bisika ya kobomba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo ezali"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "na bangomba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bifwele"
+    },
+    {
+      "surface": "המערות",
+      "gloss": "bifwele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bisika ya makasi"
+    },
+    {
+      "surface": "המצדות",
+      "gloss": "bisika ya makasi"
+    }
+  ],
+  "timestamp": "2026-09-03T17:59:42.313716919Z",
+  "model": "glm-5.3"
+}

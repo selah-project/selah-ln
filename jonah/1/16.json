@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jonah 1:16",
+  "book": "jonah",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe bato bobangaki ⟨את⟩ Yawe na bobangi monene, mpe babongisaki mbeka epai ya Yawe, mpe basalaki bilaka.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "bobangaki"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "bato"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "bobangi"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "monene"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "mpe babongisaki"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "mbeka"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "epai ya Yawe"
+    },
+    {
+      "surface": "וידרו",
+      "gloss": "mpe basalaki"
+    },
+    {
+      "surface": "נדרים",
+      "gloss": "bilaka"
+    }
+  ],
+  "timestamp": "2026-09-03T20:47:28.208633210Z",
+  "model": "glm-5.3"
+}

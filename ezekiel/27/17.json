@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 27:17",
+  "book": "ezekiel",
+  "lang": "ln",
+  "chapter": 27,
+  "translation": "Yehuda mpe mabele ya Israel, bango bazalaki bakolonzi na yo; na ble ya Minit, mpe Panag, mpe keeper, mpe mafuta, mpe balsamu, bapesaki malako na yo.",
+  "tokens": [
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "mpe mabele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bango"
+    },
+    {
+      "surface": "רכליך",
+      "gloss": "bazalaki bakolonzi na yo"
+    },
+    {
+      "surface": "בחטי",
+      "gloss": "na ble"
+    },
+    {
+      "surface": "מנית",
+      "gloss": "ya Minit"
+    },
+    {
+      "surface": "ופנג",
+      "gloss": "mpe Panag"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "mpe keeper"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "mpe mafuta"
+    },
+    {
+      "surface": "וצרי",
+      "gloss": "mpe balsamu"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "bapesaki"
+    },
+    {
+      "surface": "מערבך",
+      "gloss": "malako na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T20:24:39.455104539Z",
+  "model": "glm-5.3"
+}

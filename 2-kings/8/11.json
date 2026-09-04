@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 8:11",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe atyaki ⟨את⟩ monyo na ye, mpe atyaki yango tii akukanaki; mpe moto ya Elohim akilaki.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "mpe atyaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "monyo na ye"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "monyo na ye"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "mpe atyaki"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tii"
+    },
+    {
+      "surface": "בש",
+      "gloss": "akukanaki"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "mpe akilaki"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ya Elohim"
+    }
+  ],
+  "timestamp": "2026-09-03T19:02:34.585671438Z",
+  "model": "glm-5.3"
+}

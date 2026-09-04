@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 53:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 53,
+  "translation": "Bayebi te baposi ya mabe, bali bato na ngai ⟨lokola⟩ bali manga? Elohim babengaki te.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "bayebi"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "baposi"
+    },
+    {
+      "surface": "און",
+      "gloss": "ya mabe"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "bali"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "bato na ngai"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "bali"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "manga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "babengaki"
+    }
+  ],
+  "timestamp": "2026-09-03T21:14:20.878654842Z",
+  "model": "glm-5.3"
+}

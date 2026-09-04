@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 25:12",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Mpo na yango loba: Talá, ngai nazali kopesa ye ⟨את⟩ boyokani na ngai ya kimya.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Mpo na yango"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "loba"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Talá, ngai nazali"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "kopesa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boyokani na ngai"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "boyokani na ngai"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ya kimya"
+    }
+  ],
+  "timestamp": "2026-09-03T17:14:12.269833071Z",
+  "model": "glm-5.3"
+}

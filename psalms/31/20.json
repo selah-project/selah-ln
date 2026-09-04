@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 31:20",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 31,
+  "translation": "Boni bonene ezali bolamu na yo, oyo obombaki mpo na babangi na yo, oyo osalaki mpo na bato ya bobateli na yo, liboso ya bana ya bato.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "boni"
+    },
+    {
+      "surface": "רב",
+      "gloss": "bonene"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "bolamu na yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "צפנת",
+      "gloss": "obombaki"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "mpo na babangi na yo"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "osalaki"
+    },
+    {
+      "surface": "לחסים",
+      "gloss": "mpo na bato ya bobateli"
+    },
+    {
+      "surface": "בך",
+      "gloss": "na yo"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "bato"
+    }
+  ],
+  "timestamp": "2026-09-03T21:06:33.968512329Z",
+  "model": "glm-5.3"
+}

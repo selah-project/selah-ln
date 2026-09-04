@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 125:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 125,
+  "translation": "Mpe baye babalukaka na mikeseno na bango, Yawe akomemaka bango ⟨elongo na⟩ ⟨את⟩ basali mabe; boboto likolo ya Israel.",
+  "tokens": [
+    {
+      "surface": "והמטים",
+      "gloss": "mpe baye babalukaka"
+    },
+    {
+      "surface": "עקלקלותם",
+      "gloss": "mikeseno na bango"
+    },
+    {
+      "surface": "יוליכם",
+      "gloss": "akomemaka bango"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "basali mabe"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "basali"
+    },
+    {
+      "surface": "האון",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "boboto"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-03T21:32:49.427850136Z",
+  "model": "glm-5.3"
+}

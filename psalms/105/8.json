@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 105:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 105,
+  "translation": "Akanaki kino seko boyokani na ye, liloba oyo atindaki kino miloko nkoto.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Akanaki"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kino seko"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "boyokani na ye"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "liloba"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "oyo atindaki"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "nkoto"
+    },
+    {
+      "surface": "דור",
+      "gloss": "kino miloko"
+    }
+  ],
+  "timestamp": "2026-09-03T21:27:13.560716229Z",
+  "model": "glm-5.3"
+}

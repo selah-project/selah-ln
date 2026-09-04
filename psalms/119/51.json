@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 119:51",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Babangi baboyaki ngai ti mingi; na Tora na yo nayangi te.",
+  "tokens": [
+    {
+      "surface": "זדים",
+      "gloss": "Babangi"
+    },
+    {
+      "surface": "הליצני",
+      "gloss": "baboyaki ngai"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ti"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mingi"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "na Tora na yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "נטיתי",
+      "gloss": "nayangi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:31:10.305135355Z",
+  "model": "glm-5.3"
+}

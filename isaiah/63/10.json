@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 63:10",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 63,
+  "translation": "Kasi bango babwaki mabe mpe basalaki mawa na ⟨את⟩ elimo santu na ye, mpe akomaki na bango monguna; ye moko alalaki etumba na bango.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "kasi bango"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "babwaki mabe"
+    },
+    {
+      "surface": "ועצבו",
+      "gloss": "mpe basalaki mawa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elimo santu na ye"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "elimo"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "santu na ye"
+    },
+    {
+      "surface": "ויהפך",
+      "gloss": "mpe akomaki"
+    },
+    {
+      "surface": "להם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "לאויב",
+      "gloss": "monguna"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ye moko"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "alalaki etumba"
+    },
+    {
+      "surface": "בם",
+      "gloss": "na bango"
+    }
+  ],
+  "timestamp": "2026-09-04T00:21:20.942585414Z",
+  "model": "glm-5.3"
+}

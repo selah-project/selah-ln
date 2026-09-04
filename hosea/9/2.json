@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 9:2",
+  "book": "hosea",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Masano mpe batumbu bakolisa bango te, mpe divai ya sika ekokosa na yango.",
+  "tokens": [
+    {
+      "surface": "גרן",
+      "gloss": "masano"
+    },
+    {
+      "surface": "ויקב",
+      "gloss": "mpe batumbu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "bakolisa bango"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "mpe divai ya sika"
+    },
+    {
+      "surface": "יכחש",
+      "gloss": "ekokosa"
+    },
+    {
+      "surface": "בה",
+      "gloss": "na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T20:40:25.575040521Z",
+  "model": "glm-5.3"
+}

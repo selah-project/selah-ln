@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 118:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 118,
+  "translation": "Yawe azali epai ngai na kati ya basalisi na ngai, mpe ngai nakomona banguna na ngai.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "epai ngai"
+    },
+    {
+      "surface": "בעזרי",
+      "gloss": "na kati ya basalisi na ngai"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "mpe ngai"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "nakomona"
+    },
+    {
+      "surface": "בשנאי",
+      "gloss": "banguna na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:30:13.383091020Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 14:16",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Mpe akopesa ⟨את⟩ Israel mpo na masumu ya Yaravam, oyo asalaki masumu, mpe oyo apesaki Israel masumu.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "mpe akopesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בגלל",
+      "gloss": "mpo na"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "masumu"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ya Yaravam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "asalaki masumu"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "mpe oyo"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "apesaki Israel masumu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-03T18:52:31.575280756Z",
+  "model": "glm-5.3"
+}

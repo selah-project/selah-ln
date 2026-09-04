@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 86:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 86,
+  "translation": "Na mokolo ya etungiseli na ngai nakobenga yo, mpo yo oyanolaka ngai.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Na mokolo"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "ya etungiseli na ngai"
+    },
+    {
+      "surface": "אקראך",
+      "gloss": "nakobenga yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "oyanolaka ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:22:22.448967040Z",
+  "model": "glm-5.3"
+}

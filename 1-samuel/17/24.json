@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 17:24",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 17,
+  "translation": "Mpe bato nyonso ya Israel, soki balaki ⟨את⟩ moto yango, bakimaki liboso na ye, mpe bazalaki na bobangi monene.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Mpe bato nyonso"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בראותם",
+      "gloss": "soki balaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moto yango"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "moto yango"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "bakimaki"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "liboso na ye"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "mpe bazalaki na bobangi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "monene"
+    }
+  ],
+  "timestamp": "2026-09-03T18:17:21.858247535Z",
+  "model": "glm-5.3"
+}

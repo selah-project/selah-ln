@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 30:19",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 30,
+  "translation": "Nzela ya nkomba na likolo, nzela ya njoka na libanga, nzela ya masuwa na motema ya mbu, mpe nzela ya mobali na mwana mwasi.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "nzela"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "ya nkomba"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "na likolo"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "nzela"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "njoka"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "na"
+    },
+    {
+      "surface": "צור",
+      "gloss": "libanga"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "nzela"
+    },
+    {
+      "surface": "אניה",
+      "gloss": "masuwa"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "na motema"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ya mbu"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "mpe nzela"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "mobali"
+    },
+    {
+      "surface": "בעלמה",
+      "gloss": "na mwana mwasi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:49:34.690926922Z",
+  "model": "glm-5.3"
+}

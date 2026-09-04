@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 23:9",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "David ayebaki ete Shaul azali kobomba mabe epai na ye, mpe alobaki na Evyatar kohen: Yakisa efode awa.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "ayebaki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "epai na ye"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "מחריש",
+      "gloss": "azali kobomba"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Evyatar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "הגישה",
+      "gloss": "Yakisa"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "efode"
+    }
+  ],
+  "timestamp": "2026-09-03T18:20:33.944599462Z",
+  "model": "glm-5.3"
+}

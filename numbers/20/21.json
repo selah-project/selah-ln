@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 20:21",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 20,
+  "translation": "Mpe Edom aboyaki kopesa ⟨את⟩ Israel ndela ya kopasa na ndelo na ye, mpe Israel alongwaki esika na ye.",
+  "tokens": [
+    {
+      "surface": "וימאן",
+      "gloss": "Mpe aboyaki"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "kopesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "kopasa"
+    },
+    {
+      "surface": "בגבלו",
+      "gloss": "na ndelo na ye"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "mpe alongwaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "esika na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T17:12:08.864258750Z",
+  "model": "glm-5.3"
+}

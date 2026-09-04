@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 9:3",
+  "book": "daniel",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Mpe natyi ⟨את⟩ elongi na ngai epai ya Adonai Elohim, mpo na koluka losambo mpe bobondeli, na kala mpe sako mpe putulu.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "Mpe natyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elongi na ngai"
+    },
+    {
+      "surface": "פני",
+      "gloss": "elongi na ngai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "mpo na koluka"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "losambo"
+    },
+    {
+      "surface": "ותחנונים",
+      "gloss": "mpe bobondeli"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "na kala"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "mpe sako"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "mpe putulu"
+    }
+  ],
+  "timestamp": "2026-09-03T22:25:07.098172459Z",
+  "model": "glm-5.3"
+}

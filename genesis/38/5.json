@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 38:5",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 38,
+  "translation": "Abakisaki lisusu mpe abotaki mwana mobali, mpe abengaki ⟨את⟩ nkombo na ye Shelah; mpe ⟨ye⟩ azalaki na Khezib tango abotaki ⟨את⟩ ye.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "abakisaki"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lisusu"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "mpe abotaki"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana mobali"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "mpe abengaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkombo na ye"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nkombo na ye"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "Shelah"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "mpe azalaki"
+    },
+    {
+      "surface": "בכזיב",
+      "gloss": "na Khezib"
+    },
+    {
+      "surface": "בלדתה",
+      "gloss": "tango abotaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ye",
+      "marks": "ye"
+    }
+  ],
+  "timestamp": "2026-09-03T16:05:08.504600485Z",
+  "model": "glm-5.3"
+}

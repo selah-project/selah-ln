@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 23:33",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Bakofanda te na mabele na yo, mpo bakei yo na lokuta ⟨ete⟩ likolo ya Yawe; mpe okosunga ⟨את⟩ banzambe na bango, mpe yango ekokoma mokanga mpo na yo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "Bakofanda"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "na mabele na yo"
+    },
+    {
+      "surface": "פן",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "יחטיאו",
+      "gloss": "bakei yo na lokuta"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ yo",
+      "marks": "yo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "likolo ya Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "okosunga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "banzambe na bango"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "banzambe na bango"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ekokoma"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mpo na yo"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "mokanga"
+    }
+  ],
+  "timestamp": "2026-09-03T16:24:29.811620479Z",
+  "model": "glm-5.3"
+}

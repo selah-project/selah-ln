@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 25:1",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Mpe oyo ezali masolo ya Shelomo, oyo bato ya Hizakiya, mokonzi ya Yehuda, bakopelisaki.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Mpe"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "משלי",
+      "gloss": "masolo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "העתיקו",
+      "gloss": "bakopelisaki"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "bato ya"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Hizakiya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-09-03T21:47:29.537375302Z",
+  "model": "glm-5.3"
+}

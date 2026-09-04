@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 6:21",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mokonzi ya Israel alobaki na Elisha, tango amonaki ⟨את⟩ bango: Tata, nakanga bango? Nakanga bango?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "כראתו",
+      "gloss": "tango amonaki"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ bango",
+      "marks": "bango (oyo mokonzi amonaki)"
+    },
+    {
+      "surface": "האכה",
+      "gloss": "nakanga bango?"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "Nakanga bango?"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Tata"
+    }
+  ],
+  "timestamp": "2026-09-03T19:00:15.204010746Z",
+  "model": "glm-5.3"
+}

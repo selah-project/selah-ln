@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 23:5",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Ntango nsango ekomaki na Mitsraim, bangungunaki; ndenge moko na nsango ya Tsor.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Ntango"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nsango ekomaki"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "na Mitsraim"
+    },
+    {
+      "surface": "יחילו",
+      "gloss": "bangungunaki"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "ndenge moko na nsango"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ya Tsor"
+    }
+  ],
+  "timestamp": "2026-09-03T19:22:15.585313075Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 10:8",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Mpe mokolo ya nsima, Bafilisiti bayaki mpo na kolongola bilamba ⟨את⟩ bato oyo bakufaki, mpe bakutaki ⟨את⟩ Shaul mpe ⟨את⟩ bana na ye bawei na ngomba ya Gilboa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mpe ekalaki"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "mokolo ya nsima"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "mpe bayaki"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Bafilisiti"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "mpo na kolongola bilamba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bato oyo bakufaki"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "bato oyo bakufaki"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "mpe bakutaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shaul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bana na ye"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bana na ye"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "bawei"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "na ngomba"
+    },
+    {
+      "surface": "גלבע",
+      "gloss": "Gilboa"
+    }
+  ],
+  "timestamp": "2026-09-03T22:45:13.040638409Z",
+  "model": "glm-5.3"
+}

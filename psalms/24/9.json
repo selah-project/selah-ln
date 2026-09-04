@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 24:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "Bolambo, baporte, mitu na bino, mpe bolambo, baporte ya seko, mpe akota mokonzi ya nkembo.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Bolambo"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "baporte"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "mitu na bino"
+    },
+    {
+      "surface": "ושאו",
+      "gloss": "mpe bolambo"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "baporte"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ya seko"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "mpe akota"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "ya nkembo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:05:30.013147062Z",
+  "model": "glm-5.3"
+}

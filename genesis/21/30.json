@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 21:30",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Mpe alobaki: mpo ete ⟨את⟩ bampeni ya bese sambo okozwa na maboko na ngai, mpo ete ezala temwe epai na ngai ete nakulaki ⟨את⟩ liziba oyo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bampeni ya bese sambo"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sambo"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "bampeni ya bese"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "okozwa"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "na maboko na ngai"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ezala"
+    },
+    {
+      "surface": "לי",
+      "gloss": "epai na ngai"
+    },
+    {
+      "surface": "לעדה",
+      "gloss": "temwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "חפרתי",
+      "gloss": "nakulaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "liziba oyo"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "liziba"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "oyo"
+    }
+  ],
+  "timestamp": "2026-09-03T15:54:48.197434825Z",
+  "model": "glm-5.3"
+}

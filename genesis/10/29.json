@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 10:29",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "mpe ⟨את⟩ Ophir mpe ⟨את⟩ Chavilah mpe ⟨את⟩ Yovav — bango nyonso bana ya Yoktan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Ophir"
+    },
+    {
+      "surface": "אופר",
+      "gloss": "Ophir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Chavilah"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "Chavilah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Yovav"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Yovav"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bango"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "ya Yoktan"
+    }
+  ],
+  "timestamp": "2026-09-03T23:11:14.007126858Z",
+  "model": "glm-5.3"
+}

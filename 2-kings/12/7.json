@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 12:7",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Mpe na mbula ntuku mibale na misato ya bokonzi ya mokonzi Yehoash, bakoheni bayebaki te baleza ⟨את⟩ mbuvu ya ndako.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mpe ekalaki"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "na mbula"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ntuku mibale"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "na misato"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mbula"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ya bokonzi ya mokonzi"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Yehoash"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "baleza"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "bakoheni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbuvu ya ndako"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "mbuvu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ya ndako"
+    }
+  ],
+  "timestamp": "2026-09-03T19:05:15.577311498Z",
+  "model": "glm-5.3"
+}

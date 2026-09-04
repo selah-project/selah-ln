@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 94:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 94,
+  "translation": "Oyo asalisaka bikolo, akosunga te? Oyo atangisaka moto boyebi, akoyebi te?",
+  "tokens": [
+    {
+      "surface": "היסר",
+      "gloss": "oyo asalisaka"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bikolo"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "akosunga"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "oyo atangisaka"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moto"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "boyebi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:24:07.965265456Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 97:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 97,
+  "translation": "Moto etambolaki liboso na ye, mpe ezaukaki banguna na ye pembeni.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "liboso na ye"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "etambolaki"
+    },
+    {
+      "surface": "ותלהט",
+      "gloss": "mpe ezaukaki"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "pembeni"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "banguna na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:24:50.288351364Z",
+  "model": "glm-5.3"
+}

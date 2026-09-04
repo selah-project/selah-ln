@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 28:23",
+  "book": "job",
+  "lang": "ln",
+  "chapter": 28,
+  "translation": "Elohim asololi nzela na yango, mpe yeye ayebi ⟨את⟩ esika na yango.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "asololi"
+    },
+    {
+      "surface": "דרכה",
+      "gloss": "nzela na yango"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "mpe yeye"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ayebi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "esika na yango"
+    },
+    {
+      "surface": "מקומה",
+      "gloss": "esika na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:59:04.027407258Z",
+  "model": "glm-5.3"
+}

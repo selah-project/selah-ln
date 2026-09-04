@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 1:1",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe ekamaki sima ya liwa ya Shaul, mpe David azongaki uta na koboma ⟨את⟩ Amaleke, mpe David afandaki na Tsiklag mikolo mibale.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ekamaki"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sima ya"
+    },
+    {
+      "surface": "מות",
+      "gloss": "liwa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "mpe David"
+    },
+    {
+      "surface": "שב",
+      "gloss": "azongaki"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "uta na koboma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amaleke"
+    },
+    {
+      "surface": "העמלק",
+      "gloss": "Amaleke"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "mpe afandaki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בצקלג",
+      "gloss": "na Tsiklag"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mikolo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mibale"
+    }
+  ],
+  "timestamp": "2026-09-03T23:21:44.923520714Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 35:9",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 35,
+  "translation": "mpe mabanga ya shoham, mpe mabanga ya botyami, mpo na efode mpe mpo na hoshen.",
+  "tokens": [
+    {
+      "surface": "ואבני",
+      "gloss": "mpe mabanga"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "shoham"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "mpe mabanga"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "ya botyami"
+    },
+    {
+      "surface": "לאפוד",
+      "gloss": "mpo na efode"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "mpe mpo na hoshen"
+    }
+  ],
+  "timestamp": "2026-09-03T16:32:48.493382962Z",
+  "model": "glm-5.3"
+}

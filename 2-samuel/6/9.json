@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 6:9",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpe David arangaki ⟨את⟩ Yawe na mokolo wana, mpe alobaki: Ndenge nini sanduku ya Yawe ekokota epai na ngai?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "mpe arangaki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na mokolo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "wana"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "איך",
+      "gloss": "Ndenge nini"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ekokota"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "epai na ngai"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T23:20:55.104187161Z",
+  "model": "glm-5.3"
+}

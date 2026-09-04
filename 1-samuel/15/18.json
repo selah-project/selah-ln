@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 15:18",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 15,
+  "translation": "Mpe Yawe atindaki yo na nzela, mpe alobaki: Kundula, mpe otya ndola ⟨את⟩ babubi, ⟨את⟩ Amalek, mpe okota na etumba na yango kino bosilisi na bango ⟨את⟩ bango.",
+  "tokens": [
+    {
+      "surface": "וישלחך",
+      "gloss": "Mpe atindaki yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "na nzela"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kundula"
+    },
+    {
+      "surface": "והחרמתה",
+      "gloss": "mpe otya ndola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "babubi"
+    },
+    {
+      "surface": "החטאים",
+      "gloss": "babubi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ונלחמת",
+      "gloss": "mpe okota na etumba"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "bosilisi na bango"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bango"
+    }
+  ],
+  "timestamp": "2026-09-03T18:16:33.341025496Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 19:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Mpe yango, lokola mobali ya libala oyo abimi uta na dabio na yango, esalaka elati lokola moto ya nguya mpo na kolia nzela.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "mpe yango"
+    },
+    {
+      "surface": "כחתן",
+      "gloss": "lokola mobali ya libala"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "abimi"
+    },
+    {
+      "surface": "מחפתו",
+      "gloss": "uta na dabio na yango"
+    },
+    {
+      "surface": "ישיש",
+      "gloss": "esalaka elati"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "lokola moto ya nguya"
+    },
+    {
+      "surface": "לרוץ",
+      "gloss": "mpo na kolia"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "nzela"
+    }
+  ],
+  "timestamp": "2026-09-03T21:05:08.248323123Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 38:2",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 38,
+  "translation": "Mpe asalaki bampumbu na yango na ngambo na yango minei; ya yango moko bampumbu na yango ezalaki; mpe akangaki ⟨את⟩ yango na nkasa.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Mpe asalaki"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "bampumbu na yango"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "minei"
+    },
+    {
+      "surface": "פנתיו",
+      "gloss": "ngambo na yango"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ya yango moko"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ezalaki"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "bampumbu na yango"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "mpe akangaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yango",
+      "marks": "yango (etanda)"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "na nkasa"
+    }
+  ],
+  "timestamp": "2026-09-03T16:37:18.190070086Z",
+  "model": "glm-5.3"
+}

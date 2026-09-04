@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 34:16",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 34,
+  "translation": "Mpe bozwa bana-basi na bango mpo na bana-bali na bino, mpe bana-basi na bango bakozeba nsima ya banzambe na bango, mpe bazalisa ⟨את⟩ bana-bali na bino bakozeba nsima ya banzambe na bango.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "mpe bozwa"
+    },
+    {
+      "surface": "מבנתיו",
+      "gloss": "bana-basi na bango"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "mpo na bana-bali na bino"
+    },
+    {
+      "surface": "וזנו",
+      "gloss": "mpe bakozeba"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "bana-basi na bango"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nsima ya"
+    },
+    {
+      "surface": "אלהיהן",
+      "gloss": "banzambe na bango"
+    },
+    {
+      "surface": "והזנו",
+      "gloss": "mpe bazalisa bakozeba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bana-bali na bino"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "bana-bali na bino"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nsima ya"
+    },
+    {
+      "surface": "אלהיהן",
+      "gloss": "banzambe na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:33:39.723823163Z",
+  "model": "glm-5.3"
+}

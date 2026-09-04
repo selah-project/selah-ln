@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 44:11",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 44,
+  "translation": "Bayekaki ntembe, mpe moto na moto amibwisaki ⟨את⟩ sako na ye na mabele, mpe moto na moto afungolaki sako na ye.",
+  "tokens": [
+    {
+      "surface": "וימהרו",
+      "gloss": "bayekaki ntembe"
+    },
+    {
+      "surface": "ויורדו",
+      "gloss": "amibwisaki"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto na moto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sako na ye"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "sako na ye"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "ויפתחו",
+      "gloss": "afungolaki"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto na moto"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "sako na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T16:08:17.794010515Z",
+  "model": "glm-5.3"
+}

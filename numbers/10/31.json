@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 10:31",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Mpe alobaki: Kanga kotika ⟨את⟩ biso te, na boboto; mpo na yango ozali koyeba etando na bisu na mapata, mpe okozala epai na biso lokola miso.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kanga ... te"
+    },
+    {
+      "surface": "נא",
+      "gloss": "na boboto"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "kotika"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ biso",
+      "marks": "biso"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "על",
+      "gloss": "mpo na"
+    },
+    {
+      "surface": "כן",
+      "gloss": "yango"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ozali koyeba"
+    },
+    {
+      "surface": "חנתנו",
+      "gloss": "etando na bisu"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "na mapata"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "mpe okozala"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "epai na biso"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "lokola miso"
+    }
+  ],
+  "timestamp": "2026-09-03T17:05:32.863354950Z",
+  "model": "glm-5.3"
+}

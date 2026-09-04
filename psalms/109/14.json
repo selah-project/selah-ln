@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 109:14",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 109,
+  "translation": "Mabe ya batata na ye ekanisama epai ya Yawe; mpe mabe ya mama na ye, efyasama ⟨te⟩.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "ekanisama"
+    },
+    {
+      "surface": "עון",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ya batata na ye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "mpe mabe"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ya mama na ye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨te⟩"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "efyasama"
+    }
+  ],
+  "timestamp": "2026-09-03T21:29:35.777062480Z",
+  "model": "glm-5.3"
+}

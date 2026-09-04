@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 3:4",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe okomona ngolu mpe mayele malamu na miso ya Elohim mpe moto.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "mpe okomona"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ngolu"
+    },
+    {
+      "surface": "ושכל",
+      "gloss": "mpe mayele"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "malamu"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "na miso ya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "mpe moto"
+    }
+  ],
+  "timestamp": "2026-09-03T21:38:27.775178890Z",
+  "model": "glm-5.3"
+}

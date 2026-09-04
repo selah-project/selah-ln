@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 7:10",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mpe Yawe alobaki epai ya Yehoshua: Luka, mpo na nini ozali kokweya na elongi na yo?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "קם",
+      "gloss": "Luka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨yo⟩"
+    },
+    {
+      "surface": "למה",
+      "gloss": "mpo na nini"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨boni⟩"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ozali"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "kokweya"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "elongi na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T17:46:21.440079613Z",
+  "model": "glm-5.3"
+}

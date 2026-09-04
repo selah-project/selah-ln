@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 16:6",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Mpe atopanaki mabanga ⟨את⟩ David mpe ⟨את⟩ basaleli banso ya mokonzi David, mpe bato banso mpe bato ya makasi banso na loboko na ye ya mobali mpe na ya mwasi.",
+  "tokens": [
+    {
+      "surface": "ויסקל",
+      "gloss": "atopanaki mabanga na"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "mabanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "basaleli banso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "banso"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "basaleli"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe banso"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe banso"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "bato ya makasi"
+    },
+    {
+      "surface": "מימינו",
+      "gloss": "na loboko na ye ya mobali"
+    },
+    {
+      "surface": "ומשמאלו",
+      "gloss": "mpe na ya mwasi"
+    }
+  ],
+  "timestamp": "2026-09-03T18:36:12.466408172Z",
+  "model": "glm-5.3"
+}

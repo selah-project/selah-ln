@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 6:10",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpe atongaki ⟨את⟩ etando yoko likolo ya ndako nyonso; bokele na yango amita mitano; mpe ekangaki ⟨את⟩ ndako na nzete ya sedre.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "mpe atongaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "etando"
+    },
+    {
+      "surface": "היצוע",
+      "gloss": "etando"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "mitano"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "amita"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "bokele na yango"
+    },
+    {
+      "surface": "ויאחז",
+      "gloss": "mpe ekangaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndako"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "na nzete"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "sedre"
+    }
+  ],
+  "timestamp": "2026-09-03T23:22:37.925632074Z",
+  "model": "glm-5.3"
+}

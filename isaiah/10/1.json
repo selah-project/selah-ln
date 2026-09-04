@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 10:1",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Mawa na baye bakoti mibeko ya mabe, mpe bakomi mposa bakomi yango;",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Mawa"
+    },
+    {
+      "surface": "החקקים",
+      "gloss": "baye bakoti"
+    },
+    {
+      "surface": "חקקי",
+      "gloss": "mibeko"
+    },
+    {
+      "surface": "און",
+      "gloss": "ya mabe"
+    },
+    {
+      "surface": "ומכתבים",
+      "gloss": "mpe bakomi"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "mposa"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "bakomi yango"
+    }
+  ],
+  "timestamp": "2026-09-03T23:25:10.633114160Z",
+  "model": "glm-5.3"
+}

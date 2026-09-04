@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 92,
+  "translation": "Moto ya bonyama ayebi te, mpe se moke atangi te ⟨את⟩ oyo.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Moto"
+    },
+    {
+      "surface": "בער",
+      "gloss": "ya bonyama"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ayebi"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "mpe se moke"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "atangi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oyo"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "oyo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:24:55.287931483Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 2:4",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "mpe mampinga na ye mpe bamonami na bango: minei na ntuku sambo nkoto, mpe nkama motoba.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "mpe mampinga na ye"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "mpe bamonami na bango"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "minei"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "na ntuku sambo"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "nkoto"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "nkama motoba"
+    }
+  ],
+  "timestamp": "2026-09-03T16:58:10.977296545Z",
+  "model": "glm-5.3"
+}

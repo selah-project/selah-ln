@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 43:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 43,
+  "translation": "Tinda bongengi na yo mpe solo na yo; yango nde ekotambwisa ngai, ekomema ngai na ngomba ya santu na yo, mpe na bandako na yo.",
+  "tokens": [
+    {
+      "surface": "שְׁלַח",
+      "gloss": "Tinda"
+    },
+    {
+      "surface": "אוֹרְךָ",
+      "gloss": "bongengi na yo"
+    },
+    {
+      "surface": "וַאֲמִתֶּךָ",
+      "gloss": "mpe solo na yo"
+    },
+    {
+      "surface": "הֵמָּה",
+      "gloss": "yango nde"
+    },
+    {
+      "surface": "יַנְחוּנִי",
+      "gloss": "ekotambwisa ngai"
+    },
+    {
+      "surface": "יְבִיאוּנִי",
+      "gloss": "ekomema ngai"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "na"
+    },
+    {
+      "surface": "הַר",
+      "gloss": "ngomba"
+    },
+    {
+      "surface": "קָדְשְׁךָ",
+      "gloss": "ya santu na yo"
+    },
+    {
+      "surface": "וְאֶל",
+      "gloss": "mpe na"
+    },
+    {
+      "surface": "מִשְׁכְּנוֹתֶיךָ",
+      "gloss": "bandako na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:10:47.439768682Z",
+  "model": "glm-5.3"
+}

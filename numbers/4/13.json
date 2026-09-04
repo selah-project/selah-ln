@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 4:13",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe bakangolaki makosa ⟨את⟩ auteli, mpe batandolaki likolo na yango elamba ya motuya.",
+  "tokens": [
+    {
+      "surface": "ודשנו",
+      "gloss": "mpe bakangolaki makosa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "auteli"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "auteli"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "mpe batandolaki"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "likolo na yango"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "elamba"
+    },
+    {
+      "surface": "ארגמן",
+      "gloss": "ya motuya"
+    }
+  ],
+  "timestamp": "2026-09-03T17:01:10.618460051Z",
+  "model": "glm-5.3"
+}

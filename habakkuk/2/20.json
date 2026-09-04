@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "habakkuk 2:20",
+  "book": "habakkuk",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe Yawe azali na tempel ya bosembo na yango: Kimya liboso na yango, mabele nyonso!",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Mpe Yawe"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "na tempel"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ya bosembo na yango"
+    },
+    {
+      "surface": "הס",
+      "gloss": "Kimya"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "liboso na yango"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T20:51:02.426358917Z",
+  "model": "glm-5.3"
+}

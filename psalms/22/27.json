@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 22:27",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Bato mawa bakolia mpe bakosatura; baye bazali koluka Yawe bakokumisa ⟨ye⟩; motema na bino ezala na bomoi kino seko.",
+  "tokens": [
+    {
+      "surface": "יאכלו",
+      "gloss": "bakolia"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "bato mawa"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "mpe bakosatura"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "bakokumisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "דרשיו",
+      "gloss": "baye bazali koluka ye"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "ezala na bomoi"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "motema na bino"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "kino seko"
+    }
+  ],
+  "timestamp": "2026-09-03T21:04:47.603005854Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 12:17",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Mpe bobateli ⟨את⟩ matsotso, mpo na bozi ya mokolo oyo namemaki ⟨את⟩ bampinga na bino na mboka ya Mitsraim; mpe bobateli ⟨את⟩ mokolo oyo mpo na mbela na bino, mobeko ya ntango nyonso.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Mpe bobateli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matsotso"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "matsotso"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "na bozi ya"
+    },
+    {
+      "surface": "היום",
+      "gloss": "mokolo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "namemaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bampinga na bino"
+    },
+    {
+      "surface": "צבאותיכם",
+      "gloss": "bampinga na bino"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "na mboka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "mpe bobateli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mokolo oyo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "mokolo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "mpo na mbela na bino"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "mobeko"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ya ntango nyonso"
+    }
+  ],
+  "timestamp": "2026-09-03T16:20:40.049215729Z",
+  "model": "glm-5.3"
+}

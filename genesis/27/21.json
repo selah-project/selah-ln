@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 27:21",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 27,
+  "translation": "Mpe Yitshak alobaki na Yaakov: Yaka pene sikoyo, mpe nayoki yo, mwana na ngai — yo wana nde mwana na ngai Esav, to te?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "גשה",
+      "gloss": "yaka pene"
+    },
+    {
+      "surface": "נא",
+      "gloss": "sikoyo"
+    },
+    {
+      "surface": "ואמשך",
+      "gloss": "mpe nayoki yo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mwana na ngai"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "wana"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mwana na ngai"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אם",
+      "gloss": "to"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    }
+  ],
+  "timestamp": "2026-09-03T15:58:27.822646539Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 114:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 114,
+  "translation": "Yehuda ekamaki ⟨elongo na⟩ esika santu na ye, Israel ekamaki bikonzi na ye",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "ekamaki"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "⟨elongo na⟩ esika santu na ye"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ממשלותיו",
+      "gloss": "bikonzi na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:29:46.926394546Z",
+  "model": "glm-5.3"
+}

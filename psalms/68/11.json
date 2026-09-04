@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 68:11",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 68,
+  "translation": "Bato na yo bafandaki na yango; na boboto na yo otandisaki mpo na moto ya mawa ⟨ndenge⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "חיתך",
+      "gloss": "Bato na yo"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "bafandaki"
+    },
+    {
+      "surface": "בה",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "otandisaki"
+    },
+    {
+      "surface": "בטובתך",
+      "gloss": "na boboto na yo"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "mpo na moto ya mawa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-03T21:16:44.122698942Z",
+  "model": "glm-5.3"
+}

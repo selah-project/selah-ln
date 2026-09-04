@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 12:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Epai ya mokambi, na Sheminit, mazmolo ya David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Epai ya mokambi"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "Sheminit"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mazmolo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya David"
+    }
+  ],
+  "timestamp": "2026-09-03T21:02:15.118538285Z",
+  "model": "glm-5.3"
+}

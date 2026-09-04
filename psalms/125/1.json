@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 125:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 125,
+  "translation": "Nzembo ya mindandu. Baye bakangi motema na Yawe bazali lokola ngomba ya Tsion; ekozengeka te, etikali libela.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Nzembo"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ya mindandu"
+    },
+    {
+      "surface": "הבטחים",
+      "gloss": "baye bakangi motema"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "na Yawe"
+    },
+    {
+      "surface": "כהר",
+      "gloss": "bazali lokola ngomba"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ya Tsion"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "ekozengeka"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "libela"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "etikali"
+    }
+  ],
+  "timestamp": "2026-09-03T21:33:55.174760956Z",
+  "model": "glm-5.3"
+}

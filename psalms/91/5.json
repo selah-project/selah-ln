@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 91,
+  "translation": "Okoya kobanga te bwaku ya butu, to fleshe oyo ezali kopumbwa na moto na moyi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "okoya kobanga"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "bwaku"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ya butu"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "to fleshe"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "ezali kopumbwa"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "na moto na moyi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:25:02.530658285Z",
+  "model": "glm-5.3"
+}

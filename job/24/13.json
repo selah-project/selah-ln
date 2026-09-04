@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 24:13",
+  "book": "job",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "Baye bazalaki na kati ya bankimi ya mongongo; bayebaki te banzela na yango, mpe bafandaki te na banjela na yango.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Baye"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bazalaki"
+    },
+    {
+      "surface": "במרדי",
+      "gloss": "na kati ya bankimi ya"
+    },
+    {
+      "surface": "אור",
+      "gloss": "mongongo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "הכירו",
+      "gloss": "bayebaki"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "banzela na yango"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "bafandaki"
+    },
+    {
+      "surface": "בנתיבתיו",
+      "gloss": "na banjela na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:59:53.657881430Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 24:7",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "Mpe azwaki buku ya boyokani, mpe atangaki na matoyi ya bato; mpe balobaki: Maloba nyonso oyo Yawe alobaki, tosali, mpe tokoyoka.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Mpe azwaki"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "buku"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "ya boyokani"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "mpe atangaki"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "na matoyi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ya bato"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "mpe balobaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "tosali"
+    },
+    {
+      "surface": "ונשמע",
+      "gloss": "mpe tokoyoka"
+    }
+  ],
+  "timestamp": "2026-09-03T16:27:00.514577761Z",
+  "model": "glm-5.3"
+}

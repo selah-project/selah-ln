@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 6:10",
+  "book": "esther",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mokonzi alobaki na Haman: Tenga, zwa ⟨את⟩ libonde mpe ⟨את⟩ farasi, lokola olobaki, mpe sala yango na Mordekai moyuda oyo azali kofanda na libenge ya mokonzi; eloko te ekoka kokweya kati na nyonso oyo olobaki.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Mokonzi"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "na Haman"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "Tenga"
+    },
+    {
+      "surface": "קח",
+      "gloss": "zwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "libonde"
+    },
+    {
+      "surface": "הלבוש",
+      "gloss": "libonde"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "farasi"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "farasi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "lokola"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "olobaki"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "mpe sala"
+    },
+    {
+      "surface": "כן",
+      "gloss": "yango"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "na Mordekai"
+    },
+    {
+      "surface": "היהודי",
+      "gloss": "moyuda"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "oyo azali kofanda"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "na libenge"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya mokonzi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "ekoka kokweya"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "eloko"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kati na nyonso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "olobaki"
+    }
+  ],
+  "timestamp": "2026-09-03T22:19:34.482919801Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 31:9",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 31,
+  "translation": "mpe ⟨את⟩ autel ya ofela mpe ⟨את⟩ bisaleli na yango nyonso, mpe ⟨את⟩ baseni mpe ⟨את⟩ libati na yango,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "autel"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "autel"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ya ofela"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bisaleli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "bisaleli na yango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "baseni"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "baseni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "libati na yango"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "libati na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:30:58.197084890Z",
+  "model": "glm-5.3"
+}

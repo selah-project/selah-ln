@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 11:5",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpe ⟨את⟩ shafan, mpo ye azenzaka gera (bilei azoonga na kanisi), kati ⟨na⟩ senge abongisanaka te — ezali telo epai na bino.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "shafan"
+    },
+    {
+      "surface": "השפן",
+      "gloss": "shafan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "azenZaka"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "gera"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ye"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "mpe senge"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יפריס",
+      "gloss": "abongisanaka"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ezali telo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ye"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "epai na bino"
+    }
+  ],
+  "timestamp": "2026-09-03T23:15:25.864367227Z",
+  "model": "glm-5.3"
+}

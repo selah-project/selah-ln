@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 18:8",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Yeye moko alumaki ⟨את⟩ Bafilisti kino Aza mpe ⟨את⟩ ndelo na yango, utaka elilingi ya batokoli kino engumba ya bokangi.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "yeye moko"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "alumaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bafilisti"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Bafilisti"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "ndelo na yango"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "ndelo na yango"
+    },
+    {
+      "surface": "ממגדל",
+      "gloss": "utaka elilingi"
+    },
+    {
+      "surface": "נוצרים",
+      "gloss": "ya batokoli"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "engumba"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "ya bokangi"
+    }
+  ],
+  "timestamp": "2026-09-03T19:06:53.744226125Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 134:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 134,
+  "translation": "Yawe abondela yo uta na Tsion, mokeli wa likolo mpe mabele.",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "abondela yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "uta na Tsion"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "mokeli"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "likolo"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "mpe mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T21:33:03.541567912Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 30:25",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 30,
+  "translation": "Mpe esalemaki, ntango Rachel azwaki mbote ⟨את⟩ Yosef, Yaakov alobaki na Lavan: Tindaka ngai, mpe nakokende na esika na ngai mpe na mabele na ngai.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mpe esalemaki"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ntango"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "azwaki mbote"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rachel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "Tindaka ngai"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "mpe nakokende"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מקומי",
+      "gloss": "esika na ngai"
+    },
+    {
+      "surface": "ולארצי",
+      "gloss": "mpe na mabele na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T16:00:32.825700139Z",
+  "model": "glm-5.3"
+}

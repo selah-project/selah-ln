@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 10:18",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Mpo na kosambisa yatima mpe monyokami, mpo na ete moto ya mabele abangisa lisusu te.",
+  "tokens": [
+    {
+      "surface": "לשפט",
+      "gloss": "Mpo na kosambisa"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "yatima"
+    },
+    {
+      "surface": "ודך",
+      "gloss": "mpe monyokami"
+    },
+    {
+      "surface": "בל",
+      "gloss": "te"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "lisusu"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "akobakisa"
+    },
+    {
+      "surface": "לערץ",
+      "gloss": "abangisa"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T21:01:36.175028405Z",
+  "model": "glm-5.3"
+}

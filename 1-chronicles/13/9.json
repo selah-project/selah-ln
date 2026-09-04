@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 13:9",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Mpe bakaki fike na tole ya Kidon, mpe Uza atolaki ⟨את⟩ loboko na ye na koya kanga ⟨את⟩ sanduku, mpo ngombe ekitikaki.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "mpe bakaki"
+    },
+    {
+      "surface": "עד",
+      "gloss": "fike na"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "tole"
+    },
+    {
+      "surface": "כידן",
+      "gloss": "Kidon"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "mpe atolaki"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Uza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "loboko na ye"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "loboko na ye"
+    },
+    {
+      "surface": "לאחז",
+      "gloss": "na koya kanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduku"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "sanduku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "שמטו",
+      "gloss": "ekitikaki"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ngombe"
+    }
+  ],
+  "timestamp": "2026-09-03T22:46:47.181191768Z",
+  "model": "glm-5.3"
+}

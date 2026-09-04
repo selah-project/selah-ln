@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 32:28",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 32,
+  "translation": "Mpo bango bazali ekolo oyo ebungi ndimbola, mpe bwanya te ezali na bango.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ekolo"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "ebungi"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "ndimbola"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bango"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "bwanya"
+    }
+  ],
+  "timestamp": "2026-09-03T17:41:00.847233933Z",
+  "model": "glm-5.3"
+}

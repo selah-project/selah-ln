@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 3:7",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe sikoyo, Yawe Elohim na ngai, yo otyaki ⟨את⟩ mosaleli na yo bokonzi na esika ya David tata na ngai, mpe ngai nazali mwana moke, nayebi te kobima mpe kokota.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "mpe sikoyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim na ngai"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "otyaki bokonzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mosaleli na yo"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mosaleli na yo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "na esika ya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tata na ngai"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "mpe ngai"
+    },
+    {
+      "surface": "נער",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "moke"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "nayebi"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "kobima"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "mpe kokota"
+    }
+  ],
+  "timestamp": "2026-09-03T18:44:12.721340320Z",
+  "model": "glm-5.3"
+}

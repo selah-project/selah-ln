@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 23:1",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Moto akozwa te ⟨את⟩ mwasi ya tata na ye, mpe akozalakisa te nse ya elamba ya tata na ye.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "akozwa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwasi ya tata na ye"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mwasi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ya tata na ye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "akozalakisa"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "nse ya elamba"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ya tata na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T17:36:15.359291399Z",
+  "model": "glm-5.3"
+}

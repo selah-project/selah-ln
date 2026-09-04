@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 5:5",
+  "book": "hosea",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Mpe ikembe ya Israel eyanolaki na elongi na yango; mpe Israel mpe Efraim bapusanaki na mabebe na bango; apusanaki mpe Yehuda elongo na bango.",
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "mpe eyanolaki"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ikembe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "na elongi na yango"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "mpe Israel"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "mpe Efraim"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "bapusanaki"
+    },
+    {
+      "surface": "בעונם",
+      "gloss": "na mabebe na bango"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "apusanaki"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "elongo na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T20:37:50.994908567Z",
+  "model": "glm-5.3"
+}

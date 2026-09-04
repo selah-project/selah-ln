@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 3:8",
+  "book": "ezekiel",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Talá, napesi ⟨את⟩ elongi na yo makasi likolo ya elongi na bango, mpe ⟨את⟩ litambwe na yo makasi likolo ya litambwe na bango.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Talá"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "napesi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elongi na yo"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "elongi na yo"
+    },
+    {
+      "surface": "חזקים",
+      "gloss": "makasi"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "elongi na bango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "litambwe na yo"
+    },
+    {
+      "surface": "מצחך",
+      "gloss": "litambwe na yo"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "makasi"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "מצחם",
+      "gloss": "litambwe na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T20:12:08.207044989Z",
+  "model": "glm-5.3"
+}

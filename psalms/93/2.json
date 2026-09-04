@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 93:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 93,
+  "translation": "Kiti na yo ezali na esika na yango uta libela; uta milelo yo ozali.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "ezali na esika na yango"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "kiti na yo"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "uta libela"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "uta milelo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo ozali"
+    }
+  ],
+  "timestamp": "2026-09-03T21:25:09.114247900Z",
+  "model": "glm-5.3"
+}

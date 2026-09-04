@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 22:27",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "mpe boloba: Ndenge oyo mokonzi alobi: Botyá ⟨את⟩ moye na ndako ya bokangami, mpe boliyisá yango bobele ya mpasi mpe mai ya mpasi, kino nakoya na kimya.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "mpe boloba"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Ndenge oyo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "alobi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "Botyá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moye"
+    },
+    {
+      "surface": "זה",
+      "gloss": "moye"
+    },
+    {
+      "surface": "בית",
+      "gloss": "na ndako"
+    },
+    {
+      "surface": "הכלא",
+      "gloss": "ya bokangami"
+    },
+    {
+      "surface": "והאכילהו",
+      "gloss": "mpe boliyisá yango"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bobele"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "ya mpasi"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "mpe mai"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "ya mpasi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "באי",
+      "gloss": "nakoya"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "na kimya"
+    }
+  ],
+  "timestamp": "2026-09-03T18:57:42.102665548Z",
+  "model": "glm-5.3"
+}

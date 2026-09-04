@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 17:5",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 17,
+  "translation": "Yawe alobaki na Moshe: Pasa liboso ya bato, mpe zwá ⟨את⟩ na yo o kati ya babangi ya Israel, mpe lakipo na yo oyo olikaki na yango ⟨את⟩ ebale — zwá na maboko na yo, mpe maleka.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "pasa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "וקח",
+      "gloss": "mpe zwá"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ na yo"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "o kati ya babangi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "ומטך",
+      "gloss": "mpe lakipo na yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "olikaki"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ebale"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "ebale"
+    },
+    {
+      "surface": "קח",
+      "gloss": "zwá"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "na maboko na yo"
+    },
+    {
+      "surface": "והלכת",
+      "gloss": "mpe maleka"
+    }
+  ],
+  "timestamp": "2026-09-03T16:23:09.053776305Z",
+  "model": "glm-5.3"
+}

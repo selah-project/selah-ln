@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 79:12",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 79,
+  "translation": "Mpe zongisa epai ya baninga na biso, mbala sambo kati na elombongo na bango, kofinga na bango oyo bafingaki yo, Adonai.",
+  "tokens": [
+    {
+      "surface": "והשב",
+      "gloss": "mpe zongisa"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "epai ya baninga na biso"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "mbala sambo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kati na"
+    },
+    {
+      "surface": "חיקם",
+      "gloss": "elombongo na bango"
+    },
+    {
+      "surface": "חרפתם",
+      "gloss": "kofinga na bango"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "חרפוך",
+      "gloss": "bafingaki yo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:20:53.741719800Z",
+  "model": "glm-5.3"
+}

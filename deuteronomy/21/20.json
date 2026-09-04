@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 21:20",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Mpe balobaka epai ya bakulu ya engumba na ye ete: Mwana na biso oyo azali mose mpe moboya, ayoka te na mongongo na biso; azali molie mingi mpe mutu ya masanga.",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "mpe balobaka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ya bakulu"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "engumba na ye"
+    },
+    {
+      "surface": "בננו",
+      "gloss": "mwana na biso"
+    },
+    {
+      "surface": "זה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "mose"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "mpe moboya"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ayoka te"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "koyoka"
+    },
+    {
+      "surface": "בקלנו",
+      "gloss": "na mongongo na biso"
+    },
+    {
+      "surface": "זולל",
+      "gloss": "molie mingi"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "mpe mutu ya masanga"
+    }
+  ],
+  "timestamp": "2026-09-03T17:34:12.614392156Z",
+  "model": "glm-5.3"
+}

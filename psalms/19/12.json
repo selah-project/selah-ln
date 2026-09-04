@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 19:12",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Mpe moyombo na yo akangamaki na yango; na bobateli bango ezali lifuti ya monene.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "moyombo na yo"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "akangamaki"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "בשמרם",
+      "gloss": "na bobateli bango"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "ezali lifuti"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ya monene"
+    }
+  ],
+  "timestamp": "2026-09-03T21:04:06.908675260Z",
+  "model": "glm-5.3"
+}

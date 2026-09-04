@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 3:5",
+  "book": "song-of-songs",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Nakolapisi ⟨את⟩ bino, bana ya Yerushalaim, na batsaba (bambisi ya bosoto) to baayala ya shanga: ete bobimisa te, mpe ete bokolamusa te ⟨את⟩ bolingo, kino oyo alingi.",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "Nakolapisi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ bino"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ya Yerushalaim"
+    },
+    {
+      "surface": "בצבאות",
+      "gloss": "na batsaba"
+    },
+    {
+      "surface": "או",
+      "gloss": "to"
+    },
+    {
+      "surface": "באילות",
+      "gloss": "baayala"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ya shanga"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ete"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "te bobimisa"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "mpe ete"
+    },
+    {
+      "surface": "תעוררו",
+      "gloss": "te bokolamusa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bolingo"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "bolingo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "oyo alingi"
+    }
+  ],
+  "timestamp": "2026-09-03T22:06:43.418295520Z",
+  "model": "glm-5.3"
+}

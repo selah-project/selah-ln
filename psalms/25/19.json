@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 25:19",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Tala banguna na ngai, mpo bazali ebele, mpe na bolingi mabe ya makasi bazali kolinga mabe na ngai.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "tala"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "banguna na ngai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "bazali ebele"
+    },
+    {
+      "surface": "ושנאת",
+      "gloss": "mpe na bolingi mabe ya"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "makasi"
+    },
+    {
+      "surface": "שנאוני",
+      "gloss": "bazali kolinga mabe na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:05:52.573255547Z",
+  "model": "glm-5.3"
+}

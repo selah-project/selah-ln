@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 107:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 107,
+  "translation": "Babengi na Yawe baloba yango, oyo Yawe abomaki ⟨את⟩ bango mpe amemaki bango na loboko ya banguna.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "baloba"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "Babengi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "na Yawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "abomaki bango"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "na loboko"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ya banguna"
+    }
+  ],
+  "timestamp": "2026-09-04T00:29:01.785329085Z",
+  "model": "glm-5.3"
+}

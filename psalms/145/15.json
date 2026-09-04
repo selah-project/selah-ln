@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 145:15",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 145,
+  "translation": "Miso ya banso bazali kozela epai na yo, mpe yo opei bopesi bango ⟨את⟩ boli na bango na ntango na yango.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "miso ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "banso"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "epai na yo"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "bazali kozela"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "mpe yo"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "opesi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bango"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boli na bango"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "boli na bango"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "na ntango na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:36:19.465803344Z",
+  "model": "glm-5.3"
+}

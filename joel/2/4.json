@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 2:4",
+  "book": "joel",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Ndenge na bango ezali lokola ndenge ya basolo, mpe lokola bakendeke basolo, bongo bazali kopota mbangu noki.",
+  "tokens": [
+    {
+      "surface": "כמראה",
+      "gloss": "lokola ndenge"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "ya basolo"
+    },
+    {
+      "surface": "מראהו",
+      "gloss": "ndenge na bango"
+    },
+    {
+      "surface": "וכפרשים",
+      "gloss": "mpe lokola bakendeke basolo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bongo"
+    },
+    {
+      "surface": "ירוצון",
+      "gloss": "bazali kopota mbangu noki"
+    }
+  ],
+  "timestamp": "2026-09-03T20:44:03.695685138Z",
+  "model": "glm-5.3"
+}

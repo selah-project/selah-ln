@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 3:12",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe alobaki: Nakozala na yo, mpe oyo ekozala elembo na yo ete ngai natindaki yo: soki obimisi ⟨את⟩ bato na Mitsraim, bokosalela ⟨את⟩ Elohim na mongo oyo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "Nakozala"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "na yo"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "mpe oyo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "na yo"
+    },
+    {
+      "surface": "האות",
+      "gloss": "elembo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "שלחתיך",
+      "gloss": "natindaki yo"
+    },
+    {
+      "surface": "בהוציאך",
+      "gloss": "soki obimisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bato"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "na Mitsraim"
+    },
+    {
+      "surface": "תעבדון",
+      "gloss": "bokosalela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "mongo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    }
+  ],
+  "timestamp": "2026-09-03T16:14:54.956712163Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 3:3",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Hesed (bolingo ya solo) mpe bosembo balongola yo te; kangela yango na kingo na yo, komisa yango na lokasa ya motema na yo.",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "mpe bosembo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "יעזבך",
+      "gloss": "balongola yo"
+    },
+    {
+      "surface": "קשרם",
+      "gloss": "kangela yango"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "גרגרותיך",
+      "gloss": "kingo na yo"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "komisa yango"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "lokasa"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "motema na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:38:27.775028719Z",
+  "model": "glm-5.3"
+}

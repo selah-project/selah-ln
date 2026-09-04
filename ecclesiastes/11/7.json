@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 11:7",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpe ezali elengi pole, mpe ezali malamu na miso kumona ⟨את⟩ moyi.",
+  "tokens": [
+    {
+      "surface": "ומתוק",
+      "gloss": "Mpe ezali elengi"
+    },
+    {
+      "surface": "האור",
+      "gloss": "pole"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "mpe ezali malamu"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "na miso"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "kumona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moyi"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "moyi"
+    }
+  ],
+  "timestamp": "2026-09-03T22:15:48.267050522Z",
+  "model": "glm-5.3"
+}

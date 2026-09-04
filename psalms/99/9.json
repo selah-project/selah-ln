@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 99:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 99,
+  "translation": "Botombole Yawe Elohim na biso, mpe bondimbele na ngomba ya santu na ye, mpo Yawe Elohim na biso azali ⟨santu⟩.",
+  "tokens": [
+    {
+      "surface": "רוממו",
+      "gloss": "Botombole"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim na biso"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "mpe bondimbele"
+    },
+    {
+      "surface": "להר",
+      "gloss": "na ngomba"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ya santu na ye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "⟨azali santu⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim na biso"
+    }
+  ],
+  "timestamp": "2026-09-03T21:25:21.959394853Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ecclesiastes 7:24",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mosika nini oyo ezalaki; mpe ganda, ganda monene, nani akokuta yango?",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "mosika"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "oyo ezalaki"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "mpe ganda"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "ganda"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nani"
+    },
+    {
+      "surface": "ימצאנו",
+      "gloss": "akokuta yango"
+    }
+  ],
+  "timestamp": "2026-09-03T23:38:56.596719977Z",
+  "model": "glm-5.3"
+}

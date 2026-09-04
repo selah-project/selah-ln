@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 6:14",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpe David azalaki kolinga-linga na nguya nyonso liboso ya Yawe, mpe David azalaki kokangama na efode ya lineni.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Mpe David"
+    },
+    {
+      "surface": "מכרכר",
+      "gloss": "azalaki kolinga-linga"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na nyonso ya"
+    },
+    {
+      "surface": "עז",
+      "gloss": "nguya"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "mpe David"
+    },
+    {
+      "surface": "חגור",
+      "gloss": "azalaki kokangama"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "na efode"
+    },
+    {
+      "surface": "בד",
+      "gloss": "ya lineni"
+    }
+  ],
+  "timestamp": "2026-09-03T18:31:14.989776252Z",
+  "model": "glm-5.3"
+}

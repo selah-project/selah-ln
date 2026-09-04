@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 132:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 132,
+  "translation": "Bakoheni na yo balate bosembo, mpe basemeki na yo bayembe na esengo.",
+  "tokens": [
+    {
+      "surface": "כהניך",
+      "gloss": "Bakoheni na yo"
+    },
+    {
+      "surface": "ילבשו",
+      "gloss": "balate"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "bosembo"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "mpe basemeki na yo"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "bayembe na esengo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:33:07.058139747Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-samuel 19:35",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Mpe Barzilai alobaki na mokonzi: Tango boni mikolo ya mbula ya bomoi na ngai, ete nakei na likolo elongo na ⟨את⟩ mokonzi na Yerushalaim?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "ברזלי",
+      "gloss": "Barzilai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "Tango boni"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mikolo"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ya mbula"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ya bomoi na ngai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "nakei na likolo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mokonzi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-09-03T18:39:48.984607507Z",
+  "model": "glm-5.3"
+}

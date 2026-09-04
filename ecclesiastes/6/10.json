@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 6:10",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Oyo ezalaki, libela nkombo na yango ebengamaki, mpe eyebani ete yango ezali moto; mpe akokoki te kosanza na oyo azali na nguya koleka ye.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Oyo"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "ezalaki"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "libela"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "ebengamaki"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nkombo na yango"
+    },
+    {
+      "surface": "ונודע",
+      "gloss": "mpe eyebani"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ete"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yango"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moto"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "akokoki"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "kosanza"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "שהתקיף",
+      "gloss": "oyo azali na nguya"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "koleka ye"
+    }
+  ],
+  "timestamp": "2026-09-03T22:15:14.462298232Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 25:2",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Abotaki epai ye ⟨את⟩ Zimran mpe ⟨את⟩ Yokshan mpe ⟨את⟩ Medan mpe ⟨את⟩ Midian mpe ⟨את⟩ Yishbak mpe ⟨את⟩ Shuah.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "Abotaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "epai ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zimran"
+    },
+    {
+      "surface": "זמרן",
+      "gloss": "Zimran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Yokshan"
+    },
+    {
+      "surface": "יקשן",
+      "gloss": "Yokshan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Medan"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "Medan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Midian"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midian"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Yishbak"
+    },
+    {
+      "surface": "ישבק",
+      "gloss": "Yishbak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Shuah"
+    },
+    {
+      "surface": "שוח",
+      "gloss": "Shuah"
+    }
+  ],
+  "timestamp": "2026-09-03T15:57:30.877285751Z",
+  "model": "glm-5.3"
+}

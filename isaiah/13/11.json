@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 13:11",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Mpe nakopesa etumbu na mokili mpo na mabe na yango, mpe na bato mabe mpo na masumu na bango; mpe nakolongola bosoto ya bapanya, mpe likunya ya banyokei nakotya na nse.",
+  "tokens": [
+    {
+      "surface": "ופקדתי",
+      "gloss": "Mpe nakopesa etumbu"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "mokili"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mabe na yango"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "mpe na"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bato mabe"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "masumu na bango"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "mpe nakolongola"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "bosoto"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "ya bapanya"
+    },
+    {
+      "surface": "וגאות",
+      "gloss": "mpe likunya"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "ya banyokei"
+    },
+    {
+      "surface": "אשפיל",
+      "gloss": "nakotya na nse"
+    }
+  ],
+  "timestamp": "2026-09-03T19:17:24.499206071Z",
+  "model": "glm-5.3"
+}

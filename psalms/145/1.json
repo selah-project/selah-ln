@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 145:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 145,
+  "translation": "Njembo ya David. Nakokolisa yo, Eloa na ngai, mokonzi, mpe nakokumisa nkombo na yo libela, mpe tii nsuka ya nsuka.",
+  "tokens": [
+    {
+      "surface": "תהלה",
+      "gloss": "Njembo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya David"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "Nakokolisa yo"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "Eloa na ngai"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "ואברכה",
+      "gloss": "mpe nakokumisa"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nkombo na yo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "libela"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "mpe tii nsuka ya nsuka"
+    }
+  ],
+  "timestamp": "2026-09-03T21:36:51.717333199Z",
+  "model": "glm-5.3"
+}

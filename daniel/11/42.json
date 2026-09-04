@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "daniel 11:42",
+  "book": "daniel",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpe akotinda maboko na ye na bikolo, mpe mabele ya Mitsraim ezali te mpo na kokima.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "akotinda mpe"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "maboko na ye"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "na bikolo"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "mpe mabele"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Mitsraim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ezali"
+    },
+    {
+      "surface": "לפליטה",
+      "gloss": "mpo na kokima"
+    }
+  ],
+  "timestamp": "2026-09-03T22:28:02.856778326Z",
+  "model": "glm-5.3"
+}

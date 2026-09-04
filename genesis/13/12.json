@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 13:12",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Avram afandaki na mabele ya Kenaan, mpe Lot afandaki na bamboka ya etando, mpe atii tenti na ye kino Sedom.",
+  "tokens": [
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "יָשַׁב",
+      "gloss": "afandaki"
+    },
+    {
+      "surface": "בְּאֶרֶץ",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "וְלוֹט",
+      "gloss": "mpe Lot"
+    },
+    {
+      "surface": "יָשַׁב",
+      "gloss": "afandaki"
+    },
+    {
+      "surface": "בְּעָרֵי",
+      "gloss": "na bamboka"
+    },
+    {
+      "surface": "הַכִּכָּר",
+      "gloss": "ya etando"
+    },
+    {
+      "surface": "וַיֶּאֱהַל",
+      "gloss": "atii tenti na ye"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "סדום",
+      "gloss": "Sedom"
+    }
+  ],
+  "timestamp": "2026-09-03T15:49:38.034934234Z",
+  "model": "glm-5.3"
+}

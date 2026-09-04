@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 4:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe boyeba ete Yawe aponaki na ye moto sembo; Yawe akoyoka ntango nazali kobenga epai na ye.",
+  "tokens": [
+    {
+      "surface": "ודעו",
+      "gloss": "Mpe boyeba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "הפלה",
+      "gloss": "aponaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "moto sembo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "akoyoka"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "ntango nazali kobenga"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "epai na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:00:27.175340300Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 48:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 48,
+  "translation": "Mpo ete talá, bakonzi bakutanaki, mpe balekaki esika moko.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo ete"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "talá"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "bakonzi"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "bakutanaki"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "balekaki"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "esika moko"
+    }
+  ],
+  "timestamp": "2026-09-03T21:11:51.104666384Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 21:28",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Mpe na libota ya Yissaskar ⟨את⟩ Kishion mpe ⟨את⟩ mabeli na yango, ⟨את⟩ Daberat mpe ⟨את⟩ mabeli na yango.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "Mpe na libota ya"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Yissaskar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kishion"
+    },
+    {
+      "surface": "קשיון",
+      "gloss": "Kishion"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mabeli na yango"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mabeli na yango"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Daberat"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "Daberat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mabeli na yango"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "mabeli na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T17:53:33.248602489Z",
+  "model": "glm-5.3"
+}

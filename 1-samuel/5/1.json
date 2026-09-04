@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 5:1",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Mpe Bafilisitai baswaki ⟨את⟩ sanduku ya Elohim, mpe bakendolaki yango uta na Eben-ha-Ezer kino Ashdod.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "Mpe Bafilisitai"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "baswaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduku"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduku"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "mpe bakendolaki yango"
+    },
+    {
+      "surface": "מאבן",
+      "gloss": "uta na Eben"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "ha-Ezer"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "kino Ashdod"
+    }
+  ],
+  "timestamp": "2026-09-03T18:11:45.759856475Z",
+  "model": "glm-5.3"
+}

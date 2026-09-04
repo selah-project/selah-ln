@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 12:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Bikisa, Yawe, mpo mosantu asili, mpo bandimi bamilaki kati ya bana ya bato.",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "Bikisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "asili"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "mosantu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "פסו",
+      "gloss": "bamilaki"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "bandimi"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "kati ya bana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ya bato"
+    }
+  ],
+  "timestamp": "2026-09-03T21:02:15.118764939Z",
+  "model": "glm-5.3"
+}

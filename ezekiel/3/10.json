@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 3:10",
+  "book": "ezekiel",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe alobaki epai na ngai: mwana ya moto, ⟨את⟩ maloba na ngai nyonso oyo nakoloba epai na yo kamba na motema na yo, mpe na matoyi na yo yoka.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "epai na ngai"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ya moto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maloba na ngai nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "maloba na ngai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "nakoloba"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "epai na yo"
+    },
+    {
+      "surface": "קח",
+      "gloss": "kamba"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "na motema na yo"
+    },
+    {
+      "surface": "ובאזניך",
+      "gloss": "mpe na matoyi na yo"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "yoka"
+    }
+  ],
+  "timestamp": "2026-09-03T20:11:33.111658747Z",
+  "model": "glm-5.3"
+}

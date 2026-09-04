@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 1:18",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Moto nyonso oyo akweyi ⟨את⟩ monoko na yo mpe ayoka te ⟨את⟩ maloba na yo, na nyonso oyo okotinda ye, abomamaka; kaka zala makasi mpe ya libanga.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ימרה",
+      "gloss": "akweyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "monoko na yo"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "monoko na yo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ayoka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maloba na yo"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "maloba na yo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "na nyonso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "תצונו",
+      "gloss": "okotinda ye"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "abomamaka"
+    },
+    {
+      "surface": "רק",
+      "gloss": "kaka"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "zala makasi"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "mpe ya libanga"
+    }
+  ],
+  "timestamp": "2026-09-03T17:43:09.313930817Z",
+  "model": "glm-5.3"
+}

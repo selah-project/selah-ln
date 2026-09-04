@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 12:44",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Mpe mozo nyonso ya moto, oyo asombamaki na likolo, mpe soki okati ⟨את⟩ ye, nde akolia yango.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "mpe nyonso"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "mozo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ya moto"
+    },
+    {
+      "surface": "מקנת",
+      "gloss": "oyo asombamaki"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "na likolo"
+    },
+    {
+      "surface": "ומלתה",
+      "gloss": "mpe soki okati"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ye",
+      "marks": "ye"
+    },
+    {
+      "surface": "אז",
+      "gloss": "nde"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "akolia"
+    },
+    {
+      "surface": "בו",
+      "gloss": "yango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:19:41.237370668Z",
+  "model": "glm-5.3"
+}

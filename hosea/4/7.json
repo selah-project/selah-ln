@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 4:7",
+  "book": "hosea",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Soki bakiti mingi, bongo basalaki mabe na ngai; nkembo na bango nakobongola yango na soni.",
+  "tokens": [
+    {
+      "surface": "כרבם",
+      "gloss": "soki bakiti mingi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bongo"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "basalaki mabe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "nkembo na bango"
+    },
+    {
+      "surface": "בקלון",
+      "gloss": "na soni"
+    },
+    {
+      "surface": "אמיר",
+      "gloss": "nakobongola yango"
+    }
+  ],
+  "timestamp": "2026-09-03T20:37:55.968413027Z",
+  "model": "glm-5.3"
+}

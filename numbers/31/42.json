@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 31:42",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 31,
+  "translation": "Mpe uta na ndambo ya bana ya Israel, oyo Moshe akabaki na ndambo uta kati ya bato ya mampinga.",
+  "tokens": [
+    {
+      "surface": "וממחצית",
+      "gloss": "mpe uta na ndambo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "חצה",
+      "gloss": "akabaki na ndambo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uta"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "bato"
+    },
+    {
+      "surface": "הצבאים",
+      "gloss": "ya mampinga"
+    }
+  ],
+  "timestamp": "2026-09-03T17:18:51.390674903Z",
+  "model": "glm-5.3"
+}

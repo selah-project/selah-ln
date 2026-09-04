@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "nehemiah 12:28",
+  "book": "nehemiah",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Mpe bana ya bayembi bakutanaki, uta na etando ya pembeni ya Yerushalaim, mpe uta na mboka ya Netofati.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "bakutanaki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ya"
+    },
+    {
+      "surface": "המשררים",
+      "gloss": "bayembi"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "uta na"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "etando ya"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "pembeni ya"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "mpe uta na"
+    },
+    {
+      "surface": "חצרי",
+      "gloss": "mboka ya"
+    },
+    {
+      "surface": "נטפתי",
+      "gloss": "Netofati"
+    }
+  ],
+  "timestamp": "2026-09-03T22:39:12.538604780Z",
+  "model": "glm-5.3"
+}

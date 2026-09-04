@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 13:5",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Bokende na sima ya Yawe Elohim na bino, mpe bokomemya ⟨את⟩ ye, mpe bokolanda ⟨את⟩ mibeko na ye, mpe bokoyoka na lidja na ye, mpe bokolomba ⟨את⟩ ye, mpe bokokangama na ye.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "na sima ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim na bino"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "bokende"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "ye (bokomemya)"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "bokomemya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mibeko na ye"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "mibeko na ye"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "bokolanda"
+    },
+    {
+      "surface": "ובקלו",
+      "gloss": "mpe na lidja na ye"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "bokoyoka"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "ye (bokolomba)"
+    },
+    {
+      "surface": "תעבדו",
+      "gloss": "bokolomba"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "mpe na ye"
+    },
+    {
+      "surface": "תדבקון",
+      "gloss": "bokokangama"
+    }
+  ],
+  "timestamp": "2026-09-03T17:31:55.304644847Z",
+  "model": "glm-5.3"
+}

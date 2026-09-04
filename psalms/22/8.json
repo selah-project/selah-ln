@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 22:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Baye bazali kumona ngai bansekeli ngai nyonso; basundolaka milomo, basakolaka mitu, balobaka:",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "Baye bazali kumona ngai"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "bansekeli ngai"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "יפטירו",
+      "gloss": "basundolaka"
+    },
+    {
+      "surface": "בשפה",
+      "gloss": "milomo"
+    },
+    {
+      "surface": "יניעו",
+      "gloss": "basakolaka"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "mitu"
+    }
+  ],
+  "timestamp": "2026-09-03T21:03:46.882028723Z",
+  "model": "glm-5.3"
+}

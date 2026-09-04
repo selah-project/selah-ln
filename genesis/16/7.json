@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 16:7",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Mpe motinda ya Yawe amonaki ⟨ye⟩ pembeni ya lobota ya mai na etando, pembeni ya lobota na nzela ya Shur.",
+  "tokens": [
+    {
+      "surface": "וימצאה",
+      "gloss": "mpe amonaki"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "motinda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "pembeni ya"
+    },
+    {
+      "surface": "עין",
+      "gloss": "lobota"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ya mai"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "na etando"
+    },
+    {
+      "surface": "על",
+      "gloss": "pembeni ya"
+    },
+    {
+      "surface": "העין",
+      "gloss": "lobota"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "na nzela"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Shur"
+    }
+  ],
+  "timestamp": "2026-09-03T23:11:28.180219436Z",
+  "model": "glm-5.3"
+}

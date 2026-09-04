@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 21:3",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Soki ayaka na nzoto na ye moko, na nzoto na ye moko abimaka; soki azali mobali ya mwasi, mwasi na ye mpe abimaki elongo na ye.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Soki"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "na nzoto na ye moko"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ayaka"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "na nzoto na ye moko"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "abimaka"
+    },
+    {
+      "surface": "אם",
+      "gloss": "soki"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "mobali"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ya mwasi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "azali"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "mpe abimaki"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mwasi na ye"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "elongo na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T16:26:35.104808273Z",
+  "model": "glm-5.3"
+}

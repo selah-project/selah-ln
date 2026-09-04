@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 22:12",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Mpe Elohim alobaki epai ya Bilam: Okende elongo na bango te; obo maledi ⟨את⟩ bato te; mpo ye abukami.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe … alobaki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "okende"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "elongo na bango"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "obo maledi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bato"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "abukami"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ye"
+    }
+  ],
+  "timestamp": "2026-09-03T17:13:30.893540934Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 1:10",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe Yehoshua alobaki na ⟨את⟩ bakambi ya bato aloba ete:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Mpe ... alobaki na"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bakambi ya bato"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "bakambi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ya bato"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "aloba ete"
+    }
+  ],
+  "timestamp": "2026-09-03T17:43:19.844219598Z",
+  "model": "glm-5.3"
+}

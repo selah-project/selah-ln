@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 16:12",
+  "book": "job",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Nazalaki na kimia, kasi abukaki ngai; asosolaki ngai na kingo na ngai, mpe asundolaki ngai, mpe atandisaki ngai lokola esika ya bindelo na ye.",
+  "tokens": [
+    {
+      "surface": "שלו",
+      "gloss": "na kimia"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "nazalaki"
+    },
+    {
+      "surface": "ויפרפרני",
+      "gloss": "kasi abukaki ngai"
+    },
+    {
+      "surface": "ואחז",
+      "gloss": "mpe asosolaki"
+    },
+    {
+      "surface": "בערפי",
+      "gloss": "na kingo na ngai"
+    },
+    {
+      "surface": "ויפצפצני",
+      "gloss": "mpe asundolaki ngai"
+    },
+    {
+      "surface": "ויקימני",
+      "gloss": "mpe atandisaki ngai"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "למטרה",
+      "gloss": "lokola esika ya bindelo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:55:53.847633372Z",
+  "model": "glm-5.3"
+}

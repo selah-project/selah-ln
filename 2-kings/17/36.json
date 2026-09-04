@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "2-kings 17:36",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 17,
+  "translation": "Kasi kaka ⟨את⟩ Yawe, oyo obimisaki ⟨את⟩ bino na mabele ya Mitsraim na nguya monene mpe na loboko etandami, ⟨את⟩ ye bokanga, mpe ye bosambela, mpe na ye bokanga banyama mpo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kasi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "obimisaki bino na likolo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ bino",
+      "marks": "bino"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "na nguya"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "monene"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "mpe na loboko"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "etandami"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ye",
+      "marks": "ye"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "bokanga"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "mpe ye"
+    },
+    {
+      "surface": "תשתחוו",
+      "gloss": "bosambela"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "mpe na ye"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "bokanga banyama mpo"
+    }
+  ],
+  "timestamp": "2026-09-03T19:07:45.426498942Z",
+  "model": "glm-5.3"
+}

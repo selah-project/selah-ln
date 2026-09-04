@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 16:22",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Mpe sembi ememaka na yango ⟨את⟩ mabe na bango nyonso kino na mabele ya bokabwani; mpe akotinda ⟨את⟩ sembi na etelema.",
+  "tokens": [
+    {
+      "surface": "ונשא",
+      "gloss": "Mpe ememaka"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "sembi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabe nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "עונתם",
+      "gloss": "mabe na bango"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kino na"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "ya bokabwani"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "mpe akotinda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sembi"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "sembi"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "na etelema"
+    }
+  ],
+  "timestamp": "2026-09-03T16:50:39.680919594Z",
+  "model": "glm-5.3"
+}

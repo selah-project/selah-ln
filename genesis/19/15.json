@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 19:15",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Mpe ntango makelelo emataki, bamatumwa babakisaki Lot, na koloba: Bimana, zwa ⟨את⟩ mwasi na yo mpe ⟨את⟩ bana ba yo basi mibale oyo bazali awa, mpo te obomama na libeba ya mboka.",
+  "tokens": [
+    {
+      "surface": "וכמו",
+      "gloss": "mpe lokola"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "makelelo"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "emataki"
+    },
+    {
+      "surface": "ויאיצו",
+      "gloss": "mpe babakisaki"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "bamatumwa"
+    },
+    {
+      "surface": "בלוט",
+      "gloss": "na Lot"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na koloba"
+    },
+    {
+      "surface": "קום",
+      "gloss": "bimana"
+    },
+    {
+      "surface": "קח",
+      "gloss": "zwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwasi na yo"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "mwasi na yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bana ba yo basi mibale oyo bazali awa"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "בנתיך",
+      "gloss": "bana ba yo basi"
+    },
+    {
+      "surface": "הנמצאת",
+      "gloss": "oyo bazali awa"
+    },
+    {
+      "surface": "פן",
+      "gloss": "mpo te"
+    },
+    {
+      "surface": "תספה",
+      "gloss": "obomama"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "na libeba ya"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mboka"
+    }
+  ],
+  "timestamp": "2026-09-03T15:53:01.559196306Z",
+  "model": "glm-5.3"
+}

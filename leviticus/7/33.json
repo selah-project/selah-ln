@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 7:33",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Kati ya bana ya Aharon, oyo atindaka ⟨את⟩ makila ya malamu-malamu mpe ⟨את⟩ mavuta, ye nde azwa loboko ya ngambo ya lokumu lokola mbongo na ye.",
+  "tokens": [
+    {
+      "surface": "המקריב",
+      "gloss": "oyo atindaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makila"
+    },
+    {
+      "surface": "דם",
+      "gloss": "makila"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "malamu-malamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mavuta"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "mavuta"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "kati ya bana ya"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "azwa"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "loboko"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "ya ngambo ya lokumu"
+    },
+    {
+      "surface": "למנה",
+      "gloss": "lokola mbongo na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T16:41:34.318222765Z",
+  "model": "glm-5.3"
+}

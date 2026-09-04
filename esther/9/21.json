@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "esther 9:21",
+  "book": "esther",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "mpo na kolanda na bango ete basala ⟨את⟩ mokolo ya zomi na minei ya sanza ya Adar, mpe ⟨את⟩ mokolo ya zomi na mitano na yango, na mobu nyonso mpe na mobu",
+  "tokens": [
+    {
+      "surface": "לקים",
+      "gloss": "mpo na kolanda"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ete basala"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "basala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mokolo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mokolo"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "minei"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "zomi"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ya sanza"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "Adar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mokolo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mokolo"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "mitano"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "zomi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mobu"
+    },
+    {
+      "surface": "ושנה",
+      "gloss": "mpe mobu"
+    }
+  ],
+  "timestamp": "2026-09-03T22:19:47.110096141Z",
+  "model": "glm-5.3"
+}

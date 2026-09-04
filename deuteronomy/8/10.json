@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 8:10",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe okolia mpe okosatola, mpe okokumisa ⟨את⟩ Yawe Elohim ya yo mpo na mabele malamu oyo apesi yo.",
+  "tokens": [
+    {
+      "surface": "ואכלת",
+      "gloss": "Mpe okolia"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "mpe okosatola"
+    },
+    {
+      "surface": "וברכת",
+      "gloss": "mpe okokumisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ya yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "mpo na"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "הטבה",
+      "gloss": "malamu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "apesi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yo"
+    }
+  ],
+  "timestamp": "2026-09-03T17:27:04.031110378Z",
+  "model": "glm-5.3"
+}

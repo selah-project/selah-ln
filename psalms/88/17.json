@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 88:17",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 88,
+  "translation": "Likolo ya ngai balobaki nkanda yayo; bokangi yayo bikatolaki ngai.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "likolo ya ngai"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "balobaki"
+    },
+    {
+      "surface": "חרוניך",
+      "gloss": "nkanda yayo"
+    },
+    {
+      "surface": "בעותיך",
+      "gloss": "bokangi yayo"
+    },
+    {
+      "surface": "צמתותני",
+      "gloss": "bikatolaki ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:22:00.531000431Z",
+  "model": "glm-5.3"
+}

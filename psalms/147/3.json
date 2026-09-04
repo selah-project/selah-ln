@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 147:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 147,
+  "translation": "Azali kobikisa bikwama ya motema, mpe akangaka mabungu na bango.",
+  "tokens": [
+    {
+      "surface": "הרפא",
+      "gloss": "Azali kobikisa"
+    },
+    {
+      "surface": "לשבורי",
+      "gloss": "bikwama"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ya motema"
+    },
+    {
+      "surface": "ומחבש",
+      "gloss": "mpe akangaka"
+    },
+    {
+      "surface": "לעצבותם",
+      "gloss": "mabungu na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:36:36.269159353Z",
+  "model": "glm-5.3"
+}

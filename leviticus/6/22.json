@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 6:22",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mobali nyonso kati na bakoheni akolia ⟨את⟩ yango; bosantu ya bosantu ⟨ezali⟩ yango.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mobali"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "kati na bakoheni"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "akolia"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "yango"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "bosantu"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ya bosantu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:40:20.535743830Z",
+  "model": "glm-5.3"
+}

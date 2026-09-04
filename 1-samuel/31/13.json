@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 31:13",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 31,
+  "translation": "Mpe bazwaki ⟨את⟩ mabunga na bango, mpe bakundaki yango na nse ya nzete na Yavesh, mpe balatisaki lipa mikolo nsambo.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "mpe bazwaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabunga na bango"
+    },
+    {
+      "surface": "עצמתיהם",
+      "gloss": "mabunga na bango"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "mpe bakundaki yango"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "na nse ya"
+    },
+    {
+      "surface": "האשל",
+      "gloss": "nzete"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "na Yavesh"
+    },
+    {
+      "surface": "ויצמו",
+      "gloss": "mpe balatisaki lipa"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "nsambo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mikolo"
+    }
+  ],
+  "timestamp": "2026-09-03T18:25:33.615080698Z",
+  "model": "glm-5.3"
+}

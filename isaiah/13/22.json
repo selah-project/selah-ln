@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 13:22",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Mpe banyama ya bokungi bakoyokanolaka na bandako na yango oyo bamwaki, mpe banyama ya zamba na bandako minene ya bokengi; mpe ntango na yango pene ⟨ya⟩ koya, mpe mikolo na yango ekokotama te.",
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "mpe bakoyokanolaka"
+    },
+    {
+      "surface": "איים",
+      "gloss": "banyama ya bokungi"
+    },
+    {
+      "surface": "באלמנותיו",
+      "gloss": "na bandako na yango oyo bamwaki"
+    },
+    {
+      "surface": "ותנים",
+      "gloss": "mpe banyama ya zamba"
+    },
+    {
+      "surface": "בהיכלי",
+      "gloss": "na bandako minene"
+    },
+    {
+      "surface": "ענג",
+      "gloss": "ya bokengi"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "mpe pene"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "koya"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ntango na yango"
+    },
+    {
+      "surface": "וימיה",
+      "gloss": "mpe mikolo na yango"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ימשכו",
+      "gloss": "ekokotama"
+    }
+  ],
+  "timestamp": "2026-09-03T19:16:32.622729737Z",
+  "model": "glm-5.3"
+}

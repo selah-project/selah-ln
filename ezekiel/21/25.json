@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 21:25",
+  "book": "ezekiel",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Otya nzela mpo esukali ekoya, ⟨את⟩ Rabbah ya bana ya Amon mpe ⟨את⟩ Yehuda na Yerushalaim, oyo etombwami.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "nzela"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "otya"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "mpo ekoya"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "esukali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rabbah ya bana ya Amon"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "Rabbah"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "na Yerushalaim"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "oyo etombwami"
+    }
+  ],
+  "timestamp": "2026-09-03T20:20:17.680103715Z",
+  "model": "glm-5.3"
+}

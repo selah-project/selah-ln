@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 14:16",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Mpe kohen akondisaki ⟨את⟩ nsapi na ye ya mobali na mafuta oyo ezali na libanza na ye ya mwasi, mpe apulaki na mafuta na nsapi mbala sambo liboso ya Yawe.",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "mpe akondisaki"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nsapi na ye ya mobali"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "nsapi na ye"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "ya mobali"
+    },
+    {
+      "surface": "מן",
+      "gloss": "na"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ezali na"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "libanza na ye"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "ya mwasi"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "mpe apulaki"
+    },
+    {
+      "surface": "מן",
+      "gloss": "na"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "na nsapi na ye"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sambo"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "mbala"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T16:47:50.050878308Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 48:12",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 48,
+  "translation": "Ngomba ya Tsion esengaka, bana basi ya Yehuda basangisaka makanisi mpo na makambo ya bosolo na yo.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "esengaka"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Ngomba"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsion"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "basangisaka makanisi"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "bana basi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "למען",
+      "gloss": "mpo na"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "makambo ya bosolo na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:11:38.675086916Z",
+  "model": "glm-5.3"
+}

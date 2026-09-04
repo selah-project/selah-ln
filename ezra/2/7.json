@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 2:7",
+  "book": "ezra",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Bana ya Elam, nkoto moko mpe nkoto mibale mpe ntuku mitano na minei.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Bana"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "ya Elam"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "nkoto moko"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "mpe nkoto mibale"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "mpe ntuku mitano"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "na minei"
+    }
+  ],
+  "timestamp": "2026-09-03T23:38:41.460333485Z",
+  "model": "glm-5.3"
+}

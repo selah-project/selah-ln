@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 14:3",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Mpe David azwaki lisusu basi na Yerushalaim, mpe David abotaki lisusu mibali mpe basi.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "azwaki"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lisusu"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "basi"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "na Yerushalaim"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "abotaki"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lisusu"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "mibali"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "mpe basi"
+    }
+  ],
+  "timestamp": "2026-09-03T22:46:42.518734641Z",
+  "model": "glm-5.3"
+}

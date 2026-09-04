@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 129,
+  "ref": "psalms 119:129",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Makamwisi ⟨ezali⟩ bandimbi na yo; na yango wana molimo na ngai ebatelaka yango.",
+  "tokens": [
+    {
+      "surface": "פלאות",
+      "gloss": "Makamwisi"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "bandimbi na yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כן",
+      "gloss": "yango wana"
+    },
+    {
+      "surface": "נצרתם",
+      "gloss": "ebatelaka yango"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "molimo na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:32:29.561943782Z",
+  "model": "glm-5.3"
+}

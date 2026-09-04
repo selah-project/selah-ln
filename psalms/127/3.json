@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 127,
+  "translation": "Talá, bana ⟨ezali⟩ likabo ya Yawe; lifuta ezali mboto ya libumu.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Talá"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "likabo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bana"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "lifuta"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "mboto"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "ya libumu"
+    }
+  ],
+  "timestamp": "2026-09-03T21:33:40.544358247Z",
+  "model": "glm-5.3"
+}

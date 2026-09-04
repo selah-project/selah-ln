@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 61:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 61,
+  "translation": "Kobakisa mikolo likolo ya mikolo ya mokonzi; kobakisa mpe mbula na ye lokola libota na libota.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "Kobakisa mikolo"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mikolo ya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "kobakisa mpe"
+    },
+    {
+      "surface": "שנותיו",
+      "gloss": "mbula na ye"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "lokola"
+    },
+    {
+      "surface": "דר",
+      "gloss": "libota"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "na libota"
+    }
+  ],
+  "timestamp": "2026-09-03T21:15:54.065545115Z",
+  "model": "glm-5.3"
+}

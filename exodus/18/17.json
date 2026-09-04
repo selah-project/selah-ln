@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 18:17",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Nkolo ya libota ya Moshe alobaki epai na ye: makambo oyo yo ozali kosala ezali malamu te.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "nkolo ya libota ya"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "epai na ye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "malamu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "makambo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ozali kosala"
+    }
+  ],
+  "timestamp": "2026-09-03T16:23:17.434549387Z",
+  "model": "glm-5.3"
+}

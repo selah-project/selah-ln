@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 35:5",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 35,
+  "translation": "Bozwa ⟨את⟩ na kati ya bino ⟨את⟩ teruma mpo na Yawe; moto nyonso oyo azali na motema ya mokembo, akoyela ⟨את⟩ teruma ya Yawe: wolo, mpe fè, mpe mabanga ya mongo.",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "Bozwa"
+    },
+    {
+      "surface": "מאתכם",
+      "gloss": "⟨את⟩ na kati ya bino"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "teruma"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "mpo na Yawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "moto nyonso"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "oyo azali na mokembo"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "motema na ye"
+    },
+    {
+      "surface": "יביאה",
+      "gloss": "akoyela yango"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "teruma ya Yawe"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "teruma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yawe"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "wolo"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "mpe fè"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "mpe mabanga ya mongo"
+    }
+  ],
+  "timestamp": "2026-09-03T16:33:16.186677739Z",
+  "model": "glm-5.3"
+}

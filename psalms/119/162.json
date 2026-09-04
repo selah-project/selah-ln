@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 162,
+  "ref": "psalms 119:162",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Ngai nazali kosanska na liloba na yo, lokola moyei ya boyo monene.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "nazali kosanska"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Ngai"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "liloba na yo"
+    },
+    {
+      "surface": "כמוצא",
+      "gloss": "lokola moyei"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "ya boyo"
+    },
+    {
+      "surface": "רב",
+      "gloss": "monene"
+    }
+  ],
+  "timestamp": "2026-09-03T21:31:47.367809802Z",
+  "model": "glm-5.3"
+}

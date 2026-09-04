@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 33:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 33,
+  "translation": "Akangaka ⟨kongo⟩ lokola libanga mai ya mbu, atyaka minzokola na biombela na yango.",
+  "tokens": [
+    {
+      "surface": "כנס",
+      "gloss": "akangaka ⟨kongo⟩"
+    },
+    {
+      "surface": "כנד",
+      "gloss": "lokola libanga"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mai"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ya mbu"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "atyaka"
+    },
+    {
+      "surface": "באצרות",
+      "gloss": "na biombela"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "minzokola"
+    }
+  ],
+  "timestamp": "2026-09-03T21:07:47.832782926Z",
+  "model": "glm-5.3"
+}

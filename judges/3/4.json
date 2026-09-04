@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 3:4",
+  "book": "judges",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe bazalaki etela komeka na bango ⟨את⟩ Israel, etela koyeba soki bakoki koyoka ⟨את⟩ mibeko ya Yawe, oyo atindaki ⟨את⟩ bakoko na bango na mokolo ya Moshe.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Mpe bazalaki"
+    },
+    {
+      "surface": "לנסות",
+      "gloss": "etela komeka"
+    },
+    {
+      "surface": "בם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "etela koyeba"
+    },
+    {
+      "surface": "הישמעו",
+      "gloss": "soki bakoki koyoka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mibeko"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "mibeko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "atindaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bakoko na bango"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "bakoko na bango"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "na mokolo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-09-03T17:56:34.428099684Z",
+  "model": "glm-5.3"
+}

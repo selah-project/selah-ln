@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 24:8",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "Mpe mokonzi alobaki, mpe basalaki sanduku moko, mpe batyaki yango na libanga ya ndako ya Yawe, libanda.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "mpe basalaki"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduku"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "moko"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "mpe batyaki yango"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "na libanga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ya ndako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "libanda"
+    }
+  ],
+  "timestamp": "2026-09-03T23:03:14.897508058Z",
+  "model": "glm-5.3"
+}

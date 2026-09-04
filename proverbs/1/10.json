@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 1:10",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mwana na ngai, soki baye babubi basalisi yo, kopa te.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Mwana na ngai"
+    },
+    {
+      "surface": "אם",
+      "gloss": "soki"
+    },
+    {
+      "surface": "יפתוך",
+      "gloss": "basalisi yo"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "baye babubi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "kopa"
+    }
+  ],
+  "timestamp": "2026-09-03T21:36:50.302736796Z",
+  "model": "glm-5.3"
+}

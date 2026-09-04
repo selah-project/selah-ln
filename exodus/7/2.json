@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 7:2",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Yo okoloba ⟨את⟩ nyonso oyo namanda yo, mpe Aharon ndeko na yo akoloba na Parao, mpe akotinda ⟨את⟩ bana ya Israel ⟨uti na⟩ mabele na ye.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "okoloba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אצוך",
+      "gloss": "namanda yo"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "mpe Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ndeko na yo"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "akoloba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "akotinda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bana ya Israel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "uti na mabele na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T16:16:21.514487338Z",
+  "model": "glm-5.3"
+}

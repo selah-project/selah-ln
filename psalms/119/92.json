@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 92,
+  "ref": "psalms 119:92",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Soki Tora na yo, maswe na ngai, te, yango wana nakufaki na etungiseli na ngai.",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "soki … te"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Tora na yo"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "maswe na ngai"
+    },
+    {
+      "surface": "אז",
+      "gloss": "yango wana"
+    },
+    {
+      "surface": "אבדתי",
+      "gloss": "nakufaki"
+    },
+    {
+      "surface": "בעניי",
+      "gloss": "na etungiseli na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:31:48.723190187Z",
+  "model": "glm-5.3"
+}

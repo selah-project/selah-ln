@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 3:7",
+  "book": "judges",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Bana ya Israel basalaki ⟨את⟩ mabe na miso ya Yawe, mpe babyakilaki ⟨את⟩ Yawe Elohim na bango, mpe basambelaki ⟨את⟩ ba Baal mpe ⟨את⟩ ba Ashera.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "basalaki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabe"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "na miso ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וישכחו",
+      "gloss": "mpe babyakilaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe Elohim na bango"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim na bango"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "mpe basambelaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ba Baal"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "ba Baal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "ba Ashera"
+    },
+    {
+      "surface": "האשרות",
+      "gloss": "ba Ashera"
+    }
+  ],
+  "timestamp": "2026-09-03T17:56:24.943568992Z",
+  "model": "glm-5.3"
+}

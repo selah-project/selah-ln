@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 15:14",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 15,
+  "translation": "Mpe bakohen mpe baLevi bayekanaki mpo na kotombola ⟨את⟩ sanduku ya Yawe, Elohim ya Israel.",
+  "tokens": [
+    {
+      "surface": "ויתקדשו",
+      "gloss": "bayekanaki"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "bakohen"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "mpe baLevi"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "mpo na kotombola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduku"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-03T22:47:08.036069569Z",
+  "model": "glm-5.3"
+}

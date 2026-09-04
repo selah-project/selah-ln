@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 15:31",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 15,
+  "translation": "Bokaboli ⟨את⟩ bana ya Israel na botungi na bango, mpo bakufa te na botungi na bango, ntango bali botungi na ⟨את⟩ ndako na ngai, oyo ezali kati na bango.",
+  "tokens": [
+    {
+      "surface": "והזרתם",
+      "gloss": "Bokaboli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bana ya Israel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מטמאתם",
+      "gloss": "na botungi na bango"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpo te"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "bakufa"
+    },
+    {
+      "surface": "בטמאתם",
+      "gloss": "na botungi na bango"
+    },
+    {
+      "surface": "בטמאם",
+      "gloss": "ntango bali botungi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndako na ngai"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "ndako na ngai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "kati na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:49:57.985449061Z",
+  "model": "glm-5.3"
+}

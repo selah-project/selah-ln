@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 38:4",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 38,
+  "translation": "Mpe azwaki mokili lisusu, mpe abotaki mwana mobali; mpe abengaki ⟨את⟩ kombo na ye Onan.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "mpe azwaki mokili"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lisusu"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "mpe abotaki"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana mobali"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "mpe abengaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kombo na ye"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "kombo na ye"
+    },
+    {
+      "surface": "אונן",
+      "gloss": "Onan"
+    }
+  ],
+  "timestamp": "2026-09-03T16:05:56.061971766Z",
+  "model": "glm-5.3"
+}

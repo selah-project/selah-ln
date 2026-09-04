@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 109,
+  "ref": "psalms 119:109",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Bomoi na ngai ezali na maboko na ngai ntango nyonso, kasi Tora na yo nabosani te.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "Bomoi na ngai"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "na maboko na ngai"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ntango nyonso"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "kasi Tora na yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "nabosani"
+    }
+  ],
+  "timestamp": "2026-09-03T21:32:10.489524231Z",
+  "model": "glm-5.3"
+}

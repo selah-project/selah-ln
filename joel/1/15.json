@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joel 1:15",
+  "book": "joel",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Aha mpo na mokolo, mpo mokolo ya Yawe ezali pene, mpe lokola bobebisi uta na Shadai ekoya.",
+  "tokens": [
+    {
+      "surface": "אהה",
+      "gloss": "Aha"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "mpo na mokolo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "ezali pene"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mokolo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וכשד",
+      "gloss": "mpe lokola bobebisi"
+    },
+    {
+      "surface": "משדי",
+      "gloss": "Shadai"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ekoya"
+    }
+  ],
+  "timestamp": "2026-09-03T20:41:36.738574221Z",
+  "model": "glm-5.3"
+}

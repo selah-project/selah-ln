@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 127:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 127,
+  "translation": "Boni esengo ya moto oyo akisisaki ⟨את⟩ boloko na ye na bango; bakosekwa te, mpo ete balobaka ⟨את⟩ banguna na lopita.",
+  "tokens": [
+    {
+      "surface": "אַשְׁרֵי",
+      "gloss": "Boni esengo"
+    },
+    {
+      "surface": "הַגֶּבֶר",
+      "gloss": "ya moto"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "מִלֵּא",
+      "gloss": "akisisaki"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "boloko na ye na bango"
+    },
+    {
+      "surface": "אַשְׁפָּתוֹ",
+      "gloss": "boloko na ye na-makelele"
+    },
+    {
+      "surface": "מֵהֶם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יֵבֹשׁוּ",
+      "gloss": "bakosekwa"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "יְדַבְּר֖וּ",
+      "gloss": "balobaka"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "banguna"
+    },
+    {
+      "surface": "אוֹיְבִים",
+      "gloss": "banguna"
+    },
+    {
+      "surface": "בַשָּׁעַר",
+      "gloss": "na lopita"
+    }
+  ],
+  "timestamp": "2026-09-03T21:32:49.783089283Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 2:15",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Parao ayokaki ⟨את⟩ likambo oyo, mpe alukaki koboma ⟨את⟩ Moshe; kasi Moshe akimaki na miso ya Parao, mpe afandaki na mabele ya Midian, mpe afandaki pembeni ya libulu.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "mpe ayokaki"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "likambo oyo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "likambo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "mpe alukaki"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "koboma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "kasi akimaki"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "na miso ya"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "mpe afandaki"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "ya Midian"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "mpe afandaki"
+    },
+    {
+      "surface": "על",
+      "gloss": "pembeni ya"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "libulu"
+    }
+  ],
+  "timestamp": "2026-09-03T16:13:58.514726411Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 9:13",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Mpo ete mososi ya makila akokanisi ⟨את⟩ bango; asali lipwa te bokolo ya bamawa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo ete"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "mososi"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "makila"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "bango"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "akokanisi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "asali lipwa"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "bokolo"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "ya bamawa"
+    }
+  ],
+  "timestamp": "2026-09-03T21:02:03.147528314Z",
+  "model": "glm-5.3"
+}

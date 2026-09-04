@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 39:3",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 39,
+  "translation": "Mpe nkolo na ye amonaki ete Yawe azali ⟨את⟩ ye elongo, mpe nyonso oyo asalaki, Yawe azalaki kolonga na maboko na ye.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Mpe ... amonaki"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "nkolo na ye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ye",
+      "marks": "ye (Yosefu)"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe nyonso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨asalaki⟩"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "asalaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "azalaki kolonga"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "na maboko na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T16:06:23.338716437Z",
+  "model": "glm-5.3"
+}

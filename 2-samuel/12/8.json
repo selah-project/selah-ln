@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 12:8",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "mpe napesaki yo ⟨את⟩ ndako ya nkolo na yo, mpe ⟨את⟩ basi ya nkolo na yo na ntolo na yo; mpe napesaki yo ⟨את⟩ ndako ya Israel mpe Yuda; mpe soki ezalaki moke, nakolakisaki yo ⟨ndenge wana⟩ mpe ⟨ndenge wana⟩.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "mpe napesaki"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndako ya nkolo na yo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "ya nkolo na yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "basi ya nkolo na yo"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "basi"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "ya nkolo na yo"
+    },
+    {
+      "surface": "בחיקך",
+      "gloss": "na ntolo na yo"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "mpe napesaki"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndako ya Israel"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "mpe Yuda"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "mpe soki"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ezalaki moke"
+    },
+    {
+      "surface": "ואספה",
+      "gloss": "nakolakisaki"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yo"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "ndenge wana"
+    },
+    {
+      "surface": "וכהנה",
+      "gloss": "mpe ndenge wana"
+    }
+  ],
+  "timestamp": "2026-09-03T18:33:30.489417123Z",
+  "model": "glm-5.3"
+}

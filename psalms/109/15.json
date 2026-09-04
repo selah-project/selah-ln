@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 109:15",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 109,
+  "translation": "Ezala liboso ya Yawe tongo na tongo, mpe abimisi bokundoli na bango na mabele.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "Ezala"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "liboso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "tongo na tongo"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "mpe abimisi"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "bokundoli na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:29:35.777253442Z",
+  "model": "glm-5.3"
+}

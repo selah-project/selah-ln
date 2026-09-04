@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "amos 5:1",
+  "book": "amos",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Boyoka ⟨את⟩ liloba oyo natomboki likolo na bino, yembo ya mawa, ndako ya Israel.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Boyoka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "liloba oyo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "liloba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "na-"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "natomboki"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "likolo na bino"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "yembo ya mawa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-03T20:45:44.395226477Z",
+  "model": "glm-5.3"
+}

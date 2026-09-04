@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 5:15",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Mpe oyo mpe ezali mabe, maladi: ndenge ayeaki, bongo ndenge wana nde akokende; mpe nini mosolo na ye, oyo asalaka makasi mpo na mopepe?",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Mpe mpe"
+    },
+    {
+      "surface": "זה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "maladi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "עמת",
+      "gloss": "ndenge"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "ayeaki"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bongo ndenge wana"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "akokende"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "mpe nini"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "mosolo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "oyo asalaka makasi"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "mpo na mopepe"
+    }
+  ],
+  "timestamp": "2026-09-03T22:14:14.556256833Z",
+  "model": "glm-5.3"
+}

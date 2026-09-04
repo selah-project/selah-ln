@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 22:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Kasi yo ozali mosantu, ofandi likolo ya bankembo ya Israel.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Kasi yo"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "ozali mosantu"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "ofandi likolo ya"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "bankembo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    }
+  ],
+  "timestamp": "2026-09-03T21:04:38.178551742Z",
+  "model": "glm-5.3"
+}

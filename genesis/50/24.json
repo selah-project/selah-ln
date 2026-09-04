@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 50:24",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 50,
+  "translation": "Mpe Yosefe alobaki na bandeko na ye: Nazo kufa; mpe Elohim akotala bino penza, mpe akomemisa bino ufá mabele oyo, epai ya mabele oyo asalaki lipa na Avraham, na Yitshak, mpe na Yaakov.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "bandeko na ye"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nazali"
+    },
+    {
+      "surface": "מת",
+      "gloss": "nakufa"
+    },
+    {
+      "surface": "ואלהים",
+      "gloss": "mpe Elohim"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "akotala"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "penza"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ bino",
+      "marks": "bino"
+    },
+    {
+      "surface": "והעלה",
+      "gloss": "mpe akomemisa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ bino",
+      "marks": "bino"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ufá"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "asalaki lipa"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "na Avraham"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "na Yitshak"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "mpe na Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-03T23:12:48.328621008Z",
+  "model": "glm-5.3"
+}

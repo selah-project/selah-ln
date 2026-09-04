@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 1:8",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe bana ya Aharon bapriste batondisaki ⟨את⟩ biteni, ⟨את⟩ motu mpe ⟨את⟩ mafuta, likolo ya bankiti oyo ezali likolo ya moto, oyo ezali likolo ya autelo.",
+  "tokens": [
+    {
+      "surface": "וערכו",
+      "gloss": "mpe batondisaki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "bapriste"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "biteni"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "biteni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motu"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "motu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mafuta"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "bankiti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "האש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "autelo"
+    }
+  ],
+  "timestamp": "2026-09-03T16:39:25.454362069Z",
+  "model": "glm-5.3"
+}

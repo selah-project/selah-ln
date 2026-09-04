@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 26:16",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "Yawe, na mpasi basalaki bango bokutani na yo, babombaki losambo ya nse ya nzela ntango bondimi na yo ezalaki likolo na bango.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "na mpasi"
+    },
+    {
+      "surface": "פקדוך",
+      "gloss": "basalaki bango bokutani na yo"
+    },
+    {
+      "surface": "צקון",
+      "gloss": "babombaki"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "losambo ya nse ya nzela"
+    },
+    {
+      "surface": "מוסרך",
+      "gloss": "bondimi na yo"
+    },
+    {
+      "surface": "למו",
+      "gloss": "na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T19:21:52.789669143Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 4:13",
+  "book": "ezekiel",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe Yawe alobaki: Lolenge wana bana ya Israel bakolia ⟨את⟩ mokate na bango ya motei kati na bikolo, oyo nakolongaka bango kuna.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe Yawe alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "Lolenge wana"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "bakolia"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mokate na bango"
+    },
+    {
+      "surface": "לחמם",
+      "gloss": "mokate na bango"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ya motei"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "kati na bikolo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אדיחם",
+      "gloss": "nakolongaka bango"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuna"
+    }
+  ],
+  "timestamp": "2026-09-03T23:28:52.388674566Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 81:11",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 81,
+  "translation": "Ngai nazali Yawe Elohim na yo, oyo nakomatisaki yo na mboka Mitsraim; fungola monene nkombo na yo, mpe nakotonda yango.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ngai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim na yo"
+    },
+    {
+      "surface": "המעלך",
+      "gloss": "oyo nakomatisaki yo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "na mboka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "הרחב",
+      "gloss": "fungola monene"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "nkombo na yo"
+    },
+    {
+      "surface": "ו אמלאהו",
+      "gloss": "mpe nakotonda yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:20:30.433873218Z",
+  "model": "glm-5.3"
+}

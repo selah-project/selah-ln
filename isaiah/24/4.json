@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 24:4",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "Alali mawa mpe emolaki mabele; ekweaki mpe emolaki mokili; bato ya likolo ya mabele bakweaki.",
+  "tokens": [
+    {
+      "surface": "אבלה",
+      "gloss": "Alali mawa"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "mpe emolaki"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "ekweaki"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "mpe emolaki"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "mokili"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "bakweaki"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "likolo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ya mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T19:23:15.786442702Z",
+  "model": "glm-5.3"
+}

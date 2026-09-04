@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 90:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 90,
+  "translation": "Mpo ete biso esilaki na colère na yo, mpe na fureur na yo totungisamaki.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "biso esilaki"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "na colère na yo"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "mpe na fureur na yo"
+    },
+    {
+      "surface": "נבהלנו",
+      "gloss": "totungisamaki"
+    }
+  ],
+  "timestamp": "2026-09-03T21:24:46.724274964Z",
+  "model": "glm-5.3"
+}

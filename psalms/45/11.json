@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 45:11",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 45,
+  "translation": "Yoka, mwana mwasi, mpe talá, mpe tumba matoyi na yo; mpe bosa bato na yo mpe ndako ya tata na yo.",
+  "tokens": [
+    {
+      "surface": "שמעי",
+      "gloss": "yoka"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana mwasi"
+    },
+    {
+      "surface": "וראי",
+      "gloss": "mpe tala"
+    },
+    {
+      "surface": "והטי",
+      "gloss": "mpe tumba"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "matoyi na yo"
+    },
+    {
+      "surface": "ושכחי",
+      "gloss": "mpe bosa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bato na yo"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "mpe ndako"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ya tata na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:11:29.689979998Z",
+  "model": "glm-5.3"
+}

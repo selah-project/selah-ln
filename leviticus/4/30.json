@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 4:30",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe kohen azwaki ndamu na yango na mwete na yango, mpe atyaki yango likolo ya minyoko ya mizbeah ya ola, mpe ⟨את⟩ ndamu na yango nyonso akundolaki na mabelé ya ntoki ya mizbeah.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "mpe azwaki"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "מדמה",
+      "gloss": "ndamu na yango"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "na mwete na yango"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "mpe atyaki"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "קרנת",
+      "gloss": "minyoko ya"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "mizbeah"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ya ola"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "ndamu na yango nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "ndamu na yango"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "akundolaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "mabelé ya ntoki"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ya mizbeah"
+    }
+  ],
+  "timestamp": "2026-09-03T16:42:28.208510765Z",
+  "model": "glm-5.3"
+}

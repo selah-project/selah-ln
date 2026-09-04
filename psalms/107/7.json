@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 107:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 107,
+  "translation": "Mpe akambaki bango na nzela ya sembo, mpo na kokende na engumba ya kofanda.",
+  "tokens": [
+    {
+      "surface": "וידריכם",
+      "gloss": "Mpe akambaki bango"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "na nzela"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "ya sembo"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "mpo na kokende"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "engumba"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "ya kofanda"
+    }
+  ],
+  "timestamp": "2026-09-03T21:28:22.625004706Z",
+  "model": "glm-5.3"
+}

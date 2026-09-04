@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 105:11",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 105,
+  "translation": "alobaki ete: Nakopesa ⟨את⟩ mabele ya Kenaan, lot ya bofungoli na bino.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "alobaki ete"
+    },
+    {
+      "surface": "לך",
+      "gloss": "epai nayo"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "Nakopesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabele ya Kenaan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ya Kenaan"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "lot"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "ya bofungoli na bino"
+    }
+  ],
+  "timestamp": "2026-09-03T21:27:11.451981739Z",
+  "model": "glm-5.3"
+}

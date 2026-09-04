@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 15:20",
+  "book": "judges",
+  "lang": "ln",
+  "chapter": 15,
+  "translation": "Mpe asalaki nsolo ⟨את⟩ Israel na mikolo ya Bafilisiti, mbula ntuku mibale.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "mpe asalaki nsolo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "na mikolo ya"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Bafilisiti"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ntuku mibale"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mbula"
+    }
+  ],
+  "timestamp": "2026-09-03T18:04:38.199409269Z",
+  "model": "glm-5.3"
+}

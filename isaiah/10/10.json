@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 10:10",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Ndenge maboko na ngai ekutaki bokonzi ya elil mpe bileko na bango, uta na Yerushalaim mpe uta na Shomeron,",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "ndenge"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "ekutaki"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "maboko na ngai"
+    },
+    {
+      "surface": "לממלכת",
+      "gloss": "bokonzi ya"
+    },
+    {
+      "surface": "האליל",
+      "gloss": "elil"
+    },
+    {
+      "surface": "ופסיליהם",
+      "gloss": "mpe bileko na bango"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "uta na Yerushalaim"
+    },
+    {
+      "surface": "ומשמרון",
+      "gloss": "mpe uta na Shomeron"
+    }
+  ],
+  "timestamp": "2026-09-03T19:16:42.160252674Z",
+  "model": "glm-5.3"
+}

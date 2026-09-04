@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 40:4",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 40,
+  "translation": "Ebale nyonso ekotombolama, mpe monlene nyonso mpe mongo nyonso ekokitisama; mpe makoki oyo mabungi ekokoma pete, mpe biteni mikesa ekokoma bonene.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "ebale"
+    },
+    {
+      "surface": "ינשא",
+      "gloss": "ekotombolama"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe nyonso"
+    },
+    {
+      "surface": "הר",
+      "gloss": "monlene"
+    },
+    {
+      "surface": "וגבעה",
+      "gloss": "mpe mongo"
+    },
+    {
+      "surface": "ישפלו",
+      "gloss": "ekokitisama"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "mpe ekokoma"
+    },
+    {
+      "surface": "העקב",
+      "gloss": "makoki oyo mabungi"
+    },
+    {
+      "surface": "למישור",
+      "gloss": "pete"
+    },
+    {
+      "surface": "והרכסים",
+      "gloss": "mpe biteni mikesa"
+    },
+    {
+      "surface": "לבקעה",
+      "gloss": "bonene"
+    }
+  ],
+  "timestamp": "2026-09-03T19:30:48.172847462Z",
+  "model": "glm-5.3"
+}

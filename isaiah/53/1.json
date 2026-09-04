@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 53:1",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 53,
+  "translation": "Nani andimaki na ⟨bayanoyoki na biso⟩? Mpe loboko ya Yawe, epai ya nani emonanaki?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "nani"
+    },
+    {
+      "surface": "האמין",
+      "gloss": "andimaki"
+    },
+    {
+      "surface": "לשמעתנו",
+      "gloss": "na boyoki na biso"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "mpe loboko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nani"
+    },
+    {
+      "surface": "נגלתה",
+      "gloss": "emonanaki"
+    }
+  ],
+  "timestamp": "2026-09-03T19:35:18.615909522Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 84:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 84,
+  "translation": "Bakokende uta nguya kino na nguya, bakomonanaka na Elohim na Tsion.",
+  "tokens": [
+    {
+      "surface": "ילכו",
+      "gloss": "Bakokende"
+    },
+    {
+      "surface": "מחיל",
+      "gloss": "uta nguya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kino na"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "nguya"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "bakomonanaka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "na Tsion"
+    }
+  ],
+  "timestamp": "2026-09-03T21:23:10.723392520Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "joshua 21:37",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "⟨את⟩ Kedemot mpe ⟨את⟩ zingazinga na yango, mpe ⟨את⟩ Mefaat mpe ⟨את⟩ zingazinga na yango; mamboka minei.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedemot"
+    },
+    {
+      "surface": "קדמות",
+      "gloss": "Kedemot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "zingazinga na yango"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "zingazinga na yango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Mefaat"
+    },
+    {
+      "surface": "מיפעת",
+      "gloss": "Mefaat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "zingazinga na yango"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "zingazinga na yango"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "mamboka"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "minei"
+    }
+  ],
+  "timestamp": "2026-09-03T17:53:06.131392718Z",
+  "model": "glm-5.3"
+}

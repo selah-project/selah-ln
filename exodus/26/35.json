@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 26:35",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "Mpe otya ⟨את⟩ mesa libanda ya lambire, mpe ⟨את⟩ kandelabro liboso ya mesa, na kingo ya ndako ya sambo; mpe mesa otya na kingo ya nordi.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "Mpe otya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mesa"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "mesa"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "libanda ya"
+    },
+    {
+      "surface": "לפרכת",
+      "gloss": "lambire"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "kandelabro"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "kandelabro"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "mesa"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "kingo"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ya ndako"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "ya sambo"
+    },
+    {
+      "surface": "והשלחן",
+      "gloss": "mpe mesa"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "otya"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "kingo"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "nordi"
+    }
+  ],
+  "timestamp": "2026-09-03T16:29:01.291499058Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 119:25",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Molimo na ngai ekangami na mabele; bopesa ngai bomoi na ndenge ya liloba na yo.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "ekangami"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "molimo na ngai"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "bopesa ngai bomoi"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "na ndenge ya liloba na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:30:59.424622839Z",
+  "model": "glm-5.3"
+}

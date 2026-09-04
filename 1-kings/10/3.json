@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 10:3",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Mpe Shelomo eyebakisaki ye ⟨את⟩ makanisi na ye nyonso; liloko moko te ebombamaki na mokonzi oyo at eyebisaki ye te.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Mpe eyebakisaki"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ye"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makanisi na ye nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "דבריה",
+      "gloss": "makanisi na ye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ezalaki"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "liloko"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "ebombamaki"
+    },
+    {
+      "surface": "מן",
+      "gloss": "na"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "at eyebisaki"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ye"
+    }
+  ],
+  "timestamp": "2026-09-03T18:48:32.178284187Z",
+  "model": "glm-5.3"
+}

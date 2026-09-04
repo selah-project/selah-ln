@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 87:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 87,
+  "translation": "Ya bana ya Korach, nzembo ya koyemba. Yekolami na yango ezali na bangomba ya nsantu.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "ya bana"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "nzembo"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ya koyemba"
+    },
+    {
+      "surface": "יסודתו",
+      "gloss": "yekolami na yango"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "na bangomba ya"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "nsantu"
+    }
+  ],
+  "timestamp": "2026-09-03T21:22:42.849377968Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 49:10",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 49,
+  "translation": "Mpo ngai nafulaki ⟨את⟩ Esav, namonisaki ⟨את⟩ bisika na ye ya bobombami, kobombama akokoki te; ebebisami libota na ye, mpe bandeko na ye, mpe bansokoki na ye, mpe aye te.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "חשפתי",
+      "gloss": "nafulaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Esav"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "גליתי",
+      "gloss": "namonisaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bisika na ye ya bobombami"
+    },
+    {
+      "surface": "מסתריו",
+      "gloss": "bisika na ye ya bobombami"
+    },
+    {
+      "surface": "ונחבה",
+      "gloss": "kobombama"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "akokoki"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "ebebisami"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "libota na ye"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "mpe bandeko na ye"
+    },
+    {
+      "surface": "ושכניו",
+      "gloss": "mpe bansokoki na ye"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "mpe aye te"
+    }
+  ],
+  "timestamp": "2026-09-03T20:06:10.956942725Z",
+  "model": "glm-5.3"
+}

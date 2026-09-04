@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 143:11",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 143,
+  "translation": "Mpo na nkombo na yo, Yawe, longisaka ngai bomoi; na bolongo na yo obimisaka na mabunda molimo na ngai.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Mpo na"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nkombo na yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "longisaka ngai bomoi"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "na bolongo na yo"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "obimisaka"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "na mabunda"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "molimo na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T23:35:53.478050680Z",
+  "model": "glm-5.3"
+}

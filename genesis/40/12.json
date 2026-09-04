@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 40:12",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 40,
+  "translation": "Mpe Yosef alobaki na ye: Oyo nde ndimbola na yango: misanzaka misato — bango nde mikolo misato.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "זה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "פתרנו",
+      "gloss": "ndimbola na yango"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "misato"
+    },
+    {
+      "surface": "השרגים",
+      "gloss": "ya bisanzaka"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "misato"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mikolo"
+    },
+    {
+      "surface": "הם",
+      "gloss": "bango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:05:58.898131332Z",
+  "model": "glm-5.3"
+}

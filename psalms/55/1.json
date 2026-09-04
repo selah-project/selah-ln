@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 55:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 55,
+  "translation": "Epai ya mokambi, na binigina, mosambo ya bwanya, ya David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Epai ya mokambi"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "na binigina"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "mosambo ya bwanya"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya David"
+    }
+  ],
+  "timestamp": "2026-09-03T21:14:19.524766984Z",
+  "model": "glm-5.3"
+}

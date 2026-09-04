@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 38:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 38,
+  "translation": "Nakeni, nakitaki mingi; mokolo mobimba nakendaki na mawa.",
+  "tokens": [
+    {
+      "surface": "נעויתי",
+      "gloss": "nakeni"
+    },
+    {
+      "surface": "שחתי",
+      "gloss": "nakitaki"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mingi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mobimba"
+    },
+    {
+      "surface": "היום",
+      "gloss": "mokolo"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "na mawa"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "nakendaki"
+    }
+  ],
+  "timestamp": "2026-09-03T21:09:51.671704511Z",
+  "model": "glm-5.3"
+}

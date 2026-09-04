@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 20:9",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 20,
+  "translation": "Mpo moto nyonso oyo akofula ⟨את⟩ tata na ye mpe ⟨את⟩ mama na ye, liwa akufisama; tata na ye mpe mama na ye afulaki, mai na ye ezali na ye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "akofula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tata na ye"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "tata na ye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mama na ye"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mama na ye"
+    },
+    {
+      "surface": "מות",
+      "gloss": "liwa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "akufisama"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "tata na ye"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "mpe mama na ye"
+    },
+    {
+      "surface": "קלל",
+      "gloss": "afulaki"
+    },
+    {
+      "surface": "דמיו",
+      "gloss": "mai na ye"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T16:53:03.951756169Z",
+  "model": "glm-5.3"
+}

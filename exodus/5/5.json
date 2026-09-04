@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 5:5",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Parao alobaki: Talá, bato ya mabele bazali ebele sikoyo, mpe bozali kobatela ⟨את⟩ bango na makanga na bango.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Talá"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ebele"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "sikoyo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ya mabele"
+    },
+    {
+      "surface": "והשבתם",
+      "gloss": "mpe bozali kobatela"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bango"
+    },
+    {
+      "surface": "מסבלתם",
+      "gloss": "na makanga na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:16:11.285664727Z",
+  "model": "glm-5.3"
+}

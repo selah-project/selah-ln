@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 3:14",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe akomaki peni na yango ofele mpo na Yawe: ⟨את⟩ mafuta oyo ezipaka ⟨את⟩ maxa, mpe ⟨את⟩ mafuta nyonso oyo ezali likolo ya maxa.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "Mpe akomaki peni"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "ofele na yango"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ofele ya mpuya"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "mpo na Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafuta"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "oyo ezipaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maxa"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "maxa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mafuta nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "maxa"
+    }
+  ],
+  "timestamp": "2026-09-03T16:39:30.714849438Z",
+  "model": "glm-5.3"
+}

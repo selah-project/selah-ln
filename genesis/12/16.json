@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 12:16",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Mpe epai ya Avram basalaki malamu mpo na ye; mpe azalaki na bibi, mpe bobe, mpe bane ya mibali, mpe basaleli bamibali mpe basaleli babasi, mpe bane ya basi, mpe bangamiya.",
+  "tokens": [
+    {
+      "surface": "ולאברם",
+      "gloss": "Mpe epai ya Avram"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "basalaki malamu"
+    },
+    {
+      "surface": "בעבורה",
+      "gloss": "mpo na ye"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mpe azalaki na"
+    },
+    {
+      "surface": "לו",
+      "gloss": "epai na ye"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "bibi"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "mpe bobe"
+    },
+    {
+      "surface": "וחמרים",
+      "gloss": "mpe bane ya mibali"
+    },
+    {
+      "surface": "ועבדים",
+      "gloss": "mpe basaleli bamibali"
+    },
+    {
+      "surface": "ושפחת",
+      "gloss": "mpe basaleli babasi"
+    },
+    {
+      "surface": "ואתנת",
+      "gloss": "mpe bane ya basi"
+    },
+    {
+      "surface": "וגמלים",
+      "gloss": "mpe bangamiya"
+    }
+  ],
+  "timestamp": "2026-09-03T15:49:48.523512397Z",
+  "model": "glm-5.3"
+}

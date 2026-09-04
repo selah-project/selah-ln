@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 6:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Yelenga ngai, Yawe, mpamba te namemi; bongisa ngai, Yawe, mpamba te mikuwa na ngai mibebi mabe.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Yelenga ngai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpamba te"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "namemi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "רפאני",
+      "gloss": "bongisa ngai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpamba te"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "mibebi mabe"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "mikuwa na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T20:59:58.847724446Z",
+  "model": "glm-5.3"
+}

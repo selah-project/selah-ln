@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 12:5",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Mpe bakobanga likolo, mpe bokangi kati na nzela, mpe nzete ya amande ekoloba, mpe nsenye ekomata mombeka, mpe nkasa ya kapri ekofa; mpo moto azali kokenda na ndako ya libela na ye, mpe bapangi mawa bazali kozingazinga na zando.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "likolo"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "bakobanga"
+    },
+    {
+      "surface": "וחתחתים",
+      "gloss": "mpe bokangi"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "kati na nzela"
+    },
+    {
+      "surface": "וינאץ",
+      "gloss": "mpe ekoloba"
+    },
+    {
+      "surface": "השקד",
+      "gloss": "nzete ya amande"
+    },
+    {
+      "surface": "ויסתבל",
+      "gloss": "mpe ekomata mombeka"
+    },
+    {
+      "surface": "החגב",
+      "gloss": "nsenye"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "mpe ekofa"
+    },
+    {
+      "surface": "האביונה",
+      "gloss": "nkasa ya kapri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "azali kokenda"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "moto"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "עולמו",
+      "gloss": "ya libela na ye"
+    },
+    {
+      "surface": "וסבבו",
+      "gloss": "mpe bazali kozingazinga"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "na zando"
+    },
+    {
+      "surface": "הספדים",
+      "gloss": "bapangi mawa"
+    }
+  ],
+  "timestamp": "2026-09-03T22:16:35.872621888Z",
+  "model": "glm-5.3"
+}

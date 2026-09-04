@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 12:7",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Te, ndenge wana; mosali na ngai Moshe — na ndako na ngai nyonso atokamaka ye.",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "Te"
+    },
+    {
+      "surface": "כֵ֖ן",
+      "gloss": "ndenge wana"
+    },
+    {
+      "surface": "עַבְדִּ֣י",
+      "gloss": "mosali na ngai"
+    },
+    {
+      "surface": "מֹשֶׁ֑ה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בְּכָל",
+      "gloss": "na nyonso"
+    },
+    {
+      "surface": "בֵּיתִ֖י",
+      "gloss": "ndako na ngai"
+    },
+    {
+      "surface": "נֶאֱמָ֥ן",
+      "gloss": "atokamaka"
+    },
+    {
+      "surface": "הֽוּא",
+      "gloss": "ye"
+    }
+  ],
+  "timestamp": "2026-09-03T17:08:26.465449301Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 17:22",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 17,
+  "translation": "Mpe Moshe atyiaki ⟨את⟩ mate liboso ya Yawe, na hema ya litatoli.",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "mpe atyiaki"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mate"
+    },
+    {
+      "surface": "המטת",
+      "gloss": "mate"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "na hema"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ya litatoli"
+    }
+  ],
+  "timestamp": "2026-09-03T23:17:26.476929009Z",
+  "model": "glm-5.3"
+}

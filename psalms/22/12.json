@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 22:12",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Kaka okwea na mosika epai na ngai te, mpo mokakatano ezali pene, mpo mosungi azali te.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Kaka...te"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "okwea na mosika"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "epai na ngai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "mokakatano"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "ezali pene"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "azali te"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "mosungi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:03:59.750359622Z",
+  "model": "glm-5.3"
+}

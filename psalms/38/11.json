@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 38:11",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 38,
+  "translation": "Motema na ngai eza kobeta mbangu, makasi na ngai atikaki ngai; mpe bongengi ya miso na ngai, bango mpe bazali te ⟨את⟩ epai na ngai.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "Motema na ngai"
+    },
+    {
+      "surface": "סחרחר",
+      "gloss": "eza kobeta mbangu"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "atikaki ngai"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "makasi na ngai"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "mpe bongengi"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ya miso na ngai"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "הם",
+      "gloss": "bango"
+    },
+    {
+      "surface": "אין",
+      "gloss": "bazali te"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ epai na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:09:55.675622978Z",
+  "model": "glm-5.3"
+}

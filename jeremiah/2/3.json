@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 2:3",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Israel ⟨ezali⟩ bosantu ya Yawe, ebandeli ya mabeli na yango; bali yango banso bakozala mabe, mabe ekoya epai bango, liloba ya Yawe.",
+  "tokens": [
+    {
+      "surface": "קדש",
+      "gloss": "bosantu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ya Yawe"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "ebandeli"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "mabeli na yango"
+    },
+    {
+      "surface": "כל",
+      "gloss": "banso"
+    },
+    {
+      "surface": "אכליו",
+      "gloss": "bali yango"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "bakozala mabe"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "ekoya"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "epai bango"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "liloba ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T19:41:08.251755661Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 20:7",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 20,
+  "translation": "Okozwa te ⟨את⟩ nkombo ya Yawe Elohim na yo mpo na eloko te, mpo ete Yawe akoyanolaka te ⟨את⟩ oyo azwa ⟨את⟩ nkombo na ye mpo na eloko te.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "Okozwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkombo ya Yawe Elohim na yo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nkombo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim na yo"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "mpo na eloko te"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "akoyanolaka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "azwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkombo na ye"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nkombo na ye"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "mpo na eloko te"
+    }
+  ],
+  "timestamp": "2026-09-03T16:22:04.264723422Z",
+  "model": "glm-5.3"
+}

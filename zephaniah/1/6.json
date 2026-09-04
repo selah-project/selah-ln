@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zephaniah 1:6",
+  "book": "zephaniah",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "mpe ⟨את⟩ baye bazali kozonga sima na sima ya Yawe, mpe baye basalaki luluku te ⟨את⟩ ya Yawe, mpe batunaki ye te",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "baye bazali kozonga sima"
+    },
+    {
+      "surface": "הנסוגים",
+      "gloss": "baye bazali kozonga sima"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "na sima ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "mpe baye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "basalaki luluku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "דרשהו",
+      "gloss": "batunaki ye te"
+    }
+  ],
+  "timestamp": "2026-09-03T20:53:47.533942904Z",
+  "model": "glm-5.3"
+}

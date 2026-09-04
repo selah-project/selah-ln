@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 24:6",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "Mpe Moshe azwaki ndamu ya makila, mpe atyaki na bikonzi; mpe ndamu ya makila apululaki na auteli.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Mpe azwaki"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "ndamu"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ya makila"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "mpe atyaki"
+    },
+    {
+      "surface": "באגנת",
+      "gloss": "na bikonzi"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "mpe ndamu"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ya makila"
+    },
+    {
+      "surface": "זרק",
+      "gloss": "apululaki"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "auteli"
+    }
+  ],
+  "timestamp": "2026-09-03T16:27:00.514387917Z",
+  "model": "glm-5.3"
+}

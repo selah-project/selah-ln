@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 1:5",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe na Hana azalaki kopesa mbeka moko ya bipai mibale, mpo alingaki ⟨את⟩ Hana, mpe Yawe akangaki libumu na ye.",
+  "tokens": [
+    {
+      "surface": "ולחנה",
+      "gloss": "mpe na Hana"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "azalaki kopesa"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "mbeka"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "moko"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "ya bipai mibale"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hana"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Hana"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "alingaki"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "mpe Yawe"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "akangaki"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "libumu na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T18:09:21.678598647Z",
+  "model": "glm-5.3"
+}

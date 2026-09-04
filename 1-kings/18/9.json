@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 18:9",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Mpe alobaki: Nini nasali mabe, ete yo ozali kofipa mosali na yo ⟨את⟩ na mokongo mwa Ahab, mpo na koboma ngai?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Nini"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "nasali mabe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ozali kofipa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mosali na yo"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mosali na yo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "na mokongo mwa"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "להמיתני",
+      "gloss": "mpo na koboma ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T18:54:04.901307784Z",
+  "model": "glm-5.3"
+}

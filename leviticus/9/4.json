@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 9:4",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "mpe ngombe mpe muton ya mobali mpo na ofandro ya kimia, mpo na kopesa ofandro liboso ya Yawe, mpe ofandro ya lilemba etambwisami na mafuta; mokolo oyo Yawe akomonana epai na bino.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "mpe ngombe"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "mpe muton ya mobali"
+    },
+    {
+      "surface": "לשלמים",
+      "gloss": "mpo na ofandro ya kimia"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "mpo na kopesa ofandro"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yawe"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "mpe ofandro ya lilemba"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "etambwisami"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "na mafuta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mokolo oyo — mpo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "mokolo oyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "akomonana"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "epai na bino"
+    }
+  ],
+  "timestamp": "2026-09-03T16:45:07.500918238Z",
+  "model": "glm-5.3"
+}

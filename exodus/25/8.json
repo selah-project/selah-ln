@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 25:8",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Mpe bakela ngai esika mosantu, mpe nakofanda kati na bango.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "mpe bakela"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "esika mosantu"
+    },
+    {
+      "surface": "ושכנתי",
+      "gloss": "mpe nakofanda"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "kati na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:27:14.019138564Z",
+  "model": "glm-5.3"
+}

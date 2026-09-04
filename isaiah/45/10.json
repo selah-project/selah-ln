@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 45:10",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 45,
+  "translation": "Mabe na oyo azali koloba na tata: Ozali komema bana nini? Mpe na mwasi: Ozali kobota nini?",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Mabe na"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "azali koloba"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "na tata"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "ozali komema bana"
+    },
+    {
+      "surface": "ולאשה",
+      "gloss": "mpe na mwasi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "תחילין",
+      "gloss": "ozali kobota"
+    }
+  ],
+  "timestamp": "2026-09-03T19:32:48.754788891Z",
+  "model": "glm-5.3"
+}

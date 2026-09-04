@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Mpe akubolaki ⟨את⟩ Moab, mpe bato ya Moab bakomaki bamosali ya David, baye bazalaki kotinda fungela.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "akubolaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "bakomaki"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "bato ya Moab"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "bamosali"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "ya David"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "kotinda"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "fungela"
+    }
+  ],
+  "timestamp": "2026-09-03T22:48:06.113630400Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 12:32",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Mpe na ndambo ya libota ya Menashe, nkoto mwambe na zomi, bango oyo baponamaki na bankombo, ya koya kotya ⟨את⟩ David mokonzi.",
+  "tokens": [
+    {
+      "surface": "ומחצי",
+      "gloss": "Mpe na ndambo"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ya libota"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "ya Menashe"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "mwambe"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "na zomi"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "nkoto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bango oyo"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "baponamaki"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "na bankombo"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ya koya"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "kotya mokonzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-09-03T22:45:50.552303906Z",
+  "model": "glm-5.3"
+}

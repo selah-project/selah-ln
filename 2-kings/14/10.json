@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 14:10",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Solo, okubaki ⟨את⟩ Edom, mpe motema na yo emataki yo likolo; bongisa nkembo mpe fanda na ndako na yo; mpo na nini ozali koluka lisusu ntwe na mabe, mpe okweka yo mpe Yehuda elongo na yo?",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "solo"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "okubaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ונשאך",
+      "gloss": "mpe emataki yo likolo"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "motema na yo"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "bongisa nkembo"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "mpe fanda"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "na ndako na yo"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "mpo na nini"
+    },
+    {
+      "surface": "תתגרה",
+      "gloss": "ozali koluka lisusu ntwe"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "na mabe"
+    },
+    {
+      "surface": "ונפלתה",
+      "gloss": "mpe okweka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "mpe Yehuda"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "elongo na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T19:04:40.289425383Z",
+  "model": "glm-5.3"
+}

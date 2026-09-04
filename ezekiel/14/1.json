@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 14:1",
+  "book": "ezekiel",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Mpe basangu ya bankulutu ya Israel bakaki epai na ngai, mpe bafandaki liboso na ngai.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "bakaki"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "epai na ngai"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "basangu"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "ya bankulutu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "mpe bafandaki"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T23:29:34.176689100Z",
+  "model": "glm-5.3"
+}

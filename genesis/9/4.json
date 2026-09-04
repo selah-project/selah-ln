@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Kasi boku oyo ezali na bomoi na yango — makila na yango — bokoliala yango te.",
+  "tokens": [
+    {
+      "surface": "אַךְ",
+      "gloss": "kasi"
+    },
+    {
+      "surface": "בָּשָׂר",
+      "gloss": "boku"
+    },
+    {
+      "surface": "בְּנַפְשׁוֹ",
+      "gloss": "na bomoi na yango"
+    },
+    {
+      "surface": "דָּמוֹ",
+      "gloss": "makila na yango"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תֹאכֵלוּ",
+      "gloss": "bokoliala"
+    }
+  ],
+  "timestamp": "2026-09-03T15:48:29.928927837Z",
+  "model": "glm-5.3"
+}

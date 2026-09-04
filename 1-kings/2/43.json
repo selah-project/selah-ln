@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 2:43",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe mpo na nini obatelaki te ⟨את⟩ liloba ya ndingisa ya Yawe, mpe ⟨את⟩ mobeko oyo natesaki na yo?",
+  "tokens": [
+    {
+      "surface": "ומדוע",
+      "gloss": "Mpe mpo na nini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "obatelaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "liloba ya ndingisa ya Yawe"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "liloba ya ndingisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mobeko"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "mobeko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "natesaki"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T18:43:52.422089954Z",
+  "model": "glm-5.3"
+}

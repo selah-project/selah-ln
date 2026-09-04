@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 8:21",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe Shemuel ayoki ⟨את⟩ maloba nyonso ya bato, mpe alobaki yango na matoyi ya Yawe.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Mpe ayoki"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maloba nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "maloba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ya bato"
+    },
+    {
+      "surface": "וידברם",
+      "gloss": "mpe alobaki yango"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "na matoyi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T18:10:09.345222408Z",
+  "model": "glm-5.3"
+}

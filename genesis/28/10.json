@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 28:10",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 28,
+  "translation": "Mpe Yaakov abimaki na Ber Sheva, mpe akendaki na Haran.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "abimaki"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "na Ber"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheva"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "akendaki"
+    },
+    {
+      "surface": "חרנה",
+      "gloss": "na Haran"
+    }
+  ],
+  "timestamp": "2026-09-03T15:59:23.820333164Z",
+  "model": "glm-5.3"
+}

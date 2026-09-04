@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 4:10",
+  "book": "song-of-songs",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Nini, bolingo na yo ezali kitoko, ndeko mwasi na ngai, mwasi ya libala! Nini, bolingo na yo eleki malamu divai, mpe pumpo ya mafuta na yo eleki bankumbe nyonso!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Nini"
+    },
+    {
+      "surface": "יפו",
+      "gloss": "ezali kitoko"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "bolingo na yo"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "ndeko mwasi na ngai"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "mwasi ya libala"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Nini"
+    },
+    {
+      "surface": "טבו",
+      "gloss": "eleki malamu"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "bolingo na yo"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "divai"
+    },
+    {
+      "surface": "וריח",
+      "gloss": "mpe pumpo ya"
+    },
+    {
+      "surface": "שמניך",
+      "gloss": "mafuta na yo"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "eleki nyonso ya"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "bankumbe"
+    }
+  ],
+  "timestamp": "2026-09-03T22:05:56.987179546Z",
+  "model": "glm-5.3"
+}

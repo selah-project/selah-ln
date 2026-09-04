@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 51:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 51,
+  "translation": "Sanzola ngai mingi uta na libunga na ngai, mpe uta na masumu na ngai, misala ngai puya.",
+  "tokens": [
+    {
+      "surface": "הרבה",
+      "gloss": "mingi"
+    },
+    {
+      "surface": "כבסני",
+      "gloss": "Sanzola ngai"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "uta na libunga na ngai"
+    },
+    {
+      "surface": "ומחטאתי",
+      "gloss": "mpe uta na masumu na ngai"
+    },
+    {
+      "surface": "טהרני",
+      "gloss": "misala ngai puya"
+    }
+  ],
+  "timestamp": "2026-09-03T21:13:24.865280531Z",
+  "model": "glm-5.3"
+}

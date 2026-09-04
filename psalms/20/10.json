@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 20:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 20,
+  "translation": "Yawe, obikisa mokonzi; ayanola biso na mokolo tobingaki ⟨ye⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "obikisa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "ayanola biso"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na mokolo"
+    },
+    {
+      "surface": "קראנו",
+      "gloss": "tobingaki ⟨ye⟩"
+    }
+  ],
+  "timestamp": "2026-09-03T21:03:39.697456014Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 14:15",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Kasi nakokitisama kino na Sheol, na moke ya libulu.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Kasi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "nakokitisama"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kino na"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "moke ya"
+    },
+    {
+      "surface": "בור",
+      "gloss": "libulu"
+    }
+  ],
+  "timestamp": "2026-09-03T19:17:47.115975190Z",
+  "model": "glm-5.3"
+}

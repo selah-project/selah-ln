@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 5:1",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Keba te na monoko na yo, mpe motema na yo keba te na kolobisa liloba liboso ya Elohim; mpo Elohim azali na likolo, mpe yo ozali na mabele; mpo na yango maloba na yo makoka kozala mike.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "Keba"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "monoko na yo"
+    },
+    {
+      "surface": "ולבך",
+      "gloss": "mpe motema na yo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "ימהר",
+      "gloss": "akomibanga"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "na kolobisa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "liloba"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "na likolo"
+    },
+    {
+      "surface": "ו אתה",
+      "gloss": "mpe yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "על",
+      "gloss": "mpo na"
+    },
+    {
+      "surface": "כן",
+      "gloss": "yango"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ezala"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "maloba na yo"
+    },
+    {
+      "surface": "מעטים",
+      "gloss": "mike"
+    }
+  ],
+  "timestamp": "2026-09-03T22:13:55.509838470Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 118:24",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 118,
+  "translation": "Oyo nde mokolo Yawe asalaki; tosepelaka mpe tosanaka na yango.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Oyo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "mokolo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "asalaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "נגילה",
+      "gloss": "tosepelaka"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "mpe tosanaka"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:30:19.865951380Z",
+  "model": "glm-5.3"
+}

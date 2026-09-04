@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 14:1",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Mayele ya mwasi atongaki ndako, kasi bwale na maboko na ye ebomaki ⟨yango⟩.",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "mayele"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "mwasi"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "atongaki"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "ואולת",
+      "gloss": "mpe bwale"
+    },
+    {
+      "surface": "בידיה",
+      "gloss": "na maboko na ye"
+    },
+    {
+      "surface": "תהרסנו",
+      "gloss": "ebomaki ⟨yango⟩"
+    }
+  ],
+  "timestamp": "2026-09-03T21:42:34.099547965Z",
+  "model": "glm-5.3"
+}

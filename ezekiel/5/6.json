@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 5:6",
+  "book": "ezekiel",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Mpe abongolaki ⟨את⟩ mabeko na ngai na mabe koleka bikolo, mpe ⟨את⟩ mibeko na ngai koleka mabele oyo ezali pembeni na yango, mpo mabeko na ngai bapaki, mpe na mibeko na ngai balendaki te na yango.",
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "Mpe abongolaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabeko na ngai"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "mabeko na ngai"
+    },
+    {
+      "surface": "לרשעה",
+      "gloss": "na mabe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "koleka"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bikolo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mibeko na ngai"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "mibeko na ngai"
+    },
+    {
+      "surface": "מן",
+      "gloss": "koleka"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "סביבותיה",
+      "gloss": "ezali pembeni na yango"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "במשפטי",
+      "gloss": "mabeko na ngai"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "bapaki"
+    },
+    {
+      "surface": "וחקותי",
+      "gloss": "mpe mibeko na ngai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "balendaki"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T20:12:31.941333851Z",
+  "model": "glm-5.3"
+}

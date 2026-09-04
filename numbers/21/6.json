@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 21:6",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Mpe Yawe atindaki kati ya bato ⟨את⟩ minoka ya moto, mpe esunaki ⟨את⟩ bato, mpe bato ebeli kati ya Israel bakufaki.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "mpe atindaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "kati ya bato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minoka"
+    },
+    {
+      "surface": "הנחשים",
+      "gloss": "minoka"
+    },
+    {
+      "surface": "השרפים",
+      "gloss": "ya moto"
+    },
+    {
+      "surface": "וינשכו",
+      "gloss": "mpe esunaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bato"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "mpe bakufaki"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ebeli"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "kati ya Israel"
+    }
+  ],
+  "timestamp": "2026-09-03T23:17:31.819750292Z",
+  "model": "glm-5.3"
+}

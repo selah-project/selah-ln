@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 116:14",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 116,
+  "translation": "Bandela na ngai epai ya Yawe nakofuta, liboso sika oyo, na bato na ye nyonso.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "bandela na ngai"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "epai ya Yawe"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "nakofuta"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "liboso"
+    },
+    {
+      "surface": "נא",
+      "gloss": "sika oyo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "na bato nyonso"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bato na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:30:32.472876464Z",
+  "model": "glm-5.3"
+}

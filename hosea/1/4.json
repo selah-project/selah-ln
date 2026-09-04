@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 1:4",
+  "book": "hosea",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe Yawe alobaki na ye: benga nkombo na ye Yizreel, mpo ete na seko moke, mpe nakolakisa ⟨את⟩ makila ya Yizreel olikolo ya ndako ya Yehu, mpe nakosilisa bokonzi ya ndako ya Israel.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "benga"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nkombo na ye"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "na seko"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "moke"
+    },
+    {
+      "surface": "ופקדתי",
+      "gloss": "mpe nakolakisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makila ya Yizreel"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "makila ya"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    },
+    {
+      "surface": "על",
+      "gloss": "olikolo ya"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako ya"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "mpe nakosilisa"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "bokonzi ya"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-03T20:38:31.582723579Z",
+  "model": "glm-5.3"
+}

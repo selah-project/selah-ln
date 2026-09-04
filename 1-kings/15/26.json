@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 15:26",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 15,
+  "translation": "Mpe asalaki mabe na miso ya Yawe, mpe atambolaki na nzela ya tataye, mpe na libangi na ye, oyo asalaki ⟨את⟩ Israel libangi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Mpe asalaki"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "na miso ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "mpe atambolaki"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "na nzela ya"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "tataye"
+    },
+    {
+      "surface": "ובחטאתו",
+      "gloss": "mpe na libangi na ye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "asalaki ... libangi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-04T00:29:01.792409592Z",
+  "model": "glm-5.3"
+}

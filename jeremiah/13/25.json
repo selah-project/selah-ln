@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 13:25",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Oyo ezali partie na yo, mbeka ya bipeme na yo, ⟨את⟩ uta na ngai, liloba ya Yawe, mpo obosaki ngai mpe okanisaki na lokuta.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Oyo"
+    },
+    {
+      "surface": "גורלך",
+      "gloss": "partie na yo"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "mbeka"
+    },
+    {
+      "surface": "מדיך",
+      "gloss": "ya bipeme na yo"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ uta na ngai",
+      "marks": "mbeka ya bipeme na yo"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "liloba ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "שכחת",
+      "gloss": "obosaki"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ ngai"
+    },
+    {
+      "surface": "ותבטחי",
+      "gloss": "mpe okanisaki"
+    },
+    {
+      "surface": "בשקר",
+      "gloss": "na lokuta"
+    }
+  ],
+  "timestamp": "2026-09-03T19:48:04.186065347Z",
+  "model": "glm-5.3"
+}

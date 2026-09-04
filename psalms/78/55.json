@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "psalms 78:55",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 78,
+  "translation": "Mpe abimisaki banzio liboso ya bango, mpe atyaki bango na kangeti ya bofungwa, mpe afandisaki bituluku ya Israel na biaulo na bango.",
+  "tokens": [
+    {
+      "surface": "ויגרש",
+      "gloss": "mpe abimisaki"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "liboso ya bango"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "banzio"
+    },
+    {
+      "surface": "ויפילם",
+      "gloss": "mpe atyaki bango"
+    },
+    {
+      "surface": "בחבל",
+      "gloss": "na kangeti"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "ya bofungwa"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "mpe afandisaki"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "na biaulo na bango"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "bituluku"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    }
+  ],
+  "timestamp": "2026-09-03T21:20:38.887015951Z",
+  "model": "glm-5.3"
+}

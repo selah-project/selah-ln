@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 42:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 42,
+  "translation": "Bilolo na ngai emekaki ngai lokola bilei mokolo na mokolo mpe butu na butu, ntango balobaka na ngai mobimba ya mokolo: Elohim na yo azali wapi?",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "emekeaki"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "bilolo na ngai"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "lokola bilei"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "mokolo na mokolo"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "mpe butu na butu"
+    },
+    {
+      "surface": "באמר",
+      "gloss": "ntango balobaka"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mobimba ya"
+    },
+    {
+      "surface": "היום",
+      "gloss": "mokolo"
+    },
+    {
+      "surface": "איה",
+      "gloss": "azali wapi"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:10:44.892275119Z",
+  "model": "glm-5.3"
+}

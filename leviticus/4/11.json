@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 4:11",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "mpe ⟨את⟩ lopito ya ngulu, mpe ⟨את⟩ nyama na yango mobimba, na motó na yango mpe na makolo na yango, na bomo na yango mpe na masuba na yango",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "lopito ya ngulu"
+    },
+    {
+      "surface": "עור",
+      "gloss": "lopito"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ya ngulu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "nyama na yango mobimba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mobimba"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "nyama na yango"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "motó na yango"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "mpe na"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "makolo na yango"
+    },
+    {
+      "surface": "וקרבו",
+      "gloss": "na bomo na yango"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "na masuba na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:40:58.849831970Z",
+  "model": "glm-5.3"
+}

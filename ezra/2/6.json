@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezra 2:6",
+  "book": "ezra",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Bana ya Pahat-Moab, ya bana ya Yeshua ⟨mpe⟩ Yoav, mafuko mibale nkama mwambe na zomi na mibale.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Bana ya"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "Pahat"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ya bana ya"
+    },
+    {
+      "surface": "ישוע",
+      "gloss": "Yeshua"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "mafuko mibale"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "mwambe"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "nkama"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "na mibale"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "zomi na mibale"
+    }
+  ],
+  "timestamp": "2026-09-03T23:39:06.203825302Z",
+  "model": "glm-5.3"
+}

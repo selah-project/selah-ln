@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 107:20",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 107,
+  "translation": "Atindaki liloba na yango mpe abongisaki bango, mpe alongolaki bango na bibungiseli na bango.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Atindaki"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "liloba na yango"
+    },
+    {
+      "surface": "וירפאם",
+      "gloss": "mpe abongisaki bango"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "mpe alongolaki bango na"
+    },
+    {
+      "surface": "משחיתותיהם",
+      "gloss": "bibungiseli na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:28:22.355614712Z",
+  "model": "glm-5.3"
+}

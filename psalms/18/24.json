@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 18:24",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Mpe nazalaki moto ya bosembo elongo na Yango, mpe nabatelaki ngai moko na bobubi na ngai.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "mpe nazalaki"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "moto ya bosembo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "elongo na Yango"
+    },
+    {
+      "surface": "ואשתמר",
+      "gloss": "mpe nabatelaki ngai moko"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "na bobubi na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:03:52.501569947Z",
+  "model": "glm-5.3"
+}

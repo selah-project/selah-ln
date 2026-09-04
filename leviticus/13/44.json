@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 13:44",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Moto ya tsaraat, aye ⟨azali⟩ moxi; kohen akomxi ye mobimba moxi; nko na ye ezali na motó na ye.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "צרוע",
+      "gloss": "ya tsaraat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "aye"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "moxi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "aye"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "akomxi"
+    },
+    {
+      "surface": "יטמאנו",
+      "gloss": "ye mobimba"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "na motó na ye"
+    },
+    {
+      "surface": "נגעו",
+      "gloss": "nko na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T16:46:05.745954779Z",
+  "model": "glm-5.3"
+}

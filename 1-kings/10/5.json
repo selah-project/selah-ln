@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 10:5",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "mpe bilei ya mesa na ye, mpe esika ya kofanda ya basulumi na ye, mpe etikelami ya basembeni na ye, mpe bilamba na bango, mpe bato ya komeli na ye, mpe olah na ye oyo aopesaki na ndako ya Yawe, mpe ezalaki lisusu na yango te mpoya",
+  "tokens": [
+    {
+      "surface": "ומאכל",
+      "gloss": "mpe bilei"
+    },
+    {
+      "surface": "שלחנו",
+      "gloss": "ya mesa na ye"
+    },
+    {
+      "surface": "ומושב",
+      "gloss": "mpe esika ya kofanda"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ya basulumi na ye"
+    },
+    {
+      "surface": "ומעמד",
+      "gloss": "mpe etikelami"
+    },
+    {
+      "surface": "משרתו",
+      "gloss": "ya basembeni na ye"
+    },
+    {
+      "surface": "ומלבשיהם",
+      "gloss": "mpe bilamba na bango"
+    },
+    {
+      "surface": "ומשקיו",
+      "gloss": "mpe bato ya komeli na ye"
+    },
+    {
+      "surface": "ועלתו",
+      "gloss": "mpe olah na ye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "aopesaki"
+    },
+    {
+      "surface": "בית",
+      "gloss": "na ndako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yawe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ezalaki"
+    },
+    {
+      "surface": "בה",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lisusu"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mpoya"
+    }
+  ],
+  "timestamp": "2026-09-03T18:48:09.575581287Z",
+  "model": "glm-5.3"
+}

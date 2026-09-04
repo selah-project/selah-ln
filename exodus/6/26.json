@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 6:26",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Oyo nde Aharon mpe Moshe, oyo Yawe alobaki na bango ete: Bimisá ⟨את⟩ bana ya Israel na mabele ya Mitsraim, na mampinga na bango.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "mpe Moshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "הוציאו",
+      "gloss": "bimisá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bana ya Israel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "na mabele ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "צבאתם",
+      "gloss": "mampinga na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:14:42.837256012Z",
+  "model": "glm-5.3"
+}

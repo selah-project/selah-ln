@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 36:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 36,
+  "translation": "Yawe, hesed na yo ezali na likolo, bondimi na yo kino na bahele.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בהשמים",
+      "gloss": "na likolo"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed na yo"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "bondimi na yo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "bahele"
+    }
+  ],
+  "timestamp": "2026-09-03T21:08:49.439152157Z",
+  "model": "glm-5.3"
+}

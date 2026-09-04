@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 16:6",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Mpe sango tango bayaki, amonaki ⟨את⟩ Eliyab, mpe alobaki: ya solo, liboso ya Yawe ⟨ezali⟩ Mashiah na ye.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mpe sango tango"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "bayaki"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "amonaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliyab"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Eliyab"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ya solo"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "Mashiah na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T18:16:24.316159353Z",
+  "model": "glm-5.3"
+}

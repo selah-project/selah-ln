@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 71:15",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 71,
+  "translation": "Monoko na ngai ekoloba bosolo na yo mpe bobiki na yo mobimba mokolo, mpo nayebi te motango na yango.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "monoko na ngai"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "ekoloba"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "bosolo na yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mobimba"
+    },
+    {
+      "surface": "היום",
+      "gloss": "mokolo"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "bobiki na yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "nayebi"
+    },
+    {
+      "surface": "ספרות",
+      "gloss": "motango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:17:28.355342975Z",
+  "model": "glm-5.3"
+}

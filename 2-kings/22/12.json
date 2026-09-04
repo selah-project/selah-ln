@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 22:12",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Mpe mokonzi atindaki ⟨את⟩ Hilkia kohen, mpe ⟨את⟩ Ahikam mwana wa Shafan, mpe ⟨את⟩ Akbor mwana wa Mikhia, mpe ⟨את⟩ Shafan mokomi, mpe ⟨את⟩ Asaya mosali ya mokonzi, alobaki:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Mpe atindaki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hilkia"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Hilkia"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Ahikam"
+    },
+    {
+      "surface": "אחיקם",
+      "gloss": "Ahikam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Shafan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Akbor"
+    },
+    {
+      "surface": "עכבור",
+      "gloss": "Akbor"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "מיכיה",
+      "gloss": "Mikhia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Shafan"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Shafan"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "mokomi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Asaya"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "Asaya"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "mosali"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya mokonzi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "alobaki"
+    }
+  ],
+  "timestamp": "2026-09-03T19:10:05.613227884Z",
+  "model": "glm-5.3"
+}

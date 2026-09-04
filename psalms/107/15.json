@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 107:15",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 107,
+  "translation": "Batokaki na Yawe hesed na yango (bolingo ya bobondi), mpe makambo ya kokamwa na yango epai ya bana ya bato.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "batokaki"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "na Yawe"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed na yango"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "mpe makambo ya kokamwa na yango"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "epai ya bana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ya bato"
+    }
+  ],
+  "timestamp": "2026-09-03T21:28:15.535324013Z",
+  "model": "glm-5.3"
+}

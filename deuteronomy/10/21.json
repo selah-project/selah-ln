@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 10:21",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Ye azali lokumu na yo, mpe ye azali Elohim na yo, oyo asalaki na yo ⟨את⟩ bagrandi mpe ⟨את⟩ baya bobangi oya, oyo miso na yo eyaki moni.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Ye"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "azali lokumu na yo"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "mpe ye"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "azali Elohim na yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "asalaki"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "na yo ⟨את⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bagrandi"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "bagrandi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "baya bobangi"
+    },
+    {
+      "surface": "הנוראת",
+      "gloss": "baya bobangi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "oya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "eyaki moni"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "miso na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T17:26:47.172336258Z",
+  "model": "glm-5.3"
+}

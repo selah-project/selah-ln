@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 11:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Akoutaka mbula ya mapatriso, moto, mpe soufre likolo ya babubi; mpe mopepe ya bolumbu nde bozui ya kopo na bango.",
+  "tokens": [
+    {
+      "surface": "ימטר",
+      "gloss": "akoutaka mbula"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "babubi"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "mapatriso"
+    },
+    {
+      "surface": "אש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "וגפרית",
+      "gloss": "mpe soufre"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "mpe mopepe"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "ya bolumbu"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "bozui"
+    },
+    {
+      "surface": "כוסם",
+      "gloss": "kopo na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:02:20.799549246Z",
+  "model": "glm-5.3"
+}

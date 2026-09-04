@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 103:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 103,
+  "translation": "Yawe amemisaki koyeba banzela na ye epai ya Moshe, misala na ye epai ya bana ya Israel.",
+  "tokens": [
+    {
+      "surface": "יודיע",
+      "gloss": "amemisaki koyeba"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "banzela na ye"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "epai ya Moshe"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "epai ya bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "misala na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:25:46.132803161Z",
+  "model": "glm-5.3"
+}

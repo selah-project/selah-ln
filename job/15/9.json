@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 15:9",
+  "book": "job",
+  "lang": "ln",
+  "chapter": 15,
+  "translation": "Nini oyebi mpe biso toyebi te? Nini oyokanisi mpe oyo ezali te na biso?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Nini"
+    },
+    {
+      "surface": "יָדַעְתָּ",
+      "gloss": "oyebi"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "mpe ⟨te⟩"
+    },
+    {
+      "surface": "נֵדָע",
+      "gloss": "toyebi"
+    },
+    {
+      "surface": "תָּבִין",
+      "gloss": "oyokanisi"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "mpe ⟨te⟩"
+    },
+    {
+      "surface": "עִמָּנוּ",
+      "gloss": "na biso"
+    },
+    {
+      "surface": "הוּא",
+      "gloss": "oyo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:55:43.342772929Z",
+  "model": "glm-5.3"
+}

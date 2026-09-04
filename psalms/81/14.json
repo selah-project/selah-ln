@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 81:14",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 81,
+  "translation": "Lokota mbala moko bato na ngai bayokaka ngai, Israel atambola na banzela na ngai!",
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "Lokota mbala moko"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "bato na ngai"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "bayokaka"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "na banzela na ngai"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "atambola"
+    }
+  ],
+  "timestamp": "2026-09-03T21:20:39.658164411Z",
+  "model": "glm-5.3"
+}

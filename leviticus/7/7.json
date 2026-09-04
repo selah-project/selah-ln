@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 7:7",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Lokola mbeka ya masumu, boye mbeka ya likebi; Tora moko na bango; kohen oyo akomba ⟨na⟩ yango, yango ezali ya ye.",
+  "tokens": [
+    {
+      "surface": "כחטאת",
+      "gloss": "Lokola mbeka ya masumu"
+    },
+    {
+      "surface": "כאשם",
+      "gloss": "boye mbeka ya likebi"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "moko"
+    },
+    {
+      "surface": "להם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "akomba"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "yango ezali ya ye"
+    }
+  ],
+  "timestamp": "2026-09-03T16:41:17.851055570Z",
+  "model": "glm-5.3"
+}

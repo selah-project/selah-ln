@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 3:42",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe Moshe akanisaki motango, ndenge Yawe atindaki ⟨את⟩ ye, ⟨את⟩ bana ya libela nyonso kati na bana ya Israel.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "Mpe akanisaki motango"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ndenge"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "atindaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bana ya libela nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "bana ya libela"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "kati na bana ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-03T17:00:05.143341064Z",
+  "model": "glm-5.3"
+}

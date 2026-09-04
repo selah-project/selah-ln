@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 46:10",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 46,
+  "translation": "Ayebisi suka uta ebandeli, mpe uta ntango ya kala makambo oyo esalemi esika te, alobi ete: likebi na ngai ekotikala, mpe posa na ngai nyonso nasala.",
+  "tokens": [
+    {
+      "surface": "מגיד",
+      "gloss": "Ayebisi"
+    },
+    {
+      "surface": "מראשית",
+      "gloss": "uta ebandeli"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "suka"
+    },
+    {
+      "surface": "ומקדם",
+      "gloss": "mpe uta ntango ya kala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "esika te"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "esalemi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "alobi ete"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "likebi na ngai"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "ekotikala"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe nyonso"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "posa na ngai"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "nasala"
+    }
+  ],
+  "timestamp": "2026-09-03T19:32:11.837111109Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 7:16",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Bato ebimaki mpe bazwaki makasi ⟨את⟩ kampɛ ya Aram, mpe ekómaki saa moko ya moulu na sekel moko, mpe saa mibale ya mbila na sekel moko, lokola liloba ya Yawe.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ebimaki"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "bazwaki makasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kampɛ ya Aram"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "kampɛ"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ya Aram"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mpe ekómaki"
+    },
+    {
+      "surface": "סאה",
+      "gloss": "saa moko"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "ya moulu"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "na sekel moko"
+    },
+    {
+      "surface": "וסאתים",
+      "gloss": "mpe saa mibale"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "ya mbila"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "na sekel moko"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "lokola liloba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T19:03:39.083358348Z",
+  "model": "glm-5.3"
+}

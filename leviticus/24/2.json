@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 24:2",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "Etinda ⟨את⟩ bana ya Israel, mpe bataola epai na yo mafuta ya zaituni, ya peto, ya kobeta, mpo na mongala, mpo na kolamusa nlame tango nyonso.",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "Etinda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bana ya Israel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "mpe bataola"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "epai na yo"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "זית",
+      "gloss": "ya zaituni"
+    },
+    {
+      "surface": "זך",
+      "gloss": "ya peto"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "ya kobeta"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "mpo na mongala"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "mpo na kolamusa"
+    },
+    {
+      "surface": "נר",
+      "gloss": "nlame"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "tango nyonso"
+    }
+  ],
+  "timestamp": "2026-09-03T16:55:03.794383445Z",
+  "model": "glm-5.3"
+}

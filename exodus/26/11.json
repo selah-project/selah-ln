@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 26:11",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "Mpe osala bikwanga bya mbengi ntano na zomi, mpe okotisa ⟨את⟩ bikwanga o bilolo, mpe okangisa ⟨את⟩ hema, mpe ekokoma moko.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "mpe osala"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "bikwanga"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "mbengi"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ntano na zomi"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "mpe okotisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bikwanga"
+    },
+    {
+      "surface": "הקרסים",
+      "gloss": "bikwanga"
+    },
+    {
+      "surface": "בללאת",
+      "gloss": "o bilolo"
+    },
+    {
+      "surface": "וחברת",
+      "gloss": "mpe okangisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hema"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "hema"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "mpe ekokoma"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "moko"
+    }
+  ],
+  "timestamp": "2026-09-03T16:28:00.141796305Z",
+  "model": "glm-5.3"
+}

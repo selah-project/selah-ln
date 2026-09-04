@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 28:21",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 28,
+  "translation": "Yawe akoangela na yo ⟨את⟩ maladi, kino asilisaka yo uta na mabele oyo ozali kokota kuna mpo na kokola yango.",
+  "tokens": [
+    {
+      "surface": "ידבק",
+      "gloss": "akoangela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בך",
+      "gloss": "na yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maladi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "maladi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "asilisaka"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ yo"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "uta na"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ozali kokota"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "mpo na kokola yango"
+    }
+  ],
+  "timestamp": "2026-09-03T17:38:26.696253335Z",
+  "model": "glm-5.3"
+}

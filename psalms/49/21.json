@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 49:21",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 49,
+  "translation": "Moto na lokumu mpe te ⟨asili⟩ koyoka, akokanaki na bibwe — banyokwaki.",
+  "tokens": [
+    {
+      "surface": "אָדָ֣ם",
+      "gloss": "Moto"
+    },
+    {
+      "surface": "בִּ֭יקָר",
+      "gloss": "na lokumu"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "יָבִ֑ין",
+      "gloss": "koyoka"
+    },
+    {
+      "surface": "נִמְשַׁ֖ל",
+      "gloss": "akokanaki"
+    },
+    {
+      "surface": "כַּבְּהֵמ֣וֹת",
+      "gloss": "na bibwe"
+    },
+    {
+      "surface": "נִדְמֽוּ",
+      "gloss": "banyokwaki"
+    }
+  ],
+  "timestamp": "2026-09-03T21:10:57.312233434Z",
+  "model": "glm-5.3"
+}

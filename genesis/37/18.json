@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 37:18",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 37,
+  "translation": "Mpe bamonaki ⟨את⟩ ye mosika, mpe liboso ete akomaki pene epai na bango, mpe bapangisaki ⟨את⟩ ye mpo na koboma ye.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "mpe bamonaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ye",
+      "marks": "ye"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "mosika"
+    },
+    {
+      "surface": "ובטרם",
+      "gloss": "mpe liboso ete"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "akomaki pene"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "epai na bango"
+    },
+    {
+      "surface": "ויתנכלו",
+      "gloss": "mpe bapangisaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ye",
+      "marks": "ye"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "mpo na koboma ye"
+    }
+  ],
+  "timestamp": "2026-09-03T16:04:43.014279130Z",
+  "model": "glm-5.3"
+}

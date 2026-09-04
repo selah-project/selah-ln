@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 26:30",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "Mpe asalaki bango mbamba, mpe balyaki mpe bamelaki.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Mpe asalaki"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bango"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "mbamba"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "mpe balyaki"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "mpe bamelaki"
+    }
+  ],
+  "timestamp": "2026-09-03T15:57:09.591845666Z",
+  "model": "glm-5.3"
+}

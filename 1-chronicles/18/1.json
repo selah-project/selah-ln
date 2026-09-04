@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 18:1",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Mpe na nsima ya yango David akubolaki ⟨את⟩ baplishiti mpe akitisaki bango, mpe azwaki ⟨את⟩ Gat mpe bibuye na yango na maboko ya baplishiti.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "elaki"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "na nsima"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ya yango"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "akubolaki"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baplishiti"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "baplishiti"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "akitisaki bango"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "azwaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gat"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "mpe bibuye na yango"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "na maboko"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ya baplishiti"
+    }
+  ],
+  "timestamp": "2026-09-03T22:48:06.113321259Z",
+  "model": "glm-5.3"
+}

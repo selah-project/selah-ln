@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 23:2",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Mpe tya seke na mongongo na yo, soki ozali moto ya nzala.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "Mpe tya"
+    },
+    {
+      "surface": "שכין",
+      "gloss": "seke"
+    },
+    {
+      "surface": "בלעך",
+      "gloss": "na mongongo na yo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "soki"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "moto ya"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "nzala"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "oyo ozali"
+    }
+  ],
+  "timestamp": "2026-09-03T23:36:14.373026758Z",
+  "model": "glm-5.3"
+}

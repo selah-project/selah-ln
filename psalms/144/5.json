@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 144:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 144,
+  "translation": "Yawe, bendisa likolo na yo mpe kita; simba bangomba mpe bizali kobimisa moke.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הט",
+      "gloss": "bendisa"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "likolo na yo"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "mpe kita"
+    },
+    {
+      "surface": "גע",
+      "gloss": "simba"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "bangomba"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "mpe bizali kobimisa moke"
+    }
+  ],
+  "timestamp": "2026-09-03T21:36:18.131593398Z",
+  "model": "glm-5.3"
+}

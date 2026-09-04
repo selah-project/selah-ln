@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 93:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 93,
+  "translation": "Mai etukaki, Yawe; mai etukaki nduru na yango; mai ya mbu ekolaki bipaya bya yango.",
+  "tokens": [
+    {
+      "surface": "נשאו",
+      "gloss": "etukaki"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "bamai ya mbu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "etukaki"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "bamai ya mbu"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "nduru na yango"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "ekolaki"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "bamai ya mbu"
+    },
+    {
+      "surface": "דכים",
+      "gloss": "bipaya bya yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:25:09.114356582Z",
+  "model": "glm-5.3"
+}

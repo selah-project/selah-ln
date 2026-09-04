@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 3:15",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe Ish-Boshet atindaki mpe azwaki yango epai ya mwasi na yango, epai ya Paltiel mwana wa Laish.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "atindaki"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Ishi"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "Boshet"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "mpe azwaki yango"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mwasi na yango"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "פלטיאל",
+      "gloss": "Paltiel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "לוש",
+      "gloss": "Laish"
+    }
+  ],
+  "timestamp": "2026-09-03T18:26:40.963816724Z",
+  "model": "glm-5.3"
+}

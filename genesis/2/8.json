@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 2:8",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe Yawe Elohim amebomaki zando na Eden, na esita, mpe atyaki kuna ⟨את⟩ moto oyo amekelaki.",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "amebomaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "גן",
+      "gloss": "zando"
+    },
+    {
+      "surface": "בעדן",
+      "gloss": "na Eden"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "na esita"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "mpe atyaki"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moto"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "moto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "amekelaki"
+    }
+  ],
+  "timestamp": "2026-09-03T15:44:42.997467310Z",
+  "model": "glm-5.3"
+}

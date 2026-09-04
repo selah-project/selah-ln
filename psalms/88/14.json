@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 88:14",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 88,
+  "translation": "Kasi ngai, epai na yo, Yawe, nakangaki mongongo; mpe na tongo loyengeli na ngai ekokita liboso na yo.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "kasi ngai"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "epai na yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "nakangaki mongongo"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "mpe na tongo"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "loyengeli na ngai"
+    },
+    {
+      "surface": "תקדמך",
+      "gloss": "ekokita liboso na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:22:24.723363119Z",
+  "model": "glm-5.3"
+}

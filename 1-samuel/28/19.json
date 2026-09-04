@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 28:19",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 28,
+  "translation": "Mpe Yawe akopesa mpe ⟨את⟩ Israel elongo na yo na maboko ya Bafilisti; mpe lobi yo mpe bana na yo bokozala elongo na ngai; Yawe akopesa mpe ⟨את⟩ kampinga ya Israel na maboko ya Bafilisti.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Mpe akopesa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "elongo na yo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "na maboko"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ya Bafilisti"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "mpe lobi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "mpe bana na yo"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "elongo na ngai"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kampinga"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "kampinga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "akopesa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "na maboko"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ya Bafilisti"
+    }
+  ],
+  "timestamp": "2026-09-03T18:24:44.001225893Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 27:8",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 27,
+  "translation": "Mpe okokoma na mabanga yango ⟨את⟩ maloba nyonso ya Tora oyo, polele mingi.",
+  "tokens": [
+    {
+      "surface": "וכתבת",
+      "gloss": "Mpe okokoma"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "mabanga yango"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maloba nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "maloba"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "ya Tora"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "באר",
+      "gloss": "polele"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "mingi"
+    }
+  ],
+  "timestamp": "2026-09-03T17:36:03.075738853Z",
+  "model": "glm-5.3"
+}

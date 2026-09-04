@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 83:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 83,
+  "translation": "Likolo ya bato na yo basalaka sod ⟨sangisano ya kobomba⟩, mpe basalaka kosolola likolo ya bato oyo ozali kobomba ⟨oyo ozali kobomba⟩.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bato na yo"
+    },
+    {
+      "surface": "יערימו",
+      "gloss": "basalaka kobomba-bongo ⟨na likebi⟩"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "sod"
+    },
+    {
+      "surface": "ויתיעצו",
+      "gloss": "mpe basalaka kosolola"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "צפוניך",
+      "gloss": "oyo ozali kobomba"
+    }
+  ],
+  "timestamp": "2026-09-03T21:21:01.787254843Z",
+  "model": "glm-5.3"
+}

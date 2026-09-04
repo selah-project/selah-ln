@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 19:10",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Mpe bandeko na yango bakokoma bakotumbwama; baye nyonso basalaka mpo na mbongo bazali na mawa ya molimo.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "mpe bakokoma"
+    },
+    {
+      "surface": "שתתיה",
+      "gloss": "bandeko na yango"
+    },
+    {
+      "surface": "מדכאים",
+      "gloss": "bakotumbwama"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "baye basalaka"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "mpo na mbongo"
+    },
+    {
+      "surface": "אגמי",
+      "gloss": "na mawa"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ya molimo"
+    }
+  ],
+  "timestamp": "2026-09-03T19:19:51.397573203Z",
+  "model": "glm-5.3"
+}

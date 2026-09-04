@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 22:10",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Mpe atunaki na Yawe mpo na ye, mpe apesaki ye bilei, mpe ⟨את⟩ epée ya Goliath Moplisiti apesaki ye.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "Mpe atunaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mpo na ye"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "na Yawe"
+    },
+    {
+      "surface": "וצידה",
+      "gloss": "mpe bilei"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "apesaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "epée"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "epée"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "ya Goliath"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Moplisiti"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "apesaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ye"
+    }
+  ],
+  "timestamp": "2026-09-03T18:20:56.418908634Z",
+  "model": "glm-5.3"
+}

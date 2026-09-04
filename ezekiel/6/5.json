@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 6:5",
+  "book": "ezekiel",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpe nakotya ⟨את⟩ bikufi ya bana ya Israel liboso ya bikeko na bango, mpe nakosolola ⟨את⟩ miku na bino pembeni ya mapesa na bino.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "mpe nakotya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bikufi ya bana ya Israel"
+    },
+    {
+      "surface": "פגרי",
+      "gloss": "bikufi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ya bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "גלוליהם",
+      "gloss": "bikeko na bango"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "mpe nakosolola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "miku na bino"
+    },
+    {
+      "surface": "עצמותיכם",
+      "gloss": "miku na bino"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "pembeni ya"
+    },
+    {
+      "surface": "מזבחותיכם",
+      "gloss": "mapesa na bino"
+    }
+  ],
+  "timestamp": "2026-09-03T20:11:12.509615642Z",
+  "model": "glm-5.3"
+}

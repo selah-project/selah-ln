@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 11:25",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpe Nahor azalaki na bomoi, na nsima ya kobota ⟨את⟩ Terah, mbula ikumi na libwa na nkoto moko ya mbula; mpe abotaki bankasi mpe basi.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "azalaki na bomoi"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nahor"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "na nsima ya"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "kobota"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Terah"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terah"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "libwa"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ikumi na"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mbula"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "nkoto moko ya"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mbula"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "mpe abotaki"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bankasi"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "mpe basi"
+    }
+  ],
+  "timestamp": "2026-09-03T15:49:09.657200927Z",
+  "model": "glm-5.3"
+}

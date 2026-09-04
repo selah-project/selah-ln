@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 1:10",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe soki mbeka na ye ⟨ezali⟩ kati ya banyama, kati ya bandundu to kati ya bapoyo, mpo na ola, libali ya mabe te amemela yango.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "mpe soki"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kati ya"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "banyama"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "mbeka na ye"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kati ya"
+    },
+    {
+      "surface": "הכשבים",
+      "gloss": "bandundu"
+    },
+    {
+      "surface": "או",
+      "gloss": "to"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kati ya"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "bapoyo"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "mpo na ola"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "libali"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ya mabe te"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "amemela yango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:40:15.507546551Z",
+  "model": "glm-5.3"
+}

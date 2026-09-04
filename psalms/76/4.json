@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 76:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 76,
+  "translation": "Apena ⟨ye⟩ abukaki bankuna ya uta, ebengo, mpe epa, mpe etumba. Selah.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "Apena"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "abukaki"
+    },
+    {
+      "surface": "רשפי",
+      "gloss": "bankuna ya moto"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "ya uta"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ebengo"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "mpe epa"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "mpe etumba"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-03T21:18:50.031986335Z",
+  "model": "glm-5.3"
+}

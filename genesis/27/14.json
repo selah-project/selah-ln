@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 27:14",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 27,
+  "translation": "Akei mpe azwaki mpe amemaki epai ya mama na ye; mpe mama na ye asalaki bilei ya kitoko, ndenge tata na ye bolingaki.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "akei"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "azwaki"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "amemaki"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "epai ya mama na ye"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "asalaki"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mama na ye"
+    },
+    {
+      "surface": "מטעמים",
+      "gloss": "bilei ya kitoko"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ndenge"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "bolingaki"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "tata na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T15:58:29.476336796Z",
+  "model": "glm-5.3"
+}

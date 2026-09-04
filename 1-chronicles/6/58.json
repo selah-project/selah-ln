@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "1-chronicles 6:58",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpe ⟨את⟩ Ramoth mpe ⟨את⟩ maboko na yango, mpe ⟨את⟩ Anem mpe ⟨את⟩ maboko na yango.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Ramoth"
+    },
+    {
+      "surface": "ראמות",
+      "gloss": "Ramoth"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "maboko na yango"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "maboko na yango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Anem"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "Anem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "maboko na yango"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "maboko na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T22:42:45.648727555Z",
+  "model": "glm-5.3"
+}

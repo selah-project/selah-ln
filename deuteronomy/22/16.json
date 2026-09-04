@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 22:16",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Mpe tata ya mwana-mwasi alobaki epai ya bakulu: ⟨את⟩ mwana na ngai napesi na moto oyo lokola mwasi, mpe ayanelaki ye.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tata"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ya mwana-mwasi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "bakulu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwana na ngai"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "mwana na ngai"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "napesi"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "na moto"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "lokola mwasi"
+    },
+    {
+      "surface": "וישנאה",
+      "gloss": "mpe ayanelaki ye"
+    }
+  ],
+  "timestamp": "2026-09-03T17:34:54.685181859Z",
+  "model": "glm-5.3"
+}

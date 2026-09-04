@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 3:10",
+  "book": "esther",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe mokonzi amobolaki ⟨את⟩ anato na ye na moko na ye, mpe apekaki yango epai ya Haman, mwana ya Hamedata, moAgagi, monguna ya Bayuda.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "amobolaki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anato na ye"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "anato na ye"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "na"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "moko na ye"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "mpe apekaki yango"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "epai ya Haman"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "ya Hamedata"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "moAgagi"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "monguna"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "ya Bayuda"
+    }
+  ],
+  "timestamp": "2026-09-03T23:39:04.314676003Z",
+  "model": "glm-5.3"
+}

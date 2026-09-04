@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mabele ya ble mpe ya orge, ya nzete ya divai, ya fyige mpe ya pomgranade; mabele ya oliva na mafuta, mpe ya moi.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "Mabele"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "ya ble"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "mpe ya orge"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "ya nzete ya divai"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "ya fyige"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "mpe ya pomgranade"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "זית",
+      "gloss": "ya oliva"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "na mafuta"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "mpe ya moi"
+    }
+  ],
+  "timestamp": "2026-09-03T17:27:16.324779285Z",
+  "model": "glm-5.3"
+}

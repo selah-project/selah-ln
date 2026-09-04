@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-samuel 25:43",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Mpe David azwaki ⟨את⟩ Ajinowam na Yizreel, mpe bango mibale bazalaki mpe basi na ye.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Ajinowam"
+    },
+    {
+      "surface": "אחינעם",
+      "gloss": "Ajinowam"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "azwaki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מיזרעאל",
+      "gloss": "na Yizreel"
+    },
+    {
+      "surface": "ותהיין",
+      "gloss": "mpe bazalaki"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "שתיהן",
+      "gloss": "bango mibale"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "basi"
+    }
+  ],
+  "timestamp": "2026-09-03T18:23:07.269900501Z",
+  "model": "glm-5.3"
+}

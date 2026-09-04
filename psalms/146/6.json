@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 146:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 146,
+  "translation": "Asalaki likolo mpe mabele, ⟨את⟩ mbu mpe ⟨את⟩ nyonso oyo ezali kati na yango; Oyo abateli bosembo kino ntango nyonso.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "asalaki"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "likolo"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "mpe mabele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbu"
+    },
+    {
+      "surface": "הים",
+      "gloss": "mbu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "בם",
+      "gloss": "kati na yango"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "Oyo abateli"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "bosembo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kino ntango nyonso"
+    }
+  ],
+  "timestamp": "2026-09-03T21:36:53.623152232Z",
+  "model": "glm-5.3"
+}

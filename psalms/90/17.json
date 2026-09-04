@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 90:17",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 90,
+  "translation": "Mpe kitoko ⟨ya⟩ Adonai Elohim na biso ezala likolo ya biso, mpe mosala ya maboko na biso etombwama likolo ya biso, mpe mosala ya maboko na biso etombwama ⟨yango⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mpe ... ezala"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "kitoko"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim na biso"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "likolo ya biso"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "mpe mosala"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "ya maboko na biso"
+    },
+    {
+      "surface": "כוננה",
+      "gloss": "etombwama"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "likolo ya biso"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "mpe mosala"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "ya maboko na biso"
+    },
+    {
+      "surface": "כוננהו",
+      "gloss": "etombwama ⟨yango⟩"
+    }
+  ],
+  "timestamp": "2026-09-03T21:23:41.992476260Z",
+  "model": "glm-5.3"
+}

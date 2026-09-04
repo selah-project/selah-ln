@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 32:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 32,
+  "translation": "Nakoteyaka yo bwanya mpe nakongoli yo na nzela oyo okolaka; nakopesa likanisi, misu na ngai ezali epai na yo.",
+  "tokens": [
+    {
+      "surface": "אשכילך",
+      "gloss": "nakoteyaka yo bwanya"
+    },
+    {
+      "surface": "ואורך",
+      "gloss": "mpe nakongoli yo"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "na nzela"
+    },
+    {
+      "surface": "זו",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "okolaka"
+    },
+    {
+      "surface": "איעצה",
+      "gloss": "nakopesa likanisi"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "epai na yo"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "misu na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:09:04.573501328Z",
+  "model": "glm-5.3"
+}

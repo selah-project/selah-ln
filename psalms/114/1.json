@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 114:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 114,
+  "translation": "Na bimisi ya Israel na Mitsraim, ndako ya Yaakov na kati ya mboka ya monoko ya mokemoke",
+  "tokens": [
+    {
+      "surface": "בצאת",
+      "gloss": "Na bimisi ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "na Mitsraim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako ya"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "na kati ya mboka ya"
+    },
+    {
+      "surface": "לעז",
+      "gloss": "monoko ya mokemoke"
+    }
+  ],
+  "timestamp": "2026-09-03T21:29:46.926198415Z",
+  "model": "glm-5.3"
+}

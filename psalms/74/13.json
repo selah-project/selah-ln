@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 74:13",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 74,
+  "translation": "Yo oboleki mome na nguya na yo, obukaki bantri ya bataninim likolo ya mai.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Yo"
+    },
+    {
+      "surface": "פוררת",
+      "gloss": "oboleki"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "na nguya na yo"
+    },
+    {
+      "surface": "ים",
+      "gloss": "mome"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "obukaki"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "bantri"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "bataninim"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:19:15.354693008Z",
+  "model": "glm-5.3"
+}

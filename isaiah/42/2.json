@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 42:2",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 42,
+  "translation": "Akoloba na mongongo monene te, mpe akotombola ⟨mongongo na yandi⟩ te, mpe akomona mongongo na yandi te na nzela.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "akoloba na mongongo monene"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe ... te"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "akotombola"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe ... te"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "akomona"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "na nzela"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "mongongo na yandi"
+    }
+  ],
+  "timestamp": "2026-09-03T19:31:28.471567856Z",
+  "model": "glm-5.3"
+}

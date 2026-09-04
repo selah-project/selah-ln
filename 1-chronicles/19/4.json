@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 19:4",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Mpe Hanun azwaki ⟨את⟩ basalali ya David, mpe abotolaki bongo na bango, mpe akataki ⟨את⟩ bilamba na bango na katikati kino nse ya libumu, mpe atindaki bango.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "mpe azwaki"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Hanun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "basalali"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "basalali"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ya David"
+    },
+    {
+      "surface": "ויגלחם",
+      "gloss": "mpe abotolaki bongo na bango"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "mpe akataki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bilamba na bango"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "bilamba na bango"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "na katikati"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "המפשעה",
+      "gloss": "nse ya libumu"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "mpe atindaki bango"
+    }
+  ],
+  "timestamp": "2026-09-03T22:48:30.028519377Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Maloba nyonso ezali makasi; moto akoki te koloba yango; liso etondi te na kotola, mpe likutu etondi te na koyoka.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "maloba"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "ezali makasi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "akoki"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "koloba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "etondi"
+    },
+    {
+      "surface": "עין",
+      "gloss": "liso"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "na kotola"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "etondi"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "likutu"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "na koyoka"
+    }
+  ],
+  "timestamp": "2026-09-03T22:13:15.693748274Z",
+  "model": "glm-5.3"
+}

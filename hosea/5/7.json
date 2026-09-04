@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 5:7",
+  "book": "hosea",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Na Yawe basalaki bokosi; mpo bana bangomba babotaki; sikoyo sanza eliali ⟨את⟩ gaban na bango.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "na Yawe"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "basalaki bokosi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bana"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "bangomba"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "babotaki"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "sikoyo"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "eliali bango"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "sanza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gaban na bango"
+    },
+    {
+      "surface": "חלקיהם",
+      "gloss": "gaban na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T20:37:50.995290001Z",
+  "model": "glm-5.3"
+}

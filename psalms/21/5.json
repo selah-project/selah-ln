@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 21:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Bomoi asengaki epai nawe, mpe opesaki ye; molai ya mikolo, seko mpe seko.",
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "Bomoi"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "asengaki"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "epai nawe"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "opesaki ⟨ye⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "molai"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ya mikolo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "seko"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "mpe seko"
+    }
+  ],
+  "timestamp": "2026-09-03T21:04:58.632082630Z",
+  "model": "glm-5.3"
+}

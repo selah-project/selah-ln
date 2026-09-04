@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 2:26",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "mpe mampinga na ye mpe bapatami na bango: eleke ntuku mibale na mibale mpe nkama sambo.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "mpe mampinga na ye"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "mpe bapatami na bango"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "mpe ntuku mibale"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "eleke"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "mpe sambo"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "nkama"
+    }
+  ],
+  "timestamp": "2026-09-03T16:59:32.420032278Z",
+  "model": "glm-5.3"
+}

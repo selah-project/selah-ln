@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 35:14",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 35,
+  "translation": "mpe ⟨את⟩ monora ya kimenga mpe ⟨את⟩ biloko na yango mpe ⟨את⟩ milangi na yango mpe ⟨את⟩ mafuta ya kimenga.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "monora"
+    },
+    {
+      "surface": "מנרת",
+      "gloss": "monora"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "ya kimenga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "biloko na yango"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "biloko na yango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "milangi na yango"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "milangi na yango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mafuta"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "ya kimenga"
+    }
+  ],
+  "timestamp": "2026-09-03T16:33:55.591918277Z",
+  "model": "glm-5.3"
+}

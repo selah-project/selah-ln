@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 38:21",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 38,
+  "translation": "Mpe bayo bazali kofuta mabe na esika ya malamu bazali kosolola mabe na ngai, mpo na nazali kolanda malamu.",
+  "tokens": [
+    {
+      "surface": "ומשלמי",
+      "gloss": "mpe bayo bazali kofuta"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "na esika ya"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "malamu"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "bazali kosolola mabe na ngai"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "mpo na"
+    },
+    {
+      "surface": "רדופי",
+      "gloss": "nazali kolanda"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "malamu"
+    }
+  ],
+  "timestamp": "2026-09-03T21:09:41.350502494Z",
+  "model": "glm-5.3"
+}

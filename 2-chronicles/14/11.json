@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 14:11",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Yawe anokaki ⟨את⟩ Bakushi liboso ya Asa mpe liboso ya Yehuda, mpe Bakushi bakimaki.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "anokaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bakushi"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "Bakushi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "mpe liboso ya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "mpe bakimaki"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "Bakushi"
+    }
+  ],
+  "timestamp": "2026-09-03T23:00:27.121444784Z",
+  "model": "glm-5.3"
+}

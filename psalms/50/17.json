@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 50:17",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 50,
+  "translation": "Kasi yo okandaki mopesi-malebo, mpe omitaki maloba na ngai sima ya yo.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "kasi yo"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "okandaki"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "mopesi-malebo"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "mpe omitaki"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "maloba na ngai"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "sima ya yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:12:10.999436277Z",
+  "model": "glm-5.3"
+}

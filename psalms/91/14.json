@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 91:14",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 91,
+  "translation": "Mpo ete asali bolingo na ngai, nakolongola ye; nakotombisa ye, mpo ete ayebi nkombo na ngai.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "בי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "asali bolingo"
+    },
+    {
+      "surface": "ואפלטהו",
+      "gloss": "nakolongola ye"
+    },
+    {
+      "surface": "אשגבהו",
+      "gloss": "nakotombisa ye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ayebi"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "nkombo na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:24:44.616444406Z",
+  "model": "glm-5.3"
+}

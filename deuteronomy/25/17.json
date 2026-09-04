@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 25:17",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Kanisa ⟨את⟩ oyo Amalek asalaki yo na nzela, na tango bovaki bo uta na Mitsraim.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Kanisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oyo Amalek asalaki yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "asalaki"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yo"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "na nzela"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "tango bovaki bo"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "uta na Mitsraim"
+    }
+  ],
+  "timestamp": "2026-09-03T17:35:36.849225720Z",
+  "model": "glm-5.3"
+}

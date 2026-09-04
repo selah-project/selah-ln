@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 11:7",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpe ngombe mpe mpolokoto bakolia elongo, bana na bango bakovanda elongo; mpe nkoi akolia nsesa lokola ngombe.",
+  "tokens": [
+    {
+      "surface": "ופרה",
+      "gloss": "mpe ngombe"
+    },
+    {
+      "surface": "ודב",
+      "gloss": "mpe mpolokoto"
+    },
+    {
+      "surface": "תרעינה",
+      "gloss": "bakolia"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "elongo"
+    },
+    {
+      "surface": "ירבצו",
+      "gloss": "bakovanda"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "bana na bango"
+    },
+    {
+      "surface": "ואריה",
+      "gloss": "mpe nkoi"
+    },
+    {
+      "surface": "כבקר",
+      "gloss": "lokola ngombe"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "akolia"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "nsesa"
+    }
+  ],
+  "timestamp": "2026-09-03T19:18:00.065620863Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe atyaki na ye ⟨את⟩ hoshen, mpe akotisaki na hoshen ⟨את⟩ Urim mpe ⟨את⟩ Tumim.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "Mpe atyaki"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hoshen"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "hoshen"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "mpe akotisaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "hoshen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urim"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "Urim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Tumim"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "Tumim"
+    }
+  ],
+  "timestamp": "2026-09-03T16:44:04.113492379Z",
+  "model": "glm-5.3"
+}

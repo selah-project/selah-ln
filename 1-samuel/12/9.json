@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 12:9",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Mpe babosanaki ⟨את⟩ Yawe Elohim na bango, mpe Yawe amisaki ⟨את⟩ bango na loboko ya Sisera, mokambi ya mampinga ya Hatsor, mpe na loboko ya Bafilisti, mpe na loboko ya mokonzi ya Moab, mpe bango balwanaki na bango.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "mpe babosanaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim na bango"
+    },
+    {
+      "surface": "וימכר",
+      "gloss": "amisaki"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bango",
+      "marks": "na loboko ya Sisera"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "na loboko"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "Sisera"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mokambi"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ya mampinga"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "ya Hatsor"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "mpe na loboko"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ya Bafilisti"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "mpe na loboko"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ya mokonzi"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ya Moab"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "mpe balwanaki"
+    },
+    {
+      "surface": "בם",
+      "gloss": "na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T18:13:41.600014416Z",
+  "model": "glm-5.3"
+}

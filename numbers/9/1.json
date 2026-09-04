@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 9:1",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Mpe Yawe alobaki na Moshe na etando ya Sina, na mbula ya mibale ya bimami na yango uta mabele ya Mitsraim, na sanza ya liboso, ete:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "na etando"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "ya Sina"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "na mbula"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ya mibale"
+    },
+    {
+      "surface": "לצאתם",
+      "gloss": "ya bimami na yango"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "uta mabele"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Mitsraim"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "na sanza"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ya liboso"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ete"
+    }
+  ],
+  "timestamp": "2026-09-03T17:05:54.359623617Z",
+  "model": "glm-5.3"
+}

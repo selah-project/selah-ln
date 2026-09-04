@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 41:10",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 41,
+  "translation": "Parao akolakolaki likolo ya basali na ye, mpe atyaki ⟨את⟩ ngai na boloko, na ndako ya sar ya babomi — ngai mpe ⟨את⟩ sar ya basali ya pan.",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "akolakolaki"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "basali na ye"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "mpe atyaki"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ngai",
+      "marks": "ngai"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "na boloko"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "שר",
+      "gloss": "sar"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "ya babomi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ngai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "sar ya basali ya pan"
+    },
+    {
+      "surface": "שר",
+      "gloss": "sar"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "ya basali ya pan"
+    }
+  ],
+  "timestamp": "2026-09-03T16:06:46.284505623Z",
+  "model": "glm-5.3"
+}

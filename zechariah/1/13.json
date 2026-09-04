@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 1:13",
+  "book": "zechariah",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe Yawe andanaki ⟨את⟩ anjelu oyo alobaki na ngai maloba malamu, maloba ya bondeni.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "mpe andanaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "anjelu"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "anjelu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "oyo alobaki"
+    },
+    {
+      "surface": "בי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "maloba"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "malamu"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "maloba"
+    },
+    {
+      "surface": "נחמים",
+      "gloss": "ya bondeni"
+    }
+  ],
+  "timestamp": "2026-09-03T20:55:15.668873650Z",
+  "model": "glm-5.3"
+}

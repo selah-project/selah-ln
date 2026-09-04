@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 24:16",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "mpe Yawe azala sango, mpe alongosi kati na ngai mpe kati na yo, mpe amona mpe atolaka ⟨את⟩ makambo na ngai, mpe akangisi ngai na loboko na yo.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "mpe azala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "sango"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "mpe alongosi"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "kati na ngai"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "mpe kati na yo"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "mpe amona"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "mpe atolaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makambo na ngai"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "makambo na ngai"
+    },
+    {
+      "surface": "וישפטני",
+      "gloss": "mpe akangisi ngai"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "na loboko na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T18:20:59.610643095Z",
+  "model": "glm-5.3"
+}

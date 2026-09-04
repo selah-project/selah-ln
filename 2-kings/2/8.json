@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 2:8",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe Eliyahu azwaki ⟨את⟩ elamba na ye ya minene, mpe akangaki yango, mpe asukaki ⟨את⟩ mai, mpe yango ekabolaki kuna mpe kuna, mpe bango mibale bakatisaki na mabele ya kokauka.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Mpe azwaki"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elamba na ye ya minene"
+    },
+    {
+      "surface": "אדרתו",
+      "gloss": "elamba na ye ya minene"
+    },
+    {
+      "surface": "ויגלם",
+      "gloss": "mpe akangaki yango"
+    },
+    {
+      "surface": "ויכה",
+      "gloss": "mpe asukaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mai"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mai"
+    },
+    {
+      "surface": "ויחצו",
+      "gloss": "ekabolaki"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mpe kuna"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "mpe bakatisaki"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "bango mibale"
+    },
+    {
+      "surface": "בחרבה",
+      "gloss": "na mabele ya kokauka"
+    }
+  ],
+  "timestamp": "2026-09-03T18:58:35.382643203Z",
+  "model": "glm-5.3"
+}

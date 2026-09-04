@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 21:7",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Mpe soki moto amekisi ⟨את⟩ mwana na ye mwasi mwasi wawumbu, akobima te ndenge bawumbu babimaka.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Mpe soki"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "amekisi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwana na ye mwasi"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "mwana na ye mwasi"
+    },
+    {
+      "surface": "לאמה",
+      "gloss": "mwasi wawumbu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "akobima"
+    },
+    {
+      "surface": "כצאת",
+      "gloss": "ndenge babimaka ya"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "bawumbu"
+    }
+  ],
+  "timestamp": "2026-09-03T16:25:59.877619883Z",
+  "model": "glm-5.3"
+}

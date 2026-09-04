@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 5:17",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Bazala ya yo moko kaka, mpe ya bapaya elongo na ⟨את⟩ yo ezali te.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "Bazala"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ya yo"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "moko kaka"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mpe ezali te"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "ya bapaya"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "elongo na ⟨את⟩ yo",
+      "marks": "elongo na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:38:19.951343787Z",
+  "model": "glm-5.3"
+}

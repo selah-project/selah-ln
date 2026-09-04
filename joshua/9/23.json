@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 9:23",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Mpe sikoyo bino bozali ⟨bakundolami⟩, mpe mosali akokatama te kati na bino, kasi bozali bakataki nzete mpe basodi mai mpo na ndako ya Elohim ⟨na ngai⟩.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "mpe sikoyo"
+    },
+    {
+      "surface": "ארורים",
+      "gloss": "bozali bakundolami"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "bino"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "akokatama"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "kati na bino"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "mosali"
+    },
+    {
+      "surface": "וחטבי",
+      "gloss": "mpe bakataki"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "nzete"
+    },
+    {
+      "surface": "ושאבי",
+      "gloss": "mpe basodi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mai"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "mpo na ndako"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ya Elohim"
+    }
+  ],
+  "timestamp": "2026-09-03T17:46:59.330414321Z",
+  "model": "glm-5.3"
+}

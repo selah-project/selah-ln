@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Mpe likabo ya mabele ezali mpo na bato nyonso ⟨yango moko⟩; mokonzi asalelami na elanga.",
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "Mpe likabo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ya mabele"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mpo na bato nyonso"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨yango moko⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "na elanga"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "asalelami"
+    }
+  ],
+  "timestamp": "2026-09-03T23:39:05.636080519Z",
+  "model": "glm-5.3"
+}

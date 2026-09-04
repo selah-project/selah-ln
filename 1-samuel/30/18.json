@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 30:18",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 30,
+  "translation": "Mpe David abombolaki ⟨את⟩ nyonso oyo Amalek amakisaki, mpe ⟨את⟩ basi na ye babale David abombolaki.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "abombolaki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "amakisaki"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "basi na ye babale"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "babale"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "basi na ye"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "abombolaki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-09-03T18:24:11.814646301Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 6:7",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpe atyaki yango na monoko na ngai, mpe alobaki: Talá, oyo okamataki matama na yo, mpe mabe na yo elongolamaki, mpe masumu na yo ekangamaki.",
+  "tokens": [
+    {
+      "surface": "ויגע",
+      "gloss": "Mpe atyaki yango na"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "פי",
+      "gloss": "monoko na ngai"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Talá"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "okamataki"
+    },
+    {
+      "surface": "זה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "matama na yo"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "mpe elongolamaki"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "mabe na yo"
+    },
+    {
+      "surface": "וחטאתך",
+      "gloss": "mpe masumu na yo"
+    },
+    {
+      "surface": "תכפר",
+      "gloss": "ekangamaki"
+    }
+  ],
+  "timestamp": "2026-09-03T19:15:46.989738501Z",
+  "model": "glm-5.3"
+}

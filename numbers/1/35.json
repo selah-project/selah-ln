@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 1:35",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Balubwami na bango, mpo na libanda ya Menasheh, ⟨ezali⟩ nkoto mibale na ntuku misato mpe nkama mibale.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "Balubwami na bango"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "mpo na libanda"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "ya Menasheh"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "na ntuku misato"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "nkoto"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "mpe nkama mibale"
+    }
+  ],
+  "timestamp": "2026-09-03T16:57:16.330444710Z",
+  "model": "glm-5.3"
+}

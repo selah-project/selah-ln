@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 22:31",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Mpe bokobatela mibeko na ngai mpe bokosala ⟨את⟩ yango; ngai nazali Yawe.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Mpe bokobatela"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "mibeko na ngai"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "mpe bokosala"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "mibeko na ngai"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "nazali Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T16:52:18.012259583Z",
+  "model": "glm-5.3"
+}

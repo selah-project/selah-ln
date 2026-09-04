@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 5:10",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Bwanya ya Shelomo ekolisaki na bwanya ya bana nyonso ya monyole, mpe na bwanya nyonso ya Mitsraim.",
+  "tokens": [
+    {
+      "surface": "ותרב",
+      "gloss": "ekolisaki"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "bwanya"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ya Shelomo"
+    },
+    {
+      "surface": "מחכמת",
+      "gloss": "na bwanya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ya monyole"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "mpe na"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "bwanya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    }
+  ],
+  "timestamp": "2026-09-03T18:45:09.465592707Z",
+  "model": "glm-5.3"
+}

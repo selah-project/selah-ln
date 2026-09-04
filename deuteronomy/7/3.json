@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 7:3",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mpe kobala na bango te; mwana mwasi na yo okopesa te na mwana na yango, mpe mwana mwasi na yango okozwa te na mwana na yo.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "תתחתן",
+      "gloss": "kobala"
+    },
+    {
+      "surface": "בם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "mwana mwasi na yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "okopesa"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "na mwana na yango"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "mpe mwana mwasi na yango"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "okozwa"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "na mwana na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T23:18:38.201308797Z",
+  "model": "glm-5.3"
+}

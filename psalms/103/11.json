@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 103:11",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 103,
+  "translation": "Mpo soki na bozwi ya likolo na likolo ya mabele, hesed na ye ezali na nguya likolo ya babangi ye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "soki na bozwi"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "likolo"
+    },
+    {
+      "surface": "על",
+      "gloss": "na likolo ya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ezali na nguya"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed na ye"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "babangi ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:25:56.342630093Z",
+  "model": "glm-5.3"
+}

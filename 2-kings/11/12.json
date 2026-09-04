@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 11:12",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpe abimisaki ⟨את⟩ mwana ya mokonzi, mpe atyaki likolo na ye ⟨את⟩ kurona mpe ⟨את⟩ litatoli; mpe babongisaki ⟨את⟩ ye lokola mokonzi, mpe bafundisaki ye; mpe bakubwaki loboko, mpe balobaki: Mokonzi, bomoi!",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "mpe abimisaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwana ya mokonzi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya mokonzi"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "mpe atyaki"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "likolo na ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kurona"
+    },
+    {
+      "surface": "הנזר",
+      "gloss": "kurona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "litatoli"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "litatoli"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "mpe babongisaki ye lokola mokonzi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "bafundisaki ye"
+    },
+    {
+      "surface": "וימשחהו",
+      "gloss": "mpe bafundisaki ye"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "mpe bakubwaki"
+    },
+    {
+      "surface": "כף",
+      "gloss": "loboko"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "mpe balobaki"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "bomoi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    }
+  ],
+  "timestamp": "2026-09-03T19:05:30.082604653Z",
+  "model": "glm-5.3"
+}

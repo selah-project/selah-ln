@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 36:32",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 36,
+  "translation": "Mpe Bela mwana ya Beor akotaki bokonzi na Edom, mpe kombo ya mboka na ye nde Dinhaba.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "akotaki bokonzi"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "na Edom"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Bela"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "Beor"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "mpe kombo"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "ya mboka na ye"
+    },
+    {
+      "surface": "דנהבה",
+      "gloss": "Dinhaba"
+    }
+  ],
+  "timestamp": "2026-09-03T16:02:55.467302310Z",
+  "model": "glm-5.3"
+}

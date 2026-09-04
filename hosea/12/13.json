@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 12:13",
+  "book": "hosea",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Yaakov abungaki na elanga ya Aram, mpe Israel asalaki mpo na mwasi, mpe mpo na mwasi abatelaki ⟨mouton⟩.",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "abungaki"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "elanga"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "asalaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "באשה",
+      "gloss": "mpo na mwasi"
+    },
+    {
+      "surface": "ובאשה",
+      "gloss": "mpe mpo na mwasi"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "abatelaki"
+    }
+  ],
+  "timestamp": "2026-09-03T20:38:59.647485880Z",
+  "model": "glm-5.3"
+}

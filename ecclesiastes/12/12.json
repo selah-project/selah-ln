@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 12:12",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Mpe lisusu na yango, mwana, keba: kosala mikanda mingi ezali na nsuka te, mpe kotanga mingi ezali ebolemi ya nzoto.",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "mpe lisusu"
+    },
+    {
+      "surface": "מהמה",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "הזהר",
+      "gloss": "keba"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "kosala"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "mikanda"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "mingi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ezali na ... te"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "nsuka"
+    },
+    {
+      "surface": "ולהג",
+      "gloss": "mpe kotanga"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "mingi"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "ebolemi"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ya nzoto"
+    }
+  ],
+  "timestamp": "2026-09-03T22:16:37.412025176Z",
+  "model": "glm-5.3"
+}

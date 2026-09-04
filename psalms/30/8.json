@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 30:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 30,
+  "translation": "Yawe, na bolingi na yo ominganaki montanga na ngai na nguya; obombaki elongi na yo, nazalaki kobangela.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "na bolingi na yo"
+    },
+    {
+      "surface": "העמדתה",
+      "gloss": "ominganaki"
+    },
+    {
+      "surface": "להררי",
+      "gloss": "montanga na ngai"
+    },
+    {
+      "surface": "עז",
+      "gloss": "nguya"
+    },
+    {
+      "surface": "הסתרת",
+      "gloss": "obombaki"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "elongi na yo"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "nazalaki"
+    },
+    {
+      "surface": "נבהל",
+      "gloss": "kobangela"
+    }
+  ],
+  "timestamp": "2026-09-03T21:06:52.830910222Z",
+  "model": "glm-5.3"
+}

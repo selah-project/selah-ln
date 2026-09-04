@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 5:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Yawe, lakisa ngai na bosolo na yo, mpo na bangonzi na ngai; semela nzela na yo liboso ya ngai.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "lakisa ngai"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "na bosolo na yo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "mpo na"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "bangonzi na ngai"
+    },
+    {
+      "surface": "הושר",
+      "gloss": "semela"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "nzela na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T20:59:33.104582531Z",
+  "model": "glm-5.3"
+}

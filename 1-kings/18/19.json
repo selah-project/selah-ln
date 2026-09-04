@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 18:19",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Mpe sikoyo tinda, bokisela ngai ⟨את⟩ bato nyonso ya Israel na ngomba ya Karmel, mpe ⟨את⟩ banabia ya Baal nkama minei na ntuku mitano, mpe banabia ya Ashera nkama minei, balyaka na mesa ya Izevel.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "mpe sikoyo"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "tinda"
+    },
+    {
+      "surface": "קבץ",
+      "gloss": "bokisa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "epai ya ngai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bato nyonso ya Israel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ngomba"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "ya Karmel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "banabia ya Baal"
+    },
+    {
+      "surface": "נביאי",
+      "gloss": "banabia"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "ya Baal"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "minei"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "nkama"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "na ntuku mitano"
+    },
+    {
+      "surface": "ונביאי",
+      "gloss": "mpe banabia"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "ya Ashera"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "minei"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "nkama"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "balyaka"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "na mesa"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "ya Izevel"
+    }
+  ],
+  "timestamp": "2026-09-03T18:55:01.503988648Z",
+  "model": "glm-5.3"
+}

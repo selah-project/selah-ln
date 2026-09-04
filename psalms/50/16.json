@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 50:16",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 50,
+  "translation": "Mpe na moto mabe Elohim alobi: Nini na yo ya kobolola mibeko na ngai, mpe ya kozwa boyokani na ngai na monoko na yo?",
+  "tokens": [
+    {
+      "surface": "ולרשע",
+      "gloss": "Mpe na moto mabe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "alobi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Nini"
+    },
+    {
+      "surface": "לך",
+      "gloss": "na yo"
+    },
+    {
+      "surface": "לספר",
+      "gloss": "kobolola"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "mibeko na ngai"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "kozwa"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "boyokani na ngai"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "na"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "monoko na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:12:30.410926749Z",
+  "model": "glm-5.3"
+}

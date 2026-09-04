@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 1:5",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe Elohim abengaki polele Mokolo, mpe molili abengaki Butu; ekalaki mpokwa, ekalaki tongo, mokolo moko.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "mpe abengaki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "polele"
+    },
+    {
+      "surface": "יום",
+      "gloss": "Mokolo"
+    },
+    {
+      "surface": "ולחשך",
+      "gloss": "mpe molili"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "abengaki"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "Butu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ekalaki"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "mpokwa"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ekalaki"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "tongo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mokolo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "moko"
+    }
+  ],
+  "timestamp": "2026-09-03T15:43:55.247091285Z",
+  "model": "glm-5.3"
+}

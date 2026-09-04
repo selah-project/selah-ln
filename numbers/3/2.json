@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 3:2",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe oyo nde bankombo ya bana ya Aharon: mobotami ya liboso Nadav, mpe Avihua, Elazara, mpe Itamar.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Mpe oyo nde"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "bankombo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ya bana"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ya Aharon"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "mobotami ya liboso"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadav"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "mpe Avihua"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazara"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "mpe Itamar"
+    }
+  ],
+  "timestamp": "2026-09-03T17:00:16.529554949Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 10:6",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Mpe alobaki epai ya mokonzi: bosembo ezalaki liloba oyo nayokaki na mabele na ngai, kona maloba na yo mpe kona bwanya na yo",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "bosembo"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ezalaki"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "liloba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "nayokaki"
+    },
+    {
+      "surface": "בארצי",
+      "gloss": "na mabele na ngai"
+    },
+    {
+      "surface": "על",
+      "gloss": "kona"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "maloba na yo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "mpe kona"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "bwanya na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T18:48:09.575834623Z",
+  "model": "glm-5.3"
+}

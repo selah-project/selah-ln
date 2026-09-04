@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 87,
+  "ref": "psalms 119:87",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Pene-pene babomaki ngai na mabele; kasi ngai natikaki te malako na yo.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "pene-pene"
+    },
+    {
+      "surface": "כלוני",
+      "gloss": "babomaki ngai"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "kasi ngai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "עזבתי",
+      "gloss": "natikaki"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "malako na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:32:01.962879302Z",
+  "model": "glm-5.3"
+}

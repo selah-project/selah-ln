@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 20:1",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 20,
+  "translation": "Alongaki Avraham wana na mabele ya Neguev, mpe afandaki kati ya Kadesh mpe kati ya Shur, mpe azalaki mopaya na Gerar.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "Alongaki"
+    },
+    {
+      "surface": "משם",
+      "gloss": "wana"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "ya Neguev"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "mpe afandaki"
+    },
+    {
+      "surface": "בין",
+      "gloss": "kati ya"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadesh"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "mpe kati ya"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Shur"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "mpe azalaki mopaya"
+    },
+    {
+      "surface": "בגרר",
+      "gloss": "na Gerar"
+    }
+  ],
+  "timestamp": "2026-09-03T15:55:26.007610794Z",
+  "model": "glm-5.3"
+}

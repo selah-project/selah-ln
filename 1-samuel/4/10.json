@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 4:10",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe baPelishti bakotaki na etumba, mpe Israel elongamaki, mpe moto na moto akimaki na tente na ye; mpe makaku ezalaki monene penza, mpe uta na Israel nkoto ntuku misato ya basoda ya makolo bakufaki.",
+  "tokens": [
+    {
+      "surface": "וילחמו",
+      "gloss": "bakotaki na etumba"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "baPelishti"
+    },
+    {
+      "surface": "וינגף",
+      "gloss": "elongamaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "mpe akimaki"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto na moto"
+    },
+    {
+      "surface": "לאהליו",
+      "gloss": "na tente na ye"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "mpe ezalaki"
+    },
+    {
+      "surface": "המכה",
+      "gloss": "makaku"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "monene"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "penza"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "bakufaki"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "uta na Israel"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ntuku misato"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ya nkoto"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "basoda ya makolo"
+    }
+  ],
+  "timestamp": "2026-09-03T18:10:41.929069200Z",
+  "model": "glm-5.3"
+}

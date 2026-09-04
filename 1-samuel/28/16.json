@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 28:16",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 28,
+  "translation": "Mpe Shemuel alobaki: Mpe mpo nini osengeli ngai, mpe Yawe alongwaki mose na yo, mpe ⟨akomamaki⟩ mongonga na yo?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuel"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "mpe mpo nini"
+    },
+    {
+      "surface": "תשאלני",
+      "gloss": "osengeli ngai"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "mpe Yawe"
+    },
+    {
+      "surface": "סר",
+      "gloss": "alongwaki"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "mose na yo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "⟨akomamaki⟩"
+    },
+    {
+      "surface": "ערך",
+      "gloss": "mongonga na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T18:24:07.040802800Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 36:19",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 36,
+  "translation": "Mpe asalaki ekangeli mpo na tenda, ngau ya baomba ya bopembwe, mpe ekangeli ya ngau ya bitahashi likolo.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "asalaki"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "ekangeli"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "mpo na tenda"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "ngau"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "ya baomba"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "ya bopembwe"
+    },
+    {
+      "surface": "ומכסה",
+      "gloss": "mpe ekangeli"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "ngau"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "bitahashi"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "likolo"
+    }
+  ],
+  "timestamp": "2026-09-03T16:37:35.736304385Z",
+  "model": "glm-5.3"
+}

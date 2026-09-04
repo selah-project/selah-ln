@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 7:18",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mpe Moleket, ndeko na ye mwasi, azalaki na ⟨את⟩ Ishod mpe ⟨את⟩ Aviezer mpe ⟨את⟩ Mahla.",
+  "tokens": [
+    {
+      "surface": "ואחתו",
+      "gloss": "mpe ndeko na ye mwasi"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "Moleket"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "azalaki na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ishod"
+    },
+    {
+      "surface": "אישהוד",
+      "gloss": "Ishod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Aviezer"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "Aviezer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Mahla"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "Mahla"
+    }
+  ],
+  "timestamp": "2026-09-03T22:43:19.712130324Z",
+  "model": "glm-5.3"
+}

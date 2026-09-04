@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 22:8",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Mpe alongolaki ⟨את⟩ likangisi ya Yuda; mpe otalaki, na mokolo oyo, na biloko ya etumba ya Ndako ya Zamba.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "Mpe alongolaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "likangisi"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "likangisi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ya Yuda"
+    },
+    {
+      "surface": "ותבט",
+      "gloss": "mpe otalaki"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na mokolo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "biloko ya etumba"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Ndako"
+    },
+    {
+      "surface": "היער",
+      "gloss": "ya Zamba"
+    }
+  ],
+  "timestamp": "2026-09-03T19:20:58.489923942Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 91:16",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 91,
+  "translation": "Na bolai ya mikolo nakokweisa ye, mpe nakolakisa ye libiki na ngai.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "bolai"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ya mikolo"
+    },
+    {
+      "surface": "אשביעהו",
+      "gloss": "nakokweisa ye"
+    },
+    {
+      "surface": "ואראהו",
+      "gloss": "mpe nakolakisa ye"
+    },
+    {
+      "surface": "בישועתי",
+      "gloss": "na libiki na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:24:44.616684121Z",
+  "model": "glm-5.3"
+}

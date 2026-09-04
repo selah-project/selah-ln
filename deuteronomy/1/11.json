@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 1:11",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Yawe Elohim ya bankoko na bino, akisela bino likolo ya bino lokola bino nkoto mbala, mpe abonisa ⟨את⟩ bino lokola alobaki na bino!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "ya bankoko na bino"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "akisela"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "likolo ya bino"
+    },
+    {
+      "surface": "ככם",
+      "gloss": "lokola bino"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "nkoto"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "mbala"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "mpe abonisa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ bino"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "lokola"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "na bino"
+    }
+  ],
+  "timestamp": "2026-09-03T17:22:32.557126630Z",
+  "model": "glm-5.3"
+}

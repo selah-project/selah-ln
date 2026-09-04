@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 2:6",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Yawe abomaka, mpe azalisaka bomoi; akitisaka na Sheol, mpe atombolaka.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ממית",
+      "gloss": "abomaka"
+    },
+    {
+      "surface": "ומחיה",
+      "gloss": "mpe azalisaka bomoi"
+    },
+    {
+      "surface": "מוריד",
+      "gloss": "akitisaka"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "na Sheol"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "mpe atombolaka"
+    }
+  ],
+  "timestamp": "2026-09-03T18:08:47.805438840Z",
+  "model": "glm-5.3"
+}

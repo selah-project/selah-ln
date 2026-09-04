@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 8:3",
+  "book": "ezra",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Ya bana ya Shekanja, ya bana ya Parosh, Zekarja; mpe elongo na ye, bokomami na molongo ya mibali, nkama moko mpe ntuku mitano.",
+  "tokens": [
+    {
+      "surface": "מבני",
+      "gloss": "ya bana ya"
+    },
+    {
+      "surface": "שכניה",
+      "gloss": "Shekanja"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ya bana ya"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "Parosh"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "Zekarja"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "mpe elongo na ye"
+    },
+    {
+      "surface": "התיחש",
+      "gloss": "bokomami na molongo"
+    },
+    {
+      "surface": "לזכרים",
+      "gloss": "ya mibali"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "nkama moko"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "mpe ntuku mitano"
+    }
+  ],
+  "timestamp": "2026-09-03T22:33:04.526323538Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 104:24",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 104,
+  "translation": "Boni misala na yo eza mingi, Yawe! Nyonso osalaki na bwanya; mabele ejembaki na bokeli na yo.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Boni"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "eza mingi"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "misala na yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "na bwanya"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "osalaki"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ejembaki"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "קנינך",
+      "gloss": "bokeli na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:26:15.685904218Z",
+  "model": "glm-5.3"
+}

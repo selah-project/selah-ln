@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 74:11",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 74,
+  "translation": "Mpo na nini ozali kozonga maboko na yo, mpe loboko na yo ya mobali? Bimisa yango uta na kati na yo mpe ⟨silisa⟩.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "mpo na nini"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "ozali kozonga"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "maboko na yo"
+    },
+    {
+      "surface": "וימינך",
+      "gloss": "mpe loboko na yo ya mobali"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "uta na kati na yo"
+    },
+    {
+      "surface": "חוקך",
+      "gloss": "kati na yo"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "silisa"
+    }
+  ],
+  "timestamp": "2026-09-03T21:18:46.100217047Z",
+  "model": "glm-5.3"
+}

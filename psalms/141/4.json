@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 141:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 141,
+  "translation": "Kolonga te motema na ngai na liloba mabe, mpo na kosala misala na bokatikatyi elongo na ⟨את⟩ bato basali aven, mpe nakolia bileki na bango te.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תט",
+      "gloss": "kolonga te"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "motema na ngai"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "na liloba"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "להתעולל",
+      "gloss": "mpo na kosala"
+    },
+    {
+      "surface": "עללות",
+      "gloss": "misala"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "na bokatikatyi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bato"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "bato"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "basali"
+    },
+    {
+      "surface": "און",
+      "gloss": "aven"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "mpe ⟨te⟩"
+    },
+    {
+      "surface": "אלחם",
+      "gloss": "nakolia"
+    },
+    {
+      "surface": "במנעמיהם",
+      "gloss": "bileki na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:35:18.254529811Z",
+  "model": "glm-5.3"
+}

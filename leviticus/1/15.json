@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 1:15",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe kohen amemaki yango na autelo, mpe akolaki ⟨את⟩ motó na yango, mpe atumbisaki yango na autelo, mpe makilí na yango ekitisamaki na mokongo ya autelo.",
+  "tokens": [
+    {
+      "surface": "והקריבו",
+      "gloss": "mpe amemaki yango"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "autelo"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "mpe akolaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motó na yango"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "motó na yango"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "mpe atumbisaki"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "na autelo"
+    },
+    {
+      "surface": "ונמצה",
+      "gloss": "mpe ekitisamaki"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "makilí na yango"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "mokongo"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "autelo"
+    }
+  ],
+  "timestamp": "2026-09-03T16:40:07.940009945Z",
+  "model": "glm-5.3"
+}

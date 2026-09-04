@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 30:24",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 30,
+  "translation": "Mpe abengaki ⟨את⟩ nkombo na ye Yosef, na koloba ete: Yawe abakisi na ngai mwana mosusu.",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "Mpe abengaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkombo na ye"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nkombo na ye"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na koloba ete"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "abakisi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "mosusu"
+    }
+  ],
+  "timestamp": "2026-09-03T15:58:45.039430575Z",
+  "model": "glm-5.3"
+}

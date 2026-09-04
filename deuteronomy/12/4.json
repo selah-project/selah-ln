@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 12:4",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Bokosala lokola wana te epai ya Yawe Elohim na bino.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "bokosala"
+    },
+    {
+      "surface": "כן",
+      "gloss": "lokola wana"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "epai ya Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim na bino"
+    }
+  ],
+  "timestamp": "2026-09-03T17:31:42.770176222Z",
+  "model": "glm-5.3"
+}

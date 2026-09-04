@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 23:8",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Bokoya te Edomita, mpo ndeko na bino ⟨ye⟩; bokoya te Mitsrita, mpo mopaya bozalaki na mabele na ye.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "Bokoya"
+    },
+    {
+      "surface": "אדמי",
+      "gloss": "Edomita"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "אחיק",
+      "gloss": "ndeko na bino"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "Bokoya"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "Mitsrita"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "גר",
+      "gloss": "mopaya"
+    },
+    {
+      "surface": "היית",
+      "gloss": "bozalaki"
+    },
+    {
+      "surface": "בארצו",
+      "gloss": "na mabele na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T17:35:38.729201569Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 30:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 30,
+  "translation": "Nzembo, moyembo ya bosembolisi ya ndako, ya David.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Nzembo"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "moyembo"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "bosembolisi"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya David"
+    }
+  ],
+  "timestamp": "2026-09-03T21:06:41.199420279Z",
+  "model": "glm-5.3"
+}

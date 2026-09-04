@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "psalms 119:54",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Mibeko na yo ezalaki bayembeli na ngai, na ndako ya bolongana na ngai.",
+  "tokens": [
+    {
+      "surface": "זמרות",
+      "gloss": "bayembeli"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ezalaki"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "mibeko na yo"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "na ndako"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "ya bolongana na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:30:58.707647356Z",
+  "model": "glm-5.3"
+}

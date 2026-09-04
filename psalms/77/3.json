@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 77:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 77,
+  "translation": "Na mokolo ya mawa na ngai nasaki Adonai; loboko na ngai na butu etandamaki mpe ezwaki likolo te; moi na ngai boyangaki bosuliseli.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Na mokolo"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "ya mawa na ngai"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "nasaki"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "loboko na ngai"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "na butu"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "etandamaki"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe ... te"
+    },
+    {
+      "surface": "תפוג",
+      "gloss": "ezwaki likolo te"
+    },
+    {
+      "surface": "מאנה",
+      "gloss": "boyangaki"
+    },
+    {
+      "surface": "הנחם",
+      "gloss": "bosuliseli"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moi na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:19:19.991729146Z",
+  "model": "glm-5.3"
+}

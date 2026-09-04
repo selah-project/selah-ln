@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 118:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 118,
+  "translation": "Yawe azali epai ngai, nabangi te; moto akosala ngai nini?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "epai ngai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "nabangi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "akosala"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moto"
+    }
+  ],
+  "timestamp": "2026-09-03T21:30:13.382963061Z",
+  "model": "glm-5.3"
+}

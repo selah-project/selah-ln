@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 25:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Ata banso baye bazali kolikya na yo bakosala mawa te; baye bakosi bakosala mawa na pamba.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Ata"
+    },
+    {
+      "surface": "כל",
+      "gloss": "banso"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "baye bazali kolikya na yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "bakosala mawa"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "bakosala mawa"
+    },
+    {
+      "surface": "הבוגדים",
+      "gloss": "baye bakosi"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "na pamba"
+    }
+  ],
+  "timestamp": "2026-09-03T21:05:59.851249714Z",
+  "model": "glm-5.3"
+}

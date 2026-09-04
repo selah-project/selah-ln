@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 4:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Botambwisama mpe bokusa te; boloba na mitema na bino likolo ya mipela na bino, mpe bobatela kimya. Selah.",
+  "tokens": [
+    {
+      "surface": "רגזו",
+      "gloss": "Botambwisama"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mpe ⟨te⟩"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "bokusa"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "boloba"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "na mitema na bino"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "משכבכם",
+      "gloss": "mipela na bino"
+    },
+    {
+      "surface": "ודמו",
+      "gloss": "mpe bobatela kimya"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-03T20:59:48.630716740Z",
+  "model": "glm-5.3"
+}

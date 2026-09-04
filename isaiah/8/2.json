@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 8:2",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe nalaki na ngai bamatoli wa bosolo: ⟨את⟩ Urya kohen, mpe ⟨את⟩ Zekarya mwana ya Yeverekya.",
+  "tokens": [
+    {
+      "surface": "ואעידה",
+      "gloss": "mpe nalaki"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "bamatoli"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "wa bosolo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urya"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urya"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Zekarya"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "Zekarya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "יברכיהו",
+      "gloss": "Yeverekya"
+    }
+  ],
+  "timestamp": "2026-09-03T19:14:55.580798370Z",
+  "model": "glm-5.3"
+}

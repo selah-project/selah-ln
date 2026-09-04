@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 11:25",
+  "book": "ezekiel",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpe nalobaki na bagulumi ⟨את⟩ maloba nyonso ya Yawe oyo alakisaki ngai.",
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "Mpe nalobaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "bagulumi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maloba nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "maloba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "alakisaki ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T20:13:07.729851268Z",
+  "model": "glm-5.3"
+}

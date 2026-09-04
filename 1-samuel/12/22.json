@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 12:22",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Mpo Yawe akotika te ⟨את⟩ ekolo na ye mpo na nkombo na ye ya minene; mpo Yawe olingaki kosala ⟨את⟩ bino epai na ye lokola ekolo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יטש",
+      "gloss": "akotika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ekolo na ye"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ekolo na ye"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "mpo na"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nkombo na ye"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "ya minene"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "olingaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kosala"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ bino",
+      "marks": "bino"
+    },
+    {
+      "surface": "לו",
+      "gloss": "epai na ye"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "lokola ekolo"
+    }
+  ],
+  "timestamp": "2026-09-04T00:19:55.167281018Z",
+  "model": "glm-5.3"
+}

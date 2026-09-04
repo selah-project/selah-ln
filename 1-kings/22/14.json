@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 22:14",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Mpe Mikayahu alobaki: Yawe azali na bomoi, ete ⟨את⟩ oyo Yawe akoloba na ngai, yango ⟨את⟩ nakoloba.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Mikayahu"
+    },
+    {
+      "surface": "חי",
+      "gloss": "azali na bomoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oyo Yawe akoloba na ngai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "akoloba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "yango ⟨את⟩",
+      "marks": "oyo nakoloba"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "nakoloba"
+    }
+  ],
+  "timestamp": "2026-09-03T18:57:44.039127830Z",
+  "model": "glm-5.3"
+}

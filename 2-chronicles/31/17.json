@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 31:17",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 31,
+  "translation": "mpe ⟨את⟩ boyokani ya libota ya bakohen na ndako ya babo na bango, mpe balevi wuta na mwana wa zomi na mibale mbula mpe likolo, na misala na bango na bituluku na bango",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "boyokani ya libota"
+    },
+    {
+      "surface": "התיחש",
+      "gloss": "boyokani ya libota"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "bakohen"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "na ndako"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "ya babo na bango"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "mpe balevi"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "wuta na mwana"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "zomi na mibale"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mbula"
+    },
+    {
+      "surface": "ולמעלה",
+      "gloss": "mpe likolo"
+    },
+    {
+      "surface": "במשמרותיהם",
+      "gloss": "na misala na bango"
+    },
+    {
+      "surface": "במחלקותיהם",
+      "gloss": "na bituluku na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T23:08:40.298872622Z",
+  "model": "glm-5.3"
+}

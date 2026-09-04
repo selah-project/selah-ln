@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 12:17",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Mpe bankulu ya ndako na ye batombwaki, likolo na ye, mpo na kolongola ye na mabele, kasi alingaki te, mpe anyokaki te kolia lipa ⟨את⟩ elongo na bango.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "batombwaki"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "bankulu"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ya ndako na ye"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "likolo na ye"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "mpo na kolongola ye"
+    },
+    {
+      "surface": "מן",
+      "gloss": "na"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kasi te"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "alingaki te"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "anyokaki kolia"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ elongo na bango"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "lipa"
+    }
+  ],
+  "timestamp": "2026-09-03T18:32:38.942569730Z",
+  "model": "glm-5.3"
+}

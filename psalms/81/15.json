@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 81:15",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 81,
+  "translation": "Pete penza nakangola baboyi bango, mpe nazongisi loboko na ngai na banguna na bango.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "Pete penza"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "baboyi bango"
+    },
+    {
+      "surface": "אכניע",
+      "gloss": "nakangola"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "mpe na"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "banguna na bango"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "nazongisi"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "loboko na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:20:39.658330507Z",
+  "model": "glm-5.3"
+}

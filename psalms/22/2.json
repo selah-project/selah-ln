@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 22:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "El na ngai, El na ngai, mpo na nini otikaki ngai, mosika na bomokoloki na ngai, maloba ya bondembu na ngai.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "El na ngai"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El na ngai"
+    },
+    {
+      "surface": "למה",
+      "gloss": "mpo na nini"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "otikaki ngai"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "mosika"
+    },
+    {
+      "surface": "מישועתי",
+      "gloss": "na bomokoloki na ngai"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "maloba ya"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "bondembu na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:04:38.178297917Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 88:12",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 88,
+  "translation": "Hesed na yo ekolobamaka na liliba? Boyoki na yo na Abadon?",
+  "tokens": [
+    {
+      "surface": "היספר",
+      "gloss": "ekolobamaka"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "na liliba"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed na yo"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "boyoki na yo"
+    },
+    {
+      "surface": "באבדון",
+      "gloss": "na Abadon"
+    }
+  ],
+  "timestamp": "2026-09-03T21:22:02.140021018Z",
+  "model": "glm-5.3"
+}

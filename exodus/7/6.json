@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 7:6",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mpe Moshe mpe Aharon basalaki ndenge Yawe atindaki ⟨את⟩ bango; bongo basalaki.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "mpe basalaki"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "mpe Aharon"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ndenge"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "atindaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bango",
+      "marks": "Moshe mpe Aharon"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bongo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "basalaki"
+    }
+  ],
+  "timestamp": "2026-09-03T16:14:28.160487319Z",
+  "model": "glm-5.3"
+}

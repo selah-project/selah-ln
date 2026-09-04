@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 17:12",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 17,
+  "translation": "Mpe bakolaki banzambe ya bikeko, oyo Yawe alobaki na bango: Bokosalaka ⟨את⟩ liloba oyo te.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "mpe bakolaki"
+    },
+    {
+      "surface": "הגלולים",
+      "gloss": "banzambe ya bikeko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "bokosalaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "liloba oyo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "liloba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    }
+  ],
+  "timestamp": "2026-09-03T19:07:04.103425753Z",
+  "model": "glm-5.3"
+}

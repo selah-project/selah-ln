@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 42:5",
+  "book": "job",
+  "lang": "ln",
+  "chapter": 42,
+  "translation": "Na koyoka ya matoyi nakoyoki yo, mpe sikoyo miso na ngai emoni yo.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "na koyoka ya"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "matoyi"
+    },
+    {
+      "surface": "שמעתיך",
+      "gloss": "nakoyoki yo"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "mpe sikoyo"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "miso na ngai"
+    },
+    {
+      "surface": "ראתך",
+      "gloss": "emoni yo"
+    }
+  ],
+  "timestamp": "2026-09-03T22:07:25.467295919Z",
+  "model": "glm-5.3"
+}

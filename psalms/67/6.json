@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 67:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 67,
+  "translation": "Bato batondo yo, Elohim, bato batondo yo, bato nyonso.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "batondo yo"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "bato"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "batondo yo"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "bato"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "nyonso wana"
+    }
+  ],
+  "timestamp": "2026-09-03T21:15:53.375649622Z",
+  "model": "glm-5.3"
+}

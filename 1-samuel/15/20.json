@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 15:20",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 15,
+  "translation": "Mpe Shaul alobaki epai ya Samuel: Bongo, nayokaki liloba ya Yawe, mpe natambolaki na nzela oyo Yawe atindaki ngai, mpe namemaki ⟨את⟩ Agag mokonzi ya Amalek, mpe ⟨את⟩ Amalek natyaki ndola.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bongo"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "nayokaki"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "na liloba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואלך",
+      "gloss": "mpe natambolaki"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "na nzela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "atindaki ngai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואביא",
+      "gloss": "mpe namemaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Agag"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agag"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "ya Amalek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "החרמתי",
+      "gloss": "natyaki ndola"
+    }
+  ],
+  "timestamp": "2026-09-03T18:16:33.341417897Z",
+  "model": "glm-5.3"
+}

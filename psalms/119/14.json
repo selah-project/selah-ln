@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 119:14",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Na nzela ya bantembe na yo nasakanaki, lokola na misolo nyonso.",
+  "tokens": [
+    {
+      "surface": "בדרך",
+      "gloss": "na nzela"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "bantembe na yo"
+    },
+    {
+      "surface": "ששתי",
+      "gloss": "nasakanaki"
+    },
+    {
+      "surface": "כעל",
+      "gloss": "lokola na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "הון",
+      "gloss": "misolo"
+    }
+  ],
+  "timestamp": "2026-09-03T23:35:13.397952610Z",
+  "model": "glm-5.3"
+}

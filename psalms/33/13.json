@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 33:13",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 33,
+  "translation": "Utá na likolo Yawe atali, amonaka ⟨את⟩ bana nyonso ya bato.",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "Utá na likolo"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "atali"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "amonaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bana nyonso ya bato"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ya bato"
+    }
+  ],
+  "timestamp": "2026-09-03T21:08:31.441340879Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 30:4",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 30,
+  "translation": "Mpe David mpe bato oyo bazalaki ⟨את⟩ ye banolisaki mongongo na bango mpe balalaki, kino bazalaki na nguya te ya kolila.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "Mpe banolisaki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "mpe bato"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "bazalaki ⟨את⟩ ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mongongo na bango"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "mongongo na bango"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "mpe balalaki"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "soki"
+    },
+    {
+      "surface": "אין",
+      "gloss": "bazalaki na ... te"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "כח",
+      "gloss": "nguya"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "ya kolila"
+    }
+  ],
+  "timestamp": "2026-09-03T18:24:32.517173909Z",
+  "model": "glm-5.3"
+}

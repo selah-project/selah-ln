@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 7:4",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mpe Parao akoyoka bino te, mpe nakotya ⟨את⟩ loboko na ngai likolo ya Mitsraim, mpe nakobimisa ⟨את⟩ mampinga na ngai, ⟨את⟩ bato na ngai, bana ya Israel, uta na mabele ya Mitsraim, na makobo ya minene.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "mpe akoyoka bino te"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "akoyoka"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "bino"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "mpe nakotya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "loboko na ngai"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "loboko na ngai"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "likolo ya Mitsraim"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "mpe nakobimisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mampinga na ngai"
+    },
+    {
+      "surface": "צבאתי",
+      "gloss": "mampinga na ngai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bato na ngai"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "bato na ngai"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "uta na mabele"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Mitsraim"
+    },
+    {
+      "surface": "בשפטים",
+      "gloss": "na makobo"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "ya minene"
+    }
+  ],
+  "timestamp": "2026-09-03T16:16:21.514845934Z",
+  "model": "glm-5.3"
+}

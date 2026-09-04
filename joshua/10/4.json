@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 10:4",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Bima yaka epai na ngai, mpe bosalis ngai, mpe tolonga ⟨את⟩ Gibon, mpo ete esalaki kimya na ⟨את⟩ Yehoshua mpe ⟨את⟩ bana ba Israel.",
+  "tokens": [
+    {
+      "surface": "עלו",
+      "gloss": "bima yaka"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "epai na ngai"
+    },
+    {
+      "surface": "ו עזרני",
+      "gloss": "mpe bosalis ngai"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "mpe tolonga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gibon"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Gibon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "השלימה",
+      "gloss": "esalaki kimya"
+    },
+    {
+      "surface": "את",
+      "gloss": "na ⟨את⟩"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-03T17:48:07.117806053Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 11:16",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mwasi ya boboto azwaka ⟨את⟩ nkembo, kasi bato ya makasi bazwaka ⟨את⟩ mosolo.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "mwasi"
+    },
+    {
+      "surface": "חן",
+      "gloss": "boboto"
+    },
+    {
+      "surface": "תתמך",
+      "gloss": "azwaka"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "nkembo"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "kasi bato-ya-makasi"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "bazwaka"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "mosolo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:42:03.398421186Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 28:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 28,
+  "translation": "Liloba ya David. Epai nawe, Yawe, nakobenga; litako na ngai, kanga yo te na ngai, mpo te ozala seo na ngai, mpe nakokanisama na baoyo bazali kokita na libulu.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Liloba ya David"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Epai nawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "nakobenga"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "litako na ngai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "kanga yo"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "פן",
+      "gloss": "mpo te"
+    },
+    {
+      "surface": "תחשה",
+      "gloss": "ozala seo"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "mpe nakokanisama"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "baoyo bazali kokita"
+    },
+    {
+      "surface": "בור",
+      "gloss": "na libulu"
+    }
+  ],
+  "timestamp": "2026-09-03T21:06:55.770110995Z",
+  "model": "glm-5.3"
+}

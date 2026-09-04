@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 27:9",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 27,
+  "translation": "Mpe soki azali na mwana mwasi te, bopesa ⟨את⟩ lokabo na ye na bandeko na ye.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "mpe soki"
+    },
+    {
+      "surface": "אין",
+      "gloss": "te"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana mwasi"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "bopesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lokabo na ye"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "lokabo na ye"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "na bandeko na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T17:17:00.687114910Z",
+  "model": "glm-5.3"
+}

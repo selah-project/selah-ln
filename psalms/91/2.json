@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 91:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 91,
+  "translation": "Nakoloba na Yawe: bobombami na ngai mpe esika-bokengi na ngai; Elohim na ngai, natembeli na yeye.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Nakoloba"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "na Yawe"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "bobombami na ngai"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "mpe esika-bokengi na ngai"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim na ngai"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "natembeli"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na yeye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:25:12.540184772Z",
+  "model": "glm-5.3"
+}

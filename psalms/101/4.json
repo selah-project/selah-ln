@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 101,
+  "translation": "Motema ya kokauka eko longwama na ngai; mabe nakoyeba te.",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "Motema"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "ya kokauka"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "eko longwama"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "nakoyeba"
+    }
+  ],
+  "timestamp": "2026-09-03T21:26:01.712820755Z",
+  "model": "glm-5.3"
+}

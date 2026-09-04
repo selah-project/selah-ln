@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 37:29",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 37,
+  "translation": "Mpe asalaki ⟨את⟩ mai ya botomi ya santu, mpe ⟨את⟩ nkungu ya bilolo, ya peteu — mosala ya mokambi-mai.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Mpe asalaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mai ya botomi"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mai"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "ya botomi"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ya santu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "nkungu"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "nkungu"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "ya bilolo"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ya peteu"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "mosala"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "ya mokambi-mai"
+    }
+  ],
+  "timestamp": "2026-09-03T16:35:23.626573713Z",
+  "model": "glm-5.3"
+}

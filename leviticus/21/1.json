@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 21:1",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Yawe alobaki na Moshe: Loba na bakohen, bana ya Aharon, mpe oloba na bango: na molimo ya mokufi akotombwa te kati na bato na ye.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Loba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "bakohen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "mpe oloba"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "na molimo ya mokufi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "akotombwa"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "kati na bato na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T16:52:52.654205722Z",
+  "model": "glm-5.3"
+}

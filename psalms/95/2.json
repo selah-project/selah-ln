@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 95:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 95,
+  "translation": "Toyangela bomoni na ye na matondi, na nzembo tokolaka epai na ye.",
+  "tokens": [
+    {
+      "surface": "נקדמה",
+      "gloss": "Toyangela"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "bomoni na ye"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "na matondi"
+    },
+    {
+      "surface": "בזמרות",
+      "gloss": "na nzembo"
+    },
+    {
+      "surface": "נריע",
+      "gloss": "tokolaka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "epai na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:24:45.809976623Z",
+  "model": "glm-5.3"
+}

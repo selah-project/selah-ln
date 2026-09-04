@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 65:3",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 65,
+  "translation": "Bato oyo bazali koluka koluka ngai mawa na elongi na ngai ntango nyonso, bazali koboma bakila na bilanga mpe bazali kotumba fumbo na brik.",
+  "tokens": [
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "המכעיסים",
+      "gloss": "oyo bazali koluka koluka ngai mawa"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "ngai"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "פני",
+      "gloss": "elongi"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ntango nyonso"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "bazali koboma bakila"
+    },
+    {
+      "surface": "בגנות",
+      "gloss": "na bilanga"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "mpe bazali kotumba fumbo"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הלבנים",
+      "gloss": "brik"
+    }
+  ],
+  "timestamp": "2026-09-03T19:40:30.717819339Z",
+  "model": "glm-5.3"
+}

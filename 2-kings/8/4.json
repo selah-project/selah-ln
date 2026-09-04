@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 8:4",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe mokonzi alobaki na Gehazi, mwana mosala ya moto ya Elohim, alobi: Ndisa nasengi na ngai ⟨את⟩ makambo monene nyonso oyo asalaki Elisha.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Mpe mokonzi"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "גחזי",
+      "gloss": "Gehazi"
+    },
+    {
+      "surface": "נער",
+      "gloss": "mwana mosala"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "alobi:"
+    },
+    {
+      "surface": "ספרה",
+      "gloss": "Ndisa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nasengi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makambo monene nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "הגדלות",
+      "gloss": "makambo monene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "asalaki"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    }
+  ],
+  "timestamp": "2026-09-03T19:03:13.470719452Z",
+  "model": "glm-5.3"
+}

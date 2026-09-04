@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 1:9",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Oyo ezalaki, yango nde ekozala; mpe oyo esalamaki, yango nde ekosalama; mpe ezali eloko nyonso ya sika te na nse ya monei.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "ezalaki"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yango"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "ekozala"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "mpe oyo"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "esalamaki"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yango"
+    },
+    {
+      "surface": "שיעשה",
+      "gloss": "ekosalama"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mpe ezali te"
+    },
+    {
+      "surface": "כל",
+      "gloss": "eloko nyonso"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ya sika"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "na nse ya"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "monei"
+    }
+  ],
+  "timestamp": "2026-09-03T22:12:41.243429872Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 12:7",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Mpe Yawe amonanaki epai ya Avraham, mpe alobaki: Na libota na yo nakopesa ⟨את⟩ mboka oyo; mpe atongaki kuna autela mpo na Yawe, oyo amonanaki epai ya yango.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Mpe Yawe amonanaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "לזרעך",
+      "gloss": "Na libota na yo"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "nakopesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mboka oyo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mboka"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "mpe atongaki"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "autela"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "mpo na Yawe"
+    },
+    {
+      "surface": "הנראה",
+      "gloss": "oyo amonanaki"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "epai ya yango"
+    }
+  ],
+  "timestamp": "2026-09-03T15:50:30.256522222Z",
+  "model": "glm-5.3"
+}

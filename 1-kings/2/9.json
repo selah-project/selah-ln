@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 2:9",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe sikoyo, kosanzola ye te, mpo ozali moto ya mayele, mpe oyebi ⟨את⟩ oyo okosala epai na ye, mpe okokitisisa bokolo na ye na makasi na Sheol.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "mpe sikoyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תנקהו",
+      "gloss": "kosanzola ye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ya mayele"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "mpe oyebi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oyo okosala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "okosala"
+    },
+    {
+      "surface": "לו",
+      "gloss": "epai na ye"
+    },
+    {
+      "surface": "והורדת",
+      "gloss": "mpe okokitisisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bokolo na ye"
+    },
+    {
+      "surface": "שיבתו",
+      "gloss": "bokolo na ye"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "na makasi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    }
+  ],
+  "timestamp": "2026-09-03T18:42:50.120926030Z",
+  "model": "glm-5.3"
+}

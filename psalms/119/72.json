@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "psalms 119:72",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Tora ya monoko na yo ezali malamu epai na ngai koleka nkoto ya zahabu mpe findenke.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ezali malamu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "epai na ngai"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ya monoko na yo"
+    },
+    {
+      "surface": "מאלפי",
+      "gloss": "koleka nkoto"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ya zahabu"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "mpe findenke"
+    }
+  ],
+  "timestamp": "2026-09-03T21:31:49.231424123Z",
+  "model": "glm-5.3"
+}

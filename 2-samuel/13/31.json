@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "2-samuel 13:31",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Mokonzi atelemaki mpe atekaki ⟨את⟩ bilamba na ye, mpe alalaki na mabele; mpe basaleli na ye nyonso bazalaki telemeteleme, na bilamba biteki.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "atelemaki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "mpe atekaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bilamba na ye"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "bilamba na ye"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "mpe alalaki"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe nyonso ya"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "basaleli na ye"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "bazalaki telemeteleme"
+    },
+    {
+      "surface": "קרעי",
+      "gloss": "biteki ya"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "bilamba"
+    }
+  ],
+  "timestamp": "2026-09-03T18:34:06.834206842Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 26:2",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "⟨את⟩ Basabat na ngai bobateli, mpe ndako santu na ngai boloya; ngai nazali Yawe.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Basabat na ngai"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Basabat na ngai"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "bobateli"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "mpe ndako santu na ngai"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "boloya"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T16:56:02.193340721Z",
+  "model": "glm-5.3"
+}

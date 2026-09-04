@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 30:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 30,
+  "translation": "Nakotombola yo, Yawe, mpo okangaki ngai likolo, mpe otyaki banguna na ngai esengo te.",
+  "tokens": [
+    {
+      "surface": "ארוממך",
+      "gloss": "Nakotombola yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "דליתני",
+      "gloss": "okangaki ngai likolo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe ... te"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "osalaki esengo"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "banguna na ngai"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:06:41.199675570Z",
+  "model": "glm-5.3"
+}

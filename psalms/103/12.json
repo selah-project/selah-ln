@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 103:12",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 103,
+  "translation": "Soki na esika moi ebimaki kino esika moi ekweki, amemaki ⟨את⟩ bokosi na biso na mosika.",
+  "tokens": [
+    {
+      "surface": "כרחק",
+      "gloss": "soki na"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "esika moi ebimaki"
+    },
+    {
+      "surface": "ממערב",
+      "gloss": "esika moi ekweki"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "amemaki na mosika"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "na biso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bokosi na biso"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "bokosi na biso"
+    }
+  ],
+  "timestamp": "2026-09-03T21:25:56.342753163Z",
+  "model": "glm-5.3"
+}

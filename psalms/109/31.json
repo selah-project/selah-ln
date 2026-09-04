@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 109:31",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 109,
+  "translation": "Mpo ⟨ye⟩ ayelei na loboko ya mobali ya mosolo, mpo kolokola ye na bazuzi ya bomoi na ye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "⟨ye⟩ ayelei"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "na loboko ya mobali"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "ya mosolo"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "mpo kolokola"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "na bazuzi"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ya bomoi na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:29:21.119935311Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 7:8",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mpe ⟨את⟩ bashari minei mpe ⟨את⟩ ngombe mwambe apesaki epai ya bana ya Merari, na ndenge ya mosala na bango, na loboko ya Itamar mwana wa Aharon kohen.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bashari minei"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "minei"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "bashari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "ngombe mwambe"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "mwambe"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ngombe"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "apesaki"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "epai ya bana ya"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "na ndenge ya"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "mosala na bango"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "na loboko ya"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Itamar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    }
+  ],
+  "timestamp": "2026-09-03T17:01:44.196566863Z",
+  "model": "glm-5.3"
+}

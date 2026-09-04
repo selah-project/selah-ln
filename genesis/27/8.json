@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 27:8",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 27,
+  "translation": "Mpe sikoyo, mwana na ngai, yoka mongongo na ngai, na oyo nazali kopesa likaniso ⟨את⟩ yo.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "mpe sikoyo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mwana na ngai"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "yoka"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "mongongo na ngai"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "na oyo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nazali"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "kopesa likaniso"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ yo",
+      "marks": "yo"
+    }
+  ],
+  "timestamp": "2026-09-03T15:58:06.939757453Z",
+  "model": "glm-5.3"
+}

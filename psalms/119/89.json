@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 89,
+  "ref": "psalms 119:89",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Kino na seko, Yawe, liloba na yo etandamaki na likolo.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "kino na seko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "liloba na yo"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "etandamaki"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "na likolo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:31:48.722648454Z",
+  "model": "glm-5.3"
+}

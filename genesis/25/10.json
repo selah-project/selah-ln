@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 25:10",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Shampu oyo Avraham azwaki na mbongo ⟨את⟩ uta epai ya bana ya Het — kuna Avraham akundamaki, mpe Sara mwasi na ye.",
+  "tokens": [
+    {
+      "surface": "השדה",
+      "gloss": "shampu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "azwaki na mbongo"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ uta epai ya",
+      "marks": "bana ya Het"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Het"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "akundamaki"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ושרה",
+      "gloss": "mpe Sara"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mwasi na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T15:56:50.197239986Z",
+  "model": "glm-5.3"
+}

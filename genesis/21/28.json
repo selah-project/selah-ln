@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 21:28",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Mpe Avraham atyaki ⟨את⟩ bitulu ya banda sambo na bokeseni, kuna wana nde.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "atyaki"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bitulu ya banda sambo"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sambo"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "bitulu ya banda"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ya bandakene"
+    },
+    {
+      "surface": "לבדהן",
+      "gloss": "na bokeseni"
+    }
+  ],
+  "timestamp": "2026-09-03T15:53:34.306488288Z",
+  "model": "glm-5.3"
+}

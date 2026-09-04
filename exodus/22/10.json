@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 22:10",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Lilaka ya Yawe ezalaka kati ya bango mibale, soki te atindaki maboko na ye na mosala ya monzenzene na ye; mpe nkolo na yango akolaka ⟨lilaka yango⟩, mpe akofuta te.",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "Lilaka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ezalaka"
+    },
+    {
+      "surface": "בין",
+      "gloss": "kati ya"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "bango mibale"
+    },
+    {
+      "surface": "אם",
+      "gloss": "soki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "atindaki"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "maboko na ye"
+    },
+    {
+      "surface": "במלאכת",
+      "gloss": "na mosala ya"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "monzenzene na ye"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "mpe akolaka"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "nkolo na yango"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe ... te"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "akofuta"
+    }
+  ],
+  "timestamp": "2026-09-03T16:25:00.623775222Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 42:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 42,
+  "translation": "Lokola mbala kekengelaka na bibale ya mai, boye mpe molimo na ngai kengelaka epai ya Elohim.",
+  "tokens": [
+    {
+      "surface": "כאיל",
+      "gloss": "Lokola mbala"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "kekengelaka"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "bibale"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ya mai"
+    },
+    {
+      "surface": "כן",
+      "gloss": "boye mpe"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "molimo na ngai"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "kengelaka"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "epai ya yo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-03T21:10:44.892009910Z",
+  "model": "glm-5.3"
+}

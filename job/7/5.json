@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 7:5",
+  "book": "job",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Libi na ngai elambi bikonzo, mpe bokebi ya mabele; lilanda na ngai ekangami mpe ebukaki na bilonda.",
+  "tokens": [
+    {
+      "surface": "לבש",
+      "gloss": "elambi"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "libi na ngai"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "bikonzo"
+    },
+    {
+      "surface": "וגיש",
+      "gloss": "mpe bokebi"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ya mabele"
+    },
+    {
+      "surface": "עורי",
+      "gloss": "lilanda na ngai"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "ekangami"
+    },
+    {
+      "surface": "וימאס",
+      "gloss": "mpe ebukaki na bilonda"
+    }
+  ],
+  "timestamp": "2026-09-03T21:51:55.863938273Z",
+  "model": "glm-5.3"
+}

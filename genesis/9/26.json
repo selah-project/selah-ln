@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 9:26",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Mpe alobaki: Yawe, Elohim ya Shem, azali na bokumamu; mpe Kenaan akozala moombi na bango.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "azali na bokumamu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ya"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Shem"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mpe akozala"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "moombi"
+    },
+    {
+      "surface": "למו",
+      "gloss": "na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T15:47:33.774712637Z",
+  "model": "glm-5.3"
+}

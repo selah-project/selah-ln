@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 42:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 42,
+  "translation": "Mokolo na mokolo Yawe atindaka hesed na yaye (bolingo na ye), mpe na butu njembo na yaye ezali elongo na ngai, losambo epai ya El ya bomoi na ngai.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "Mokolo na mokolo"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "atindaka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed na yaye"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "mpe na butu"
+    },
+    {
+      "surface": "שירה",
+      "gloss": "njembo"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "elongo na ngai"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "losambo"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "epai ya El"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ya bomoi na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T23:35:08.911414518Z",
+  "model": "glm-5.3"
+}

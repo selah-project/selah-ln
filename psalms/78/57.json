@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "psalms 78:57",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 78,
+  "translation": "Mpe bakimaki na nsima, mpe basalaki bondoki lokola ba tata na bango; babongwanaki lokola uta ya lokuta.",
+  "tokens": [
+    {
+      "surface": "ויסגו",
+      "gloss": "bakimaki na nsima"
+    },
+    {
+      "surface": "ויבגדו",
+      "gloss": "basalaki bondoki"
+    },
+    {
+      "surface": "כאבותם",
+      "gloss": "lokola ba tata na bango"
+    },
+    {
+      "surface": "נהפכו",
+      "gloss": "babongwanaki"
+    },
+    {
+      "surface": "כקשת",
+      "gloss": "lokola uta"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "ya lokuta"
+    }
+  ],
+  "timestamp": "2026-09-04T00:22:00.996435614Z",
+  "model": "glm-5.3"
+}

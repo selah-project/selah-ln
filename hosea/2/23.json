@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "hosea 2:23",
+  "book": "hosea",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe ekosalema na mokolo wana: nakoyanola, liloba ya Yawe; nakoyanola ⟨את⟩ likolo, mpe bango bayanola ⟨את⟩ mabele.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "mpe ekosalema"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na mokolo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "wana"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "nakoyanola"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "liloba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "nakoyanola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "likolo"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "likolo"
+    },
+    {
+      "surface": "והם",
+      "gloss": "mpe bango"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "bayanola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T20:37:27.170179386Z",
+  "model": "glm-5.3"
+}

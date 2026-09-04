@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 1:26",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Ata ngai mpe, na bozikwi na bino nakoseka, nakosekisa ntango bobangi na bino ekoyela.",
+  "tokens": [
+    {
+      "surface": "גַּם",
+      "gloss": "ata mpe"
+    },
+    {
+      "surface": "אֲנִי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "בְּאֵידְכֶם",
+      "gloss": "na bozikwi na bino"
+    },
+    {
+      "surface": "אֶשְׂחָק",
+      "gloss": "nakoseka"
+    },
+    {
+      "surface": "אֶלְעַג",
+      "gloss": "nakosekisa"
+    },
+    {
+      "surface": "בְּבֹא",
+      "gloss": "ntango ekoyela"
+    },
+    {
+      "surface": "פַּחְדְּכֶם",
+      "gloss": "bobangi na bino"
+    }
+  ],
+  "timestamp": "2026-09-03T21:37:26.155352921Z",
+  "model": "glm-5.3"
+}

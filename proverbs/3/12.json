@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 3:12",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpo ete ⟨את⟩ oyo Yawe alingaka, ye atokaka, mpe lokola tata ⟨את⟩ mwana akondi na ye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo ete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "יאהב",
+      "gloss": "alingaka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "atokaka"
+    },
+    {
+      "surface": "וכאב",
+      "gloss": "mpe lokola tata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwana"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "akondi na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:37:39.215752670Z",
+  "model": "glm-5.3"
+}

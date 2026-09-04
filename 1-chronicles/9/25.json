@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 9:25",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Mpe bandeko na bango, na baviliki na bango, bazalaki kokota mpo ya mikolo sambo, uta ntango kino ntango, elongo na bango oyo.",
+  "tokens": [
+    {
+      "surface": "ואחיהם",
+      "gloss": "Mpe bandeko na bango"
+    },
+    {
+      "surface": "בחצריהם",
+      "gloss": "na baviliki na bango"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "kokota"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "mpo ya mikolo"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "sambo"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "uta ntango"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kino"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ntango"
+    },
+    {
+      "surface": "עם",
+      "gloss": "elongo na"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bango oyo"
+    }
+  ],
+  "timestamp": "2026-09-03T22:44:34.001155321Z",
+  "model": "glm-5.3"
+}

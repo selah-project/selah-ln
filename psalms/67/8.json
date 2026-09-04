@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 67:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 67,
+  "translation": "Elohim akopesa biso boboto, mpe nsuka nyonso ya mabele bakobanga ⟨את⟩ yě.",
+  "tokens": [
+    {
+      "surface": "יברכנו",
+      "gloss": "akopesa biso boboto"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "mpe bakobanga"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "nsuka nyonso ya mabele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "nsuka"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ya mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T21:15:53.375861887Z",
+  "model": "glm-5.3"
+}

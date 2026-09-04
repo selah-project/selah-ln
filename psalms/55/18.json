@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 55:18",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 55,
+  "translation": "Mpokwa na tongo mpe midi, nakokanisa mpe nakolila, mpe amwaki lulaku na ngai.",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "Mpokwa"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "na tongo"
+    },
+    {
+      "surface": "וצהרים",
+      "gloss": "mpe midi"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "nakokanisa"
+    },
+    {
+      "surface": "ואהמה",
+      "gloss": "mpe nakolila"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "mpe amwaki"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "lulaku na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:14:08.515102168Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 78:23",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 78,
+  "translation": "Mpe atindaki maputa uta likolo, mpe mipati ya likolo afungolaki.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "atindaki"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "maputa"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "uta likolo"
+    },
+    {
+      "surface": "ודלתי",
+      "gloss": "mpe mipati"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ya likolo"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "afungolaki"
+    }
+  ],
+  "timestamp": "2026-09-03T21:19:23.386369882Z",
+  "model": "glm-5.3"
+}

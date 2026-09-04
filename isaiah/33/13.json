@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 33:13",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 33,
+  "translation": "Baoyo bazali mosika, boyoka ⟨oyo⟩ nasali; mpe baoyo bazali pene, boyeba nguya na ngai.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "boyoka"
+    },
+    {
+      "surface": "רחוקים",
+      "gloss": "baoyo bazali mosika"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "nasali"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "mpe boyeba"
+    },
+    {
+      "surface": "קרובים",
+      "gloss": "baoyo bazali pene"
+    },
+    {
+      "surface": "גברתי",
+      "gloss": "nguya na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T19:24:19.511271123Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 36:4",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 36,
+  "translation": "Mpe bato ya mayele nyonso basalaka ⟨את⟩ mosala nyonso ya bosanto bayaki — moto na moto utaka na mosala na yango oyo bango basalaka.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Bayaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "החכמים",
+      "gloss": "bato ya mayele"
+    },
+    {
+      "surface": "העשים",
+      "gloss": "basalaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mosala nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "mosala"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ya bosanto"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "איש",
+      "gloss": "na moto"
+    },
+    {
+      "surface": "ממלאכתו",
+      "gloss": "utaka na mosala na yango"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bango"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "basalaka"
+    }
+  ],
+  "timestamp": "2026-09-03T16:37:47.449782256Z",
+  "model": "glm-5.3"
+}

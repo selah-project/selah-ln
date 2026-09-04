@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 50:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 50,
+  "translation": "Akebengi likolo, oyo ezali likolo, mpe mabele, mpo na kosambisa mboka na ye.",
+  "tokens": [
+    {
+      "surface": "יקרא",
+      "gloss": "Akebengi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "likolo"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "oyo ezali likolo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mpe epai ya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "mpo na kosambisa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "mboka na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:12:39.448909419Z",
+  "model": "glm-5.3"
+}

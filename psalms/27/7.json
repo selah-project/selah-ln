@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 27:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 27,
+  "translation": "Yoka, Yawe, mongongo na ngai nakobenga; mpe pesa ngai ngolu mpe yanuna ngai.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Yoka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "mongongo na ngai"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "nakobenga"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "mpe pesa ngai ngolu"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "mpe yanuna ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:06:50.436906057Z",
+  "model": "glm-5.3"
+}

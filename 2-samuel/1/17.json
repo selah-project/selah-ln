@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 1:17",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe David akundolaki ⟨את⟩ kondolaka oyo mpo na Shaul mpe mpo na Yehonatan mwana na yě.",
+  "tokens": [
+    {
+      "surface": "ויקנן",
+      "gloss": "akundolaki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kondolaka oyo"
+    },
+    {
+      "surface": "הקינה",
+      "gloss": "kondolaka"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "mpo na"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "mpe mpo na"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana na yě"
+    }
+  ],
+  "timestamp": "2026-09-03T23:20:47.775875604Z",
+  "model": "glm-5.3"
+}

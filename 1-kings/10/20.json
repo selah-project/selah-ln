@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 10:20",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Mpe bankoi zomi na mibale bazali kotelema kuna na matando motoba, na mbala moko mpe na mosusu; esalaki boye te mpo na bokonzi nyonso.",
+  "tokens": [
+    {
+      "surface": "ושנים",
+      "gloss": "mpe mibale"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "na zomi"
+    },
+    {
+      "surface": "אריים",
+      "gloss": "bankoi"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "bazali kotelema"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "שש",
+      "gloss": "motoba"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "matando"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "na mbala moko"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "mpe na mosusu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "esalaki"
+    },
+    {
+      "surface": "כן",
+      "gloss": "boye"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "mpo na"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "bokonzi nyonso"
+    }
+  ],
+  "timestamp": "2026-09-03T18:49:05.223723651Z",
+  "model": "glm-5.3"
+}

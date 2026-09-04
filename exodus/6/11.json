@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 6:11",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Kota, loba epai ya Parao, mokonzi ya Mitsraim, ⟨mpo ete⟩ abimisaki ⟨את⟩ bana ya Israel na mabele na ye.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "Kota"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "loba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Mitsraim"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "abimisaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bana ya Israel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "na mabele na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T16:14:41.057712243Z",
+  "model": "glm-5.3"
+}

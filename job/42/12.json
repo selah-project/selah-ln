@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 42:12",
+  "book": "job",
+  "lang": "ln",
+  "chapter": 42,
+  "translation": "Mpe Yawe abetaki ⟨את⟩ suka ya Iyob koleka ebandeli na ye; mpe azalaki na nkoto zomi na minei ya bibede, mpe nkoto motoba ya bakamelo, mpe nkoto ya bipaire ya bangombe, mpe nkoto ya bane.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "mpe Yawe"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "abetaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "suka ya Iyob"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "suka"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ya Iyob"
+    },
+    {
+      "surface": "מראשתו",
+      "gloss": "koleka ebandeli na ye"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mpe azalaki na"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "minei"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "na zomi"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "nkoto"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ya bibede"
+    },
+    {
+      "surface": "וששת",
+      "gloss": "mpe motoba"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "nkoto"
+    },
+    {
+      "surface": "גמלים",
+      "gloss": "ya bakamelo"
+    },
+    {
+      "surface": "ויאלף",
+      "gloss": "mpe nkoto"
+    },
+    {
+      "surface": "צמד",
+      "gloss": "ya bipaire"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ya bangombe"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "mpe nkoto"
+    },
+    {
+      "surface": "אתונות",
+      "gloss": "ya bane"
+    }
+  ],
+  "timestamp": "2026-09-03T22:06:28.805622815Z",
+  "model": "glm-5.3"
+}

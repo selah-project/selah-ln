@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 68:16",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 68,
+  "translation": "Ngomba ya Elohim, ngomba ya Bashan; ngomba ya bansinga ya likolo, ngomba ya Bashan.",
+  "tokens": [
+    {
+      "surface": "הר",
+      "gloss": "Ngomba"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ngomba"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "ya Bashan"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ngomba"
+    },
+    {
+      "surface": "גבננים",
+      "gloss": "ya bansinga ya likolo"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ngomba"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "ya Bashan"
+    }
+  ],
+  "timestamp": "2026-09-03T21:16:54.764188359Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 95,
+  "ref": "psalms 119:95",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Babe bazelaki na ngai mpo na kolimwisa ngai; kasi bimonisi na yo nakanisaka mingi.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "קוו",
+      "gloss": "bazelaki"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "Babe"
+    },
+    {
+      "surface": "לאבדני",
+      "gloss": "mpo na kolimwisa ngai"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "bimonisi na yo"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "nakanisaka mingi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:31:44.658905295Z",
+  "model": "glm-5.3"
+}

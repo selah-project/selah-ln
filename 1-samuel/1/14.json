@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 1:14",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe Eli alobaki na ye: Okomela kino tango boni? Longola ⟨את⟩ divai na yo epai na yo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "tango boni"
+    },
+    {
+      "surface": "תשתכרין",
+      "gloss": "okomela"
+    },
+    {
+      "surface": "הסירי",
+      "gloss": "Longola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "divai na yo"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "divai na yo"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "epai na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T18:08:54.635996065Z",
+  "model": "glm-5.3"
+}

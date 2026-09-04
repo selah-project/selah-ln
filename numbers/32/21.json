@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 32:21",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 32,
+  "translation": "Mpe mobundi na bino nyonso abwele ⟨את⟩ Yarden liboso ya Yawe, tee Yawe atokaki ⟨את⟩ banguna na ye liboso na ye.",
+  "tokens": [
+    {
+      "surface": "ועבר",
+      "gloss": "abwele"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "na bino"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "חלוץ",
+      "gloss": "mobundi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tee"
+    },
+    {
+      "surface": "הורישו",
+      "gloss": "atokaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "banguna na ye"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "banguna na ye"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "liboso na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T17:19:37.997186951Z",
+  "model": "glm-5.3"
+}

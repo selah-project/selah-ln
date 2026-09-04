@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 60:12",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 60,
+  "translation": "Mpo ekolo mpe bokonzi oyo basaleli yo te, bikufaka; mpe bikolo nyonso bebisamaka mobimba.",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "הַגּוֹי",
+      "gloss": "ekolo"
+    },
+    {
+      "surface": "וְהַמַּמְלָכָה",
+      "gloss": "mpe bokonzi"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יַעַבְדֻךְ",
+      "gloss": "basaleli yo"
+    },
+    {
+      "surface": "יֹאבֵדוּ",
+      "gloss": "bikufaka"
+    },
+    {
+      "surface": "וְהַגּוֹיִם",
+      "gloss": "mpe bikolo"
+    },
+    {
+      "surface": "חָרֹב",
+      "gloss": "bebisamaka"
+    },
+    {
+      "surface": "יֶחֱרָבוּ",
+      "gloss": "mobimba"
+    }
+  ],
+  "timestamp": "2026-09-03T19:37:43.312152977Z",
+  "model": "glm-5.3"
+}

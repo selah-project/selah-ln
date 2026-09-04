@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 18:2",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Mpe Shaul azwaki ⟨את⟩ ye na mokolo yango, mpe atikelaki ye ⟨te⟩ kozonga na ndako ya tata na ye.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "azwaki ye"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na mokolo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yango"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe ⟨te⟩"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "atikelaki ye"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "kozonga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "na ndako"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ya tata na ye"
+    }
+  ],
+  "timestamp": "2026-09-04T00:29:01.787909644Z",
+  "model": "glm-5.3"
+}

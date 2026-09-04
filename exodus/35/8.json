@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 35:8",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 35,
+  "translation": "mpe menji mpo na mwinda, mpe bisweki mpo na menji ya botomboli, mpe mpo na matiti ya bopebi.",
+  "tokens": [
+    {
+      "surface": "ושמן",
+      "gloss": "mpe menji"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "mpo na mwinda"
+    },
+    {
+      "surface": "ובשמים",
+      "gloss": "mpe bisweki"
+    },
+    {
+      "surface": "לשמן",
+      "gloss": "mpo na menji"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "ya botomboli"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "mpo na matiti ya bopebi"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "ya bopebi"
+    }
+  ],
+  "timestamp": "2026-09-03T16:33:16.187150884Z",
+  "model": "glm-5.3"
+}

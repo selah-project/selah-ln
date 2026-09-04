@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 4:2",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe bango bakanzi oyo azalaki na ye: Azariahu mwana wa Tsadok, kohen.",
+  "tokens": [
+    {
+      "surface": "וְאֵ֥לֶּה",
+      "gloss": "Mpe bango"
+    },
+    {
+      "surface": "הַשָּׂרִ֖ים",
+      "gloss": "bakanzi"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ל֑וֹ",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "עֲזַרְיָ֥הוּ",
+      "gloss": "Azariahu"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "צָד֖וֹק",
+      "gloss": "Tsadok"
+    },
+    {
+      "surface": "הַכֹּהֵֽן",
+      "gloss": "kohen"
+    }
+  ],
+  "timestamp": "2026-09-03T18:44:07.085868029Z",
+  "model": "glm-5.3"
+}

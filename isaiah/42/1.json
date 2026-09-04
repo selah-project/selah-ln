@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 42:1",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 42,
+  "translation": "Talá mosalami na ngai, nasimbi ye; oyo nampongi, molimo na ngai asepelaki na yandi; napesi elimo na ngai likolo ya yandi, akobimisa bosiko epai ya bikolo.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Talá"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mosalami na ngai"
+    },
+    {
+      "surface": "אתמך",
+      "gloss": "nasimbi ye"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na yandi"
+    },
+    {
+      "surface": "בחירי",
+      "gloss": "oyo nampongi"
+    },
+    {
+      "surface": "רצתה",
+      "gloss": "asepelaki"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "molimo na ngai"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "napesi"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "elimo na ngai"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "likolo ya yandi"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "bosiko"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "epai ya bikolo"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "akobimisa"
+    }
+  ],
+  "timestamp": "2026-09-03T19:31:28.471303415Z",
+  "model": "glm-5.3"
+}

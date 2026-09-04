@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 22:5",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Soki moto ebimi mpe ezwaki bikwangwela, mpe kolia likata, to tondu ya elanga, to elanga mobimba — mombengi moto akofuta ⟨את⟩ moto.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "soki"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "ebimi"
+    },
+    {
+      "surface": "אש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "ומצאה",
+      "gloss": "mpe ezwaki"
+    },
+    {
+      "surface": "קצים",
+      "gloss": "bikwangwela"
+    },
+    {
+      "surface": "ונאכל",
+      "gloss": "mpe kolia"
+    },
+    {
+      "surface": "גדיש",
+      "gloss": "likata"
+    },
+    {
+      "surface": "או",
+      "gloss": "to"
+    },
+    {
+      "surface": "הקמה",
+      "gloss": "tondu ya elanga"
+    },
+    {
+      "surface": "או",
+      "gloss": "to"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "elanga mobimba"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "akofuta"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "akofuta"
+    },
+    {
+      "surface": "המבער",
+      "gloss": "mombengi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moto"
+    },
+    {
+      "surface": "הבערה",
+      "gloss": "moto"
+    }
+  ],
+  "timestamp": "2026-09-03T16:26:07.819600560Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 25:10",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Mpe boyeisa ⟨את⟩ mbula ya ntuku mitano, mpe bobenga deror (bokwe) na mabele epai ya bafandi na yango banso; yovel yango ekokani na bino, mpe bozongi moto moto na bozwami na ye, mpe moto moto na libota na ye bozongi.",
+  "tokens": [
+    {
+      "surface": "וקדשתם",
+      "gloss": "Mpe boyeisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbula"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "mbula ya"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "ntuku mitano"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mbula"
+    },
+    {
+      "surface": "וקראתם",
+      "gloss": "mpe bobenga"
+    },
+    {
+      "surface": "דרור",
+      "gloss": "deror"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "epai ya banso"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "bafandi na yango"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "yovel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yango"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ekokani"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "na bino"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "mpe bozongi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto moto"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "bozwami na ye"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "mpe moto moto"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "משפחתו",
+      "gloss": "libota na ye"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "bozongi"
+    }
+  ],
+  "timestamp": "2026-09-03T16:55:40.939481392Z",
+  "model": "glm-5.3"
+}

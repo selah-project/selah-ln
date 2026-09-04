@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 19:8",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Mpe oyo alyi yango akanga likubo na ye, mpo ⟨את⟩ eloko mosantu ya Yawe abebisi, mpe bomoi wana ekokatamaka kati ya mboka na yango.",
+  "tokens": [
+    {
+      "surface": "ואכליו",
+      "gloss": "Mpe oyo alyi yango"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "likubo na ye"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "akanga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eloko mosantu ya Yawe"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "eloko mosantu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yawe"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "abebisi"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "mpe ekokatamaka"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "bomoi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "wana"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "kati ya mboka na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:50:31.924426150Z",
+  "model": "glm-5.3"
+}

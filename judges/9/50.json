@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "judges 9:50",
+  "book": "judges",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Mpe Avimelekh akeaki na Tevets, mpe asanganaki Tevets, mpe azwaki yango.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Mpe akeaki"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "תבץ",
+      "gloss": "Tevets"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "mpe asanganaki"
+    },
+    {
+      "surface": "בתבץ",
+      "gloss": "Tevets"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "mpe azwaki yango"
+    }
+  ],
+  "timestamp": "2026-09-03T18:01:06.866769853Z",
+  "model": "glm-5.3"
+}

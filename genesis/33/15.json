@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 33:15",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 33,
+  "translation": "Mpe Esav alobaki: Natie natya elongo na yo oti kati ya bato oyo bazali elongo na ngai ⟨את⟩. Mpe alobaki: Mpo na nini oyo? Nazuaka boboto na miso ya nkolo na ngai.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe Esav alobaki"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אציגה",
+      "gloss": "natie natya"
+    },
+    {
+      "surface": "נא",
+      "gloss": "natie"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "elongo na yo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "oti kati ya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "bazali elongo na ngai ⟨את⟩",
+      "marks": "bato oyo bazali elongo na ngai"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Mpo na nini"
+    },
+    {
+      "surface": "זה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "nazuaka"
+    },
+    {
+      "surface": "חן",
+      "gloss": "boboto"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "na miso ya"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "nkolo na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T16:01:50.889294876Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 48:10",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 48,
+  "translation": "Talá, napetolaki yo, kasi na likufi te; naponi yo na etando ya mawa.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Talá"
+    },
+    {
+      "surface": "צרפתיך",
+      "gloss": "napetolaki yo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kasi te"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "na likufi"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "naponi yo"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "na etando"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ya mawa"
+    }
+  ],
+  "timestamp": "2026-09-03T19:32:12.790483092Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 6:27",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Bango oyo nde balobaki na Parao, mokonzi ya Mitsraim, mpo na kobimisa ⟨את⟩ bana ya Israel na Mitsraim — bongo oyo Moshe mpe Aharon.",
+  "tokens": [
+    {
+      "surface": "הם",
+      "gloss": "Bango oyo"
+    },
+    {
+      "surface": "המדברים",
+      "gloss": "balobaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Mitsraim"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "mpo na kobimisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bana ya Israel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "na Mitsraim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "bongo oyo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "mpe Aharon"
+    }
+  ],
+  "timestamp": "2026-09-03T16:14:42.837410654Z",
+  "model": "glm-5.3"
+}

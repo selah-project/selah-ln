@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 7:20",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mpe nini David akoki kobakisa koloba kasi na yo? Mpe yo, oyebi ⟨את⟩ mosali na yo, Adonai Yawe.",
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "mpe nini"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "akoki kobakisa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kasi"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "koloba"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "na yo"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "mpe yo"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "oyebi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mosali na yo"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mosali na yo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T18:30:53.920900904Z",
+  "model": "glm-5.3"
+}

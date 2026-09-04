@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 19:2",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Mpe nakobukisa Mitsraim na Mitsraim, mpe bakolwana, moto na ndeko na ye, mpe moto na moninga na ye, engumba na engumba, bokonzi na bokonzi.",
+  "tokens": [
+    {
+      "surface": "וסכסכתי",
+      "gloss": "Mpe nakobukisa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "na Mitsraim"
+    },
+    {
+      "surface": "ונלחמו",
+      "gloss": "mpe bakolwana"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "na ndeko na ye"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "mpe moto"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "na moninga na ye"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "engumba"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "na engumba"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "bokonzi"
+    },
+    {
+      "surface": "בממלכה",
+      "gloss": "na bokonzi"
+    }
+  ],
+  "timestamp": "2026-09-03T19:20:48.421844809Z",
+  "model": "glm-5.3"
+}

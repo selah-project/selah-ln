@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 14:12",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Mpe batikaki kuna ⟨את⟩ banzambe na bango, mpe David alobaki, mpe bateaki na moto.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "mpe batikaki"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "banzambe na bango"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "banzambe na bango"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "mpe bateaki"
+    },
+    {
+      "surface": "באש",
+      "gloss": "na moto"
+    }
+  ],
+  "timestamp": "2026-09-03T22:46:04.375873918Z",
+  "model": "glm-5.3"
+}

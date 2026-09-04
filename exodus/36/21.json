@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 36:21",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 36,
+  "translation": "Elongi ya karesi moko ezalaki ama zomi, mpe bonene ya karesi moko ezalaki ama moko mpe ndambo.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "zomi"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ama"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "elongi"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "karesi"
+    },
+    {
+      "surface": "ו אמה",
+      "gloss": "mpe ama"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "mpe ndambo"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "bonene"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "karesi"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "moko"
+    }
+  ],
+  "timestamp": "2026-09-03T16:36:24.772646420Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 4:7",
+  "book": "esther",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe Mordekai akanisaki ye ⟨את⟩ nyonso oyo esalaki ye, mpe ⟨את⟩ motuya ya mbongo oyo Haman alobi akopesa na bisanduku ya mbongo ya mokonzi mpo na Bayuda, mpo na koboma bango.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "akanisaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "קרהו",
+      "gloss": "esalaki ye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "motuya ya mbongo"
+    },
+    {
+      "surface": "פרשת",
+      "gloss": "motuya"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ya mbongo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "alobi"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "לשקול",
+      "gloss": "akopesa"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "גנזי",
+      "gloss": "bisanduku ya mbongo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya mokonzi"
+    },
+    {
+      "surface": "ביהודיים",
+      "gloss": "mpo na Bayuda"
+    },
+    {
+      "surface": "לאבדם",
+      "gloss": "mpo na koboma bango"
+    }
+  ],
+  "timestamp": "2026-09-03T22:17:51.495325947Z",
+  "model": "glm-5.3"
+}

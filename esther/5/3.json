@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 5:3",
+  "book": "esther",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Mpe mokonzi alobaki na ye: Nini na yo, Ester mwasi-mokonzi? mpe nini ndimbo na yo? tii na ndambo ya bokonzi, mpe bopesama yo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "לה",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Nini"
+    },
+    {
+      "surface": "לך",
+      "gloss": "na yo"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "mwasi-mokonzi"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "mpe nini"
+    },
+    {
+      "surface": "בקשתך",
+      "gloss": "ndimbo na yo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tii na"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "ndambo"
+    },
+    {
+      "surface": "המלכות",
+      "gloss": "ya bokonzi"
+    },
+    {
+      "surface": "וינתן",
+      "gloss": "mpe bopesama"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yo"
+    }
+  ],
+  "timestamp": "2026-09-03T22:18:52.148559666Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "malachi 3:22",
+  "book": "malachi",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Bokanisa Tora ya Moshe, moyomboli na ngai, oyo nasepaki ⟨את⟩ ye na Horeb epai ya Israel nyonso: mibeko mpe makambo ya bosolo.",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "bokanisa"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ya Moshe"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "moyomboli na ngai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "nasepaki"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ ye",
+      "marks": "ye (Moshe)"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "na Horeb"
+    },
+    {
+      "surface": "על",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "חקים",
+      "gloss": "mibeko"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "mpe makambo ya bosolo"
+    }
+  ],
+  "timestamp": "2026-09-03T20:59:55.503772882Z",
+  "model": "glm-5.3"
+}

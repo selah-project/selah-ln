@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 3:16",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe kohen atumbaki yango na auteli: biloko ya kolia, ofele ya mpuya, linunu ya elengi; mafuta nyonso ⟨ezali⟩ ya Yawe.",
+  "tokens": [
+    {
+      "surface": "והקטירם",
+      "gloss": "Mpe atumbaki yango"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "na auteli"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "biloko ya kolia"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ofele ya mpuya"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "mpo na linunu"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "ya elengi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ya Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T16:39:30.715149990Z",
+  "model": "glm-5.3"
+}

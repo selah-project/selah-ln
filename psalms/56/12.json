@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 56:12",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 56,
+  "translation": "Na Elohim natemateli, nazali kobanga te; moto akoki kosala nini na ngai?",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Na Elohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "natemateli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "nazali kobanga"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "akoki kosala"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moto"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:13:38.203870008Z",
+  "model": "glm-5.3"
+}

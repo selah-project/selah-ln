@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 119:36",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Bendola motema na ngai epai ya batembe na yo, mpe epai ya bokansi te.",
+  "tokens": [
+    {
+      "surface": "הט",
+      "gloss": "Bendola"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "motema na ngai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "batembe na yo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "bokansi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:30:58.254821518Z",
+  "model": "glm-5.3"
+}

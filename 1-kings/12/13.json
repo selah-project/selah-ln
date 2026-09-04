@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 12:13",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Mpe mokonzi ayanelaki ⟨את⟩ bato makasi, mpe atikaki ⟨את⟩ ndimbola ya bakoko, oyo basalaki ye ndimbola.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "mpe ayanelaki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bato"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "makasi"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "mpe atikaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndimbola ya bakoko"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "ndimbola"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "ya bakoko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "basalaki ye ndimbola"
+    }
+  ],
+  "timestamp": "2026-09-03T18:51:36.301365566Z",
+  "model": "glm-5.3"
+}

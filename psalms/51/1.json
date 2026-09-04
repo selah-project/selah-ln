@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 51:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 51,
+  "translation": "Ya mokambi ya miziki, mizmor ya David.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ya mokambi ya miziki"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya David"
+    }
+  ],
+  "timestamp": "2026-09-03T21:13:24.864573679Z",
+  "model": "glm-5.3"
+}

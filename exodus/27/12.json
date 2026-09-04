@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 27:12",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 27,
+  "translation": "Mpe bonene ya esika na eteni ya mbu: mikanda zomi na mitano ya maboko; bankiti na bango zomi, mpe maboko na bango zomi.",
+  "tokens": [
+    {
+      "surface": "ורחב",
+      "gloss": "Mpe bonene"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ya esika"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "na eteni ya"
+    },
+    {
+      "surface": "ים",
+      "gloss": "mbu"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "mikanda"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "zomi na mitano"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ya maboko"
+    },
+    {
+      "surface": "עמדיהם",
+      "gloss": "bankiti na bango"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "zomi"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "mpe maboko na bango"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "zomi"
+    }
+  ],
+  "timestamp": "2026-09-03T16:27:22.679865370Z",
+  "model": "glm-5.3"
+}

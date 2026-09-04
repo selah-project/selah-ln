@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 21:11",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Mpo ete Menashe, mokonzi ya Yehuda, asalaki biloko ya kokamwisa oyo, abebisaki koleka nyonso oyo baAmori basalaki oyo bazalaki liboso na ye, mpe atyaki masumu mpe epai ya ⟨את⟩ Yehuda na bikeko na ye.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "Mpo ete"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "asalaki"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "התעבות",
+      "gloss": "biloko ya kokamwisa"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "abebisaki"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "koleka nyonso ya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "basalaki"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "baAmori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "bazalaki liboso na ye"
+    },
+    {
+      "surface": "ויחטא",
+      "gloss": "mpe atyaki masumu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "בגלוליו",
+      "gloss": "na bikeko na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T19:09:31.609027944Z",
+  "model": "glm-5.3"
+}

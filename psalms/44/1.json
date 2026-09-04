@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 44:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 44,
+  "translation": "Mpo na Mokambi, bana ya Korach, Maskil.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Mpo na Mokambi"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "bana ya"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korach"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "Maskil"
+    }
+  ],
+  "timestamp": "2026-09-03T21:10:59.289391538Z",
+  "model": "glm-5.3"
+}

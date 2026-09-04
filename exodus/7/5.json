@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 7:5",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mpe bato ya Mitsraim bakoyeba ete ngai nazali Yawe, tango natambwisaka maboko na ngai likolo ya Mitsraim, mpe nakobimisa ⟨את⟩ bana ya Israel kati na bango.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "mpe bakoyeba"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "bato ya Mitsraim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בנטתי",
+      "gloss": "tango natambwisaka maboko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maboko na ngai"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "maboko na ngai"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "mpe nakobimisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bana ya Israel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "kati na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:14:28.160132634Z",
+  "model": "glm-5.3"
+}

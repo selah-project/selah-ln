@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 6:40",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpe bapesaki na bango ⟨את⟩ Hevron na mabele ya Yehuda, mpe ⟨את⟩ bisika na yango ya libanda ngaruka na yango.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "mpe bapesaki"
+    },
+    {
+      "surface": "להם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevron"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mabele ya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bisika na yango ya libanda"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "bisika na yango ya libanda"
+    },
+    {
+      "surface": "סביבותיה",
+      "gloss": "ngaruka na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T22:42:59.179312146Z",
+  "model": "glm-5.3"
+}

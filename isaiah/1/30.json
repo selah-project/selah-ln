@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 1:30",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpo bokozala lokola nzete oyo nkasa na yango ezali kolowa, mpe lokola lisanga oyo ezali na mai te.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "bokozala"
+    },
+    {
+      "surface": "כאלה",
+      "gloss": "lokola nzete"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "ezali kolowa"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "nkasa na yango"
+    },
+    {
+      "surface": "וכגנה",
+      "gloss": "mpe lokola lisanga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mai"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ezali na te"
+    },
+    {
+      "surface": "לה",
+      "gloss": "na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T19:12:50.489234224Z",
+  "model": "glm-5.3"
+}

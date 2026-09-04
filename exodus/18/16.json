@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 18:16",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Soki ezali na likambo na bango, ekelaka epai ya ngai; mpe nakataki kati na moto mpe kati na monzenze na ye, mpe nayebisaki ⟨את⟩ mibeko ya Elohim mpe ⟨את⟩ Tora na ye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Soki"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ezali"
+    },
+    {
+      "surface": "להם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "likambo"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ekelaka"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "epai ya ngai"
+    },
+    {
+      "surface": "ושפטתי",
+      "gloss": "mpe nakataki"
+    },
+    {
+      "surface": "בין",
+      "gloss": "kati na"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "mpe kati na"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "monzenze na ye"
+    },
+    {
+      "surface": "והודעתי",
+      "gloss": "mpe nayebisaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mibeko"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "mibeko"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Tora na ye"
+    },
+    {
+      "surface": "תורתיו",
+      "gloss": "Tora na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T16:22:36.480847811Z",
+  "model": "glm-5.3"
+}

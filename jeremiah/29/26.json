@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 29:26",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 29,
+  "translation": "Yawe atyaki yo kohen na esika ya Yehoyada kohen, mpo kozala bapakadami na ndako ya Yawe, mpo na moto nyonso oyo azali mowumu mpe apakolaka, mpe otya ⟨את⟩ ye na boltibon ya tongo mpe na makangisi ya makolo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "נתנך",
+      "gloss": "atyaki yo"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "na esika ya"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehoyada"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "mpo kozala"
+    },
+    {
+      "surface": "פקדים",
+      "gloss": "bapakadami"
+    },
+    {
+      "surface": "בית",
+      "gloss": "na ndako ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "mpo na nyonso"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "משגע",
+      "gloss": "mowumu"
+    },
+    {
+      "surface": "ומתנבא",
+      "gloss": "mpe apakolaka"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "mpe otya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "המהפכת",
+      "gloss": "boltibon ya tongo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mpe na"
+    },
+    {
+      "surface": "הצינק",
+      "gloss": "makangisi ya makolo"
+    }
+  ],
+  "timestamp": "2026-09-03T23:29:46.757942269Z",
+  "model": "glm-5.3"
+}

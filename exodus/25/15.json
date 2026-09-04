@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 25:15",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Banginga bikozala o misanganu ya arka; bikolongwama te na yango.",
+  "tokens": [
+    {
+      "surface": "בטבעת",
+      "gloss": "O misanganu"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ya arka"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bikozala"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "banginga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יסרו",
+      "gloss": "bikolongwama"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:27:45.123483283Z",
+  "model": "glm-5.3"
+}

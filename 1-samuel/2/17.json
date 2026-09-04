@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 2:17",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe libanga ya bilenge ezalaki monene mingi liboso ya Yawe, mpo bato batyaki mabe ⟨את⟩ ofele ya Yawe.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "ezalaki"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "libanga"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "ya bilenge"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "monene"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mingi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨na⟩",
+      "marks": "liboso ya Yawe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "liboso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "batyaki-mabe"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "bato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ofele ya Yawe"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "ofele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T18:09:56.293279513Z",
+  "model": "glm-5.3"
+}

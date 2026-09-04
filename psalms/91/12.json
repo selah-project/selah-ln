@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 91:12",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 91,
+  "translation": "Bakokamba yo na maboko na bango, mpo likau na yo ekangama na libanga te.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "maboko na bango"
+    },
+    {
+      "surface": "ישאונך",
+      "gloss": "bakokamba yo"
+    },
+    {
+      "surface": "פן",
+      "gloss": "mpo te"
+    },
+    {
+      "surface": "תגף",
+      "gloss": "ekangama"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "na libanga"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "likau na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:23:59.481859240Z",
+  "model": "glm-5.3"
+}

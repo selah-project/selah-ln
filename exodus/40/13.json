@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 40:13",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 40,
+  "translation": "Mpe okokingisa ⟨את⟩ Aharon na bilamba ya bosantu, mpe okonyata ye, mpe okomisa ye mosantu, mpe akosalaka epai na ngai lokola kohen.",
+  "tokens": [
+    {
+      "surface": "והלבשת",
+      "gloss": "Mpe okokingisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ na",
+      "marks": "bilamba ya bosantu"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "bilamba"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ya bosantu"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "mpe okonyata"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ye",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "mpe okomisa ye mosantu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "וכהן",
+      "gloss": "mpe akosalaka lokola kohen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "epai na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T16:38:59.220670172Z",
+  "model": "glm-5.3"
+}

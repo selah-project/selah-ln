@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 4:14",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe mabe oyo basalaki na yango eyebaki, mpe lisangani komimemaki ngombe, mwana wa ngombe, mpo na mabe, mpe bakomemaki ⟨את⟩ yango liboso ya hema ya bokutani.",
+  "tokens": [
+    {
+      "surface": "ונודעה",
+      "gloss": "mpe eyebaki"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "basalaki"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "mpe bakomemaki pene"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "lisangani"
+    },
+    {
+      "surface": "פר",
+      "gloss": "ngombe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "wa ngombe"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "mpo na mabe"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "mpe bakomemaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yango",
+      "marks": "yango (ngombe)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "hema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya bokutani"
+    }
+  ],
+  "timestamp": "2026-09-03T23:16:29.674099678Z",
+  "model": "glm-5.3"
+}

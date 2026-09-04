@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 121:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 121,
+  "translation": "Lisalisi na ngai ezali epai ya Yawe, oyo asalaki likolo mpe mabele.",
+  "tokens": [
+    {
+      "surface": "עזרי",
+      "gloss": "Lisalisi na ngai"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "asalaki"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "likolo"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "mpe mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T21:32:38.588910818Z",
+  "model": "glm-5.3"
+}

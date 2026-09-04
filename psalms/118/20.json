@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 118:20",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 118,
+  "translation": "Oyo ⟨ezali⟩ nzela ya Yawe; bato ya bokoki bakokota na yango.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Oyo"
+    },
+    {
+      "surface": "השער",
+      "gloss": "nzela"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ya Yawe"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "bato ya bokoki"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "bakokota"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:30:30.666863589Z",
+  "model": "glm-5.3"
+}

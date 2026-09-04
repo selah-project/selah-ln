@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 89:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 89,
+  "translation": "Mpo nani na likolo akoki kokanisa na Yawe? Nani akokanisa na Yawe kati na bana ya banzambe?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nani"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "na likolo"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "akoki kokanisa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "na Yawe"
+    },
+    {
+      "surface": "ידמה",
+      "gloss": "akokanisa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "na Yawe"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "kati na bana"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "ya banzambe"
+    }
+  ],
+  "timestamp": "2026-09-03T21:22:41.670397890Z",
+  "model": "glm-5.3"
+}

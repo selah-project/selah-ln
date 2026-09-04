@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 71:20",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 71,
+  "translation": "Oyo omakisaki biso makama mingi mpe mabe; okozonga, okobikisa biso, mpe na bomwamba ya mabele okozonga, okomatisa ngai.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "הראיתנו",
+      "gloss": "omakisaki biso"
+    },
+    {
+      "surface": "צרות",
+      "gloss": "makama"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "mingi"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "mpe mabe"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "okozonga"
+    },
+    {
+      "surface": "תחיינו",
+      "gloss": "okobikisa biso"
+    },
+    {
+      "surface": "ומתהמות",
+      "gloss": "mpe na bomwamba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ya mabele"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "okozonga"
+    },
+    {
+      "surface": "תעלני",
+      "gloss": "okomatisa ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T23:35:33.975612749Z",
+  "model": "glm-5.3"
+}

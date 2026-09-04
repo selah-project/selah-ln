@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 1:25",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Botyaki na mokemoke likebi na ngai nyonso, mpe nduna na ngai bolingaki te ⟨kobanda yo⟩.",
+  "tokens": [
+    {
+      "surface": "וַתִּפְרְעוּ",
+      "gloss": "botyaki na mokemoke"
+    },
+    {
+      "surface": "כָל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "עֲצָתִי",
+      "gloss": "likebi na ngai"
+    },
+    {
+      "surface": "וְתוֹכַחְתִּי",
+      "gloss": "mpe nduna na ngai"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "te"
+    },
+    {
+      "surface": "אֲבִיתֶם",
+      "gloss": "bolingaki te"
+    }
+  ],
+  "timestamp": "2026-09-03T21:37:26.155102520Z",
+  "model": "glm-5.3"
+}

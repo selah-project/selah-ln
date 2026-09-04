@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 7:32",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mpe ⟨את⟩ ligomba ya mobali bopesaka yango lokola teruma epai ya kohen, uta na mizbehe ya kimya na bino.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "ligomba ya mobali"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "ligomba"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "ya mobali"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "bopesaka"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "lokola teruma"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "epai ya kohen"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "uta na mizbehe"
+    },
+    {
+      "surface": "שלמיכם",
+      "gloss": "ya kimya na bino"
+    }
+  ],
+  "timestamp": "2026-09-03T16:41:07.455642207Z",
+  "model": "glm-5.3"
+}

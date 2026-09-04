@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 44:17",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 44,
+  "translation": "Na liongo ya mokoseri mpe moyibi-liloba, mpo na banguna mpe oyo azali kolonga bongo na boyingi.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "na liongo"
+    },
+    {
+      "surface": "מחרף",
+      "gloss": "ya mokoseri"
+    },
+    {
+      "surface": "ומגדף",
+      "gloss": "mpe moyibi-liloba"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "mpo na"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "banguna"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "mpe oyo azali kolonga bongo na boyingi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:11:05.139369714Z",
+  "model": "glm-5.3"
+}

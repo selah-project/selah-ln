@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 31:3",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 31,
+  "translation": "Moshe alobaki epai ya bato ete: Bokengela mibali kati na ⟨את⟩ bino mpo na mampinga, mpe bazala epai ya Midiyan mpo na kopesa sukundi ya Yawe na Midiyan.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ete"
+    },
+    {
+      "surface": "החלצו",
+      "gloss": "bokengela"
+    },
+    {
+      "surface": "מאתכם",
+      "gloss": "kati na ⟨את⟩ bino",
+      "marks": "bino"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "mibali"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "mpo na mampinga"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "mpe bazala"
+    },
+    {
+      "surface": "על",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midiyan"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "mpo na kopesa"
+    },
+    {
+      "surface": "נקמת",
+      "gloss": "sukundi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "במדין",
+      "gloss": "na Midiyan"
+    }
+  ],
+  "timestamp": "2026-09-03T23:19:11.369694664Z",
+  "model": "glm-5.3"
+}

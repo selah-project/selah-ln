@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 45:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 45,
+  "translation": "Mpo na mokambi, na Shoshanim, ya bana ya Korah, molongi, nzembo ya bolingo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Mpo na mokambi"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "Shoshanim"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ya bana ya"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korah"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "molongi"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "nzembo"
+    },
+    {
+      "surface": "ידידת",
+      "gloss": "ya bolingo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:12:14.604186618Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 48:22",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 48,
+  "translation": "Shalom ezali te, Yawe alobi, mpo na babe.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ezali te"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shalom"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "alobi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לרשעים",
+      "gloss": "mpo na babe"
+    }
+  ],
+  "timestamp": "2026-09-03T23:25:40.618353716Z",
+  "model": "glm-5.3"
+}

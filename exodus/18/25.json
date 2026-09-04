@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 18:25",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Mpe Moshe aponaki bato ya nguya uta na Israel nyonso, mpe atyaki ⟨את⟩ bango bangongo likolo ya bato: basare ya nkoto, basare ya nkama, basare ya ntuku mitano, mpe basare ya zomi.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "mpe aponaki"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "bato"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ya nguya"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "uta na nyonso"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "mpe atyaki"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bango",
+      "marks": "bangongo"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "bangongo"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "basare"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ya nkoto"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "basare"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ya nkama"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "basare"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ya ntuku mitano"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "mpe basare"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "ya zomi"
+    }
+  ],
+  "timestamp": "2026-09-03T16:22:04.945581Z",
+  "model": "glm-5.3"
+}

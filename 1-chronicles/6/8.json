@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 6:8",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Elkanah mwana na ye, mpe Eviasaf mwana na ye, mpe Asir mwana na ye.",
+  "tokens": [
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkanah"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana na ye"
+    },
+    {
+      "surface": "ואביסף",
+      "gloss": "mpe Eviasaf"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana na ye"
+    },
+    {
+      "surface": "ואסיר",
+      "gloss": "mpe Asir"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T22:42:07.250304936Z",
+  "model": "glm-5.3"
+}

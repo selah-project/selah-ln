@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 29:44",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 29,
+  "translation": "Mpe nakosantuisa ⟨את⟩ Ohel Moed mpe ⟨את⟩ autelo; mpe ⟨את⟩ Aharon mpe ⟨את⟩ bana na ye nakosantuisa lokola kohen epai na ngai.",
+  "tokens": [
+    {
+      "surface": "וקדשתי",
+      "gloss": "mpe nakosantuisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ohel Moed"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ohel"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "moed"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "autelo"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "autelo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bana na ye"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bana na ye"
+    },
+    {
+      "surface": "אקדש",
+      "gloss": "nakosantuisa"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "lokola kohen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "epai na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T16:31:04.542011727Z",
+  "model": "glm-5.3"
+}

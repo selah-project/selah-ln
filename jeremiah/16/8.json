@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 16:8",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Mpe na ndako ya bomeli ká okota, mpo na kofanda ⟨את⟩ bango, mpo na kolia mpe komela.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "mpe na ndako"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "ya bomeli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ká"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "okota"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "mpo na kofanda"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ bango",
+      "marks": "bango"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "mpo na kolia"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "mpe komela"
+    }
+  ],
+  "timestamp": "2026-09-03T19:48:21.658881315Z",
+  "model": "glm-5.3"
+}

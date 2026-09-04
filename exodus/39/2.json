@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 39:2",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 39,
+  "translation": "Mpe asalaki ⟨את⟩ ephode — na wolo, na buluu, na violet, mpe na kama ya pupu, mpe na sandale ya mateya oyo ekangami.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "mpe asalaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ephode"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ephode"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "na wolo"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "buluu"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "mpe violet"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "mpe na kama"
+    },
+    {
+      "surface": "שני",
+      "gloss": "pupu"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "mpe na sandale"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "ya mateya oyo ekangami"
+    }
+  ],
+  "timestamp": "2026-09-03T16:37:49.473007117Z",
+  "model": "glm-5.3"
+}

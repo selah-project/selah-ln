@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 12:6",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Mpe Avraham atambolaki na mboka tee na esika Shkhem, tee na nzete ya More; mpe Mukenaan azalaki na ntango wana na mboka.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "Mpe Avraham atambolaki"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mboka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tee na"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "esika"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shkhem"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tee na"
+    },
+    {
+      "surface": "אלון",
+      "gloss": "nzete"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "ya More"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "mpe Mukenaan"
+    },
+    {
+      "surface": "אז",
+      "gloss": "na ntango wana"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mboka"
+    }
+  ],
+  "timestamp": "2026-09-03T15:50:30.256340061Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 6:21",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpe yo, kamba epai na yo ya biloko nyonso ya kolia oyo ekoli koliama; mpe osangisaki ⟨yango⟩ epai na yo, mpe ekikalaki kolia epai na yo mpe epai na bango.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "mpe yo"
+    },
+    {
+      "surface": "קח",
+      "gloss": "kamba"
+    },
+    {
+      "surface": "לך",
+      "gloss": "epai na yo"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ya biloko nyonso"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "ya kolia"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ekoli koliama"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "mpe osangisaki"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "epai na yo"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "mpe ekikalaki"
+    },
+    {
+      "surface": "לך",
+      "gloss": "epai na yo"
+    },
+    {
+      "surface": "ולהם",
+      "gloss": "mpe epai na bango"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "lokola kolia"
+    }
+  ],
+  "timestamp": "2026-09-03T15:46:13.637561496Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 145:13",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 145,
+  "translation": "Bokonzi na yo ⟨ezali⟩ bokonzi ya ntango nyonso, mpe boyangeli na yo ⟨ezali⟩ na libota mpe libota.",
+  "tokens": [
+    {
+      "surface": "מלכותך",
+      "gloss": "bokonzi na yo"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "bokonzi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "עלמים",
+      "gloss": "ya ntango nyonso"
+    },
+    {
+      "surface": "וממשלתך",
+      "gloss": "mpe boyangeli na yo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na"
+    },
+    {
+      "surface": "דור",
+      "gloss": "libota"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "mpe libota"
+    }
+  ],
+  "timestamp": "2026-09-03T21:36:19.465282914Z",
+  "model": "glm-5.3"
+}

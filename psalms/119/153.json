@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 153,
+  "ref": "psalms 119:153",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Tala mpasi na ngai, mpe bobiki ngai, mpo Tora na yo nabosaki te.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Tala"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "mpasi na ngai"
+    },
+    {
+      "surface": "וחלצני",
+      "gloss": "mpe bobiki ngai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Tora na yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "nabosaki"
+    }
+  ],
+  "timestamp": "2026-09-03T21:31:37.718311305Z",
+  "model": "glm-5.3"
+}

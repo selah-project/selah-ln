@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 18:5",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Mpe bobata ⟨את⟩ mibeko na ngai mpe ⟨את⟩ mapanzo na ngai, oyo moto akosala ⟨את⟩ yango mpe akozala na bomoi na yango; ngai nazali Yawe.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Mpe bobata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mibeko na ngai"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "mibeko na ngai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mapanzo na ngai"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "mapanzo na ngai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "akosala"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "yango (oyo moto akosala)"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "moto"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "mpe akozala na bomoi"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T16:49:04.752512393Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 121:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 121,
+  "translation": "Yawe ⟨ezali⟩ mobateli wa yo; Yawe ⟨ezali⟩ etike ya yo na loboko ya yo ya monene.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "mobateli wa yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "etike ya yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "יד",
+      "gloss": "loboko"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ya yo ya monene"
+    }
+  ],
+  "timestamp": "2026-09-03T21:33:01.693155129Z",
+  "model": "glm-5.3"
+}

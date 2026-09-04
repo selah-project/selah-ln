@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 136:16",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 136,
+  "translation": "Mpo na oyo ambokatelaki ekolo na yango na etando, mpo na agele hesed na yango ezali.",
+  "tokens": [
+    {
+      "surface": "לְמוֹלִיךְ",
+      "gloss": "oyo ambokatelaki"
+    },
+    {
+      "surface": "עַמּוֹ",
+      "gloss": "ekolo na yango"
+    },
+    {
+      "surface": "בַּמִּדְבָּר",
+      "gloss": "na etando"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "mpo na"
+    },
+    {
+      "surface": "לְעוֹלָם",
+      "gloss": "agele"
+    },
+    {
+      "surface": "חַסְדּוֹ",
+      "gloss": "hesed na yango ezali"
+    }
+  ],
+  "timestamp": "2026-09-03T21:34:25.585135755Z",
+  "model": "glm-5.3"
+}

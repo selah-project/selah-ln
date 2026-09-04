@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 20:3",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 20,
+  "translation": "Bokumu ya moto ezali botiki mbala; mpe nyonso oyombi akangamaka na yango.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "bokumu"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ya moto"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "botiki"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "mbala"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe nyonso"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "oyombi"
+    },
+    {
+      "surface": "יתגלע",
+      "gloss": "akangamaka na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:45:34.825296177Z",
+  "model": "glm-5.3"
+}

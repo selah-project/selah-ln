@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 25:19",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Mpe oyo ezali libota ya Yitshak, mwana ya Avraham: Avraham abotaki ⟨את⟩ Yitshak.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Mpe oyo"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "libota"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ya Yitshak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ya Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "abotaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yitshak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    }
+  ],
+  "timestamp": "2026-09-03T15:58:06.012536093Z",
+  "model": "glm-5.3"
+}

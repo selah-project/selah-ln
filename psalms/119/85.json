@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 85,
+  "ref": "psalms 119:85",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Bato ya lolendo bafulaki bibwe ⟨ngo⟩ ngai, oyo ezali lokola Tora na yo te.",
+  "tokens": [
+    {
+      "surface": "כרו",
+      "gloss": "bafulaki"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "bato ya lolendo"
+    },
+    {
+      "surface": "שיחות",
+      "gloss": "bibwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "כתורתך",
+      "gloss": "lokola Tora na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:32:01.962461827Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 36:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 36,
+  "translation": "Bakomela tii na deshen ya ndako na yo, mpe na sika ya malipwa na yo okomelisa bango.",
+  "tokens": [
+    {
+      "surface": "ירוין",
+      "gloss": "bakomela tii"
+    },
+    {
+      "surface": "מדשן",
+      "gloss": "deshen"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ndako na yo"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "mpe na sika"
+    },
+    {
+      "surface": "עדניך",
+      "gloss": "ya malipwa na yo"
+    },
+    {
+      "surface": "תשקם",
+      "gloss": "okomelisa bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:08:00.502722322Z",
+  "model": "glm-5.3"
+}

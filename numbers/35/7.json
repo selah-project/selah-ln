@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 35:7",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 35,
+  "translation": "Miboka nyonso oyo bopesa na Balevi ezali miboka ntuku minei na mwambe — ⟨את⟩ yango mpe ⟨את⟩ mikili ya pembeni na yango.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "miboka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "bopesa"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "na Balevi"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ntuku minei"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "mpe mwambe"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mboka"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "yango (miboka yango)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mikili ya pembeni na yango"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "mikili ya pembeni na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T23:18:23.556403910Z",
+  "model": "glm-5.3"
+}

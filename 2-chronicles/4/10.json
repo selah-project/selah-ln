@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 4:10",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe ⟨את⟩ mbuwa atyaki uta na epubu ya mobali, na monyokolami, elongi na sudi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mbuwa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "mbuwa"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "atyaki"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "uta na epubu"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "ya mobali"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "na monyokolami"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "elongi na"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "sudi"
+    }
+  ],
+  "timestamp": "2026-09-03T22:54:40.311453562Z",
+  "model": "glm-5.3"
+}

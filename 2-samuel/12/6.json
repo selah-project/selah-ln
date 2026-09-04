@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 12:6",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "mpe akofuta ⟨את⟩ ngembo mbala minei, mpona oyo asalaki ⟨את⟩ likambo oyo, mpe mpona oyo atikaki mawa te.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "ngembo"
+    },
+    {
+      "surface": "הכבשה",
+      "gloss": "ngembo"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "akofuta"
+    },
+    {
+      "surface": "ארבעתים",
+      "gloss": "mbala minei"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "mpona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "asalaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "likambo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "likambo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "mpe mpona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "חמל",
+      "gloss": "atikaki mawa"
+    }
+  ],
+  "timestamp": "2026-09-03T18:33:30.489042672Z",
+  "model": "glm-5.3"
+}

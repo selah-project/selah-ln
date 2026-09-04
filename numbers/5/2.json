@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 5:2",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Etanda ⟨את⟩ bana ya Israel, mpe batinda kowuta na kaa ⟨את⟩ nyonso momangaza, mpe nyonso ozo, mpe nyonso mabe mpo na nefesh.",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "Etanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bana ya Israel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "mpe batinda"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kowuta na"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kaa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "צרוע",
+      "gloss": "momangaza"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe nyonso"
+    },
+    {
+      "surface": "זב",
+      "gloss": "ozo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe nyonso"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "mpo na nefesh"
+    }
+  ],
+  "timestamp": "2026-09-03T17:02:58.900644106Z",
+  "model": "glm-5.3"
+}

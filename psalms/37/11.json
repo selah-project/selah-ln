@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 37:11",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 37,
+  "translation": "Mpe bapanyi bakokokana mabele, mpe bakosepela na bonene ya kimia.",
+  "tokens": [
+    {
+      "surface": "וענוים",
+      "gloss": "mpe bapanyi"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "bakokokana"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "והתענגו",
+      "gloss": "mpe bakosepela"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "רב",
+      "gloss": "bonene"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kimia"
+    }
+  ],
+  "timestamp": "2026-09-03T21:08:40.689471366Z",
+  "model": "glm-5.3"
+}

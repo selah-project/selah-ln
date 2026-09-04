@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 6:12",
+  "book": "job",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Soki nguya na ngai ezali nguya ya mabanga, to libumu na ngai ezali ya mongongo?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "soki"
+    },
+    {
+      "surface": "כח",
+      "gloss": "nguya"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "ya mabanga"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "nguya na ngai"
+    },
+    {
+      "surface": "אם",
+      "gloss": "to"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "libumu na ngai"
+    },
+    {
+      "surface": "נחוש",
+      "gloss": "ya mongongo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:51:58.664499662Z",
+  "model": "glm-5.3"
+}

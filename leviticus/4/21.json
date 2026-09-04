@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 4:21",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe amemaki ⟨את⟩ bufalasi na libanda ya kaa, mpe atumbaki ⟨את⟩ yango ndenge atumbaki ⟨את⟩ bufalasi ya liboso; sacrifice ya masumu ya lisangani ezali.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "mpe amemaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bufalasi"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "bufalasi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "libanda"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ya kaa"
+    },
+    {
+      "surface": "ושרף",
+      "gloss": "mpe atumbaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yango",
+      "marks": "bufalasi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ndenge"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "atumbaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bufalasi"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "bufalasi"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ya liboso"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "sacrifice ya masumu"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "ya lisangani"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ezali"
+    }
+  ],
+  "timestamp": "2026-09-03T16:42:34.729603809Z",
+  "model": "glm-5.3"
+}

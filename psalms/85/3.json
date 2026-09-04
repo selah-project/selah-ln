@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 85:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 85,
+  "translation": "Olongolaki mabe ya mboka na yo, obombaki mabe na bango nyonso. Selah.",
+  "tokens": [
+    {
+      "surface": "נשאת",
+      "gloss": "Olongolaki"
+    },
+    {
+      "surface": "עון",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ya mboka na yo"
+    },
+    {
+      "surface": "כסית",
+      "gloss": "obombaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "mabe na bango"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-03T21:22:13.438156801Z",
+  "model": "glm-5.3"
+}

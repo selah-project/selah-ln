@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 23:7",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Mpe Avraham atelemi, mpe apofaki epai ya bato ya mabele, epai ya bana ya Het.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "mpe atelemi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "mpe apofaki"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "epai ya bato"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ya mabele"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "epai ya bana"
+    },
+    {
+      "surface": "חת",
+      "gloss": "ya Het"
+    }
+  ],
+  "timestamp": "2026-09-03T15:54:54.753814144Z",
+  "model": "glm-5.3"
+}

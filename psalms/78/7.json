@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 78:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 78,
+  "translation": "Mpe batya botombeli na bango na Elohim, mpe bakokanisa misala ya El te, mpe batikala mibeko na ye.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "mpe batya"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "na Elohim"
+    },
+    {
+      "surface": "כסלם",
+      "gloss": "botombeli na bango"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "bakokanisa"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "misala ya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "mpe mibeko na ye"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "batikala"
+    }
+  ],
+  "timestamp": "2026-09-03T21:19:39.661383418Z",
+  "model": "glm-5.3"
+}

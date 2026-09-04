@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 18:4",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Mpe Yehonatan amolaki ⟨את⟩ elamba oyo ezalaki na ye, mpe apesaki yango epai ya David, mpe bilamba na ye, kino na likele na ye, kino na uta na ye, mpe kino na ekangi na ye.",
+  "tokens": [
+    {
+      "surface": "ויתפשט",
+      "gloss": "amolaki"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yehonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elamba"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "elamba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ezalaki na ye"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "mpe apesaki yango"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "epai ya David"
+    },
+    {
+      "surface": "ומדיו",
+      "gloss": "mpe bilamba na ye"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "likele na ye"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "uta na ye"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "ekangi na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T23:21:48.944812054Z",
+  "model": "glm-5.3"
+}

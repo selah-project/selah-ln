@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 1:32",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe na likambo oyo bozali kondima te na Yawe Elohim na bino.",
+  "tokens": [
+    {
+      "surface": "ובדבר",
+      "gloss": "Mpe na likambo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אינכם",
+      "gloss": "bozali … te"
+    },
+    {
+      "surface": "מאמינם",
+      "gloss": "kondima"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "na Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim na bino"
+    }
+  ],
+  "timestamp": "2026-09-03T17:23:10.011755092Z",
+  "model": "glm-5.3"
+}

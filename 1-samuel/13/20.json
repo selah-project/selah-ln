@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 13:20",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Mpe Israel nyonso bakitaki epai ya Bapelishti mpo na kolonga; moto nyonso ⟨את⟩ sapé na ye, mpe ⟨את⟩ eto na ye, mpe ⟨את⟩ kasi na ye, mpe ⟨את⟩ piko na ye.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "bakitaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "Bapelishti"
+    },
+    {
+      "surface": "ללטוש",
+      "gloss": "mpo na kolonga"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto nyonso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sapé na ye"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "sapé"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "eto na ye"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "eto"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "kasi na ye"
+    },
+    {
+      "surface": "קרדמו",
+      "gloss": "kasi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "piko na ye"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "piko"
+    }
+  ],
+  "timestamp": "2026-09-03T18:14:54.260237332Z",
+  "model": "glm-5.3"
+}

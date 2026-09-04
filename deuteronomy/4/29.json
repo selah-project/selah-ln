@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 4:29",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe boluka kuna ⟨את⟩ Yawe Elohim na yo, mpe okuta ⟨yae⟩, soki oluka ye na motema na yo nyonso mpe na molimo na yo nyonso.",
+  "tokens": [
+    {
+      "surface": "ובקשתם",
+      "gloss": "mpe boluka"
+    },
+    {
+      "surface": "משם",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim na yo"
+    },
+    {
+      "surface": "ומצאת",
+      "gloss": "mpe okuta"
+    },
+    {
+      "surface": "כי",
+      "gloss": "soki"
+    },
+    {
+      "surface": "תדרשנו",
+      "gloss": "oluka ye"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na nyonso ya"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "motema na yo"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "mpe na nyonso ya"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "molimo na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T17:26:19.447767080Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 4:18",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Bokata te ⟨את⟩ libota ya bamabota ya bana ya Kehat o kati ya Balevi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תכריתו",
+      "gloss": "bokata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "libota"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "libota"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ya bamabota"
+    },
+    {
+      "surface": "הקהתי",
+      "gloss": "ya bana ya Kehat"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "o kati ya"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Balevi"
+    }
+  ],
+  "timestamp": "2026-09-03T17:00:14.385476420Z",
+  "model": "glm-5.3"
+}

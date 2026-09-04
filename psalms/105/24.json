@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 105:24",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 105,
+  "translation": "Mpe abakisaki ⟨את⟩ bato na yango mingi, mpe amatisaki nguya na bango koleka bankangi na bango.",
+  "tokens": [
+    {
+      "surface": "ויפר",
+      "gloss": "mpe abakisaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bato na yango"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bato na yango"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mingi"
+    },
+    {
+      "surface": "ויעצמהו",
+      "gloss": "mpe amatisaki nguya na bango"
+    },
+    {
+      "surface": "מצריו",
+      "gloss": "koleka bankangi na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:27:12.970277068Z",
+  "model": "glm-5.3"
+}

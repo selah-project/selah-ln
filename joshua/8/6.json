@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 8:6",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe bakobima na sima na biso kino tokobenda ⟨את⟩ bango kati na mboka, mpo ete bakoloba: bazali kokima liboso na biso lokola na liboso; mpe tokokima liboso na bango.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "mpe bakobima"
+    },
+    {
+      "surface": "אחרינו",
+      "gloss": "na sima na biso"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "התיקנו",
+      "gloss": "tokobenda"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ bango",
+      "marks": "bango"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kati na"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mboka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "bakoloba"
+    },
+    {
+      "surface": "נסים",
+      "gloss": "bazali kokima"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "liboso na biso"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "lokola"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "na liboso"
+    },
+    {
+      "surface": "ונסנו",
+      "gloss": "mpe tokokima"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "liboso na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T17:46:48.096624446Z",
+  "model": "glm-5.3"
+}

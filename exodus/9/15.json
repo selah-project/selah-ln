@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 9:15",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Mpo ete sikoyo natindaki maboko na ngai, mpe nakoboma ⟨elingaki⟩ ⟨את⟩ yo mpe ⟨את⟩ bato na yo na maladi, mpe olingaki kolimwa uta na mabele.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "sikoyo"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "natindaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maboko na ngai"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "maboko na ngai"
+    },
+    {
+      "surface": "ואך",
+      "gloss": "mpe nakoboma ⟨elingaki⟩"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bato na yo"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "na maladi"
+    },
+    {
+      "surface": "ותכחד",
+      "gloss": "mpe olingaki kolimwa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uta na"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T16:17:54.634532106Z",
+  "model": "glm-5.3"
+}

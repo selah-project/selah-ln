@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 8:3",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe bana na ye batambolaki na nzela na ye te, kasi babongolaki nsima ya mbongo ya mabe, bazuaki mipesa, mpe babongolaki bosambisi.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "te"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "batambolaki"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bana na ye"
+    },
+    {
+      "surface": "בדרכו",
+      "gloss": "na nzela na ye"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "kasi babongolaki"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nsima ya"
+    },
+    {
+      "surface": "הבצע",
+      "gloss": "mbongo ya mabe"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "bazuaki"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "mipesa"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "mpe babongolaki"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "bosambisi"
+    }
+  ],
+  "timestamp": "2026-09-03T18:11:06.888931722Z",
+  "model": "glm-5.3"
+}

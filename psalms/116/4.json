@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 116:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 116,
+  "translation": "Mpe na nkombo ya Yawe nabengaki: Eh, Yawe, bokima bomoi na ngai!",
+  "tokens": [
+    {
+      "surface": "ובשם",
+      "gloss": "Mpe na nkombo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yawe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "nabengaki"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "Eh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מלטה",
+      "gloss": "bokima"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "bomoi na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:30:35.970863370Z",
+  "model": "glm-5.3"
+}

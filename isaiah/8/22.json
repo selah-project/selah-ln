@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 8:22",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe na mabele atalaka, mpe talá: mpasi mpe moke, bokunza ya mpasi ya makasi, mpe moke monene oyo ezipi bango.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "mpe na"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "atalaka"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mpe talá"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "mpasi"
+    },
+    {
+      "surface": "וחשכה",
+      "gloss": "mpe moke"
+    },
+    {
+      "surface": "מעוף",
+      "gloss": "bokunza"
+    },
+    {
+      "surface": "צוקה",
+      "gloss": "ya mpasi ya makasi"
+    },
+    {
+      "surface": "ואפלה",
+      "gloss": "mpe moke monene"
+    },
+    {
+      "surface": "מנדח",
+      "gloss": "ozipi bango"
+    }
+  ],
+  "timestamp": "2026-09-03T19:14:32.519201932Z",
+  "model": "glm-5.3"
+}

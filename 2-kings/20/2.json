@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 20:2",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 20,
+  "translation": "Mpe atolaki ⟨את⟩ elongi na ye epai na libanda, mpe asambelaki epai na Yawe, alobaki:",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "mpe atolaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elongi na ye"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "elongi na ye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai na"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "libanda"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "mpe asambelaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "alobaki"
+    }
+  ],
+  "timestamp": "2026-09-03T23:25:00.823637641Z",
+  "model": "glm-5.3"
+}

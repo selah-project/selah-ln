@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 78:13",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 78,
+  "translation": "Akangaki ⟨ye⟩ ebale mpe amemaki bango koleka; mpe atandisaki mai lokola molongo.",
+  "tokens": [
+    {
+      "surface": "בקע",
+      "gloss": "akangaki"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ebale"
+    },
+    {
+      "surface": "ויעבירם",
+      "gloss": "mpe amemaki bango koleka"
+    },
+    {
+      "surface": "ויצב",
+      "gloss": "mpe atandisaki"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mai"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "lokola"
+    },
+    {
+      "surface": "נד",
+      "gloss": "molongo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:19:38.182978206Z",
+  "model": "glm-5.3"
+}

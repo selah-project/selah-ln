@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 104:16",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 104,
+  "translation": "Banzete ya Yawe basukumaka, baareze ya Lebanon oyo akotisaki.",
+  "tokens": [
+    {
+      "surface": "יִשְׂבְּעוּ",
+      "gloss": "basukumaka"
+    },
+    {
+      "surface": "עצֵי",
+      "gloss": "banzete ya"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אַרְזֵי",
+      "gloss": "baareze ya"
+    },
+    {
+      "surface": "לְבָנוֹן",
+      "gloss": "Lebanon"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "נָטָע",
+      "gloss": "akotisaki"
+    }
+  ],
+  "timestamp": "2026-09-03T21:26:50.925567133Z",
+  "model": "glm-5.3"
+}

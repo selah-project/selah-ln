@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 14:5",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Mpe kohen akanisaki, mpe asasaki ⟨את⟩ ndeke moko na kati ya bilinga ya bilolo, likolo ya mai ya bomoi.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "mpe akanisaki"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "mpe asasaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndeke moko"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "ndeke"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "moko"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na kati ya"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "bilinga"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ya bilolo"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mai"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ya bomoi"
+    }
+  ],
+  "timestamp": "2026-09-03T16:48:03.331644592Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 36:17",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 36,
+  "translation": "Kino nakoya mpe nakomba ⟨את⟩ bino na mabelo boye mabelo na bino, mabelo ya bilenga mpe ya divai, mabelo ya mokei mpe ya bilanga ya divai.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "באי",
+      "gloss": "nakoya"
+    },
+    {
+      "surface": "ולקחתי",
+      "gloss": "mpe nakomba"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ bino",
+      "marks": "bino"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mabelo"
+    },
+    {
+      "surface": "כארצכם",
+      "gloss": "boye mabelo na bino"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mabelo"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "ya bilenga"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "mpe ya divai"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mabelo"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ya mokei"
+    },
+    {
+      "surface": "וכרמים",
+      "gloss": "mpe ya bilanga ya divai"
+    }
+  ],
+  "timestamp": "2026-09-03T23:25:41.663406604Z",
+  "model": "glm-5.3"
+}

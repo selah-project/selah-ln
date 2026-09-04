@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 4:14",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe Meonotai abotaki ⟨את⟩ Ofra; mpe Sraya abotaki ⟨את⟩ Yoav, tata ya Gei Harashim, mpo bankiti ya misala bazalaki.",
+  "tokens": [
+    {
+      "surface": "ומעונתי",
+      "gloss": "Mpe Meonotai"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "abotaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ofra"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "Ofra"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "mpe Sraya"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "abotaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoav"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tata ya"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "Gei"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "Harashim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "bankiti ya misala"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bazalaki"
+    }
+  ],
+  "timestamp": "2026-09-03T22:42:00.527907255Z",
+  "model": "glm-5.3"
+}

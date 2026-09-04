@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 17:6",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 17,
+  "translation": "Mpe nakobotisa ⟨את⟩ yo ebele penene, mpe nakoti yo ⟨mpo na kozala⟩ bikolo, mpe bakonzi bakobima kowuta na yo.",
+  "tokens": [
+    {
+      "surface": "והפרתי",
+      "gloss": "mpe nakobotisa"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ yo",
+      "marks": "yo"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "ebele"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "penene"
+    },
+    {
+      "surface": "ונתתיך",
+      "gloss": "mpe nakoti yo"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "mpo na bikolo"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "mpe bakonzi"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "kowuta na yo"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "bakobima"
+    }
+  ],
+  "timestamp": "2026-09-03T23:12:12.479419170Z",
+  "model": "glm-5.3"
+}

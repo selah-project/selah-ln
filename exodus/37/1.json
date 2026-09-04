@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 37:1",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 37,
+  "translation": "Mpe Betsalel asalaki ⟨את⟩ sanduku na bwaku ya shitim; mikito mibale mpe ndambo molayi na yango, mpe mokito mpe ndambo mokenge na yango, mpe mokito mpe ndambo likolo na yango.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Mpe asalaki"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betsalel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduku"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "sanduku"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "bwaku"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ya shitim"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "mikito mibale"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "mpe ndambo"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "molayi na yango"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "mpe mokito"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "mpe ndambo"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "mokenge na yango"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "mpe mokito"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "mpe ndambo"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "likolo na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:36:19.961682499Z",
+  "model": "glm-5.3"
+}

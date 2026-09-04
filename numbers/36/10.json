@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 36:10",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 36,
+  "translation": "Lokola Yawe atindaki ⟨את⟩ Moshe, bongo basalaki bana mwasi ya Tselafhad.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Lokola"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "atindaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bongo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "basalaki bongo"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "bana mwasi ya"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "Tselafhad"
+    }
+  ],
+  "timestamp": "2026-09-03T17:22:34.927338614Z",
+  "model": "glm-5.3"
+}

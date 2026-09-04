@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 1:3",
+  "book": "hosea",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Ami akendaki mpe akambi ⟨את⟩ Gomer mwana ya Diblayim, mpe amibaki mpe abotaki na ye mwana.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Ami akendaki"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "mpe akambi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gomer"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomer"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana ya"
+    },
+    {
+      "surface": "דבלים",
+      "gloss": "Diblayim"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "mpe amibaki"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "mpe abotaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    }
+  ],
+  "timestamp": "2026-09-03T20:38:31.582580044Z",
+  "model": "glm-5.3"
+}

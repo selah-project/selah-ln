@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 9:3",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Mpe na Yerushalaim bafandaki kati ya bana ya Yehuda, kati ya bana ya Binyamin, mpe kati ya bana ya Efrayim mpe ya Menashe.",
+  "tokens": [
+    {
+      "surface": "ובירושלם",
+      "gloss": "Mpe na Yerushalaim"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "bafandaki"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kati ya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "mpe kati ya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ya"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binyamin"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "mpe kati ya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ya"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "mpe ya Menashe"
+    }
+  ],
+  "timestamp": "2026-09-03T22:44:39.455226808Z",
+  "model": "glm-5.3"
+}

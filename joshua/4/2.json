@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 4:2",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Bwaka bino kati ya bato zomi na ⟨na⟩ mibale, moto moko, moto moko uta na libota,",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "Bwaka"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bino"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kati ya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "zomi"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "⟨bato⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "moko"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "moko"
+    },
+    {
+      "surface": "משבט",
+      "gloss": "uta na libota"
+    }
+  ],
+  "timestamp": "2026-09-03T17:44:16.183129408Z",
+  "model": "glm-5.3"
+}

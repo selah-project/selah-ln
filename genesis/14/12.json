@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 14:12",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Mpe bakundaki ⟨את⟩ Lot mpe ⟨את⟩ bomengo na ye, mwana ya ndeko ya Avram, mpe balekaki; mpe ye azalaki kofanda na Sodom.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "mpe bakundaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bomengo na ye"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "bomengo na ye"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ya ndeko"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "ya Avram"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "mpe balekaki"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "mpe ye"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "azalaki kofanda"
+    },
+    {
+      "surface": "בסדם",
+      "gloss": "na Sodom"
+    }
+  ],
+  "timestamp": "2026-09-03T15:49:39.995498627Z",
+  "model": "glm-5.3"
+}

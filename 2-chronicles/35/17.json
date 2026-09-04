@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 35:17",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 35,
+  "translation": "Mpe bana ya Israel oyo bazalaki kuna basalaki ⟨את⟩ Pesah na ntango wana, mpe ⟨את⟩ fete ya matomba, miku sambo.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "mpe basalaki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "oyo bazalaki kuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pesah"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesah"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "na ntango"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "wana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "fete ya matomba"
+    },
+    {
+      "surface": "חג",
+      "gloss": "fete"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "ya matomba"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sambo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "miku"
+    }
+  ],
+  "timestamp": "2026-09-03T23:09:44.826588046Z",
+  "model": "glm-5.3"
+}

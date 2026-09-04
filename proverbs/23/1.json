@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 23:1",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Soki ozali kofanda kolia ⟨את⟩ mokonzi, dinga ndenge ya solo ⟨את⟩ oyo ezali liboso na yo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Soki"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "ozali kofanda"
+    },
+    {
+      "surface": "ללחום",
+      "gloss": "kolia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mokonzi"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "בין",
+      "gloss": "dinga"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "ndenge ya solo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oyo ezali liboso na yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "liboso na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T23:36:14.372645603Z",
+  "model": "glm-5.3"
+}

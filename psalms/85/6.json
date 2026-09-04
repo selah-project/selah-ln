@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 85:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 85,
+  "translation": "Okokanisa mpongi na yo likolo na biso ntango ya seko? Okotandá mpongi na yo kino na mibota mpe mibota?",
+  "tokens": [
+    {
+      "surface": "הלעולם",
+      "gloss": "ntango ya seko"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "Okokanisa mpongi na yo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "likolo na biso"
+    },
+    {
+      "surface": "תמשך",
+      "gloss": "Okotandá"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "mpongi na yo"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "kino na mibota"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "mpe mibota"
+    }
+  ],
+  "timestamp": "2026-09-03T21:22:08.591615899Z",
+  "model": "glm-5.3"
+}

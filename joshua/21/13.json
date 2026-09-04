@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 21:13",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Mpe epai ya bana ya Aharon, kohen, bapesaki ⟨את⟩ mboka ya bobombi mpo na mobomi, ⟨את⟩ Hevron na ⟨את⟩ bipembe na yango, mpe ⟨את⟩ Livna na ⟨את⟩ bipembe na yango.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "Mpe epai ya bana"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "bapesaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mboka"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mboka"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "ya bobombi"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "mpo na mobomi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "bipembe na yango"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "bipembe na yango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Livna"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Livna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na ⟨את⟩",
+      "marks": "bipembe na yango"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "bipembe na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T17:53:02.880955081Z",
+  "model": "glm-5.3"
+}

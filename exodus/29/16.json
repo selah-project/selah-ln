@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 29:16",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 29,
+  "translation": "Mpe okoboma ⟨את⟩ beli, mpe okozwa ⟨את⟩ makila na ye, mpe obwaka yango na oteli na zingazinga.",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "mpe okoboma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "beli"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "beli"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "mpe okozwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makila na ye"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "makila na ye"
+    },
+    {
+      "surface": "וזרקת",
+      "gloss": "mpe obwaka"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "oteli"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "na zingazinga"
+    }
+  ],
+  "timestamp": "2026-09-03T23:14:11.874964725Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 15:21",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 15,
+  "translation": "Mpe esalemaki ntango Baasha ayoki yango, atikaki kolama Ramah, mpe afandaki na Tirtzah.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mpe esalemaki"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "ntango ayoki yango"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "atikaki"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "kolama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ramah"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Ramah"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "mpe afandaki"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "na Tirtzah"
+    }
+  ],
+  "timestamp": "2026-09-03T18:53:58.798718512Z",
+  "model": "glm-5.3"
+}

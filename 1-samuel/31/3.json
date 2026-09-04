@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 31:3",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 31,
+  "translation": "Mpe etumba ekomi nzito epai ya Shaul, mpe bati-uta bato na uta bazuaki ye, mpe atungaki mingi na bati-uta.",
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "mpe ekomi nzito"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "etumba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "וימצאהו",
+      "gloss": "mpe bazuaki ye"
+    },
+    {
+      "surface": "המורים",
+      "gloss": "bati-uta"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "bato"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "na uta"
+    },
+    {
+      "surface": "ויחל",
+      "gloss": "mpe atungaki"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mingi"
+    },
+    {
+      "surface": "מהמורים",
+      "gloss": "na bati-uta"
+    }
+  ],
+  "timestamp": "2026-09-03T18:26:20.886240386Z",
+  "model": "glm-5.3"
+}

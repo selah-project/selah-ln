@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 54:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 54,
+  "translation": "Tala, Elohim azali mosalisi na ngai; Adonai ⟨azali⟩ na bayo basimbaka molimo na ngai.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Tala"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "azali mosalisi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "בסמכי",
+      "gloss": "na bayo basimbaka"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "molimo na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:13:52.243563465Z",
+  "model": "glm-5.3"
+}

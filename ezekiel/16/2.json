@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 16:2",
+  "book": "ezekiel",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Mwana ya moto, basa ⟨את⟩ Yerushalaim oyeba ⟨את⟩ maboya na yango;",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Mwana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ya moto"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "basa ... oyeba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalaim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maboya na yango"
+    },
+    {
+      "surface": "תועבתיה",
+      "gloss": "maboya na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T20:16:26.803773424Z",
+  "model": "glm-5.3"
+}

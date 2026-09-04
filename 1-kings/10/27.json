@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 10:27",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Mpe mokonzi atyaki ⟨את⟩ finda na Yerushalaim lokola mabanga, mpe ⟨את⟩ baarez atyaki lokola bishikomor oyo ezali na esika ya se, mingi mingi.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Mpe atyaki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "finda"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "finda"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "na Yerushalaim"
+    },
+    {
+      "surface": "כאבנים",
+      "gloss": "lokola mabanga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "baarez"
+    },
+    {
+      "surface": "הארזים",
+      "gloss": "baarez"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "atyaki"
+    },
+    {
+      "surface": "כשקמים",
+      "gloss": "lokola bishikomor"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo ezali"
+    },
+    {
+      "surface": "בשפלה",
+      "gloss": "na esika ya se"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "mingi mingi"
+    }
+  ],
+  "timestamp": "2026-09-03T18:48:54.548454789Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 8:11",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Bokebela yo, mpo ete okobosana ⟨את⟩ Yawe Elohim ya yo te, mpo te kobatela mibeko na ye mpe malako na ye mpe mikanda na ye, oyo nazali kopesa yo lelo.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "Bokebela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yo"
+    },
+    {
+      "surface": "פן",
+      "gloss": "mpo ete ... te"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "okobosana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ya yo"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "mpo te"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "kobatela"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "mibeko na ye"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "mpe malako na ye"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "mpe mikanda na ye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "nazali kopesa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lelo"
+    }
+  ],
+  "timestamp": "2026-09-03T17:27:04.031259152Z",
+  "model": "glm-5.3"
+}

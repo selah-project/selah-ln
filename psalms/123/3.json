@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 123:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 123,
+  "translation": "Salisa biso ngolu, Yawe, salisa biso ngolu, mpo ete mingi tosati bopayi.",
+  "tokens": [
+    {
+      "surface": "חננו",
+      "gloss": "Salisa biso ngolu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "salisa biso ngolu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mingi"
+    },
+    {
+      "surface": "שבענו",
+      "gloss": "tosati"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "bopayi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:34:04.490773773Z",
+  "model": "glm-5.3"
+}

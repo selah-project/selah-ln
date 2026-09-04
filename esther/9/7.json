@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 9:7",
+  "book": "esther",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "mpe ⟨את⟩ Parshandata, mpe ⟨את⟩ Dalpon, mpe ⟨את⟩ Aspata",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Parshandata"
+    },
+    {
+      "surface": "פרשנדתא",
+      "gloss": "Parshandata"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Dalpon"
+    },
+    {
+      "surface": "דלפון",
+      "gloss": "Dalpon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Aspata"
+    },
+    {
+      "surface": "אספתא",
+      "gloss": "Aspata"
+    }
+  ],
+  "timestamp": "2026-09-03T23:38:41.639017660Z",
+  "model": "glm-5.3"
+}

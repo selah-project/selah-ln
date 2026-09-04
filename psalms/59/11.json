@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 59:11",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 59,
+  "translation": "Elohim wa hesed na ngai akomelaka ngai liboso; Elohim akomonisa ngai banguna na ngai.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "wa hesed na ngai"
+    },
+    {
+      "surface": "יקדמני",
+      "gloss": "akomelaka ngai liboso"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "akomonisa ngai"
+    },
+    {
+      "surface": "בשררי",
+      "gloss": "banguna na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:14:54.678983035Z",
+  "model": "glm-5.3"
+}

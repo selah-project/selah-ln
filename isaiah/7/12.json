@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 7:12",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mpe Ahaz alobaki: Nakosenga te, mpe nakomeka te ⟨את⟩ Yawe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe Ahaz alobaki"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahaz"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "אשאל",
+      "gloss": "Nakosenga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe nakomeka"
+    },
+    {
+      "surface": "אנסה",
+      "gloss": "nakomeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T19:14:08.604025323Z",
+  "model": "glm-5.3"
+}

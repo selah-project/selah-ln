@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 3:3",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "mokonzi ya bato ntuku mitano, mpe moto ya lokumu, mpe mopesi-ndimbola, mpe moyebi ya basali ya misala ya maboko, mpe oyo ayebi makuwa,",
+  "tokens": [
+    {
+      "surface": "שר",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ya bato ntuku mitano"
+    },
+    {
+      "surface": "ונשוא",
+      "gloss": "mpe moto"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ya lokumu"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "mpe mopesi-ndimbola"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "mpe moyebi"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "ya basali ya misala ya maboko"
+    },
+    {
+      "surface": "ונבון",
+      "gloss": "mpe oyo ayebi"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "makuwa"
+    }
+  ],
+  "timestamp": "2026-09-03T19:13:50.684256075Z",
+  "model": "glm-5.3"
+}

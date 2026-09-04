@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 88:16",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 88,
+  "translation": "Nasemi mpe nakufaka uta na elenge; nasalaki zongo ya yo; nazali kokweya.",
+  "tokens": [
+    {
+      "surface": "עני",
+      "gloss": "nasemi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "וגוע",
+      "gloss": "mpe nakufaka"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "uta na elenge"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "nasalaki"
+    },
+    {
+      "surface": "אמיך",
+      "gloss": "zongo ya yo"
+    },
+    {
+      "surface": "אפונה",
+      "gloss": "nazali kokweya"
+    }
+  ],
+  "timestamp": "2026-09-03T21:22:24.723711096Z",
+  "model": "glm-5.3"
+}

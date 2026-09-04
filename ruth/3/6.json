@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ruth 3:6",
+  "book": "ruth",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe akotaki na esika ya kobuna, mpe asalaki bolongo na nionso oyo mama ya mobali na ye atindaki ye.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "akitaki"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "na esika ya kobuna"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "Mpe asalaki"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "bolongo na nionso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "צותה",
+      "gloss": "atindaki ye"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "mama ya mobali na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T22:08:31.698073438Z",
+  "model": "glm-5.3"
+}

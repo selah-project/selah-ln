@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 26:8",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "Mpe mitano kati na bino balanda nkama moko, mpe nkama moko kati na bino balanda motuke zomi; mpe banzwi na bino bakweya liboso ya bino na nkonde.",
+  "tokens": [
+    {
+      "surface": "ורדפו",
+      "gloss": "mpe balanda"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "kati na bino"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "mitano"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "nkama moko"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "mpe nkama moko"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "kati na bino"
+    },
+    {
+      "surface": "רבבה",
+      "gloss": "motuke zomi"
+    },
+    {
+      "surface": "ירדפו",
+      "gloss": "balanda"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "mpe bakweya"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "banzwi na bino"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "liboso ya bino"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "na nkonde"
+    }
+  ],
+  "timestamp": "2026-09-03T23:15:05.001044368Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 69:20",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 69,
+  "translation": "Yo, oyebi lotomo na ngai mpe maloya na ngai mpe manyola na ngai; liboso na yo, banguna na ngai nyonso.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Yo"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "oyebi"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "lotomo na ngai"
+    },
+    {
+      "surface": "ובשתי",
+      "gloss": "mpe maloya na ngai"
+    },
+    {
+      "surface": "וכלמתי",
+      "gloss": "mpe manyola na ngai"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "liboso na yo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "banguna na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:17:15.448152995Z",
+  "model": "glm-5.3"
+}

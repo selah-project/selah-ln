@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 33:21",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 33,
+  "translation": "Mpo na yango, na yè motema na biso esepelaka, mpo na nkombo na ye ya santu tomipesaki.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo na yango"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na yè"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "esepelaka"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "motema na biso"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "na nkombo"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ya santu na ye"
+    },
+    {
+      "surface": "בטחנו",
+      "gloss": "tomipesaki"
+    }
+  ],
+  "timestamp": "2026-09-03T21:07:40.205392319Z",
+  "model": "glm-5.3"
+}

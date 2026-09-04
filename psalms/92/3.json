@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 92:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 92,
+  "translation": "Kolakisa hesed na yo (bolingo ya bondimi) na tongo, mpe bosembo na yo na butu.",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "Kolakisa"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "na tongo"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed na yo"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "mpe bosembo na yo"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "na butu"
+    }
+  ],
+  "timestamp": "2026-09-03T21:24:27.762503518Z",
+  "model": "glm-5.3"
+}

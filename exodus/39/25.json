@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 39:25",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 39,
+  "translation": "Mpe bakelaki bilokola bya wolo ya mongongo, mpe batyaki ⟨את⟩ bilokola kati na barimone, likolo ya nse ya meili, zingazinga, kati na barimone.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "mpe bakelaki"
+    },
+    {
+      "surface": "פעמני",
+      "gloss": "bilokola"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "wolo"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ya mongongo"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "mpe batyaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bilokola"
+    },
+    {
+      "surface": "הפעמנים",
+      "gloss": "bilokola"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "kati na"
+    },
+    {
+      "surface": "הרמנים",
+      "gloss": "barimone"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "שולי",
+      "gloss": "nse"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "meili"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "zingazinga"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "kati na"
+    },
+    {
+      "surface": "הרמנים",
+      "gloss": "barimone"
+    }
+  ],
+  "timestamp": "2026-09-03T16:38:40.300687386Z",
+  "model": "glm-5.3"
+}

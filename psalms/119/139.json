@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 139,
+  "ref": "psalms 119:139",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Kanda na ngai esilisaki ngai, jako banguna na ngai babosanaki maloba na yo.",
+  "tokens": [
+    {
+      "surface": "צמתתני",
+      "gloss": "esilisaki ngai"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "kanda na ngai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "jako"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "babosanaki"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "maloba na yo"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "banguna na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:32:26.815956015Z",
+  "model": "glm-5.3"
+}

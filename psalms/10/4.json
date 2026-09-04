@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 10:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Mabe, na bokeisi ya elongi na yango, ayanelaka te; azali te Elohim — makanisi na yango nyonso.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "Mabe"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "na bokeisi ya"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "elongi na yango"
+    },
+    {
+      "surface": "בל",
+      "gloss": "te"
+    },
+    {
+      "surface": "ידרש",
+      "gloss": "ayanelaka"
+    },
+    {
+      "surface": "אין",
+      "gloss": "azali te"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "מזמותיו",
+      "gloss": "makanisi na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:02:45.169663194Z",
+  "model": "glm-5.3"
+}

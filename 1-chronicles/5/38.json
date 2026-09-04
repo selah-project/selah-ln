@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 5:38",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Mpe Achitub abotaki ⟨את⟩ Tsadok, mpe Tsadok abotaki ⟨את⟩ Shallum.",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "Mpe Achitub"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "abotaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsadok"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadok"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "mpe Tsadok"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "abotaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shallum"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Shallum"
+    }
+  ],
+  "timestamp": "2026-09-03T22:41:07.973246089Z",
+  "model": "glm-5.3"
+}

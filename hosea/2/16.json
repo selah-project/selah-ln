@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "hosea 2:16",
+  "book": "hosea",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Lokasa, tala: ngai nakolingi yango na bobai, mpe nakomemaka yango na esobe, mpe nakoloba na motema na yango.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Lokasa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tala"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "מפתיה",
+      "gloss": "nakolingi-yango-na-bobai"
+    },
+    {
+      "surface": "והלכתיה",
+      "gloss": "mpe-nakomemaka-yango"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "na-esobe"
+    },
+    {
+      "surface": "ודברתי",
+      "gloss": "mpe-nakoloba"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "לבה",
+      "gloss": "motema-na-yango"
+    }
+  ],
+  "timestamp": "2026-09-03T20:38:07.275768942Z",
+  "model": "glm-5.3"
+}

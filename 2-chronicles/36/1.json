@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 36:1",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 36,
+  "translation": "Mpe bato ⟨ya⟩ mabele bazwaki ⟨את⟩ Yehoachaz mwana ya Yoshiahu, mpe batiyaki ye bokonzi na esika ya tata na ye na Yerushalaim.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "bazwaki"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoachaz"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoachaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yoshiahu"
+    },
+    {
+      "surface": "וימליכהו",
+      "gloss": "batiyaki ye bokonzi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "na esika ya"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "tata na ye"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "na Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-09-03T23:10:30.578692427Z",
+  "model": "glm-5.3"
+}

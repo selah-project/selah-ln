@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 22:8",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Mpe esalemaki, ntango Yehu azalaki kosala etumbu na ndako ya Ahab, amonaki ⟨את⟩ bankulu ya Yuda mpe bana ya bandeko ya Ahaziahu, bawei ya Ahaziahu, mpe abomaki bango.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mpe esalemaki"
+    },
+    {
+      "surface": "כהשפט",
+      "gloss": "kosala etumbu"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "mpe amonaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bankulu ya Yuda"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "bankulu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ya Yuda"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "mpe bana"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ya bandeko"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Ahaziahu"
+    },
+    {
+      "surface": "משרתים",
+      "gloss": "bawei"
+    },
+    {
+      "surface": "לאחזיהו",
+      "gloss": "ya Ahaziahu"
+    },
+    {
+      "surface": "ויהרגם",
+      "gloss": "mpe abomaki bango"
+    }
+  ],
+  "timestamp": "2026-09-03T23:03:52.693619610Z",
+  "model": "glm-5.3"
+}

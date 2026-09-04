@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 3:20",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Bimpo ya motó, mpe bikuku ya makolo, mpe bikangisi, mpe bandako ya molimo, mpe bikuki.",
+  "tokens": [
+    {
+      "surface": "הפארים",
+      "gloss": "Bimpo ya motó"
+    },
+    {
+      "surface": "והצעדות",
+      "gloss": "mpe bikuku ya makolo"
+    },
+    {
+      "surface": "והקשרים",
+      "gloss": "mpe bikangisi"
+    },
+    {
+      "surface": "ובתי",
+      "gloss": "mpe bandako"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "ya molimo"
+    },
+    {
+      "surface": "והלחשים",
+      "gloss": "mpe bikuki"
+    }
+  ],
+  "timestamp": "2026-09-03T19:14:17.881927460Z",
+  "model": "glm-5.3"
+}

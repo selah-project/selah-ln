@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 31:16",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 31,
+  "translation": "Na maboko ya yo ntango na ngai ⟨ezali⟩; longola ngai na maboko ya banguna na ngai mpe na bandi na ngai.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "Na maboko ya yo"
+    },
+    {
+      "surface": "עתתי",
+      "gloss": "ntango na ngai"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "longola ngai"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "na maboko ya"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "banguna na ngai"
+    },
+    {
+      "surface": "ומרדפי",
+      "gloss": "mpe na bandi na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:06:41.798618903Z",
+  "model": "glm-5.3"
+}

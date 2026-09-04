@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 12:1",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Mpe Rehavam akeaki na Shekema, mpo na Shekema Israel nyonso eyaki mpo na kometya ⟨את⟩ ye mokonzi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Mpe akeaki"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehavam"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "na Shekema"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekema"
+    },
+    {
+      "surface": "בא",
+      "gloss": "eyaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "mpo na kometya mokonzi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ye (Rehavam)"
+    }
+  ],
+  "timestamp": "2026-09-03T18:51:39.783977179Z",
+  "model": "glm-5.3"
+}

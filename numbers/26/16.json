@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 26:16",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "Ya Ozni, libota ya baya Ozni; ya Eri, libota ya baya Eri.",
+  "tokens": [
+    {
+      "surface": "לאזני",
+      "gloss": "ya Ozni"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "libota"
+    },
+    {
+      "surface": "האזני",
+      "gloss": "baya Ozni"
+    },
+    {
+      "surface": "לעירי",
+      "gloss": "ya Eri"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "libota"
+    },
+    {
+      "surface": "העירי",
+      "gloss": "baya Eri"
+    }
+  ],
+  "timestamp": "2026-09-03T17:15:20.380017091Z",
+  "model": "glm-5.3"
+}

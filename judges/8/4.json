@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 8:4",
+  "book": "judges",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Gideon ayeaki na Yarden, akatisaki, ye mpe nkama misato ya bato oyo bazalaki ⟨את⟩ na ye, bazangi nguya kasi bazalaki kolanda.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ayeaki"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gideon"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "na Yarden"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "akatisaki"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ye"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "mpe misato"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "nkama"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ya bato"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ na ye",
+      "marks": "na ye"
+    },
+    {
+      "surface": "עיפים",
+      "gloss": "bazangi nguya"
+    },
+    {
+      "surface": "ורדפים",
+      "gloss": "mpe bazalaki kolanda"
+    }
+  ],
+  "timestamp": "2026-09-03T18:00:45.834110748Z",
+  "model": "glm-5.3"
+}

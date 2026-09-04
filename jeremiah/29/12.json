@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 29:12",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 29,
+  "translation": "Mpe bokobenga ⟨את⟩ ngai, mpe bokokende, mpe bokosambela epai na ngai, mpe nakoyoka bino.",
+  "tokens": [
+    {
+      "surface": "וקראתם",
+      "gloss": "mpe bokobenga"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ngai",
+      "marks": "ngai"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "mpe bokokende"
+    },
+    {
+      "surface": "והתפללתם",
+      "gloss": "mpe bokosambela"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "epai na ngai"
+    },
+    {
+      "surface": "ושמעתי",
+      "gloss": "mpe nakoyoka"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "bino"
+    }
+  ],
+  "timestamp": "2026-09-03T19:55:40.538675740Z",
+  "model": "glm-5.3"
+}

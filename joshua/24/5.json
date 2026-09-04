@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 24:5",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "Mpe natindaki ⟨את⟩ Moshe mpe ⟨את⟩ Aharon, mpe nazuaki ⟨את⟩ Mitsraim, ndenge nasalaki kati na yango, mpe na nsima nabimisaki ⟨את⟩ bino.",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "natindaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואגף",
+      "gloss": "mpe nazuaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsraim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ndenge"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "nasalaki"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "kati na yango"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "mpe na nsima"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "nabimisaki"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ bino"
+    }
+  ],
+  "timestamp": "2026-09-03T17:55:04.794894949Z",
+  "model": "glm-5.3"
+}

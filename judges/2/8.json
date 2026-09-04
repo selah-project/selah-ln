@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 2:8",
+  "book": "judges",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe Yehoshua mwana wa Nun, mosali ya Yawe, akufaki, na mbula nkama mpe zomi.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Mpe akufaki"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Nun"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "mosali"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yawe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "na mbula"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "nkama"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "mpe zomi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-03T23:19:50.939216320Z",
+  "model": "glm-5.3"
+}

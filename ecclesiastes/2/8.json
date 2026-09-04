@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 2:8",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Nakusaki mpe na ngai mbongo mpe dota, mpe bobombi ya bakonzi mpe ya bikonzi; nasalaki na ngai bayembi mibali mpe bayembi basi, mpe bosei ya bana ya moto, mwasi mpe basi.",
+  "tokens": [
+    {
+      "surface": "כנסתי",
+      "gloss": "nakusaki"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "mbongo"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "mpe dota"
+    },
+    {
+      "surface": "וסגלת",
+      "gloss": "mpe bobombi"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "ya bakonzi"
+    },
+    {
+      "surface": "והמדינות",
+      "gloss": "mpe ya bikonzi"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "nasalaki"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "bayembi mibali"
+    },
+    {
+      "surface": "ושרות",
+      "gloss": "mpe bayembi basi"
+    },
+    {
+      "surface": "ותענוגת",
+      "gloss": "mpe bosei"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ya bana"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ya moto"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "mwasi"
+    },
+    {
+      "surface": "ושדות",
+      "gloss": "mpe basi"
+    }
+  ],
+  "timestamp": "2026-09-03T22:13:36.805538395Z",
+  "model": "glm-5.3"
+}

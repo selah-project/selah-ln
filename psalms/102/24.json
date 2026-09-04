@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 102:24",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 102,
+  "translation": "⟨Ye⟩ akitisaki nguya na ngai na nzela; ⟨ye⟩ akotesaki mikolo ya ngai.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "⟨Ye⟩ akitisaki"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "na nzela"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "nguya na ngai"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "⟨ye⟩ akotesaki"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mikolo ya ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:25:37.772137489Z",
+  "model": "glm-5.3"
+}

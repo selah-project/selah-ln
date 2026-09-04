@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 41:4",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 41,
+  "translation": "Mpe esalamaki na mokolo ya mibale, ya koboma ⟨את⟩ Gedalyahu, mpe moto te ayebaki yango.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mpe esalamaki"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na mokolo"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ya mibale"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "ya koboma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gedalyahu"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "Gedalyahu"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "mpe moto"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ayebaki"
+    }
+  ],
+  "timestamp": "2026-09-03T20:02:05.502970662Z",
+  "model": "glm-5.3"
+}

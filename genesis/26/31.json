@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 26:31",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "Ba levelaki noki na tongo, mpe ba betaki ndunga moto na ndeko na ye, mpe Yitshak atindaki ⟨את⟩ bango, mpe bakendaki na ⟨את⟩ yango na kimya.",
+  "tokens": [
+    {
+      "surface": "וישכימו",
+      "gloss": "ba levelaki noki"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "na tongo"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "mpe ba betaki ndunga"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "na ndeko na ye"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "mpe atindaki bango"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshak"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "mpe bakendaki"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "na ⟨את⟩ yango",
+      "marks": "bango (Yitshak)"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "na kimya"
+    }
+  ],
+  "timestamp": "2026-09-04T00:29:01.781340694Z",
+  "model": "glm-5.3"
+}

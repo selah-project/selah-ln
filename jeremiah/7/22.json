@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 7:22",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mpo na mokolo oyo nabimisaki ⟨את⟩ bango na esika Mitsraim, nalobaki te na ⟨את⟩ baboti na bino, mpe natesaki bango te, likolo ya makomi ya mbeka ya kokaka mpe ya mbeka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "nalobaki te"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baboti na bino"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "baboti na bino"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "צויתים",
+      "gloss": "natesaki bango te"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na mokolo"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "oyo nabimisaki"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ bango"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "na esika"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "makomi"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ya mbeka ya kokaka"
+    },
+    {
+      "surface": "וזבח",
+      "gloss": "mpe ya mbeka"
+    }
+  ],
+  "timestamp": "2026-09-03T19:45:58.745599267Z",
+  "model": "glm-5.3"
+}

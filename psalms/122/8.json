@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 122:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 122,
+  "translation": "Mpo na bandeko na ngai mpe banokoki na ngai, nadekola ⟨na⟩ botuya na yo.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Mpo na"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "bandeko na ngai"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "mpe banokoki na ngai"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "nadekola"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨na⟩"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "botuya"
+    },
+    {
+      "surface": "בך",
+      "gloss": "na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:33:42.342663591Z",
+  "model": "glm-5.3"
+}

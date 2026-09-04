@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 39:8",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 39,
+  "translation": "Mpe asalaki ⟨את⟩ Hoshen, mosala ya mokoki, lokola mosala ya efode: ya Zahav, Tekhelet, mpe Argaman, mpe Tolaat Shani, mpe Shesh Mozar.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Mpe asalaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hoshen"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "Hoshen"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "mosala ya"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "mokoki"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "lokola mosala ya"
+    },
+    {
+      "surface": "אפד",
+      "gloss": "efode"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "Zahav"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "Tekhelet"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "mpe Argaman"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "mpe Tolaat"
+    },
+    {
+      "surface": "שני",
+      "gloss": "Shani"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "mpe Shesh"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "Mozar"
+    }
+  ],
+  "timestamp": "2026-09-03T16:37:26.305224163Z",
+  "model": "glm-5.3"
+}

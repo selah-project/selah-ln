@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 11:8",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpe Yawe abwanisaki ⟨את⟩ bango wana, na likolo ya nsima ya mabele mobimba, mpe batikaki kosala engumba.",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "abwanisaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bango",
+      "marks": "bango"
+    },
+    {
+      "surface": "משם",
+      "gloss": "wana"
+    },
+    {
+      "surface": "על",
+      "gloss": "na likolo ya"
+    },
+    {
+      "surface": "פני",
+      "gloss": "nsima ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mobimba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "ויחדלו",
+      "gloss": "batikaki"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "kosala"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "engumba"
+    }
+  ],
+  "timestamp": "2026-09-03T15:49:20.146133149Z",
+  "model": "glm-5.3"
+}

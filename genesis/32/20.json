@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 32:20",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 32,
+  "translation": "Mpe atindaki mpe ⟨את⟩ ya mibale, mpe ⟨את⟩ ya misato, mpe ⟨את⟩ nyonso baye bazali kokanda sima ya banyama, alobi: Liloba oyo nde bolobaka na Esav, tango bozui ⟨את⟩ ye.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "mpe atindaki"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ya mibale"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ya mibale"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ya misato"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ya misato"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyonso baye bazali kokanda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "baye bazali kokanda"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sima ya"
+    },
+    {
+      "surface": "העדרים",
+      "gloss": "banyama"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "koloba"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "lokola liloba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "bolobaka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "במצאכם",
+      "gloss": "tango bozui"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ye",
+      "marks": "Esav"
+    }
+  ],
+  "timestamp": "2026-09-03T23:13:21.829096657Z",
+  "model": "glm-5.3"
+}

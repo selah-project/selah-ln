@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 5:7",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Mpe David azwaki ⟨את⟩ eteke ya Tsion; yango nde mboka ya David.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "azwaki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eteke"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "eteke"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ya Tsion"
+    },
+    {
+      "surface": "היא",
+      "gloss": "yango nde"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mboka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ya David"
+    }
+  ],
+  "timestamp": "2026-09-03T18:30:50.635400891Z",
+  "model": "glm-5.3"
+}

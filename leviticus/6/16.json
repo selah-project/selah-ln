@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 6:16",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpe mincha ya kohen nyonso ezala mobimba; ekoliyama te.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "mpe nyonso"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "mincha ya"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "mobimba"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ezala"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ekoliyama"
+    }
+  ],
+  "timestamp": "2026-09-03T16:41:28.852601178Z",
+  "model": "glm-5.3"
+}

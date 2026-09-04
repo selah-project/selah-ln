@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 32:40",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 32,
+  "translation": "Mpe Moshe apesaki ⟨את⟩ Gilada na Makir mwana wa Menashe, mpe ⟨ye⟩ afandaki na yango.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Mpe apesaki"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gilada"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilada"
+    },
+    {
+      "surface": "למכיר",
+      "gloss": "na Makir"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "mpe afandaki"
+    },
+    {
+      "surface": "בה",
+      "gloss": "na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T17:18:59.206193722Z",
+  "model": "glm-5.3"
+}

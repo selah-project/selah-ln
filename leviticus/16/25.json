@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 16:25",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Mpe ⟨את⟩ mafuta ya mbizi ya masumu akotumba na mopesa na auta.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mafuta"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ya mbizi ya masumu"
+    },
+    {
+      "surface": "יקטיר",
+      "gloss": "akotumba na mopesa"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "na auta"
+    }
+  ],
+  "timestamp": "2026-09-03T16:51:06.423872498Z",
+  "model": "glm-5.3"
+}

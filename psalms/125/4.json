@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 125:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 125,
+  "translation": "Yawe, sala malamu epai ya baye bazali malamu, mpe epai ya bansembo na mitima na bango.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "sala malamu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לטובים",
+      "gloss": "epai ya baye bazali malamu"
+    },
+    {
+      "surface": "ולישרים",
+      "gloss": "mpe epai ya bansembo"
+    },
+    {
+      "surface": "בלבותם",
+      "gloss": "na mitima na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:33:55.175409206Z",
+  "model": "glm-5.3"
+}

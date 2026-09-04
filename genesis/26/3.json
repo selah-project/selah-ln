@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 26:3",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "Kofanda na mabele oyo, mpe nakozala na yo, mpe nakopesa yo bolamu; mpo na yo mpe na mbeka na yo nakopesa ⟨את⟩ mabele nyonso oyo; mpe nakotombola ⟨את⟩ lilaka oyo nalisaki na Avraham tata na yo.",
+  "tokens": [
+    {
+      "surface": "גור",
+      "gloss": "Kofanda"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "mpe nakozala"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "na yo"
+    },
+    {
+      "surface": "ואברכך",
+      "gloss": "mpe nakopesa yo bolamu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "na yo"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "mpe na mbeka na yo"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "nakopesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabele nyonso oyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "הארצת",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "האל",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "והקמתי",
+      "gloss": "mpe nakotombola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lilaka oyo"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "lilaka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "nalisaki"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "na Avraham"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tata na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T23:12:21.751583817Z",
+  "model": "glm-5.3"
+}

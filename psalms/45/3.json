@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 45:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 45,
+  "translation": "Ozali motonde koleka bana ya bato; ngolu etombokami na milonmo na yo; yango wana Elohim abekaki yo mpo seko.",
+  "tokens": [
+    {
+      "surface": "יפיפית",
+      "gloss": "Ozali motonde koleka"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "koleka bana ya"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "הוצק",
+      "gloss": "etombokami"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ngolu"
+    },
+    {
+      "surface": "בשפתותיך",
+      "gloss": "na milonmo na yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "yango wana (na ntina)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "yango wana"
+    },
+    {
+      "surface": "ברכך",
+      "gloss": "abekaki yo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mpo seko"
+    }
+  ],
+  "timestamp": "2026-09-03T21:12:14.604789608Z",
+  "model": "glm-5.3"
+}

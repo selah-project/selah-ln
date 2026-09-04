@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 11:43",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Boluka te kosala bino eloko mabe na nyonso ya kozingazinga oyo ezingazingaka, mpe boluka te kopwama na yango, mpo bokopwama na yango.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Boluka ... te"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "kosala bino eloko mabe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bomoi na bino"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "bomoi na bino"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na nyonso"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "ya kozingazinga"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "ozingazingaka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe ... te"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "bopwama"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "ונטמתם",
+      "gloss": "mpo bokopwama"
+    },
+    {
+      "surface": "בם",
+      "gloss": "na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:45:11.121480722Z",
+  "model": "glm-5.3"
+}

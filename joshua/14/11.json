@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 14:11",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Nakali naino makasi lelo, lokola na mokolo oyo Moshe atindaki ⟨את⟩ ngai; lokola nguya na ngai wana, mpe lokola nguya na ngai sikoyo, mpo na etumba, mpe mpo na kobimama mpe kokota.",
+  "tokens": [
+    {
+      "surface": "עודני",
+      "gloss": "Nakali naino"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lelo"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "makasi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "lokola"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na mokolo"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "atindaki"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ ngai",
+      "marks": "ngai (atindaki)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ככחי",
+      "gloss": "lokola nguya na ngai"
+    },
+    {
+      "surface": "אז",
+      "gloss": "wana"
+    },
+    {
+      "surface": "וככחי",
+      "gloss": "mpe lokola nguya na ngai"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "sikoyo"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "mpo na etumba"
+    },
+    {
+      "surface": "ולצאת",
+      "gloss": "mpe mpo na kobimama"
+    },
+    {
+      "surface": "ולבוא",
+      "gloss": "mpe mpo na kokota"
+    }
+  ],
+  "timestamp": "2026-09-03T17:49:38.263568826Z",
+  "model": "glm-5.3"
+}

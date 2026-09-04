@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 40:4",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 40,
+  "translation": "Mpe mokonzi ya babomi atyaki Yosef ⟨את⟩ elongo na bango, mpe asalaki ⟨את⟩ bango; mpe basalaki mikolo na bokangi.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "Mpe atyaki"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "ya babomi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ elongo na bango"
+    },
+    {
+      "surface": "וישרת",
+      "gloss": "mpe asalaki"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bango",
+      "marks": "bango"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "mpe basalaki"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mikolo"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "na bokangi"
+    }
+  ],
+  "timestamp": "2026-09-03T16:06:58.292573521Z",
+  "model": "glm-5.3"
+}

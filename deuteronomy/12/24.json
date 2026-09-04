@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 12:24",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Okolia yango te; okotombola yango na mabele lokola mai.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "okolia yango"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "okotombola yango"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "lokola mai"
+    }
+  ],
+  "timestamp": "2026-09-03T17:30:03.805841758Z",
+  "model": "glm-5.3"
+}

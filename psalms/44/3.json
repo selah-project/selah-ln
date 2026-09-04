@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 44:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 44,
+  "translation": "Yo, na loboko na yo owebilaki bikolo mpe otondi bango; onalisaki bato mpe otindaki bango ⟨bapela⟩.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Yo"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "na loboko na yo"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bikolo"
+    },
+    {
+      "surface": "הורשת",
+      "gloss": "owebilaki"
+    },
+    {
+      "surface": "ותטעם",
+      "gloss": "mpe otondi bango"
+    },
+    {
+      "surface": "תרע",
+      "gloss": "onalisaki"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "bato"
+    },
+    {
+      "surface": "ותשלחם",
+      "gloss": "mpe otindaki bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:10:59.289782752Z",
+  "model": "glm-5.3"
+}

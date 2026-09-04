@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 9:4",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Mpe Yawe akabola kati na banyama ya Israel mpe banyama ya Mitsraim; mpe ata eloko moko te ya bana ya Israel ekokufa.",
+  "tokens": [
+    {
+      "surface": "והפלה",
+      "gloss": "akabola"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בין",
+      "gloss": "kati na"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "banyama"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "mpe kati na"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "banyama"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Mitsraim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe ... te"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ekokufa"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ata eloko moko"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ya bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "te"
+    }
+  ],
+  "timestamp": "2026-09-03T16:18:07.763617961Z",
+  "model": "glm-5.3"
+}

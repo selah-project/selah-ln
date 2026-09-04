@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 7:16",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mpe soki sarako ya opelisami na ye ezali elaka to bopesi ya bolingi, na mokolo oye apesaki ⟨את⟩ sarako na ye ekali koliama; mpe na mokolo oyo elandaki, oyo etikali na yango ekali koliama.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "mpe soki"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "elaka"
+    },
+    {
+      "surface": "או",
+      "gloss": "to"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "bopesi ya bolingi"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sarako"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "ya opelisami na ye"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na mokolo"
+    },
+    {
+      "surface": "הקריבו",
+      "gloss": "oye apesaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sarako na ye"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "sarako na ye"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ekali koliama"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "mpe na mokolo oyo elandaki"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "oyo etikali"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ekali koliama"
+    }
+  ],
+  "timestamp": "2026-09-03T16:41:38.356283664Z",
+  "model": "glm-5.3"
+}

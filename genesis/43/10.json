@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 43:10",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 43,
+  "translation": "Mpo soki totikaki kozela te, sikoyo tokozonga mbala ya mibeli.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "לולא",
+      "gloss": "soki ... te"
+    },
+    {
+      "surface": "התמהמהנו",
+      "gloss": "totikaki kozela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "sikoyo"
+    },
+    {
+      "surface": "עתה",
+      "gloss": ""
+    },
+    {
+      "surface": "שבנו",
+      "gloss": "tokozonga"
+    },
+    {
+      "surface": "זה",
+      "gloss": "mbala"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ya mibeli"
+    }
+  ],
+  "timestamp": "2026-09-03T16:08:38.350755239Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 26:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "Mpo hesed na yo ⟨ezali⟩ liboso ya miso na ngai, mpe nazali kotambola na bosembo na yo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed na yo"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "miso na ngai"
+    },
+    {
+      "surface": "והתהלכתי",
+      "gloss": "mpe nazali kotambola"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "na bosembo na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:06:50.823874877Z",
+  "model": "glm-5.3"
+}

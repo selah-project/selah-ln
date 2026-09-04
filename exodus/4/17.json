@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 4:17",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe ⟨את⟩ baton oyo ozwa na maboko na yo, oyo okosala na yango ⟨את⟩ bilembo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "baton"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "baton"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ozwa"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "na maboko na yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "okosala"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bilembo"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "bilembo"
+    }
+  ],
+  "timestamp": "2026-09-03T16:15:39.606993922Z",
+  "model": "glm-5.3"
+}

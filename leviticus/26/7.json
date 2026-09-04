@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 26:7",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "Bolanda bino ⟨את⟩ banzwi na bino, mpe bakweya liboso ya bino na nkonde.",
+  "tokens": [
+    {
+      "surface": "ורדפתם",
+      "gloss": "bolanda bino"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "banzwi na bino"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "banzwi na bino"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "mpe bakweya"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "liboso ya bino"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "na nkonde"
+    }
+  ],
+  "timestamp": "2026-09-03T23:15:05.000760159Z",
+  "model": "glm-5.3"
+}

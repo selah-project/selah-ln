@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 47:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 47,
+  "translation": "Akangaka bato na nse ya biso, mpe bikolo na nse ya mikolo na biso.",
+  "tokens": [
+    {
+      "surface": "ידבר",
+      "gloss": "Akangaka"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "bato"
+    },
+    {
+      "surface": "תחתינו",
+      "gloss": "na nse ya biso"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "mpe bikolo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "na nse"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "ya mikolo na biso"
+    }
+  ],
+  "timestamp": "2026-09-03T21:12:26.447051761Z",
+  "model": "glm-5.3"
+}

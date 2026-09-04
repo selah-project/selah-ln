@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 2:1",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe likolo na mabele esilaki, mpe tseba-ya-bango nyonso.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "esilaki"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "likolo"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "mpe mabele"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe nyonso"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "tseba-ya-bango"
+    }
+  ],
+  "timestamp": "2026-09-03T15:45:47.457780419Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 77,
+  "ref": "psalms 119:77",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Mabelo na yo ekoya epai na ngai, mpe nakovanda na bomoi, mpo Tora na yo ezali esengo na ngai.",
+  "tokens": [
+    {
+      "surface": "יבאוני",
+      "gloss": "ekoya epai na ngai"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "mabelo na yo"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "mpe nakovanda na bomoi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Tora na yo"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "esengo na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:32:37.089375747Z",
+  "model": "glm-5.3"
+}

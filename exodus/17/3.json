@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 17:3",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 17,
+  "translation": "Mpe bato bakanaki mai kuna, mpe bato bobolaki likolo ya Moshe, mpe balobaki: Mpo nini oyo obimisaki biso uta Mitsraim, mpo koboma ⟨את⟩ ngai mpe ⟨את⟩ bana na ngai mpe ⟨את⟩ bikolo na ngai na kozanga mai?",
+  "tokens": [
+    {
+      "surface": "ויצמא",
+      "gloss": "bakanaki mai"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "למים",
+      "gloss": "mpo na mai"
+    },
+    {
+      "surface": "וילן",
+      "gloss": "mpe bobolaki"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Mpo nini"
+    },
+    {
+      "surface": "זה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "העליתנו",
+      "gloss": "obimisaki biso"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "uta Mitsraim"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "mpo koboma"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ngai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bana na ngai"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana na ngai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bikolo na ngai"
+    },
+    {
+      "surface": "מקני",
+      "gloss": "bikolo na ngai"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "na kozanga mai"
+    }
+  ],
+  "timestamp": "2026-09-03T16:24:18.009809541Z",
+  "model": "glm-5.3"
+}

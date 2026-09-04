@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 31:17",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 31,
+  "translation": "Kati na ngai mpe kati na bana ya Israel, elembo yango ⟨ezali⟩ na libela; mpo ete na mikolo motoba Yawe asalaki ⟨את⟩ likolo mpe ⟨את⟩ mabele, mpe na mokolo ya nsambo ashabataki mpe apangwisaki.",
+  "tokens": [
+    {
+      "surface": "ביני",
+      "gloss": "kati na ngai"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "mpe kati na"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "אות",
+      "gloss": "elembo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yango ⟨ezali⟩"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "na libela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "motoba"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mikolo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "asalaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "likolo"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "likolo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mabele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "mpe na mokolo"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ya nsambo"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "ashabataki"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "mpe apangwisaki"
+    }
+  ],
+  "timestamp": "2026-09-03T16:32:39.540009786Z",
+  "model": "glm-5.3"
+}

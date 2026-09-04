@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 69:29",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 69,
+  "translation": "Basilasama na buku ya bomoi, mpe na bansumu bakomamaka ⟨te⟩-te kokomama.",
+  "tokens": [
+    {
+      "surface": "ימחו",
+      "gloss": "basilasama"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "na buku"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ya bomoi"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "mpe na"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "bansumu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "bakomamaka"
+    }
+  ],
+  "timestamp": "2026-09-03T21:17:34.246178287Z",
+  "model": "glm-5.3"
+}

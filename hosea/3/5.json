@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 3:5",
+  "book": "hosea",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Na nsima bana ya Israel bakozonga, mpe bakoluka ⟨את⟩ Yawe Elohim na bango, mpe ⟨את⟩ David mokonzi na bango, mpe bakotya bangama epai ya Yawe mpe epai ya bolamu na ye, na nsuka ya mikolo.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "Na nsima"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "bakozonga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "ובקשו",
+      "gloss": "mpe bakoluka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe Elohim na bango"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim na bango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "David mokonzi na bango"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "mokonzi na bango"
+    },
+    {
+      "surface": "ופחדו",
+      "gloss": "mpe bakotya bangama"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yawe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mpe epai"
+    },
+    {
+      "surface": "טובו",
+      "gloss": "ya bolamu na ye"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "na nsuka"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ya mikolo"
+    }
+  ],
+  "timestamp": "2026-09-03T20:36:23.938203990Z",
+  "model": "glm-5.3"
+}

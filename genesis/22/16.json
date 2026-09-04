@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 22:16",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Mpe alobaki: Na ngaï moko nasalaki lapano, Yawe alobi, mpo ete obaki likebi, osalaki ⟨את⟩ liloba oyo, mpe obataki te ⟨את⟩ mwana na yo, ⟨את⟩ moto ya yo ya moko.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "בי",
+      "gloss": "na ngaï moko"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "nasalaki lapano"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "alobi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "יען",
+      "gloss": "obaki likebi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "osalaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "liloba oyo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "liloba oyo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe obataki te"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "obataki te"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwana na yo"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "mwana na yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moto ya yo ya moko"
+    },
+    {
+      "surface": "יחידך",
+      "gloss": "moto ya yo ya moko"
+    }
+  ],
+  "timestamp": "2026-09-03T15:55:30.609710473Z",
+  "model": "glm-5.3"
+}

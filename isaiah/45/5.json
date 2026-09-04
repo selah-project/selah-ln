@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 45:5",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 45,
+  "translation": "Ngai nazali Yawe, mpe ata moko mosusu azali te; na libanda na ngai Elohim azali te; natyaki libanga na yo, mpe oboyebi ngai te.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ngai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mpe ata moko mosusu azali te"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "mosusu"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "na libanda na ngai"
+    },
+    {
+      "surface": "אין",
+      "gloss": "azali te"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אאזרך",
+      "gloss": "natyaki libanga na yo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "oboyebi ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T19:33:38.907294059Z",
+  "model": "glm-5.3"
+}

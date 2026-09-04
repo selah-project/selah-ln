@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "genesis 24:59",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "Batindaki ⟨את⟩ Rivka ndeko na bango, mpe ⟨את⟩ monyeli na ye, mpe ⟨את⟩ mosali wa Avraham, mpe ⟨את⟩ bato na ye.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "Batindaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rivka"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivka"
+    },
+    {
+      "surface": "אחתם",
+      "gloss": "ndeko na bango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "monyeli na ye"
+    },
+    {
+      "surface": "מנקתה",
+      "gloss": "monyeli na ye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mosali wa Avraham"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "mosali"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "wa Avraham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bato na ye"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "bato na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T15:56:02.072130683Z",
+  "model": "glm-5.3"
+}

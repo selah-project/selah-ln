@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "leviticus 14:52",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Mpe asilika ⟨את⟩ ndako na makila ya ndeke, mpe kati na mai ya bomoi, mpe na ndeke ya bomoi, mpe na nzete ya areza, mpe na ezobo, mpe na shani ya tolaoat.",
+  "tokens": [
+    {
+      "surface": "וְחִטֵּא",
+      "gloss": "mpe asilika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndako"
+    },
+    {
+      "surface": "הַבַּיִת",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "בְּדַם",
+      "gloss": "na makila"
+    },
+    {
+      "surface": "הַצִּפּוֹר",
+      "gloss": "ya ndeke"
+    },
+    {
+      "surface": "וּבַמַּיִם",
+      "gloss": "mpe kati na mai"
+    },
+    {
+      "surface": "הַחַיִּים",
+      "gloss": "ya bomoi"
+    },
+    {
+      "surface": "וּבַצִּפֹּר",
+      "gloss": "mpe na ndeke"
+    },
+    {
+      "surface": "הַחַיָּה",
+      "gloss": "ya bomoi"
+    },
+    {
+      "surface": "וּבְעֵץ",
+      "gloss": "mpe na nzete"
+    },
+    {
+      "surface": "הָאֶרֶז",
+      "gloss": "areza"
+    },
+    {
+      "surface": "וּבָאֵזֹב",
+      "gloss": "mpe na ezobo"
+    },
+    {
+      "surface": "וּבִשְׁנִי",
+      "gloss": "mpe na shani"
+    },
+    {
+      "surface": "הַתּוֹלַעַת",
+      "gloss": "tolaoat"
+    }
+  ],
+  "timestamp": "2026-09-03T16:46:12.759560084Z",
+  "model": "glm-5.3"
+}

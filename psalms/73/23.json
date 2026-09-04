@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 73:23",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 73,
+  "translation": "Kasi ngai, na tango nyonso nazali epai ya Yawe; o bokaki ngai na mokono ya mobali na ngai.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Kasi ngai"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "na tango nyonso"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "nazali epai ya yo"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "o bokaki ngai"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "na mokono"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "ya mobali na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:18:19.078537147Z",
+  "model": "glm-5.3"
+}

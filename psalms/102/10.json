@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 102:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 102,
+  "translation": "Mpo na ete ntoku lokola mopai nalaki, mpe masanga na ngai nakotaki na kolia.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mpo na ete"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "ntoku"
+    },
+    {
+      "surface": "כלחם",
+      "gloss": "lokola mopai"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "nalaki"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "mpe masanga na ngai"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "na kolia"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "nakotaki"
+    }
+  ],
+  "timestamp": "2026-09-03T21:25:43.507474322Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 60:2",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 60,
+  "translation": "Mpo talá: moindo ezipi mabele, mpe moindo ya makasi likolo ya bikolo; mpe epai na yo Yawe abimaki lokola mokolo, mpe nkembo na ye likolo na yo ekomonana.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "talá"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "moindo"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "ezipi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "mpe moindo ya makasi"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "likolo ya bikolo"
+    },
+    {
+      "surface": "ועליך",
+      "gloss": "mpe epai na yo"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "abimaki lokola mokolo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וכבודו",
+      "gloss": "mpe nkembo na ye"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "likolo na yo"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ekomonana"
+    }
+  ],
+  "timestamp": "2026-09-03T19:38:20.493620625Z",
+  "model": "glm-5.3"
+}

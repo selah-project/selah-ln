@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 23:2",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Mpe basalaki libande na Yehuda, mpe basangisaki ⟨את⟩ balevi uta na mboka nyonso ya Yehuda, mpe bankulu ya bato-bandeko ya Israel, mpe bakotaki na Yerushalaim.",
+  "tokens": [
+    {
+      "surface": "ויסבו",
+      "gloss": "Mpe basalaki libande"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "na Yehuda"
+    },
+    {
+      "surface": "ויקבצו",
+      "gloss": "mpe basangisaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balevi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "balevi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "uta na nyonso"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "mboka"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ya Yehuda"
+    },
+    {
+      "surface": "וראשי",
+      "gloss": "mpe bankulu"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "ya bato-bandeko"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "mpe bakotaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-09-03T23:42:34.610298548Z",
+  "model": "glm-5.3"
+}

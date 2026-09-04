@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 92,
+  "translation": "Nzembo, moyembe, mpo na mokolo ya Shabat.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "nzembo"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "moyembe"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "mpo na mokolo"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabat"
+    }
+  ],
+  "timestamp": "2026-09-03T21:24:27.762104902Z",
+  "model": "glm-5.3"
+}

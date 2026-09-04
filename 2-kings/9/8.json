@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 9:8",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "mpe ndako nyonso ya Ahav ekokufa, mpe nakolongola epai ya Ahav mopesismai na etanda, mpe moye akangami, mpe moye atikami, na Israel.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "ekokufa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ya Ahav"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "mpe nakolongola"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "epai ya Ahav"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "mopesismai"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "na etanda"
+    },
+    {
+      "surface": "ועצור",
+      "gloss": "mpe moye akangami"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "mpe moye atikami"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "na Israel"
+    }
+  ],
+  "timestamp": "2026-09-03T19:02:20.943700930Z",
+  "model": "glm-5.3"
+}

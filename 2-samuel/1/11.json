@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 1:11",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "David asimolaki bilamba na ye mpe akangakaki bango, mpe bato nyonso oyo bazalaki ⟨את⟩ elongo na ye.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "asimolaki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "בבגדו",
+      "gloss": "bilamba na ye"
+    },
+    {
+      "surface": "ויקרעם",
+      "gloss": "akangakaki bango"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "mpe mpe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "bato"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ elongo na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T18:25:59.506151440Z",
+  "model": "glm-5.3"
+}

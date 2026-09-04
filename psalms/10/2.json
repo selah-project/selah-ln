@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 10:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Na bugumi ya mabe azali kanda mopungi; bakangamaka na makanisi oyo bakanisaki.",
+  "tokens": [
+    {
+      "surface": "בגאות",
+      "gloss": "Na bugumi"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ya mabe"
+    },
+    {
+      "surface": "ידלק",
+      "gloss": "azali kanda"
+    },
+    {
+      "surface": "עני",
+      "gloss": "mopungi"
+    },
+    {
+      "surface": "יתפשו",
+      "gloss": "bakangamaka"
+    },
+    {
+      "surface": "במזמות",
+      "gloss": "na makanisi"
+    },
+    {
+      "surface": "זו",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "bakanisaki"
+    }
+  ],
+  "timestamp": "2026-09-03T21:02:45.169414049Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 24:18",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "Mpe baboyaki ⟨את⟩ ndako ya Yawe Elohim ya bankoko na bango, mpe basalaki bokumboo epai ya ⟨את⟩ baasherim mpe ⟨את⟩ bikeko; mpe ezalaki kanda epai ya Yehuda mpe Yerushalaim mpo na libubi na bango oyo.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "mpe baboyaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndako"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "ya bankoko na bango"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "mpe basalaki bokumboo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baasherim"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "baasherim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bikeko"
+    },
+    {
+      "surface": "העצבים",
+      "gloss": "bikeko"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mpe ezalaki"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "kanda"
+    },
+    {
+      "surface": "על",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "mpe Yerushalaim"
+    },
+    {
+      "surface": "באשמתם",
+      "gloss": "mpo na libubi na bango"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "oyo"
+    }
+  ],
+  "timestamp": "2026-09-03T23:04:48.380792516Z",
+  "model": "glm-5.3"
+}

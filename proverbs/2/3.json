@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 2:3",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpo soki obengi bwanya, mpe opesi mongongo na yo na bwanya-boyebi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "soki"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "bwanya"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "obengi"
+    },
+    {
+      "surface": "לתבונה",
+      "gloss": "na bwanya-boyebi"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "opesi"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "mongongo na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:38:38.228608762Z",
+  "model": "glm-5.3"
+}

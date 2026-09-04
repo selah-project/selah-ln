@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 15:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 15,
+  "translation": "Moto ya botopu ezali moke na miso na ye; mpe atombolaka lokumu ⟨את⟩ baye bazali kobanga Yawe; nasemi mpo na kozwa mabe, mpe akobongwana te.",
+  "tokens": [
+    {
+      "surface": "נבזה",
+      "gloss": "moto ya botopu"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "na miso na ye"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "ezali moke"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "baye bazali kobanga Yawe"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "baye bazali kobanga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "atombolaka lokumu"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "nasemi"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "mpo na kozwa mabe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "akobongwana"
+    }
+  ],
+  "timestamp": "2026-09-03T21:03:04.722114865Z",
+  "model": "glm-5.3"
+}

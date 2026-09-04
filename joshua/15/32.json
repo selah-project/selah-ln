@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "joshua 15:32",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 15,
+  "translation": "mpe Lebaot, mpe Shilhim, mpe Ain, mpe Rimon — bimvu nyonso, misato na mibale mpe zomi na libwa, elongo na bieka na yango",
+  "tokens": [
+    {
+      "surface": "ולבאות",
+      "gloss": "mpe Lebaot"
+    },
+    {
+      "surface": "ושלחים",
+      "gloss": "mpe Shilhim"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "mpe Ain"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "mpe Rimon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "bimvu"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "mibale mpe zomi"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "mpe libwa"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "mpe bieka na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T17:50:31.868976051Z",
+  "model": "glm-5.3"
+}

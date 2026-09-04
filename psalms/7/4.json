@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 7:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Yawe Elohim na ngai, soki nasali likolo ya liloba oyo, soki mabe ezali na maboko na ngai —",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim na ngai"
+    },
+    {
+      "surface": "אם",
+      "gloss": "soki"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "nasali"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "liloba oyo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "soki"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ezali"
+    },
+    {
+      "surface": "עול",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "na maboko na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:00:25.826209577Z",
+  "model": "glm-5.3"
+}

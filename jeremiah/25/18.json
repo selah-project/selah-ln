@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 25:18",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "⟨את⟩ Yerushalaim mpe ⟨את⟩ mboka ya Yehudah mpe ⟨את⟩ bakonzi na yango, ⟨את⟩ bankulu na yango, mpo na kopesa ⟨את⟩ yango na bobomo, na botombwami, na kosekisa, mpe na maledi, lokola mokolo oyo.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalaim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mboka ya Yehudah"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "mboka"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ya Yehudah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bakonzi na yango"
+    },
+    {
+      "surface": "מלכיה",
+      "gloss": "bakonzi na yango"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bankulu na yango"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "bankulu na yango"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "mpo na kopesa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ yango",
+      "marks": "yango"
+    },
+    {
+      "surface": "לחרבה",
+      "gloss": "na bobomo"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "na botombwami"
+    },
+    {
+      "surface": "לשרקה",
+      "gloss": "na kosekisa"
+    },
+    {
+      "surface": "ולקללה",
+      "gloss": "mpe na maledi"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "lokola mokolo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    }
+  ],
+  "timestamp": "2026-09-03T19:54:28.741402275Z",
+  "model": "glm-5.3"
+}

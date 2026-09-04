@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 69:32",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 69,
+  "translation": "Mpe ekoki malamu epai ya Yawe koleka mbogo, to panya ya minyaka mpe ya makolo-mibale.",
+  "tokens": [
+    {
+      "surface": "ותיטב",
+      "gloss": "ekoki malamu koleka"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "epai ya Yawe"
+    },
+    {
+      "surface": "משור",
+      "gloss": "mbogo"
+    },
+    {
+      "surface": "פר",
+      "gloss": "panya"
+    },
+    {
+      "surface": "מקרן",
+      "gloss": "ya minyaka"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "ya makolo-mibale"
+    }
+  ],
+  "timestamp": "2026-09-03T21:17:34.246664140Z",
+  "model": "glm-5.3"
+}

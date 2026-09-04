@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 119:41",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Mpe hesed na yo Yawe, ekoya epai na ngai, bomboki na yo, ndenge liloba na yo elobi.",
+  "tokens": [
+    {
+      "surface": "ויבאני",
+      "gloss": "mpe ekoya epai na ngai"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed na yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "bomboki na yo"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "ndenge liloba na yo elobi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:30:43.041985522Z",
+  "model": "glm-5.3"
+}

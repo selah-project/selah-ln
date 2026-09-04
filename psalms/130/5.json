@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 130:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 130,
+  "translation": "Nazeli Yawe, azelaki molimo na ngai, mpe na liloba na yango nazeli.",
+  "tokens": [
+    {
+      "surface": "קויתי",
+      "gloss": "Nazeli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "קותה",
+      "gloss": "azelaki"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "molimo na ngai"
+    },
+    {
+      "surface": "ולדברו",
+      "gloss": "mpe na liloba na yango"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "nazeli"
+    }
+  ],
+  "timestamp": "2026-09-03T21:34:12.087116753Z",
+  "model": "glm-5.3"
+}

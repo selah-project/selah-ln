@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 48:15",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 48,
+  "translation": "Mpe apambolaki ⟨את⟩ Yosef, mpe alobaki: Elohim oyo bakoko na ngai Avraham mpe Yitshak bazalaki kotambola liboso na ye, Elohim oyo akolaka ngai lokola mokeli-banyama ⟨את⟩ ngai uta na mbuya na ngai kino mokolo oyo,",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "apambolaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "התהלכו",
+      "gloss": "bazalaki kotambola"
+    },
+    {
+      "surface": "אבתי",
+      "gloss": "bakoko na ngai"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "liboso na ye"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ויצחק",
+      "gloss": "mpe Yitshak"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "akolaka ngai lokola mokeli-banyama"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ngai",
+      "marks": "ngai"
+    },
+    {
+      "surface": "מעודי",
+      "gloss": "uta na mbuya na ngai"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "היום",
+      "gloss": "mokolo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    }
+  ],
+  "timestamp": "2026-09-03T16:11:18.310249379Z",
+  "model": "glm-5.3"
+}

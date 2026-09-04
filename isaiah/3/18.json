@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 3:18",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Na mokolo yango Adonai akolongola ⟨את⟩ nkembo ya mabelé ya makolo, mpe bandea ya motó, mpe bilanga ya ngonda.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Na mokolo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yango"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "akolongola"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkembo"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "nkembo"
+    },
+    {
+      "surface": "העכסים",
+      "gloss": "ya mabelé ya makolo"
+    },
+    {
+      "surface": "והשביסים",
+      "gloss": "mpe bandea ya motó"
+    },
+    {
+      "surface": "והשהרנים",
+      "gloss": "mpe bilanga ya ngonda"
+    }
+  ],
+  "timestamp": "2026-09-03T19:14:17.881704368Z",
+  "model": "glm-5.3"
+}

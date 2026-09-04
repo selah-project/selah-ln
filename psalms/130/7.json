@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 130:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 130,
+  "translation": "Israel, azele epai ya Yawe, mpo na ete epai ya Yawe ezali hesed (ngolu), mpe epai na yango bobiki na ebele.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "azele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo na ete"
+    },
+    {
+      "surface": "עם",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "החסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "mpe ebele"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "epai na yango"
+    },
+    {
+      "surface": "פדות",
+      "gloss": "bobiki"
+    }
+  ],
+  "timestamp": "2026-09-03T21:34:12.087434417Z",
+  "model": "glm-5.3"
+}

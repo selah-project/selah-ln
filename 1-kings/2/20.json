@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 2:20",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe alobaki: Senga moke moko, ngai nazali kosenga na ⟨את⟩ yo — zongisa te ⟨את⟩ elongi na ngai. Mpe mokonzi alobaki na ye: Senga, mama; mpamba te nazali kozongisa ⟨את⟩ elongi na yo.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "senga"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "moko"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "moke"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "nazali kosenga"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "na ⟨את⟩ yo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "zongisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elongi na ngai"
+    },
+    {
+      "surface": "פני",
+      "gloss": "elongi na ngai"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "לה",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "שאלי",
+      "gloss": "senga"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mama"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpamba te"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "nazali kozongisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elongi na yo"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "elongi na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T23:23:40.827394656Z",
+  "model": "glm-5.3"
+}

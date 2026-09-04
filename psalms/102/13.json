@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 102:13",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 102,
+  "translation": "Kasi yo, Yawe, ozali kofanda ⟨na⟩ ntango nyonso, mpe bokoyanoli na yo mpo na mbula na mbula.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Kasi yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mpo na ntango nyonso"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "ozali kofanda"
+    },
+    {
+      "surface": "וזכרך",
+      "gloss": "mpe bokoyanoli na yo"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "mpo na mbula"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "na mbula"
+    }
+  ],
+  "timestamp": "2026-09-03T21:25:37.352664465Z",
+  "model": "glm-5.3"
+}

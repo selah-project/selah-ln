@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 20:7",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 20,
+  "translation": "Mpe bokemya bino, mpe bokozala bato ya mosantu, mpo ete ngai nazali Yawe Elohim na bino.",
+  "tokens": [
+    {
+      "surface": "והתקדשתם",
+      "gloss": "mpe bokemya bino"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "mpe bokozala"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "bato ya mosantu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim na bino"
+    }
+  ],
+  "timestamp": "2026-09-03T16:52:30.477169344Z",
+  "model": "glm-5.3"
+}

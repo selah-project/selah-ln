@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 26:9",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "Mpe okangisa ⟨את⟩ mapete mitano yango moko, mpe ⟨את⟩ mapete motoba yango moko; mpe okofelela ⟨את⟩ lipete la motoba eleke liboso ya hema.",
+  "tokens": [
+    {
+      "surface": "וחברת",
+      "gloss": "mpe okangisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mapete mitano"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "mitano"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "mapete"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "yango moko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mapete motoba"
+    },
+    {
+      "surface": "שש",
+      "gloss": "motoba"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "mapete"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "yango moko"
+    },
+    {
+      "surface": "וכפלת",
+      "gloss": "mpe okofelela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lipete"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "lipete"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "la motoba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai"
+    },
+    {
+      "surface": "מול",
+      "gloss": "eleke"
+    },
+    {
+      "surface": "פני",
+      "gloss": "liboso"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "hema"
+    }
+  ],
+  "timestamp": "2026-09-03T16:28:00.141369469Z",
+  "model": "glm-5.3"
+}

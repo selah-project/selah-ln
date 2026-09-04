@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 91:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 91,
+  "translation": "Wuta na bokono oyo ezali kotambola na molili, mpe bonyokoli oyo ebomaka na midi.",
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "Wuta na bokono"
+    },
+    {
+      "surface": "באופל",
+      "gloss": "na molili"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "ezali kotambola"
+    },
+    {
+      "surface": "מקטב",
+      "gloss": "mpe bonyokoli"
+    },
+    {
+      "surface": "ישוד",
+      "gloss": "ebomaka"
+    },
+    {
+      "surface": "צהרים",
+      "gloss": "na midi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:25:02.530937952Z",
+  "model": "glm-5.3"
+}

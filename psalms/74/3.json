@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 74:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 74,
+  "translation": "Yokitsa bamakasi na yo eto na mabombami ya libela; nyonso oyo banguna asali mabe na esantu.",
+  "tokens": [
+    {
+      "surface": "הרימה",
+      "gloss": "Yokitsa"
+    },
+    {
+      "surface": "פעמיך",
+      "gloss": "bamakasi na yo"
+    },
+    {
+      "surface": "למשאות",
+      "gloss": "eto na mabombami"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "ya libela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "asali mabe"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "banguna"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "na esantu"
+    }
+  ],
+  "timestamp": "2026-09-03T21:19:29.501022125Z",
+  "model": "glm-5.3"
+}

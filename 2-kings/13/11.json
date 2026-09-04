@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 13:11",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Mpe asalaki mabe na miso ya Yawe; abimaki te na masumu nyonso ya Yaravam mwana ya Nevat, oyo atindaki ⟨את⟩ Israel kosala mabe; na yango atambolaki.",
+  "tokens": [
+    {
+      "surface": "ויעשה",
+      "gloss": "mpe asalaki"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "na miso ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "סר",
+      "gloss": "abimaki"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "na masumu nyonso"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "masumu"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yaravam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nevat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "atindaki kosala mabe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בה",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "atambolaki"
+    }
+  ],
+  "timestamp": "2026-09-03T19:04:35.408538265Z",
+  "model": "glm-5.3"
+}

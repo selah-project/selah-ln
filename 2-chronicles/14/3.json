@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 14:3",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Alobaki na Yehuda ⟨boluka ⟨את⟩ Yawe, Elohim ya bakoko na bango, mpe kosala Tora mpe etinda⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Alobaki"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "na Yehuda"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "boluka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "ya bakoko na bango"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "mpe kosala"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "והמצוה",
+      "gloss": "mpe etinda"
+    }
+  ],
+  "timestamp": "2026-09-03T23:00:10.325350181Z",
+  "model": "glm-5.3"
+}

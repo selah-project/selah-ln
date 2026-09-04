@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 35:23",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 35,
+  "translation": "Bobola mpe tibosama na ekolo na ngai, Elohim na ngai mpe Adonai na ngai, na likambo na ngai.",
+  "tokens": [
+    {
+      "surface": "העירה",
+      "gloss": "Bobola"
+    },
+    {
+      "surface": "והקיצה",
+      "gloss": "mpe tibosama"
+    },
+    {
+      "surface": "למשפטי",
+      "gloss": "na ekolo na ngai"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim na ngai"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "mpe Adonai na ngai"
+    },
+    {
+      "surface": "לריבי",
+      "gloss": "na likambo na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:07:55.983960439Z",
+  "model": "glm-5.3"
+}

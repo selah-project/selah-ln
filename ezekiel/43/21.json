@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 43:21",
+  "book": "ezekiel",
+  "lang": "ln",
+  "chapter": 43,
+  "translation": "Mpe okozwa ⟨את⟩ par ya masumu, mpe bakoswela yango na esika ya ndako oyo etyami, libanda ya santu.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "Mpe okozwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "par"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "par"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ya masumu"
+    },
+    {
+      "surface": "ושרפו",
+      "gloss": "mpe bakoswela yango"
+    },
+    {
+      "surface": "במפקד",
+      "gloss": "na esika oyo etyami"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ya ndako"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "libanda"
+    },
+    {
+      "surface": "למקדש",
+      "gloss": "ya santu"
+    }
+  ],
+  "timestamp": "2026-09-03T20:34:03.852108240Z",
+  "model": "glm-5.3"
+}

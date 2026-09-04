@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 26:8",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "Mpe Yawe abimisaki biso na Mitsraim na loboko ya nguya, mpe na kingo ya kobumbolama, mpe na bobangi monene, mpe na bilembo mpe na makita.",
+  "tokens": [
+    {
+      "surface": "ויוצאנו",
+      "gloss": "abimisaki biso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "na Mitsraim"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "na loboko"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "ya nguya"
+    },
+    {
+      "surface": "ובזרע",
+      "gloss": "mpe na kingo"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "ya kobumbolama"
+    },
+    {
+      "surface": "ובמרא",
+      "gloss": "mpe na bobangi"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "monene"
+    },
+    {
+      "surface": "ובאתות",
+      "gloss": "mpe na bilembo"
+    },
+    {
+      "surface": "ובמפתים",
+      "gloss": "mpe na makita"
+    }
+  ],
+  "timestamp": "2026-09-03T17:35:47.138309107Z",
+  "model": "glm-5.3"
+}

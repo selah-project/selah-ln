@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 7:10",
+  "book": "job",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Akozonga te lisusu na ndako na ye, mpe esika na ye ekoyeba ye te lisusu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "akozonga"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lisusu"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "na ndako na ye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "ekoyeba ye"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lisusu"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "esika na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:51:43.571986406Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 9:20",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Telama, Yawe; moto aye makasi te; bikolo basengelama kosambela liboso ya elongi na yo.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Telama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "יעז",
+      "gloss": "aye makasi"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "basengelama kosambela"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bikolo"
+    },
+    {
+      "surface": "על",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "elongi na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:01:51.763041596Z",
+  "model": "glm-5.3"
+}

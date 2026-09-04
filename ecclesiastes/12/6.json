@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 12:6",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Liboso ete ngwia ya feda ekabwanaka ⟨te⟩, mpe boloko ya wolo ebukama, mpe kad ebuka likolo ya mono, mpe rue ebukama na bomu.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "liboso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ete"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨te⟩"
+    },
+    {
+      "surface": "ירחק",
+      "gloss": "ekabwanaka"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "ngwia"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ya feda"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "mpe ebukama"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "boloko"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ya wolo"
+    },
+    {
+      "surface": "ותשבר",
+      "gloss": "mpe ebuka"
+    },
+    {
+      "surface": "כד",
+      "gloss": "kad"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "המבוע",
+      "gloss": "mono"
+    },
+    {
+      "surface": "ונרץ",
+      "gloss": "mpe ebukama"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "rue"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "bomu"
+    }
+  ],
+  "timestamp": "2026-09-03T22:16:35.872899600Z",
+  "model": "glm-5.3"
+}

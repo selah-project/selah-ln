@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 105:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 105,
+  "translation": "Ye azali Yawe Elohim na biso; mibeko na ye ezali na mabele nyonso.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Ye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim na biso"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na ... nyonso"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "mibeko na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:27:13.560599445Z",
+  "model": "glm-5.3"
+}

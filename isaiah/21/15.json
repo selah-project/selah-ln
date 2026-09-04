@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 21:15",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Mpo ete na liboso ya bamoku bazokaki, na liboso ya moku oyo emonami, mpe na liboso ya lipulu oyo etiyami, mpe na liboso ya bozito ya etumba.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "na liboso ya"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "bamoku"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "bazokaki"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "na liboso ya"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "moku"
+    },
+    {
+      "surface": "נטושה",
+      "gloss": "omonami"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "mpe na liboso ya"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "lipulu"
+    },
+    {
+      "surface": "דרוכה",
+      "gloss": "etiyami"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "mpe na liboso ya"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "bozito"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "etumba"
+    }
+  ],
+  "timestamp": "2026-09-03T19:19:33.224186579Z",
+  "model": "glm-5.3"
+}

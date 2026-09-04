@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 116:15",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 116,
+  "translation": "Ya ntalo na miso ya Yawe liwa ya bandimi na ye.",
+  "tokens": [
+    {
+      "surface": "יקר",
+      "gloss": "ya ntalo"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "na miso ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "המותה",
+      "gloss": "liwa"
+    },
+    {
+      "surface": "לחסידיו",
+      "gloss": "ya bandimi na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:30:32.473039836Z",
+  "model": "glm-5.3"
+}

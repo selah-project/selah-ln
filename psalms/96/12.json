@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 96:12",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 96,
+  "translation": "Elanga esakana mpe nyonso oyo ezali na kati na yango; na ntango wana banzete ya zindo nyonso bakoyimbila.",
+  "tokens": [
+    {
+      "surface": "יעלז",
+      "gloss": "esakana"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "elanga"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe nyonso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ezali na kati na yango"
+    },
+    {
+      "surface": "אז",
+      "gloss": "na ntango wana"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "bakoyimbila"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "banzete"
+    },
+    {
+      "surface": "יער",
+      "gloss": "ya zindo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:24:21.519239544Z",
+  "model": "glm-5.3"
+}

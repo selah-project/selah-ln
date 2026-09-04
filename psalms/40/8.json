@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 40:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 40,
+  "translation": "Mokolo yango nabolaki: Tala, nayei; na molulu ya mokanda ekomami ntina na ngai.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Mokolo yango"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "nabolaki"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Tala"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "nayei"
+    },
+    {
+      "surface": "במגלת",
+      "gloss": "na molulu"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "ya mokanda"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "ekomami"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ntina na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:10:49.260650188Z",
+  "model": "glm-5.3"
+}

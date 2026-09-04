@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 145:21",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 145,
+  "translation": "Nkembo ya Yawe monoko na ngai ekoloba, mpe bonto nyonso abongisi nkombo santu na yango, ntango nyonso mpe libela.",
+  "tokens": [
+    {
+      "surface": "תהלת",
+      "gloss": "nkembo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ekoloba"
+    },
+    {
+      "surface": "פי",
+      "gloss": "monoko na ngai"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "mpe abongisi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "bonto"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nkombo"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "santu na yango"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ntango nyonso"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "mpe libela"
+    }
+  ],
+  "timestamp": "2026-09-03T21:35:45.690546106Z",
+  "model": "glm-5.3"
+}

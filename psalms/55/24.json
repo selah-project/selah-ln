@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 55:24",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 55,
+  "translation": "Mpe yo, Elohim, okokitisa bango na libulu ya bobebili; bato ya makila mpe ya bokosi bakokatisi te mikolo na bango; mpe ngai, nakotombela yo.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "mpe yo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תורדם",
+      "gloss": "okokitisa bango"
+    },
+    {
+      "surface": "לבאר",
+      "gloss": "na libulu"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "ya bobebili"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "bato"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "ya makila"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "mpe ya bokosi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יחצו",
+      "gloss": "bakokatisi"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "mikolo na bango"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "mpe ngai"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "nakotombela"
+    },
+    {
+      "surface": "בך",
+      "gloss": "yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:14:15.058746683Z",
+  "model": "glm-5.3"
+}

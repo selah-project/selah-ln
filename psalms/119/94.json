@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 94,
+  "ref": "psalms 119:94",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Ngai nazali ⟨ya⟩ yo, bokisa ngai, mpo mapesa na yo nalukaki.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ya yo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ngai"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "bokisa ngai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "mapesa na yo"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "nalukaki"
+    }
+  ],
+  "timestamp": "2026-09-03T21:31:44.658730888Z",
+  "model": "glm-5.3"
+}

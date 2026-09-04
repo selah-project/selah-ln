@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 90:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 90,
+  "translation": "Miku ya mbula na biso na yango ezali ntuku motoba na zomi ya mbula, mpe soki na bokasi, ntuku mwambe ya mbula; mpe bonyene na yango ezali mosala mpe semeki, mpo ete noki eketamaki mpe totombuelaka.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "miku"
+    },
+    {
+      "surface": "שנותינו",
+      "gloss": "ya mbula na biso"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ntuku motoba na zomi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ya mbula"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "mpe soki"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "na bokasi"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "ntuku mwambe"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ya mbula"
+    },
+    {
+      "surface": "ורהבם",
+      "gloss": "mpe bonyene na yango"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "mosala"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "mpe semeki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "גז",
+      "gloss": "eketamaki"
+    },
+    {
+      "surface": "חיש",
+      "gloss": "noki"
+    },
+    {
+      "surface": "ונעפה",
+      "gloss": "mpe totombuelaka"
+    }
+  ],
+  "timestamp": "2026-09-03T21:24:03.045509893Z",
+  "model": "glm-5.3"
+}

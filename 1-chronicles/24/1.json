@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 24:1",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "Mpe ya bana ya Aharon — bakelasi na bango; bana ya Aharon: Nadab mpe Abihua, Elazar mpe Itamar.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "Mpe ya bana"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "מחלקותם",
+      "gloss": "bakelasi na bango"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadab"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "mpe Abihua"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "mpe Itamar"
+    }
+  ],
+  "timestamp": "2026-09-03T22:50:24.627939169Z",
+  "model": "glm-5.3"
+}

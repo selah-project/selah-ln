@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 37:11",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 37,
+  "translation": "Mpe azipaki ⟨את⟩ yango na waure taure, mpe asalaki na yango zer ya waure na zingazinga.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "mpe azipaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yango",
+      "marks": "mesa"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "waure"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "taure"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "mpe asalaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "זר",
+      "gloss": "zer"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "waure"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "na zingazinga"
+    }
+  ],
+  "timestamp": "2026-09-03T16:35:55.331869225Z",
+  "model": "glm-5.3"
+}

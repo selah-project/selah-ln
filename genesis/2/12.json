@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 2:12",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe or ya ekolo wana ezali malamu; kuna ⟨ezali⟩ bedolah mpe libanga ya shoham.",
+  "tokens": [
+    {
+      "surface": "וזהב",
+      "gloss": "Mpe or"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ya ekolo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "wana"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "malamu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "bedolah"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "mpe libanga"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "ya shoham"
+    }
+  ],
+  "timestamp": "2026-09-03T15:44:16.654584985Z",
+  "model": "glm-5.3"
+}

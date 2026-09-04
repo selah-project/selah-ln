@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 36:12",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 36,
+  "translation": "Mpe Timna azalaki mwasi ya ndambo ya Elifaz, mwana wa Esav; mpe abotaki na Elifaz ⟨את⟩ Amalek. Oyo bazalaki bana ya Ada, mwasi ya Esav.",
+  "tokens": [
+    {
+      "surface": "ותמנע",
+      "gloss": "Mpe Timna"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "azalaki"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "mwasi ya ndambo"
+    },
+    {
+      "surface": "לאליפז",
+      "gloss": "ya Elifaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "וותלד",
+      "gloss": "mpe abotaki"
+    },
+    {
+      "surface": "לאליפז",
+      "gloss": "na Elifaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Oyo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ya"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Ada"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mwasi ya"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    }
+  ],
+  "timestamp": "2026-09-03T16:03:00.638714698Z",
+  "model": "glm-5.3"
+}

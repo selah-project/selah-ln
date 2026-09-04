@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 21:3",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Siko yango libenda na ngai emalami na kange; milumu ekangaki ngai, lokola milumu ya mwasi azali kobota. Nakundami na koyoka, nabangaki na komona.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Siko"
+    },
+    {
+      "surface": "כן",
+      "gloss": "yango"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "emalami"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "libenda na ngai"
+    },
+    {
+      "surface": "חלחלה",
+      "gloss": "na kange"
+    },
+    {
+      "surface": "צירים",
+      "gloss": "milumu"
+    },
+    {
+      "surface": "אחזוני",
+      "gloss": "ekangaki ngai"
+    },
+    {
+      "surface": "כצירי",
+      "gloss": "lokola milumu"
+    },
+    {
+      "surface": "יולדה",
+      "gloss": "ya mwasi azali kobota"
+    },
+    {
+      "surface": "נעויתי",
+      "gloss": "Nakundami"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "na koyoka"
+    },
+    {
+      "surface": "נבהלתי",
+      "gloss": "nabangaki"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "na komona"
+    }
+  ],
+  "timestamp": "2026-09-03T19:20:19.340075270Z",
+  "model": "glm-5.3"
+}

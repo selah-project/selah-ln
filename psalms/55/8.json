@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 55:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 55,
+  "translation": "Talá, nakokende mosika nazwa kokima, nakolala na bondoba. Selah.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Talá"
+    },
+    {
+      "surface": "ארחיק",
+      "gloss": "nakokende mosika"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "nazwa kokima"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "nakolala"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "na bondoba"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-03T21:13:28.451992182Z",
+  "model": "glm-5.3"
+}

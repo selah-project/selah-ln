@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 25:11",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Mpo na nkombo nayo, Yawe, olimbisaki mabe na ngai, mpo ezali monene yango.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "mpo na"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nkombo nayo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וסלחת",
+      "gloss": "mpe olimbisaki"
+    },
+    {
+      "surface": "לעוני",
+      "gloss": "mabe na ngai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "רב",
+      "gloss": "monene"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:05:38.154329454Z",
+  "model": "glm-5.3"
+}

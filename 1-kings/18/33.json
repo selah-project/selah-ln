@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 18:33",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Aranzaki ⟨את⟩ nzete, akataki ⟨את⟩ sanzu na biteni, atyaki yango na nzete.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "aranzaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nzete"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "nzete"
+    },
+    {
+      "surface": "וינתח",
+      "gloss": "akataki na biteni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanzu"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "sanzu"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "atyaki"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "nzete"
+    }
+  ],
+  "timestamp": "2026-09-03T18:55:19.949181101Z",
+  "model": "glm-5.3"
+}

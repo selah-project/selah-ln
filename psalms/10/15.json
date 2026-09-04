@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 10:15",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Kata loboko ya moibi mpe ya mabe-ato; kanisa bosembo na ye, ekokutama te.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "Kata"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "loboko"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ya moibi"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "mpe ya mabe-ato"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "kanisa"
+    },
+    {
+      "surface": "רשעו",
+      "gloss": "bosembo na ye"
+    },
+    {
+      "surface": "בל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "ekokutama te"
+    }
+  ],
+  "timestamp": "2026-09-03T21:02:18.872997770Z",
+  "model": "glm-5.3"
+}

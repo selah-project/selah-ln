@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 1:5",
+  "book": "song-of-songs",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Ngai nazali mozindo, kasi elengi, bana basi ya Yerushalaim, lokola matenti ya Kedar, lokola bilamba ya Shelomo.",
+  "tokens": [
+    {
+      "surface": "שחורה",
+      "gloss": "mozindo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "ונאוה",
+      "gloss": "kasi elengi"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "bana basi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "כאהלי",
+      "gloss": "lokola matenti"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "Kedar"
+    },
+    {
+      "surface": "כיריעות",
+      "gloss": "lokola bilamba"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    }
+  ],
+  "timestamp": "2026-09-03T22:07:05.302307491Z",
+  "model": "glm-5.3"
+}

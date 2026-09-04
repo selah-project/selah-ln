@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 15:18",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 15,
+  "translation": "Na mokolo yango Yawe akati ⟨את⟩ boyokani na Avram, koloba: na mboto nao napesi ⟨את⟩ mabele oyo, uta na ebale ya Mitsraim kino na ebale monene, ebale ya Perat.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "na mokolo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yango"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "akati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avram"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "boyokani"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "koloba"
+    },
+    {
+      "surface": "לזרעך",
+      "gloss": "na mboto nao"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "napesi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabele oyo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "מנהר",
+      "gloss": "uta na ebale"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Mitsraim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "na ebale"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "monene"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "ebale"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "ya Perat"
+    }
+  ],
+  "timestamp": "2026-09-03T15:50:56.606221280Z",
+  "model": "glm-5.3"
+}

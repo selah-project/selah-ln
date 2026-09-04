@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 14:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Kuna bangaki bango bobangi, mpo Elohim azali na libota ya bolamu.",
+  "tokens": [
+    {
+      "surface": "שָׁ֫ם",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "פָּֽחֲדוּ",
+      "gloss": "bangaki bango"
+    },
+    {
+      "surface": "פָּ֫חַד",
+      "gloss": "bobangi"
+    },
+    {
+      "surface": "כִּ֣י",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "אֱ֝לֹהִ֗ים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בְּד֣וֹר",
+      "gloss": "na libota"
+    },
+    {
+      "surface": "צַדִּֽיק",
+      "gloss": "ya bolamu"
+    }
+  ],
+  "timestamp": "2026-09-03T21:02:17.139289356Z",
+  "model": "glm-5.3"
+}

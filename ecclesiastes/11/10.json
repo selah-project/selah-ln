@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 11:10",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpe longola mawa na motema na yo, mpe bimisa mabe na nzoto na yo, ete bolenge mpe mopesi ya bomoi ezali hebel.",
+  "tokens": [
+    {
+      "surface": "והסר",
+      "gloss": "Mpe longola"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "mawa"
+    },
+    {
+      "surface": "מלבך",
+      "gloss": "na motema na yo"
+    },
+    {
+      "surface": "והעבר",
+      "gloss": "mpe bimisa"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "מבשרך",
+      "gloss": "na nzoto na yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "הילדות",
+      "gloss": "bolenge"
+    },
+    {
+      "surface": "והשחרות",
+      "gloss": "mpe mopesi ya bomoi"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebel"
+    }
+  ],
+  "timestamp": "2026-09-03T22:16:09.717454143Z",
+  "model": "glm-5.3"
+}

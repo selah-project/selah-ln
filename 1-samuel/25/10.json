@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 25:10",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Nabal eyanolaki ⟨את⟩ basaleli ya David mpe alobaki: Nani David, mpe nani mwana ya Yishai? Lelo basaleli ebelaki, bakimi, moto na moto epai ya nkolo na ye.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "eyanolaki"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "basaleli ya David"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "basaleli ya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Nani"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "mpe nani"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana ya"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishai"
+    },
+    {
+      "surface": "היום",
+      "gloss": "Lelo"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "ebelaki"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "basaleli"
+    },
+    {
+      "surface": "המתפרצים",
+      "gloss": "bakimi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto na moto"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "nkolo na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T18:21:40.963269837Z",
+  "model": "glm-5.3"
+}

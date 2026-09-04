@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 119:15",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Na mibeko na yo nakosolola, mpe nakotala banzela na yo.",
+  "tokens": [
+    {
+      "surface": "בפקודיך",
+      "gloss": "na mibeko na yo"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "nakosolola"
+    },
+    {
+      "surface": "ואביטה",
+      "gloss": "mpe nakotala"
+    },
+    {
+      "surface": "ארחתיך",
+      "gloss": "banzela na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T23:35:13.398332368Z",
+  "model": "glm-5.3"
+}

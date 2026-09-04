@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 2:15",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "mpe etulupu na yango, mpe bakolami na bango ⟨ezali⟩ mitano na ntuku minei nkoto, na motoba nkama, na ntuku mitano.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "mpe etulupu na yango"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "mpe bakolami na bango"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "mitano"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "na ntuku minei"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "nkoto"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "na motoba"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "nkama"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "na ntuku mitano"
+    }
+  ],
+  "timestamp": "2026-09-03T23:17:44.946912188Z",
+  "model": "glm-5.3"
+}

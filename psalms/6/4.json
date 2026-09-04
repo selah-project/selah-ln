@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpe molimo na ngai epekaki mingi; mpe yo, Yawe, kino tango nini?",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "Mpe molimo na ngai"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "epekaki"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mingi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "tango nini"
+    }
+  ],
+  "timestamp": "2026-09-03T20:59:58.847844583Z",
+  "model": "glm-5.3"
+}

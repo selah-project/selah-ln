@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 30:20",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 30,
+  "translation": "Mpe Yawe ayokaki epai ya Yehizkiyahu, mpe abikisaki ⟨את⟩ bato.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ayokaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Yehizkiyahu"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "abikisaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bato"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    }
+  ],
+  "timestamp": "2026-09-03T23:08:03.425560394Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 11:9",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpe Yawe alobaki na Moshe: Parao akoyoka bino te, mpo na kobakisama ya bilembo na nguya na bisika ya Mitsraim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "akoyoka"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "bino"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "למען",
+      "gloss": "mpo na"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "kobakisama"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "ya bilembo na nguya"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na bisika ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    }
+  ],
+  "timestamp": "2026-09-03T16:16:50.642002198Z",
+  "model": "glm-5.3"
+}

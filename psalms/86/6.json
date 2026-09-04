@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 86:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 86,
+  "translation": "Yawe, tika matoyi na losambo na ngai, mpe yoka mongongo ya maloba na ngai ya kolomba ngolu.",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "tika matoyi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "losambo na ngai"
+    },
+    {
+      "surface": "והקשיבה",
+      "gloss": "mpe yoka"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "na mongongo"
+    },
+    {
+      "surface": "תחנונותי",
+      "gloss": "ya maloba na ngai ya kolomba ngolu"
+    }
+  ],
+  "timestamp": "2026-09-03T21:22:22.448817078Z",
+  "model": "glm-5.3"
+}

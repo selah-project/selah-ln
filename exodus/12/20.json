@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 12:20",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Biloko nyonso ya eyeli bokolia te; na bisika nyonso bofandi bokolia matsotso.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "מחמצת",
+      "gloss": "eyeli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "bokolia"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na bisika nyonso"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "bofandi"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "bokolia"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "matsotso"
+    }
+  ],
+  "timestamp": "2026-09-03T16:20:40.049796439Z",
+  "model": "glm-5.3"
+}

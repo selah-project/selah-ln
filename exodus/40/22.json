@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 40:22",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 40,
+  "translation": "Mpe atyaki ⟨את⟩ mesa na etente ya kokutana, na mpambi ya etente, na nord, libanda ya lifungoli.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "mpe atyaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mesa"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "mesa"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "na etente ya"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kokutana"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "mpambi"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "etente"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "na nord"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "libanda ya"
+    },
+    {
+      "surface": "לפרכת",
+      "gloss": "lifungoli"
+    }
+  ],
+  "timestamp": "2026-09-03T16:38:30.791353484Z",
+  "model": "glm-5.3"
+}

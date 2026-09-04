@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 26:4",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "Mpe kohen akozwa ⟨את⟩ panier na maboko na yo, mpe akotya ⟨yango⟩ liboso ya autelo ya Yawe Elohim na yo.",
+  "tokens": [
+    {
+      "surface": "וְלָקַח",
+      "gloss": "mpe akozwa"
+    },
+    {
+      "surface": "הַכֹּהֵן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "הַטֶּנֶא",
+      "gloss": "panier"
+    },
+    {
+      "surface": "מִיָּדֶךָ",
+      "gloss": "na maboko na yo"
+    },
+    {
+      "surface": "וְהִנִּיחוֹ",
+      "gloss": "mpe akotya ⟨yango⟩"
+    },
+    {
+      "surface": "לִפְנֵי",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "מִזְבַּח",
+      "gloss": "autelo"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אֱלֹהֶיךָ",
+      "gloss": "Elohim na yo"
+    }
+  ],
+  "timestamp": "2026-09-04T00:18:48.274366813Z",
+  "model": "glm-5.3"
+}

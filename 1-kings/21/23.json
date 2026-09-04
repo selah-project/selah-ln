@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 21:23",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Mpe epai ya Izebel mpe Yawe alobaki, koloba ete: Mbwa bakolia ⟨את⟩ Izebel na chelekete ya Yizreel.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Mpe mpe"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "epai ya Izebel"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "koloba ete"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "Mbwa"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "bakolia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Izebel"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebel"
+    },
+    {
+      "surface": "בחל",
+      "gloss": "na chelekete ya"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    }
+  ],
+  "timestamp": "2026-09-03T18:54:52.418040115Z",
+  "model": "glm-5.3"
+}

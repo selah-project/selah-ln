@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 54:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 54,
+  "translation": "Mabe ekozonga epai ya banguna na ngai; na bosembo na yo, bolimwisa bango.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "ekozonga"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "לשררי",
+      "gloss": "epai ya banguna na ngai"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "na bosembo na yo"
+    },
+    {
+      "surface": "הצמיתם",
+      "gloss": "bolimwisa bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:13:52.243697361Z",
+  "model": "glm-5.3"
+}

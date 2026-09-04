@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 106:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 106,
+  "translation": "Batata na biso na Mitsraim bayebaki te makambo ya kokamwa na yo, bakanikaki te ⟨את⟩ bonene ya hesed na yo, mpe bazalaki na boilingo likolo ya mbu, na mbu ya Suf.",
+  "tokens": [
+    {
+      "surface": "אבותינו",
+      "gloss": "batata na biso"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "na Mitsraim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "bayebaki te"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "makambo ya kokamwa na yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bakanikaki te"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "bakanikaki te"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bonene ya hesed na yo"
+    },
+    {
+      "surface": "רב",
+      "gloss": "bonene"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "ya hesed na yo"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "mpe bazalaki na boilingo"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "ים",
+      "gloss": "mbu"
+    },
+    {
+      "surface": "בים",
+      "gloss": "na mbu"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "ya Suf"
+    }
+  ],
+  "timestamp": "2026-09-03T21:27:41.368403172Z",
+  "model": "glm-5.3"
+}

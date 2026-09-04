@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 3:1",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe oyo nde libota ya Aharon mpe Moshe, na mokolo Yawe alobaki ⟨את⟩ Moshe, na ngomba ya Sini.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Mpe oyo nde"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "libota"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ya Aharon"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "mpe Moshe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na mokolo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "na ngomba"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "ya Sini"
+    }
+  ],
+  "timestamp": "2026-09-03T17:00:16.529304896Z",
+  "model": "glm-5.3"
+}

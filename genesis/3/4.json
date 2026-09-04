@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mokwia alobaki na mwasi: Nakufa te, bokufaka te.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "mokwia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mwasi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "מות",
+      "gloss": "nakufa"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "bokufaka te"
+    }
+  ],
+  "timestamp": "2026-09-03T15:45:33.625140913Z",
+  "model": "glm-5.3"
+}

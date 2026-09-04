@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 56:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 56,
+  "translation": "Baliukaka ngai banguna na ngai mokolo mobimba, mpo ete bango ebeli bazali kobundisa ngai, yo oyo ozali likolo.",
+  "tokens": [
+    {
+      "surface": "שאפו",
+      "gloss": "Baliukaka"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "banguna na ngai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mobimba"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ya mokolo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "bango ebeli"
+    },
+    {
+      "surface": "לחמים",
+      "gloss": "bazali kobundisa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "oyo ozali likolo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:14:13.130966430Z",
+  "model": "glm-5.3"
+}

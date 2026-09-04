@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 32,
+  "translation": "Yawe moko nde atambwisaki ye; mpe ezalaki na ye te nzambe ya mokili mosusu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "moko"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "atambwisaki ye"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mpe ezalaki te"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nzambe"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "ya mokili mosusu"
+    }
+  ],
+  "timestamp": "2026-09-03T17:41:05.130496440Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 23:5",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "David akendaki na Kela elongo na bato na ye, mpe alwanaki na Baplisiti, mpe amemaki ⟨את⟩ banyama na bango, mpe abetaki bango bokasi monene, mpe David alongosaki ⟨את⟩ bato ya Kela.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "akendaki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ואנשו",
+      "gloss": "elongo na bato na ye"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Kela"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "alwanaki"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "na Baplisiti"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "mpe amemaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "banyama na bango"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "banyama na bango"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "mpe abetaki"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "bango"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "bokasi"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "monene"
+    },
+    {
+      "surface": "וישע",
+      "gloss": "mpe alongosaki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bato ya Kela"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "bato ya"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Kela"
+    }
+  ],
+  "timestamp": "2026-09-03T18:20:59.037433469Z",
+  "model": "glm-5.3"
+}

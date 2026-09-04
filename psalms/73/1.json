@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 73:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 73,
+  "translation": "Nzembo ya Asaph. Solo, Elohim azali malamu mpo na Israel, mpo na bino na motema mosusu.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Nzembo"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ya Asaph"
+    },
+    {
+      "surface": "אך",
+      "gloss": "Solo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "azali malamu"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "mpo na Israel"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לברי",
+      "gloss": "mpo na bino"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "motema mosusu"
+    }
+  ],
+  "timestamp": "2026-09-03T21:18:04.031859085Z",
+  "model": "glm-5.3"
+}

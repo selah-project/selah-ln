@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 26:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "Yawe, nalingaka esika ya kofanda ya ndako na yo, mpe esika ya tendalo ya nkembo na yo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "nalingaka"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "esika ya kofanda"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ya ndako na yo"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "mpe esika"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "ya tendalo"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "ya nkembo na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:05:56.399334513Z",
+  "model": "glm-5.3"
+}

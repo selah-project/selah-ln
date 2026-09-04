@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 105:32",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 105,
+  "translation": "Apesaki mbula na bango nkanda, moto ya molanga na mabele na bango.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "apesaki"
+    },
+    {
+      "surface": "גשמיהם",
+      "gloss": "mbula na bango"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "nkanda"
+    },
+    {
+      "surface": "אש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "ya molanga"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "na mabele na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:28:04.591484585Z",
+  "model": "glm-5.3"
+}

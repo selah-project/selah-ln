@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 150:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 150,
+  "translation": "Bokumisa ye na tof mpe boto, bokumisa ye na minin mpe ugav.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Bokumisa ye"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "na tof"
+    },
+    {
+      "surface": "ומחול",
+      "gloss": "mpe boto"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "bokumisa ye"
+    },
+    {
+      "surface": "במנים",
+      "gloss": "na minin"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "mpe ugav"
+    }
+  ],
+  "timestamp": "2026-09-03T21:35:53.877590023Z",
+  "model": "glm-5.3"
+}

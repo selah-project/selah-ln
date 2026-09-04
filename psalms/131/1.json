@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 131:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 131,
+  "translation": "Nzembo ya botumbi, ya David. Yawe, motema na ngai ekokaki likolo te, mpe miso na ngai ematamaki likolo te; mpe natambolaki te kati na makambo minene, mpe na makambo ya kokamwisa oyo ezali likolo ya ngai.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Nzembo"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ya botumbi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "ekokaki likolo"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "motema na ngai"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "רמו",
+      "gloss": "ematamaki likolo"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "miso na ngai"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "natambolaki"
+    },
+    {
+      "surface": "בגדלות",
+      "gloss": "kati na makambo minene"
+    },
+    {
+      "surface": "ובנפלאות",
+      "gloss": "mpe na makambo ya kokamwisa"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "oyo ezali likolo ya ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:33:08.886059734Z",
+  "model": "glm-5.3"
+}

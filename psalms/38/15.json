@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 38:15",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 38,
+  "translation": "Mpe nazelaki lokola moto oyo akoyoka te, mpe na monoko na ye ezali na mateya te.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "nazelaki"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "lokola moto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "akoyoka"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mpe ezali te"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "na monoko na ye"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "mateya"
+    }
+  ],
+  "timestamp": "2026-09-03T21:10:09.567530244Z",
+  "model": "glm-5.3"
+}

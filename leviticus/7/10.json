@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 7:10",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mpe libongo nyonso oyo elanganami na mafuta, mpe oyo moke ya mafuta, ekozala epai ya bana nyonso ya Aharon, moto nyonso lokola ndeko na ye.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "mpe nyonso"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "libongo"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "elanganami"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "na mafuta"
+    },
+    {
+      "surface": "וחרבה",
+      "gloss": "mpe oyo moke ya mafuta"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "epai ya bana nyonso"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ekozala"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto nyonso"
+    },
+    {
+      "surface": "כאחיו",
+      "gloss": "lokola ndeko na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T16:41:00.532547102Z",
+  "model": "glm-5.3"
+}

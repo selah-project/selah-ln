@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 9:17",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Mpe Shelomo akelaki ⟨את⟩ Gezer mpe ⟨את⟩ Beti-Horona ya nse.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Mpe akelaki"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Beti-Horona ya nse"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beti"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Horona"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "ya nse"
+    }
+  ],
+  "timestamp": "2026-09-03T18:49:03.151736921Z",
+  "model": "glm-5.3"
+}

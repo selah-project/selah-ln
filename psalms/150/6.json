@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 150:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 150,
+  "translation": "Molimo nyonso atalenga Ya; talengaka Ya.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "הנשמה",
+      "gloss": "Molimo"
+    },
+    {
+      "surface": "תהלל",
+      "gloss": "atalenga"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "talengaka"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    }
+  ],
+  "timestamp": "2026-09-03T21:35:40.728833376Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 18:30",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Mpe boloba na bango bongo: soki bomi eyanzi ⟨את⟩ kitoko na yango uta yango, ekokanama na balavi lokola bolai ya esika ya kobeta mbila mpe lokola bolai ya esika ya divai.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "Mpe boloba"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "בהרימכם",
+      "gloss": "soki bomi eyanzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kitoko na yango"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "kitoko na yango"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "uta yango"
+    },
+    {
+      "surface": "ונחשב",
+      "gloss": "ekokanama"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "na balavi"
+    },
+    {
+      "surface": "כתבואת",
+      "gloss": "lokola bolai ya"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "esika ya kobeta mbila"
+    },
+    {
+      "surface": "וכתבואת",
+      "gloss": "mpe lokola bolai ya"
+    },
+    {
+      "surface": "יקב",
+      "gloss": "esika ya divai"
+    }
+  ],
+  "timestamp": "2026-09-03T17:11:56.335272108Z",
+  "model": "glm-5.3"
+}

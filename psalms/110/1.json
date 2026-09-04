@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 110:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 110,
+  "translation": "Sanzo ya David. Ndimbola ya Yawe epai ya Adonai na ngai: Vanda na loboko na ngai ya mobali, kino nakotya banguna na yo etike ya makolo na yo.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "ya David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "sanzo"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ndimbola"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "epai ya Adonai na ngai"
+    },
+    {
+      "surface": "שב",
+      "gloss": "Vanda"
+    },
+    {
+      "surface": "לימיני",
+      "gloss": "na loboko na ngai ya mobali"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "nakotya"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "banguna na yo"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "etike"
+    },
+    {
+      "surface": "לרגליך",
+      "gloss": "ya makolo na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:29:53.081062383Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 1:4",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe mokolo moko Elkanah afelaki, mpe apesaki na Penina mwasi na ye, mpe na bana na ye nyonso mpe na bana basi na ye bibande.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "azalaki"
+    },
+    {
+      "surface": "היום",
+      "gloss": "mokolo moko"
+    },
+    {
+      "surface": "ויזבח",
+      "gloss": "afelaki"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkanah"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "mpe apesaki"
+    },
+    {
+      "surface": "לפננה",
+      "gloss": "na Penina"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mwasi na ye"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "mpe na nyonso"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "bana na ye"
+    },
+    {
+      "surface": "ובנותיה",
+      "gloss": "mpe bana basi na ye"
+    },
+    {
+      "surface": "מנות",
+      "gloss": "bibande"
+    }
+  ],
+  "timestamp": "2026-09-03T18:09:47.328454694Z",
+  "model": "glm-5.3"
+}

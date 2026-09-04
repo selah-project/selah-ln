@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezra 2:25",
+  "book": "ezra",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Bana ya Kiryat Yearim, ya Kefira mpe ya Beerot, nkama sambo na ntuku minei na misato.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Bana"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiryat"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "Yearim"
+    },
+    {
+      "surface": "כפירה",
+      "gloss": "Kefira"
+    },
+    {
+      "surface": "ובארות",
+      "gloss": "mpe Beerot"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sambo"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "nkama"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "na ntuku minei"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "na misato"
+    }
+  ],
+  "timestamp": "2026-09-03T22:27:39.736409243Z",
+  "model": "glm-5.3"
+}

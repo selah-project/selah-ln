@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 76:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 76,
+  "translation": "Mpe ezali na Shalem ndako na ye, mpe esika na ye ya boboki na Tsion.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mpe ezali"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "na Shalem"
+    },
+    {
+      "surface": "סכו",
+      "gloss": "ndako na ye"
+    },
+    {
+      "surface": "ומעונתו",
+      "gloss": "mpe esika na ye ya boboki"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "na Tsion"
+    }
+  ],
+  "timestamp": "2026-09-03T21:18:50.031841194Z",
+  "model": "glm-5.3"
+}

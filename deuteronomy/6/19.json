@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 6:19",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "kopusa ⟨את⟩ banguna na bino nyonso liboso na bino, ndenge Yawe alobaki.",
+  "tokens": [
+    {
+      "surface": "להדף",
+      "gloss": "kopusa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "banguna na bino nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "banguna na bino"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "liboso na bino"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ndenge"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T17:25:07.829864981Z",
+  "model": "glm-5.3"
+}

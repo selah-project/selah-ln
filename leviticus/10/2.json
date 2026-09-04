@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 10:2",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Mpe moto ebimaki liboso ya Yawe, mpe elialaki ⟨את⟩ bango, mpe bakufaki liboso ya Yawe.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "mpe ebimaki"
+    },
+    {
+      "surface": "אש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "mpe elialaki"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ bango",
+      "marks": "Nadab mpe Avihu"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "mpe bakufaki"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T16:46:13.171970055Z",
+  "model": "glm-5.3"
+}

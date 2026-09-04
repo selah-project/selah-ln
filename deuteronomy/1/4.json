@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 1:4",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Sima ya koboma ⟨את⟩ Sihon, mokonzi ya Baemori, oyo azalaki kofanda na Heshbon, mpe ⟨את⟩ Og, mokonzi ya Bashan, oyo azalaki kofanda na Ashtarot, na Edrei.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "Sima ya"
+    },
+    {
+      "surface": "הכתו",
+      "gloss": "koboma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sihon"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Sihon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Baemori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "azalaki kofanda"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "na Heshbon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Og"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "azalaki kofanda"
+    },
+    {
+      "surface": "בעשתרת",
+      "gloss": "na Ashtarot"
+    },
+    {
+      "surface": "באדרעי",
+      "gloss": "na Edrei"
+    }
+  ],
+  "timestamp": "2026-09-03T17:23:48.207952056Z",
+  "model": "glm-5.3"
+}

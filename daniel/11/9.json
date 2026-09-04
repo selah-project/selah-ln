@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 11:9",
+  "book": "daniel",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpe akoya na bokonzi ya mokonzi ya suedi, mpe akozonga na mabele na ye.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "mpe akoya"
+    },
+    {
+      "surface": "במלכות",
+      "gloss": "na bokonzi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "ya suedi"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "mpe akozonga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "mabele na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T22:27:53.299836087Z",
+  "model": "glm-5.3"
+}

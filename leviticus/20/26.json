@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 20:26",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 20,
+  "translation": "Mpe bokala bansembo epai na ngai, mpo ngai nazali msembo, Yawe; mpe napambolaki ⟨את⟩ bino kati na bikolo, mpo bokala epai na ngai.",
+  "tokens": [
+    {
+      "surface": "והייתם",
+      "gloss": "Mpe bokala"
+    },
+    {
+      "surface": "לי",
+      "gloss": "epai na ngai"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "bansembo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "msembo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואבדל",
+      "gloss": "mpe napambolaki"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ bino",
+      "marks": "bino"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kati na"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "bikolo"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "mpo bokala"
+    },
+    {
+      "surface": "לי",
+      "gloss": "epai na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T16:51:42.974297654Z",
+  "model": "glm-5.3"
+}

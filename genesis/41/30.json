@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 41:30",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 41,
+  "translation": "Mpe mibu sambo ya nzala eketami nsima na yango, mpe sabala mobimba ekolimbisama na mabele ya Mitsraim, mpe nzala ekosila ⟨את⟩ mabele.",
+  "tokens": [
+    {
+      "surface": "וקמו",
+      "gloss": "mpe eketami"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sambo"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mibu"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "nzala"
+    },
+    {
+      "surface": "אחריהן",
+      "gloss": "nsima na yango"
+    },
+    {
+      "surface": "וישכח",
+      "gloss": "mpe ekolimbisama"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mobimba"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "sabala"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Mitsraim"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "mpe ekosila"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "nzala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T16:07:27.011455731Z",
+  "model": "glm-5.3"
+}

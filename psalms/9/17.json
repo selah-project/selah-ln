@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 9:17",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Yawe amonamaki na bosodi oyo asalaki; mabe akangamaki na mosala ya mapasa ma maboko na ye. Higaion. Selah.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "amonamaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "bosodi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "asalaki"
+    },
+    {
+      "surface": "בפעל",
+      "gloss": "na mosala"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "ya mapasa ma maboko na ye"
+    },
+    {
+      "surface": "נוקש",
+      "gloss": "akangamaki"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "Higaion"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-03T21:01:51.762517673Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 125:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 125,
+  "translation": "Mpo ete litoki ya mabe ekosalama te likolo ya lotiri ya bansembo; mpo ete bansembo batindaka te maboko na bango na mabe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "ekosalama"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "litoki"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "ya mabe"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "lotiri"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "ya bansembo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ישלחו",
+      "gloss": "batindaka"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "bansembo"
+    },
+    {
+      "surface": "בעולתה",
+      "gloss": "na mabe"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "maboko na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:33:55.175270560Z",
+  "model": "glm-5.3"
+}

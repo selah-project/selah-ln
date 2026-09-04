@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 106:40",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 106,
+  "translation": "Mpe Yawe asungwaki na motema na ekolo na ye, mpe aboyaki ⟨את⟩ bozui na ye.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "Mpe asungwaki na motema"
+    },
+    {
+      "surface": "אף",
+      "gloss": "na motema"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "na ekolo na ye"
+    },
+    {
+      "surface": "ויתעב",
+      "gloss": "mpe aboyaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bozui na ye"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "bozui na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:27:14.529677227Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 86,
+  "ref": "psalms 119:86",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Malako na yo nyonso ezali bosembo; na lokuta balandaki ngai — salinga ngai.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "malako na yo"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "bosembo"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "na lokuta"
+    },
+    {
+      "surface": "רדפוני",
+      "gloss": "balandaki ngai"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "salinga ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:32:01.962720470Z",
+  "model": "glm-5.3"
+}

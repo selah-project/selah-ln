@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 31:11",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 31,
+  "translation": "Motema ya mobali na ye motombaka na ye, mpe bozuwi akozwa te.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "motombaka"
+    },
+    {
+      "surface": "בה",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "לב",
+      "gloss": "motema"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "ya mobali na ye"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "mpe bozuwi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "akozwa"
+    }
+  ],
+  "timestamp": "2026-09-03T21:49:49.055971389Z",
+  "model": "glm-5.3"
+}

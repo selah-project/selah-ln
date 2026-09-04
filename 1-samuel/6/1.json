@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 6:1",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpe sanduku ya Yawe etikalaki na mabelé ya Bapelishtim sanza sambo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mpe ezalaki"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "na mabelé"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Bapelishtim"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "sambo"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "sanza"
+    }
+  ],
+  "timestamp": "2026-09-03T18:12:22.716928110Z",
+  "model": "glm-5.3"
+}

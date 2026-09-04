@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 4:4",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe Yawe alobaki na Moshe: Tola maboko na yo, mpe kanga yango na kingo na yango. Mpe atolaki maboko na ye, mpe akangaki yango, mpe yango ekomaki mpako na lokando na ye.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Tola"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "maboko na yo"
+    },
+    {
+      "surface": "ואחז",
+      "gloss": "mpe kanga"
+    },
+    {
+      "surface": "בזנבו",
+      "gloss": "na kingo na yango"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "atolaki"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "maboko na ye"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "akangaki"
+    },
+    {
+      "surface": "בו",
+      "gloss": "yango"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ekomaki"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "mpako"
+    },
+    {
+      "surface": "בכפו",
+      "gloss": "na lokando na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T16:15:13.225801894Z",
+  "model": "glm-5.3"
+}

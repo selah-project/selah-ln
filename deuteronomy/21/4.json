@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 21:4",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "mpe bankoko ya mboka wana bakitisaka ⟨את⟩ ngombe ya mwana yaike kino nkola ya mai ya libela, oyo esalisamaka na yango te mpe esemaka te, mpe bakataaka nkosoki ⟨na yango⟩ kuna ⟨את⟩ ngombe ya mwana yaike na nkola:",
+  "tokens": [
+    {
+      "surface": "והורידו",
+      "gloss": "mpe bakitisaka"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "bankoko"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ya mboka"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "wana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngombe ya mwana yaike"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "ngombe ya mwana yaike"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kino"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "nkola"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "ya mai ya libela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "esalisamaka"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "esemaka"
+    },
+    {
+      "surface": "וערפו",
+      "gloss": "mpe bakataaka nkosoki"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngombe ya mwana yaike"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "ngombe ya mwana yaike"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "na nkola"
+    }
+  ],
+  "timestamp": "2026-09-03T17:34:14.550493366Z",
+  "model": "glm-5.3"
+}

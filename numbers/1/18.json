@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 1:18",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "mpe ⟨את⟩ lisangani nyonso basanganisaki na mokolo ya liboso ya sanza ya mibale, mpe balobaki bokwei na bango na bikanda na bango, na ndako ya batata na bango, na motango ya bankombo, uta mwana ya mbula ntuku mibale mpe likolo, na mitu na bango.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "lisangani nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "lisangani"
+    },
+    {
+      "surface": "הקהילו",
+      "gloss": "basanganisaki"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "na mokolo ya liboso"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ya sanza"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ya mibale"
+    },
+    {
+      "surface": "ויתילדו",
+      "gloss": "mpe balobaki bokwei na bango"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "משפחתם",
+      "gloss": "bikanda na bango"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "na ndako ya"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "batata na bango"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "na motango ya"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "bankombo"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "uta mwana ya"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "mbula ntuku mibale"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mbula"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "mpe likolo"
+    },
+    {
+      "surface": "לגלגלתם",
+      "gloss": "na mitu na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T23:15:08.195505008Z",
+  "model": "glm-5.3"
+}

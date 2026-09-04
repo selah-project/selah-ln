@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 6:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Yawe ayokaki lombosa na ngai; Yawe akomata losambo na ngai.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "ayokaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "lombosa na ngai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "losambo na ngai"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "akomata"
+    }
+  ],
+  "timestamp": "2026-09-03T20:59:00.286521442Z",
+  "model": "glm-5.3"
+}

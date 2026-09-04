@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 8:4",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe atongaki ⟨את⟩ Tadmor na mopamba, mpe ⟨את⟩ bibengi nyonso ya bobombi biloko oyo atongaki na Hamat.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "mpe atongaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tadmor"
+    },
+    {
+      "surface": "תדמר",
+      "gloss": "Tadmor"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "na mopamba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bibengi nyonso ya bobombi biloko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "bibengi"
+    },
+    {
+      "surface": "המסכנות",
+      "gloss": "ya bobombi biloko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "atongaki"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "na Hamat"
+    }
+  ],
+  "timestamp": "2026-09-03T22:57:07.767363308Z",
+  "model": "glm-5.3"
+}

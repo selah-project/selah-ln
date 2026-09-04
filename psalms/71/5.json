@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 71:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 71,
+  "translation": "Mpo yo ozali elikya na ngai, Adonai Yawe, botombami na ngai uta bolenge na ngai.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "elikya na ngai"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מבטחי",
+      "gloss": "botombami na ngai"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "uta bolenge na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:16:48.294779961Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 3:3",
+  "book": "esther",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe basali ya mokonzi oyo bazalaki na ngomba ya mokonzi balobaki na Mordekai: Mpona nini ozali kobuka ⟨את⟩ mobeko ya mokonzi?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "mpe balobaki"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "basali"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya mokonzi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "na ngomba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya mokonzi"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "na Mordekai"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Mpona nini"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "ozali kobuka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mobeko"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "mobeko"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya mokonzi"
+    }
+  ],
+  "timestamp": "2026-09-03T22:18:03.042152920Z",
+  "model": "glm-5.3"
+}

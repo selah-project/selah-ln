@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 20:9",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 20,
+  "translation": "Mikolo motoba okosala mpe okosala mosala na yo nyonso.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "motoba"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mikolo"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "okosala"
+    },
+    {
+      "surface": "וועשית",
+      "gloss": "mpe okosala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "מלאכתך",
+      "gloss": "mosala na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T23:13:53.650275332Z",
+  "model": "glm-5.3"
+}

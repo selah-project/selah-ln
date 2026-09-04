@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 1:8",
+  "book": "micah",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpo na makambo oyo nakolila mpe nakokanga; nakotambola mopoto ya makolo mpe mwa mapema; nakosala koloba kolia lokola banyama ya zulu, mpe kolia lokola bana ya ngwe monene.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "mpo na"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "makambo oyo"
+    },
+    {
+      "surface": "אספדה",
+      "gloss": "nakolila"
+    },
+    {
+      "surface": "ואילילה",
+      "gloss": "mpe nakokanga"
+    },
+    {
+      "surface": "אילכה",
+      "gloss": "nakotambola"
+    },
+    {
+      "surface": "שילל",
+      "gloss": "mopoto ya makolo"
+    },
+    {
+      "surface": "וערום",
+      "gloss": "mpe mwa mapema"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "nakosala"
+    },
+    {
+      "surface": "מספד",
+      "gloss": "koloba kolia"
+    },
+    {
+      "surface": "כתנים",
+      "gloss": "lokola banyama ya zulu"
+    },
+    {
+      "surface": "ואבל",
+      "gloss": "mpe kolia"
+    },
+    {
+      "surface": "כבנות",
+      "gloss": "lokola bana ya"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "ngwe monene"
+    }
+  ],
+  "timestamp": "2026-09-03T20:48:48.447182871Z",
+  "model": "glm-5.3"
+}

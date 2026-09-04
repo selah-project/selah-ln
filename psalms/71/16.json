@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 71:16",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 71,
+  "translation": "Nakokota na nguya ya Adonai Yawe, nakoyebisa bosolo na yo, yo yango moko.",
+  "tokens": [
+    {
+      "surface": "אבוא",
+      "gloss": "nakokota"
+    },
+    {
+      "surface": "בגברות",
+      "gloss": "na nguya ya"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "nakoyebisa"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "bosolo na yo"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "yo yango moko"
+    }
+  ],
+  "timestamp": "2026-09-03T21:17:28.355461015Z",
+  "model": "glm-5.3"
+}

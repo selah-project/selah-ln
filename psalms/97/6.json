@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 97:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 97,
+  "translation": "Likolo elobaki bosembo na yě, mpe bikolo banso bamonaki nkembo na yě.",
+  "tokens": [
+    {
+      "surface": "הגידו",
+      "gloss": "elobaki"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "Likolo"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "bosembo na yě"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "mpe bamonaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "banso"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "bikolo"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "nkembo na yě"
+    }
+  ],
+  "timestamp": "2026-09-03T21:25:14.755096855Z",
+  "model": "glm-5.3"
+}

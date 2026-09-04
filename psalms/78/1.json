@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 78:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 78,
+  "translation": "Maskil ya Asaf. Yoka, bato na ngai, Tora na ngai; bendisi matoyi na bino epai ya maloba ya monoko na ngai.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Maskil"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ya Asaf"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "Yoka"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "bato na ngai"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Tora na ngai"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "bendisi"
+    },
+    {
+      "surface": "אזנכם",
+      "gloss": "matoyi na bino"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "epai ya maloba"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ya monoko na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:19:48.917340891Z",
+  "model": "glm-5.3"
+}

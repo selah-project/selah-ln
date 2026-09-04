@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 1:5",
+  "book": "hosea",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe ekokoma na mokolo yango, nakangola ⟨את⟩ kuba ya Israel na bonde ya Yizreel.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ekokoma"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na mokolo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yango"
+    },
+    {
+      "surface": "ושברתי",
+      "gloss": "nakangola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuba"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "na bonde"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreel"
+    }
+  ],
+  "timestamp": "2026-09-03T20:38:09.828788990Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 32:4",
+  "book": "job",
+  "lang": "ln",
+  "chapter": 32,
+  "translation": "Mpe Elihu azelaki ⟨את⟩ Iyob na maloba, mpo bango bazali bakolo koleka ye na mikolo.",
+  "tokens": [
+    {
+      "surface": "ואליהו",
+      "gloss": "mpe Elihu"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "azelaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iyob"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyob"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "na maloba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "bakolo"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bango"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "koleka ye"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "na mikolo"
+    }
+  ],
+  "timestamp": "2026-09-03T22:01:39.666225300Z",
+  "model": "glm-5.3"
+}

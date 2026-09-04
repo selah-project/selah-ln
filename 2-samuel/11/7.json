@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 11:7",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpe Uriya ayeaki epai ye, mpe David atunaki shalom ya Yowab, mpe shalom ya bato, mpe shalom ya etumba.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Mpe ... ayeaki"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "epai ye"
+    },
+    {
+      "surface": "וישאל",
+      "gloss": "mpe atunaki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "shalom ya"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yowab"
+    },
+    {
+      "surface": "ולשלום",
+      "gloss": "mpe shalom ya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "ולשלום",
+      "gloss": "mpe shalom ya"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "etumba"
+    }
+  ],
+  "timestamp": "2026-09-03T18:32:45.698837391Z",
+  "model": "glm-5.3"
+}

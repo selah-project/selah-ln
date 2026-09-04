@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 25:28",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Mpe osala ⟨את⟩ manganga, nzete ya shitim, mpe opekisa ⟨את⟩ yango na olo, mpe ekangamama na bango ⟨את⟩ mesa.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Mpe osala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manganga"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "manganga"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "nzete ya"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitim"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "mpe opekisa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ yango",
+      "marks": "olo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "na olo"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "mpe ekangamama"
+    },
+    {
+      "surface": "בם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mesa"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "mesa"
+    }
+  ],
+  "timestamp": "2026-09-03T16:27:41.145662561Z",
+  "model": "glm-5.3"
+}

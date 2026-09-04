@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 3:6",
+  "book": "song-of-songs",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Nani oyo ayei, utaka bozango, lokola bakangoki ya etutu, ezwami na bofumi ya mora (parfi ya mabele) mpe lebona (enkensi), na nkilo ya mpumbu ya mosali mombongo?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Nani"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ayei"
+    },
+    {
+      "surface": "מן",
+      "gloss": "utaka"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "bozango"
+    },
+    {
+      "surface": "כתימרות",
+      "gloss": "lokola bakangoki"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "ya etutu"
+    },
+    {
+      "surface": "מקטרת",
+      "gloss": "ezwami na bofumi"
+    },
+    {
+      "surface": "מור",
+      "gloss": "ya mora"
+    },
+    {
+      "surface": "ולבונה",
+      "gloss": "mpe lebona"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "na nkilo ya"
+    },
+    {
+      "surface": "אבקת",
+      "gloss": "mpumbu"
+    },
+    {
+      "surface": "רוכל",
+      "gloss": "ya mosali mombongo"
+    }
+  ],
+  "timestamp": "2026-09-03T22:06:43.418677654Z",
+  "model": "glm-5.3"
+}

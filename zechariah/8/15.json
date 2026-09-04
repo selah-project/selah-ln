@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zechariah 8:15",
+  "book": "zechariah",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Ndenge wana nazongaki, nazali na makanisi na mikolo oyo ya kosala malamu ⟨את⟩ Yerushalaim mpe ⟨את⟩ ndako ya Yehuda; bobanga te.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Ndenge wana"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "nazongaki"
+    },
+    {
+      "surface": "זממתי",
+      "gloss": "nazali na makanisi"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "na mikolo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "ya kosala malamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalaim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "ndako ya Yehuda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako ya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bobanga te"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "bobanga te"
+    }
+  ],
+  "timestamp": "2026-09-03T20:56:23.741970490Z",
+  "model": "glm-5.3"
+}

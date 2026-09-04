@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 25:3",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Mbula motoba okobela elanga na yo, mpe mbula motoba okobongisa vine na yo, mpe okosangisa ⟨את⟩ mbeto na yango.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "motoba"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mbula"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "okobela"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "elanga na yo"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "mpe motoba"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mbula"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "okobongisa"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "vine na yo"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "mpe okosangisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbeto na yango"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "mbeto na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:55:34.379130683Z",
+  "model": "glm-5.3"
+}

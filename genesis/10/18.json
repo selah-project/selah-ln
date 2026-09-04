@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 10:18",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "mpe ⟨את⟩ Arvadi, mpe ⟨את⟩ Zemari, mpe ⟨את⟩ Hamati; mpe na nsima bakiti ya libota ya Kenaani babatanaki.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Arvadi"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "Arvadi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Zemari"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "Zemari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Hamati"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "Hamati"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "mpe na nsima"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "babatanaki"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "bakiti ya libota"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "ya Kenaani"
+    }
+  ],
+  "timestamp": "2026-09-03T15:48:45.735023236Z",
+  "model": "glm-5.3"
+}

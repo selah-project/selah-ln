@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 29:12",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 29,
+  "translation": "Mpe Yaakov ayebisaki Rahel ete ⟨ye ndeko⟩ ya tata na ye ⟨azali⟩, mpe ete ⟨ye mwana⟩ ya Rivkah ⟨azali⟩; mpe ⟨aye⟩ apotaki mpe ayebisaki tata na ye.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "mpe ayebisaki"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "Rahel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ndeko"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ya tata na ye"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ye ⟨azali⟩"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "mpe ete"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "ya Rivkah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ye ⟨azali⟩"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "mpe apotaki"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "mpe ayebisaki"
+    },
+    {
+      "surface": "לאביה",
+      "gloss": "tata na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T15:58:33.082292246Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 42:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 42,
+  "translation": "Nalobaka epai ya El, libanga na ngai: Mpo na nini obosaki ngai? Mpo na nini nazali kokende na mawa, na bokangi ya moyibi?",
+  "tokens": [
+    {
+      "surface": "אומרה",
+      "gloss": "Nalobaka"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "epai ya El"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "libanga na ngai"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Mpo na nini"
+    },
+    {
+      "surface": "שכחתני",
+      "gloss": "obosaki ngai"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Mpo na nini"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "na mawa"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "nazali kokende"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "na bokangi"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ya moyibi"
+    }
+  ],
+  "timestamp": "2026-09-03T23:35:08.911752368Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 46:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 46,
+  "translation": "Boya, bondela misala ya Yawe, oyo atyaki bobungisi na mabele.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Boya"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "bondela"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "misala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "atyaki"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "bobungisi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T21:11:38.098442949Z",
+  "model": "glm-5.3"
+}

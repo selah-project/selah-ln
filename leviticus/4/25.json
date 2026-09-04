@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 4:25",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe kohen akanda na maki ya sacrifi ya likolo na mokolo na yango, mpe akoti yango likolo ya minyoka ya autel ya ofandra, mpe ⟨את⟩ maki na yango akolita na nse ya autel ya ofandra.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "mpe akanda"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "na maki"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ya sacrifi ya likolo"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "na mokolo na yango"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "mpe akoti"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "קרנת",
+      "gloss": "minyoka"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "autel"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ya ofandra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "maki na yango"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "maki na yango"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "akolita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "nse"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "autel"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ya ofandra"
+    }
+  ],
+  "timestamp": "2026-09-03T16:41:46.815951303Z",
+  "model": "glm-5.3"
+}

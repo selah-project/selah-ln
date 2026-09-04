@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 8:14",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe banganga-makita basalaki bongo na makita na bango mpo na kobimisa ⟨את⟩ kinnim, kasi bakoki te; mpe kinnim ekelaki na moto mpe na nyama.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Mpe basalaki"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bongo"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "banganga-makita"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "na makita na bango"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "mpo na kobimisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kinnim"
+    },
+    {
+      "surface": "הכנים",
+      "gloss": "kinnim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kasi … te"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "bakoki"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "mpe ekelaki"
+    },
+    {
+      "surface": "הכנם",
+      "gloss": "kinnim"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "na moto"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "mpe na nyama"
+    }
+  ],
+  "timestamp": "2026-09-03T16:17:54.564232129Z",
+  "model": "glm-5.3"
+}

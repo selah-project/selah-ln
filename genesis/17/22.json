@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 17:22",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 17,
+  "translation": "Asilaki koloba ⟨את⟩ ye, mpe Elohim atombaki likolo uta epai ya Avraham.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "asilaki"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "koloba"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ye"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "mpe atombaki likolo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "uta epai ya"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    }
+  ],
+  "timestamp": "2026-09-03T15:51:51.685016010Z",
+  "model": "glm-5.3"
+}

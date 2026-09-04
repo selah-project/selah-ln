@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 12:5",
+  "book": "hosea",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Abangisaki na malaku mpe alongaki; akelelaki mpe asambelaki ye; na Bet-El amonaki ⟨ye⟩, mpe kuna alobaki na biso.",
+  "tokens": [
+    {
+      "surface": "וישר",
+      "gloss": "abangisaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "malaku"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "mpe alongaki"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "akelelaki"
+    },
+    {
+      "surface": "ויתחנן",
+      "gloss": "mpe asambelaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ימצאנו",
+      "gloss": "amonaki ⟨ye⟩"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "mpe kuna"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "na biso"
+    }
+  ],
+  "timestamp": "2026-09-03T20:39:30.485371901Z",
+  "model": "glm-5.3"
+}

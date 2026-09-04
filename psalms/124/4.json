@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 124:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 124,
+  "translation": "Na ntango wana mai ebilisaki biso, elibale okotaki likolo ya molimo na biso;",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "na ntango wana"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mai"
+    },
+    {
+      "surface": "שטפונו",
+      "gloss": "ebilisaki biso"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "elibale"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "okotaki"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "molimo na biso"
+    }
+  ],
+  "timestamp": "2026-09-03T21:33:30.572230425Z",
+  "model": "glm-5.3"
+}

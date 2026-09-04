@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 3:9",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Batu ya Tsidon babengi ⟨את⟩ Hermon Shirion, mpe baEmori babengi ⟨את⟩ yango Senir.",
+  "tokens": [
+    {
+      "surface": "צידנים",
+      "gloss": "Batu ya Tsidon"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "babengi"
+    },
+    {
+      "surface": "לחרמון",
+      "gloss": "Hermon"
+    },
+    {
+      "surface": "שרין",
+      "gloss": "Shirion"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "mpe baEmori"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "babengi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yango"
+    },
+    {
+      "surface": "שניר",
+      "gloss": "Senir"
+    }
+  ],
+  "timestamp": "2026-09-03T17:24:08.283237193Z",
+  "model": "glm-5.3"
+}

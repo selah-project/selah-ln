@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 2:13",
+  "book": "hosea",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe nakosilisi esengo na yango nyonso, fete na yango, sanza ya sika na yango, mpe Shabat na yango, mpe ntango nyonso ya bikengeli na yango.",
+  "tokens": [
+    {
+      "surface": "והשבתי",
+      "gloss": "mpe-nakosilisi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "משושה",
+      "gloss": "esengo"
+    },
+    {
+      "surface": "חגה",
+      "gloss": "fete"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "sanza-ya-sika"
+    },
+    {
+      "surface": "ושבתה",
+      "gloss": "mpe-Shabat"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe-nyonso"
+    },
+    {
+      "surface": "מועדה",
+      "gloss": "bikengeli"
+    }
+  ],
+  "timestamp": "2026-09-03T20:38:07.275212051Z",
+  "model": "glm-5.3"
+}

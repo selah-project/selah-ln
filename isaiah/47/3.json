@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 47:3",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 47,
+  "translation": "Sika ya bonyumu na yo ekomonana, ata mabe na yo ekomonani; nakozwa liponyi, mpe nakokutana na moto te.",
+  "tokens": [
+    {
+      "surface": "תגל",
+      "gloss": "ekomonalani"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "sika ya bonyumu na yo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ata"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ekomoni"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "mabe na yo"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "liponyi"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "nakozwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe ... te"
+    },
+    {
+      "surface": "אפגע",
+      "gloss": "nakokutana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "na moto"
+    }
+  ],
+  "timestamp": "2026-09-03T19:33:54.243048686Z",
+  "model": "glm-5.3"
+}

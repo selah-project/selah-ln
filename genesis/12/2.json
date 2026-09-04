@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 12:2",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Mpe nakosala yo ⟨na⟩ ekolo monene, mpe nakobondisa yo, mpe nakokomisa nkombo na yo monene; mpe ozala benedision.",
+  "tokens": [
+    {
+      "surface": "ואעשך",
+      "gloss": "Mpe nakosala yo"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "⟨na⟩ ekolo"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "monene"
+    },
+    {
+      "surface": "ואברכך",
+      "gloss": "mpe nakobondisa yo"
+    },
+    {
+      "surface": "ואגדלה",
+      "gloss": "mpe nakokomisa monene"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nkombo na yo"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "mpe ozala"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "benedision"
+    }
+  ],
+  "timestamp": "2026-09-03T15:50:24.799065467Z",
+  "model": "glm-5.3"
+}

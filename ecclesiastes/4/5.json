@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Kasese azali kokanga ⟨את⟩ maboko na ye, mpe azali kolia ⟨את⟩ ebale na ye.",
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "kasese"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "azali kokanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maboko na ye"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "maboko na ye"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "mpe azali kolia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ebale na ye"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ebale na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T22:13:33.780727777Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 109:11",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 109,
+  "translation": "Mokangi-mbongo atya nalusu na nyonso oyo ezali na ye, mpe bapaya bazwaka na makasi mosala na ye.",
+  "tokens": [
+    {
+      "surface": "ינקש",
+      "gloss": "atya nalusu"
+    },
+    {
+      "surface": "נושה",
+      "gloss": "mokangi-mbongo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "na nyonso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ezali na ye"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "mpe bazwaka na makasi"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "bapaya"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "mosala na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:29:09.168539202Z",
+  "model": "glm-5.3"
+}

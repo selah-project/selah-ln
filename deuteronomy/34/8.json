@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 34:8",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 34,
+  "translation": "Mpe bana ya Israel balilaki ⟨את⟩ Moshe na mapata ya Moab mikolo ntuku misato; mpe mikolo ya kolila mpe mawa na likolo ya Moshe esilaki.",
+  "tokens": [
+    {
+      "surface": "ויבכו",
+      "gloss": "Mpe balilaki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בערבת",
+      "gloss": "na mapata"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ya Moab"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ntuku misato"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mikolo"
+    },
+    {
+      "surface": "ויתמו",
+      "gloss": "Mpe esilaki"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mikolo ya"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "kolila"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "mawa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "na likolo ya Moshe"
+    }
+  ],
+  "timestamp": "2026-09-03T17:42:15.136814658Z",
+  "model": "glm-5.3"
+}

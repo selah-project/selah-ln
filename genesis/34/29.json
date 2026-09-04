@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 34:29",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 34,
+  "translation": "Mpe ⟨את⟩ mbongo na bango nyonso, mpe ⟨את⟩ bana na bango nyonso, mpe ⟨את⟩ basi na bango babaki, mpe bapwanaki ⟨את⟩ nyonso oyo ezalaki na ndako.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mbongo na bango nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "mbongo na bango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bana na bango nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "bana na bango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "basi na bango"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "basi na bango"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "babaki"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "bapwanaki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "nyonso oyo ezalaki na ndako"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "na ndako"
+    }
+  ],
+  "timestamp": "2026-09-03T16:03:36.405297804Z",
+  "model": "glm-5.3"
+}

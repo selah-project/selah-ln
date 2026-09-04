@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 34:13",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 34,
+  "translation": "Mpe bana ya Yaakov bayanoki ⟨את⟩ Shekhem mpe ⟨את⟩ Hamor tata na ye na bokosi, mpe balobaki, mpo ete ye abebisaki ⟨את⟩ Dina ndeko wa bango.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "Mpe bayanoki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shekhem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Hamor"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamor"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "tata na ye"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "na bokosi"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "mpe balobaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "abebisaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dina"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dina"
+    },
+    {
+      "surface": "אחתם",
+      "gloss": "ndeko wa bango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:04:10.846797080Z",
+  "model": "glm-5.3"
+}

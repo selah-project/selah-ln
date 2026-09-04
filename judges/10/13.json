@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 10:13",
+  "book": "judges",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Kasi bino botiki ⟨את⟩ ngai mpe bobombaki banzambe ya bapaya; yango wana nakokoba te kokangola ⟨את⟩ bino.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Kasi bino"
+    },
+    {
+      "surface": "עזבתם",
+      "gloss": "botiki"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ ngai",
+      "marks": "ngai (bino botiki ngai)"
+    },
+    {
+      "surface": "ותעבדו",
+      "gloss": "mpe bobombaki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "banzambe"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ya bapaya"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "yango wana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "nakokoba"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "kokangola"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ bino",
+      "marks": "bino"
+    }
+  ],
+  "timestamp": "2026-09-03T18:00:29.873758730Z",
+  "model": "glm-5.3"
+}

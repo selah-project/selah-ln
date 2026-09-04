@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 43:5",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 43,
+  "translation": "Kobanga te, mpo ⟨את⟩ nazali na yo; uta na monyoli nakomema mbota na yo, mpe uta na wesete nakosangisa yo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "kobanga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ na yo",
+      "marks": "yo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "uta na monyoli"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "nakomema"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "mbota na yo"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "mpe uta na wesete"
+    },
+    {
+      "surface": "אקבצך",
+      "gloss": "nakosangisa yo"
+    }
+  ],
+  "timestamp": "2026-09-03T19:29:46.182390537Z",
+  "model": "glm-5.3"
+}

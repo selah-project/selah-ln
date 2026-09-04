@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 74:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 74,
+  "translation": "Kino tango nini, Elohim, monguna akonyokola, banguna akosepela nkombo na yo kino nsé?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "tango nini"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחרף",
+      "gloss": "akonyokola"
+    },
+    {
+      "surface": "צר",
+      "gloss": "monguna"
+    },
+    {
+      "surface": "ינאץ",
+      "gloss": "akosepela"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "banguna"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nkombo na yo"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "kino nsé"
+    }
+  ],
+  "timestamp": "2026-09-03T21:18:46.100064572Z",
+  "model": "glm-5.3"
+}

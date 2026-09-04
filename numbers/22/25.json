@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 22:25",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Mpe abati amonaki ⟨את⟩ motindami ya Yawe, mpe akangisaki yango na ngudingi, mpe ebukaki ⟨את⟩ likau ya Bilam na ngudingi, mpe Bilam abakisaki kobuta yango.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "mpe amonaki"
+    },
+    {
+      "surface": "האתון",
+      "gloss": "abati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motindami"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "motindami"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ותלחץ",
+      "gloss": "mpe akangisaki yango"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "ngudingi"
+    },
+    {
+      "surface": "ותלחץ",
+      "gloss": "mpe ebukaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "likau"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "likau"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "ya Bilam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "ngudingi"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "mpe abakisaki"
+    },
+    {
+      "surface": "להכתה",
+      "gloss": "kobuta yango"
+    }
+  ],
+  "timestamp": "2026-09-03T17:15:38.424842099Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joel 4:1",
+  "book": "joel",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpo ete, mona, na mikolo wana mpe na ntango wana, ntango nakozonga ⟨את⟩ bokangami bwa Yehuda mpe bwa Yerushalaim,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo ete"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "mona"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "na mikolo"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "wana"
+    },
+    {
+      "surface": "ובעת",
+      "gloss": "mpe na ntango"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "wana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ntango"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "nakozonga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bokangami bwa Yehuda mpe bwa Yerushalaim"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "bokangami"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "mpe bwa Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-09-03T20:43:19.595051222Z",
+  "model": "glm-5.3"
+}

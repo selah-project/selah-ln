@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 10:5",
+  "book": "job",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Mikolo na yo ezali lokola mikolo ya moto oyo akufaka, to mbula na yo ezali lokola mikolo ya moto?",
+  "tokens": [
+    {
+      "surface": "הכימי",
+      "gloss": "ezali lokola mikolo ya"
+    },
+    {
+      "surface": "אנושׁ",
+      "gloss": "moto oyo akufaka"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "mikolo na yo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "to"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "mbula na yo"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "lokola mikolo ya"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "moto"
+    }
+  ],
+  "timestamp": "2026-09-03T23:36:47.398376999Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 29:21",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 29,
+  "translation": "Yaakov alobaki na Lavan: Pesa ⟨את⟩ mwasi na ngai, mpo mikolo na ngai emalaki, mpe nakokota epai na ye.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "Pesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwasi na ngai"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "mwasi na ngai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "emalaki"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mikolo na ngai"
+    },
+    {
+      "surface": "ואבואה",
+      "gloss": "mpe nakokota"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "epai na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T15:58:39.106175355Z",
+  "model": "glm-5.3"
+}

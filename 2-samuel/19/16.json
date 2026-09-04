@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 19:16",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Mpe mokonzi azongaki, mpe aki tii na ebale Yarden, mpe Yehuda eyaki na Gilgala mpo na kokende kokutana na mokonzi, mpo na kolekisa ⟨את⟩ mokonzi na ⟨את⟩ ebale Yarden.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "mpe azongaki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "mpe aki"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tii na"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ebale Yarden"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "mpe Yehuda"
+    },
+    {
+      "surface": "בא",
+      "gloss": "eyaki"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "na Gilgala"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "mpo na kokende"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "kokutana na"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "mpo na kolekisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mokonzi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ebale Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ebale Yarden"
+    }
+  ],
+  "timestamp": "2026-09-03T18:38:35.830510504Z",
+  "model": "glm-5.3"
+}

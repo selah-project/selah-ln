@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 21:25",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Kolwia mpo na kolwia, paza mpo na paza, njata mpo na njata.",
+  "tokens": [
+    {
+      "surface": "כויה",
+      "gloss": "kolwia"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "mpo na"
+    },
+    {
+      "surface": "כויה",
+      "gloss": "kolwia"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "paza"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "mpo na"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "paza"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "njata"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "mpo na"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "njata"
+    }
+  ],
+  "timestamp": "2026-09-03T16:24:58.488142438Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 10:8",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Mpe bana ya Aharon, bakohen, bafongola bitrompe; mpe yango ekokala na bino mibeko ya libela mpo na mbotama na bino.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "bana ya"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "bakohen"
+    },
+    {
+      "surface": "יתקעו",
+      "gloss": "bafongola"
+    },
+    {
+      "surface": "בחצצרות",
+      "gloss": "bitrompe"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "mpe yango ekokala"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "na bino"
+    },
+    {
+      "surface": "לחקת",
+      "gloss": "mibeko"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ya libela"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "mpo na mbotama na bino"
+    }
+  ],
+  "timestamp": "2026-09-03T17:05:03.129872978Z",
+  "model": "glm-5.3"
+}

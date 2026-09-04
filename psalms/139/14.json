@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 139:14",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 139,
+  "translation": "Natambolaka yo lokumu, mpo nasalemaki na nguya; misala na yo ezali ya kokamwa, mpe molimo na ngai eyebi yango malamu mingi.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Natambolaka yo lokumu"
+    },
+    {
+      "surface": "על",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "na nguya"
+    },
+    {
+      "surface": "נפליתי",
+      "gloss": "nasalemaki"
+    },
+    {
+      "surface": "נפלאים",
+      "gloss": "ya kokamwa"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "misala na yo"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "mpe molimo na ngai"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "eyebi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "malamu mingi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:35:02.084241888Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 19:5",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Mpe bapolisi ya mokonzi Hizkiyahu bayaki epai ya Yeshayahu.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Mpe ... bayaki"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "bapolisi ya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkiyahu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshayahu"
+    }
+  ],
+  "timestamp": "2026-09-03T19:08:11.413467687Z",
+  "model": "glm-5.3"
+}

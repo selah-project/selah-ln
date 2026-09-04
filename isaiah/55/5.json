@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 55:5",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 55,
+  "translation": "Talá, ekólo oyo oyebi te okobenga, mpe ekólo oyo bayebi yo te bakokima epai na yo, mpo na Yawe Elohim na yo, mpe mpo na Mosantu ya Israel; mpo apesaki yo nkembo.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Talá"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ekólo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "oyebi"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "okobenga"
+    },
+    {
+      "surface": "וגוי",
+      "gloss": "mpe ekólo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ידעוך",
+      "gloss": "bayebi yo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "epai na yo"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "bakokima"
+    },
+    {
+      "surface": "למען",
+      "gloss": "mpo na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim na yo"
+    },
+    {
+      "surface": "ולקדוש",
+      "gloss": "mpe mpo na Mosantu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "פארך",
+      "gloss": "apesaki yo nkembo"
+    }
+  ],
+  "timestamp": "2026-09-03T19:34:50.200722891Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 42:3",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 42,
+  "translation": "Likaya ebukambukami, yango akobuka te; mpe pashi ya bobele, yango akopima te; na bosolo akobimisa bosiko.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "likaya"
+    },
+    {
+      "surface": "רצוץ",
+      "gloss": "ebukambukami"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ישבור",
+      "gloss": "akobuka"
+    },
+    {
+      "surface": "ופשתה",
+      "gloss": "mpe pashi"
+    },
+    {
+      "surface": "כהה",
+      "gloss": "ya bobele"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יכבנה",
+      "gloss": "akopima"
+    },
+    {
+      "surface": "לאמת",
+      "gloss": "na bosolo"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "akobimisa"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "bosiko"
+    }
+  ],
+  "timestamp": "2026-09-03T19:31:28.471700007Z",
+  "model": "glm-5.3"
+}

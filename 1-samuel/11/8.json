@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 11:8",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpe akombole bango na Bezek, mpe bana ya Israel bazalaki nkama misato ya nkoto, mpe bato ya Yehuda nkoto ntuku misato.",
+  "tokens": [
+    {
+      "surface": "ויפקדם",
+      "gloss": "mpe akombole bango"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "na Bezek"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "mpe bazalaki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "misato"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "nkama"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "nkoto"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "mpe bato"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ntuku misato"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "nkoto"
+    }
+  ],
+  "timestamp": "2026-09-03T18:14:04.555001746Z",
+  "model": "glm-5.3"
+}

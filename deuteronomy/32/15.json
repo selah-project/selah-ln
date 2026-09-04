@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 32:15",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 32,
+  "translation": "Mpe Yeshurun akomaki monene, mpe apusaki libaku; oliaki mafuta, okomaki mokuse, okangami na mafuta; mpe abosaki Eloa oyo asalaki ye, mpe atyaki motuya moke libanga ya lobiko na ye.",
+  "tokens": [
+    {
+      "surface": "וישמן",
+      "gloss": "Mpe akomaki monene"
+    },
+    {
+      "surface": "ישרון",
+      "gloss": "Yeshurun"
+    },
+    {
+      "surface": "ויבעט",
+      "gloss": "mpe apusaki libaku"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "oliaki mafuta"
+    },
+    {
+      "surface": "עבית",
+      "gloss": "okomaki mokuse"
+    },
+    {
+      "surface": "כשית",
+      "gloss": "okangami na mafuta"
+    },
+    {
+      "surface": "ויטש",
+      "gloss": "mpe abosaki"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloa"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "oyo asalaki ye"
+    },
+    {
+      "surface": "וינבל",
+      "gloss": "mpe atyaki motuya moke"
+    },
+    {
+      "surface": "צור",
+      "gloss": "libanga"
+    },
+    {
+      "surface": "ישעתו",
+      "gloss": "ya lobiko na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T17:41:48.509686326Z",
+  "model": "glm-5.3"
+}

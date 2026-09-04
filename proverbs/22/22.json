@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 22:22",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Kokolaka motu mabe te, mpo azali motu, mpe kotondisa mvumbi na esika ya bokonzi te.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "Kokolaka mabe"
+    },
+    {
+      "surface": "דל",
+      "gloss": "motu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "דל",
+      "gloss": "motu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "azali"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mpe ... te"
+    },
+    {
+      "surface": "תדכא",
+      "gloss": "kotondisa"
+    },
+    {
+      "surface": "עני",
+      "gloss": "mvumbi"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "na esika ya bokonzi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:45:53.143507148Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 6:4",
+  "book": "esther",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpe mokonzi alobaki: Nani azali na esika ya libanda? Mpe Haman ayaki na esika ya libanda ya ndako ya mokonzi, ya libanda, mpo na koloba na mokonzi mpo na kopumba ⟨את⟩ Mordekai na nzete oyo atongaki mpo na ye.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Nani"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "azali na esika ya libanda"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "mpe Haman"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ayaki"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "na esika ya libanda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya mokonzi"
+    },
+    {
+      "surface": "החיצונה",
+      "gloss": "ya libanda"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "mpo na koloba"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "na mokonzi"
+    },
+    {
+      "surface": "לתלות",
+      "gloss": "mpo na kopumba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordekai"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekai"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "nzete"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "atongaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mpo na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T22:18:08.792754932Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 9:7",
+  "book": "amos",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Boyi te, boye bana ya bato ya Kushu nde boye na ngai, bana ya Israel? — liloba ya Yawe. Boyi te, ⟨את⟩ Israel natundaki na mboka Mitsraim, mpe Bafilisti na Kaphtor, mpe Aram na Kir?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Boyi te"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "boye bana ya"
+    },
+    {
+      "surface": "כשיים",
+      "gloss": "bato ya Kushu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "bo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "liloba ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Boyi te"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "natundaki"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "na mboka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "ופלשתיים",
+      "gloss": "mpe Bafilisti"
+    },
+    {
+      "surface": "מכפתור",
+      "gloss": "na Kaphtor"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "mpe Aram"
+    },
+    {
+      "surface": "מקיר",
+      "gloss": "na Kir"
+    }
+  ],
+  "timestamp": "2026-09-03T20:46:48.771735548Z",
+  "model": "glm-5.3"
+}

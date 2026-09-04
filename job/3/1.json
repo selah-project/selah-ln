@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 3:1",
+  "book": "job",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Na sima ya yango Iyob afungolaki ⟨את⟩ monoko na yango, mpe asalaki mabe na ⟨את⟩ mokolo na yango.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "na sima ya"
+    },
+    {
+      "surface": "כן",
+      "gloss": "yango"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "afungolaki"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "monoko na yango"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "monoko na yango"
+    },
+    {
+      "surface": "ויקלל",
+      "gloss": "mpe asalaki mabe na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mokolo na yango"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "mokolo na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:50:39.727365838Z",
+  "model": "glm-5.3"
+}

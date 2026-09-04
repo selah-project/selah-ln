@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 104:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 104,
+  "translation": "Asalaka batindami na ye mampema, basalisi na ye moto ya kobola.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Asalaka"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "batindami na ye"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "mampema"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "basalisi na ye"
+    },
+    {
+      "surface": "אש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "להט",
+      "gloss": "ya kobola"
+    }
+  ],
+  "timestamp": "2026-09-03T21:26:50.361058610Z",
+  "model": "glm-5.3"
+}

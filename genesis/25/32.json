@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 25:32",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Esav alobaki: Tala, ngai nazali kokende kokufa, mpe mpo na nini oyo ⟨ezali⟩ likonzi ya libanza na ngai?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Tala"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "nazali kokende"
+    },
+    {
+      "surface": "למות",
+      "gloss": "kokufa"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "mpe mpo na nini"
+    },
+    {
+      "surface": "זה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "בכרה",
+      "gloss": "likonzi ya libanza"
+    }
+  ],
+  "timestamp": "2026-09-03T15:57:48.781583109Z",
+  "model": "glm-5.3"
+}

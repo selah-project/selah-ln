@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "micah 6:14",
+  "book": "micah",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Okolia mpe okitosama te, mpe bobemi na yo ezali na kati na yo; okozwa mpe okobikisa te, mpe oyo okobikisa, nakopesa na sabre.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "okolia"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "okitosama"
+    },
+    {
+      "surface": "וישחך",
+      "gloss": "mpe bobemi na yo"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "na kati na yo"
+    },
+    {
+      "surface": "ותסג",
+      "gloss": "mpe okozwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תפליט",
+      "gloss": "okobikisa"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "mpe oyo"
+    },
+    {
+      "surface": "תפלט",
+      "gloss": "okobikisa"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "na sabre"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "nakopesa"
+    }
+  ],
+  "timestamp": "2026-09-03T20:50:28.349053828Z",
+  "model": "glm-5.3"
+}

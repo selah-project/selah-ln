@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 1:15",
+  "book": "judges",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe alobaki na ye: Pesa ngai buraka; mpo opekisaki ngai mabele ya sud, pesa mpe ngai masanga ya mai. Mpe Kaleba apesaki ye ⟨את⟩ masanga ya likolo mpe ⟨את⟩ masanga ya nse.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "pesa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "buraka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "ya sud"
+    },
+    {
+      "surface": "נתתני",
+      "gloss": "opekisaki ngai"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "pesa mpe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "masanga"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ya mai"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "mpe apesaki"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ye"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kaleba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masanga ya likolo"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "masanga"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "ya likolo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "masanga ya nse"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "masanga"
+    },
+    {
+      "surface": "תחתית",
+      "gloss": "ya nse"
+    }
+  ],
+  "timestamp": "2026-09-03T17:56:18.279117634Z",
+  "model": "glm-5.3"
+}

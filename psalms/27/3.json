@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 27:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 27,
+  "translation": "Soki etangi ya basoda etutami ngai, motema na ngai ekobanga te; soki etumba etombolami ngai, na yango nazali na bondimi.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "soki"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "etangi ya basoda etutami"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "etangi ya basoda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "ekobanga"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "motema na ngai"
+    },
+    {
+      "surface": "אם",
+      "gloss": "soki"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "etomba"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "etumba"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "anne",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "nazali na bondimi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:07:26.728025127Z",
+  "model": "glm-5.3"
+}

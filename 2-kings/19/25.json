@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 19:25",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Oyoki te? Na mbala ya mosusu ngai nasalaki ⟨את⟩ yango, na mikolo ya kala natungaki yango; sikoyo namemisi yango, mpe ekomaki seke, bitungutu ya bomonbongo, engumba ya makasi ebongwanaki bitungutu.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "te"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "oyoki"
+    },
+    {
+      "surface": "למרחוק",
+      "gloss": "na mbala ya mosusu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "yango"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "nasalaki"
+    },
+    {
+      "surface": "למימי",
+      "gloss": "na mikolo ya"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "kala"
+    },
+    {
+      "surface": "ויצרתיה",
+      "gloss": "natungaki yango"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "sikoyo"
+    },
+    {
+      "surface": "הביאתיה",
+      "gloss": "namemisi yango"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "mpe ekomaki"
+    },
+    {
+      "surface": "להשות",
+      "gloss": "seke"
+    },
+    {
+      "surface": "גלים",
+      "gloss": "bitungutu"
+    },
+    {
+      "surface": "נצים",
+      "gloss": "ya bomonbongo"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "engumba"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "ya makasi"
+    }
+  ],
+  "timestamp": "2026-09-03T19:09:29.511092964Z",
+  "model": "glm-5.3"
+}

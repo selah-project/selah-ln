@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 28:10",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 28,
+  "translation": "Mpe Hananya moprophète azwaki ⟨את⟩ mokangisi uta na kingo ya Yirmeya moprophète, mpe abukaki yango.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "mpe azwaki"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Hananya"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "moprophète"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mokangisi"
+    },
+    {
+      "surface": "המוטה",
+      "gloss": "mokangisi"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "uta na"
+    },
+    {
+      "surface": "צואר",
+      "gloss": "kingo"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "Yirmeya"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "moprophète"
+    },
+    {
+      "surface": "וישברהו",
+      "gloss": "mpe abukaki yango"
+    }
+  ],
+  "timestamp": "2026-09-03T19:55:21.147240577Z",
+  "model": "glm-5.3"
+}

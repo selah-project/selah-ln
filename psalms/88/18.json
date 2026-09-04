@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 88:18",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 88,
+  "translation": "Bazingaki ngai lokola mai mokolo nyonso, bakangaki likolo ya ngai elongo moko.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "bazingaki ngai"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "lokola mai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "היום",
+      "gloss": "mokolo"
+    },
+    {
+      "surface": "הקיפו",
+      "gloss": "bakangaki"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "likolo ya ngai"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "elongo moko"
+    }
+  ],
+  "timestamp": "2026-09-03T21:22:00.531304683Z",
+  "model": "glm-5.3"
+}

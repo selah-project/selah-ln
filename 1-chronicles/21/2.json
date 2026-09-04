@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 21:2",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "David alobaki epai ya Yoab mpe epai ya bakonzi ya mboka: Botambola, bopala ⟨את⟩ Israel uta na Beersheba kino na Dan, mpe boyela ngai ⟨את⟩ motango, mpe nayebake yango.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mpe epai ya"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "bakonzi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ya mboka"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Botambola"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "bopala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "uta na"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Beersheba"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kino na"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "mpe boyela ngai"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "epai na ngai"
+    },
+    {
+      "surface": "ואדעה",
+      "gloss": "mpe nayebake"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motango na bango"
+    },
+    {
+      "surface": "מספרם",
+      "gloss": "motango na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T22:48:45.195996890Z",
+  "model": "glm-5.3"
+}

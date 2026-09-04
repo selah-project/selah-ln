@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 26:17",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "Mpe Shaul amoyebaki ⟨את⟩ liloba ya David, mpe alobaki: Liloba na yo oyo, mwana na ngai David? Mpe David alobaki: Liloba na ngai, nkolo na ngai, mokonzi.",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "amoyebaki"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "liloba ya David"
+    },
+    {
+      "surface": "קול",
+      "gloss": "liloba"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "הקולך",
+      "gloss": "liloba na yo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mwana na ngai"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "liloba na ngai"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "nkolo na ngai"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    }
+  ],
+  "timestamp": "2026-09-03T23:20:59.730112865Z",
+  "model": "glm-5.3"
+}

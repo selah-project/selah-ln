@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 30:23",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 30,
+  "translation": "Mpe azwaki mema, mpe abotaki mwana mobali, mpe alobaki: Elohim alongolaki ⟨את⟩ maloya na ngai.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "Mpe ... azwaki mema"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "mpe ... abotaki"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana mobali"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "alongolaki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maloya na ngai"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "maloya na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T15:58:45.039307575Z",
+  "model": "glm-5.3"
+}

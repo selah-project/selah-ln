@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 25:8",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Tuna ⟨את⟩ bilenge na yo, mpe bakolobela yo; mpe bilenge bakokuta boboto na miso na yo, mpo ete na mokolo ya malamu toyaki; pesa na botondi ⟨את⟩ oyo maboko na yo ekokuta, na basaleli na yo mpe na mwana na yo, David.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "Tuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bilenge na yo"
+    },
+    {
+      "surface": "נעריך",
+      "gloss": "bilenge na yo"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "mpe bakolobela yo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yo"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "mpe bakokuta"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "bilenge"
+    },
+    {
+      "surface": "חן",
+      "gloss": "boboto"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "na miso na yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mokolo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ya malamu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "toyaki"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "pesa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "na botondi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oyo maboko na yo ekokuta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "ekokuta"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "maboko na yo"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "na basaleli na yo"
+    },
+    {
+      "surface": "ולבנך",
+      "gloss": "mpe na mwana na yo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "David"
+    }
+  ],
+  "timestamp": "2026-09-03T18:22:23.248018648Z",
+  "model": "glm-5.3"
+}

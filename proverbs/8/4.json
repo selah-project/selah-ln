@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 8:4",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Bino bamilio, nabengi, mpe mongongo na ngai epai ya bana ya bato.",
+  "tokens": [
+    {
+      "surface": "אליכם",
+      "gloss": "bino"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "bamilio"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "nabengi"
+    },
+    {
+      "surface": "וקולי",
+      "gloss": "mpe mongongo na ngai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ya"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "bato"
+    }
+  ],
+  "timestamp": "2026-09-03T21:39:57.749083487Z",
+  "model": "glm-5.3"
+}

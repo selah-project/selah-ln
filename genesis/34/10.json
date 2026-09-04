@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 34:10",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 34,
+  "translation": "Mpe na ⟨את⟩ biso bofanda, mpe mabele ezali liboso na bino; fandá, mpe bosolo yango, mpe bokanga yango.",
+  "tokens": [
+    {
+      "surface": "ואתנו",
+      "gloss": "mpe ⟨את⟩ biso"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "bofanda"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "mpe mabele"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ezali"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "liboso na bino"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "fandá"
+    },
+    {
+      "surface": "וסחרוה",
+      "gloss": "mpe bosolo yango"
+    },
+    {
+      "surface": "והאחזו",
+      "gloss": "mpe bokanga"
+    },
+    {
+      "surface": "בה",
+      "gloss": "yango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:03:28.702959217Z",
+  "model": "glm-5.3"
+}

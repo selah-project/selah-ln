@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 20:3",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 20,
+  "translation": "Mpe alobaki na ye ndenge oyo: Ben-Hadad alobi: fallo na yo mpe sato na yo ezali ya ngai, mpe basi na yo mpe bana na yo oyo malamu bazali ya ngai.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ndenge oyo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "alobi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "כספך",
+      "gloss": "fallo na yo"
+    },
+    {
+      "surface": "וזהבך",
+      "gloss": "mpe sato na yo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ya ngai"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ezali"
+    },
+    {
+      "surface": "ונשיך",
+      "gloss": "mpe basi na yo"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "mpe bana na yo"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "oyo malamu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ya ngai"
+    },
+    {
+      "surface": "הם",
+      "gloss": "bazali"
+    }
+  ],
+  "timestamp": "2026-09-03T18:56:18.414644126Z",
+  "model": "glm-5.3"
+}

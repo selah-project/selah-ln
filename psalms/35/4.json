@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 35:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 35,
+  "translation": "Bayekama mpe bazwa mawa baluki molimo na ngai; basenga nsima mpe babungisama, bateyi mabe na ngai.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "Bayekama"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "mpe bazwa mawa"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "baluki"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "molimo na ngai"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "basenga"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "nsima"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "mpe babungisama"
+    },
+    {
+      "surface": "חשבי",
+      "gloss": "bateyi"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "mabe na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:08:45.169458056Z",
+  "model": "glm-5.3"
+}

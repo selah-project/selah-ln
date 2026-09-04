@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 64:8",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 64,
+  "translation": "Koloba makasi te, Yawe, tii mingi, mpe kokanisa mabe te likolo na mbula na mbula; talá, talá biso mpose, tozali bato na yo nyonso.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תקצף",
+      "gloss": "Koloba makasi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tii"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mingi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "likolo na mbula na mbula"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "kokanisa"
+    },
+    {
+      "surface": "עון",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "הן",
+      "gloss": "talá"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "talá biso"
+    },
+    {
+      "surface": "נא",
+      "gloss": "mpose"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bato na yo"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "nyonso"
+    }
+  ],
+  "timestamp": "2026-09-03T19:38:42.394925648Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 9:12",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Mpe bato bazongaki te epai ya oyo abetaka ye, mpe ⟨את⟩ Yawe Tsebaot balukaki te.",
+  "tokens": [
+    {
+      "surface": "והעם",
+      "gloss": "Mpe bato"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "שב",
+      "gloss": "bazongaki"
+    },
+    {
+      "surface": "עד",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "המכהו",
+      "gloss": "oyo abetaka ye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Yawe Tsebaot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "balukaki"
+    }
+  ],
+  "timestamp": "2026-09-03T19:16:44.218293881Z",
+  "model": "glm-5.3"
+}

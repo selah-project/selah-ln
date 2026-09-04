@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 19:27",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Bokanga te ndambo ya motó na bino, mpe bobebisa te ⟨את⟩ ndambo ya minsembe na bino.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תקפו",
+      "gloss": "bokanga"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "ndambo"
+    },
+    {
+      "surface": "ראשכם",
+      "gloss": "ya motó na bino"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "bobebisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndambo ya minsembe na bino"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "ndambo"
+    },
+    {
+      "surface": "זקנך",
+      "gloss": "ya minsembe na bino"
+    }
+  ],
+  "timestamp": "2026-09-03T23:15:28.897416361Z",
+  "model": "glm-5.3"
+}

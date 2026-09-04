@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 48:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 48,
+  "translation": "Tofundelaki hesed na yo (bolingo ya sombo), Elohim, kati na ndako monene na yo.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "tofundelaki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed na yo"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "kati na"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "ndako monene na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:11:38.674825688Z",
+  "model": "glm-5.3"
+}

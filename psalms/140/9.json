@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 140:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 140,
+  "translation": "Yawe, opesa te mposa ya mabe; makanesa na yango mabe, obimisa te; bango bakotombwama. Sela.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "opesa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מאויי",
+      "gloss": "mposa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ya mabe"
+    },
+    {
+      "surface": "זממו",
+      "gloss": "makanesa na yango"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תפק",
+      "gloss": "obimisa"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "bakotombwama"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-03T21:34:48.924988643Z",
+  "model": "glm-5.3"
+}

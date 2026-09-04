@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 2:41",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe Shallum azalaki tata ya ⟨את⟩ Yekamia, mpe Yekamia azalaki tata ya ⟨את⟩ Elishama.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "Mpe Shallum"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "azalaki tata ya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yekamia"
+    },
+    {
+      "surface": "יקמיה",
+      "gloss": "Yekamia"
+    },
+    {
+      "surface": "ויקמיה",
+      "gloss": "mpe Yekamia"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "azalaki tata ya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elishama"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Elishama"
+    }
+  ],
+  "timestamp": "2026-09-03T22:39:47.181171788Z",
+  "model": "glm-5.3"
+}

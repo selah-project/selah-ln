@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 45:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 45,
+  "translation": "Bana basi ya bakonzi bazali na kati ya bato ya lokumu na yo; mwasi ya mokonzi azelaki na loboko ya mwambe na yo na wolo ya Ofira.",
+  "tokens": [
+    {
+      "surface": "בנות",
+      "gloss": "bana basi"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "ya bakonzi"
+    },
+    {
+      "surface": "ביקרותיך",
+      "gloss": "na kati ya bato ya lokumu na yo"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "azelaki"
+    },
+    {
+      "surface": "שגל",
+      "gloss": "mwasi ya mokonzi"
+    },
+    {
+      "surface": "לימינך",
+      "gloss": "na loboko ya mwambe na yo"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "na wolo"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "ya Ofira"
+    }
+  ],
+  "timestamp": "2026-09-03T21:11:29.689830106Z",
+  "model": "glm-5.3"
+}

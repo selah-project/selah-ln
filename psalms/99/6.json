@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 99:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 99,
+  "translation": "Moshe mpe Aharon kati ya bakoheni na ye, mpe Shmuel kati ya babengi nkombo na ye; babengaki Yawe, mpe ye ayanolaki bango.",
+  "tokens": [
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "mpe Aharon"
+    },
+    {
+      "surface": "בכהניו",
+      "gloss": "kati ya bakoheni na ye"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "mpe Shmuel"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "kati ya babengi"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nkombo na ye"
+    },
+    {
+      "surface": "קראים",
+      "gloss": "babengaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "mpe ye"
+    },
+    {
+      "surface": "יענם",
+      "gloss": "ayanolaki bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:26:29.839116019Z",
+  "model": "glm-5.3"
+}

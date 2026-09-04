@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 3:10",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Boloba: moto ya sembo, ete ⟨ezali⟩ malamu mpo na ye, ete bakolia mboto ya misala na bango.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "boloba"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "moto ya sembo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "malamu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "mboto"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "ya misala na bango"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "bakolia"
+    }
+  ],
+  "timestamp": "2026-09-03T19:12:46.756303063Z",
+  "model": "glm-5.3"
+}

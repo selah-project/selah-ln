@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 141:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 141,
+  "translation": "Bazuzi na bango etumbwamaki na maboko ya libanga, mpe bakoyoka maloba na ngai, mpo ete ezali momo.",
+  "tokens": [
+    {
+      "surface": "נשמטו",
+      "gloss": "etumbwamaki"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "na maboko ya"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "libanga"
+    },
+    {
+      "surface": "שפטיהם",
+      "gloss": "bazuzi na bango"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "mpe bakoyoka"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "maloba na ngai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "נעמו",
+      "gloss": "ezali momo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:35:36.455870354Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 7:1",
+  "book": "esther",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mpe mokonzi akoki, mpe Haman, komela elongo na Ester mwasi-mokonzi.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "mpe akoki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "mpe Haman"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "komela"
+    },
+    {
+      "surface": "עם",
+      "gloss": "elongo na"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "mwasi-mokonzi"
+    }
+  ],
+  "timestamp": "2026-09-03T22:19:25.517918015Z",
+  "model": "glm-5.3"
+}

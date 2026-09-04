@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 128:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 128,
+  "translation": "Liloba ya botomboli: Bozali-boni moto nyonso oyo abangaka Yawe, mpe atambolaka na banzela na ye!",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Liloba"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ya botomboli"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Bozali-boni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "mobangi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "atambolaka"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "na banzela na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:33:04.244667735Z",
+  "model": "glm-5.3"
+}

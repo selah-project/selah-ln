@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 39:9",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 39,
+  "translation": "Karre ezalaki ⟨na⟩ bobati mibale; basalaki ⟨את⟩ hoshen; bolei na yango zete moko, mpe boziki na yango zete moko, na bobati mibale.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "karre"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ezalaki"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "bobati mibale"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "basalaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hoshen"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "hoshen"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "zete"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "bolei na yango"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "mpe zete"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "boziki na yango"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "bobati mibale"
+    }
+  ],
+  "timestamp": "2026-09-03T16:36:42.943254085Z",
+  "model": "glm-5.3"
+}

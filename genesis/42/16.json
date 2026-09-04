@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 42:16",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 42,
+  "translation": "Botinda kati na bino moko, mpe amema ⟨את⟩ ndeko na bino; mpe bino bokangama, mpe bokesanama maloba na bino, soki bosolo ezali ⟨את⟩ na bino; mpe soki te, bomoi ya Parao, ete bino bozali baespion.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "Botinda"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "kati na bino"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "moko"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "mpe amema"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndeko na bino"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "ndeko na bino"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "mpe bino"
+    },
+    {
+      "surface": "האסרו",
+      "gloss": "bokangama"
+    },
+    {
+      "surface": "ויבחנו",
+      "gloss": "mpe bokesanama"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "maloba na bino"
+    },
+    {
+      "surface": "האמת",
+      "gloss": "bosolo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ na bino",
+      "marks": "bino"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "mpe soki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "חי",
+      "gloss": "bomoi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "baespion"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "bino bozali"
+    }
+  ],
+  "timestamp": "2026-09-03T16:08:45.403718440Z",
+  "model": "glm-5.3"
+}

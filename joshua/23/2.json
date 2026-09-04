@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 23:2",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Yehoshua abengaki Israel nyonso, bankulu na yango, bansongo na yango, bazuzi na yango, mpe bakambi na yango, mpe alobaki na bango: ngai nazali mokolo, nakoti na mikolo.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "abengaki"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לזקניו",
+      "gloss": "bankulu na yango"
+    },
+    {
+      "surface": "ו לראשיו",
+      "gloss": "mpe bansongo na yango"
+    },
+    {
+      "surface": "ו לשפטיו",
+      "gloss": "mpe bazuzi na yango"
+    },
+    {
+      "surface": "ו לשטריו",
+      "gloss": "mpe bakambi na yango"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "nazali mokolo"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "nakoti"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "na mikolo"
+    }
+  ],
+  "timestamp": "2026-09-03T17:55:16.801547172Z",
+  "model": "glm-5.3"
+}

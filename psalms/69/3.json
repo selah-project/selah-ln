@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 69:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 69,
+  "translation": "Nakweaki na mokolo ya bonene, mpe esika ya lipanzanzo ezali te; nakotaki na bonene ya mai, mpe ebale esopolaki ngai.",
+  "tokens": [
+    {
+      "surface": "טבעתי",
+      "gloss": "Nakweaki"
+    },
+    {
+      "surface": "ביון",
+      "gloss": "na"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "mokolo ya bonene"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mpe ezali te"
+    },
+    {
+      "surface": "מעמד",
+      "gloss": "esika ya lipanzanzo"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "nakotaki"
+    },
+    {
+      "surface": "במעמקי",
+      "gloss": "na bonene ya"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mai"
+    },
+    {
+      "surface": "ושבלת",
+      "gloss": "mpe ebale"
+    },
+    {
+      "surface": "שטפתני",
+      "gloss": "esopolaki ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:17:13.858945107Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 26:6",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "Akeaki mpe alwanaki na Bafilisti, mpe abukaki ⟨את⟩ mopako ya Gat mpe ⟨את⟩ mopako ya Yavne mpe ⟨את⟩ mopako ya Ashdod, mpe atongaki bamboka na Ashdod mpe o kati ya Bafilisti.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "akeaki"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "alwanaki"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "na Bafilisti"
+    },
+    {
+      "surface": "ויפרץ",
+      "gloss": "abukaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mopako ya Gat"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "mopako"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mopako ya Yavne"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "mopako"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "Yavne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mopako ya Ashdod"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "mopako"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Ashdod"
+    },
+    {
+      "surface": "ויבנה",
+      "gloss": "atongaki"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "bamboka"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "na Ashdod"
+    },
+    {
+      "surface": "ובפלשתים",
+      "gloss": "mpe o kati ya Bafilisti"
+    }
+  ],
+  "timestamp": "2026-09-03T23:04:46.818299362Z",
+  "model": "glm-5.3"
+}

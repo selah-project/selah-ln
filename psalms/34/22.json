@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 34:22",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 34,
+  "translation": "Mabe ekoboma moto mabe, mpe bokeri ya moto ya sembo bakosambama.",
+  "tokens": [
+    {
+      "surface": "תמותת",
+      "gloss": "ekoboma"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "moto mabe"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "Mabe"
+    },
+    {
+      "surface": "ושנאי",
+      "gloss": "mpe bokeri"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ya moto ya sembo"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "bakosambama"
+    }
+  ],
+  "timestamp": "2026-09-03T21:07:43.465715874Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 19:16",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Mpe ⟨את⟩ Yehu mwana ya Nimshi okonyoila lokola mokonzi na Israel; mpe ⟨את⟩ Elisha mwana ya Shafat, ya Abel-Mehola, okonyoila lokola navi na esika na yo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Yehu"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "נמשי",
+      "gloss": "ya Nimshi"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "okonyoila"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "lokola mokonzi"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Elisha"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "ya Shafat"
+    },
+    {
+      "surface": "מאבל",
+      "gloss": "ya Abel"
+    },
+    {
+      "surface": "מחולה",
+      "gloss": "Mehola"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "okonyoila"
+    },
+    {
+      "surface": "לנביא",
+      "gloss": "lokola navi"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "na esika na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T18:55:50.001796400Z",
+  "model": "glm-5.3"
+}

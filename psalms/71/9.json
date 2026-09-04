@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 71:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 71,
+  "translation": "Kobwaka ngai te na ntango ya bokolo; soki makasi na ngai esilaki, tikala ngai te.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תשליכני",
+      "gloss": "Kobwaka ngai"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "na ntango ya"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "bokolo"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "soki ... esilaki"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "makasi na ngai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "tikala ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:16:44.790524784Z",
+  "model": "glm-5.3"
+}

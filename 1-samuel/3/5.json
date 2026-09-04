@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 3:5",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe akangaki na Eli, mpe alobaki: Nakokoto awa, mpo obengaki ngai. Mpe Eli alobaki: Nabengi yo te; zonga, kanga miso. Mpe akendaki mpe akangaki na butu.",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "akangaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Nakokoto awa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "obengaki"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "Nabengi"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "zonga"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "kanga miso"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "akendaki"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "akangaki na butu"
+    }
+  ],
+  "timestamp": "2026-09-04T00:19:17.672159388Z",
+  "model": "glm-5.3"
+}

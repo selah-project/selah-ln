@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 107:16",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 107,
+  "translation": "Mpo abukaki bikiti ya mongomba, mpe mabende ya sinda akatakaki.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "abukaki"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "bikiti"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ya mongomba"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "mpe mabende"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "ya sinda"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "akatakaki"
+    }
+  ],
+  "timestamp": "2026-09-03T21:28:15.535452251Z",
+  "model": "glm-5.3"
+}

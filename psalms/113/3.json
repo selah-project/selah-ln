@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 113:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 113,
+  "translation": "Uta elei ya moi kino ekita na yango, nkombo ya Yawe esanzami.",
+  "tokens": [
+    {
+      "surface": "ממזרח",
+      "gloss": "uta elei ya"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "moi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "ekita na yango"
+    },
+    {
+      "surface": "מהלל",
+      "gloss": "esanzami"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nkombo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T21:29:09.507590985Z",
+  "model": "glm-5.3"
+}

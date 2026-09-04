@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 25:11",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Yovel yango, mbula ya ntuku mitano, ekokani na bino: bobobwaka te, mpe bokokata te ⟨את⟩ bikoli na yango mosusu, mpe bokokunga te ⟨את⟩ minele na yango oyo ebongwami te.",
+  "tokens": [
+    {
+      "surface": "יובל",
+      "gloss": "yovel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yango"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "mbula ya"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "ntuku mitano"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mbula"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ekokani"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "na bino"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תזרעו",
+      "gloss": "bobwaka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "תקצרו",
+      "gloss": "bokokata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bikoli na yango mosusu"
+    },
+    {
+      "surface": "ספיחיה",
+      "gloss": "bikoli na yango mosusu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "תבצרו",
+      "gloss": "bokokunga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minele na yango oyo ebongwami te"
+    },
+    {
+      "surface": "נזריה",
+      "gloss": "minele na yango oyo ebongwami te"
+    }
+  ],
+  "timestamp": "2026-09-03T16:55:40.939643157Z",
+  "model": "glm-5.3"
+}

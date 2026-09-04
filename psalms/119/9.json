@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 119:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Na nini motoko asukola ⟨את⟩ nzela na ye, na kolanda liloba na yo?",
+  "tokens": [
+    {
+      "surface": "במה",
+      "gloss": "Na nini"
+    },
+    {
+      "surface": "יזככה",
+      "gloss": "asukola"
+    },
+    {
+      "surface": "נער",
+      "gloss": "motoko"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nzela na ye"
+    },
+    {
+      "surface": "ארחו",
+      "gloss": "nzela na ye"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "na kolanda"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "liloba na yo"
+    }
+  ],
+  "timestamp": "2026-09-04T00:22:44.646050878Z",
+  "model": "glm-5.3"
+}

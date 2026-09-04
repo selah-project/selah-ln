@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 69:11",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 69,
+  "translation": "Mpe nalieliaki na boiki, molimo na ngai mpe yango, mpe ekomaki masuni mpo na ngai.",
+  "tokens": [
+    {
+      "surface": "ואבכה",
+      "gloss": "mpe nalieliaki"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "na boiki"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "molimo na ngai"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "mpe ekomaki"
+    },
+    {
+      "surface": "לחרפות",
+      "gloss": "masuni"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mpo na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:16:24.884783198Z",
+  "model": "glm-5.3"
+}

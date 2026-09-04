@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 9:5",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Mokonzi David atindaki, mpe amakisaki ye uta na ndako ya Makir mwana ya Amiel, uta na Lodebar.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "atindaki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Mokonzi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "mpe amakisaki ye"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "uta na ndako ya"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "Makir"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana ya"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Amiel"
+    },
+    {
+      "surface": "מלו",
+      "gloss": "uta na Lo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "debar"
+    }
+  ],
+  "timestamp": "2026-09-03T18:31:15.514131286Z",
+  "model": "glm-5.3"
+}

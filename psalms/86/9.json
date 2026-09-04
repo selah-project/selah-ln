@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 86:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 86,
+  "translation": "Bikolo nyonso oyo osali bikoyaka mpe bikopwanama liboso na yo, Adonai, mpe bikokumisa nkombo na yo.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bikolo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "osali"
+    },
+    {
+      "surface": "יבואו",
+      "gloss": "bikoyaka"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "mpe bikopwanama"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "liboso na yo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ויכבדו",
+      "gloss": "mpe bikokumisa"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "nkombo na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:22:00.927277565Z",
+  "model": "glm-5.3"
+}

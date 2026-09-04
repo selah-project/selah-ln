@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 135:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 135,
+  "translation": "Boloba lokumu, Ya, mpambe Yawe azali malamu; loyembi nkombo na ye, mpambe ezali kitoko.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "boloba lokumu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpambe"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "malamu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "loyembi"
+    },
+    {
+      "surface": "לשמו",
+      "gloss": "nkombo na ye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpambe"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "kitoko"
+    }
+  ],
+  "timestamp": "2026-09-03T21:33:56.715664517Z",
+  "model": "glm-5.3"
+}

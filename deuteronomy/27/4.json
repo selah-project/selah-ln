@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 27:4",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 27,
+  "translation": "Mpe ekokama, ntango bokopaser ⟨את⟩ Yarden, bokotelemisa ⟨את⟩ mabanga oyo nazali kopesa ⟨את⟩ bino lelo, na ngomba Eybal, mpe okosipa ⟨את⟩ yango na sid.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "mpe ekokama"
+    },
+    {
+      "surface": "בעברכם",
+      "gloss": "ntango bokopaser"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    },
+    {
+      "surface": "תקימו",
+      "gloss": "bokotelemisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabanga oyo"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "mabanga"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "nazali kopesa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ bino"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lelo"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "na ngomba"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "Eybal"
+    },
+    {
+      "surface": "ושדת",
+      "gloss": "mpe okosipa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ yango",
+      "marks": "na sid"
+    },
+    {
+      "surface": "בשיד",
+      "gloss": "na sid"
+    }
+  ],
+  "timestamp": "2026-09-03T17:36:39.881529356Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 105:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 105,
+  "translation": "Lokumisa ⟨na⟩ nkombo santu na ye; motema ya balukaka Yawe esankaka.",
+  "tokens": [
+    {
+      "surface": "התהללו",
+      "gloss": "Lokumisa"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "na nkombo"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "santu na ye"
+    },
+    {
+      "surface": "י שמח",
+      "gloss": "esankaka"
+    },
+    {
+      "surface": "לב",
+      "gloss": "motema"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "balukaka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T21:27:33.475806970Z",
+  "model": "glm-5.3"
+}

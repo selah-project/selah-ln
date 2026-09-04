@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 46:11",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 46,
+  "translation": "Bokatamana te, mpe boyeba ete ngai nazali Elohim; nakolamata na kati ya bikolo, nakolamata na mabele.",
+  "tokens": [
+    {
+      "surface": "הרפו",
+      "gloss": "Bokatamana te"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "mpe boyeba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "nakolamata"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "na kati ya bikolo"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "nakolamata"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T21:11:38.098912740Z",
+  "model": "glm-5.3"
+}

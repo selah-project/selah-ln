@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 68:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 68,
+  "translation": "Tata ya bana-babufi mpe moyengeli ya bakunda ⟨ezali⟩ Elohim na ndako ya botolu na ye.",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "Tata ya"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "bana-babufi"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "mpe moyengeli ya"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "bakunda"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "במעון",
+      "gloss": "na ndako"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ya botolu na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:16:45.005916482Z",
+  "model": "glm-5.3"
+}

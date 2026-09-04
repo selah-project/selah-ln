@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 107:28",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 107,
+  "translation": "Mpe bakangaki elongi na Yawe na likama na bango, mpe abimisaki bango na makama na bango.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "Mpe bakangaki elongi na"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨na⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "na likama"
+    },
+    {
+      "surface": "להם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "וממצוקתיהם",
+      "gloss": "mpe na makama na bango"
+    },
+    {
+      "surface": "יוציאם",
+      "gloss": "abimisaki bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:28:45.760830425Z",
+  "model": "glm-5.3"
+}

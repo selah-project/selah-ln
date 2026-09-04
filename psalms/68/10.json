@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 68:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 68,
+  "translation": "Mbula ya motuya moko te otoyisaki, Elohim; lokwa na yo, mpe ekangwaki, yo onotaki yango.",
+  "tokens": [
+    {
+      "surface": "גשם",
+      "gloss": "Mbula"
+    },
+    {
+      "surface": "נדבות",
+      "gloss": "ya motuya moko te"
+    },
+    {
+      "surface": "תניף",
+      "gloss": "otoyisaki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "lokwa na yo"
+    },
+    {
+      "surface": "ונלאה",
+      "gloss": "mpe ekangwaki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "onotaki yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:16:44.122584813Z",
+  "model": "glm-5.3"
+}

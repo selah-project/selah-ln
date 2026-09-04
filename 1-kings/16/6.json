@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 16:6",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Mpe Baasha akufaki elongo na batata na ye, mpe akundamaki na Tirtsa; mpe Ela mwana na ye akotaki kokonza na esika na ye.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "akufaki"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "עם",
+      "gloss": "elongo na"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "batata na ye"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "mpe akundamaki"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "na Tirtsa"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "mpe akotaki kokonza"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ela"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana na ye"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "na esika na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T18:53:52.220165642Z",
+  "model": "glm-5.3"
+}

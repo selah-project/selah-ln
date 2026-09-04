@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 28:16",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 28,
+  "translation": "Ekokoba na kare, mibale-kamoka; ndambo ya maboko elongi na yango, mpe ndambo ya maboko bonene na yango.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "na kare"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "Ekokoba"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "mibale-kamoka"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "ndambo ya maboko"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "elongi na yango"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "mpe ndambo ya maboko"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "bonene na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:29:29.662819446Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 24:12",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "Mpe soki moto azali mosuni, kokoka te kolala na lipaie na ye.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Mpe soki"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "עני",
+      "gloss": "azali mosuni"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kokoka te"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "kolala"
+    },
+    {
+      "surface": "בעבטו",
+      "gloss": "na lipaie na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T17:34:58.974256627Z",
+  "model": "glm-5.3"
+}

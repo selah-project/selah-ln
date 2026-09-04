@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 66:14",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 66,
+  "translation": "Oyo mipaya na ngai efungolaki, mpe monoko na ngai elobaki, na ntango ya mawa na ngai.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "פצו",
+      "gloss": "efungolaki"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "mipaya na ngai"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "mpe elobaki"
+    },
+    {
+      "surface": "פי",
+      "gloss": "monoko na ngai"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "na ntango ya mawa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:15:39.918501109Z",
+  "model": "glm-5.3"
+}

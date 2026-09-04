@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 147:20",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 147,
+  "translation": "Asalaki bongo te epai ya mboka moko te; mpe makomi, bayebaki yango ata moke te. Lumbi Ya!",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Asalaki"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bongo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "epai ya mikili nyonso"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "mboka"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "mpe makomi"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ata moke te"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "bayebaki yango"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Lumbi"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    }
+  ],
+  "timestamp": "2026-09-03T21:36:28.760717511Z",
+  "model": "glm-5.3"
+}

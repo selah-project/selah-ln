@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 4:20",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe bakokota te mpo na komona ntango ezipami ⟨את⟩ eloko santu, mpe bakokufa.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "bakokota"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "mpo na komona"
+    },
+    {
+      "surface": "כבלע",
+      "gloss": "ntango ezipami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eloko santu"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "eloko santu"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "mpe bakokufa"
+    }
+  ],
+  "timestamp": "2026-09-03T17:00:14.385783397Z",
+  "model": "glm-5.3"
+}

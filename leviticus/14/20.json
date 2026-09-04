@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 14:20",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Mpe kohen atindaki ⟨את⟩ ola mpe ⟨את⟩ minha likolo ya autelo, mpe kohen akokanga masumu na yango, mpe abongwanaki.",
+  "tokens": [
+    {
+      "surface": "והעלה",
+      "gloss": "Mpe atindaki"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ola"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ola"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minha"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "likolo ya autelo"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "mpe akokanga masumu"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "mpe abongwanaki"
+    }
+  ],
+  "timestamp": "2026-09-03T16:46:41.302800453Z",
+  "model": "glm-5.3"
+}

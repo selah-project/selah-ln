@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 20:25",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 20,
+  "translation": "Zua ⟨את⟩ Aharon mpe ⟨את⟩ Elazar mwana na ye, mpe kundola ⟨את⟩ bango na Hor mongongo.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Zua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Elazar"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana na ye"
+    },
+    {
+      "surface": "והעל",
+      "gloss": "mpe kundola"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bango"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Hor"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "mongongo"
+    }
+  ],
+  "timestamp": "2026-09-03T17:12:50.880536688Z",
+  "model": "glm-5.3"
+}

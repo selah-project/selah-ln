@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 2:2",
+  "book": "job",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Yawe alobaki na Satana: Oye wapi oyeuti? Satana eyanoli ⟨את⟩ Yawe mpe alobaki: Nakotaki nakatana na mabele, mpe natambolaki na yango.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Satana"
+    },
+    {
+      "surface": "אי",
+      "gloss": "oye"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "wapi"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "oyeuti"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "eyanoli"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Satana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "משט",
+      "gloss": "nakotaki nakatana"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "ומהתהלך",
+      "gloss": "mpe natambolaki"
+    },
+    {
+      "surface": "בה",
+      "gloss": "na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:51:12.654299393Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 57:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 57,
+  "translation": "Molimo na ngai ezali kati ya bankosi; nali mbala na bato batondi na moto, bana ya bato: mano na bango ⟨ezali⟩ mopako mpe bande, mpe monoko na bango ⟨ezali⟩ ekateli ya mokombe.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "Molimo na ngai"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "kati ya"
+    },
+    {
+      "surface": "לבאם",
+      "gloss": "bankosi"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "nali mbala"
+    },
+    {
+      "surface": "להטים",
+      "gloss": "batondi na moto"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ya bato"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "mano na bango"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "⟨ezali⟩ mopako"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "mpe bande"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "mpe monoko na bango"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "⟨ezali⟩ ekateli"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "ya mokombe"
+    }
+  ],
+  "timestamp": "2026-09-03T23:35:02.529056834Z",
+  "model": "glm-5.3"
+}

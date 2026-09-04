@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 27:17",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 27,
+  "translation": "Bokoyoka bango te; bosaleli ⟨את⟩ mokonzi ya Bavel, mpe bokovanda na bomoi; mpo na nini mboka oyo ekokoma esika mowumbu?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "bokoyoka"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "bango"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "bosaleli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mokonzi ya Bavel"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ya Bavel"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "mpe bokovanda na bomoi"
+    },
+    {
+      "surface": "למה",
+      "gloss": "mpo na nini"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ekokoma"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mboka"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "esika mowumbu"
+    }
+  ],
+  "timestamp": "2026-09-03T19:55:51.133749370Z",
+  "model": "glm-5.3"
+}

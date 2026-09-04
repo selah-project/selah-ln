@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 22:11",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Mpe soki penza eyibamaki epai na ye, akofuta ⟨yango⟩ epai ya nkolo na yango.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Mpe soki"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "penza"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "eyibamaki"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "epai na ye"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "akofuta"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "epai ya nkolo na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:25:00.623953821Z",
+  "model": "glm-5.3"
+}

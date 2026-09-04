@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 25:8",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Mpe bakoko ya mboka na ye babengi ye, mpe balobi na ye; mpe soki atelema mpe alobi: nandi te kozwa ye.",
+  "tokens": [
+    {
+      "surface": "וקראו",
+      "gloss": "mpe babengi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "bakoko ya"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "mboka na ye"
+    },
+    {
+      "surface": "ודברו",
+      "gloss": "mpe balobi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "ועמד",
+      "gloss": "mpe atelema"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "mpe alobi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "nandi"
+    },
+    {
+      "surface": "לקחתה",
+      "gloss": "kozwa ye"
+    }
+  ],
+  "timestamp": "2026-09-03T17:36:33.258866021Z",
+  "model": "glm-5.3"
+}

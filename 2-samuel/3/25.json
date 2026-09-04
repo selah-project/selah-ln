@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 3:25",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Oyebi ⟨את⟩ Avner mwana wa Ner, ete akokweisa yo ayaki, mpe ayeba ⟨את⟩ ebimi na yo mpe ⟨את⟩ ekoti na yo, mpe ayeba ⟨את⟩ nyonso oyo ozali kosala.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "Oyebi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avner"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "נר",
+      "gloss": "Ner"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "לפתתך",
+      "gloss": "kokweisa yo"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ayaki"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "mpe ayeba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ebimi na yo"
+    },
+    {
+      "surface": "מוצאך",
+      "gloss": "ebimi na yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "ekoti na yo"
+    },
+    {
+      "surface": "מבואך",
+      "gloss": "ekoti na yo"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "mpe ayeba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyonso oyo ozali kosala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ozali kosala"
+    }
+  ],
+  "timestamp": "2026-09-03T18:27:04.556803244Z",
+  "model": "glm-5.3"
+}

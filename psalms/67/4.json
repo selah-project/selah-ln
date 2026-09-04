@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 67:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 67,
+  "translation": "Bikolo bokokumisa yo, Elohim; bikolo nyonso bokokumisa yo.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "bokokumisa yo"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "Bikolo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "bokokumisa yo"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "bikolo"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "nyonso"
+    }
+  ],
+  "timestamp": "2026-09-03T21:15:56.205706817Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 8:1",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe Binyamin abotaki ⟨את⟩ Bela mwana na ye ya liboso, Ashbel ya mibale, mpe Aharah ya misato.",
+  "tokens": [
+    {
+      "surface": "ובנימן",
+      "gloss": "mpe Binyamin"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "abotaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bela"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Bela"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "mwana na ye ya liboso"
+    },
+    {
+      "surface": "אשבל",
+      "gloss": "Ashbel"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ya mibale"
+    },
+    {
+      "surface": "ואחרח",
+      "gloss": "mpe Aharah"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ya misato"
+    }
+  ],
+  "timestamp": "2026-09-03T22:43:13.686210283Z",
+  "model": "glm-5.3"
+}

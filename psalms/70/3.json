@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 70:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 70,
+  "translation": "Bayeba mawa mpe bondeni, bayo balingi ⟨את⟩ bomoi na ngai; bansomba nsima mpe bayeba nkonzi, bayo balingi mabe na ngai.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "bayeba mawa"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "mpe bondeni"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "bayo balingi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "bomoi na ngai"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "bansomba"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "nsima"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "mpe bayeba nkonzi"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "bayo balingi"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "mabe na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:17:08.087874425Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 2:16",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe sikoyo motuna moko nasengi epai ya ⟨את⟩ yo: ozongisa te ⟨את⟩ elongi na ngai. Mpe alobaki epai na ye: Loba.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Mpe sikoyo"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "motuna"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "moko"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "nasengi"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "epai ya ⟨את⟩ yo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תשבי",
+      "gloss": "ozongisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elongi na ngai"
+    },
+    {
+      "surface": "פני",
+      "gloss": "elongi na ngai"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "epai na ye"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Loba"
+    }
+  ],
+  "timestamp": "2026-09-03T18:42:59.922395256Z",
+  "model": "glm-5.3"
+}

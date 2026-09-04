@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 23:22",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Mpe soki bajongamaki na likita na ngai, mpe bayekisaki ⟨את⟩ mboka na ngai maloba na ngai, mpe babongolaki bango uta ndenge na bango mabe mpe uta mabe ya misala na bango.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Mpe soki"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "bajongamaki"
+    },
+    {
+      "surface": "בסודי",
+      "gloss": "na likita na ngai"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "mpe bayekisaki"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "maloba na ngai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mboka na ngai"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "mboka na ngai"
+    },
+    {
+      "surface": "וישבום",
+      "gloss": "mpe babongolaki bango"
+    },
+    {
+      "surface": "מדרכם",
+      "gloss": "ndege na bango"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "ומרע",
+      "gloss": "mpe mabe"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "misala na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T19:53:16.321846095Z",
+  "model": "glm-5.3"
+}

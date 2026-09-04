@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 12:10",
+  "book": "judges",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Mpe Ibtan akufaki, mpe bakundaki ye na Bet-lehem.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "mpe akufaki"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "Ibtan"
+    },
+    {
+      "surface": "וקיקבר",
+      "gloss": "mpe bakundaki ⟨ye⟩"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "na"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Bet-lehem"
+    }
+  ],
+  "timestamp": "2026-09-03T18:02:32.512805342Z",
+  "model": "glm-5.3"
+}

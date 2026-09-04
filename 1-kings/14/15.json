@@ -1,0 +1,133 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 14:15",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Mpe Yawe akofanda mabe na ⟨את⟩ Israel, lokola lilinga etiemaka na mai, mpe akolongola ⟨את⟩ Israel na mabele malamu oyo, oyo apesaki na bambuta na bango, mpe akobwaka bango na mpasi ya nsé ya ebale, mpo basalaki ⟨את⟩ ba-Ashera na bango, bazalaki kotungisa Yawe ⟨את⟩ Yawe liboso.",
+  "tokens": [
+    {
+      "surface": "והכה",
+      "gloss": "mpe akofanda mabe na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "lokola"
+    },
+    {
+      "surface": "ינוד",
+      "gloss": "etiemaka"
+    },
+    {
+      "surface": "הקנה",
+      "gloss": "lilinga"
+    },
+    {
+      "surface": "במים",
+      "gloss": "na mai"
+    },
+    {
+      "surface": "ונתש",
+      "gloss": "mpe akolongola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "na"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "malamu"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "apesaki"
+    },
+    {
+      "surface": "לאבותיהם",
+      "gloss": "na bambuta na bango"
+    },
+    {
+      "surface": "וזרם",
+      "gloss": "mpe akobwaka bango na mpasi"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "ya nsé ya \/ na mpasi ya"
+    },
+    {
+      "surface": "לנהר",
+      "gloss": "ebale"
+    },
+    {
+      "surface": "יען",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "basalaki oyo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "—"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ba-Ashera na bango"
+    },
+    {
+      "surface": "אשריהם",
+      "gloss": "ba-Ashera na bango"
+    },
+    {
+      "surface": "מכעיסים",
+      "gloss": "bazalaki kotungisa Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T18:52:31.575109072Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 7:16",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Atumbaki libulu mpe afukulaki yango, mpe agwaki na libulu oyo asalaki.",
+  "tokens": [
+    {
+      "surface": "בור",
+      "gloss": "libulu"
+    },
+    {
+      "surface": "כרה",
+      "gloss": "atumbaki"
+    },
+    {
+      "surface": "ויחפרהו",
+      "gloss": "mpe afukulaki yango"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "mpe agwaki"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "na libulu"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "asalaki"
+    }
+  ],
+  "timestamp": "2026-09-03T23:34:09.892513400Z",
+  "model": "glm-5.3"
+}

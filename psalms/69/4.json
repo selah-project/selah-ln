@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 69:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 69,
+  "translation": "Nalowaki na kolia ngai, mongongo na ngai emiaki, miso na ngai emalaki, nazali kozela Elohim na ngai.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "Nalowaki"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "na kolia ngai"
+    },
+    {
+      "surface": "נחר",
+      "gloss": "emiaki"
+    },
+    {
+      "surface": "גרוני",
+      "gloss": "mongongo na ngai"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "emalaki"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "miso na ngai"
+    },
+    {
+      "surface": "מיחל",
+      "gloss": "nazali kozela"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohim na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:17:13.859088293Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 55:8",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 55,
+  "translation": "Mpo makanisi na ngai ⟨ezali⟩ te makanisi na bino, mpe nzela na bino ⟨ezali⟩ te nzela na ngai — liloba ya Yawe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "מחשבותי",
+      "gloss": "makanisi na ngai"
+    },
+    {
+      "surface": "מחשבותיכם",
+      "gloss": "makanisi na bino"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "nzela na bino"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "nzela na ngai"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "liloba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T19:34:50.201343900Z",
+  "model": "glm-5.3"
+}

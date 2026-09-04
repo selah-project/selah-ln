@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "⟨את⟩ Kos, mpe ⟨את⟩ Yanshof, mpe Tinshemet",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kos"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "Kos"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Yanshof"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "Yanshof"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "mpe Tinshemet"
+    }
+  ],
+  "timestamp": "2026-09-03T17:29:29.841512277Z",
+  "model": "glm-5.3"
+}

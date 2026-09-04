@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 5:32",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Mpe Uzi abotisi ⟨את⟩ Zerachyah; mpe Zerachyah abotisi ⟨את⟩ Merajoth.",
+  "tokens": [
+    {
+      "surface": "ועזי",
+      "gloss": "Mpe Uzi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "abotisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zerachyah"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "Zerachyah"
+    },
+    {
+      "surface": "וזרחיה",
+      "gloss": "mpe Zerachyah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "abotisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Merajoth"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "Merajoth"
+    }
+  ],
+  "timestamp": "2026-09-03T22:41:38.409023093Z",
+  "model": "glm-5.3"
+}

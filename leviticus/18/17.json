@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 18:17",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Boboya ya mwasi mpe mwana na ye mwasi, okolakisa te; ⟨את⟩ mwana ya mwana na ye mwana mpe ⟨את⟩ mwana ya mwana na ye mwasi okozwa te, mpo na kolakisa boboya na ye; libota na ye bango ezali — mabe ezali yango.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "boboya"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ya mwasi"
+    },
+    {
+      "surface": "ובתה",
+      "gloss": "mpe mwana na ye mwasi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "okolakisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwana"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ya mwana na ye mwana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mwana"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "בתה",
+      "gloss": "ya mwana na ye mwasi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "okozwa"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "mpo na kolakisa"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "boboya na ye"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "libota na ye"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bango"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ezali yango"
+    }
+  ],
+  "timestamp": "2026-09-03T23:15:24.211818448Z",
+  "model": "glm-5.3"
+}

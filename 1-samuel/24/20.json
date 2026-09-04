@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 24:20",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "Mpo ete soki moto amonaka ⟨את⟩ panya na yango, atindaka yango na nzela ya bolamu? Mpe Yawe akofuta yo bolamu mpo na mokolo oyo osalaki na ngai.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Mpo ete"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "amonaka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "panya na yango"
+    },
+    {
+      "surface": "איבו",
+      "gloss": "panya na yango"
+    },
+    {
+      "surface": "ושלחו",
+      "gloss": "atindaka yango"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "na nzela"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "bolamu"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "mpe Yawe"
+    },
+    {
+      "surface": "ישלמך",
+      "gloss": "akofuta yo"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "bolamu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "mpo na"
+    },
+    {
+      "surface": "היום",
+      "gloss": "mokolo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "osalaki"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T18:20:54.083984978Z",
+  "model": "glm-5.3"
+}

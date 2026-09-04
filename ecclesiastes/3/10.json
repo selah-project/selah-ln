@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 3:10",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Namoni ⟨את⟩ mpassa oyo Elohim apesaki bana ya moto, mpo banyokwama na yango.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Namoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mpassa"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "mpassa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "apesaki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "bana ya"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "moto"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "mpo banyokwama"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T22:12:53.100550819Z",
+  "model": "glm-5.3"
+}

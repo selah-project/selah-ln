@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 9:14",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Gnana ngai, Yawe; tala mawa na ngai oyo ewuti epai ya baboyi ngai; yo oyo otyaka ngai likolo uta na baporo ya liwa;",
+  "tokens": [
+    {
+      "surface": "חננני",
+      "gloss": "Gnana ngai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "tala"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "mawa na ngai"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "ya baboyi ngai"
+    },
+    {
+      "surface": "מרוממי",
+      "gloss": "otya ngai likolo"
+    },
+    {
+      "surface": "משערי",
+      "gloss": "baporo"
+    },
+    {
+      "surface": "מות",
+      "gloss": "liwa"
+    }
+  ],
+  "timestamp": "2026-09-03T21:02:03.147777389Z",
+  "model": "glm-5.3"
+}

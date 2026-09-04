@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 12:25",
+  "book": "job",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Bayekaki na maboko moke, kasi munoko te, mpe ⟨Yawe⟩ abungisaki bango lokola moto oyo ameli masanga.",
+  "tokens": [
+    {
+      "surface": "יְמַֽשְׁשׁוּ",
+      "gloss": "bayekaki na maboko"
+    },
+    {
+      "surface": "חֹ֥שֶׁךְ",
+      "gloss": "moke"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "kasi te"
+    },
+    {
+      "surface": "א֑וֹר",
+      "gloss": "munoko"
+    },
+    {
+      "surface": "וַ֝יַּתְעֵ֗ם",
+      "gloss": "mpe abungisaki bango"
+    },
+    {
+      "surface": "כַּשִּׁכּֽוֹר",
+      "gloss": "lokola moto oyo ameli masanga"
+    }
+  ],
+  "timestamp": "2026-09-03T21:53:27.252615013Z",
+  "model": "glm-5.3"
+}

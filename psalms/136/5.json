@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 136:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 136,
+  "translation": "Na oyo asalaki likolo na bwanya, mpo ete na seko hesed na ye.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "na oyo asalaki"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "likolo"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "na bwanya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na seko"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:34:26.366523306Z",
+  "model": "glm-5.3"
+}

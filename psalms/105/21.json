@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 105:21",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 105,
+  "translation": "Atyaki ⟨ye⟩ nkolo ya ndako na yango, mpe mokonzi ya bibale na yango nyonso.",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "atyaki"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "nkolo"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "ya ndako na yango"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "mpe akonzi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na nyonso"
+    },
+    {
+      "surface": "קנינו",
+      "gloss": "ya bibale na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:27:12.969787441Z",
+  "model": "glm-5.3"
+}

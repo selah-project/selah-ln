@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 24:17",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "Mpe mokonzi wa Bavel atyaki Matanya, dodo na ye, kokonza na esika na ye, mpe abongolaki ⟨את⟩ nkombo na ye Tsidkiyahu.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "atyaki kokonza"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "wa Bavel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Matanya"
+    },
+    {
+      "surface": "מתניה",
+      "gloss": "Matanya"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "dodo na ye"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "na esika na ye"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "mpe abongolaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkombo na ye"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nkombo na ye"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu"
+    }
+  ],
+  "timestamp": "2026-09-03T19:11:38.860360083Z",
+  "model": "glm-5.3"
+}

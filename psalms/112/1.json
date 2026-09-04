@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 112:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 112,
+  "translation": "Lolaku Ya! Boboli ezali na moto oyo abangaka ⟨את⟩ Yawe, na mitinda na ye asanisaka mingi.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Lolaku"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Boboli"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "abangaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "במצותיו",
+      "gloss": "na mitinda na ye"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "asanisaka"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mingi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:29:03.165813184Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 118:14",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 118,
+  "translation": "Ya ⟨ezali⟩ nguya na ngai mpe lokasa na ngai, mpe akomaki lobiko na ngai.",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "nguya na ngai"
+    },
+    {
+      "surface": "וזמרת",
+      "gloss": "mpe lokasa na ngai"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mpe akomaki"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "lobiko"
+    }
+  ],
+  "timestamp": "2026-09-03T21:30:19.717317262Z",
+  "model": "glm-5.3"
+}

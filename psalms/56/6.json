@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 56:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 56,
+  "translation": "Mokolo nyonso babukaka maloba na ngai; makanisi na bango nyonso ezali ya mabe epai ngai.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "היום",
+      "gloss": "mokolo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "maloba na ngai"
+    },
+    {
+      "surface": "יעצבו",
+      "gloss": "babukaka"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "epai ngai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "makanisi na bango"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "ya mabe"
+    }
+  ],
+  "timestamp": "2026-09-03T21:14:28.471244900Z",
+  "model": "glm-5.3"
+}

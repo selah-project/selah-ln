@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 12:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Maloba ya Yawe ezali maloba ma peto, lokola felezo ya bolongoli na fournaere ya mabele, ya bobomi pete mbala sambo.",
+  "tokens": [
+    {
+      "surface": "אמרות",
+      "gloss": "maloba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yawe"
+    },
+    {
+      "surface": "אמרות",
+      "gloss": "maloba"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "ma peto"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "felezo"
+    },
+    {
+      "surface": "צרוף",
+      "gloss": "ya bolongoli"
+    },
+    {
+      "surface": "בעליל",
+      "gloss": "na fournaere"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ya mabele"
+    },
+    {
+      "surface": "מזקק",
+      "gloss": "ya bobomi pete"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "mbala sambo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:02:20.855225987Z",
+  "model": "glm-5.3"
+}

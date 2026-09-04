@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 34:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 34,
+  "translation": "Bakisa Yawe ⟨את⟩ ⟨elongo na ngai⟩, mpe tokokisa nkombo naye esika moko.",
+  "tokens": [
+    {
+      "surface": "גדלו",
+      "gloss": "Bakisa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ⟨elongo na ngai⟩"
+    },
+    {
+      "surface": "וונרוממה",
+      "gloss": "mpe tokokisa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nkombo naye"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "esika moko"
+    }
+  ],
+  "timestamp": "2026-09-03T21:08:21.669941781Z",
+  "model": "glm-5.3"
+}

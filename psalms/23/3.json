@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 23:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Molimo na ngai azongisaka, alingaka ngai na banzela ya bolongo, mpo na nkombo na ye.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "Molimo na ngai"
+    },
+    {
+      "surface": "ישובב",
+      "gloss": "azongisaka"
+    },
+    {
+      "surface": "ינחני",
+      "gloss": "alingaka ngai"
+    },
+    {
+      "surface": "במעגלי",
+      "gloss": "na banzela"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ya bolongo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "mpo na"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nkombo na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:04:51.700574494Z",
+  "model": "glm-5.3"
+}

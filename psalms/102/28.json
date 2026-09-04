@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 102:28",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 102,
+  "translation": "Kasi yo ozali yango moko, mpe bambula na yo esilaki te.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Kasi yo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ozali yango moko"
+    },
+    {
+      "surface": "ושנותיך",
+      "gloss": "mpe bambula na yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יתמו",
+      "gloss": "esilaki"
+    }
+  ],
+  "timestamp": "2026-09-03T23:35:33.292163308Z",
+  "model": "glm-5.3"
+}

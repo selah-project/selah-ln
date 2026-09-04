@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 48:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 48,
+  "translation": "Monene Yawe, mpe atumbami mingi, na engumba ya Elohim na biso, ngomba ya bosantu na yango.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Monene"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "mpe atumbami"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mingi"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "na engumba"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim na biso"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ngomba"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "bosantu na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:12:28.488628550Z",
+  "model": "glm-5.3"
+}

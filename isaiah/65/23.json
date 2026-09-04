@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 65:23",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 65,
+  "translation": "Bakokopema te na eloko te, mpe bakobota te na bobangi; mpo bango nde libota ya bamonami na Yawe, mpe bana-bana na bango ⟨את⟩ elongo na bango.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ייגעו",
+      "gloss": "bakokopema"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "na eloko te"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "bakobota"
+    },
+    {
+      "surface": "לבהלה",
+      "gloss": "na bobangi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "libota"
+    },
+    {
+      "surface": "ברוכי",
+      "gloss": "ya bamonami"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bango"
+    },
+    {
+      "surface": "וצאצאיהם",
+      "gloss": "mpe bana-bana na bango"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ elongo na",
+      "marks": "bango"
+    }
+  ],
+  "timestamp": "2026-09-03T19:39:51.650642715Z",
+  "model": "glm-5.3"
+}

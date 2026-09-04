@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 118:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 118,
+  "translation": "Bikolo nyonso bisengelaki ngai; kasi na nkombo ya Yawe nakataki bango.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bikolo"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "bisengelaki ngai"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "na nkombo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kasi"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "nakataki bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:30:29.738550495Z",
+  "model": "glm-5.3"
+}

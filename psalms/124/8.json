@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 124:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 124,
+  "translation": "Lisalisi na biso ⟨ezali⟩ na Nkombo ya Yawe, Mokeli ya likolo mpe mabele.",
+  "tokens": [
+    {
+      "surface": "עזרנו",
+      "gloss": "Lisalisi na biso"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "na Nkombo ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Mokeli ya"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "likolo"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "mpe mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T21:34:03.100265086Z",
+  "model": "glm-5.3"
+}

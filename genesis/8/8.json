@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 8:8",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe atindaki ⟨את⟩ kolombo, ⟨את⟩ epai na ye, mpo na komona soki mai mokitaki uta likanasa ya mabele.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Mpe atindaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kolombo"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "kolombo"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩ epai na ye"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "mpo na komona"
+    },
+    {
+      "surface": "הקלו",
+      "gloss": "soki mokitaki"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mai"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "uta likolo ya"
+    },
+    {
+      "surface": "פני",
+      "gloss": "likanasa"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ya mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T15:47:36.885764003Z",
+  "model": "glm-5.3"
+}

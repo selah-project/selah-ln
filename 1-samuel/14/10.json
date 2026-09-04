@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 14:10",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Mpe soki balobi ndenge wana: Bokweya likolo na biso, tokolingana; mpo Yawe apesaki bango na maboko na biso, mpe yango ezali ⟨elembo⟩ epai na biso.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Mpe soki"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ndenge wana"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "balobi"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "Bokweya"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "likolo na biso"
+    },
+    {
+      "surface": "ועלינו",
+      "gloss": "tokolingana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "apesaki bango"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "na maboko na biso"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "mpe yango"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "epai na biso"
+    },
+    {
+      "surface": "האות",
+      "gloss": "elembo"
+    }
+  ],
+  "timestamp": "2026-09-03T23:21:39.574370742Z",
+  "model": "glm-5.3"
+}

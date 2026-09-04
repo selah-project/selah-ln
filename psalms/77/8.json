@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 77:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 77,
+  "translation": "Adonai akeyanaka na libela, mpe alongi kokajisa lisusu te?",
+  "tokens": [
+    {
+      "surface": "הלעולמים",
+      "gloss": "na libela"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "akeyanaka"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "kokajisa lisusu"
+    },
+    {
+      "surface": "לרצות",
+      "gloss": "kolinga"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lisusu"
+    }
+  ],
+  "timestamp": "2026-09-03T21:18:27.923284029Z",
+  "model": "glm-5.3"
+}

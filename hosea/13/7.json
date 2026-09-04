@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 13:7",
+  "book": "hosea",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Mpe nakomaki na bango lokola nkoi, lokola engwe na nzela nazali koluka bango.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "mpe nakomaki"
+    },
+    {
+      "surface": "להם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "lokola"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "nkoi"
+    },
+    {
+      "surface": "כנמר",
+      "gloss": "lokola engwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "nzela"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "nazali koluka bango"
+    }
+  ],
+  "timestamp": "2026-09-03T20:40:07.351179330Z",
+  "model": "glm-5.3"
+}

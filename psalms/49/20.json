@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 49,
+  "translation": "Ekokota kino na libota ya bakoko ⟨na ye⟩; kino seko bakomona polele te.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "ekokota"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "דור",
+      "gloss": "na libota"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "ya bakoko na ye"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "seko"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "bakomona"
+    },
+    {
+      "surface": "אור",
+      "gloss": "polele"
+    }
+  ],
+  "timestamp": "2026-09-03T21:11:58.783342214Z",
+  "model": "glm-5.3"
+}

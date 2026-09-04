@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 12:21",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Mpe babongi na ye bayaki na mokemoke mpe basalaki bokangani, mpe babundaki ⟨את⟩ Yoash na ndako ya Milo, oyo ezali ekita na Silla.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "bayaki na mokemoke"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "babongi na ye"
+    },
+    {
+      "surface": "ויקשרו",
+      "gloss": "mpe basalaki"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "bokangani"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "mpe babundaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoash"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yoash"
+    },
+    {
+      "surface": "בית",
+      "gloss": "na ndako ya"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "Milo"
+    },
+    {
+      "surface": "היורד",
+      "gloss": "oyo ezali ekita"
+    },
+    {
+      "surface": "סלא",
+      "gloss": "na Silla"
+    }
+  ],
+  "timestamp": "2026-09-03T19:04:11.374066869Z",
+  "model": "glm-5.3"
+}

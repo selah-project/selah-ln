@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 29:6",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 29,
+  "translation": "Mpe otya mitenefet likolo ya motó na ye, mpe otya ⟨את⟩ nezer ya kodesh likolo ya mitenefet.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "mpe otya"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "mitenefet"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "motó na ye"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "mpe otya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nezer"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "nezer"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ya kodesh"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "mitenefet"
+    }
+  ],
+  "timestamp": "2026-09-03T23:14:17.995647529Z",
+  "model": "glm-5.3"
+}

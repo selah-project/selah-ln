@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 42:26",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 42,
+  "translation": "Mpe bayekisaki ⟨את⟩ masa na bango likolo ya bangana na bango, mpe bakendaki kuna na wana.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "mpe bayekisaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masa na bango"
+    },
+    {
+      "surface": "שברם",
+      "gloss": "masa na bango"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "bangana na bango"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "mpe bakendaki"
+    },
+    {
+      "surface": "משם",
+      "gloss": "kuna na wana"
+    }
+  ],
+  "timestamp": "2026-09-03T16:09:08.393377822Z",
+  "model": "glm-5.3"
+}

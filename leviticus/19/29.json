@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 19:29",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Kolimwisa te ⟨את⟩ mwana mwasi na yo mpo asala bosolo; mabele esala bosolo te, mpe mabele emalemaka ⟨na⟩ mabe.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "kolimwisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwana mwasi na yo"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "mwana mwasi na yo"
+    },
+    {
+      "surface": "להזנותה",
+      "gloss": "mpo asala bosolo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "תזנה",
+      "gloss": "esala bosolo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "mpe emalemaka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "mabe"
+    }
+  ],
+  "timestamp": "2026-09-03T16:51:57.252773517Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 3:19",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe mwana wa mwasi oyo akufaki na butu, mpo ete ye alalaki likolo ya ye.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "Mpe akufaki"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "wa mwasi"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "na butu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "שכבה",
+      "gloss": "alalaki"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "likolo ya ye"
+    }
+  ],
+  "timestamp": "2026-09-03T18:43:55.662477642Z",
+  "model": "glm-5.3"
+}

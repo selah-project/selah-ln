@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 19:30",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "mpe Uma, mpe Apek, mpe Rehob: mboka ntuku mibale na mibale, na bika na yango.",
+  "tokens": [
+    {
+      "surface": "ועמה",
+      "gloss": "mpe Uma"
+    },
+    {
+      "surface": "ואפק",
+      "gloss": "mpe Apek"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "mpe Rehob"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "mboka"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ntuku mibale"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "na mibale"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "na bika na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T23:19:24.616004132Z",
+  "model": "glm-5.3"
+}

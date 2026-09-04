@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 2:33",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Yawe Elohim na biso apesaki ye liboso na biso, mpe totumbelaki ⟨את⟩ ye mpe ⟨את⟩ babana na ye mpe ⟨את⟩ bato na ye nyonso.",
+  "tokens": [
+    {
+      "surface": "ויתנהו",
+      "gloss": "apesaki ye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim na biso"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "liboso na biso"
+    },
+    {
+      "surface": "ונך",
+      "gloss": "totumbelaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ye",
+      "marks": "ye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "babana na ye"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "babana na ye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bato na ye nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bato na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T23:19:02.039945701Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 13:8",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Mpe moto ya Elohim alobaki na mokonzi: Soki opei ngai ⟨את⟩ motuya ya ndako na yo, nakokende elongo na yo te, mpe nakolia moke te, mpe nakomela mai te, na esika oyo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "soki"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "opei"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motuya ya ndako na yo"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "motuya"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ya ndako na yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "nakokende"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "elongo na yo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "nakolia"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "moke"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "nakomela"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mai"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "na esika"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    }
+  ],
+  "timestamp": "2026-09-03T18:51:54.758468268Z",
+  "model": "glm-5.3"
+}

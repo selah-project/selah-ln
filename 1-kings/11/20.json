@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 11:20",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpe ndeko ya Tahpenes abotaki ye ⟨את⟩ Genubat mwana na ye, mpe Tahpenes asekolaki ye kati na ndako ya Parao; mpe Genubat azalaki na ndako ya Parao kati ya bana ya Parao.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "mpe abotaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "ndeko"
+    },
+    {
+      "surface": "תחפניס",
+      "gloss": "ya Tahpenes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Genubat mwana na ye"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "Genubat"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana na ye"
+    },
+    {
+      "surface": "ותגמלהו",
+      "gloss": "mpe asekolaki ye"
+    },
+    {
+      "surface": "תחפנס",
+      "gloss": "Tahpenes"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "kati na"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ya Parao"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mpe azalaki"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "Genubat"
+    },
+    {
+      "surface": "בית",
+      "gloss": "na ndako"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ya Parao"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "kati ya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ya Parao"
+    }
+  ],
+  "timestamp": "2026-09-03T18:51:37.809753973Z",
+  "model": "glm-5.3"
+}

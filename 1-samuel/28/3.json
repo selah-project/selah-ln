@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 28:3",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 28,
+  "translation": "Mpe Shemuel akufaki, mpe Israel nyonso balilaki ye, mpe bakundaki ye na Rama, mpe na mboka na ye; mpe Shaul alongolaki baobo mpe ⟨את⟩ bayideonni na mboka.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "Mpe Shemuel"
+    },
+    {
+      "surface": "מת",
+      "gloss": "akufaki"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "mpe balilaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "mpe bakundaki ye"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "na Rama"
+    },
+    {
+      "surface": "ובעירו",
+      "gloss": "mpe na mboka na ye"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "mpe Shaul"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "alongolaki"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "baobo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bayideonni"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "bayideonni"
+    },
+    {
+      "surface": "מהארץ",
+      "gloss": "na mboka"
+    }
+  ],
+  "timestamp": "2026-09-03T18:24:37.254834680Z",
+  "model": "glm-5.3"
+}

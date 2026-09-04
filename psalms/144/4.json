@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 144:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 144,
+  "translation": "Moto akokani na mopepe; mikolo na ye ⟨ezali⟩ lokola elili oyo eleki.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "moto"
+    },
+    {
+      "surface": "להבל",
+      "gloss": "na mopepe"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "akokani na"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "mikolo na ye"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "lokola elili"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "oyo eleki"
+    }
+  ],
+  "timestamp": "2026-09-03T21:35:44.252447723Z",
+  "model": "glm-5.3"
+}

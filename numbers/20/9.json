@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 20:9",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 20,
+  "translation": "Moshe azwaki ⟨את⟩ ngoma liboso ya Yawe, ndenge atindaki ye.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "azwaki"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngoma"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "ngoma"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ndenge"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "atindaki ye"
+    }
+  ],
+  "timestamp": "2026-09-03T17:12:36.699710655Z",
+  "model": "glm-5.3"
+}

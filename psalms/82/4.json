@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 82:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 82,
+  "translation": "Bolongole moke mpe oyo azali na bovi, na maboko ya babubi bobilisa ⟨bango⟩.",
+  "tokens": [
+    {
+      "surface": "פלטו",
+      "gloss": "Bolongole"
+    },
+    {
+      "surface": "דל",
+      "gloss": "moke"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "mpe oyo azali na bovi"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "na maboko ya"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "babubi"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "bobilisa ⟨bango⟩"
+    }
+  ],
+  "timestamp": "2026-09-03T21:20:37.714378523Z",
+  "model": "glm-5.3"
+}

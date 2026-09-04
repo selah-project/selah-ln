@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 25:25",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "mpe ⟨את⟩ bakonzi nyonso ya Zimri, mpe ⟨את⟩ bakonzi nyonso ya Elam, mpe ⟨את⟩ bakonzi nyonso ya Madai",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bakonzi nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "bakonzi"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "ya Zimri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bakonzi nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "bakonzi"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "ya Elam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bakonzi nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "bakonzi"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "ya Madai"
+    }
+  ],
+  "timestamp": "2026-09-03T19:54:10.945008411Z",
+  "model": "glm-5.3"
+}

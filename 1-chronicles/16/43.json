@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 16:43",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Mboka nyonso ekendaki, moto moko na moko na ndako na ye, mpe David azongaki mpo na kolapa ⟨את⟩ ndako na ye.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "ekendaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mboka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto moko na moko"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "na ndako na ye"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "azongaki"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "mpo na kolapa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndako na ye"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ndako na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T22:47:52.666967736Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 10:11",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Mpe sikoyo, tata na ngai atondisaki likolo ya bino ol wa nzito, mpe ngai nakobakisa likolo ya ol wa bino; tata na ngai asumbaki ⟨את⟩ bino na bafimbo, kasi ngai nakosumba na bascorpions.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "mpe sikoyo"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tata na ngai"
+    },
+    {
+      "surface": "העמיס",
+      "gloss": "atondisaki"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "likolo ya bino"
+    },
+    {
+      "surface": "על",
+      "gloss": "ol"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "wa nzito"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "kasi ngai"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "nakobakisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "ol wa bino"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tata na ngai"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "asumbaki"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "bino"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "na bafimbo"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "kasi ngai"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "na bascorpions"
+    }
+  ],
+  "timestamp": "2026-09-03T22:58:24.009232734Z",
+  "model": "glm-5.3"
+}

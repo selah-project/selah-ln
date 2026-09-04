@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 19:3",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Obongisi na yo nzela, mpe okaboli misato ⟨את⟩ ndelo ya mabele na yo, oyo Yawe Elohim na yo apesi yo lokota; mpe ekokala mpo na kolengwa kuna mobomi ya moto nyonso.",
+  "tokens": [
+    {
+      "surface": "תכין",
+      "gloss": "Obongisi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "na yo"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "nzela"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "mpe okaboli misato"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndelo ya mabele na yo"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ndelo"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "ya mabele na yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ינחילך",
+      "gloss": "apesi yo lokota"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim na yo"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "mpe ekokala"
+    },
+    {
+      "surface": "לנוס",
+      "gloss": "mpo na kolengwa"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "mobomi ya moto"
+    }
+  ],
+  "timestamp": "2026-09-03T17:33:12.042564875Z",
+  "model": "glm-5.3"
+}

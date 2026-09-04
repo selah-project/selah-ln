@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 49:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 49,
+  "translation": "Mpe motuya ya ndimbola ya bomoi na bango ezali monene, mpe ezesami libela.",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "mpe motuya na yango ezali monene"
+    },
+    {
+      "surface": "פדיון",
+      "gloss": "ndimbola"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "bomoi na bango"
+    },
+    {
+      "surface": "וחדל",
+      "gloss": "mpe ezesami"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "libela"
+    }
+  ],
+  "timestamp": "2026-09-03T23:34:46.660352575Z",
+  "model": "glm-5.3"
+}

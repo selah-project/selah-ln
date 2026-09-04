@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 149:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 149,
+  "translation": "Bosembolaka nkombo na ye na dansi; na ngoma mpe na sanza bazambelaka ye.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "Bosembolaka"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nkombo na ye"
+    },
+    {
+      "surface": "במחול",
+      "gloss": "na dansi"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "na ngoma"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "mpe na sanza"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "bazambelaka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:36:12.967293756Z",
+  "model": "glm-5.3"
+}

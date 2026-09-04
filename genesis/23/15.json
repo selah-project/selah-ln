@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 23:15",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Nkolo, yoka ngai: shanga ezali ya kama minei ya shekel ya mbongo; kati na ngai mpe kati na yo, yango ezali nini? Mpe lika ⟨את⟩ moto na yo oyo akufi.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "nkolo"
+    },
+    {
+      "surface": "שמעני",
+      "gloss": "yoka ngai"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "shanga"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "minei"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "kama"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "ya shekel"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ya mbongo"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "kati na ngai"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "mpe kati na yo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yango ezali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "moto na yo oyo akufi"
+    },
+    {
+      "surface": "מתך",
+      "gloss": "moto na yo oyo akufi"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "lika"
+    }
+  ],
+  "timestamp": "2026-09-03T15:54:20.153617499Z",
+  "model": "glm-5.3"
+}

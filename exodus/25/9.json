@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 25:9",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Lokola ndakisa nyonso oyo nazali kolakisa ⟨את⟩ yo, ⟨את⟩ ndakisa ya mosantu mpe ⟨את⟩ ndakisa ya biloko bya yango nyonso, bongo nde bolakela ⟨yango⟩.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "Lokola nyonso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nazali"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "kolakisa"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ yo",
+      "marks": "ndakisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndakisa ya mosantu"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "ndakisa"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ya mosantu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "ndakisa ya biloko"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "ndakisa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ya biloko bya yango"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "bongo nde"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "bolakela"
+    }
+  ],
+  "timestamp": "2026-09-04T00:01:26.974232325Z",
+  "model": "glm-5.3"
+}

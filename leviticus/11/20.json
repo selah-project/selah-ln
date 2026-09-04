@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 11:20",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Nyama nyonso ya kokataka ya ndeke, oyo ezali kotambola ⟨na makasi⟩ minei, ⟨ezali⟩ eloko ya mabe epai na bino",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "nyama ya kokataka"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "ya ndeke"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "oyo ezali kotambola"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "minei"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "eloko ya mabe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ezali"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "epai na bino"
+    }
+  ],
+  "timestamp": "2026-09-03T23:15:53.657941975Z",
+  "model": "glm-5.3"
+}

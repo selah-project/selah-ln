@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 23:6",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Okobukisa te bosambisi ya mopolai na yo na likambo na ye.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "okobukisa"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "bosambisi"
+    },
+    {
+      "surface": "אבינך",
+      "gloss": "ya mopolai na yo"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "na likambo na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T16:25:00.923080041Z",
+  "model": "glm-5.3"
+}

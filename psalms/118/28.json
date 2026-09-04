@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 118:28",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 118,
+  "translation": "El na ngai ⟨ozali⟩ yo, mpe namesi yo; Elohim na ngai, natombolaka yo.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "El na ngai"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "ואודך",
+      "gloss": "mpe namesi yo"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim na ngai"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "natombolaka yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:30:39.482218731Z",
+  "model": "glm-5.3"
+}

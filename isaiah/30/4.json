@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 30:4",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 30,
+  "translation": "Ya solo, bakonzi na ye bazalaki na Tsoan, mpe batinda na ye bakomaki na Hanes.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ya solo"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bazalaki"
+    },
+    {
+      "surface": "בצען",
+      "gloss": "na Tsoan"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "bakonzi na ye"
+    },
+    {
+      "surface": "ומלאכיו",
+      "gloss": "mpe batinda na ye"
+    },
+    {
+      "surface": "חנס",
+      "gloss": "na Hanes"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "bakomaki"
+    }
+  ],
+  "timestamp": "2026-09-03T19:25:49.058208428Z",
+  "model": "glm-5.3"
+}

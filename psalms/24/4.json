@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 24:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "Maboko mape, mpe motema ya pete, oyo atombaki te molimo na ye na libunga, mpe aseraki te na bokosi.",
+  "tokens": [
+    {
+      "surface": "נקי",
+      "gloss": "mape"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "maboko"
+    },
+    {
+      "surface": "ובר",
+      "gloss": "mpe ya pete"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "motema"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "atombaki"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "na libunga"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "molimo na ye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "aseraki"
+    },
+    {
+      "surface": "למרמה",
+      "gloss": "na bokosi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:06:25.506520126Z",
+  "model": "glm-5.3"
+}

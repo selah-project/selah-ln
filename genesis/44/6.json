@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 44:6",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 44,
+  "translation": "Mpe atungi bango, mpe alobaki na bango ⟨את⟩ maloba oyo.",
+  "tokens": [
+    {
+      "surface": "וישגם",
+      "gloss": "Mpe atungi bango"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maloba oyo"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "maloba"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "oyo"
+    }
+  ],
+  "timestamp": "2026-09-03T16:08:47.973759722Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 19:6",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Mpe Lote abimaki epai na bango na ekuke, mpe ekuke akangaki na sima na ye.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "abimaki"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "epai na bango"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lote"
+    },
+    {
+      "surface": "הפתחה",
+      "gloss": "na ekuke"
+    },
+    {
+      "surface": "והדלת",
+      "gloss": "mpe ekuke"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "akangaki"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "na sima na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T15:51:52.493309249Z",
+  "model": "glm-5.3"
+}

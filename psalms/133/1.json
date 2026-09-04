@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 133:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 133,
+  "translation": "Nyimbo ya bokwende, ya David. Talá, boni ⟨ezali⟩ malamu mpe boni ⟨ezali⟩ elengi, bandeko kofanda ata elongo moko.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Nyimbo"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ya bokwende"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya David"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Talá"
+    },
+    {
+      "surface": "מה",
+      "gloss": "boni"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "malamu"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "mpe boni"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "elengi"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "kofanda"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "bandeko"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ata"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "elongo moko"
+    }
+  ],
+  "timestamp": "2026-09-03T23:35:52.367989448Z",
+  "model": "glm-5.3"
+}

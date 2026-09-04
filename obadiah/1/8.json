@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "obadiah 1:8",
+  "book": "obadiah",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Boye te na mokolo wana, liloba ya Yawe, nakolongisaki bayebi na Edom, mpe bwanya na mongo ya Esav?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "boye te"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na mokolo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "wana"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "liloba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "והאבדתי",
+      "gloss": "mpe nakolongisaki"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "bayebi"
+    },
+    {
+      "surface": "מאדום",
+      "gloss": "na Edom"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "mpe bwanya"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "na mongo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ya Esav"
+    }
+  ],
+  "timestamp": "2026-09-03T23:32:50.101278182Z",
+  "model": "glm-5.3"
+}

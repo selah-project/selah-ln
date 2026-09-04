@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 12:1",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Yawe alobaki epai ya Avram: Meka yo moko, uta na mabele na yo, mpe uta na libota na yo, mpe uta na ndako ya tata na yo, epai ya mabele oyo nakolakisa yo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Meka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yo moko"
+    },
+    {
+      "surface": "מארצך",
+      "gloss": "uta na mabele na yo"
+    },
+    {
+      "surface": "וממולדתך",
+      "gloss": "mpe uta na libota na yo"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "mpe uta na ndako"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ya tata na yo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אראך",
+      "gloss": "nakolakisa yo"
+    }
+  ],
+  "timestamp": "2026-09-03T15:50:24.798831689Z",
+  "model": "glm-5.3"
+}

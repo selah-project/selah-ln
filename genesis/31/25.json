@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 31:25",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 31,
+  "translation": "Mpe Laban asingaki ⟨את⟩ Yaakov, mpe Yaakov abundaki ⟨את⟩ etanda na ye na ngomba, mpe Laban abundaki ⟨את⟩ bandeko na ye na ngomba ya Gilead.",
+  "tokens": [
+    {
+      "surface": "וישג",
+      "gloss": "asingaki"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laban"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "mpe Yaakov"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "abundaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "etanda na ye"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "etanda na ye"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "na ngomba"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "mpe Laban"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "abundaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bandeko na ye"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "bandeko na ye"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "na ngomba"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "ya Gilead"
+    }
+  ],
+  "timestamp": "2026-09-03T16:01:28.312163038Z",
+  "model": "glm-5.3"
+}

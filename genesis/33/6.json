@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 33:6",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 33,
+  "translation": "Mpe basali basi bakangaki pene, bango mpe bana na bango, mpe bakundolaki.",
+  "tokens": [
+    {
+      "surface": "ותגשן",
+      "gloss": "mpe bakangaki pene"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "basali basi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bango"
+    },
+    {
+      "surface": "וילדיהן",
+      "gloss": "mpe bana na bango"
+    },
+    {
+      "surface": "ותשתחוין",
+      "gloss": "mpe bakundolaki"
+    }
+  ],
+  "timestamp": "2026-09-03T16:01:31.105410796Z",
+  "model": "glm-5.3"
+}

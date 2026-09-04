@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 17:10",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 17,
+  "translation": "Bimani kati ya lisanga oyo, mpe nakolia ⟨את⟩ bango soki moke; mpe bakweyi na miso na bango.",
+  "tokens": [
+    {
+      "surface": "הרמו",
+      "gloss": "Bimani"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "kati ya"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "lisanga"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "mpe nakolia"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bango"
+    },
+    {
+      "surface": "כרגע",
+      "gloss": "soki moke"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "mpe bakweyi"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "miso na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T17:10:54.806649028Z",
+  "model": "glm-5.3"
+}

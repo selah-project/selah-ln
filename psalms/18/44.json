@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 18:44",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Obolaki ngai na makakambo ya bato; otyaki ngai na motó ya bikolo; ekolo oyo nayebaki te ekosalela ngai.",
+  "tokens": [
+    {
+      "surface": "תפלטני",
+      "gloss": "Obolaki ngai"
+    },
+    {
+      "surface": "מריבי",
+      "gloss": "na makakambo ya"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "otyaki ngai"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "na motó"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ya bikolo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ekolo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "nayebaki"
+    },
+    {
+      "surface": "יעבדוני",
+      "gloss": "ekosalela ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:04:15.631544629Z",
+  "model": "glm-5.3"
+}

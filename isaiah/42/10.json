@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 42:10",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 42,
+  "translation": "Boyimbela Yawe lokembu ya sika, boyei lokumu na yango uta na nsuka ya mabele, baye bakitaka na mbu mpe na nyonso oyo ezali na yango, bisanga mpe bafandi na yango.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Boyimbela"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "lokembu"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ya sika"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "lokumu na yango"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "uta na nsuka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ya mabele"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "baye bakitaka"
+    },
+    {
+      "surface": "הים",
+      "gloss": "na mbu"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "mpe na nyonso oyo ezali na yango"
+    },
+    {
+      "surface": "איים",
+      "gloss": "bisanga"
+    },
+    {
+      "surface": "וישביהם",
+      "gloss": "mpe bafandi na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T19:29:33.874517825Z",
+  "model": "glm-5.3"
+}

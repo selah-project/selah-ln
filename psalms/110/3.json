@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 110:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 110,
+  "translation": "Bato na yo bazali mokano na mokolo ya nguya na yo, na bondemi ya bokundoli; uta libumu ya moyi ya tongo, iyo nde talo ya bomoi ya bilenge na yo.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "Bato na yo"
+    },
+    {
+      "surface": "נדבת",
+      "gloss": "bazali mokano"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na mokolo ya"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "nguya na yo"
+    },
+    {
+      "surface": "בהדרי",
+      "gloss": "na bondemi ya"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "bokundoli"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "uta libumu"
+    },
+    {
+      "surface": "משחר",
+      "gloss": "ya moyi ya tongo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "טל",
+      "gloss": "talo"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "ya bomoi ya bilenge na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:29:53.081395972Z",
+  "model": "glm-5.3"
+}

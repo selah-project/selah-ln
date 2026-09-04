@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezra 8:20",
+  "book": "ezra",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe kati ya batiyami oyo David mpe bamikambi apesaki mpo na mosala ya balevi: batiyami nkama mibale mpe ntuku mibale; bango banso baomonisamaki na bankombo.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "mpe kati ya"
+    },
+    {
+      "surface": "הנתינים",
+      "gloss": "batiyami"
+    },
+    {
+      "surface": "שנתן",
+      "gloss": "opesaki"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "mpe bamikambi"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "mpo na mosala ya"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "balevi"
+    },
+    {
+      "surface": "נתינים",
+      "gloss": "batiyami"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "nkama mibale"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "mpe ntuku mibale"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "bango banso"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "baomonisamaki"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "na bankombo"
+    }
+  ],
+  "timestamp": "2026-09-03T22:33:43.714465835Z",
+  "model": "glm-5.3"
+}

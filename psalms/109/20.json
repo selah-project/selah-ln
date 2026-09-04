@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 109:20",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 109,
+  "translation": "Oyo ezali misala ya batyoli ngai kowuta ⟨את⟩ Yawe, mpe na baye balobi mabe likolo na bomoi na ngai.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Oyo"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "misala"
+    },
+    {
+      "surface": "שטני",
+      "gloss": "ya batyoli ngai"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "kowuta ⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "והדברים",
+      "gloss": "mpe na baye balobi"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo na"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "bomoi na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T23:35:26.975737190Z",
+  "model": "glm-5.3"
+}

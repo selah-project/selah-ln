@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 26:32",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "mpe Shemida, libota ya Shemidai; mpe Hefer, libota ya Heferi.",
+  "tokens": [
+    {
+      "surface": "ושמידע",
+      "gloss": "mpe Shemida"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "libota"
+    },
+    {
+      "surface": "השמידעי",
+      "gloss": "ya Shemidai"
+    },
+    {
+      "surface": "וחפר",
+      "gloss": "mpe Hefer"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "libota"
+    },
+    {
+      "surface": "החפרי",
+      "gloss": "ya Heferi"
+    }
+  ],
+  "timestamp": "2026-09-03T17:16:22.386504806Z",
+  "model": "glm-5.3"
+}

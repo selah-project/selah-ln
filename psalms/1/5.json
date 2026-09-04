@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 1:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpo na yango babubi bakotelema te na bokati, mpe bato ya masumu te na lisangani ya basembo.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "bakotelema"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "babubi"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "na bokati"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "mpe bato ya masumu"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "na lisangani"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ya basembo"
+    }
+  ],
+  "timestamp": "2026-09-03T20:59:13.835408543Z",
+  "model": "glm-5.3"
+}

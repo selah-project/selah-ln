@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 16:9",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Mpe mosali na ye Zimri, mokonzi ya ndambo ya bakiti ya bitumba, akangaki likolo na ye, ntango ye azalaki na Tirtsa komela makasi na ndako ya Artsa, oyo azalaki likolo ya ndako, na Tirtsa.",
+  "tokens": [
+    {
+      "surface": "ויקשר",
+      "gloss": "akangaki"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "likolo na ye"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "mosali na ye"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Zimri"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "מחצית",
+      "gloss": "ndambo"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "bakiti ya bitumba"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "mpe ye"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "na Tirtsa"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "amelaki"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "komele-makasi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako ya"
+    },
+    {
+      "surface": "ארצא",
+      "gloss": "Artsa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "na Tirtsa"
+    }
+  ],
+  "timestamp": "2026-09-04T00:25:44.762879752Z",
+  "model": "glm-5.3"
+}

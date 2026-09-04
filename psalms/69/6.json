@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 69:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 69,
+  "translation": "Elohim, yo omoni lilwale na ngai, mpe masumu na ngai libanda na yo ezali kobombama te.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ozali koyeba"
+    },
+    {
+      "surface": "לאולתי",
+      "gloss": "lilwale na ngai"
+    },
+    {
+      "surface": "ואשמותי",
+      "gloss": "mpe masumu na ngai"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "libanda na yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "נכחדו",
+      "gloss": "ezali kobombama"
+    }
+  ],
+  "timestamp": "2026-09-03T21:17:16.383381937Z",
+  "model": "glm-5.3"
+}

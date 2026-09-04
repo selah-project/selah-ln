@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 2:2",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Ezali mosantu ⟨na moko⟩ te lokola Yawe, mpo ezali ⟨na moko⟩ te longola yo, mpe ezali libanga te lokola Elohim na biso.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ezali te"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "mosantu"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "lokola Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ezali te"
+    },
+    {
+      "surface": "בלתך",
+      "gloss": "longola yo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mpe ezali te"
+    },
+    {
+      "surface": "צור",
+      "gloss": "libanga"
+    },
+    {
+      "surface": "כאלהינו",
+      "gloss": "lokola Elohim na biso"
+    }
+  ],
+  "timestamp": "2026-09-03T18:09:37.566219733Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 5:41",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "mpe Yehotsadak ekendaki na bovakeli, tango Yawe ekangaki ⟨את⟩ Yehuda mpe Yerushalaim na maboko ya Nevukadnetsar.",
+  "tokens": [
+    {
+      "surface": "ויהוצדק",
+      "gloss": "mpe Yehotsadak"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ekendaki"
+    },
+    {
+      "surface": "בהגלות",
+      "gloss": "na bovakeli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "mpe Yerushalaim"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "na maboko ya"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "Nevukadnetsar"
+    }
+  ],
+  "timestamp": "2026-09-03T22:41:05.300202233Z",
+  "model": "glm-5.3"
+}

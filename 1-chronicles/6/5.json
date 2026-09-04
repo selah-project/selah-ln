@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 6:5",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpo na Gereshom: Libni mwana na ye, Yahat mwana na ye, Zimah mwana na ye.",
+  "tokens": [
+    {
+      "surface": "לגרשום",
+      "gloss": "Mpo na Gereshom"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "Libni"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana na ye"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Yahat"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana na ye"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "Zimah"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T22:42:07.249816568Z",
+  "model": "glm-5.3"
+}

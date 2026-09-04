@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 77:21",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 77,
+  "translation": "Okambaki lokola bampanga ⟨את⟩ bato na yo na loboko ya Moshe mpe Aharon.",
+  "tokens": [
+    {
+      "surface": "נחית",
+      "gloss": "Okambaki"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "lokola bampanga"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bato na yo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "na loboko"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ya Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "mpe Aharon"
+    }
+  ],
+  "timestamp": "2026-09-03T21:18:05.954949613Z",
+  "model": "glm-5.3"
+}

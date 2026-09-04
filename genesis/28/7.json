@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 28:7",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 28,
+  "translation": "ete Yaakov aboyokaki tata na ye mpe mama na ye, mpe akendaki na Padan Aram.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "aboyokaki"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "maloba ya"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "tata na ye"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mpe maloba ya"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mama na ye"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "mpe akendaki"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "Padan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-09-03T15:59:23.694266704Z",
+  "model": "glm-5.3"
+}

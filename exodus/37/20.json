@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 37:20",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 37,
+  "translation": "Mpe na menora ezalaki na bikopo minei, bikeseni lolenge ya ⟨likelembu⟩, bakaptores na yango mpe bampela na yango.",
+  "tokens": [
+    {
+      "surface": "ובמנורה",
+      "gloss": "Mpe na menora"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "minei"
+    },
+    {
+      "surface": "גבעים",
+      "gloss": "bikopo"
+    },
+    {
+      "surface": "משקדים",
+      "gloss": "bikeseni lolenge ya likelembu"
+    },
+    {
+      "surface": "כפתריה",
+      "gloss": "bakaptores na yango"
+    },
+    {
+      "surface": "ופרחיה",
+      "gloss": "mpe bampela na yango"
+    }
+  ],
+  "timestamp": "2026-09-04T00:18:05.634354176Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 34:11",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 34,
+  "translation": "Bakoni bangwasi bazangaka mpe bazalaka na nzala, mpe baye balukaka Yawe bakozanga te malamu nyonso.",
+  "tokens": [
+    {
+      "surface": "כפירים",
+      "gloss": "Bakoni bangwasi"
+    },
+    {
+      "surface": "רשו",
+      "gloss": "bazangaka"
+    },
+    {
+      "surface": "ורעבו",
+      "gloss": "mpe bazalaka na nzala"
+    },
+    {
+      "surface": "ודרשי",
+      "gloss": "mpe baye balukaka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יחסרו",
+      "gloss": "bakozanga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "malamu"
+    }
+  ],
+  "timestamp": "2026-09-03T21:08:08.821649496Z",
+  "model": "glm-5.3"
+}

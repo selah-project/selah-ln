@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 7:36",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "oyo Yawe apesaki mibeko apesa bango, na mokolo atombwaki ⟨את⟩ bango, uta ⟨את⟩ bana ya Israel — mobeko ya seko epai ya mibota na bango.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "apesaki mibeko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "apesa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bango"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na mokolo"
+    },
+    {
+      "surface": "משחו",
+      "gloss": "atombwaki"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bango"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "uta ⟨את⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "mobeko"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ya seko"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "epai ya mibota na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:41:34.318794114Z",
+  "model": "glm-5.3"
+}

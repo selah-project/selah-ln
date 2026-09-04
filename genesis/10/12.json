@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "mpe ⟨את⟩ Resen, kati ya Nineve mpe kati ya Kalah; yango nde mboka monene.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Resen"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "Resen"
+    },
+    {
+      "surface": "בין",
+      "gloss": "kati ya"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Nineve"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "mpe kati ya"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kalah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yango"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mboka"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "monene"
+    }
+  ],
+  "timestamp": "2026-09-03T15:48:57.859510030Z",
+  "model": "glm-5.3"
+}

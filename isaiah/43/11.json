@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 43:11",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 43,
+  "translation": "Ngai, ngai nazali Yawe, mpe na libanda na ngai Mombongi azali te.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ngai"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mpe azali te"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "na libanda na ngai"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "Mombongi"
+    }
+  ],
+  "timestamp": "2026-09-03T19:29:41.559412896Z",
+  "model": "glm-5.3"
+}

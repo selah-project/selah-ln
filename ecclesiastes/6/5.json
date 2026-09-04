@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Ata ei amonaki te, mpe ayebaki yango te; oyo azali na kimya koleka oyo.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ata"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "ei"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "amonaki"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ayebaki"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "kimya"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "oya"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "oyo"
+    }
+  ],
+  "timestamp": "2026-09-03T22:15:14.438529342Z",
+  "model": "glm-5.3"
+}

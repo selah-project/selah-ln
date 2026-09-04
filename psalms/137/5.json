@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 137:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 137,
+  "translation": "Soki nalimbwisi yo, Yerushalaim, loboko na ngai ya mobali elimbwamaka.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Soki"
+    },
+    {
+      "surface": "אשכחך",
+      "gloss": "nalimbwisi yo"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "elimbwamaka"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "loboko na ngai ya mobali"
+    }
+  ],
+  "timestamp": "2026-09-03T21:35:30.061008347Z",
+  "model": "glm-5.3"
+}

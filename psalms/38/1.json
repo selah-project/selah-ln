@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 38:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 38,
+  "translation": "Nzembo ya David, mpo na kokanisa ⟨bisika⟩.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Nzembo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya David"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "mpo na kokanisa"
+    }
+  ],
+  "timestamp": "2026-09-03T23:33:50.584589291Z",
+  "model": "glm-5.3"
+}

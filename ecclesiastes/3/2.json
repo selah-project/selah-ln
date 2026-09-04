@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Ntango ya kobota, mpe ntango ya kokufa; ntango ya kolona, mpe ntango ya kokolola oyo elonami.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "ntango"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "ya kobota"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "mpe ntango"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ya kokufa"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ntango"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "ya kolona"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "mpe ntango"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "ya kokolola"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "oyo elonami"
+    }
+  ],
+  "timestamp": "2026-09-03T22:13:01.482398491Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 15:5",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 15,
+  "translation": "Mpe moto oyo asimbi mongo na ye, aswaka bilamba na ye mpe azezaka na mai, mpe azali na mabe kino mpokwa.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "mpe moto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "asimbi"
+    },
+    {
+      "surface": "במשכבו",
+      "gloss": "na mongo na ye"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "aswaka"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "bilamba na ye"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "mpe azezaka"
+    },
+    {
+      "surface": "במים",
+      "gloss": "na mai"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "mpe azali na mabe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "mpokwa"
+    }
+  ],
+  "timestamp": "2026-09-03T16:49:15.600363565Z",
+  "model": "glm-5.3"
+}

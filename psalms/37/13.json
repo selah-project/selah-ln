@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 37:13",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 37,
+  "translation": "Adonai akoseka ye, mpo amonaki ete mokolo na ye eyaki.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "akoseka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "amonaki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "eyaki"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "mokolo na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:09:07.578258861Z",
+  "model": "glm-5.3"
+}

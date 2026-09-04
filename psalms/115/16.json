@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 115:16",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 115,
+  "translation": "Likolo, likolo ezali ya Yawe, mpe mabele ati epai ya bana ya bato.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "Likolo"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "likolo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ya Yawe"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "mpe mabele"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ati"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "epai ya bana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ya bato"
+    }
+  ],
+  "timestamp": "2026-09-03T21:29:58.888688080Z",
+  "model": "glm-5.3"
+}

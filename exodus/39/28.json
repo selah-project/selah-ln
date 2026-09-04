@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 39:28",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 39,
+  "translation": "mpe ⟨את⟩ miture ya lin malamu, mpe ⟨את⟩ bilembo ya mitó ya lin malamu, mpe ⟨את⟩ milambodi ya lin malamu ya kangamaki.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "miture"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "miture"
+    },
+    {
+      "surface": "שש",
+      "gloss": "lin malamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bilembo ya mitó"
+    },
+    {
+      "surface": "פארי",
+      "gloss": "bilembo"
+    },
+    {
+      "surface": "המגבעת",
+      "gloss": "ya mitó"
+    },
+    {
+      "surface": "שש",
+      "gloss": "lin malamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "milambodi"
+    },
+    {
+      "surface": "מכנסי",
+      "gloss": "milambodi"
+    },
+    {
+      "surface": "הבד",
+      "gloss": "lin"
+    },
+    {
+      "surface": "שש",
+      "gloss": "malamu"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "ya kangamaki"
+    }
+  ],
+  "timestamp": "2026-09-03T16:38:40.301187072Z",
+  "model": "glm-5.3"
+}

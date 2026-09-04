@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 140:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 140,
+  "translation": "Oyo basalaka mabe na motema, mokolo nyonso batondisaka bitumba.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Oyo"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "basalaka"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "na motema"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mokolo"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "batondisaka"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "bitumba"
+    }
+  ],
+  "timestamp": "2026-09-03T21:34:48.641753537Z",
+  "model": "glm-5.3"
+}

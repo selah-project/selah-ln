@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 14:5",
+  "book": "job",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Soki mikolo na ye esili kokanama, motango ya sanza na ye ezali ⟨את⟩ epai na yo, ndelo na ye otyaki, mpe akoki koleka te.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Soki"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "esili kokanama"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "mikolo na ye"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "motango"
+    },
+    {
+      "surface": "חדשיו",
+      "gloss": "sanza na ye"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ epai na yo",
+      "marks": "epai na yo"
+    },
+    {
+      "surface": "חקו",
+      "gloss": "ndelo na ye"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "otyaki"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "akoki koleka"
+    }
+  ],
+  "timestamp": "2026-09-03T21:55:20.375683401Z",
+  "model": "glm-5.3"
+}

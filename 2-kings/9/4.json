@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 9:4",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Mpe mosankuru wana, mosankuru ya navi, akendaki na Ramot-Gilad.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "mpe akendaki"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mosankuru"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "wana, mosankuru"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ya navi"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    }
+  ],
+  "timestamp": "2026-09-03T19:02:25.719713326Z",
+  "model": "glm-5.3"
+}

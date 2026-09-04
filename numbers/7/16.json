@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 7:16",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mbulu ya mobali moko, ya bambulu, mpo na hatat.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "Mbulu ya mobali"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ya bambulu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "moko"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "mpo na hatat"
+    }
+  ],
+  "timestamp": "2026-09-03T17:01:53.156343728Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 50:7",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 50,
+  "translation": "Mpe Yosefe aei likolo mpo na kokunda ⟨את⟩ tata na ye, mpe baei likolo ⟨את⟩ elongo na ye banso basali ya Parao, bankulu ya ndako na ye, mpe bankulu banso ya mabele ya Mitsraim.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "mpe aei likolo"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "mpo na kokunda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tata na ye"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "tata na ye"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "mpe baei likolo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ elongo na ye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "banso"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "basali"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "bankulu"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ya ndako na ye"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe bankulu banso"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "bankulu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ya mabele"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    }
+  ],
+  "timestamp": "2026-09-03T16:13:04.220066813Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 105:23",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 105,
+  "translation": "Israel akotaki na Mitsraim, mpe Yaakov atikalaki mobembo na mabele ya Ham.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "mpe akotaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "mpe Yaakov"
+    },
+    {
+      "surface": "גר",
+      "gloss": "atikalaki mobembo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mabele ya"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Ham"
+    }
+  ],
+  "timestamp": "2026-09-03T21:27:12.970139120Z",
+  "model": "glm-5.3"
+}

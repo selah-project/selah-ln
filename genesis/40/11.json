@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 40:11",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 40,
+  "translation": "Mpe kikopo ya Parao ezalaki na maboko na ngai; mpe nayaki ⟨את⟩ manale, mpe naminyaki ⟨את⟩ bango na kikopo ya Parao, mpe napesaki ⟨את⟩ kikopo na loboko ya Parao.",
+  "tokens": [
+    {
+      "surface": "וכוס",
+      "gloss": "mpe kikopo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ya Parao"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "na maboko na ngai"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "mpe nayaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manale"
+    },
+    {
+      "surface": "הענבים",
+      "gloss": "manale"
+    },
+    {
+      "surface": "ואשחט",
+      "gloss": "mpe naminyaki"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bango"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "kikopo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ya Parao"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "mpe napesaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kikopo"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "kikopo"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כף",
+      "gloss": "loboko"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ya Parao"
+    }
+  ],
+  "timestamp": "2026-09-03T16:05:58.898003512Z",
+  "model": "glm-5.3"
+}

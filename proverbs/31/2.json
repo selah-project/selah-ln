@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 31:2",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 31,
+  "translation": "Nini, mwana na ngai? Mpe nini, mwana ya libumu na ngai? Mpe nini, mwana ya bilaka na ngai?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Nini"
+    },
+    {
+      "surface": "ברי",
+      "gloss": "mwana na ngai"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "Mpe nini"
+    },
+    {
+      "surface": "בר",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "ya libumu na ngai"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "Mpe nini"
+    },
+    {
+      "surface": "בר",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "ya bilaka na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:50:05.645090684Z",
+  "model": "glm-5.3"
+}

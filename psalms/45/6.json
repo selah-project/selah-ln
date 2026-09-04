@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 45:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 45,
+  "translation": "Mitoli na yo ezali makasi; bato bakweyi na nse na yo, ezali na motema ya banguna ya mokonzi.",
+  "tokens": [
+    {
+      "surface": "חציך",
+      "gloss": "mitoli na yo"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "makasi"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "bato"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "na nse na yo"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "bakweyi"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "na motema"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "ya banguna"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya mokonzi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:13:03.116994445Z",
+  "model": "glm-5.3"
+}

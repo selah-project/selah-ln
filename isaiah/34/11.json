@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 34:11",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 34,
+  "translation": "Kaata mpe kipodu bakozwa yango, yanshofu mpe korobo bakofanda na yango; mpe ⟨ye⟩ akotombola likolo na yango mokondo ya tohu, mpe mabanga ya bohu.",
+  "tokens": [
+    {
+      "surface": "וִירֵשׁוּהָ",
+      "gloss": "bakozwa yango"
+    },
+    {
+      "surface": "קָאַת",
+      "gloss": "kaata"
+    },
+    {
+      "surface": "וְקִפּוֹד",
+      "gloss": "mpe kipodu"
+    },
+    {
+      "surface": "וְיַנְשׁוֹף",
+      "gloss": "mpe yanshofu"
+    },
+    {
+      "surface": "וְעֹרֵב",
+      "gloss": "mpe korobo"
+    },
+    {
+      "surface": "יִשְׁכְּנוּ",
+      "gloss": "bakofanda"
+    },
+    {
+      "surface": "בָּהּ",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "וְנָטָה",
+      "gloss": "mpe akotombola"
+    },
+    {
+      "surface": "עָלֶיהָ",
+      "gloss": "likolo na yango"
+    },
+    {
+      "surface": "קַו",
+      "gloss": "mokondo"
+    },
+    {
+      "surface": "תֹהוּ",
+      "gloss": "ya tohu"
+    },
+    {
+      "surface": "וְאַבְנֵי",
+      "gloss": "mpe mabanga"
+    },
+    {
+      "surface": "בֹהוּ",
+      "gloss": "ya bohu"
+    }
+  ],
+  "timestamp": "2026-09-03T19:27:07.714075387Z",
+  "model": "glm-5.3"
+}

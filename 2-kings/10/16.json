@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 10:16",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Alobaki: Yaka ⟨את⟩ elongo na ngai, mpe tala kanda na ngai (boilingi) mpo na Yawe; mpe batiyaki ⟨את⟩ ye na bereke na ye.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Alobaki"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Yaka"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ elongo na ngai"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "mpe tala"
+    },
+    {
+      "surface": "בקנאתי",
+      "gloss": "kanda na ngai"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "mpo na Yawe"
+    },
+    {
+      "surface": "וירכבו",
+      "gloss": "mpe batiyaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ye",
+      "marks": "na bereke na ye"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "na bereke na ye"
+    }
+  ],
+  "timestamp": "2026-09-04T00:20:51.193665202Z",
+  "model": "glm-5.3"
+}

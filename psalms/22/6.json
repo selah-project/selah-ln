@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 22:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Epai na yo babengaki mpe balombamaki; na yo bandimaki mpe basalaki mawa te.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "Epai na yo"
+    },
+    {
+      "surface": "זעקו",
+      "gloss": "babengaki"
+    },
+    {
+      "surface": "ונמלטו",
+      "gloss": "mpe balombamaki"
+    },
+    {
+      "surface": "בך",
+      "gloss": "na yo"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "bandimaki"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe ... te"
+    },
+    {
+      "surface": "בושו",
+      "gloss": "basalaki mawa"
+    }
+  ],
+  "timestamp": "2026-09-03T21:03:46.881718532Z",
+  "model": "glm-5.3"
+}

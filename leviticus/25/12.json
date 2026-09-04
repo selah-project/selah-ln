@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 25:12",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Mpo yovel yango ezali eloko mosantu na bino; kowuta na elanga bokolia ⟨את⟩ mboto na yango.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "yovel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yango"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "eloko mosantu"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ezali"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "na bino"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kowuta na"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "elanga"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "bokolia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mboto na yango"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "mboto na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:55:40.939779498Z",
+  "model": "glm-5.3"
+}

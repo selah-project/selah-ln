@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 90:12",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 90,
+  "translation": "Ndenge wana, funda biso kotanga miku na biso, mpo toyela na motema ya bwanya.",
+  "tokens": [
+    {
+      "surface": "למנות",
+      "gloss": "kotanga"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "miku na biso"
+    },
+    {
+      "surface": "כן",
+      "gloss": "Ndenge wana"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "funda biso"
+    },
+    {
+      "surface": "ונבא",
+      "gloss": "mpo toyela"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "motema"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "bwanya"
+    }
+  ],
+  "timestamp": "2026-09-03T21:24:03.045783483Z",
+  "model": "glm-5.3"
+}

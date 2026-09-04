@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 7:8",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mpe kohen oyo apesaka ⟨את⟩ mbeka ya moto ya moto, sika ya mbeka ya moto oyo apesaki, na kohen yango ezali na ye.",
+  "tokens": [
+    {
+      "surface": "והכהן",
+      "gloss": "Mpe kohen"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "oyo apesaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbeka ya moto"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "mbeka ya moto"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ya moto"
+    },
+    {
+      "surface": "עור",
+      "gloss": "sika"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ya mbeka ya moto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "apesaki"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "na kohen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "yango ezali na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T16:41:17.851209094Z",
+  "model": "glm-5.3"
+}

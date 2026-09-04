@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 12:10",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Balokolo ebele babubisi liona na ngai, batondaki na makolo ⟨את⟩ elanga na ngai; batyaki ⟨את⟩ elanga ya sepela na ngai esika ya bobwatardi, ya nsukuni.",
+  "tokens": [
+    {
+      "surface": "רעים",
+      "gloss": "Balokolo"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "eebele"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "babubaki"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "liona na ngai"
+    },
+    {
+      "surface": "בססו",
+      "gloss": "batondaki na makolo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elanga na ngai"
+    },
+    {
+      "surface": "חלקתי",
+      "gloss": "elanga na ngai"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "batyaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elanga ya sepela na ngai"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "elanga"
+    },
+    {
+      "surface": "חמדתי",
+      "gloss": "ya sepela na ngai"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "esika ya bobwatardi"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "ya nsukuni"
+    }
+  ],
+  "timestamp": "2026-09-03T19:47:55.999126788Z",
+  "model": "glm-5.3"
+}

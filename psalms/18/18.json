@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 18:18",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Abombaki ngai uta banguna na ngai baye bazali makasi, mpe uta baye bazali koboya ngai, mpo bazalaki makasi koleka ngai.",
+  "tokens": [
+    {
+      "surface": "יצילני",
+      "gloss": "abombaki ngai"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "uta banguna na ngai"
+    },
+    {
+      "surface": "עז",
+      "gloss": "baye bazali makasi"
+    },
+    {
+      "surface": "ומשנאי",
+      "gloss": "mpe uta baye bazali koboya ngai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "bazalaki makasi"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "koleka ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:04:06.313744464Z",
+  "model": "glm-5.3"
+}

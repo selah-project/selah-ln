@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 50:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 50,
+  "translation": "Nakoki te kolaka par uta na ndako nayo, mbuzi ya mibali uta na bisenga nayo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nakoki te"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "kolaka"
+    },
+    {
+      "surface": "מביתך",
+      "gloss": "uta na ndako nayo"
+    },
+    {
+      "surface": "פר",
+      "gloss": "par"
+    },
+    {
+      "surface": "ממכלאתיך",
+      "gloss": "uta na bisenga nayo"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "mbuzi ya mibali"
+    }
+  ],
+  "timestamp": "2026-09-03T21:11:27.477050437Z",
+  "model": "glm-5.3"
+}

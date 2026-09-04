@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 25:20",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Kasi Amatsiahu ayokaki te, mpo ezalaki uta na Elohim, mpo na kopesa bango na maboko, mpo basalaki koluka ⟨את⟩ banzambe ya Edom.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Kasi te"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ayokaki"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Amatsiahu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "מהאלהים",
+      "gloss": "uta na Elohim"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ezalaki"
+    },
+    {
+      "surface": "למען",
+      "gloss": "mpo na"
+    },
+    {
+      "surface": "תתם",
+      "gloss": "kopesa bango"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "na maboko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "basalaki koluka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "banzambe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "banzambe"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ya Edom"
+    }
+  ],
+  "timestamp": "2026-09-03T23:04:54.109773568Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 4:8",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe ⟨את⟩ mavuta ya para ya mbeka ya masumu nyonso atombwaki na yango: ⟨את⟩ mavuta oyo ebombi libumu, mpe ⟨את⟩ mavuta nyonso oyo ezali na libumu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mavuta nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "mavuta"
+    },
+    {
+      "surface": "פר",
+      "gloss": "ya para"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ya masumu"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "atombwaki"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mavuta oyo ebombi libumu"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "mavuta"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "oyo ebombi"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "libumu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mavuta nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "mavuta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ezali na"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "libumu"
+    }
+  ],
+  "timestamp": "2026-09-03T16:42:34.442132607Z",
+  "model": "glm-5.3"
+}

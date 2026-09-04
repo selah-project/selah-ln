@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 19:17",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Koya te na ndeko na yo na motema na yo; okanisa ndimbola ⟨את⟩ moninga na yo, mpe okotama te mpo na ye likebi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תשנא",
+      "gloss": "koya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndeko na yo"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ndeko na yo"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "na motema na yo"
+    },
+    {
+      "surface": "הוכח",
+      "gloss": "ndimbola"
+    },
+    {
+      "surface": "תוכיח",
+      "gloss": "okanisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moninga na yo"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "moninga na yo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "okotama"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mpo na ye"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "likebi"
+    }
+  ],
+  "timestamp": "2026-09-03T16:52:33.257736571Z",
+  "model": "glm-5.3"
+}

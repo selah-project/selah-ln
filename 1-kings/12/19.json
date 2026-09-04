@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 12:19",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Mpe Israel asalaki bopemi na ndako ya David kino mokolo oyo.",
+  "tokens": [
+    {
+      "surface": "ויפשעו",
+      "gloss": "Mpe asalaki bopemi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "na ndako ya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "היום",
+      "gloss": "mokolo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    }
+  ],
+  "timestamp": "2026-09-03T18:50:17.085860895Z",
+  "model": "glm-5.3"
+}

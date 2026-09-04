@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 144,
+  "ref": "psalms 119:144",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Bosembo nde matemo na yo, ya likolo ya ntango nyonso; pesa ngai bokansi, mpe nakovanda na bomoi.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "bosembo"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "matemo na yo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ya likolo ya ntango nyonso"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "pesa ngai bokansi"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "mpe nakovanda na bomoi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:32:13.083238782Z",
+  "model": "glm-5.3"
+}

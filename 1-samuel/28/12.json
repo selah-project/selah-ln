@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 28:12",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 28,
+  "translation": "Motó amonaki ⟨את⟩ Shemuela, mpe akangaki elongi na linwu ya monene, mpe motó alobaki epai Shaul, alobaki: Mpo nini obulisaki ngai? Mpe yo, nde Shaul.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "mpe amonaki"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "motó"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shemuela"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuela"
+    },
+    {
+      "surface": "ותזעק",
+      "gloss": "mpe akangaki elongi"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "na linwu"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ya monene"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "motó"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na koloba"
+    },
+    {
+      "surface": "למה",
+      "gloss": "mpo nini"
+    },
+    {
+      "surface": "רמיתני",
+      "gloss": "obulisaki ngai"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "mpe yo nde"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    }
+  ],
+  "timestamp": "2026-09-03T18:23:23.776530281Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 39:34",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 39,
+  "translation": "mpe ⟨את⟩ likangisi ya masopo ya baento oyo basopaki moke, mpe ⟨את⟩ likangisi ya masopo ya Tachash, mpe ⟨את⟩ liparekete ya likanzo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "likangisi ya masopo ya baento"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "likangisi"
+    },
+    {
+      "surface": "עורת",
+      "gloss": "ya masopo"
+    },
+    {
+      "surface": "האילם",
+      "gloss": "ya baento"
+    },
+    {
+      "surface": "המאדמים",
+      "gloss": "oyo basopaki moke"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "likangisi ya masopo ya Tachash"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "likangisi"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "ya masopo"
+    },
+    {
+      "surface": "התחשים",
+      "gloss": "ya Tachash"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "liparekete"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "liparekete"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "ya likanzo"
+    }
+  ],
+  "timestamp": "2026-09-03T16:38:44.993565712Z",
+  "model": "glm-5.3"
+}

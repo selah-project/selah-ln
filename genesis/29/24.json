@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 29:24",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 29,
+  "translation": "Mpe Lavan apesaki ye ⟨את⟩ Zilpa moembeti na ye, na Lea mwana na ye mwasi, lokola moembeti.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "apesaki"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zilpa"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "Zilpa"
+    },
+    {
+      "surface": "שפחתו",
+      "gloss": "moembeti na ye"
+    },
+    {
+      "surface": "ללאה",
+      "gloss": "na Lea"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "mwana na ye mwasi"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "moembeti"
+    }
+  ],
+  "timestamp": "2026-09-03T15:58:39.106653108Z",
+  "model": "glm-5.3"
+}

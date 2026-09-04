@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 5:39",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Mpe Shallum abotaki ⟨את⟩ Hilqijah, mpe Hilqijah abotaki ⟨את⟩ Azarjah.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "Mpe Shallum"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "abotaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hilqijah"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Hilqijah"
+    },
+    {
+      "surface": "וחלקיה",
+      "gloss": "mpe Hilqijah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "abotaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azarjah"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarjah"
+    }
+  ],
+  "timestamp": "2026-09-03T22:41:07.973401078Z",
+  "model": "glm-5.3"
+}

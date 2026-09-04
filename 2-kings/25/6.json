@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 25:6",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Mpe baswaki ⟨את⟩ mokonzi, mpe bakendiselaki yango epai ya mokonzi ya Bavel, na Rivla, mpe balobaki na yango ⟨את⟩ toplambo.",
+  "tokens": [
+    {
+      "surface": "ויתפשו",
+      "gloss": "mpe baswaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mokonzi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "mpe bakendiselaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yango",
+      "marks": "yango (mokonzi)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ya Bavel"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "na Rivla"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "mpe balobaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ na yango",
+      "marks": "na yango"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "toplambo"
+    }
+  ],
+  "timestamp": "2026-09-03T19:12:10.914670204Z",
+  "model": "glm-5.3"
+}

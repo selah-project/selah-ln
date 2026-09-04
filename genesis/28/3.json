@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 28:3",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 28,
+  "translation": "Mpe El Shadai (Mozwi-ya-Nguya-Nyonso) abandisa ⟨את⟩ yo, mpe abotisi yo, mpe aboundisi yo, mpe oozala lisanga ya bikolo.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Mpe El"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadai"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "abandisa"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "yo"
+    },
+    {
+      "surface": "ויפרך",
+      "gloss": "mpe abotisi yo"
+    },
+    {
+      "surface": "וירבך",
+      "gloss": "mpe aboundisi yo"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "mpe oozala"
+    },
+    {
+      "surface": "לקהל",
+      "gloss": "lisanga"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ya bikolo"
+    }
+  ],
+  "timestamp": "2026-09-03T16:00:09.988059270Z",
+  "model": "glm-5.3"
+}

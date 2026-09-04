@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 21:20",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Mpe Elohim azalaki na ⟨את⟩ mwana, mpe akolaki, mpe afandaki na bonsese, mpe akomaki mobeti monene ya likonga.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mpe azalaki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ na",
+      "marks": "mwana"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "mpe akolaki"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "mpe afandaki"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "na bonsese"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mpe akomaki"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "monene"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "mobeti ya likonga"
+    }
+  ],
+  "timestamp": "2026-09-03T15:54:45.683150718Z",
+  "model": "glm-5.3"
+}

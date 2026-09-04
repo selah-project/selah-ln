@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 89:22",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 89,
+  "translation": "Oyo loboko na ngai ekotikala elongo na ye; mpe liboko na ngai ekolakisa ye makasi.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Oyo"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "loboko na ngai"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "ekotikala"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "elongo na ye"
+    },
+    {
+      "surface": "אף",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "זרועי",
+      "gloss": "liboko na ngai"
+    },
+    {
+      "surface": "תאמצנו",
+      "gloss": "ekolakisa ye makasi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:23:23.025661453Z",
+  "model": "glm-5.3"
+}

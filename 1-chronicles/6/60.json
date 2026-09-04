@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "1-chronicles 6:60",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpe ⟨את⟩ Hukok mpe ⟨את⟩ maboko na yango, mpe ⟨את⟩ Rehob mpe ⟨את⟩ maboko na yango.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Hukok"
+    },
+    {
+      "surface": "חוקק",
+      "gloss": "Hukok"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "maboko na yango"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "maboko na yango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Rehob"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rehob"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "maboko na yango"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "maboko na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T22:42:45.649064426Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 28:16",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 28,
+  "translation": "mpe ⟨את⟩ wolo, koleko, mpo na bamesa ya etando, mpo na mesa na mesa; mpe fesie mpo na bamesa ya fesie.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "wolo"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "wolo"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "koleko"
+    },
+    {
+      "surface": "לשלחנות",
+      "gloss": "mpo na bamesa"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "ya etando"
+    },
+    {
+      "surface": "לשלחן",
+      "gloss": "mpo na mesa"
+    },
+    {
+      "surface": "ושלחן",
+      "gloss": "na mesa"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "mpe fesie"
+    },
+    {
+      "surface": "לשלחנות",
+      "gloss": "mpo na bamesa"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ya fesie"
+    }
+  ],
+  "timestamp": "2026-09-03T22:52:17.386803321Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 38:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 38,
+  "translation": "Ezali bomoi ya malamu te na nzoto na ngai, liboso ya likebi na yo; ezali kimya te na mikuwa na ngai, liboso ya masumu na ngai.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ezali te"
+    },
+    {
+      "surface": "מתום",
+      "gloss": "bomoi ya malamu"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "na nzoto na ngai"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "likebi na yo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ezali te"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kimya"
+    },
+    {
+      "surface": "בעצמי",
+      "gloss": "na mikuwa na ngai"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "masumu na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T23:35:07.957337981Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 122:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 122,
+  "translation": "Esika wana mabota bakwaki, mabota ya Ya, litatoli mpo na Israel, mpo na kotonda na nkombo ya Yawe.",
+  "tokens": [
+    {
+      "surface": "ששם",
+      "gloss": "Esika wana"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "bakwaki na likolo"
+    },
+    {
+      "surface": "שבטים",
+      "gloss": "mabota"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "mabota"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "litatoli"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "mpo na Israel"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "mpo na kotonda"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "na nkombo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T21:33:39.970375714Z",
+  "model": "glm-5.3"
+}

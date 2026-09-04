@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 41:19",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 41,
+  "translation": "Nakopesaka na mokenzeti ya ndenge na ndenge, mpe na esika ya moke nakotya zete ya ndenge na ndenge elongo — sedre, sita, mpe hadasa, mpe zete ya mafuta; na Arava — beroshi, tidara, mpe teashura elongo.",
+  "tokens": [
+    {
+      "surface": "אתן",
+      "gloss": "nakopesaka"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "na moke"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "sedre"
+    },
+    {
+      "surface": "שטה",
+      "gloss": "sita"
+    },
+    {
+      "surface": "והדס",
+      "gloss": "mpe hadasa"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "mpe zete"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ya mafuta"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "nakotya"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "na Arava"
+    },
+    {
+      "surface": "ברוש",
+      "gloss": "beroshi"
+    },
+    {
+      "surface": "תדהר",
+      "gloss": "tidara"
+    },
+    {
+      "surface": "ותאשור",
+      "gloss": "mpe teashura"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "elongo"
+    }
+  ],
+  "timestamp": "2026-09-03T19:31:09.861145561Z",
+  "model": "glm-5.3"
+}

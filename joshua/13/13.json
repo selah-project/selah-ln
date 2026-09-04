@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 13:13",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Mpe bana ya Israel babimisaki te ⟨את⟩ Bagashuri mpe ⟨את⟩ Bamaakati; mpe Gashur mpe Maakat bafandaki kati ya Israel kino mokolo oyo.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "הורישו",
+      "gloss": "babimisaki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bagashuri"
+    },
+    {
+      "surface": "הגשורי",
+      "gloss": "Bagashuri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Bamaakati"
+    },
+    {
+      "surface": "המעכתי",
+      "gloss": "Bamaakati"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "mpe bafandaki"
+    },
+    {
+      "surface": "גשור",
+      "gloss": "Gashur"
+    },
+    {
+      "surface": "ומעכת",
+      "gloss": "mpe Maakat"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "kati ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "היום",
+      "gloss": "mokolo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    }
+  ],
+  "timestamp": "2026-09-03T17:48:42.516150263Z",
+  "model": "glm-5.3"
+}

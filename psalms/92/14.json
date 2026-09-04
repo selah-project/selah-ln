@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 92:14",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 92,
+  "translation": "Batyami na ndako ya Yawe, na banganda ya Elohim na biso bakotondola.",
+  "tokens": [
+    {
+      "surface": "שתולים",
+      "gloss": "Batyami"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "na ndako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "na banganda"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ya Elohim na biso"
+    },
+    {
+      "surface": "יפריחו",
+      "gloss": "bakotondola"
+    }
+  ],
+  "timestamp": "2026-09-03T21:24:20.481806897Z",
+  "model": "glm-5.3"
+}

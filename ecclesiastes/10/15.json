@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Mosala ya babwagi ekiemisaka bango, mpo bayebi te kokende na mboka.",
+  "tokens": [
+    {
+      "surface": "עמל",
+      "gloss": "Mosala"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "ya babwagi"
+    },
+    {
+      "surface": "תיגענו",
+      "gloss": "ekiemisaka bango"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "bayebi"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "kokende"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mboka"
+    }
+  ],
+  "timestamp": "2026-09-03T22:14:08.671600738Z",
+  "model": "glm-5.3"
+}

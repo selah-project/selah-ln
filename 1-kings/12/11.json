@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 12:11",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Mpe sikoyo tata na ngai atombwisaki na bino ol ya poindo, mpe ngai nakobakisa na ol na bino; tata na ngai akanzaki ⟨את⟩ bino na makeke, kasi ngai nakokanza ⟨את⟩ bino na bamangozo.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Mpe sikoyo"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tata na ngai"
+    },
+    {
+      "surface": "העמיס",
+      "gloss": "atombwisaki"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "na bino"
+    },
+    {
+      "surface": "על",
+      "gloss": "ol"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ya poindo"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "mpe ngai"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "nakobakisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "ol na bino"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tata na ngai"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "akanzaki"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ bino",
+      "marks": "na makeke"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "na makeke"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "kasi ngai"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "nakokanza"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ bino",
+      "marks": "na bamangozo"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "na bamangozo"
+    }
+  ],
+  "timestamp": "2026-09-03T18:51:22.234870881Z",
+  "model": "glm-5.3"
+}

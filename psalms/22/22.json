@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 22:22",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Bokolama ngai ut na monoko ya nkoi, mpe ut na mipembe ya banyama minene oyanolaki ngai.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "Bokolama ngai"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "ut na monoko"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "ya nkoi"
+    },
+    {
+      "surface": "ומקרני",
+      "gloss": "mpe ut na mipembe"
+    },
+    {
+      "surface": "רמים",
+      "gloss": "ya banyama minene"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "oyanolaki ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:04:30.962301878Z",
+  "model": "glm-5.3"
+}

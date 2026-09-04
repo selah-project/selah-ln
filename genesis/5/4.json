@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 5:4",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Mpe mikolo ya Adam sima ya kobota ⟨את⟩ Shet ezalaki mbula nkama mwambe; mpe abotaki bana mibali mpe bana basi.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "mpe ezalaki"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mikolo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sima ya"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "kobota"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shet"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Shet"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "mwambe"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "nkama"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mbula"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "mpe abotaki"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bana mibali"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "mpe bana basi"
+    }
+  ],
+  "timestamp": "2026-09-03T15:46:14.200599860Z",
+  "model": "glm-5.3"
+}

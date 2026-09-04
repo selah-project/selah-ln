@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 1:1",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Yawe alobaki na Moshe na etando ya Sinai, na hema ya bokutani, na liboso ⟨ya mokolo ya⟩ sanza ya mibale, na mbula ya mibale ya bobimwa bawana na mabele ya Mitsraim, na koloba:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "na etando"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "ya Sinai"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "na hema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya bokutani"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "na liboso"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ya sanza"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ya mibale"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "na mbula"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ya mibale"
+    },
+    {
+      "surface": "לצאתם",
+      "gloss": "ya bobimwa"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "bawana na mabele"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Mitsraim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na koloba"
+    }
+  ],
+  "timestamp": "2026-09-03T16:58:31.933264424Z",
+  "model": "glm-5.3"
+}

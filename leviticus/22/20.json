@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 22:20",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Nyonso oyo mabe ezali na yango, bokomema yango te, mpo ekokoka te kozala lipema na bino.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "מום",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "bokomema"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "lipema"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ekozala"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "na bino"
+    }
+  ],
+  "timestamp": "2026-09-03T16:52:02.110272909Z",
+  "model": "glm-5.3"
+}

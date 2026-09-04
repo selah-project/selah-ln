@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 9:25",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Mpe Shelomo atombolaki mbala misato na mbula banimi mpe bikabo ya kimia likolo ya auteli oyo atongaki epai ya Yawe, mpe atumbaki na ⟨את⟩ yango oyo ezali liboso ya Yawe, mpe asalisaki ⟨את⟩ ndako.",
+  "tokens": [
+    {
+      "surface": "והעלה",
+      "gloss": "mpe atombolaki"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "misato"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "mbala"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "na mbula"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "banimi"
+    },
+    {
+      "surface": "ושלמים",
+      "gloss": "mpe bikabo ya kimia"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "auteli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "atongaki"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "epai ya Yawe"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "mpe atumbaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "na ⟨את⟩ yango"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "mpe asalisaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndako"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ndako"
+    }
+  ],
+  "timestamp": "2026-09-03T18:49:54.038760026Z",
+  "model": "glm-5.3"
+}

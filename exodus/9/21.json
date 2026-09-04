@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 9:21",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Mpe oyo atyaki motema te epai ya liloba oyo Yawe alobaki, atikaki ⟨את⟩ basaleli na ye mpe ⟨את⟩ bikuku na ye na shanga.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "Mpe oyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "שם",
+      "gloss": "atyaki"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "motema"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "liloba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "atikaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "basaleli na ye"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "basaleli na ye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bikuku na ye"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "bikuku na ye"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "na shanga"
+    }
+  ],
+  "timestamp": "2026-09-03T16:18:37.264356573Z",
+  "model": "glm-5.3"
+}

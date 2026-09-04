@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 22:8",
+  "book": "ezekiel",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Biloko santu na ngai oboyaki, mpe ⟨את⟩ Shabat na ngai obungisaki.",
+  "tokens": [
+    {
+      "surface": "קדשי",
+      "gloss": "biloko santu na ngai"
+    },
+    {
+      "surface": "בזית",
+      "gloss": "oboyaki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Shabat na ngai"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Shabat na ngai"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "obungisaki"
+    }
+  ],
+  "timestamp": "2026-09-03T20:20:24.309174769Z",
+  "model": "glm-5.3"
+}

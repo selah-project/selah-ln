@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 2:3",
+  "book": "jonah",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe alobaki ete: Nabengaki mawa na ngai epai ya Yawe, mpe ⟨iye⟩ andimbolaki ngai; uta na libumu ya Sheol Nadingaki, Oyoki mongongo na ngai.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "Nabengaki"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "mawa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "mpe ⟨iye⟩ andimbolaki ngai"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "uta na libumu ya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "Nadingaki"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "Oyoki"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "mongongo na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T20:47:34.127189885Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zephaniah 2:11",
+  "book": "zephaniah",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Yawe akala mosika ya bobangi epai wa bango, mpo akomelisaka ⟨את⟩ banzambe nyonso ya mabelo; mpe bato bakofukama liboso lia ye, moto na moto na esika na ye, bisi nyonso ya bikolo.",
+  "tokens": [
+    {
+      "surface": "נורא",
+      "gloss": "mosika ya bobangi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "epai wa bango"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "רזה",
+      "gloss": "akomelisaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "banzambe nyonso ya mabelo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "banzambe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ya mabelo"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "mpe bakofukama"
+    },
+    {
+      "surface": "לו",
+      "gloss": "liboso lia ye"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto na moto"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "na esika na ye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "איי",
+      "gloss": "bisi"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ya bikolo"
+    }
+  ],
+  "timestamp": "2026-09-03T20:52:45.981556622Z",
+  "model": "glm-5.3"
+}

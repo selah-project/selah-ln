@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "isaiah 37:31",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 37,
+  "translation": "Mpe bapami ya ndako ya Yehuda oyo etikali bakokota nsinga na nse lisusu, mpe esalaka mbuma na likolo.",
+  "tokens": [
+    {
+      "surface": "ויספה",
+      "gloss": "Mpe ... lisusu"
+    },
+    {
+      "surface": "פליטת",
+      "gloss": "bapami"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ya ndako"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ya Yehuda"
+    },
+    {
+      "surface": "הנשארה",
+      "gloss": "oyo etikali"
+    },
+    {
+      "surface": "שרש",
+      "gloss": "nsinga"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "na nse"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "mpe esalaka"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "mbuma"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "na likolo"
+    }
+  ],
+  "timestamp": "2026-09-03T19:28:19.487687571Z",
+  "model": "glm-5.3"
+}

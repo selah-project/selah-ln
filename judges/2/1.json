@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 2:1",
+  "book": "judges",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe mokebi wa Yawe amatelaki uta na Gilgala kino na Bokim, mpe alobaki: Namatisaki ⟨את⟩ bino uta na Mitsraim, mpe nakendisaki ⟨את⟩ bino na mabele oyo nalapiaki na bankoko na bino, mpe nalobaki: Nakolimwisa te lokuta na ngai ⟨את⟩ elongo na bino, kino na ntango ya libela.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "amatelaki"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "mokebi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uta na"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kino na"
+    },
+    {
+      "surface": "הבכים",
+      "gloss": "Bokim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "namatisaki"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ bino",
+      "marks": "bino (utamineli: namatisaki bino)"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "וואביא",
+      "gloss": "mpe nakendisaki"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ bino",
+      "marks": "bino (botiami: nakendisaki bino)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "nalapiaki"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "na bankoko na bino"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "mpe nalobaki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "nakolimwisa"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "lokuta na ngai"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ elongo na bino"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kino na ntango ya libela"
+    }
+  ],
+  "timestamp": "2026-09-03T17:56:27.623226133Z",
+  "model": "glm-5.3"
+}

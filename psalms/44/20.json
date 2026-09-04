@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 44:20",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 44,
+  "translation": "Ata soki Odiviti biso na esika ya bankeni, mpe obombi biso na lito ya liwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ata soki"
+    },
+    {
+      "surface": "דכיתנו",
+      "gloss": "Odiviti biso"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "na esika"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "ya bankeni"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "mpe obombi"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "biso"
+    },
+    {
+      "surface": "בצלמות",
+      "gloss": "na lito ya liwa"
+    }
+  ],
+  "timestamp": "2026-09-03T21:11:05.139804791Z",
+  "model": "glm-5.3"
+}

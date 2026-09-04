@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 40:6",
+  "book": "job",
+  "lang": "ln",
+  "chapter": 40,
+  "translation": "Yawe ayanaki ⟨את⟩ Iyob uta na likofe ya mpuya, mpe alobaki:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "mayanaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Iyob"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyob"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "uta na"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "likofe ya mpuya"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "malobaki"
+    }
+  ],
+  "timestamp": "2026-09-03T22:03:26.253276004Z",
+  "model": "glm-5.3"
+}

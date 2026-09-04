@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 2:17",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Boye te? Yango nde osali yako moko, wana otilaki ⟨את⟩ Yawe Elohim na yo, na ntango azalaki kolakisa yo na nzela.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Boye te?"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "yango"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "osali"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yako moko"
+    },
+    {
+      "surface": "עזבך",
+      "gloss": "otilaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim na yo"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "na ntango"
+    },
+    {
+      "surface": "מוליכך",
+      "gloss": "azalaki kolakisa yo"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "na nzela"
+    }
+  ],
+  "timestamp": "2026-09-03T23:25:28.327283317Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 4:6",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe Yawe alobaki epai na ye lisusu: Kotisa, na limpo, maboko na yo na libongai na yo. Mpe ayingaki maboko na ye na libongai na ye, mpe abimaki yango, mpe talá, maboko na ye ezali na bolongo, lokola nvula ya pembe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "epai na ye"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lisusu"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "Kotisa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "na limpo"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "maboko na yo"
+    },
+    {
+      "surface": "בחיקך",
+      "gloss": "na libongai na yo"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "Mpe ayingaki"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "maboko na ye"
+    },
+    {
+      "surface": "בחיקו",
+      "gloss": "na libongai na ye"
+    },
+    {
+      "surface": "ויוצאה",
+      "gloss": "mpe abimaki yango"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mpe talá"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "maboko na ye"
+    },
+    {
+      "surface": "מצרעת",
+      "gloss": "ezali na bolongo"
+    },
+    {
+      "surface": "כשלג",
+      "gloss": "lokola nvula ya pembe"
+    }
+  ],
+  "timestamp": "2026-09-03T16:15:11.051225193Z",
+  "model": "glm-5.3"
+}

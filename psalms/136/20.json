@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 136:20",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 136,
+  "translation": "Mpe mpo na Og, mokonzi ya Bashan, mpo hesed na ye ⟨ezali⟩ kino seko.",
+  "tokens": [
+    {
+      "surface": "ולעוג",
+      "gloss": "mpe mpo na Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "ya Bashan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kino seko"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:34:27.028773939Z",
+  "model": "glm-5.3"
+}

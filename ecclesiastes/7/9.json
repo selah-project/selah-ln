@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 7:9",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Kozala na ngingi te na mopepe na yo mpo na koluka likebi, mpo ete likebi ezali kopalama na libumu ya bato oyo bazali na mayele te.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "kozala na ngingi"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "na mopepe na yo"
+    },
+    {
+      "surface": "לכעוס",
+      "gloss": "mpo na koluka likebi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "likebi"
+    },
+    {
+      "surface": "בחיק",
+      "gloss": "na libumu"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "ya bato oyo bazali na mayele te"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "ezali kopalama"
+    }
+  ],
+  "timestamp": "2026-09-03T22:14:17.076625729Z",
+  "model": "glm-5.3"
+}

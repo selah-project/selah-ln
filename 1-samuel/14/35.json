@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-samuel 14:35",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Mpe Shaul akangi autel mpo na Yawe; ⟨את⟩ yango abandaki kokangi autel mpo na Yawe.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Mpe akangi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "autel"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "mpo na Yawe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yango"
+    },
+    {
+      "surface": "החל",
+      "gloss": "abandaki"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "kokangi"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "autel"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "mpo na Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T18:17:25.970020236Z",
+  "model": "glm-5.3"
+}

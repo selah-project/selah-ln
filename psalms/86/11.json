@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 86:11",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 86,
+  "translation": "Lakisela ngai nzela ya yo, Yawe; nakotambola na bosembo na yo. Sangisa motema na ngai mpo na kobanga nkombo na yo.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "Lakisela ngai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "nzela ya yo"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "nakotambola"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "na bosembo na yo"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "Sangisa"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "motema na ngai"
+    },
+    {
+      "surface": "ליראאה",
+      "gloss": "mpo na kobanga"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nkombo na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:22:00.927667729Z",
+  "model": "glm-5.3"
+}

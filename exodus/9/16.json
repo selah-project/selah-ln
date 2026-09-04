@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 9:16",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Kasi solo, mpo na oyo natelaki yo, mpo na kolakisa yo ⟨את⟩ nguya na ngai, mpe mpo ete nkombo na ngai etangolama na mabele mobimba.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "kasi solo"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "mpo na"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "העמדתיך",
+      "gloss": "natelaki yo"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "mpo na"
+    },
+    {
+      "surface": "הראתך",
+      "gloss": "kolakisa yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nguya na ngai"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "nguya na ngai"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "mpe mpo ete"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "kotangola"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "nkombo na ngai"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na mobimba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ya mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T16:17:54.634669984Z",
+  "model": "glm-5.3"
+}

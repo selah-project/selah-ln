@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 4:5",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe esalemaki: tango aron ya boyokani ya Yawe ekotaki na kaa, Israele nyonso babetaki liputa monene, mpe mabele ketetremaki.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mpe esalemaki"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "tango ekotaki ya"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "aron"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ya boyokani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kaa"
+    },
+    {
+      "surface": "וירעו",
+      "gloss": "mpe babetaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israele"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "liputa"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "monene"
+    },
+    {
+      "surface": "ותהם",
+      "gloss": "mpe ... ketetremaki"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T18:11:11.259138511Z",
+  "model": "glm-5.3"
+}

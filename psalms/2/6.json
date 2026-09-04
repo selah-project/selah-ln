@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 2:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe ngai natiaki mokonzi na ngai likolo ya Tsion, ngomba ya nsampo na ngai.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Mpe ngai"
+    },
+    {
+      "surface": "נסכתי",
+      "gloss": "natiaki"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mokonzi na ngai"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsion"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ngomba"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "nsampo na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:00:14.741732702Z",
+  "model": "glm-5.3"
+}

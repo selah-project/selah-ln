@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 40:16",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 40,
+  "translation": "Bakufaka motema mpo na mawa na bango, bango balobaka na ngai: Aha, Aha.",
+  "tokens": [
+    {
+      "surface": "ישמו",
+      "gloss": "Bakufaka motema"
+    },
+    {
+      "surface": "על",
+      "gloss": "mpo na"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "na mokolo ya"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "mawa na bango"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "bango balobaka"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Aha"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Aha"
+    }
+  ],
+  "timestamp": "2026-09-03T21:10:26.859580583Z",
+  "model": "glm-5.3"
+}

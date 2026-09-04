@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 26:11",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "Mpe Avimelek atindaki ⟨את⟩ bato nyonso ati: Oyo akangisi moto oyo to mwasi na ye, bokufi akufa.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "mpe atindaki"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bato nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ati"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "Oyo akangisi"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ובאשתו",
+      "gloss": "mpe mwasi na ye"
+    },
+    {
+      "surface": "מות",
+      "gloss": "bokufi"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "akufa"
+    }
+  ],
+  "timestamp": "2026-09-03T23:11:23.460626847Z",
+  "model": "glm-5.3"
+}

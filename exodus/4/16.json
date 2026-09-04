@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 4:16",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe ye, akoloba mpo na yo epai ya bato; mpe ekokanama ⟨ye⟩ azali monoko mpo na yo, mpe yo okokanama elohim mpo na ye.",
+  "tokens": [
+    {
+      "surface": "ודבר",
+      "gloss": "mpe akoloba"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ye"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mpo na yo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "mpe ekokanama"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ye"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "akokanama"
+    },
+    {
+      "surface": "לך",
+      "gloss": "mpo na yo"
+    },
+    {
+      "surface": "לפה",
+      "gloss": "monoko"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "mpe yo"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "okokanama"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mpo na ye"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "elohim"
+    }
+  ],
+  "timestamp": "2026-09-03T16:15:14.208277256Z",
+  "model": "glm-5.3"
+}

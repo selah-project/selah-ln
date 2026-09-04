@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 18:14",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Mpe Yawe atundaki na likolo, mpe Elyon apesaki mongongo na yango — mbala ya bingongo mpe matafya ya moto.",
+  "tokens": [
+    {
+      "surface": "וירעם",
+      "gloss": "mpe atundaki"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "na likolo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ועליון",
+      "gloss": "mpe Elyon"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "apesaki"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "mongongo na yango"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "mbala ya bingongo"
+    },
+    {
+      "surface": "וגחלי",
+      "gloss": "mpe matafya"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ya moto"
+    }
+  ],
+  "timestamp": "2026-09-03T21:04:26.031706392Z",
+  "model": "glm-5.3"
+}

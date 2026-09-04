@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 8:4",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe okoloba na bango: Ndenge oyo Yawe alobi: Bato begwaka, mpe batelemaka te? Moto aswaka, mpe azongaka te?",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "Mpe okoloba"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Ndenge oyo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "alobi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "היפלו",
+      "gloss": "Bato begwaka?"
+    },
+    {
+      "surface": "ויקומו",
+      "gloss": "batelemaka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe ... te"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Soki moto"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "aswaka?"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe ... te"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "azongaka"
+    }
+  ],
+  "timestamp": "2026-09-03T19:46:23.965690247Z",
+  "model": "glm-5.3"
+}

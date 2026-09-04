@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 31:5",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 31,
+  "translation": "mpe na kobeta bakete, mpo na kokangama, mpe na kolomba nakoteke, mpo na kosala mosala nyonso;",
+  "tokens": [
+    {
+      "surface": "ובחרשת",
+      "gloss": "mpe na kobeta bakete"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "bakete"
+    },
+    {
+      "surface": "למלאת",
+      "gloss": "mpo na kokangama"
+    },
+    {
+      "surface": "ובחרשת",
+      "gloss": "mpe na kolomba"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "nakoteke"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "mpo na kosala"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mosala nyonso"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "mosala"
+    }
+  ],
+  "timestamp": "2026-09-03T16:32:08.378751005Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 5:8",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "mpe nsanga mpe taba mpo na bilo mpe mpo na banyama ya mbangu batyaki na esika oyo esengaki kuna, moto na misala na ye.",
+  "tokens": [
+    {
+      "surface": "והשערים",
+      "gloss": "mpe nsanga"
+    },
+    {
+      "surface": "והתבן",
+      "gloss": "mpe taba"
+    },
+    {
+      "surface": "לסוסים",
+      "gloss": "mpo na bilo"
+    },
+    {
+      "surface": "ולרכש",
+      "gloss": "mpe mpo na banyama ya mbangu"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "batyaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "esika"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "esengaki"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "אישׁ",
+      "gloss": "moto"
+    },
+    {
+      "surface": "כמשפטו",
+      "gloss": "na misala na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T18:45:14.127501488Z",
+  "model": "glm-5.3"
+}

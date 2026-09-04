@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 6:11",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpo maloba ebeli ebelisaka bosato; nini ezali lituya na moto?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨ezali⟩"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "maloba"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ebeli"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "ebelisaka"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "bosato"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "lituya"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "na moto"
+    }
+  ],
+  "timestamp": "2026-09-03T22:15:14.462470126Z",
+  "model": "glm-5.3"
+}

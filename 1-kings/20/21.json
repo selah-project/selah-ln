@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 20:21",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 20,
+  "translation": "Mpe mokonzi ya Israel abimaki, akubaki ⟨את⟩ basava mpe ⟨את⟩ mituka ya bitumba, mpe akubaki bato ya Aram kubu ya monene.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "mpe abimaki"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "akubaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "basava"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "basava"
+    },
+    {
+      "surface": "וְאת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mituka ya bitumba"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "mituka ya bitumba"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "mpe akubaki"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "bato ya Aram"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "kubu"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "ya monene"
+    }
+  ],
+  "timestamp": "2026-09-03T18:56:16.050183614Z",
+  "model": "glm-5.3"
+}

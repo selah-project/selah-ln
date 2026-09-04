@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 19:2",
+  "book": "judges",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Mpe pilegesh na ye abuangaki ye, mpe akendaki na ⟨את⟩ ye, epai ya ndako ya tata na ye, na Beit Lehem ya Yehuda, mpe atikalaki kuna sanza minei.",
+  "tokens": [
+    {
+      "surface": "ותזנה",
+      "gloss": "Mpe abuangaki"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "פילגשו",
+      "gloss": "pilegesh na ye"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "mpe akendaki"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩ na ye",
+      "marks": "ye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "tata na ye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lehem"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ya Yehuda"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "mpe atikalaki"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "sanza (mikpo)"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "minei"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-03T18:06:52.142465784Z",
+  "model": "glm-5.3"
+}

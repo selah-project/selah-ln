@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 23:12",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Mpe Avraham akotaki liboso ya bato ya mabele.",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "akotaki"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ya mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T15:53:53.771635411Z",
+  "model": "glm-5.3"
+}

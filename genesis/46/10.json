@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 46:10",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 46,
+  "translation": "Mpe bana ya Shimon: Yemuel, mpe Yamin, mpe Ohad, mpe Yakin, mpe Tsohar, mpe Shaul mwana wa mwasi Kenaanit.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Mpe bana ya"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimon"
+    },
+    {
+      "surface": "ימואל",
+      "gloss": "Yemuel"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "mpe Yamin"
+    },
+    {
+      "surface": "ואהד",
+      "gloss": "mpe Ohad"
+    },
+    {
+      "surface": "ויכין",
+      "gloss": "mpe Yakin"
+    },
+    {
+      "surface": "וצחר",
+      "gloss": "mpe Tsohar"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "mpe Shaul"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "הכנענית",
+      "gloss": "mwasi Kenaanit"
+    }
+  ],
+  "timestamp": "2026-09-03T16:09:42.200994834Z",
+  "model": "glm-5.3"
+}

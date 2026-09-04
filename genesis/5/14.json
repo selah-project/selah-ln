@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 5:14",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Mikolo nyonso ya Kenan ekokaki bambula makomi libwa na zomi, mpe akufaki.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ekokaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "Mikolo"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "ya Kenan"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "zomi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "bambula"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "makomi libwa"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "makomi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "bambula"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "akufaki"
+    }
+  ],
+  "timestamp": "2026-09-03T15:45:38.795911897Z",
+  "model": "glm-5.3"
+}

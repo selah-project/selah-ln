@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 4:8",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mabe na biso! Nani akokolaka biso na maboko ya banzambe oyo ya nguya? Bango nde banzambe oyo basotaki ⟨את⟩ Mitsraim na matuta nyonso na esobe.",
+  "tokens": [
+    {
+      "surface": "אוי",
+      "gloss": "Mabe"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "na biso"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Nani"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "akokolaka biso"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "na maboko ya"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "banzambe"
+    },
+    {
+      "surface": "האדירים",
+      "gloss": "oyo ya nguya"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Bango"
+    },
+    {
+      "surface": "הם",
+      "gloss": "nde bango"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "banzambe"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "basotaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsraim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na ... nyonso"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "matuta"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "na esobe"
+    }
+  ],
+  "timestamp": "2026-09-03T18:11:11.259697217Z",
+  "model": "glm-5.3"
+}

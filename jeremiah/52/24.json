@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 52:24",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 52,
+  "translation": "Mpe mokambi ya babomi azwaki ⟨את⟩ Sherajah kohen ya liboso, mpe ⟨את⟩ Tsefanjah kohen ya mibale, mpe ⟨את⟩ basatu babateli ya ekoti.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Mpe azwaki"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mokambi"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "ya babomi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sherajah"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Sherajah"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ya liboso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Tsefanjah"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "Tsefanjah"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "המשנה",
+      "gloss": "ya mibale"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "basatu babateli ya ekoti"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "basatu"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "babateli"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "ya ekoti"
+    }
+  ],
+  "timestamp": "2026-09-03T20:08:55.879776431Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 139:15",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 139,
+  "translation": "Misopa na ngai ebombamaki te epai na yo, tango nasalemaki na bobombi, nabondelamaki na nse ya mabele.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "ebombamaki"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "misopa na ngai"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "epai na yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tango"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "nasalemaki"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "na bobombi"
+    },
+    {
+      "surface": "רקמתי",
+      "gloss": "nabondelamaki"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "na nse ya"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T21:35:02.084399742Z",
+  "model": "glm-5.3"
+}

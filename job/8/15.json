@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 8:15",
+  "book": "job",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Apikami na ndako na yango, mpe etikali te; akangaka na yango, mpe eyanoli te.",
+  "tokens": [
+    {
+      "surface": "ישען",
+      "gloss": "Apikami"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ndako na yango"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe ... te"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "etikali"
+    },
+    {
+      "surface": "יחזיק",
+      "gloss": "akangaka"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe ... te"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "eyanoli"
+    }
+  ],
+  "timestamp": "2026-09-03T21:52:24.578879568Z",
+  "model": "glm-5.3"
+}

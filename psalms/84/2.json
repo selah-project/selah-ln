@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 84:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 84,
+  "translation": "Boni bolingo ya bandako na yo, Yawe Tsebaot!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Boni"
+    },
+    {
+      "surface": "ידידות",
+      "gloss": "bolingo"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "bandako na yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    }
+  ],
+  "timestamp": "2026-09-03T21:23:27.928233028Z",
+  "model": "glm-5.3"
+}

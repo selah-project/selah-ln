@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 103:22",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 103,
+  "translation": "Bokumisa Yawe, misala na ye nyonso, na bisika nyonso ya bokonzi na ye; kumisa, molimo na ngai, ⟨את⟩ Yawe.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Bokumisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "misala na ye"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na bisika nyonso"
+    },
+    {
+      "surface": "מקמות",
+      "gloss": "bisika"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "ya bokonzi na ye"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "kumisa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "molimo na ngai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T21:25:36.157982255Z",
+  "model": "glm-5.3"
+}

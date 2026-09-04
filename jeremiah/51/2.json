@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 51:2",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 51,
+  "translation": "Mpe natindi epai ya Bavel bapaya, bakosula yango, mpe bakongola ⟨את⟩ mabele na yango, mpo bazalaki likolo na yango na zingazinga, na mokolo ya mabe.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "mpe natindi"
+    },
+    {
+      "surface": "לבבל",
+      "gloss": "epai ya Bavel"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "bapaya"
+    },
+    {
+      "surface": "וזרוה",
+      "gloss": "bakosula yango"
+    },
+    {
+      "surface": "ויבקקו",
+      "gloss": "mpe bakongola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabele na yango"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "mabele na yango"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bazalaki"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "likolo na yango"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "na zingazinga"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na mokolo"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ya mabe"
+    }
+  ],
+  "timestamp": "2026-09-04T00:20:52.479177313Z",
+  "model": "glm-5.3"
+}

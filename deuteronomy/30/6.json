@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 30:6",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 30,
+  "translation": "Mpe Yawe Elohim na yo akokatola ⟨את⟩ motema na yo mpe ⟨את⟩ motema ya mbuta na yo, mpo na kolinga ⟨את⟩ Yawe Elohim na yo na motema na yo mobimba mpe na molimo na yo mobimba, mpo na bomoi na yo.",
+  "tokens": [
+    {
+      "surface": "ומל",
+      "gloss": "mpe akokatola"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim na yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motema na yo"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "motema na yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "motema ya mbuta na yo"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "motema"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ya mbuta na yo"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "mpo na kolinga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe Elohim na yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim na yo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na mobimba ya"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "motema na yo"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "mpe na mobimba ya"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "molimo na yo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "mpo na"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "bomoi na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T17:39:18.071799669Z",
+  "model": "glm-5.3"
+}

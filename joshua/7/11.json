@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 7:11",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Israel asalaki libenga, mpe babungaki ⟨את⟩ bondimi na ngai oyo nakangaki ⟨את⟩ bango; mpe bazwaki na herem, mpe babombi yango mpe, mpe balobaki lokuta mpe, mpe batyaki yango o biloko na bango mpe.",
+  "tokens": [
+    {
+      "surface": "חטא",
+      "gloss": "asalaki libenga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "babungaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bondimi na ngai"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "bondimi na ngai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "nakangaki"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ bango"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "bazwaki"
+    },
+    {
+      "surface": "מן",
+      "gloss": "na"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "herem"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "גנבו",
+      "gloss": "babombi yango"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "כחשו",
+      "gloss": "balobaki lokuta"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "batyaki yango"
+    },
+    {
+      "surface": "בכליהם",
+      "gloss": "o biloko na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T17:46:21.440231531Z",
+  "model": "glm-5.3"
+}

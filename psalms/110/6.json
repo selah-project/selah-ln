@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 110:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 110,
+  "translation": "Akoyoka kati na bikolo, akotondisa ⟨na⟩ mibeli, abukaki motó likolo ya mabele monene.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "akoyoka"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "kati na bikolo"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "akotondisa"
+    },
+    {
+      "surface": "גויות",
+      "gloss": "mibeli"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "abukaki"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "motó"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "monene"
+    }
+  ],
+  "timestamp": "2026-09-03T21:29:30.773125339Z",
+  "model": "glm-5.3"
+}

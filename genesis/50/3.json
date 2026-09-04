@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 50:3",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 50,
+  "translation": "Mpe bakokisaki mpo na ye mikolo ntuku minei, mpo ndenge wana bakokisaka mikolo ya bafembi; mpe bayei ya Mitsraim bakokaki mawa ⟨את⟩ ye mikolo ntuku sambo.",
+  "tokens": [
+    {
+      "surface": "וימלאו",
+      "gloss": "Mpe bakokisaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mpo na ye"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ntuku minei"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mikolo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ndenge wana"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "bakokisaka"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mikolo"
+    },
+    {
+      "surface": "החנטים",
+      "gloss": "ya bafembi"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "mpe bakokaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ye"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "bayei ya Mitsraim"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ntuku sambo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mikolo"
+    }
+  ],
+  "timestamp": "2026-09-03T16:13:47.917881248Z",
+  "model": "glm-5.3"
+}

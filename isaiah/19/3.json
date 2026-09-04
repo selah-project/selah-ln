@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 19:3",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Mpe elimo ya Mitsraim ekokatikata na kati na yango, mpe makanisi na yango nakomelia; mpe bakoluka banzambe ya moke, mpe basangoli ya maloba, mpe bapaya ya elimo, mpe bayebi ya bomuni.",
+  "tokens": [
+    {
+      "surface": "ונבקה",
+      "gloss": "Mpe ekokatikata"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "elimo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Mitsraim"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "na kati na yango"
+    },
+    {
+      "surface": "ועצתו",
+      "gloss": "mpe makanisi na yango"
+    },
+    {
+      "surface": "אבלע",
+      "gloss": "nakomelia"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "mpe bakoluka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨na⟩"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "banzambe ya moke"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mpe ⟨na⟩"
+    },
+    {
+      "surface": "האטים",
+      "gloss": "basangoli ya maloba"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mpe ⟨na⟩"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "bapaya ya elimo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mpe ⟨na⟩"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "bayebi ya bomuni"
+    }
+  ],
+  "timestamp": "2026-09-03T19:20:48.422021173Z",
+  "model": "glm-5.3"
+}

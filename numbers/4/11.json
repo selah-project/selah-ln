@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 4:11",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe likolo ya autelo ya wolo bakotanda elamba ya tekhelet, mpe bakofula ⟨את⟩ yango na fulia ya lipe ya tachash, mpe bakotyela ⟨את⟩ bafele na yango.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "mpe likolo ya"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "autelo"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ya wolo"
+    },
+    {
+      "surface": "יפרשו",
+      "gloss": "bakotanda"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "elamba"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "ya tekhelet"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "mpe bakofula"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yango",
+      "marks": "yango (autelo)"
+    },
+    {
+      "surface": "במכסה",
+      "gloss": "na fulia"
+    },
+    {
+      "surface": "עור",
+      "gloss": "ya lipe"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "ya tachash"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "mpe bakotyela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bafele na yango"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "bafele na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T23:17:39.661583906Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 9:25",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Mpe barde ebubaki na mabele ya Mitsraim mobimba ⟨את⟩ nyonso oyo ezalaka na shampo, uta na moto kino na nyama, mpe ⟨את⟩ bokusa nyonso ya shampo barde ebubaki yango, mpe ⟨את⟩ nzete nyonso ya shampo ebukaki.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "mpe ebubaki"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "barde"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mobimba"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyonso oyo ezalaka na shampo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "na shampo"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "uta na moto"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "mpe kino"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bokusa nyonso ya shampo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "bokusa"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ya shampo"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ebubaki"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "barde"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "nzete nyonso ya shampo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "nzete"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ya shampo"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ebukaki"
+    }
+  ],
+  "timestamp": "2026-09-03T16:17:24.114537339Z",
+  "model": "glm-5.3"
+}

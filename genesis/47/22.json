@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 47:22",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 47,
+  "translation": "Kaka mabele ya bakohen ⟨ye⟩ asombi te, mpo ete lolenge moko ezalaki na bakohen utaka ⟨את⟩ epai ya Parao, mpe balialaki ⟨את⟩ lolenge na bango oyo Parao apesaki bango; yango wana batekaki te ⟨את⟩ mabele na bango.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "kaka"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ya bakohen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "asombi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "חק",
+      "gloss": "lolenge"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "na bakohen"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Parao"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "mpe balialaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lolenge na bango"
+    },
+    {
+      "surface": "חקם",
+      "gloss": "lolenge na bango"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "apesaki"
+    },
+    {
+      "surface": "להם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כן",
+      "gloss": "yango wana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "batekaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabele na bango"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "mabele na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:11:56.570949389Z",
+  "model": "glm-5.3"
+}

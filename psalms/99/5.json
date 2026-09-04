@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 99:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 99,
+  "translation": "Bokasi Yawe Elohim na biso, mpe bosenswa na esika ya makolo na ye; azali mokasi.",
+  "tokens": [
+    {
+      "surface": "רוממו",
+      "gloss": "Bokasi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim na biso"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "mpe bosenswa"
+    },
+    {
+      "surface": "להדם",
+      "gloss": "na esika ya makolo"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "makolo na ye"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "mokasi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "azali"
+    }
+  ],
+  "timestamp": "2026-09-03T21:26:29.838797168Z",
+  "model": "glm-5.3"
+}

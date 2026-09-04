@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 145:12",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 145,
+  "translation": "Mpo na koyebisa epai ya bana ya bato nguya na ye, mpe nkembo ya kitoko ya bokonzi na ye.",
+  "tokens": [
+    {
+      "surface": "להודיע",
+      "gloss": "mpo na koyebisa"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "epai ya bana"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ya bato"
+    },
+    {
+      "surface": "גבורתיו",
+      "gloss": "nguya na ye"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "mpe nkembo"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "ya kitoko"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "ya bokonzi na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:36:11.581952414Z",
+  "model": "glm-5.3"
+}

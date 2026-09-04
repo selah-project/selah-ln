@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 10:8",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Moto oyo akangaka libulu, akokwela kati na yango; mpe nyoka akonyata moto oyo abukaka etando.",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "oyo akangaka"
+    },
+    {
+      "surface": "גומץ",
+      "gloss": "libulu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kati na yango"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "akokwela"
+    },
+    {
+      "surface": "ופרץ",
+      "gloss": "mpe oyo abukaka"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "etando"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "akonyata"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "nyoka"
+    }
+  ],
+  "timestamp": "2026-09-03T22:14:26.705769243Z",
+  "model": "glm-5.3"
+}

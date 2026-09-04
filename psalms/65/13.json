@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 65:13",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 65,
+  "translation": "Bisika ya banyama ya tongo bizali komela, mpe bangomba ekangami ⟨na⟩ esengo.",
+  "tokens": [
+    {
+      "surface": "ירעפו",
+      "gloss": "bizali komela"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "bisika ya banyama"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "tongo"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "mpe esengo"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "bangomba"
+    },
+    {
+      "surface": "תחגרנה",
+      "gloss": "ekangami"
+    }
+  ],
+  "timestamp": "2026-09-03T21:14:59.754356862Z",
+  "model": "glm-5.3"
+}

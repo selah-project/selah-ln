@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 122:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 122,
+  "translation": "Botuya ezala na mipeto na yo, mpe kimanyola na bandako minene na yo.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ezala"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Botuya"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "na mipeto na yo"
+    },
+    {
+      "surface": "שלוה",
+      "gloss": "kimanyola"
+    },
+    {
+      "surface": "בארמנותיך",
+      "gloss": "na bandako minene na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:33:42.342524107Z",
+  "model": "glm-5.3"
+}

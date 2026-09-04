@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 15:30",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 15,
+  "translation": "Mpo na mabe ya Yaravam oyo asalaki, mpe oyo amemaki ⟨את⟩ Israel na mabe, na konyokola na ye oyo anyokolaki ⟨את⟩ Yawe Elohim ya Israel.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Mpo na"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yaravam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "asalaki"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "mpe oyo"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "amemaki na mabe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בכעסו",
+      "gloss": "na konyokola na ye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "הכעיס",
+      "gloss": "anyokolaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-03T18:53:29.829438632Z",
+  "model": "glm-5.3"
+}

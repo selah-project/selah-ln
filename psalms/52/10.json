@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 52:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 52,
+  "translation": "Mpe ngai, nazali lokola nzete ya mafuta ya mokei na ndako ya Elohim; natii likebi na hesed ya Elohim, ntango nyonso mpe libela.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Mpe ngai"
+    },
+    {
+      "surface": "כזית",
+      "gloss": "lokola nzete ya mafuta"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "ya mokei"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "na ndako ya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "natii likebi"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "na hesed"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ntango nyonso"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "mpe libela"
+    }
+  ],
+  "timestamp": "2026-09-03T21:13:19.761309970Z",
+  "model": "glm-5.3"
+}

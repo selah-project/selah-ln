@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 3:21",
+  "book": "judges",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe Ehud atolaki ⟨את⟩ loboko na ye ya mwasi, mpe amakis ⟨את⟩ montuko uta lokusu na ye ya mobali, mpe atingis yango na libumu na ye.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "mpe atolaki"
+    },
+    {
+      "surface": "אהוד",
+      "gloss": "Ehud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "loboko"
+    },
+    {
+      "surface": "יד",
+      "gloss": "loboko"
+    },
+    {
+      "surface": "שמאלו",
+      "gloss": "ya mwasi"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "mpe amakis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "montuko"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "montuko"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "uta"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "lokusu"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "ya mobali"
+    },
+    {
+      "surface": "ויתקעה",
+      "gloss": "mpe atingis yango"
+    },
+    {
+      "surface": "בבטנו",
+      "gloss": "na libumu na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T17:58:12.603676596Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 2:6",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe afungolaki ⟨yango⟩ mpe amonaki ⟨את⟩ mwana, mpe talá, mwana-mobali azalaki kolila; mpe azwaki mawa na ye, mpe alobaki: Kati ya bana ya Baivrim oyo ⟨ezali⟩.",
+  "tokens": [
+    {
+      "surface": "ותפתח",
+      "gloss": "mpe afungolaki ⟨yango⟩"
+    },
+    {
+      "surface": "ותראהו",
+      "gloss": "mpe amonaki ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwana"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mpe talá"
+    },
+    {
+      "surface": "נער",
+      "gloss": "mwana-mobali"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "azalaki kolila"
+    },
+    {
+      "surface": "ותחמל",
+      "gloss": "mpe azwaki mawa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "מילדי",
+      "gloss": "kati ya bana ya"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "Baivrim"
+    },
+    {
+      "surface": "זה",
+      "gloss": "oyo ⟨ezali⟩"
+    }
+  ],
+  "timestamp": "2026-09-03T16:12:48.803529352Z",
+  "model": "glm-5.3"
+}

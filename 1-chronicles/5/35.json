@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 5:35",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Mpe Ahimaats abotaki ⟨את⟩ Azarjah, mpe Azarjah abotaki ⟨את⟩ Yokanan.",
+  "tokens": [
+    {
+      "surface": "ואחימעץ",
+      "gloss": "mpe Ahimaats"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "abotaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azarjah"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarjah"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "mpe Azarjah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "abotaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yokanan"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Yokanan"
+    }
+  ],
+  "timestamp": "2026-09-03T22:41:24.870292230Z",
+  "model": "glm-5.3"
+}

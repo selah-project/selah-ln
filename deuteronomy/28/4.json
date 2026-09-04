@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 28:4",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 28,
+  "translation": "Mapamboli ezali epai ya bumeli ya libumu na yo, mpe bumeli ya mabele na yo, mpe bumeli ya banyama na yo, bana ya banama na yo mpe bana ya bitengele na yo.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "mapamboli ezali epai ya"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "bumeli ya"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "libumu na yo"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "mpe bumeli ya"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "mabele na yo"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "mpe bumeli ya"
+    },
+    {
+      "surface": "בהמתך",
+      "gloss": "banyama na yo"
+    },
+    {
+      "surface": "שגר",
+      "gloss": "bana ya"
+    },
+    {
+      "surface": "אלפיך",
+      "gloss": "banama na yo"
+    },
+    {
+      "surface": "ועשתרות",
+      "gloss": "mpe bana ya"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "bitengele na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T17:38:18.053612959Z",
+  "model": "glm-5.3"
+}

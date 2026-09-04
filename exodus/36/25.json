@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 36:25",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 36,
+  "translation": "Mpe mpo na lipanzu ya mibale ya Mishkan, na esika ya nord, asalaki zomi na mibale bipapa.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "mpo na lipanzu"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ya mibale"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "na esika ya"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "nord"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "asalaki"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "zomi na mibale"
+    },
+    {
+      "surface": "קרששים",
+      "gloss": "bipapa"
+    }
+  ],
+  "timestamp": "2026-09-03T16:35:56.653302209Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 31:20",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 31,
+  "translation": "Makasu na yango atandolaki epai ya mokose, mpe maboko na yango atindaki epai ya mosenyi.",
+  "tokens": [
+    {
+      "surface": "כפה",
+      "gloss": "makasu na yango"
+    },
+    {
+      "surface": "פרשה",
+      "gloss": "atandolaki"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "epai ya mokose"
+    },
+    {
+      "surface": "וידיה",
+      "gloss": "mpe maboko na yango"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "atindaki"
+    },
+    {
+      "surface": "לאביון",
+      "gloss": "epai ya mosenyi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:49:59.068967695Z",
+  "model": "glm-5.3"
+}

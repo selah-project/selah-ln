@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 8:2",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Na roke ya bilikolo, likolo ya nzela, na esika ya banzela, ⟨bwanya⟩ atelemi.",
+  "tokens": [
+    {
+      "surface": "בראש",
+      "gloss": "na roke ya"
+    },
+    {
+      "surface": "מרומים",
+      "gloss": "bilikolo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "nzela"
+    },
+    {
+      "surface": "בית",
+      "gloss": "esika ya"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "banzela"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "atelemi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:39:57.748748711Z",
+  "model": "glm-5.3"
+}

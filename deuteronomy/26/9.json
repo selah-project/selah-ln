@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 26:9",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "Mpe amemaki biso na esika oyo, mpe apesaki biso ⟨את⟩ mabele oyo, mabele ezali kitaka miliki mpe moi.",
+  "tokens": [
+    {
+      "surface": "ויבאנו",
+      "gloss": "mpe amemaki biso"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "esika"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "mpe apesaki"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "biso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabele oyo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "ezali kitaka"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "miliki"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "mpe moi"
+    }
+  ],
+  "timestamp": "2026-09-03T17:36:25.421755291Z",
+  "model": "glm-5.3"
+}

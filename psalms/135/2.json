@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 135:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 135,
+  "translation": "Bó aza telemetry na ndako ya Yawe, na bibenga ya ndako ya Elohim na biso.",
+  "tokens": [
+    {
+      "surface": "שעמדים",
+      "gloss": "bó aza telemetry"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "na ndako ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "na bibenga ya"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim na biso"
+    }
+  ],
+  "timestamp": "2026-09-03T21:33:56.715550526Z",
+  "model": "glm-5.3"
+}

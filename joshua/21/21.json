@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 21:21",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Bapesaki bango ⟨את⟩ mboka ya bobombi ya mobomi ⟨את⟩ Shekhem mpe ⟨את⟩ esika-bolamba na yango, na ngomba ya Efrayim, mpe ⟨את⟩ Gezer mpe ⟨את⟩ esika-bolamba na yango.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "bapesaki"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bango"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mboka"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mboka"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "ya bobombi"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "ya mobomi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shekhem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekhem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "esika-bolamba na yango"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "na ngomba"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ya Efrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "esika-bolamba na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T17:52:53.756352174Z",
+  "model": "glm-5.3"
+}

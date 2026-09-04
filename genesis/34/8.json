@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 34:8",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 34,
+  "translation": "Mpe Hamor alobaki ⟨את⟩ bango na koloba ete: Shekem mwana na ngai, molimo na ye mikingi na mwana na bino ya mwasi; boto, bopei ⟨את⟩ ye lokola mwasi na ye.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamor"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bango"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na koloba ete"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekem"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mwana na ngai"
+    },
+    {
+      "surface": "חשקה",
+      "gloss": "mikingi"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "molimo na ye"
+    },
+    {
+      "surface": "בבתכם",
+      "gloss": "na mwana na bino"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "bopei"
+    },
+    {
+      "surface": "נא",
+      "gloss": "boto"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ye"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "lokola mwasi"
+    }
+  ],
+  "timestamp": "2026-09-03T16:04:07.066423830Z",
+  "model": "glm-5.3"
+}

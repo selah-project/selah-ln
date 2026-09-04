@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 10:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Akangami, akundukaka, mpe bawangi bweki na nzuya na ye.",
+  "tokens": [
+    {
+      "surface": "ודכה",
+      "gloss": "akangami"
+    },
+    {
+      "surface": "ישח",
+      "gloss": "akundukaka"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "mpe bweki"
+    },
+    {
+      "surface": "בעצומיו",
+      "gloss": "na nzuya na ye"
+    },
+    {
+      "surface": "חלכאים",
+      "gloss": "bawangi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:01:44.854584036Z",
+  "model": "glm-5.3"
+}

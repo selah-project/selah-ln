@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 10:10",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Mpe alobaki epai na bango: Yawe azala na bino ndenge wana, lokola nakingisi bino mpe ⟨את⟩ bana na bino; tala, mpo ete mabe ⟨ezali⟩ liboso ya miso na bino.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "epai na bango"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "azala"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ndenge wana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "na bino"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "lokola"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "nakingisi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ bino"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bana na bino"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "bana na bino"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "tala"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "miso na bino"
+    }
+  ],
+  "timestamp": "2026-09-03T16:18:55.440059623Z",
+  "model": "glm-5.3"
+}

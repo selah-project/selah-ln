@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 3:5",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpo Elohim ayebi ete na mokolo boyalia na yango, miso na bino ekofungwama, mpe bokokala lokola Elohim, boyebi bolamu mpe mabe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ayebi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na mokolo"
+    },
+    {
+      "surface": "אכלכם",
+      "gloss": "boyalia"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "ונפקחו",
+      "gloss": "ekofungwama"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "miso na bino"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "bokokala"
+    },
+    {
+      "surface": "כאלהים",
+      "gloss": "lokola Elohim"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "boyebi"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bolamu"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "mpe mabe"
+    }
+  ],
+  "timestamp": "2026-09-03T15:45:56.175000346Z",
+  "model": "glm-5.3"
+}

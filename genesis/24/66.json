@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "genesis 24:66",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "Mpe mosaleli alobaki na Yitshak ⟨את⟩ makambo nyonso oyo asalaki.",
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "mosaleli"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "na Yitshak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makambo nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "makambo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "asalaki"
+    }
+  ],
+  "timestamp": "2026-09-03T15:56:27.370071160Z",
+  "model": "glm-5.3"
+}

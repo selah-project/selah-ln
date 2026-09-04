@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 106:13",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 106,
+  "translation": "Banisaki noki, babosanaki misala na Ye, batelemaki te na ndimbola na Ye.",
+  "tokens": [
+    {
+      "surface": "מהרו",
+      "gloss": "Banisaki noki"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "babosanaki"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "misala na Ye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "חכו",
+      "gloss": "batelemaki"
+    },
+    {
+      "surface": "לעצתו",
+      "gloss": "na ndimbola na Ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:27:44.918486529Z",
+  "model": "glm-5.3"
+}

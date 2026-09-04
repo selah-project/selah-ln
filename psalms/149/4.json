@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 149:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 149,
+  "translation": "Mpo Yawe asepelaka na bato na ye; atokolisaka banyokami na bokangami.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "רוצה",
+      "gloss": "asepelaka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "na bato na ye"
+    },
+    {
+      "surface": "יפאר",
+      "gloss": "atokolisaka"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "banyokami"
+    },
+    {
+      "surface": "בישועה",
+      "gloss": "na bokangami"
+    }
+  ],
+  "timestamp": "2026-09-03T21:36:12.967407467Z",
+  "model": "glm-5.3"
+}

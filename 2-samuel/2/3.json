@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 2:3",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe bato na ye oyo bazalaki na ye, David amatisaki bango: monto moko mpe ndako na ye moko; mpe babatakaki na bengumba ya Hevron.",
+  "tokens": [
+    {
+      "surface": "ואנשיו",
+      "gloss": "mpe bato na ye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "amatisaki bango"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "איש",
+      "gloss": "monto moko"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "mpe ndako na ye"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "mpe babatakaki"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "na bengumba"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "ya Hevron"
+    }
+  ],
+  "timestamp": "2026-09-03T18:29:39.465440022Z",
+  "model": "glm-5.3"
+}

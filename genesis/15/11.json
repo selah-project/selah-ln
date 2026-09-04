@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 15:11",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 15,
+  "translation": "Sankuya ekitaki na likolo ya bikufa, kasi Avram azongisaki ⟨את⟩ bango.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "Ekitaki"
+    },
+    {
+      "surface": "העיט",
+      "gloss": "sankuya"
+    },
+    {
+      "surface": "על",
+      "gloss": "na likolo ya"
+    },
+    {
+      "surface": "הפגרים",
+      "gloss": "bikufa"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "azongisaki"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bango",
+      "marks": "sankuya"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Avram"
+    }
+  ],
+  "timestamp": "2026-09-03T15:51:24.278625156Z",
+  "model": "glm-5.3"
+}

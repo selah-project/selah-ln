@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 18:21",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Mpe mbeka na yo okolaka te kokotisa epai ya Molok, mpe okokolimbola te ⟨את⟩ nkombo ya Elohim na yo; ngai nazali Yawe.",
+  "tokens": [
+    {
+      "surface": "ומזרעך",
+      "gloss": "mpe mbeka na yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "okolaka te"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "kokotisa"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "epai ya Molok"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "okokolimbola te"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkombo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nkombo"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim na yo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T23:15:09.556646646Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 8:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Yawe, Adonai na biso, ndenge nkombo na yo ezali ya lokumu mingi na mabele mobimba, oyo otyiaki nkembo na yo likolo ⟨ya⟩ likolo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Adonai na biso"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ndenge"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "ezali ya lokumu mingi"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nkombo na yo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na mobimba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ya mabele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "otyiaki"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "nkembo na yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ⟨ya⟩"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "likolo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:01:08.585351673Z",
+  "model": "glm-5.3"
+}

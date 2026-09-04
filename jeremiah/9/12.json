@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 9:12",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Mpe Yawe alobaki: Mpo batilelaki ⟨את⟩ Tora na ngai oyo natikaki liboso na bango, mpe bayokaki te na lilimu na ngai, mpe batambolaki te na yango.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe Yawe alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "עזבם",
+      "gloss": "batilelaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tora na ngai"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Tora na ngai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "natikaki"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "liboso na bango"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "bayokaki"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "na lilimu na ngai"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "batambolaki"
+    },
+    {
+      "surface": "בה",
+      "gloss": "na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T19:45:59.370197422Z",
+  "model": "glm-5.3"
+}

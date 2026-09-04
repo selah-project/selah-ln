@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 89:25",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 89,
+  "translation": "Mpe bondimi na ngai mpe hesed na ngai ekokani na ye, mpe na nkombo na ngai lingonda na ye litombwama.",
+  "tokens": [
+    {
+      "surface": "ואמונתי",
+      "gloss": "mpe bondimi na ngai"
+    },
+    {
+      "surface": "וחסדי",
+      "gloss": "mpe hesed na ngai"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "elongo na ye"
+    },
+    {
+      "surface": "ובשמי",
+      "gloss": "mpe na nkombo na ngai"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "litombwama"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "lingonda na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:22:06.019980473Z",
+  "model": "glm-5.3"
+}

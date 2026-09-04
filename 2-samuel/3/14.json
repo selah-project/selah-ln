@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 3:14",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe David atindaki batindami epai ya Ish-Boshet mwana wa Shaul, koloba: Pesa ngai ⟨את⟩ mwasi na ngai, ⟨את⟩ Mikal, oyo nabalingi ngai na nkama moko ya bisusu ya Balistiti.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "atindaki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "batindami"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Ishi"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "Boshet"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "koloba"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "pesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwasi na ngai"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "mwasi na ngai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mikal"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ארשתי",
+      "gloss": "nabalingi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "במאה",
+      "gloss": "na nkama moko"
+    },
+    {
+      "surface": "ערלות",
+      "gloss": "bisusu"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ya Balistiti"
+    }
+  ],
+  "timestamp": "2026-09-03T18:26:40.963630721Z",
+  "model": "glm-5.3"
+}

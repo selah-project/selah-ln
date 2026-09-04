@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 13:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Tee lini, Yawe, okokolaka ngai — libela? Tee lini okobombaka ⟨את⟩ elongi na yo kati na ngai?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Tee"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "lini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "תשכחני",
+      "gloss": "okokolaka ngai"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "libela"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Tee"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "lini"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "okobombaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elongi na yo"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "elongi na yo"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kati na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:02:48.250085253Z",
+  "model": "glm-5.3"
+}

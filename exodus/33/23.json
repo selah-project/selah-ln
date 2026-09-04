@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 33:23",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 33,
+  "translation": "Mpe nakolongola ⟨את⟩ loboko na ngai, mpe okomona ⟨את⟩ sima na ngai; kasi elongo na ngai ekomonana te.",
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "Mpe nakolongola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "loboko na ngai"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "loboko na ngai"
+    },
+    {
+      "surface": "וראית",
+      "gloss": "mpe okomona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sima na ngai"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sima na ngai"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "kasi elongo na ngai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ekomonana"
+    }
+  ],
+  "timestamp": "2026-09-03T16:32:28.118324517Z",
+  "model": "glm-5.3"
+}

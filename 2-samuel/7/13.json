@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 7:13",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Ye akotonga ndako mpo na nkombo na ngai, mpe nakokosisa ⟨את⟩ kiti ya bokonzi na ye kino libela.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Ye"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "akotonga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "mpo na nkombo na ngai"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "mpe nakokosisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kiti ya bokonzi na ye"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "kiti"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "ya bokonzi na ye"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "libela"
+    }
+  ],
+  "timestamp": "2026-09-03T23:21:16.299962582Z",
+  "model": "glm-5.3"
+}

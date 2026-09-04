@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 25:24",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Mpe akweyaki na makolo na ye mpe alobaki: nazela, na ngai, nkolo na ngai, ⟨etyama⟩ libeba; mpe aloba, nazela, omowasi na yo aloba na matoyi na yo, mpe oyoka ⟨את⟩ maloba ya omowasi na yo.",
+  "tokens": [
+    {
+      "surface": "ותפל",
+      "gloss": "Mpe akweyaki"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "makolo na ye"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "בי",
+      "gloss": "nazela"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "nkolo na ngai"
+    },
+    {
+      "surface": "העון",
+      "gloss": "libeba"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "mpe aloba"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nazela"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "omowasi na yo"
+    },
+    {
+      "surface": "באזניך",
+      "gloss": "na matoyi na yo"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "mpe oyoka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maloba ya omowasi na yo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "maloba"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "ya omowasi na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T18:21:26.549967298Z",
+  "model": "glm-5.3"
+}

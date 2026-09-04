@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 17:15",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 17,
+  "translation": "Ngai, na bosolo nakomona elongi na yo; nakokita, ntango nakofukama, na ndenge na yo.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ngai"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "na bosolo"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "nakomona"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "elongi na yo"
+    },
+    {
+      "surface": "אשבעה",
+      "gloss": "nakokita"
+    },
+    {
+      "surface": "בהקיץ",
+      "gloss": "ntango nakofukama"
+    },
+    {
+      "surface": "תמונתך",
+      "gloss": "na ndenge na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:01:43.107250368Z",
+  "model": "glm-5.3"
+}

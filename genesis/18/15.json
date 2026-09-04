@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 18:15",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Mpe Sarah aboyaki kondima, na koloba: Naseki te; mpo azalaki na bobangi. Mpe ⟨ye⟩ alobaki: Te; kasi oseki.",
+  "tokens": [
+    {
+      "surface": "ותכחש",
+      "gloss": "aboyaki kondima"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na koloba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "צחקתי",
+      "gloss": "naseki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "azalaki na bobangi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kasi"
+    },
+    {
+      "surface": "צחקת",
+      "gloss": "oseki"
+    }
+  ],
+  "timestamp": "2026-09-03T15:51:39.348019337Z",
+  "model": "glm-5.3"
+}

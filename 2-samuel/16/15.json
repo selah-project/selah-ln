@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 16:15",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Avshalom mpe bato nyonso ya Israel, moto na moto, bayaki na Yerushalaim, mpe Ahitofel elongo na ⟨את⟩ ye.",
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "Avshalom"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe nyonso"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto na moto"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "באו",
+      "gloss": "bayaki"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "na Yerushalaim"
+    },
+    {
+      "surface": "ואחיתפל",
+      "gloss": "mpe Ahitofel"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "elongo na ⟨את⟩",
+      "marks": "ye"
+    }
+  ],
+  "timestamp": "2026-09-03T18:36:21.218776393Z",
+  "model": "glm-5.3"
+}

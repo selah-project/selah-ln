@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 8:4",
+  "book": "esther",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe mokonzi asolaki na Ester ⟨את⟩ nzete ya wolo; mpe Ester atombaki, mpe atelamaki liboso ya mokonzi.",
+  "tokens": [
+    {
+      "surface": "ויושט",
+      "gloss": "mpe asolaki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "na Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nzete"
+    },
+    {
+      "surface": "שרבט",
+      "gloss": "nzete"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ya wolo"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "mpe atombaki"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "mpe atelamaki"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    }
+  ],
+  "timestamp": "2026-09-03T22:19:45.283418510Z",
+  "model": "glm-5.3"
+}

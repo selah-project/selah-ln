@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 18:30",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Mpe Eliyahu alobaki na bato nyonso: Boya epai na ngai. Mpe bato nyonso bayaki epai na yeye, mpe asalisaki ⟨את⟩ autelo ya Yawe oyo ebomaki.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "na"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato nyonso"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "Boya"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "epai na ngai"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "Mpe bayaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "epai na yeye"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "mpe asalisaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "autelo"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "autelo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ההרוס",
+      "gloss": "oyo ebomaki"
+    }
+  ],
+  "timestamp": "2026-09-03T18:55:30.291056214Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 98:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 98,
+  "translation": "Ebale kolola, mpe bonyene na yango; mokili mpe bafandi na yango.",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "kolola"
+    },
+    {
+      "surface": "הים",
+      "gloss": "Ebale"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "mpe bonyene na yango"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "mokili"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "mpe bafandi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:25:56.854239823Z",
+  "model": "glm-5.3"
+}

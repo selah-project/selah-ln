@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 132:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 132,
+  "translation": "Lokasa ya botombeli. Yawe, kanisa mpo na David ⟨את⟩ nyonso ya mpasi na ye.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Lokasa"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ya botombeli"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "kanisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "mpo na David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyonso ya mpasi na ye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "ענותו",
+      "gloss": "ya mpasi na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:33:34.695914711Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 20:1",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 20,
+  "translation": "Na mbula Tartan ayeaki na Ashdod, ntango Sargon, mokonzi ya Ashur, atindaki ⟨את⟩, mpe alalaki etumba na Ashdod mpe ayungaki yango.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "Na mbula"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ayeaki"
+    },
+    {
+      "surface": "תרתן",
+      "gloss": "Tartan"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "na Ashdod"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "ntango atindaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Sargon"
+    },
+    {
+      "surface": "סרגון",
+      "gloss": "Sargon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ya Ashur"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "mpe alalaki etumba"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "na Ashdod"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "mpe ayungaki yango"
+    }
+  ],
+  "timestamp": "2026-09-03T19:20:50.663455459Z",
+  "model": "glm-5.3"
+}

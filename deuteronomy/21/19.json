@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 21:19",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Mpe tata na ye mpe mama na ye baswaka ye, mpe bimisaka ⟨את⟩ ye epai ya bakulu ya engumba na ye, mpe epai ya porte ya esika na ye.",
+  "tokens": [
+    {
+      "surface": "ותפשו",
+      "gloss": "mpe baswaka"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "tata na ye"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "mpe mama na ye"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "mpe bimisaka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "ya bakulu"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "engumba na ye"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mpe epai"
+    },
+    {
+      "surface": "שער",
+      "gloss": "porte"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "ya esika na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T17:34:12.614241076Z",
+  "model": "glm-5.3"
+}

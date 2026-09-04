@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 17:6",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 17,
+  "translation": "Mpe banyoni bazalaki komema epai na ye mokele mpe nyama na tongo, mpe mokele mpe nyama na mpokwa; mpe na libulu amelaki.",
+  "tokens": [
+    {
+      "surface": "והערבים",
+      "gloss": "mpe banyoni"
+    },
+    {
+      "surface": "מביאים",
+      "gloss": "bazalaki komema"
+    },
+    {
+      "surface": "לו",
+      "gloss": "epai na ye"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mokele"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "mpe nyama"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "na tongo"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "mpe mokele"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "mpe nyama"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "na mpokwa"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "mpe na"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "libulu"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "amelaki"
+    }
+  ],
+  "timestamp": "2026-09-03T18:52:40.213507857Z",
+  "model": "glm-5.3"
+}

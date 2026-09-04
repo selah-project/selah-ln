@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 3:2",
+  "book": "ezekiel",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe nafungolaki monoko na ngai, mpe amelisaki ngai ⟨את⟩ mokanda oyo.",
+  "tokens": [
+    {
+      "surface": "ואפתח",
+      "gloss": "Mpe nafungolaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "monoko na ngai"
+    },
+    {
+      "surface": "פי",
+      "gloss": "monoko na ngai"
+    },
+    {
+      "surface": "ויאכלני",
+      "gloss": "mpe amelisaki ngai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mokanda oyo"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "mokanda oyo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "oyo"
+    }
+  ],
+  "timestamp": "2026-09-03T20:12:16.164204639Z",
+  "model": "glm-5.3"
+}

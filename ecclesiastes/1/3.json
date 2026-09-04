@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 1:3",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Nini ezali mosolo epai ya moto, na bosali na yango nyonso oyo asalaka nse ya moi?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Nini"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "mosolo"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "epai ya moto"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na ... nyonso"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "bosali na yango"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "oyo asalaka"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "nse ya"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "moi"
+    }
+  ],
+  "timestamp": "2026-09-03T22:13:04.382102214Z",
+  "model": "glm-5.3"
+}

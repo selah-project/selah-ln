@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 113:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 113,
+  "translation": "Azali kolamwisa molieni uta na mpoto, mpe uta na masuwa azali kolimwisa moseni.",
+  "tokens": [
+    {
+      "surface": "מקימי",
+      "gloss": "azali kolamwisa"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "uta na mpoto"
+    },
+    {
+      "surface": "דל",
+      "gloss": "molieni"
+    },
+    {
+      "surface": "מאשפת",
+      "gloss": "uta na masuwa"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "azali kolimwisa"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "moseni"
+    }
+  ],
+  "timestamp": "2026-09-03T21:29:12.461098011Z",
+  "model": "glm-5.3"
+}

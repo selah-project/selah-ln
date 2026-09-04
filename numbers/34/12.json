@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 34:12",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 34,
+  "translation": "mpe ndelo ekita na Yarden, mpe suka na yango ezali na mai ya mungwa; oyo nde mabele na bino, na ndelo na yango na zingazinga.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "mpe ekita"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "ndelo"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "na Yarden"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "mpe ezali"
+    },
+    {
+      "surface": "תוצאתיו",
+      "gloss": "suka na yango"
+    },
+    {
+      "surface": "ים",
+      "gloss": "na mai ya"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "mungwa"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "nde"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "na bino"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "לגבלתיה",
+      "gloss": "na ndelo na yango"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "na zingazinga"
+    }
+  ],
+  "timestamp": "2026-09-03T17:20:49.788430876Z",
+  "model": "glm-5.3"
+}

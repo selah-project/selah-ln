@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 145:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 145,
+  "translation": "Balobaka mpe nguya ya makambo na yo ya bokwei, mpe bonene na yo nabali yango.",
+  "tokens": [
+    {
+      "surface": "ועזוז",
+      "gloss": "mpe nguya"
+    },
+    {
+      "surface": "נוראתיך",
+      "gloss": "ya makambo na yo ya bokwei"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "balobaka"
+    },
+    {
+      "surface": "וגדולתיך",
+      "gloss": "mpe bonene na yo"
+    },
+    {
+      "surface": "אספרנה",
+      "gloss": "nabali yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:36:25.394628059Z",
+  "model": "glm-5.3"
+}

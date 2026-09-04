@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 14:7",
+  "book": "hosea",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Matambisi na ye bakokende, mpe nkembo na ye akokoma lokola oliva, mpe nkonzo na ye elengi lokola Lebanono.",
+  "tokens": [
+    {
+      "surface": "ילכו",
+      "gloss": "bakokende"
+    },
+    {
+      "surface": "ינקותיו",
+      "gloss": "matambisi na ye"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mpe akokoma"
+    },
+    {
+      "surface": "כזית",
+      "gloss": "lokola oliva"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "nkembo na ye"
+    },
+    {
+      "surface": "וריח",
+      "gloss": "mpe nkonzo na ye"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "lokola Lebanono"
+    }
+  ],
+  "timestamp": "2026-09-03T20:40:02.798271930Z",
+  "model": "glm-5.3"
+}

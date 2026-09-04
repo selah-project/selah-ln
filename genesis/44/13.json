@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 44:13",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 44,
+  "translation": "Mpe babukaki bilamba na bango, moto na moto atundisaki ndumbu na ye, mpe bazongaki na mboka.",
+  "tokens": [
+    {
+      "surface": "ויקרעו",
+      "gloss": "mpe babukaki"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "bilamba na bango"
+    },
+    {
+      "surface": "ויעמס",
+      "gloss": "atundisaki"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto na moto"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "חמרו",
+      "gloss": "ndumbu na ye"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "mpe bazongaki"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "na mboka"
+    }
+  ],
+  "timestamp": "2026-09-03T16:08:53.777307537Z",
+  "model": "glm-5.3"
+}

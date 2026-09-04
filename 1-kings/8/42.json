@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 8:42",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "(Mpo bakoyoka ⟨את⟩ nkombo nayo ya monene, mpe ⟨את⟩ maboko nayo ya makasi, mpe brazza nayo oyo oliangi) mpe akooya asambela epai ya ndako oyo —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "ישמעון",
+      "gloss": "bakoyoka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkombo nayo"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "nkombo nayo"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "ya monene"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "maboko nayo"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "maboko nayo"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "ya makasi"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "mpe brazza nayo"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "oyo oliangi"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "mpe akooya"
+    },
+    {
+      "surface": "והתפלל",
+      "gloss": "asambela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    }
+  ],
+  "timestamp": "2026-09-03T18:49:36.016372396Z",
+  "model": "glm-5.3"
+}

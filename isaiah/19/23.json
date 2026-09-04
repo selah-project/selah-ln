@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 19:23",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Na mokolo wana nzela monene ekozala uta na Mitsraim kino Ashur; mpe Ashur ekoyaka na Mitsraim, mpe Mitsraim na Ashur, mpe Mitsraim bakokolera ⟨את⟩ Ashur.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "na mokolo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "wana"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ekozala"
+    },
+    {
+      "surface": "מסלה",
+      "gloss": "nzela monene"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "uta na Mitsraim"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "kino Ashur"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "mpe ekoyaka"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "na Mitsraim"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "mpe Mitsraim"
+    },
+    {
+      "surface": "באשור",
+      "gloss": "na Ashur"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "mpe bakokolera"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ashur"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    }
+  ],
+  "timestamp": "2026-09-03T19:19:33.576255264Z",
+  "model": "glm-5.3"
+}

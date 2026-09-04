@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 6:2",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpe bana ya Elohim bamonaki ⟨את⟩ bana mwasi ya moto, ete ⟨bazali⟩ kitoko, mpe bakangaki na bango moko bakasi, na nyonso oyo baponaki.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "mpe bamonaki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ya"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bana mwasi ya moto"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "bana mwasi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ya moto"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "טבת",
+      "gloss": "kitoko"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bazali"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "mpe bakangaki"
+    },
+    {
+      "surface": "להם",
+      "gloss": "na bango moko"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "bakasi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "na nyonso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "בחרו",
+      "gloss": "baponaki"
+    }
+  ],
+  "timestamp": "2026-09-03T23:11:57.632980914Z",
+  "model": "glm-5.3"
+}

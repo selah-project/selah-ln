@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 24:16",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "Babakoko bakobebisama te mpo na bana, mpe bana bakobebisama te mpo na babakoko; moto moko na moko na libenga na ye akobebisama.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "bakobebisama"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "Babakoko"
+    },
+    {
+      "surface": "על",
+      "gloss": "mpo na"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ובנים",
+      "gloss": "mpe bana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "bakobebisama"
+    },
+    {
+      "surface": "על",
+      "gloss": "mpo na"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "babakoko"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto moko na moko"
+    },
+    {
+      "surface": "בחטאו",
+      "gloss": "na libenga na ye"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "akobebisama"
+    }
+  ],
+  "timestamp": "2026-09-03T17:35:41.382570647Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 175,
+  "ref": "psalms 119:175",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Nefeshi na ngai ezala na bomoi mpe etandolaka yo, mpe mikano na yo esalisaka ngai.",
+  "tokens": [
+    {
+      "surface": "תחי",
+      "gloss": "ezala na bomoi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshi na ngai"
+    },
+    {
+      "surface": "ותהללך",
+      "gloss": "mpe etandolaka yo"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "mpe mikano na yo"
+    },
+    {
+      "surface": "יעזרני",
+      "gloss": "esalisaka ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:31:29.994349162Z",
+  "model": "glm-5.3"
+}

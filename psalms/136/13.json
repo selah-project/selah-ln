@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 136:13",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 136,
+  "translation": "Mpo na oyo akabaki Yam Suf na biteni, mpo na agele hesed na yango ezali.",
+  "tokens": [
+    {
+      "surface": "לגזר",
+      "gloss": "oyo akabaki"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Yam"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suf"
+    },
+    {
+      "surface": "לגזרים",
+      "gloss": "na biteni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo na"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "agele"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed na yango ezali"
+    }
+  ],
+  "timestamp": "2026-09-03T21:34:25.584560915Z",
+  "model": "glm-5.3"
+}

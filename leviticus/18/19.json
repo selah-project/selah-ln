@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 18:19",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Mpe epai ya mwasi na ntango ya bobabeli ya motongo na yango, okokota te mpo na komonisa bomonaneli ya nzoto na yango.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "mpe epai ya"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mwasi"
+    },
+    {
+      "surface": "בנדת",
+      "gloss": "na bobabeli"
+    },
+    {
+      "surface": "טמאתה",
+      "gloss": "ya motongo na yango"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "okokota"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "mpo na komonisa"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "bomonaneli ya nzoto na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T23:15:36.578295269Z",
+  "model": "glm-5.3"
+}

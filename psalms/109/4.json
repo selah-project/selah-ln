@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 109:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 109,
+  "translation": "Na esika ya bolingo na ngai batsalelaki ngai mabe; kasi ngai — losambo.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "Na esika ya"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "bolingo na ngai"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "batsalelaki ngai mabe"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "kasi ngai"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "losambo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:29:42.662399002Z",
+  "model": "glm-5.3"
+}

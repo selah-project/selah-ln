@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 69:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 69,
+  "translation": "Bátika ete baye bazali kolikia yo bazala na mawa na ngai, Adonai Yawe Tsebaot; bátika ete baye bazali kolukala yo bazala na konyokama na ngai, Elohim ya Israel.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "bátika ete"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "bazala na mawa"
+    },
+    {
+      "surface": "בי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "baye bazali kolikia yo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bátika ete"
+    },
+    {
+      "surface": "יכלמו",
+      "gloss": "bazala na konyokama"
+    },
+    {
+      "surface": "בי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "baye bazali kolukala yo"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-03T21:17:16.383570453Z",
+  "model": "glm-5.3"
+}

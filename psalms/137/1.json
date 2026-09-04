@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 137:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 137,
+  "translation": "Na bamai ya Bavel, kuna tokanganaki, mpe tobetaki mino, ntango tokanisaki ⟨את⟩ Tsion.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "bamai"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bavel"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "tokanganaki"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "בכינו",
+      "gloss": "tobetaki mino"
+    },
+    {
+      "surface": "בזכרנו",
+      "gloss": "ntango tokanisaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsion"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsion"
+    }
+  ],
+  "timestamp": "2026-09-03T21:34:50.897938790Z",
+  "model": "glm-5.3"
+}

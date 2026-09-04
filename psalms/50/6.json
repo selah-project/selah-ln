@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 50:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 50,
+  "translation": "Mpe likolo emonisi bokengi na ye, mpo Elohim, ye moko, azali mosambisi. Selah.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "Mpe emonisi"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "likolo"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "bokengi na ye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "mosambisi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ye moko"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-03T21:11:40.414839528Z",
+  "model": "glm-5.3"
+}

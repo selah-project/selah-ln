@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 13:15",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Mpe Elisha alobaki na ye: Laka likasa mpe bankama; mpe atiaki mpe likasa mpe bankama epai na ye.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "קח",
+      "gloss": "laka"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "likasa"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "mpe bankama"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "mpe atiaki"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "epai na ye"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "likasa"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "mpe bankama"
+    }
+  ],
+  "timestamp": "2026-09-03T19:05:54.771092290Z",
+  "model": "glm-5.3"
+}

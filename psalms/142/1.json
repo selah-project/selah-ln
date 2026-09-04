@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 142:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 142,
+  "translation": "Maskil ya David, ntango azalaki na moke ya libanga — mosambeli.",
+  "tokens": [
+    {
+      "surface": "מַשְׂכִּ֥יל",
+      "gloss": "Maskil"
+    },
+    {
+      "surface": "לְדָוִ֑ד",
+      "gloss": "ya David"
+    },
+    {
+      "surface": "בִּהְיוֹת֖וֹ",
+      "gloss": "ntango azalaki"
+    },
+    {
+      "surface": "בַּמְּעָרָ֣ה",
+      "gloss": "na moke ya libanga"
+    },
+    {
+      "surface": "תְּפִלָּֽה",
+      "gloss": "mosambeli"
+    }
+  ],
+  "timestamp": "2026-09-03T23:36:19.941431810Z",
+  "model": "glm-5.3"
+}

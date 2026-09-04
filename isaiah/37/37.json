@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "isaiah 37:37",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 37,
+  "translation": "Sancherib, mokonzi ya Ashur, andoki, akendaki, azongaki, mpe afandaki na Nineve.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "andoki"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "akendaki"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "azongaki"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "Sancherib"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "mpe afandaki"
+    },
+    {
+      "surface": "בנינוה",
+      "gloss": "na Nineve"
+    }
+  ],
+  "timestamp": "2026-09-03T19:26:42.767484167Z",
+  "model": "glm-5.3"
+}

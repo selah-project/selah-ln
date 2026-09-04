@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 100:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 100,
+  "translation": "Mizmor mpo na botendi: botomboli lioku na Yawe, mabele mobimba!",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לתודה",
+      "gloss": "mpo na botendi"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "botomboli lioku"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "na Yawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mobimba ya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T21:26:35.936930979Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 56:9",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 56,
+  "translation": "Banyama ya mbila nyonso, boye lolerama kolia, banyama na zungulu nyonso.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "banyama"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ya mbila"
+    },
+    {
+      "surface": "אתיו",
+      "gloss": "boye"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "lolerama kolia"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "banyama"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "na zungulu"
+    }
+  ],
+  "timestamp": "2026-09-03T19:34:52.249584700Z",
+  "model": "glm-5.3"
+}

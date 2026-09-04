@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 40:10",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 40,
+  "translation": "Mpe na nzete ezalaki misanzaka misato; mpe yango, lokola ebotaki, mapeta na yango elutaki, mikapo na yango ekolisaki manale.",
+  "tokens": [
+    {
+      "surface": "ובגפן",
+      "gloss": "mpe na nzete"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "misato"
+    },
+    {
+      "surface": "שריגם",
+      "gloss": "misanzaka"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "mpe yango"
+    },
+    {
+      "surface": "כפרחת",
+      "gloss": "lokola ebotaki"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "elutaki"
+    },
+    {
+      "surface": "נצה",
+      "gloss": "mapeta"
+    },
+    {
+      "surface": "הבשילו",
+      "gloss": "ekolisaki"
+    },
+    {
+      "surface": "אשכלתיה",
+      "gloss": "mikapo na yango"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "manale"
+    }
+  ],
+  "timestamp": "2026-09-03T16:05:58.897815973Z",
+  "model": "glm-5.3"
+}

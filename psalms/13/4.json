@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 13:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Tala ngai, yanjola ngai, Yawe Elohim na ngai; banza miso na ngai, mpo nakolala butu ya liwa te.",
+  "tokens": [
+    {
+      "surface": "הביטה",
+      "gloss": "Tala"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "yanjola ngai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim na ngai"
+    },
+    {
+      "surface": "האירה",
+      "gloss": "banza miso na ngai"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "miso na ngai"
+    },
+    {
+      "surface": "פן",
+      "gloss": "mpo ... te"
+    },
+    {
+      "surface": "אישן",
+      "gloss": "nakolala"
+    },
+    {
+      "surface": "המות",
+      "gloss": "liwa"
+    }
+  ],
+  "timestamp": "2026-09-03T21:02:48.250401101Z",
+  "model": "glm-5.3"
+}

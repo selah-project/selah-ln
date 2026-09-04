@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 23:10",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Mpe abebisaki ⟨את⟩ Topet, oyo ezali na lobita ya bana ya Hinom, mpambo moto te akata ⟨את⟩ mwana na ye mpe ⟨את⟩ mwana mwasi na ye na moto mpo na Molek.",
+  "tokens": [
+    {
+      "surface": "וטמא",
+      "gloss": "mpe abebisaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Topet"
+    },
+    {
+      "surface": "התפת",
+      "gloss": "Topet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "na lobita"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ya bana"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "ya Hinom"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "mpambo te"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "akata"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwana na ye"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana na ye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mwana mwasi na ye"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "mwana mwasi na ye"
+    },
+    {
+      "surface": "באש",
+      "gloss": "na moto"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "mpo na Molek"
+    }
+  ],
+  "timestamp": "2026-09-03T19:11:06.287793414Z",
+  "model": "glm-5.3"
+}

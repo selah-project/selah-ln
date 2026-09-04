@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 144:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 144,
+  "translation": "Bimisa baleke mpe opanzanisa bango; tinda basaga na yo mpe obungisa bango.",
+  "tokens": [
+    {
+      "surface": "ברוק",
+      "gloss": "bimisa"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "baleke"
+    },
+    {
+      "surface": "ותפיצם",
+      "gloss": "mpe opanzanisa bango"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "tinda"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "basaga na yo"
+    },
+    {
+      "surface": "ותהמם",
+      "gloss": "mpe obungisa bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:36:18.131822845Z",
+  "model": "glm-5.3"
+}

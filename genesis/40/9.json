@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 40:9",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 40,
+  "translation": "Mpe sar ya bapesi-masanga alobaki ⟨את⟩ molata na ye na Yosef, mpe alobaki na ye: Na molata na ngai, mpe talá, nzete ya anale ⟨ezali⟩ liboso ya ngai.",
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "שר",
+      "gloss": "sar"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "ya bapesi-masanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "molata na ye"
+    },
+    {
+      "surface": "חלמו",
+      "gloss": "molata na ye"
+    },
+    {
+      "surface": "ליוסף",
+      "gloss": "na Yosef"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "בחלומי",
+      "gloss": "na molata na ngai"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mpe talá"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "nzete ya anale"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T16:05:58.897574652Z",
+  "model": "glm-5.3"
+}

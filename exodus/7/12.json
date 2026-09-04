@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 7:12",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mpe batombokaki moto na motumba na ye, mpe bazuaki manyoka; mpe motumba ya Aharon amingaki ⟨את⟩ mitumba na bango.",
+  "tokens": [
+    {
+      "surface": "וישליכו",
+      "gloss": "Mpe batombokaki"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "motumba na ye"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "mpe bazuaki"
+    },
+    {
+      "surface": "לתנינם",
+      "gloss": "manyoka"
+    },
+    {
+      "surface": "ויבלע",
+      "gloss": "mpe amingaki"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "motumba"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mitumba na bango"
+    },
+    {
+      "surface": "מטתם",
+      "gloss": "mitumba na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T23:12:46.025024562Z",
+  "model": "glm-5.3"
+}

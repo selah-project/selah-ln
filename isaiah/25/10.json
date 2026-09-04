@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 25:10",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Mpo loboko ya Yawe ekozala na boboto na ngomba oyo, mpe Moab bakokankata na nse na ye, lokola masusu bakokankata na mai ya Madmena.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "תנוח",
+      "gloss": "ekozala na boboto"
+    },
+    {
+      "surface": "יד",
+      "gloss": "loboko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "na ngomba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ונדוש",
+      "gloss": "mpe bakokankata"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "na nse na ye"
+    },
+    {
+      "surface": "כהדוש",
+      "gloss": "lokola bakokankata"
+    },
+    {
+      "surface": "מתבן",
+      "gloss": "masusu"
+    },
+    {
+      "surface": "במי",
+      "gloss": "na mai"
+    },
+    {
+      "surface": "מדמנה",
+      "gloss": "ya Madmena"
+    }
+  ],
+  "timestamp": "2026-09-03T19:22:14.708099525Z",
+  "model": "glm-5.3"
+}

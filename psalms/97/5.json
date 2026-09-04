@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 97:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 97,
+  "translation": "Bangomba memamaki lokola dongo liboso ya Yawe, liboso ya Adonai ya mabele mobimba.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "Bangomba"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "lokola dongo"
+    },
+    {
+      "surface": "נמסו",
+      "gloss": "memamaki"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mobimba ya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T21:25:14.754783872Z",
+  "model": "glm-5.3"
+}

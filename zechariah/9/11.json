@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 9:11",
+  "book": "zechariah",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Ata yo, na makila ya boyokani nayo, natindaki bakangami na nayo, uta na libulu oyo ezali na mai te na yango.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ata"
+    },
+    {
+      "surface": "את",
+      "gloss": "yo",
+      "marks": "na makila ya boyokani nayo"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "na makila"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "ya boyokani nayo"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "natindaki"
+    },
+    {
+      "surface": "אסיריך",
+      "gloss": "bakangami na nayo"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "uta na libulu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ezali na"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mai"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na yango te"
+    }
+  ],
+  "timestamp": "2026-09-03T20:57:26.846324131Z",
+  "model": "glm-5.3"
+}

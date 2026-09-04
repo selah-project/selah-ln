@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 30:5",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 30,
+  "translation": "Mpe okosala ⟨את⟩ bapata ya nzete ya shitim, mpe okozipa ⟨את⟩ bango na welo.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Mpe okosala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bapata"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "bapata"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ya nzete"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ya shitim"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "mpe okozipa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bango"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "na welo"
+    }
+  ],
+  "timestamp": "2026-09-03T16:30:57.843284400Z",
+  "model": "glm-5.3"
+}

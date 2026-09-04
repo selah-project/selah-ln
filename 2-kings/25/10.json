@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 25:10",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Mpe mampinga nyonso ya Bakashdi oyo ezalaki na Nebuzaradan, mokambi ya basalisi, babukaki ⟨את⟩ libanga ya Yerushalaim na zingazinga.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "libanga"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "libanga"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ya Yerushalaim"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "na zingazinga"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "babukaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "mampinga"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "ya Bakashdi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mokambi"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "ya basalisi"
+    }
+  ],
+  "timestamp": "2026-09-03T19:12:15.811702888Z",
+  "model": "glm-5.3"
+}

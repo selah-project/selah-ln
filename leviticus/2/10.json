@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 2:10",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe oyo ekitisami uta na mincha ezali ⟨ya⟩ Aharon mpe ya bana na ye, mosantu koleka, kati na bafele ya Yawe.",
+  "tokens": [
+    {
+      "surface": "והנותרת",
+      "gloss": "mpe oyo ekitisami"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uta na"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "mincha"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "ya Aharon"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "mpe ya bana na ye"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "mosantu"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "koleka"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "kati na bafele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T16:39:10.437743344Z",
+  "model": "glm-5.3"
+}

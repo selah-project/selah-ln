@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 118:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 118,
+  "translation": "Babangi Yawe baloba sika ete hesed na ye ezali kino ntango nyonso.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "baloba"
+    },
+    {
+      "surface": "נא",
+      "gloss": "sika"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "babangi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kino ntango nyonso"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:30:20.627537811Z",
+  "model": "glm-5.3"
+}

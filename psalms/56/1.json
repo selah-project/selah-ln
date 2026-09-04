@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 56:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 56,
+  "translation": "Na mokambi, likolo ya Yonat-elem-rehokim, ya David, miktam, ntango Paleshitim babaki ⟨את⟩ ye na Gat.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Na mokambi"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "יונת",
+      "gloss": "Yonat"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "elem"
+    },
+    {
+      "surface": "רחקים",
+      "gloss": "rehokim"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya David"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktam"
+    },
+    {
+      "surface": "באחז",
+      "gloss": "ntango"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ye",
+      "marks": "Paleshitim"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Paleshitim"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "na Gat"
+    }
+  ],
+  "timestamp": "2026-09-03T21:14:13.130567463Z",
+  "model": "glm-5.3"
+}

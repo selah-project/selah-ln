@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 2:2",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe Yawe alobaki epai ngai, koloba ete:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "epai ngai"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "koloba ete"
+    }
+  ],
+  "timestamp": "2026-09-03T17:23:07.147969908Z",
+  "model": "glm-5.3"
+}

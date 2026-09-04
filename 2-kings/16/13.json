@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 16:13",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Mpe ⟨ye⟩ atumbaki ⟨את⟩ sacrifice na ye ya bopeto mpe ⟨את⟩ nsemba na ye, amelaki ⟨את⟩ nsemba na ye ya komela, mpe atafolaki ⟨את⟩ makila ya sacrifice ya boboto oyo ezalaki na ye, epai ya mesa ya sacrifice.",
+  "tokens": [
+    {
+      "surface": "ויקטר",
+      "gloss": "atumbaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sacrifice na ye ya bopeto"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "sacrifice na ye ya bopeto"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "nsemba na ye"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "nsemba na ye"
+    },
+    {
+      "surface": "ויסך",
+      "gloss": "amelaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nsemba na ye ya komela"
+    },
+    {
+      "surface": "נסכו",
+      "gloss": "nsemba na ye ya komela"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "atafolaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makila"
+    },
+    {
+      "surface": "דם",
+      "gloss": "makila"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "ya sacrifice ya boboto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "על",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "mesa ya sacrifice"
+    }
+  ],
+  "timestamp": "2026-09-03T19:07:23.983010435Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 102:20",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 102,
+  "translation": "Mpo Yawe atombwaki uta na likolo, na bosembo na yango; uta na likolo tii na mabele atali.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "atombwaki"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "uta na likolo"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "bosembo na yango"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "uta na likolo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tii na"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "atali"
+    }
+  ],
+  "timestamp": "2026-09-03T21:26:18.324313041Z",
+  "model": "glm-5.3"
+}

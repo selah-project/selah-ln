@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 7:1",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mwana na ngai, batela maloba na ngai, mpe mibeko na ngai kobomba ⟨epai na yo⟩.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Mwana na ngai"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "batela"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "maloba na ngai"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "mpe mibeko na ngai"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "kobomba"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ epai na yo",
+      "marks": "kobomba (maloba\/mibeko ebombami epai na yo)"
+    }
+  ],
+  "timestamp": "2026-09-03T21:40:09.498355305Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 22:4",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Soki moto alingisaka elanga to ligala ya nzete koliala, mpe atindaki ⟨את⟩ banyama na ye, mpe baliaki na elanga ya mobango, na kitoko ya elanga na ye mpe na kitoko ya ligala na ye akofuta.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Soki"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "alingisaka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "elanga"
+    },
+    {
+      "surface": "או",
+      "gloss": "to"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "ligala ya nzete"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "mpe atindaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "banyama na ye"
+    },
+    {
+      "surface": "בעירה",
+      "gloss": "banyama na ye"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "mpe baliaki"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "na elanga"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ya mobango"
+    },
+    {
+      "surface": "מיטב",
+      "gloss": "na kitoko"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "ya elanga na ye"
+    },
+    {
+      "surface": "ומיטב",
+      "gloss": "mpe na kitoko"
+    },
+    {
+      "surface": "כרמו",
+      "gloss": "ya ligala na ye"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "akofuta"
+    }
+  ],
+  "timestamp": "2026-09-03T16:26:09.137268469Z",
+  "model": "glm-5.3"
+}

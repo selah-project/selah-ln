@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 1:2",
+  "book": "jonah",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Yuka, zela epai ya Ninive, engumba monene, mpe bokia likanisi na yango, ete mabe na bango emati liboso nai.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Yuka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "zela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninive"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "engumba"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "monene"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "mpe bokia"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "likanisi na yango"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "emati"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "mabe na bango"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso nai"
+    }
+  ],
+  "timestamp": "2026-09-03T20:48:11.348849681Z",
+  "model": "glm-5.3"
+}

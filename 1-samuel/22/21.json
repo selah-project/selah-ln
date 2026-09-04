@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 22:21",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Mpe Abiathar ayebisaki David ete Shaul abomaki ⟨את⟩ bakohen ya Yawe.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Mpe ayebisaki"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Abiathar"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "na David"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "abomaki"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bakohen ya Yawe"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "bakohen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T18:20:36.636582932Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 29:4",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 29,
+  "translation": "Mpe amemaki ⟨את⟩ bakohen mpe ⟨את⟩ Balevi, mpe akangisaki bango na esika monene ya monyole.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Mpe amemaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bakohen"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "bakohen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Balevi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Balevi"
+    },
+    {
+      "surface": "ויאספם",
+      "gloss": "mpe akangisaki bango"
+    },
+    {
+      "surface": "לרחוב",
+      "gloss": "na esika monene"
+    },
+    {
+      "surface": "המזרח",
+      "gloss": "ya monyole"
+    }
+  ],
+  "timestamp": "2026-09-03T23:06:10.418034173Z",
+  "model": "glm-5.3"
+}

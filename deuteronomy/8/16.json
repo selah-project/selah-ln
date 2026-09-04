@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 8:16",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "oyo alalisaki yo kolia man na etando, oyo bakoko na yo bayebaki yango te, mpo na kokitisa yo mpe mpo na komeka yo, mpo asala yo malamu na nsuka ya bomoi na yo",
+  "tokens": [
+    {
+      "surface": "המאכלך",
+      "gloss": "oyo alalisaki yo kolia"
+    },
+    {
+      "surface": "מן",
+      "gloss": "man"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "na etando"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "bayebaki"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "bakoko na yo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "mpo na"
+    },
+    {
+      "surface": "ענתך",
+      "gloss": "kokitisa yo"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "mpe mpo na"
+    },
+    {
+      "surface": "נסתך",
+      "gloss": "komeka yo"
+    },
+    {
+      "surface": "להיטבך",
+      "gloss": "asala yo malamu"
+    },
+    {
+      "surface": "באחריתך",
+      "gloss": "na nsuka ya bomoi na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T17:27:26.329810827Z",
+  "model": "glm-5.3"
+}

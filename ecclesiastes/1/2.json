@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 1:2",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Bofeni ya bafeni, alobaki Kohelet; bofeni ya bafeni, nyonso ezali bofeni.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "Bofeni"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "bafeni"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Kohelet"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "bofeni"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "bafeni"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "bofeni"
+    }
+  ],
+  "timestamp": "2026-09-03T22:13:04.381925292Z",
+  "model": "glm-5.3"
+}

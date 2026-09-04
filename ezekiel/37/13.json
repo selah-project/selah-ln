@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 37:13",
+  "book": "ezekiel",
+  "lang": "ln",
+  "chapter": 37,
+  "translation": "Mpe boyebaka ete ngai ⟨nazali⟩ Yawe, na nkufungola ngai ⟨את⟩ mabida na bino mpe na ntombola ngai ⟨את⟩ bino okati ya mabida na bino, bato na ngai.",
+  "tokens": [
+    {
+      "surface": "וידעתם",
+      "gloss": "mpe boyebaka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בפתחי",
+      "gloss": "na nkufungola ngai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabida na bino"
+    },
+    {
+      "surface": "קברותיכם",
+      "gloss": "mabida na bino"
+    },
+    {
+      "surface": "ובהעלותי",
+      "gloss": "mpe na ntombola ngai"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "bino"
+    },
+    {
+      "surface": "מקברותיכם",
+      "gloss": "okati ya mabida na bino"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "bato na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T20:30:44.534772403Z",
+  "model": "glm-5.3"
+}

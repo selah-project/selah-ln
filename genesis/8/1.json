@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 8:1",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Elohim anakolaki ⟨את⟩ Noa, mpe ⟨את⟩ banyama nyonso mpe ⟨את⟩ binyama nyonso oyo ezalaki elongo na ye na teba; Elohim aleyaki mpema koleka likolo ya mabele, mpe mai makitaki.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "anakolaki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noa"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "banyama nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "banyama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "binyama nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "binyama"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "elongo na ⟨את⟩"
+    },
+    {
+      "surface": "בתבה",
+      "gloss": "na teba"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "aleyaki koleka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "mpema"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "וישכו",
+      "gloss": "makitaki"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mai"
+    }
+  ],
+  "timestamp": "2026-09-03T15:47:44.167545515Z",
+  "model": "glm-5.3"
+}

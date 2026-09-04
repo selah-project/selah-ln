@@ -1,0 +1,92 @@
+#:rendering{:label "Lingála",
+            :source
+            {:text :oshb-wlc,
+             :corpus :tanakh,
+             :verses 23213,
+             :tokens 305504},
+            :provenance
+            {:derived
+             [:lang
+              :version
+              :label
+              :status
+              :lineage
+              :source
+              :rails
+              :rails-commit
+              :name-seat
+              :models
+              :tiers
+              :produced
+              :license
+              :catalog],
+             :declared
+             [:role
+              :process
+              :checks
+              :people
+              :adjudication
+              :open-questions]},
+            :role :served,
+            :produced {:from "2026-09-03", :to "2026-09-04"},
+            :id "ln.v1",
+            :catalog {:ui "resources/i18n/ui/ln.edn"},
+            :license "CC BY-SA 4.0 (The Selah Lingala Rendering)",
+            :model
+            {:provider :z.ai,
+             :models {"glm-5.3" 23204, "fable-5-hand" 9},
+             :tiers {"glm-5.2" 23213},
+             :prompt "selah.translate.prompt",
+             :canonical-forms "data/translation/canonical-forms.edn"},
+            :discipline
+            {:rails "docs/methodology/translation-discipline/ln.md",
+             :rails-commit "2bf98cd5",
+             :foundation
+             [:hebrew-first
+              :deut-6-4-double-fidelity
+              :no-foreknowledge
+              :aleph-tav-total
+              :fills-bracketed
+              :no-translator-notes
+              :tough-verse-lay-it-bare],
+             :name-seat
+             {"אדני" "Adonai",
+              "אל" "El",
+              "אלהים" "Elohim",
+              "אלוה" "Eloa",
+              "ג" "g",
+              "ד" "d",
+              "ה" "h",
+              "ו" "w",
+              "ז" "z",
+              "ח" "h",
+              "ט" "t",
+              "י" "y",
+              "יה" "Ya",
+              "יהוה" "Yawe",
+              "ל" "l",
+              "מ" "m",
+              "נ" "n",
+              "ס" "s",
+              "צ" "ts",
+              "צבאות" "Tsebaot",
+              "ק" "k",
+              "ר" "r",
+              "שדי" "Shadai",
+              "ת" "t"},
+             :open-questions
+             [:tone-marking-policy
+              :yawe-attestation-landscape
+              :witness-column-empty-pending-pd-bible
+              :lexical-wobble-native-pass]},
+            :status :rendering,
+            :version "v1",
+            :lineage
+            {:git
+             {:repo nil,
+              :ref "v1-final",
+              :commit nil,
+              :tags [],
+              :branches []},
+             :parents []},
+            :lang :ln}

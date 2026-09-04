@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 78:67",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 78,
+  "translation": "Mpe aboyaki tente ya Yosef, mpe libota ya Efrajim aponaki te.",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "aboyaki"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "tente"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ya Yosef"
+    },
+    {
+      "surface": "ובשבט",
+      "gloss": "mpe libota"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ya Efrajim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "aponaki"
+    }
+  ],
+  "timestamp": "2026-09-03T21:19:59.188139179Z",
+  "model": "glm-5.3"
+}

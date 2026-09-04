@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 4:4",
+  "book": "jonah",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe Yawe alobaki: Ezali malamu na yo kokanda?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ההיטב",
+      "gloss": "ezali malamu"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "kokanda"
+    },
+    {
+      "surface": "לך",
+      "gloss": "na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T20:47:30.444510029Z",
+  "model": "glm-5.3"
+}

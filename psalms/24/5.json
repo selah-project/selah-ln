@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 24:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "Azwa ⟨את⟩ bokumi uta epai ya Yawe, mpe bosolo uta epai ya Elohim ya lobiko na ye.",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "Azwa"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "bokumi"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "uta epai ya ⟨את⟩",
+      "marks": "bokumi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "mpe bosolo"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "uta epai ya Elohim"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "ya lobiko na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:06:38.538306453Z",
+  "model": "glm-5.3"
+}

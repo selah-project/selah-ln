@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 43:1",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 43,
+  "translation": "Mpe nzala ezalaki makasi na mabele.",
+  "tokens": [
+    {
+      "surface": "והרעב",
+      "gloss": "Mpe nzala"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ezalaki makasi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T16:08:46.571139896Z",
+  "model": "glm-5.3"
+}

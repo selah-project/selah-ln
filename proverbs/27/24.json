@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 27:24",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 27,
+  "translation": "Mpo misolo ⟨ezali⟩ te mpaka, mpe ata korona ⟨ezali⟩ te mpo na mokoko mpe mokoko.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mpaka"
+    },
+    {
+      "surface": "חסן",
+      "gloss": "misolo"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ata"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "korona"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "mpo na mokoko"
+    },
+    {
+      "surface": "דור",
+      "gloss": "mpe mokoko"
+    }
+  ],
+  "timestamp": "2026-09-03T21:48:37.287162801Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 106:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 106,
+  "translation": "Tosali masumu elongo na batata na biso, tobukaki ndelo, tosalaki mabe.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "tosali masumu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "elongo na"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "batata na biso"
+    },
+    {
+      "surface": "העוינו",
+      "gloss": "tobukaki ndelo"
+    },
+    {
+      "surface": "הרשענו",
+      "gloss": "tosalaki mabe"
+    }
+  ],
+  "timestamp": "2026-09-03T21:27:41.368195517Z",
+  "model": "glm-5.3"
+}

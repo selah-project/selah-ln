@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 46:5",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 46,
+  "translation": "Mpe Yaakov atolamaki uta na Beer-Sheba, mpe bana ya Israel bamematiki Yaakov tata na bango, mpe ⟨את⟩ bana na bango ya mikesa, mpe ⟨את⟩ basi na bango, na bagalari oyo Parao atindaki mpo na komyekisa ⟨את⟩ ye.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "atolamaki"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "uta na Beer-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "bamematiki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "tata na bango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bana na bango ya mikesa"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "bana na bango ya mikesa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "basi na bango"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "basi na bango"
+    },
+    {
+      "surface": "בעגלות",
+      "gloss": "na bagalari"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "atindaki"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "mpo na komyekisa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ye",
+      "marks": "ye"
+    }
+  ],
+  "timestamp": "2026-09-03T16:11:01.525344584Z",
+  "model": "glm-5.3"
+}

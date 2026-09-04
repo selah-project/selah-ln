@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 27:11",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 27,
+  "translation": "Mpe Moshe atindaki ⟨את⟩ mboka na mokolo yango, alobaki boye:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "atindaki"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mboka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "mboka"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na mokolo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yango"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "alobaki boye"
+    }
+  ],
+  "timestamp": "2026-09-03T17:35:30.083134311Z",
+  "model": "glm-5.3"
+}

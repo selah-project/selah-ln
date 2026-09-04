@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 49:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 49,
+  "translation": "Nakobendisa litwi na ngai na masese; nakofungola na kino mokoko na ngai.",
+  "tokens": [
+    {
+      "surface": "אטה",
+      "gloss": "Nakobendisa"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "na masese"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "litwi na ngai"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "nakofungola"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "na kino"
+    },
+    {
+      "surface": "חידתי",
+      "gloss": "mokoko na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:11:30.025258162Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 88:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 88,
+  "translation": "Ekoya liboso na yo nsambisu na ngai; okamata matoyi nayo epai ya kingo na ngai.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "Ekoya"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "liboso na yo"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "nsambisu na ngai"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "okamata"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "matoyi nayo"
+    },
+    {
+      "surface": "לרנתי",
+      "gloss": "epai ya kingo na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:22:37.375836890Z",
+  "model": "glm-5.3"
+}

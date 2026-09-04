@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 126:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 126,
+  "translation": "Zongisa, Yawe, ⟨את⟩ bozongi na biso, lokola malaki ya mai kati ya Negev.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "zongisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bozongi na biso"
+    },
+    {
+      "surface": "שבותנו",
+      "gloss": "bozongi na biso"
+    },
+    {
+      "surface": "כאפיקים",
+      "gloss": "lokola malaki ya mai"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "kati ya Negev"
+    }
+  ],
+  "timestamp": "2026-09-03T21:33:56.657935306Z",
+  "model": "glm-5.3"
+}

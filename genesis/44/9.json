@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 44:9",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 44,
+  "translation": "Oyo ekokutama na ⟨את⟩ yango epai ya mowumbu na yo, akufa, mpe biso mpe tokokoma bawumbu epai ya Adonai.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ekokutama"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yango",
+      "marks": "mowumbu na yo"
+    },
+    {
+      "surface": "מעבדיך",
+      "gloss": "mowumbu na yo"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "akufa"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "mpe biso mpe"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "biso"
+    },
+    {
+      "surface": "נהיה",
+      "gloss": "tokokoma"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "epai ya Adonai"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "bawumbu"
+    }
+  ],
+  "timestamp": "2026-09-03T16:08:17.793576066Z",
+  "model": "glm-5.3"
+}

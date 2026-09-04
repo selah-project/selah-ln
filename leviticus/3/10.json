@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 3:10",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe ⟨את⟩ mapinda mibale, mpe ⟨את⟩ mafuta oyo ezali likolo yango, oyo ezali likolo ya lipasa, mpe ⟨את⟩ ndambo ya nkosi oyo ezali likolo ya nkosi, na mapinda akolongola yango.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mapinda mibale"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "mapinda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mafuta"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "likolo yango"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "lipasa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "ndambo ya nkosi"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "ndambo ya nkosi"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "nkosi"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "mapinda"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "akolongola yango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:39:12.459939220Z",
+  "model": "glm-5.3"
+}

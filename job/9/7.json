@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 9:7",
+  "book": "job",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Oyo alobi na moyi mpe te ebimaka, mpe na bifota akangi.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "Oyo alobi"
+    },
+    {
+      "surface": "לחרס",
+      "gloss": "na moyi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "ebimaka"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "mpe na"
+    },
+    {
+      "surface": "כוכבים",
+      "gloss": "bifota"
+    },
+    {
+      "surface": "יחתם",
+      "gloss": "akangi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:53:01.969733934Z",
+  "model": "glm-5.3"
+}

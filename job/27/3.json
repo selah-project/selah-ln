@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 27:3",
+  "book": "job",
+  "lang": "ln",
+  "chapter": 27,
+  "translation": "mpo kaka ntango nyonso mopepe na ngai ezali na ngai, mpe elimo ya Eloa ezali na mino na ngai.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kaka ntango nyonso"
+    },
+    {
+      "surface": "נשמתי",
+      "gloss": "mopepe na ngai"
+    },
+    {
+      "surface": "בי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "mpe elimo"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloa"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "na mino na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:59:50.981832363Z",
+  "model": "glm-5.3"
+}

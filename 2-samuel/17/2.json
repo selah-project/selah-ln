@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 17:2",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 17,
+  "translation": "mpe nakoya likolo na yango, mpe yango akwei mpe malembu na maboko, mpe nakobangisa ⟨את⟩ yango, mpe bato nyonso oyo bazali na yango bakokima, mpe nakobuma ⟨את⟩ mokonzi yango moko.",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "mpe nakoya"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "likolo na yango"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "mpe yango"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "akwei"
+    },
+    {
+      "surface": "ורפה",
+      "gloss": "mpe malembu"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "na maboko"
+    },
+    {
+      "surface": "והחרדתי",
+      "gloss": "mpe nakobangisa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yango"
+    },
+    {
+      "surface": "ונס",
+      "gloss": "mpe bakokima"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ na yango"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "mpe nakobuma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mokonzi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "yango moko"
+    }
+  ],
+  "timestamp": "2026-09-03T18:36:08.717812063Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 109:27",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 109,
+  "translation": "Mpe báoyeba ete loboko na yo nde oyo; yo, Yawe, nde osali yango.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "Mpe báoyeba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "loboko na yo"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "nde oyo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "nde osali yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:28:59.451096545Z",
+  "model": "glm-5.3"
+}

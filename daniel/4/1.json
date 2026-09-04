@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 4:1",
+  "book": "daniel",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Ngai Nebukadnetsar nazalaki na kimvemba na ndako na ngai mpe na bokoli na ndako ya bokonzi na ngai.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Ngai"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Nebukadnetsar"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "na kimvemba"
+    },
+    {
+      "surface": "הוית",
+      "gloss": "nazalaki"
+    },
+    {
+      "surface": "בביתי",
+      "gloss": "na ndako na ngai"
+    },
+    {
+      "surface": "ורענן",
+      "gloss": "mpe na bokoli"
+    },
+    {
+      "surface": "בהיכלי",
+      "gloss": "na ndako ya bokonzi na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T22:23:34.036301736Z",
+  "model": "glm-5.3"
+}

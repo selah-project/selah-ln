@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 17:25",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 17,
+  "translation": "Mpe na ebandeli ya bomoi na bango kuna, bazalaki kobanga ⟨את⟩ Yawe te, mpe Yawe atindaki kati na bango ⟨את⟩ bankoi, mpe bazalaki koboma bango.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mpe esalaki"
+    },
+    {
+      "surface": "בתחלת",
+      "gloss": "na ebandeli"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "ya bomoi na bango"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "bazalaki kobanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "mpe atindaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kati na bango"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bankoi"
+    },
+    {
+      "surface": "האריות",
+      "gloss": "bankoi"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "mpe bazalaki"
+    },
+    {
+      "surface": "הרגים",
+      "gloss": "koboma"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "bango"
+    }
+  ],
+  "timestamp": "2026-09-03T19:08:19.530021392Z",
+  "model": "glm-5.3"
+}

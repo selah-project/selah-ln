@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 3:4",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe Mesha mokonzi ya Moab azalaki mokambi ya bituka, mpe apesaki na mokonzi ya Israel nkama zomi na libanda ya bituka mike, mpe nkama zomi na libanda ya bituka minene, na bogongo na yango.",
+  "tokens": [
+    {
+      "surface": "ומישע",
+      "gloss": "Mpe Mesha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ya Moab"
+    },
+    {
+      "surface": "היה",
+      "gloss": "azalaki"
+    },
+    {
+      "surface": "נקד",
+      "gloss": "mokambi ya bituka"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "mpe apesaki"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "na mokonzi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "nkama"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "zomi na libanda"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "ya bituka mike"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "mpe nkama"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "zomi na libanda"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "ya bituka minene"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "na bogongo na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T18:59:16.852391433Z",
+  "model": "glm-5.3"
+}

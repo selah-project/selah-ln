@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 37:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 37,
+  "translation": "Mpe sepelisama na Yawe, mpe akopesa yo bisengi ya motema na yo.",
+  "tokens": [
+    {
+      "surface": "והתענג",
+      "gloss": "Mpe sepelisama"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "mpe akopesa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yo"
+    },
+    {
+      "surface": "משאלת",
+      "gloss": "bisengi"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ya motema na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:09:16.271005605Z",
+  "model": "glm-5.3"
+}

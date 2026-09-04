@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 1:51",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe ntango ndako ekoyaka, Balavi bakokitisa ⟨את⟩ yango; mpe ntango ndako ekotelema na kaa, Balavi bakotelemisa ⟨את⟩ yango; mpe moto ya libanda oyo akomaka penepene akokufa.",
+  "tokens": [
+    {
+      "surface": "ובנסע",
+      "gloss": "mpe ntango ekoyaka"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "יורידו",
+      "gloss": "bakokitisa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yango",
+      "marks": "Balavi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Balavi"
+    },
+    {
+      "surface": "ובחנת",
+      "gloss": "mpe ntango ekotelema na kaa"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "יקימו",
+      "gloss": "bakotelemisa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yango",
+      "marks": "Balavi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Balavi"
+    },
+    {
+      "surface": "והזר",
+      "gloss": "mpe moto ya libanda"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "akomaka penepene"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "akokufa"
+    }
+  ],
+  "timestamp": "2026-09-03T16:57:43.865581067Z",
+  "model": "glm-5.3"
+}

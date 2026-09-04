@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 10:11",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Soki te, ndenge nasalaki na Shomeron mpe na elil na yango, bongo nasala na Yerushalaim mpe na bileko na yango?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "soki te"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ndenge"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "nasalaki"
+    },
+    {
+      "surface": "לשמרון",
+      "gloss": "na Shomeron"
+    },
+    {
+      "surface": "ולאליליה",
+      "gloss": "mpe na elil na yango"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bongo"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "nasala"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "na Yerushalaim"
+    },
+    {
+      "surface": "ולעצביה",
+      "gloss": "mpe na bileko na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T19:16:42.160410529Z",
+  "model": "glm-5.3"
+}

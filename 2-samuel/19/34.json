@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "2-samuel 19:34",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Mpe mokonzi alobaki na Barzilai: Yo, kali ⟨את⟩ na ngai, mpe nakolakisaka ⟨את⟩ yo na ngai na Yerushalaim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "ברזלי",
+      "gloss": "Barzilai"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "kali"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ na ngai"
+    },
+    {
+      "surface": "וכלכלתי",
+      "gloss": "mpe nakolakisaka"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ yo",
+      "marks": "yo"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "na Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-09-03T18:39:48.984329795Z",
+  "model": "glm-5.3"
+}

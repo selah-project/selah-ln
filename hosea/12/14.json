@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 12:14",
+  "book": "hosea",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Mpe na navi Yawe abimelaki ⟨את⟩ Israel utá na Mitsraim, mpe na navi ⟨ye⟩ abatelamaki.",
+  "tokens": [
+    {
+      "surface": "ובנביא",
+      "gloss": "mpe na navi"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "abimelaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "utá na Mitsraim"
+    },
+    {
+      "surface": "ובנביא",
+      "gloss": "mpe na navi"
+    },
+    {
+      "surface": "נשמר",
+      "gloss": "abatelamaki"
+    }
+  ],
+  "timestamp": "2026-09-03T20:38:59.647735024Z",
+  "model": "glm-5.3"
+}

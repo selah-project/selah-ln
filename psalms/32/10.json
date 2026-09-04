@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 32:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 32,
+  "translation": "Mpasi mingi ezali ya moto mabe; kasi oyo atomiki na Yawe, hesed (ngolu) ekozingaka yango.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "mingi"
+    },
+    {
+      "surface": "מכאובים",
+      "gloss": "mpasi"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "ya moto mabe"
+    },
+    {
+      "surface": "והבוטח",
+      "gloss": "kasi oyo atomiki"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "na Yawe"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "יסובבנו",
+      "gloss": "ekozingaka yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:07:54.184855846Z",
+  "model": "glm-5.3"
+}

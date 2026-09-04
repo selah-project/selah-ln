@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 22:30",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Bakolia mpe bakokundela, bakoli ya mabele nyonso, liboso na ye; bakokufa misu, baye bakoki na poutu nyonso, mpe bomoi na ye ebikisaki moto te.",
+  "tokens": [
+    {
+      "surface": "אכלו",
+      "gloss": "Bakolia"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "mpe bakokundela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "דשני",
+      "gloss": "bakoli"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ya mabele"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "liboso na ye"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "bakokufa misu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "baye bakoki"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "na poutu"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "mpe bomoi na ye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "ebikisaki moto"
+    }
+  ],
+  "timestamp": "2026-09-03T21:04:54.498666023Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 17:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 17,
+  "translation": "Mpamba na bansibi oyo bazali kolimbisa ngai, banguna na ngai na molimo bazali kolingola likolo na ngai.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "mpamba na"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bansibi"
+    },
+    {
+      "surface": "זו",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "שדוני",
+      "gloss": "bazali kolimbisa ngai"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "banguna na ngai"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "na molimo"
+    },
+    {
+      "surface": "יקיפו",
+      "gloss": "bazali kolingola"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "likolo na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:01:45.508563075Z",
+  "model": "glm-5.3"
+}

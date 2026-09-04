@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 42:16",
+  "book": "job",
+  "lang": "ln",
+  "chapter": 42,
+  "translation": "Mpe Iyob azalaki na bomoi sima ya yango mbula nkama mpe ntuku minei, mpe amonaki ⟨את⟩ bana na ye mpe ⟨את⟩ bana ya bana na ye, bonkoko minei.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "mpe azalaki na bomoi"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyob"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sima ya"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "yango"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "nkama"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "mpe ntuku minei"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mbula"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "mpe amonaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bana na ye"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bana na ye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bana ya bana na ye"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ya"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bana na ye"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "minei"
+    },
+    {
+      "surface": "דרות",
+      "gloss": "bonkoko"
+    }
+  ],
+  "timestamp": "2026-09-03T22:05:33.804569634Z",
+  "model": "glm-5.3"
+}

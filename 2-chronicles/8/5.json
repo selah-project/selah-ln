@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 8:5",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe atongaki ⟨את⟩ Beit Horon ya likolo mpe ⟨את⟩ Beit Horon ya nsé — miboka ya bopekisi, na minguta, na bikuke mpe na mokangisi.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "atongaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beit Horon ya likolo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Horon"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "ya likolo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Horon"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "ya nsé"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "miboka"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "ya bopekisi"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "na minguta"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "na bikuke"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "mpe na mokangisi"
+    }
+  ],
+  "timestamp": "2026-09-03T22:59:14.322914497Z",
+  "model": "glm-5.3"
+}

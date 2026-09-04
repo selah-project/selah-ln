@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 7:6",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mpe asalaki ⟨את⟩ porike ya bipayi: bokasi na yango ntanu na zomi ama, mpe bokuke na yango ntuku misato ama; mpe porike liboso na bango, mpe bipayi mpe seke liboso na bango.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "porike ya bipayi"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "porike"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "ya bipayi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "asalaki"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ntanu na zomi"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "bokasi na yango"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "mpe ntuku misato"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "bokuke na yango"
+    },
+    {
+      "surface": "ואולם",
+      "gloss": "mpe porike"
+    },
+    {
+      "surface": "על",
+      "gloss": "liboso"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "ועמדים",
+      "gloss": "mpe bipayi"
+    },
+    {
+      "surface": "ועב",
+      "gloss": "mpe seke"
+    },
+    {
+      "surface": "על",
+      "gloss": "liboso"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T18:46:00.368614069Z",
+  "model": "glm-5.3"
+}

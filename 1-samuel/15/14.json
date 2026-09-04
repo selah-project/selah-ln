@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 15:14",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 15,
+  "translation": "Mpe Samuele alobaki: Mpe nini mongongo ya bituku oyo na matoyi na ngai, mpe mongongo ya bangombe oyo ngai nazali koyoka?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe ... alobaki"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuele"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "Mpe nini"
+    },
+    {
+      "surface": "קול",
+      "gloss": "mongongo"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ya bituku"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "na matoyi na ngai"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "mpe mongongo"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ya bangombe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nazali koyoka"
+    }
+  ],
+  "timestamp": "2026-09-03T18:17:04.889099805Z",
+  "model": "glm-5.3"
+}

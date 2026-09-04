@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 106:34",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 106,
+  "translation": "Bayikaki te ⟨את⟩ bikolo oyo Yawe alobaki epai na bango,",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "bayikaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bikolo"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "bikolo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "epai na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:27:54.464305519Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 10:3",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Mpe ata na nzela, ntango mwenye azali kotambola, motema na yake ezangami, mpe alobi na bato nyonso ete mwenye azali ⟨ye⟩.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "mpe ata"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "na nzela"
+    },
+    {
+      "surface": "כשהסכל",
+      "gloss": "ntango mwenye"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "azali kotambola"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "motema na yake"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "ezangami"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "mpe alobi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "na bato nyonso"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "mwenye"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ye"
+    }
+  ],
+  "timestamp": "2026-09-03T22:14:44.872572030Z",
+  "model": "glm-5.3"
+}

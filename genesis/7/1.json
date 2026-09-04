@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 7:1",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Yawe alobaki na Noa: Yingela yo mpe ndako nayo mobimba na teba, mpo ngai namoni yo ozali mosemi liboso na ngai na mbula oyo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לנח",
+      "gloss": "na Noa"
+    },
+    {
+      "surface": "בא",
+      "gloss": "Yingela"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe mobimba"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ndako nayo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "teba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ epai na yo"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "namoni"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ozali mosemi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso na"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "na mbula"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    }
+  ],
+  "timestamp": "2026-09-03T15:48:24.033554575Z",
+  "model": "glm-5.3"
+}

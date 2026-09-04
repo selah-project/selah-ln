@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 6:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Yawe, kotungisa ngai te na mawa na yo, mpe konyokolako ngai te na likebi na yo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "na mawa na yo"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "kotungisa ngai"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "בחמתך",
+      "gloss": "na likebi na yo"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "konyokolako ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T20:59:58.847558559Z",
+  "model": "glm-5.3"
+}

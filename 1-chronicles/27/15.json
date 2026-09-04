@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 27:15",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 27,
+  "translation": "Zomi na mibale, na sanza ya zomi na mibale, ⟨ezali⟩ Heldai wa Netofa, wa Otniel; mpe na eteni na ye zomi mibale mpe minei nkoto.",
+  "tokens": [
+    {
+      "surface": "השנים",
+      "gloss": "zomi na"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "na zomi na"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "sanza"
+    },
+    {
+      "surface": "חלדי",
+      "gloss": "Heldai"
+    },
+    {
+      "surface": "הנטופתי",
+      "gloss": "wa Netofa"
+    },
+    {
+      "surface": "לעתניאל",
+      "gloss": "wa Otniel"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "mpe na"
+    },
+    {
+      "surface": "מחלקתו",
+      "gloss": "eteni na ye"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "zomi mibale"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "mpe minei"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "nkoto"
+    }
+  ],
+  "timestamp": "2026-09-03T22:51:47.800876190Z",
+  "model": "glm-5.3"
+}

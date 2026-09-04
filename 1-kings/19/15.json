@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 19:15",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Mpe Yawe alobaki epai na ye: Kota, zonga na nzela na yo, na elongo ya Damasheke; mpe okokota, mpe okonyoila ⟨את⟩ Hazael lokola mokonzi na Aram.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "epai na ye"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kota"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "zonga"
+    },
+    {
+      "surface": "לדרכך",
+      "gloss": "na nzela na yo"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "na elongo"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damasheke"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "mpe okokota"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "mpe okonyoila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hazael"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Hazael"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "lokola mokonzi"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-09-03T18:55:50.001621573Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 14:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Boye te, bayebi nyonso basali mabe, baliaka bato na ngai balaki mokate; Yawe babengaki te?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Boye te"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "bayebi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "basali"
+    },
+    {
+      "surface": "און",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "baliaka"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "bato na ngai"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "balaki"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "mokate"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "babengaki"
+    }
+  ],
+  "timestamp": "2026-09-03T21:02:46.335537315Z",
+  "model": "glm-5.3"
+}

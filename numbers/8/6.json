@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 8:6",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Zwa ⟨את⟩ balevi kati ya bana ya Israel, mpe ozwa ⟨את⟩ bango bacha.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Zwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "balevi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "balevi"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "kati ya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "וטהרת",
+      "gloss": "mpe ozwa bango bacha"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bango (suffix oyo ebongisami)"
+    }
+  ],
+  "timestamp": "2026-09-03T17:04:34.587483778Z",
+  "model": "glm-5.3"
+}

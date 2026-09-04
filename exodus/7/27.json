@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 7:27",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mpe soki olingi te kotinda bango, talá, ngai nakokoutela ⟨את⟩ ndelo na yo nyonso na baporo.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Mpe soki"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "olingi te"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "kotinda bango"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "talá"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "nakokoutela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndelo na yo nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "ndelo na yo"
+    },
+    {
+      "surface": "בצפרדעים",
+      "gloss": "na baporo"
+    }
+  ],
+  "timestamp": "2026-09-03T16:17:14.235765821Z",
+  "model": "glm-5.3"
+}

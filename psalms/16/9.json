@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 16:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Mpo na yango motema na ngai esepelaki, mpe nkembo na ngai esepelaki; ata nzoto na ngai ekofanda na libateli.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Mpo na yango"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "esepelaki"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "motema na ngai"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "mpe esepelaki"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "nkembo na ngai"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ata"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "nzoto na ngai"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "ekofanda"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "na libateli"
+    }
+  ],
+  "timestamp": "2026-09-03T21:01:49.639109818Z",
+  "model": "glm-5.3"
+}

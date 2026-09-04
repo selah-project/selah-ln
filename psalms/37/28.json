@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 37:28",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 37,
+  "translation": "Mpo Yawe alingaka bosolo, mpe akangala te ⟨את⟩ bato na ye ya bondimi; babatelami mpaka seko, mpe libota ya babe ekatamaki.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "alingaka"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "bosolo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe akangala te"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": ""
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bato na ye ya bondimi"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "bato na ye ya bondimi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "mpaka seko"
+    },
+    {
+      "surface": "נשמרו",
+      "gloss": "babatelami"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "mpe libota"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ya babe"
+    },
+    {
+      "surface": "נכרת",
+      "gloss": "ekatamaki"
+    }
+  ],
+  "timestamp": "2026-09-03T23:34:14.543344188Z",
+  "model": "glm-5.3"
+}

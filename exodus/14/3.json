@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 14:3",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Mpe Parao akoloba na bana ya Israel ete: bazangi nzela bango na mabele, etuka ekangi bango.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Mpe akoloba"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "na bana ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "נבכים",
+      "gloss": "bazangi nzela"
+    },
+    {
+      "surface": "הם",
+      "gloss": "bango"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "ekangi"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "bango"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "etuka"
+    }
+  ],
+  "timestamp": "2026-09-03T16:21:37.278534955Z",
+  "model": "glm-5.3"
+}

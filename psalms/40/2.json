@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 40:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 40,
+  "translation": "Kozela nazeli Yawe, mpe atomakisaki ngai epai, mpe awutolisaki kli na ngai.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "Kozela"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "nazeli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "mpe atomakisaki ngai"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "epai"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "mpe awutolisaki"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "kli na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:10:18.939145969Z",
+  "model": "glm-5.3"
+}

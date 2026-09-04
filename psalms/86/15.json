@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 86:15",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 86,
+  "translation": "Kasi yo, Adonai, ozali El wa mawa mpe wa ngolu, mawei na yo ezali molayi, mpe ozali na hesed monene mpe bosembo.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Kasi yo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "wa mawa"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "mpe wa ngolu"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ezali molayi"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "mawei na yo"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "mpe monene"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "mpe bosembo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:22:09.417206062Z",
+  "model": "glm-5.3"
+}

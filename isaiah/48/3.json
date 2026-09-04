@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 48:3",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 48,
+  "translation": "Makambo ya liboso, uta kala nayebisaki, mpe uta na monoko na ngai mabimaki; na mbala moko nasalaki yango, mpe moyaaki.",
+  "tokens": [
+    {
+      "surface": "הראשנות",
+      "gloss": "Makambo ya liboso"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "uta kala"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "nayebisaki"
+    },
+    {
+      "surface": "ומפי",
+      "gloss": "mpe uta na monoko na ngai"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "mabimaki"
+    },
+    {
+      "surface": "ואשמיעם",
+      "gloss": "mpe nayebisaki yango"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "na mbala moko"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "nasalaki yango"
+    },
+    {
+      "surface": "ותבאנה",
+      "gloss": "mpe moyaaki"
+    }
+  ],
+  "timestamp": "2026-09-03T19:32:36.635177388Z",
+  "model": "glm-5.3"
+}

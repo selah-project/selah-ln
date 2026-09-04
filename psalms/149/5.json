@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 149:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 149,
+  "translation": "Bato ya hesed bakosekana na nkembo, bakoyembela na likolo ya bibangi na bango.",
+  "tokens": [
+    {
+      "surface": "יעלזו",
+      "gloss": "bakosekana"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "bato ya hesed"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "na nkembo"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "bakoyembela"
+    },
+    {
+      "surface": "על",
+      "gloss": "na likolo ya"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "bibangi na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:36:07.957105145Z",
+  "model": "glm-5.3"
+}

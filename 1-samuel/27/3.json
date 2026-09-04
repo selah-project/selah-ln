@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 27:3",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 27,
+  "translation": "David afandaki elongo na Akish na Gat, yeye mpe bato na ye, moto na moto na ndako na ye, David mpe basi na ye babale, Akinowam wa Yizreel mpe Abigayil mwasi ya Nabal, wa Karmel.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "afandaki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עם",
+      "gloss": "elongo na"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akish"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "na Gat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yeye"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "mpe bato na ye"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto na moto"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "na ndako na ye"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "mpe babale"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "basi na ye"
+    },
+    {
+      "surface": "אחינעם",
+      "gloss": "Akinowam"
+    },
+    {
+      "surface": "היזרעאלית",
+      "gloss": "wa Yizreel"
+    },
+    {
+      "surface": "ואביגיל",
+      "gloss": "mpe Abigayil"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mwasi"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "ya Nabal"
+    },
+    {
+      "surface": "הכרמלית",
+      "gloss": "wa Karmel"
+    }
+  ],
+  "timestamp": "2026-09-03T18:24:47.907742625Z",
+  "model": "glm-5.3"
+}

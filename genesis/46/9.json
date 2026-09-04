@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 46:9",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 46,
+  "translation": "Mpe bana ya Reuven: Hanok, mpe Palu, mpe Hetsron, mpe Karmi.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Mpe bana ya"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuven"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Hanok"
+    },
+    {
+      "surface": "ופלוא",
+      "gloss": "mpe Palu"
+    },
+    {
+      "surface": "וחצרון",
+      "gloss": "mpe Hetsron"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "mpe Karmi"
+    }
+  ],
+  "timestamp": "2026-09-03T16:09:42.200758191Z",
+  "model": "glm-5.3"
+}

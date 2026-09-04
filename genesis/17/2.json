@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 17:2",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 17,
+  "translation": "Mpe nakofunga boyokani na ngai kati na ngai mpe kati ya yo, mpe nakokomisa ⟨את⟩ yo mingi mingi mingi.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "mpe nakofunga"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "boyokani na ngai"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "kati na ngai"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "mpe kati ya yo"
+    },
+    {
+      "surface": "וארבה",
+      "gloss": "mpe nakokomisa ebele"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ yo",
+      "marks": "yo"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "mingi mingi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mingi"
+    }
+  ],
+  "timestamp": "2026-09-03T15:53:10.925291747Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 104:11",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 104,
+  "translation": "Basakisaka banyama nyonso ya elanga; bampunda ya zamba babukaka nzala ya mai na bango.",
+  "tokens": [
+    {
+      "surface": "ישקו",
+      "gloss": "Basakisaka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "banyama"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ya elanga"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "babukaka"
+    },
+    {
+      "surface": "פראים",
+      "gloss": "bampunda ya zamba"
+    },
+    {
+      "surface": "צמאם",
+      "gloss": "nzala ya mai na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:25:50.197101111Z",
+  "model": "glm-5.3"
+}

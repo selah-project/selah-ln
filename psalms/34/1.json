@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 34:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 34,
+  "translation": "Ya David, na kobongola ⟨את⟩ boye naye liboso ya Avimelekh, mpe ye amemaki ye koleka, mpe akendeki.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ya David"
+    },
+    {
+      "surface": "בשנותו",
+      "gloss": "na kobongola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boye naye"
+    },
+    {
+      "surface": "טעמו",
+      "gloss": "boye naye"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekh"
+    },
+    {
+      "surface": "ויגרשהו",
+      "gloss": "mpe ye amemaki ye koleka"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "mpe akendeki"
+    }
+  ],
+  "timestamp": "2026-09-03T21:08:21.669398370Z",
+  "model": "glm-5.3"
+}

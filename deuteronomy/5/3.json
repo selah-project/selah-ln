@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 5:3",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Yawe akataki te ⟨את⟩ boyokani oyo na ⟨את⟩ babokilo na biso; kasi na ⟨את⟩ biso — biso moko, awa lelo, biso nyonso na bomoi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "babokilo na biso"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "babokilo na biso"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "akataki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boyokani oyo"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "boyokani"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kasi"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ na biso"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "biso"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "פה",
+      "gloss": "awa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lelo"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "biso nyonso"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "na bomoi"
+    }
+  ],
+  "timestamp": "2026-09-03T17:25:15.765751228Z",
+  "model": "glm-5.3"
+}

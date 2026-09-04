@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 6:20",
+  "book": "judges",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpe malaka ya Elohim alobaki epai na ye: Zwá ⟨את⟩ nyama mpe ⟨את⟩ mikate ya kozanga bilila, mpe tya ⟨yango⟩ na libanga oyo, mpe ⟨את⟩ supu tula. Mpe asalaki bongo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "epai na ye"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "malaka"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "קח",
+      "gloss": "zwá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyama"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "nyama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mikate ya kozanga bilila"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "mikate ya kozanga bilila"
+    },
+    {
+      "surface": "והנח",
+      "gloss": "mpe tya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "libanga"
+    },
+    {
+      "surface": "הלז",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "supu"
+    },
+    {
+      "surface": "המרק",
+      "gloss": "supu"
+    },
+    {
+      "surface": "שפוך",
+      "gloss": "tula"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "mpe asalaki"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bongo"
+    }
+  ],
+  "timestamp": "2026-09-03T17:59:47.912388508Z",
+  "model": "glm-5.3"
+}

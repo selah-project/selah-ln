@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 16:26",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Mpe oyo atindaki ⟨את⟩ mbuci na Azazel akosukisa bilamba na ye, mpe akosukisa ⟨את⟩ mosolo na ye na mai, mpe nsima ya bongo akokota na kampu.",
+  "tokens": [
+    {
+      "surface": "והמשלח",
+      "gloss": "mpe oyo atindaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbuci"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "mbuci"
+    },
+    {
+      "surface": "לעזאזל",
+      "gloss": "na Azazel"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "akosukisa"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "bilamba na ye"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "mpe akosukisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mosolo na ye"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "mosolo na ye"
+    },
+    {
+      "surface": "במים",
+      "gloss": "na mai"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "mpe nsima"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ya bongo"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "akokota"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kampu"
+    }
+  ],
+  "timestamp": "2026-09-03T16:51:06.424173119Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 5:4",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Mpe Naaman akotaki mpe ayebisaki nkolo na ye, na koloba: Ndenge oyo mpe ndenge oyo nde mwana mwasi yango alobaki, oyo wo na mabele ya Israel.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Mpe Naaman akotaki"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "mpe ayebisaki"
+    },
+    {
+      "surface": "לאדניו",
+      "gloss": "nkolo na ye"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na koloba"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "Ndenge oyo"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "mpe ndenge oyo"
+    },
+    {
+      "surface": "דברה",
+      "gloss": "nde alobaki"
+    },
+    {
+      "surface": "הנערה",
+      "gloss": "mwana mwasi yango"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "wo na mabele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    }
+  ],
+  "timestamp": "2026-09-03T19:01:37.211016068Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 12:9",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Mpe moto ya Yawe ndimaki na bango, mpe akendaki.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "mpe ndimaki"
+    },
+    {
+      "surface": "אף",
+      "gloss": "moto"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "mpe akendaki"
+    }
+  ],
+  "timestamp": "2026-09-03T17:06:46.487619402Z",
+  "model": "glm-5.3"
+}

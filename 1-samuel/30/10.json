@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 30:10",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 30,
+  "translation": "Mpe David alukaki, ye mpe bato nkama minei; mpe bato nkama mibale batelemaki, oyo basembaki kolomba ⟨את⟩ ebale Besor.",
+  "tokens": [
+    {
+      "surface": "וירדף",
+      "gloss": "alukaki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ye"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "mpe minei"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "nkama"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bato"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "mpe batelemaki"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "nkama mibale"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bato"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "פגרו",
+      "gloss": "basembaki"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "kolomba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ebale"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "ebale"
+    },
+    {
+      "surface": "הבשור",
+      "gloss": "Besor"
+    }
+  ],
+  "timestamp": "2026-09-03T18:23:37.668048861Z",
+  "model": "glm-5.3"
+}

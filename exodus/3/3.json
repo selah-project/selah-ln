@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 3:3",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe Moshe alobaki: Nakozonga moke, na limo, mpe namona ⟨את⟩ monkelo monene oyo; mpo na nini zete ezali koluka te?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "Nakozonga moke"
+    },
+    {
+      "surface": "נא",
+      "gloss": "na limo"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "mpe namona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "monkelo"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "monkelo"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "monene"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "mpo na nini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "ezali koluka"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "zete"
+    }
+  ],
+  "timestamp": "2026-09-03T16:14:06.384700043Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 118:11",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 118,
+  "translation": "Bisengelaki ngai, ata bisengelaki ngai; kasi na nkombo ya Yawe nakataki bango.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "bisengelaki ngai"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ata"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "bisengelaki ngai"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "na nkombo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kasi"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "nakataki bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:30:29.738678944Z",
+  "model": "glm-5.3"
+}

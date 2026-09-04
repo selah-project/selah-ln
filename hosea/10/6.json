@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 10:6",
+  "book": "hosea",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Mpe ⟨את⟩ Ashur ememamaki, lokufa epai ya Mokonzi Yareb. Likoya Efrayim akokwa ⟨yango⟩, mpe Israel akoya na makanisi na yango.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Mpe"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "Ashur"
+    },
+    {
+      "surface": "לאשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "ememamaki"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "lokufa"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "epai ya Mokonzi"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "Yareb"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "Likoya"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "akokwa ⟨yango⟩"
+    },
+    {
+      "surface": "ויבוש",
+      "gloss": "mpe akoya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מעצתו",
+      "gloss": "na makanisi na yango"
+    }
+  ],
+  "timestamp": "2026-09-04T00:21:54.544027156Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 16:9",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Mpe mokonzi wa Ashur ayoki ye; mokonzi wa Ashur akotaki na Damashek, mpe aswaki yango, mpe akangisaki bato na yango na Kir, mpe abomaki ⟨את⟩ Retzin.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "mpe ayoki"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "mpe akotaki"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damashek"
+    },
+    {
+      "surface": "ויתפשה",
+      "gloss": "mpe aswaki yango"
+    },
+    {
+      "surface": "ויגלה",
+      "gloss": "mpe akangisaki bato na yango"
+    },
+    {
+      "surface": "קירה",
+      "gloss": "Kir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Retzin"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Retzin"
+    },
+    {
+      "surface": "המית",
+      "gloss": "abomaki"
+    }
+  ],
+  "timestamp": "2026-09-03T19:07:19.591194763Z",
+  "model": "glm-5.3"
+}

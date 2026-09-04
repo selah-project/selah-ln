@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 3:23",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe Yawe Elohim atindaki ye akima na jardin ya Eden, mpo na kolabela ⟨את⟩ mabele oyo amemamaki wana.",
+  "tokens": [
+    {
+      "surface": "וישלחהו",
+      "gloss": "atindaki ye akima"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "na jardin"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Eden"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "mpo na kolabela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabele"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "amemamaki"
+    },
+    {
+      "surface": "משם",
+      "gloss": "wana"
+    }
+  ],
+  "timestamp": "2026-09-03T15:46:04.046823324Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 78:60",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 78,
+  "translation": "Mpe atikaki ndako ya Shilo, tente oyo afandisaki kati na bato.",
+  "tokens": [
+    {
+      "surface": "ויטש",
+      "gloss": "atikaki"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "ya Shilo"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tente"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "afandisaki"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "kati na bato"
+    }
+  ],
+  "timestamp": "2026-09-03T21:19:48.917836104Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 12:33",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Mpe Mitsraim asalaki makasi epai ya bato, na mbangu mpo na kotinda bango libanda ya mabele, mpo balobaki ete: biso nyonso tokufi.",
+  "tokens": [
+    {
+      "surface": "וַתֶּחֱזַק",
+      "gloss": "asalaki makasi"
+    },
+    {
+      "surface": "מִצְרַיִם",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "הָעָם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "לְמַהֵר",
+      "gloss": "na mbangu"
+    },
+    {
+      "surface": "לְשַׁלְּחָם",
+      "gloss": "mpo na kotinda bango"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "libanda ya"
+    },
+    {
+      "surface": "הָאָרֶץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "אָמְרוּ",
+      "gloss": "balobaki"
+    },
+    {
+      "surface": "כֻּלָּנוּ",
+      "gloss": "biso nyonso"
+    },
+    {
+      "surface": "מֵתִים",
+      "gloss": "tokufi"
+    }
+  ],
+  "timestamp": "2026-09-03T16:20:34.348858880Z",
+  "model": "glm-5.3"
+}

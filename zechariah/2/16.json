@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zechariah 2:16",
+  "book": "zechariah",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe Yawe akozwa ⟨את⟩ Yehuda lokota na ye likolo ya mabele ya mokemoke, mpe aponi lisusu Yerushalaim.",
+  "tokens": [
+    {
+      "surface": "ונחל",
+      "gloss": "mpe akozwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "lokota na ye"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ya mokemoke"
+    },
+    {
+      "surface": "ובחר",
+      "gloss": "mpe aponi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lisusu"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-09-03T20:55:02.331183197Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 1:11",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Bokundoli ya baye bazalaki liboso ezali te; mpe mpo na baye bakoya, bokundoli na bango ekozala te elongo na baye bakoya na nsuka.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ezali te"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "bokundoli"
+    },
+    {
+      "surface": "לראשנים",
+      "gloss": "mpo na baye bazalaki liboso"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "mpe mpe"
+    },
+    {
+      "surface": "לאחרנים",
+      "gloss": "mpo na baye bakoya"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "bakoya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ekozala"
+    },
+    {
+      "surface": "להם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "bokundoli"
+    },
+    {
+      "surface": "עם",
+      "gloss": "elongo na"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "bakoya"
+    },
+    {
+      "surface": "לאחרנה",
+      "gloss": "na nsuka"
+    }
+  ],
+  "timestamp": "2026-09-03T22:12:41.243926694Z",
+  "model": "glm-5.3"
+}

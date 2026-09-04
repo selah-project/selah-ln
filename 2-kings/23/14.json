@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 23:14",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Mpe abukaki ⟨את⟩ bankambo ya libanga, mpe akatakaki ⟨את⟩ baAshera, mpe akotisaki ⟨את⟩ esika na bango miku ya bato.",
+  "tokens": [
+    {
+      "surface": "ושבר",
+      "gloss": "Mpe abukaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bankambo ya libanga"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "bankambo ya libanga"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "mpe akatakaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baAshera"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "baAshera"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "mpe akotisaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "esika na bango"
+    },
+    {
+      "surface": "מקומם",
+      "gloss": "esika na bango"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "miku"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ya bato"
+    }
+  ],
+  "timestamp": "2026-09-03T19:11:42.992672508Z",
+  "model": "glm-5.3"
+}

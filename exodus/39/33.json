@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 39:33",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 39,
+  "translation": "Bakendisaki ⟨את⟩ Mishkan epai ya Moshe, ⟨את⟩ tente mpe ⟨את⟩ biloko bya yango nyonso, makapo na yango, baplanke na yango, babare na yango, baetanda na yango mpe maboku na yango.",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "Bakendisaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tente"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "tente"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "biloko bya yango nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "biloko bya yango"
+    },
+    {
+      "surface": "קרסיו",
+      "gloss": "makapo na yango"
+    },
+    {
+      "surface": "קרשיו",
+      "gloss": "baplanke na yango"
+    },
+    {
+      "surface": "בריחו",
+      "gloss": "babare na yango"
+    },
+    {
+      "surface": "ועמדיו",
+      "gloss": "mpe baetanda na yango"
+    },
+    {
+      "surface": "ואדניו",
+      "gloss": "mpe maboku na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:38:44.993310421Z",
+  "model": "glm-5.3"
+}

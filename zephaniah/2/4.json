@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zephaniah 2:4",
+  "book": "zephaniah",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpo ete Aza ekotikama, mpe Ashkelon ekozala na bobungu; Ashdod bakobengisa yango na midi, mpe Ekron ekokatikama",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo ete"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "ekotikama"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ekozala"
+    },
+    {
+      "surface": "ואשקלון",
+      "gloss": "mpe Ashkelon"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "na bobungu"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Ashdod"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "na midi"
+    },
+    {
+      "surface": "יגרשוה",
+      "gloss": "bakobengisa yango"
+    },
+    {
+      "surface": "ועקרון",
+      "gloss": "mpe Ekron"
+    },
+    {
+      "surface": "תעקר",
+      "gloss": "ekokatikama"
+    }
+  ],
+  "timestamp": "2026-09-03T20:53:55.689655374Z",
+  "model": "glm-5.3"
+}

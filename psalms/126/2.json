@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 126:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 126,
+  "translation": "Wana monoko na biso eiwanaki seke, mpe liloba na biso ⟨ezalaki⟩ sanzola. Wana bakolo balobaki ete Yawe asalaki biloko ya minene ⟨na⟩ bato oyo.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "wana"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "eiwanaki"
+    },
+    {
+      "surface": "שחוק",
+      "gloss": "seke"
+    },
+    {
+      "surface": "פינו",
+      "gloss": "monoko na biso"
+    },
+    {
+      "surface": "ולשוננו",
+      "gloss": "mpe liloba na biso"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "sanzola"
+    },
+    {
+      "surface": "אז",
+      "gloss": "wana"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "balobaki"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "bakolo"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "asalaki biloko ya minene"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "kosala"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bato oyo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:33:56.657610797Z",
+  "model": "glm-5.3"
+}

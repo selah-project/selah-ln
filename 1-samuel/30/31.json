@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-samuel 30:31",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 30,
+  "translation": "mpe na bato oyo bazalaki na Hevron, mpe na bisika nyonso oyo David ye moko mpe basoda na ye batambolaki kuna.",
+  "tokens": [
+    {
+      "surface": "ולאשר",
+      "gloss": "mpe na bato oyo bazalaki"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "na Hevron"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "mpe na bisika nyonso"
+    },
+    {
+      "surface": "המקמות",
+      "gloss": "bisika"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "התהלך",
+      "gloss": "batambolaki"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ye moko"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "mpe basoda na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T18:22:59.913319490Z",
+  "model": "glm-5.3"
+}

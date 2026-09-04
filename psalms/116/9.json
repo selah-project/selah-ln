@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 116:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 116,
+  "translation": "Nakotambola liboso ya Yawe, na mabele ya bavoyo.",
+  "tokens": [
+    {
+      "surface": "אתהלך",
+      "gloss": "Nakotambola"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ya bavoyo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:30:01.614819510Z",
+  "model": "glm-5.3"
+}

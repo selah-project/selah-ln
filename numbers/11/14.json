@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 11:14",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Nakoki te, ngai moko, komema ⟨את⟩ bato nyonso oyo, mpo ezali kavesa koleka na ngai.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "nakoki"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "moko"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "komema"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bato nyonso oyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "kavesa"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "koleka na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T17:08:24.964066041Z",
+  "model": "glm-5.3"
+}

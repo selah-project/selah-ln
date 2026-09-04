@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 7:13",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Soki amezongi te, akosalimisa ndembete na ye; akangaki ⟨na⟩ ingungu na ye, mpe abongisaki ⟨yo⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "soki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "amezongi"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "ndembete na ye"
+    },
+    {
+      "surface": "ילטוש",
+      "gloss": "akosalimisa"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "ingungu na ye"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "akangaki ⟨na⟩"
+    },
+    {
+      "surface": "ויכוננה",
+      "gloss": "mpe abongisaki ⟨yo⟩"
+    }
+  ],
+  "timestamp": "2026-09-03T23:33:32.638652734Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "daniel 11:16",
+  "book": "daniel",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpe oyo aloyi epai na ye akosala ndenge alingi, mpe oyo azali atelema liboso na ye azali te; mpe atelema na mabele ya kitoko, mpe bobomi ezali na loboko na ye.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Mpe akosala"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "oyo aloyi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "epai na ye"
+    },
+    {
+      "surface": "כרצונו",
+      "gloss": "ndenge alingi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mpe oyo azali"
+    },
+    {
+      "surface": "עומד",
+      "gloss": "atelema"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "liboso na ye"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "azali te"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "mpe atelema"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "הצבי",
+      "gloss": "ya kitoko"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "mpe bobomi"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "na loboko na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T22:28:42.380112929Z",
+  "model": "glm-5.3"
+}

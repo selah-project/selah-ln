@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 44:32",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 44,
+  "translation": "Mpo mosali na yo atyaki ntolo mpo na ⟨את⟩ mwana uta epai ya tata na ngai, na koloba ete: soki nakoya te na ye epai ya yo, mpe nakosala mabe epai ya tata na ngai mobimba ya mikolo nyonso.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mosali na yo"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "atyaki ntolo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwana"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "uta epai ya"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tata na ngai"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na koloba ete"
+    },
+    {
+      "surface": "אם",
+      "gloss": "soki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "אביאנו",
+      "gloss": "nakoya na ye"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "epai ya yo"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "mpe nakosala mabe"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "epai ya tata na ngai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mobimba ya"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "mikolo nyonso"
+    }
+  ],
+  "timestamp": "2026-09-03T16:10:23.329749165Z",
+  "model": "glm-5.3"
+}

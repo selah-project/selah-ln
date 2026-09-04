@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 19:4",
+  "book": "judges",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Mpe tata-ya-mwasi na ye, tata ya mwana mwasi, akangaki ye, mpe afandaki na ⟨את⟩ ye mikpo misato; mpe baliakaka mpe bamelaka mpe balalaki kuna.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "Mpe akangaki"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "tata-ya-mwasi na ye"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tata"
+    },
+    {
+      "surface": "הנערה",
+      "gloss": "ya mwana mwasi"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "mpe afandaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ na ye",
+      "marks": "ye"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "misato"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mikpo"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "mpe baliakaka"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "mpe bamelaka"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "mpe balalaki"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuna"
+    }
+  ],
+  "timestamp": "2026-09-03T18:06:52.142765987Z",
+  "model": "glm-5.3"
+}

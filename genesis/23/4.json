@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 23:4",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Mondele ya bapaya mpe moboti-banda ngai na kati ya bino; bopesa ngai esika ya bobombi bakufi na kati ya bino, mpe nakufisaka bakufi na ngai liboso ya miso na ngai.",
+  "tokens": [
+    {
+      "surface": "גר",
+      "gloss": "mondele ya bapaya"
+    },
+    {
+      "surface": "ותושב",
+      "gloss": "mpe moboti-banda"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "na kati ya bino"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "bopesa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "esika ya bobombi (ndako-nzela ya bokonzi)"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "bobombi bakufi"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "na kati ya bino"
+    },
+    {
+      "surface": "ואקברה",
+      "gloss": "mpe nakufisaka"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "bakufi na ngai"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "liboso ya miso na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T15:54:48.872116772Z",
+  "model": "glm-5.3"
+}

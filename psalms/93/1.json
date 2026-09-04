@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 93:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 93,
+  "translation": "Yawe azwaki bokonzi, avetaki lokumu; Yawe avetaki nguya, amipesaki nguya. Mokili mpe etangamaki, ekokí kokanga esika te.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "azwaki bokonzi"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "lokumu"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "avetaki"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "avetaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עז",
+      "gloss": "nguya"
+    },
+    {
+      "surface": "התאזר",
+      "gloss": "amipesaki nguya"
+    },
+    {
+      "surface": "אף",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "etangamaki"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "mokili"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ata moke te"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "kokanga esika"
+    }
+  ],
+  "timestamp": "2026-09-03T21:25:09.114016428Z",
+  "model": "glm-5.3"
+}

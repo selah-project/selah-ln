@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 5:18",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Mpe Yared avandaki na bomoi bambula nkama moko, ntuku motoba na mibale, mpe abotaki ⟨את⟩ Hanok.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "mpe avandaki na bomoi"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "Yared"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "mpe ntuku motoba"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ya bambula"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "mpe nkama"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ya bambula"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "mpe abotaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hanok"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Hanok"
+    }
+  ],
+  "timestamp": "2026-09-03T15:46:09.891124144Z",
+  "model": "glm-5.3"
+}

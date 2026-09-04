@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 31:19",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 31,
+  "translation": "Mpe Lavan akendeaki kokata ⟨את⟩ banyama na ye, mpe Rahel atyolaki ⟨את⟩ baterafim oyo ya tata na ye.",
+  "tokens": [
+    {
+      "surface": "ולבן",
+      "gloss": "mpe Lavan"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "kendeaki"
+    },
+    {
+      "surface": "לגזז",
+      "gloss": "kokata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "banyama na ye"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "banyama na ye"
+    },
+    {
+      "surface": "ותגנב",
+      "gloss": "mpe atyolaki"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rahel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baterafim"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "baterafim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לאביה",
+      "gloss": "ya tata na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T16:01:51.961266569Z",
+  "model": "glm-5.3"
+}

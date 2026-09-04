@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 6:20",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Soki mwana na yo akotuna yo lobi, na koloba: Nini nde bandimo oyo, mpe milulu, mpe bikombo, oyo Yawe Elohim na biso akekaki ⟨את⟩ na bino?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Soki"
+    },
+    {
+      "surface": "יִשְׁאָלְךָ",
+      "gloss": "akotuna yo"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "mwana na yo"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "lobi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na koloba"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Nini"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "bandimo oyo"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "mpe milulu"
+    },
+    {
+      "surface": "והמשפטים",
+      "gloss": "mpe bikombo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "akekaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim na biso"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ na bino",
+      "marks": "bino"
+    }
+  ],
+  "timestamp": "2026-09-03T17:25:07.830035199Z",
+  "model": "glm-5.3"
+}

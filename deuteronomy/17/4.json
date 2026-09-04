@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 17:4",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 17,
+  "translation": "mpe bayebisi yo, mpe oyokaki, mpe olingolaki malamu, mpe talá: bosembo ⟨ezali⟩, liloba etandami — eloko mabe ya kokamwisa oyo esalemaki na Israel",
+  "tokens": [
+    {
+      "surface": "והגד",
+      "gloss": "mpe bayebisi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yo"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "mpe oyokaki"
+    },
+    {
+      "surface": "ודרשת",
+      "gloss": "mpe olingolaki"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "malamu"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mpe talá"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "bosembo"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "etandami"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "liloba"
+    },
+    {
+      "surface": "נעשתה",
+      "gloss": "esalemaki"
+    },
+    {
+      "surface": "התועבה",
+      "gloss": "eloko mabe ya kokamwisa"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "na Israel"
+    }
+  ],
+  "timestamp": "2026-09-03T23:19:05.565453783Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 29:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 29,
+  "translation": "Mongongo ya Yawe ekangwisaka etando; Yawe ekangwisaka etando ya Kadesh.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "mongongo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "ekangwisaka"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "etando"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "ekangwisaka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "etando"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ya Kadesh"
+    }
+  ],
+  "timestamp": "2026-09-03T21:06:12.392924193Z",
+  "model": "glm-5.3"
+}

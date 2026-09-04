@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 119:44",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Mpe nakokanga Tora na yo tango nyonso, na seko mpe tii seko.",
+  "tokens": [
+    {
+      "surface": "ואשמרה",
+      "gloss": "mpe nakokanga"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Tora na yo"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "tango nyonso"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na seko"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "mpe tii seko"
+    }
+  ],
+  "timestamp": "2026-09-03T21:30:43.042521248Z",
+  "model": "glm-5.3"
+}

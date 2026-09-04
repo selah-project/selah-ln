@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 33:2",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 33,
+  "translation": "Yawe, yanzela biso; biso tozelaki yo: zala loboko na tongo nyonso, mpe lobiko na biso na ntango ya etumbu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "yanzela biso"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yo"
+    },
+    {
+      "surface": "קוינו",
+      "gloss": "tozelaki"
+    },
+    {
+      "surface": "היה",
+      "gloss": "zala"
+    },
+    {
+      "surface": "זרעם",
+      "gloss": "loboko"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "na tongo nyonso"
+    },
+    {
+      "surface": "אף",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "lobiko na biso"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "na ntango"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "etumbu"
+    }
+  ],
+  "timestamp": "2026-09-03T19:26:17.167015142Z",
+  "model": "glm-5.3"
+}

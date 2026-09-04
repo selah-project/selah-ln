@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 23:25",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Tata na yo asepela, mpe mama na yo, mpe oyo abotaki yo ajoli.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "asepela"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tata na yo"
+    },
+    {
+      "surface": "ואמך",
+      "gloss": "mpe mama na yo"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "mpe ajoli"
+    },
+    {
+      "surface": "יולדתך",
+      "gloss": "oyo abotaki yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:46:17.814877526Z",
+  "model": "glm-5.3"
+}

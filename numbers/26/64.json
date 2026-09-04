@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "numbers 26:64",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "Mpe kati kati ya bango oyo, moto moko te azalaki kati ya batangami na Moshe mpe Aharon, kohen, oyo batangaki ⟨את⟩ bana ya Israel na mobengo ya Sinay.",
+  "tokens": [
+    {
+      "surface": "ובאלה",
+      "gloss": "mpe kati kati ya bango oyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "היה",
+      "gloss": "azalaki"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto moko"
+    },
+    {
+      "surface": "מפקודי",
+      "gloss": "kati ya batangami na"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "mpe Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "פקדו",
+      "gloss": "batangaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bana"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "na mobengo ya"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinay"
+    }
+  ],
+  "timestamp": "2026-09-03T17:17:06.760565874Z",
+  "model": "glm-5.3"
+}

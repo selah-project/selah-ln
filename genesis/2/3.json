@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 2:3",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe Elohim ambolaki ⟨את⟩ mokolo ya nsambo, mpe asantuaki ⟨את⟩ ⟨yo⟩; mpo na yango asalaki Shabat na mosala na yango nyonso, oyo Elohim akelaki mpo na kosala.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "Mpe ambolaki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mokolo ya nsambo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mokolo"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ya nsambo"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "mpe asantuaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨yo⟩",
+      "marks": "mokolo ya nsambo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "asalaki Shabat"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "na nyonso"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "ya mosala na yango"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "akelaki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "mpo na kosala"
+    }
+  ],
+  "timestamp": "2026-09-03T15:45:47.458673551Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 94:19",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 94,
+  "translation": "Na bonene ya makanisi na ngai oyo ezali na kati ya ngai, bosuliseli na yo esepelisaka molimo na ngai.",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "na bonene ya"
+    },
+    {
+      "surface": "שרעפי",
+      "gloss": "makanisi na ngai"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "na kati ya ngai"
+    },
+    {
+      "surface": "תנחומיך",
+      "gloss": "bosuliseli na yo"
+    },
+    {
+      "surface": "ישעשעו",
+      "gloss": "esepelisaka"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "molimo na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:24:16.043871055Z",
+  "model": "glm-5.3"
+}

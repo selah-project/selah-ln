@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 40:5",
+  "book": "job",
+  "lang": "ln",
+  "chapter": 40,
+  "translation": "Mbala moko nayobaki, mpe nakoyanama te; mbala mibale, mpe nakobakisa te.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "mbala moko"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "nayobaki"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe ... te"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "nakoyanama"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "mbala mibale"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe ... te"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "nakobakisa"
+    }
+  ],
+  "timestamp": "2026-09-03T22:03:26.253027558Z",
+  "model": "glm-5.3"
+}

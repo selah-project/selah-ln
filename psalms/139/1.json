@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 139:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 139,
+  "translation": "Ya Mikelembe. Mizamo ya David. Yawe, oninganaki ngai mpe oyaki ngai.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Ya Mikelembe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizamo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "חקרתני",
+      "gloss": "oninganaki ngai"
+    },
+    {
+      "surface": "ותדע",
+      "gloss": "mpe oyaki ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:34:46.478576233Z",
+  "model": "glm-5.3"
+}

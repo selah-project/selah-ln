@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 3:5",
+  "book": "amos",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Ndeke ekweyi na mboku ya mabele, soki mokesi ezali te na yango? Mboku ekotaka wuta mabele, soki ekangaki eloko te?",
+  "tokens": [
+    {
+      "surface": "התפל",
+      "gloss": "ekweyi"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "ndeke"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "פח",
+      "gloss": "mboku"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "ומוקש",
+      "gloss": "mpe mokesi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ezali te"
+    },
+    {
+      "surface": "לה",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "היעלה",
+      "gloss": "ekotaka"
+    },
+    {
+      "surface": "פח",
+      "gloss": "mboku"
+    },
+    {
+      "surface": "מן",
+      "gloss": "wuta"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "ולכוד",
+      "gloss": "mpe kokanga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ילכוד",
+      "gloss": "ekangaki"
+    }
+  ],
+  "timestamp": "2026-09-03T20:42:27.857727225Z",
+  "model": "glm-5.3"
+}

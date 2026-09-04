@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 2:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Tobukaka ⟨את⟩ bakangami na bango, mpe totikelaka kowuta epai na ye bakanda na bango.",
+  "tokens": [
+    {
+      "surface": "ננתקה",
+      "gloss": "Tobukaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bakangami na bango"
+    },
+    {
+      "surface": "מוסרותימו",
+      "gloss": "bakangami na bango"
+    },
+    {
+      "surface": "ונשליכה",
+      "gloss": "mpe totikelaka"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kowuta epai na ye"
+    },
+    {
+      "surface": "עבתימו",
+      "gloss": "bakanda na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:00:12.766161577Z",
+  "model": "glm-5.3"
+}

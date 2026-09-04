@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 31:3",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 31,
+  "translation": "mpe nameme ⟨את⟩ ye elimo ya Elohim, na bwanya, mpe na bozwi-ntina, mpe na boyebi, mpe na misala nyonso;",
+  "tokens": [
+    {
+      "surface": "ואמלא",
+      "gloss": "mpe nameme"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ye",
+      "marks": "ye (elimo ya Elohim)"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "elimo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "na bwanya"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "mpe na bozwi-ntina"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "mpe na boyebi"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "mpe na nyonso"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "misala"
+    }
+  ],
+  "timestamp": "2026-09-03T16:29:50.719931547Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 2:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpo na nini bikolo bibanganaki, mpe mabota makanisaki likuya?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Mpo na nini"
+    },
+    {
+      "surface": "רגשו",
+      "gloss": "bibanganaki"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bikolo"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "mpe mabota"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "makanisaki"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "likuya"
+    }
+  ],
+  "timestamp": "2026-09-03T21:00:12.765825822Z",
+  "model": "glm-5.3"
+}

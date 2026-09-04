@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 26:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "Na David. Tala mpo na ngai, Yawe, mpamba te nazali kotambola na bosembo na ngai, mpe na Yawe natiaki motema, nakokweka ⟨te⟩.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Na David"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "Tala mpo na ngai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpamba te"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "na bosembo na ngai"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "nazali kotambola"
+    },
+    {
+      "surface": "וביהוה",
+      "gloss": "mpe na Yawe"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "natiaki motema"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨te⟩"
+    },
+    {
+      "surface": "אמעד",
+      "gloss": "nakokweka"
+    }
+  ],
+  "timestamp": "2026-09-03T21:06:50.823504827Z",
+  "model": "glm-5.3"
+}

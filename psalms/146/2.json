@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 146:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 146,
+  "translation": "Nakolaka Yawe lokumu na bomoi na ngai; nakozembela Elohim na ngai ntango nazali kaka na bomoi.",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "nakolaka lokumu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "na bomoi na ngai"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "nakozembela"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "na Elohim na ngai"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "ntango nazali kaka na bomoi"
+    }
+  ],
+  "timestamp": "2026-09-04T00:22:31.640728378Z",
+  "model": "glm-5.3"
+}

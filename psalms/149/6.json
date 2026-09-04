@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 149:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 149,
+  "translation": "Bokumisi ya El ezali na mikwangya na bango, mpe epé ya mbala mibale na maboku na bango.",
+  "tokens": [
+    {
+      "surface": "רוממות",
+      "gloss": "bokumisi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "na mikwangya na bango"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "mpe epé"
+    },
+    {
+      "surface": "פיפיות",
+      "gloss": "ya mbala mibale"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "na maboku na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:36:07.957340809Z",
+  "model": "glm-5.3"
+}

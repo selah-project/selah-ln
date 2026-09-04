@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 28:21",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 28,
+  "translation": "Mpo Ahaz akatakaki biteni na ⟨את⟩ ndako ya Yawe mpe ⟨את⟩ ndako ya mokonzi mpe baminsitrɛ, mpe apesaki na mokonzi wa Ashur, kasi ebongisaki ye te.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "akatakaki biteni na"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndako"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yawe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "ndako"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya mokonzi"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "mpe baminsitrɛ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "apesaki"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "na mokonzi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "wa Ashur"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kasi ... te"
+    },
+    {
+      "surface": "לעזרה",
+      "gloss": "ebongisaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ye"
+    }
+  ],
+  "timestamp": "2026-09-03T23:04:30.677106834Z",
+  "model": "glm-5.3"
+}

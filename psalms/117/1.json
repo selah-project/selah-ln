@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 117:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 117,
+  "translation": "Bokumisa ⟨את⟩ Yawe, bikolo nyonso; bosanjola yango, bato nyonso.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Bokumisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bikolo"
+    },
+    {
+      "surface": "שבחוהו",
+      "gloss": "bosanjola yango"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "האמים",
+      "gloss": "bato"
+    }
+  ],
+  "timestamp": "2026-09-03T21:29:59.748930588Z",
+  "model": "glm-5.3"
+}

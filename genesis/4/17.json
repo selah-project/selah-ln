@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 4:17",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Kain ayebaki ⟨את⟩ mwasi na yango, mpe atondaki mpe abotaki ⟨את⟩ Hanok; mpe ⟨iye⟩ azalaki kotonga mboka, mpe abengaki kombo ya mboka selon kombo ya mobali na yango, Hanok.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "ayebaki"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kain"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwasi na yango"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mwasi na yango"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "mpe atondaki"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "mpe abotaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hanok"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Hanok"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mpe ⟨azalaki⟩"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "kotonga"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "mboka"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "mpe abengaki"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kombo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ya mboka"
+    },
+    {
+      "surface": "כשם",
+      "gloss": "selon kombo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ya mobali na yango"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Hanok"
+    }
+  ],
+  "timestamp": "2026-09-03T15:45:28.064645936Z",
+  "model": "glm-5.3"
+}

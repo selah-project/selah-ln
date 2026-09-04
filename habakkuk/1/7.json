@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "habakkuk 1:7",
+  "book": "habakkuk",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Ya bobangi mpe ya kokamwisa ⟨ezali⟩; na yango moko botiami na yango mpe likolu na yango ebimaka.",
+  "tokens": [
+    {
+      "surface": "אים",
+      "gloss": "Ya bobangi"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "mpe ya kokamwisa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ezali"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "na yango moko"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "botiami na yango"
+    },
+    {
+      "surface": "ושאתו",
+      "gloss": "mpe likolu na yango"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ebimaka"
+    }
+  ],
+  "timestamp": "2026-09-03T20:51:39.327821407Z",
+  "model": "glm-5.3"
+}

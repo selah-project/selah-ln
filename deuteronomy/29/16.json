@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 29:16",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 29,
+  "translation": "Mpe bomonaki ⟨את⟩ masumu na bango mpe ⟨את⟩ bikeko na bango, nzete mpe libanga, fintolo mpe wolongo, oyo ezali na bango.",
+  "tokens": [
+    {
+      "surface": "ותראו",
+      "gloss": "bomonaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masumu na bango"
+    },
+    {
+      "surface": "שקוציהם",
+      "gloss": "masumu na bango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bikeko na bango"
+    },
+    {
+      "surface": "גלליהם",
+      "gloss": "bikeko na bango"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "nzete"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "mpe libanga"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "fintolo"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "mpe wolongo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T17:38:08.152342750Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 4:3",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe malamu kuluto bango mibale ⟨את⟩ oyo kino sikoyo te azalaki, oyo te amonaki ⟨את⟩ mosala mabe oyo esalamaki na nse ya moi.",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "mpe malamu"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "kuluto bango mibale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oyo (oyo kino sikoyo te azalaki)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "kino sikoyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "היה",
+      "gloss": "azalaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "amonaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mosala mabe"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "mosala"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "esalamaki"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "na nse ya"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "moi"
+    }
+  ],
+  "timestamp": "2026-09-03T22:13:57.769493604Z",
+  "model": "glm-5.3"
+}

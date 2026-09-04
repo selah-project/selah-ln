@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 146:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 146,
+  "translation": "Botiya bondimi te na bakonzi, mpe na mwana ya moto, oyo azali na ye bobikisi te.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "botiya bondimi"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "na bakonzi"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "na mwana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ya moto"
+    },
+    {
+      "surface": "שאין",
+      "gloss": "oyo azali na"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "bobikisi te"
+    }
+  ],
+  "timestamp": "2026-09-04T00:22:38.040458084Z",
+  "model": "glm-5.3"
+}

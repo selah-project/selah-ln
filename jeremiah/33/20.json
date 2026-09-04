@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 33:20",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 33,
+  "translation": "Boye alobaki Yawe: soki bokomi bokati ⟨את⟩ bokati na ngai ya mokolo, mpe ⟨את⟩ bokati na ngai ya butu, mpo ete te kozala mokolo mpe butu na ntango na yango.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Boye"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "soki"
+    },
+    {
+      "surface": "תפרו",
+      "gloss": "bokomi bokati"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bokati na ngai ya mokolo"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "bokati na ngai"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ya mokolo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bokati na ngai ya butu"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "bokati na ngai"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ya butu"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "mpo ete te"
+    },
+    {
+      "surface": "היות",
+      "gloss": "kozala"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "mokolo"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "mpe butu"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "na ntango na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T19:58:10.387800048Z",
+  "model": "glm-5.3"
+}

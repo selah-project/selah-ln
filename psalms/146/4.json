@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 146:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 146,
+  "translation": "Mopepe na ye eutaki, azongaki na mabele na ye; na mokolo yango makanisi na ye ebungaki.",
+  "tokens": [
+    {
+      "surface": "תצא",
+      "gloss": "eutaki"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "Mopepe na ye"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "azongaki"
+    },
+    {
+      "surface": "לאדמתו",
+      "gloss": "na mabele na ye"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na mokolo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yango"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "ebungaki"
+    },
+    {
+      "surface": "עשתנתיו",
+      "gloss": "makanisi na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:36:37.966464724Z",
+  "model": "glm-5.3"
+}

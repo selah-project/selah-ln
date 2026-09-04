@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 147:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 147,
+  "translation": "Atangaka motango ya minzete, alobaka bankombo na bango nyonso.",
+  "tokens": [
+    {
+      "surface": "מונה",
+      "gloss": "Atangaka"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "motango"
+    },
+    {
+      "surface": "לכוכבים",
+      "gloss": "ya minzete"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "na bango nyonso"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "bankombo"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "alobaka"
+    }
+  ],
+  "timestamp": "2026-09-03T21:36:36.269285776Z",
+  "model": "glm-5.3"
+}

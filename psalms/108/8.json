@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 108:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 108,
+  "translation": "Elohim alobaki na bosantu na ye: nakosekana, nakabola Shekema, mpe elibela ya Sukota nakomeka.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "na bosantu na ye"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "nakosekana"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "nakabola"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Shekema"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "mpe elibela ya"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukota"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "nakomeka"
+    }
+  ],
+  "timestamp": "2026-09-03T21:29:21.871741296Z",
+  "model": "glm-5.3"
+}

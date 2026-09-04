@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 16:2",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Mpo na ete nakolaki yo na mopepe, mpe natiaki yo mokonzi likolo ya bato na ngai Israel, kasi otambolaki na nzela ya Yaroveam, mpe omisaki mabe ⟨את⟩ bato na ngai Israel, mpo na komengisa ngai na masuba na bango,",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "Mpo na ete"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nete"
+    },
+    {
+      "surface": "הרימתיך",
+      "gloss": "nakolaki yo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "na"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "mopepe"
+    },
+    {
+      "surface": "ואתנך",
+      "gloss": "mpe natiaki yo"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "bato na ngai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "kasi otambolaki"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "na nzela ya"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yaroveam"
+    },
+    {
+      "surface": "ותחטא",
+      "gloss": "mpe omisaki mabe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bato na ngai Israel"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "bato na ngai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "להכעיסני",
+      "gloss": "mpo na komengisa ngai"
+    },
+    {
+      "surface": "בחטאתם",
+      "gloss": "na masuba na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T18:53:30.368689179Z",
+  "model": "glm-5.3"
+}

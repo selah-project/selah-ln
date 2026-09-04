@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 5:25",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Mpe ⟨את⟩ ashamu na ye akoyisa epai ya Yawe — ayil ya malamu uta banyama, na motuya na yo, lokola asham, epai ya kohen.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "ashamu na ye"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "ashamu na ye"
+    },
+    {
+      "surface": "יביא",
+      "gloss": "akoyisa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "epai ya Yawe"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ayil"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ya malamu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uta"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "banyama"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "na motuya na yo"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "lokola asham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    }
+  ],
+  "timestamp": "2026-09-03T16:40:11.613700901Z",
+  "model": "glm-5.3"
+}

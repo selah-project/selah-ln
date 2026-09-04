@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 143:12",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 143,
+  "translation": "Mpe na hesed na yo sakolaka banguna na ngai, mpe bisusaka bampinga nyonso ya molimo na ngai; mpo ngai nazali mosali na yo.",
+  "tokens": [
+    {
+      "surface": "ובחסדך",
+      "gloss": "Mpe na hesed na yo"
+    },
+    {
+      "surface": "תצמית",
+      "gloss": "sakolaka"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "banguna na ngai"
+    },
+    {
+      "surface": "והאבדת",
+      "gloss": "mpe bisusaka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "bampinga"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ya molimo na ngai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "nazali mosali na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T23:35:53.478367436Z",
+  "model": "glm-5.3"
+}

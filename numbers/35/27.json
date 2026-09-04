@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 35:27",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 35,
+  "translation": "mpe moeliami ya makila amonaki ⟨את⟩ ye libanda ya ndelo ya mboka ya bobombi na ye, mpe moeliami ya makila abomaki ⟨את⟩ mobomi; makila ezali te na ye.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "mpe amonaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ye",
+      "marks": "ye"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "moeliami"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ya makila"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "libanda"
+    },
+    {
+      "surface": "לגבול",
+      "gloss": "ya ndelo"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ya mboka"
+    },
+    {
+      "surface": "מקלטו",
+      "gloss": "ya bobombi na ye"
+    },
+    {
+      "surface": "ורצח",
+      "gloss": "mpe abomaki"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "moeliami"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ya makila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mobomi"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "mobomi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ezali te"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "דם",
+      "gloss": "makila"
+    }
+  ],
+  "timestamp": "2026-09-03T17:22:01.495649268Z",
+  "model": "glm-5.3"
+}

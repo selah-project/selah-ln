@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 90:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 90,
+  "translation": "Liboso bangomba ebotaki, mpe ya kobota mabele mpe mokili, mpe uta na libela kino na libela, yo ozali El.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "Liboso"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "bangomba"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "ebotaki"
+    },
+    {
+      "surface": "ותחולל",
+      "gloss": "mpe ya kobota"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "mpe mokili"
+    },
+    {
+      "surface": "ומעולם",
+      "gloss": "mpe uta na libela"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino na"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "libela"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-03T21:24:29.001242726Z",
+  "model": "glm-5.3"
+}

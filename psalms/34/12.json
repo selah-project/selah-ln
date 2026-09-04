@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 34:12",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 34,
+  "translation": "Boyei, bana, boyoka ngai; bobangi ya Yawe nakolakisa bino.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Boyei"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bana"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "boyoka"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "bobangi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלמדכם",
+      "gloss": "nakolakisa bino"
+    }
+  ],
+  "timestamp": "2026-09-03T21:08:08.821789191Z",
+  "model": "glm-5.3"
+}

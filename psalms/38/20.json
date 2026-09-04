@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 38:20",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 38,
+  "translation": "Mpe banguna na ngai bazali na bomoi, bazali na makasi; mpe baoyo bazali koboya ngai na lokuta bakekaki.",
+  "tokens": [
+    {
+      "surface": "ואיבי",
+      "gloss": "Mpe banguna na ngai"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "bazali na bomoi"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "bazali na makasi"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "mpe bakekaki"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "baoyo bazali koboya"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "na lokuta"
+    }
+  ],
+  "timestamp": "2026-09-03T21:09:51.182132136Z",
+  "model": "glm-5.3"
+}

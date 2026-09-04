@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 119:42",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Mpe nakoyanola liloba epai ya oyo azali konyokola ngai, mpo nakanga motema na liloba na yo.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "mpe nakoyanola"
+    },
+    {
+      "surface": "חרפי",
+      "gloss": "oyo azali konyokola ngai"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "liloba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "nakanga motema"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "na liloba na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:30:43.042224468Z",
+  "model": "glm-5.3"
+}

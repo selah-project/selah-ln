@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 12:1",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Mpe esalaki ntango bokonzi ya Rehavam etombwamaki, mpe ntango ye akangamaki, abandaki ⟨את⟩ Tora ya Yawe, mpe Israel nyonso elongo na ye.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mpe esalaki"
+    },
+    {
+      "surface": "כהכין",
+      "gloss": "ntango ... etombwamaki"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "bokonzi"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehavam"
+    },
+    {
+      "surface": "וכחזקתו",
+      "gloss": "mpe ntango ye akangamaki"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "abandaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tora"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Tora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe ... nyonso"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "elongo na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T22:58:24.686283227Z",
+  "model": "glm-5.3"
+}

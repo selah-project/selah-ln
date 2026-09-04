@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 44:19",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 44,
+  "translation": "Nkolo na biso atunaki ⟨את⟩ mo wumbu na yango na koloba: Bozali na tata to ndeko?",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Nkolo na biso"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "atunaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mo wumbu na yango"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "mo wumbu na yango"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na koloba"
+    },
+    {
+      "surface": "היש",
+      "gloss": "Bozali na"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "bino"
+    },
+    {
+      "surface": "אב",
+      "gloss": "tata"
+    },
+    {
+      "surface": "או",
+      "gloss": "to"
+    },
+    {
+      "surface": "אח",
+      "gloss": "ndeko"
+    }
+  ],
+  "timestamp": "2026-09-03T16:09:42.451146707Z",
+  "model": "glm-5.3"
+}

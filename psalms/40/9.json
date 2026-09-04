@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 40:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 40,
+  "translation": "Lokola kosala mokemoke na yo, Elohim ya ngai, nasembwaki, mpe Tora na yo ezali na kati ya mawa na ngai.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "lokokla kosala"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "mokemoke na yo"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ya ngai"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "nasembwaki"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "mpe Tora na yo"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "na kati ya"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "mawa na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:10:06.853202177Z",
+  "model": "glm-5.3"
+}

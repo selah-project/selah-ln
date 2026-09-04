@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Mpo lilala eyi na bonene ya misala, mpe lolimu ya mofoolo na bonene ya maloba.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "בא",
+      "gloss": "eyi"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "lilala"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "na bonene ya"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "misala"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "mpe lolimu"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ya mofoolo"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "na bonene ya"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "maloba"
+    }
+  ],
+  "timestamp": "2026-09-03T22:13:55.510224026Z",
+  "model": "glm-5.3"
+}

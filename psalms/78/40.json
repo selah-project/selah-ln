@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 78:40",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 78,
+  "translation": "Mbala nini bakanganaki na ye na etando, basalaki ye mawa na etando ya moke!",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "mbala nini"
+    },
+    {
+      "surface": "ימרוהו",
+      "gloss": "bakanganaki na ye"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "na etando"
+    },
+    {
+      "surface": "יעציבוהו",
+      "gloss": "basalaki ye mawa"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "na etando ya moke"
+    }
+  ],
+  "timestamp": "2026-09-03T21:20:01.630933535Z",
+  "model": "glm-5.3"
+}

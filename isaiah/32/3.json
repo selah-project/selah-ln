@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 32:3",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 32,
+  "translation": "Mpe miso ya bamonisi ekofa te, mpe matoyi ya bayoki malo botala.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תשעינה",
+      "gloss": "ekofa te"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "miso"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "ya bamonisi"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "mpe matoyi"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "ya bayoki"
+    },
+    {
+      "surface": "תקשבנה",
+      "gloss": "malo botala"
+    }
+  ],
+  "timestamp": "2026-09-03T19:24:21.186403307Z",
+  "model": "glm-5.3"
+}

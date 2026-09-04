@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "daniel 12:13",
+  "book": "daniel",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Kasi yo, zela tii nsuka; mpe okozala na boboi, mpe okotombama na loterie na yo, na nsuka ya mikolo.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "mpe yo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "zela tii"
+    },
+    {
+      "surface": "לקץ",
+      "gloss": "nsuka"
+    },
+    {
+      "surface": "ותנוח",
+      "gloss": "mpe okozala na boboi"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "mpe okotombama"
+    },
+    {
+      "surface": "לגרלך",
+      "gloss": "na loterie na yo"
+    },
+    {
+      "surface": "לקץ",
+      "gloss": "na nsuka"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "ya mikolo"
+    }
+  ],
+  "timestamp": "2026-09-03T22:27:24.840844572Z",
+  "model": "glm-5.3"
+}

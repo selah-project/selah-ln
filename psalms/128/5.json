@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 128:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 128,
+  "translation": "Yawe abkolisa yo() na() Tsion, mpe() omone bolamu bwa() Yerushalaim, mikolo mionso ya bomoi nawa yo().",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "abkolisa yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "na Tsion"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "mpe omone"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "bolamu bwa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mionso"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mikolo"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "ya bomoi nawa yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:32:51.475064268Z",
+  "model": "glm-5.3"
+}

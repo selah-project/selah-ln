@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 119:20",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Molimo na ngai ekotukaka na mposa epai ya bipameli na yo, na tango nyonso.",
+  "tokens": [
+    {
+      "surface": "גרסה",
+      "gloss": "ekotukaka"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "molimo na ngai"
+    },
+    {
+      "surface": "לתאבה",
+      "gloss": "na mposa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "bipameli na yo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na"
+    },
+    {
+      "surface": "עת",
+      "gloss": "tango nyonso"
+    }
+  ],
+  "timestamp": "2026-09-03T21:30:56.350492327Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 4:16",
+  "book": "ruth",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe Naomi azwaki ⟨את⟩ mwana, mpe atandisaki ye na elongo na ye, mpe abongwanaki na ye mama ya boboti.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "azwaki"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Naomi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwana"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "ותשתהו",
+      "gloss": "atandisaki ye"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "na elongo na ye"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "abongwanaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "לאמנת",
+      "gloss": "mama ya boboti"
+    }
+  ],
+  "timestamp": "2026-09-03T22:08:35.014736140Z",
+  "model": "glm-5.3"
+}

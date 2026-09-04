@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 4:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Na kimya, elongo mibale, nakokita mpe nakolala; mpo yo, Yawe, yango moko, na libateli otyaka ngai.",
+  "tokens": [
+    {
+      "surface": "בשלום",
+      "gloss": "Na kimya"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "elongo mibale"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "nakokita"
+    },
+    {
+      "surface": "ואישן",
+      "gloss": "mpe nakolala"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לבדד",
+      "gloss": "yango moko"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "na libateli"
+    },
+    {
+      "surface": "תושיבני",
+      "gloss": "otyaka ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T20:58:56.590348604Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 21:3",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Mpe Yawe ayoki mongongo ya Israel, mpe apesaki ⟨את⟩ Mokanani; mpe balimwisaki ⟨את⟩ bango mpe ⟨את⟩ mboka na bango; mpe babengaki nkombo ya esika yango Kharma.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "mpe ayoki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "mongongo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "mpe apesaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mokanani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Mokanani"
+    },
+    {
+      "surface": "ויחרם",
+      "gloss": "mpe balimwisaki"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩ bango",
+      "marks": "bango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mboka na bango"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "mboka na bango"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "mpe babengaki"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nkombo"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "esika"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "Kharma"
+    }
+  ],
+  "timestamp": "2026-09-03T17:12:19.023601816Z",
+  "model": "glm-5.3"
+}

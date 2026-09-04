@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 5:25",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Mpe Metushelah abimaki mbula nsambo na nkama mwambe na motoba, mpe abotaki ⟨את⟩ Lemek.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "abimaki"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "Metushelah"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "nsambo"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "na nkama mwambe na motoba"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mbula"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "mpe nkama moko"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mbula"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "mpe abotaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lemek"
+    },
+    {
+      "surface": "למך",
+      "gloss": "Lemek"
+    }
+  ],
+  "timestamp": "2026-09-03T15:46:02.544965191Z",
+  "model": "glm-5.3"
+}

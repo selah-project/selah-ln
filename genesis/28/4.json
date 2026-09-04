@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 28:4",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 28,
+  "translation": "Mpe apesa yo ⟨את⟩ bobondisi ya Avraham, yo mpe mbota na yo ⟨את⟩ elongo na yo, mpo oende kozwa ⟨את⟩ mabele ya bopaya na yo, oyo Elohim apesaki na Avraham.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "mpe apesa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bobondisi"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "bobondisi ya"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yo"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "mpe na mbota na yo"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ elongo na yo"
+    },
+    {
+      "surface": "לרשתך",
+      "gloss": "mpo oende kozwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabele"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "מגריך",
+      "gloss": "ya bopaya na yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "apesaki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "na Avraham"
+    }
+  ],
+  "timestamp": "2026-09-03T16:00:09.988302547Z",
+  "model": "glm-5.3"
+}

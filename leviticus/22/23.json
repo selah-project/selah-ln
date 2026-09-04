@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 22:23",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Mpe ngombe to tofu, molayi to moke, ofela ya mokano okoki kosala ⟨את⟩ yango, kasi mpo na elaka esengami te.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "Mpe ngombe"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "to tofu"
+    },
+    {
+      "surface": "שרוע",
+      "gloss": "molayi"
+    },
+    {
+      "surface": "וקלוט",
+      "gloss": "moke"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "ofela ya mokano"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "osala"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yango",
+      "marks": "yango (elanga oyo ekangami)"
+    },
+    {
+      "surface": "ולנדר",
+      "gloss": "kasi mpo na elaka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "esengami"
+    }
+  ],
+  "timestamp": "2026-09-03T16:52:53.806977668Z",
+  "model": "glm-5.3"
+}

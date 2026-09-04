@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 106:12",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 106,
+  "translation": "Mpe bandimaki na maloba na ye, bayembaki nzembo ya lokumu na ye.",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "Mpe bandimaki"
+    },
+    {
+      "surface": "בדבריו",
+      "gloss": "na maloba na ye"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "bayembaki"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "nzembo ya lokumu na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:27:49.159367075Z",
+  "model": "glm-5.3"
+}

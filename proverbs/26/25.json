@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 26:25",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "Soki akangaka liloba na ye na ngolu, kondimela ye te, mpo sambo matuki ezali na motema na ye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Soki"
+    },
+    {
+      "surface": "יחנן",
+      "gloss": "akangaka na ngolu"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "liloba na ye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תאמן",
+      "gloss": "kondimela"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sambo"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "matuki"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "na motema na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:47:35.596149577Z",
+  "model": "glm-5.3"
+}

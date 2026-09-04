@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 24:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "Mpo ete ye asalisaki yango likolo ya mamai, mpe atandisaki yango likolo ya banzela ya mai.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo ete"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ye"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mamai"
+    },
+    {
+      "surface": "יסדה",
+      "gloss": "asalisaki yango"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "mpe likolo ya"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "banzela ya mai"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "atandisaki yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:06:25.506285929Z",
+  "model": "glm-5.3"
+}

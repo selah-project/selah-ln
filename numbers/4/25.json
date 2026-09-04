@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 4:25",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe bamema ⟨את⟩ bilamba ya ndako, mpe ⟨את⟩ tanda ya bokutani, likangisi na yango mpe likangisi ya tachash oyo ezali likolo na yango, mpe ⟨את⟩ lilamba ya monoko ya tanda ya bokutani.",
+  "tokens": [
+    {
+      "surface": "ונשאו",
+      "gloss": "mpe bamema"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bilamba"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "bilamba"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "tanda"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tanda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya bokutani"
+    },
+    {
+      "surface": "מכסהו",
+      "gloss": "likangisi na yango"
+    },
+    {
+      "surface": "ומכסה",
+      "gloss": "mpe likangisi"
+    },
+    {
+      "surface": "התחש",
+      "gloss": "ya tachash"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "likolo na yango"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "likolo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "lilamba"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "lilamba"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ya monoko"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tanda"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya bokutani"
+    }
+  ],
+  "timestamp": "2026-09-03T17:01:09.619861028Z",
+  "model": "glm-5.3"
+}

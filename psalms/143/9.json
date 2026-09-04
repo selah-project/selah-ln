@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 143:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 143,
+  "translation": "Bomisa ngai uta epai ya banguna na ngai, Yawe; epai na yo nabombi ngai.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "Bomisa ngai"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "uta epai ya banguna na ngai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "epai na yo"
+    },
+    {
+      "surface": "כסתי",
+      "gloss": "nabombi ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T23:35:40.711901733Z",
+  "model": "glm-5.3"
+}

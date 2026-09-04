@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 8:4",
+  "book": "song-of-songs",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Nasembi ⟨את⟩ bino, bana basi ya Yerushalaim: bokebisaka te bolingo mpe bozalisaka te ⟨את⟩ bolingo, kino elingi.",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "Nasembi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ bino",
+      "marks": "bana basi ya Yerushalaim"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "bana basi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ya Yerushalaim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "te"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "bokebisaka"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "mpe ... te"
+    },
+    {
+      "surface": "תעררו",
+      "gloss": "bozalisaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bolingo"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "bolingo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "elingi"
+    }
+  ],
+  "timestamp": "2026-09-04T00:22:43.850428067Z",
+  "model": "glm-5.3"
+}

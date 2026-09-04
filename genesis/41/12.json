@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 41:12",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 41,
+  "translation": "Mpe kuna ⟨את⟩ elongo na biso moto moko moke, Moeberu, mosali ya sar ya babomi; mpe tolobaki ye, mpe abimbolaki biso ⟨את⟩ ndoto na biso — moto na moto, soki na ndoto na ye, abimbolaki.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "Mpe kuna"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ elongo na biso",
+      "marks": "moto moko moke"
+    },
+    {
+      "surface": "נער",
+      "gloss": "moto moko moke"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "Moeberu"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "mosali"
+    },
+    {
+      "surface": "לשר",
+      "gloss": "ya sar"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "ya babomi"
+    },
+    {
+      "surface": "ונספר",
+      "gloss": "mpe tolobaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "ויפתר",
+      "gloss": "mpe abimbolaki"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "biso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndoto na biso"
+    },
+    {
+      "surface": "חלמתינו",
+      "gloss": "ndoto na biso"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto na moto"
+    },
+    {
+      "surface": "כחלמו",
+      "gloss": "soki na ndoto na ye"
+    },
+    {
+      "surface": "פתר",
+      "gloss": "abimbolaki"
+    }
+  ],
+  "timestamp": "2026-09-03T16:06:46.284798980Z",
+  "model": "glm-5.3"
+}

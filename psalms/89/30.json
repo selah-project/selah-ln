@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 89:30",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 89,
+  "translation": "Mpe nakokoma mbota na yango kino ntango ya libela, mpe kiti na yango ya bokonzi lokola mokolo ya likolo.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "Mpe nakokoma"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "kino ntango ya libela"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "mbota na yango"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "mpe kiti na yango ya bokonzi"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "lokola mokolo ya"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "likolo"
+    }
+  ],
+  "timestamp": "2026-09-04T00:21:54.851839051Z",
+  "model": "glm-5.3"
+}

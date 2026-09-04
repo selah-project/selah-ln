@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 1:2",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Boyoka, likolo, mpe tumba matoyi, mabele, mpo Yawe alobaki: Bana nakolaki mpe nalonaki likolo, mpe bango bapusanaki na ngai.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Boyoka"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "likolo"
+    },
+    {
+      "surface": "והאזיני",
+      "gloss": "mpe tumba matoyi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "Bana"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "nakolaki"
+    },
+    {
+      "surface": "ורוממתי",
+      "gloss": "mpe nalonaki likolo"
+    },
+    {
+      "surface": "והם",
+      "gloss": "mpe bango"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "bapusanaki"
+    },
+    {
+      "surface": "בי",
+      "gloss": "na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T23:25:14.627970808Z",
+  "model": "glm-5.3"
+}

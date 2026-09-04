@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 94:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 94,
+  "translation": "Mwasi ya mobali akufi mpe moto ya bapaya babomaka, mpe bana oyo tata na bango akufi babomaka na bobomi.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "mwasi ya mobali akufi"
+    },
+    {
+      "surface": "וגר",
+      "gloss": "mpe moto ya bapaya"
+    },
+    {
+      "surface": "יהרגו",
+      "gloss": "babomaka"
+    },
+    {
+      "surface": "ויתומים",
+      "gloss": "mpe bana oyo tata na bango akufi"
+    },
+    {
+      "surface": "ירצחו",
+      "gloss": "babomaka na bobomi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:24:01.905435222Z",
+  "model": "glm-5.3"
+}

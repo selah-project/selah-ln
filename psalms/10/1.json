@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 10:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Mpo na nini Yawe ozali telama na mosika? Ozali kobombama na ntango ya mawa.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Mpo na nini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "ozali telama"
+    },
+    {
+      "surface": "ברחוק",
+      "gloss": "na mosika"
+    },
+    {
+      "surface": "תעלים",
+      "gloss": "ozali kobombama"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "na ntango"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "ya mawa"
+    }
+  ],
+  "timestamp": "2026-09-03T21:02:45.169195917Z",
+  "model": "glm-5.3"
+}

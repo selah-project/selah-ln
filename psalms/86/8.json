@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 86:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 86,
+  "translation": "Ezali te ⟨oyo azali⟩ lokola yo kati ya banzambe, Adonai, mpe misala ezali te lokola misala na yo.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Ezali te"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "lokola yo"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "kati ya banzambe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mpe ... ezali te"
+    },
+    {
+      "surface": "כמעשיך",
+      "gloss": "lokola misala na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:22:22.449122309Z",
+  "model": "glm-5.3"
+}

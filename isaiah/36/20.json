@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 36:20",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 36,
+  "translation": "Nani, na kati ya banzambe nyonso ya mabelé oyo, asalaki ndenge akangisa ⟨את⟩ mabelé na bango na loboko na ngai, mpo ete Yawe akangisa ⟨את⟩ Yerushalaim na loboko na ngai?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Nani"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na kati ya banzambe nyonso"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "banzambe"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "ya mabelé"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "bakangisaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabelé na bango"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "mabelé na bango"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "na loboko na ngai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "akangisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalaim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "na loboko na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T23:26:42.666182654Z",
+  "model": "glm-5.3"
+}

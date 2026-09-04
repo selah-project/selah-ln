@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 21:15",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Mpe mai silaki oyo ezalaki na bumbu, mpe atyaki ⟨את⟩ mwana na nse ya moko ya banzete ya mikuse.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "silaki"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mai"
+    },
+    {
+      "surface": "מן",
+      "gloss": "oyo ezalaki na"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "bumbu"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "mpe atyaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwana"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "na nse ya"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "moko ya"
+    },
+    {
+      "surface": "השיחם",
+      "gloss": "banzete ya mikuse"
+    }
+  ],
+  "timestamp": "2026-09-03T15:55:05.133723734Z",
+  "model": "glm-5.3"
+}

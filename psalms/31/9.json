@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 31:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 31,
+  "translation": "Mpe obekisaki ngai te na maboko ya mokwi; otandisaki makolo na ngai na esika monene.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "mpe ... te"
+    },
+    {
+      "surface": "הסגרתני",
+      "gloss": "obekisaki ngai"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "na maboko"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ya mokwi"
+    },
+    {
+      "surface": "העמדת",
+      "gloss": "otandisaki"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "na esika monene"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "makolo na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:06:10.168468046Z",
+  "model": "glm-5.3"
+}

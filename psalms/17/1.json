@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 17:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 17,
+  "translation": "Losambo ya David. Kanisa, Yawe, bosembo; akanisa lilingbi na ngai, tya matoyi na losambo na ngai — na milomo ya bokosi te.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Losambo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya David"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "Kanisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "bosembo"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "akanisa"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "lilingbi na ngai"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "tya matoyi"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "losambo na ngai"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "na"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "milomo"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "ya bokosi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:02:50.304192890Z",
+  "model": "glm-5.3"
+}

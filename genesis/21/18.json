@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 21:18",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Tikala, yamba ⟨את⟩ mwana, mpe kanga makasi ⟨את⟩ maboko na yo na ye, mpo na ekolo monene nakotya ye.",
+  "tokens": [
+    {
+      "surface": "קומי",
+      "gloss": "Tikala"
+    },
+    {
+      "surface": "שאי",
+      "gloss": "yamba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwana"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "והחזיקי",
+      "gloss": "mpe kanga makasi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maboko na yo"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "maboko na yo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "na ekolo"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "monene"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "nakotya ye"
+    }
+  ],
+  "timestamp": "2026-09-03T15:54:45.682740856Z",
+  "model": "glm-5.3"
+}

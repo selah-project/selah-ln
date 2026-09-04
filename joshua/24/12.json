@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 24:12",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "Mpe natindaki liboso na bino ⟨את⟩ nguja, mpe ebimisaki ⟨את⟩ bango liboso na bino — bakonzi mibale ya ba-Amori — te na liwanza na yo, mpe te na ito na yo.",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "natindaki"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "liboso na bino"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nguja"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "nguja"
+    },
+    {
+      "surface": "ותגרש",
+      "gloss": "ebimisaki"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ bango"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "liboso na bino"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "bakonzi"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ba-Amori"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "בחרבך",
+      "gloss": "na liwanza na yo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "בקשתך",
+      "gloss": "na ito na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T17:55:09.159790657Z",
+  "model": "glm-5.3"
+}

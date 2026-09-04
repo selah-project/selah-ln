@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 22:20",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Kasi yo, Yawe, kolia eleke mosika; nguya na ngai, nunga epai ya lisalisi na ngai.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Kasi yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kolia"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "eleke mosika"
+    },
+    {
+      "surface": "אילותי",
+      "gloss": "nguya na ngai"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "epai ya lisalisi na ngai"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "nunga"
+    }
+  ],
+  "timestamp": "2026-09-03T21:04:37.952827816Z",
+  "model": "glm-5.3"
+}

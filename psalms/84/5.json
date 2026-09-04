@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 84:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 84,
+  "translation": "Bolamu ya bato oyo bafandi na ndako na yo, bakolata yo lisusu. Selah.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Bolamu"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "bafandi"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "na ndako na yo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lisusu"
+    },
+    {
+      "surface": "יהללוך",
+      "gloss": "bakolata yo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-03T21:23:10.722702294Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "psalms 78:66",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 78,
+  "translation": "Mpe akweyisi banguna na yango na nima, apesaki bango maloba-mabe ya seko.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "akweyisi"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "banguna na yango"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "na nima"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "maloba-mabe"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ya seko"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "apesaki"
+    },
+    {
+      "surface": "למו",
+      "gloss": "bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:19:59.187959743Z",
+  "model": "glm-5.3"
+}

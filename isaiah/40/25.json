@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 40:25",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 40,
+  "translation": "Mpe na nani bokokanisi ngai, mpe nakokani na ye? Mosantu alobi.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Mpe na"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nani"
+    },
+    {
+      "surface": "תדמיוני",
+      "gloss": "bokokanisi ngai"
+    },
+    {
+      "surface": "ואשוה",
+      "gloss": "mpe nakokani na ye"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "alobi"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Mosantu"
+    }
+  ],
+  "timestamp": "2026-09-03T19:29:47.964832382Z",
+  "model": "glm-5.3"
+}

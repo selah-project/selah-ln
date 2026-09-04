@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 21:24",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Lisoki na esika ya lisoki, meno na esika ya meno, loboko na esika ya loboko, lokolo na esika ya lokolo.",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "lisoki"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "na esika ya"
+    },
+    {
+      "surface": "עין",
+      "gloss": "lisoki"
+    },
+    {
+      "surface": "שן",
+      "gloss": "meno"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "na esika ya"
+    },
+    {
+      "surface": "שן",
+      "gloss": "meno"
+    },
+    {
+      "surface": "יד",
+      "gloss": "loboko"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "na esika ya"
+    },
+    {
+      "surface": "יד",
+      "gloss": "loboko"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "lokolo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "na esika ya"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "lokolo"
+    }
+  ],
+  "timestamp": "2026-09-03T16:25:06.234276573Z",
+  "model": "glm-5.3"
+}

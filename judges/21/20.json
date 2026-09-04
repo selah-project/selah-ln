@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 21:20",
+  "book": "judges",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Bamesaki mibeko ⟨את⟩ bana ya Binyamin, na koloba: Bokende, mpe botandala na bobombi kati ya bilanga ya vine.",
+  "tokens": [
+    {
+      "surface": "וַיְצַו",
+      "gloss": "bamesaki mibeko"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "bana ya Binyamin"
+    },
+    {
+      "surface": "בְּנֵי",
+      "gloss": "bana"
+    },
+    {
+      "surface": "בִנְיָמִן",
+      "gloss": "ya Binyamin"
+    },
+    {
+      "surface": "לֵאמֹר",
+      "gloss": "na koloba"
+    },
+    {
+      "surface": "לְכוּ",
+      "gloss": "bokende"
+    },
+    {
+      "surface": "וַאֲרַבְתֶּם",
+      "gloss": "mpe botandala na bobombi"
+    },
+    {
+      "surface": "בַּכְּרָמִים",
+      "gloss": "kati ya bilanga ya vine"
+    }
+  ],
+  "timestamp": "2026-09-03T18:08:16.391698987Z",
+  "model": "glm-5.3"
+}

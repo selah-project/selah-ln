@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 20:10",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 20,
+  "translation": "Mpe moto oyo akosala bosombi ⟨את⟩ mwasi ya moto, oyo akosala bosombi ⟨את⟩ mwasi ya moninga na ye, liwa bakufisama: mobosomi mpe mwasi mobosomi.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Mpe moto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "akosala bosombi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwasi"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mwasi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ya moto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "akosala bosombi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwasi"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mwasi"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ya moninga na ye"
+    },
+    {
+      "surface": "מות",
+      "gloss": "liwa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "bakufisama"
+    },
+    {
+      "surface": "הנאף",
+      "gloss": "mobosomi"
+    },
+    {
+      "surface": "והנאפת",
+      "gloss": "mpe mwasi mobosomi"
+    }
+  ],
+  "timestamp": "2026-09-03T16:53:03.952010971Z",
+  "model": "glm-5.3"
+}

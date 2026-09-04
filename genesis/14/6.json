@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 14:6",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "mpe ⟨את⟩ baHori na bangomba na bango ya Seir, kino na El-Paran, oyo ezali likolo ya etando.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "baHori"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "baHori"
+    },
+    {
+      "surface": "בהררם",
+      "gloss": "na bangomba na bango"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "ya Seir"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino na"
+    },
+    {
+      "surface": "איל",
+      "gloss": "El"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paran"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "etando"
+    }
+  ],
+  "timestamp": "2026-09-03T15:50:13.609505786Z",
+  "model": "glm-5.3"
+}

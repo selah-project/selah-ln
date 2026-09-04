@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 24:1",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "David atombaki wana, mpe afandaki na bisika ya makasi ya En Gedi.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "atombaki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "משם",
+      "gloss": "wana"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "afandaki"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "na bisika ya makasi"
+    },
+    {
+      "surface": "עין",
+      "gloss": "En"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Gedi"
+    }
+  ],
+  "timestamp": "2026-09-03T18:21:46.833179147Z",
+  "model": "glm-5.3"
+}

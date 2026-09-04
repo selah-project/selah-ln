@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 65:18",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 65,
+  "translation": "Kasi ata bosekanne mpe bosepela kino nsuka ya ntango, na oyo ngai nazali kokela; mpo talá, ngai nazali kokela ⟨את⟩ Yerushalaim esepeli, mpe bato na yango esengo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kasi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ata"
+    },
+    {
+      "surface": "שישו",
+      "gloss": "bosekanne"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "mpe bosepela"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "kino"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nsuka ya ntango"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "בורא",
+      "gloss": "nazali kokela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "talá, ngai"
+    },
+    {
+      "surface": "בורא",
+      "gloss": "nazali kokela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalaim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "גילה",
+      "gloss": "esepeli"
+    },
+    {
+      "surface": "ועמה",
+      "gloss": "mpe bato na yango"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "esengo"
+    }
+  ],
+  "timestamp": "2026-09-03T19:40:08.285576461Z",
+  "model": "glm-5.3"
+}

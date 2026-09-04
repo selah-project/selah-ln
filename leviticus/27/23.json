@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 27:23",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 27,
+  "translation": "Kohen akokoma mpo na ye ⟨את⟩ motango ya motuya na yo kino na mbula ya Yovelo; mpe akopesa ⟨את⟩ motuya na yo na mokolo wana, eloko santu mpo na Yawe.",
+  "tokens": [
+    {
+      "surface": "וחשב",
+      "gloss": "akokoma"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mpo na ye"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "Kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motango"
+    },
+    {
+      "surface": "מכסת",
+      "gloss": "motango"
+    },
+    {
+      "surface": "הערכך",
+      "gloss": "ya motuya na yo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino na"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "mbula"
+    },
+    {
+      "surface": "היבל",
+      "gloss": "ya Yovelo"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "mpe akopesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motuya na yo"
+    },
+    {
+      "surface": "הערכך",
+      "gloss": "motuya na yo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na mokolo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "wana"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "eloko santu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "mpo na Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T16:57:35.499155714Z",
+  "model": "glm-5.3"
+}

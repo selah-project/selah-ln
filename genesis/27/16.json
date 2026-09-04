@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 27:16",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 27,
+  "translation": "Mpe ⟨את⟩ minoku ya bangili ya bibebe atyaki na maboko na ye mpe na esika ya kingo na ye oyo ezali polele.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "minoku"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "minoku"
+    },
+    {
+      "surface": "גדיי",
+      "gloss": "bangili"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "bibebe"
+    },
+    {
+      "surface": "הלבישה",
+      "gloss": "atyaki"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "maboko na ye"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "mpe na"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "esika ya polele"
+    },
+    {
+      "surface": "צואריו",
+      "gloss": "kingo na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T15:58:29.476633994Z",
+  "model": "glm-5.3"
+}

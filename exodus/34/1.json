@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 34:1",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 34,
+  "translation": "Mpe Yawe alobaki epai ya Moshe: Kataka yo moko matabi mibale ya mabelo, lokola ya yambo, mpe nakoma likolo ya matabi ⟨את⟩ maloba oyo ezalaki likolo ya matabi ya yambo, oyo obukaki.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "מֹשֶׁה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "פְּסָל",
+      "gloss": "Kataka"
+    },
+    {
+      "surface": "לְךָ",
+      "gloss": "yo moko"
+    },
+    {
+      "surface": "שְׁנֵי",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "לֻחֹת",
+      "gloss": "matabi"
+    },
+    {
+      "surface": "אֲבָנִים",
+      "gloss": "ya mabelo"
+    },
+    {
+      "surface": "כָּרִאשֹׁנִים",
+      "gloss": "lokola ya yambo"
+    },
+    {
+      "surface": "וְכָתַבְתִּי",
+      "gloss": "mpe nakoma"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "הַלֻּחֹת",
+      "gloss": "matabi"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "maloba"
+    },
+    {
+      "surface": "הַדְּבָרִים",
+      "gloss": "maloba"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "הָיוּ",
+      "gloss": "ezalaki"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "הַלֻּחֹת",
+      "gloss": "matabi"
+    },
+    {
+      "surface": "הָרִאשֹׁנִים",
+      "gloss": "ya yambo"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "שִׁבַּרְתָּ",
+      "gloss": "obukaki"
+    }
+  ],
+  "timestamp": "2026-09-03T23:14:32.010483526Z",
+  "model": "glm-5.3"
+}

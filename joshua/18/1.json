@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 18:1",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Lisanga nyonso ya bana ya Israel bakutanaki na Shilo, mpe batyaki kuna ⟨את⟩ atelo ya bokutani; mpe mabele ekangisamaki liboso na bango.",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "bakutanaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "lisanga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "Shilo"
+    },
+    {
+      "surface": "וישכינו",
+      "gloss": "mpe batyaki"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "atelo ya bokutani"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "atelo"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya bokutani"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "mpe mabele"
+    },
+    {
+      "surface": "נכבשה",
+      "gloss": "ekangisamaki"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "liboso na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T17:51:51.833671258Z",
+  "model": "glm-5.3"
+}

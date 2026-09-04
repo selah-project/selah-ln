@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 18:1",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Yitro, kohen ya Midian, tata-mwasi ya Moshe, ayoki ⟨את⟩ nyonso oyo Elohim asalaki na Moshe mpe na Israel ekolo na ye, mpo Yawe abimisaki ⟨את⟩ Israel na Mitsraim.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ayoki"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitro"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midian"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "tata-mwasi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "asalaki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "na Moshe"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "mpe na Israel"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ekolo na ye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "abimisaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "na Mitsraim"
+    }
+  ],
+  "timestamp": "2026-09-03T16:23:56.140175213Z",
+  "model": "glm-5.3"
+}

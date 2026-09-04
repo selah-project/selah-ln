@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 11:30",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpe Moshe abongisaki ⟨yandi⟩ epai ya kampinga, yandi mpe bankulutu ya Israel.",
+  "tokens": [
+    {
+      "surface": "ויֵאָסֵף",
+      "gloss": "abongisaki"
+    },
+    {
+      "surface": "משֶׁה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "הַמַּחֲנֶה",
+      "gloss": "kampinga"
+    },
+    {
+      "surface": "הוּא",
+      "gloss": "yandi"
+    },
+    {
+      "surface": "וְזִקְנֵי",
+      "gloss": "mpe bankulutu"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "ya Israel"
+    }
+  ],
+  "timestamp": "2026-09-03T17:08:33.131056957Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-samuel 17:42",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 17,
+  "translation": "Mpe Filistini ataliaki mpe amonaki ⟨את⟩ David, mpe atyaki ye moteka, mpo azalaki motoko, mpe mondele, elongo na kitoko na komonana.",
+  "tokens": [
+    {
+      "surface": "ויבט",
+      "gloss": "ataliaki"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Filistini"
+    },
+    {
+      "surface": "ויראה",
+      "gloss": "mpe amonaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "David"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויבזהו",
+      "gloss": "mpe atyaki ye moteka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "היה",
+      "gloss": "azalaki"
+    },
+    {
+      "surface": "נער",
+      "gloss": "motoko"
+    },
+    {
+      "surface": "ואדמני",
+      "gloss": "mpe mondele"
+    },
+    {
+      "surface": "עם",
+      "gloss": "elongo na"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "kitoko"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "na komonana"
+    }
+  ],
+  "timestamp": "2026-09-03T18:18:18.054729658Z",
+  "model": "glm-5.3"
+}

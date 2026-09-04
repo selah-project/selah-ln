@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 1:16",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe alongolaki ⟨את⟩ kropi na yango na bikoku na yango, mpe atombwaki yango pene ya autelo, na esita, na esika ya ndota.",
+  "tokens": [
+    {
+      "surface": "והסיר",
+      "gloss": "mpe alongolaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kropi na yango"
+    },
+    {
+      "surface": "מראתו",
+      "gloss": "kropi na yango"
+    },
+    {
+      "surface": "בנצתה",
+      "gloss": "na bikoku na yango"
+    },
+    {
+      "surface": "והשליך",
+      "gloss": "mpe atombwaki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "yango (kropi na yango)"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "pene ya"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "autelo"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "na esita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "esika"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "ya ndota"
+    }
+  ],
+  "timestamp": "2026-09-03T16:40:07.940180721Z",
+  "model": "glm-5.3"
+}

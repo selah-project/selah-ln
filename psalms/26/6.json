@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 26:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "Nakosukola mindeke na ngai na bojoko, Yawe, mpe nakozinga ⟨את⟩ autelo na yo.",
+  "tokens": [
+    {
+      "surface": "ארחץ",
+      "gloss": "nakosukola"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "na bojoko"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "mindeke na ngai"
+    },
+    {
+      "surface": "ואסבבה",
+      "gloss": "mpe nakozinga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "autelo na yo"
+    },
+    {
+      "surface": "מזבחך",
+      "gloss": "autelo na yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T21:05:56.399063087Z",
+  "model": "glm-5.3"
+}

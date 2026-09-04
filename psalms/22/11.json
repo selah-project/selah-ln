@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 22:11",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Epai na yo batelaki ngai uta libumu; uta libumu ya mama na ngai yo ozali El na ngai.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "Epai na yo"
+    },
+    {
+      "surface": "השלכתי",
+      "gloss": "batelaki ngai"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "uta libumu"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "uta libumu"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ya mama na ngai"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El na ngai"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo ozali"
+    }
+  ],
+  "timestamp": "2026-09-03T21:03:59.750250521Z",
+  "model": "glm-5.3"
+}

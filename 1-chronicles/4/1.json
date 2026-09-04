@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 4:1",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Bana ya Yehudah: Perets, Hetsron, mpe Karmi, mpe Hur, mpe Shoval.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Bana"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ya Yehudah"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Perets"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Hetsron"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "mpe Karmi"
+    },
+    {
+      "surface": "וחור",
+      "gloss": "mpe Hur"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "mpe Shoval"
+    }
+  ],
+  "timestamp": "2026-09-03T22:42:00.964979953Z",
+  "model": "glm-5.3"
+}

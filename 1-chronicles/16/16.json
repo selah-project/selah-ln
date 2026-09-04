@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 16:16",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "oyo akataki ⟨את⟩ Avraham, mpe serma na ye epai ya Yitshak,",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "akataki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "mpe serma na ye"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "epai ya Yitshak"
+    }
+  ],
+  "timestamp": "2026-09-03T22:46:30.847323186Z",
+  "model": "glm-5.3"
+}

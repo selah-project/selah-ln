@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 13:6",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Mpe mabele ekoki kowelaka ⟨את⟩ bango mibale, bafanda elongo te; mpo bonene ya motuya ya makoki na bango ezalaki monene, mpe bakokaki kofanda elongo te.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "mpe ... te"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ekoki kowelaka"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bango mibale (הארץ — mabele)"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "bafanda elongo te"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "elongo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ezalaki"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "motuya ya makoki na bango"
+    },
+    {
+      "surface": "רב",
+      "gloss": "monene"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe ... te"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "bakokaki"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "kofanda"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "elongo"
+    }
+  ],
+  "timestamp": "2026-09-04T00:18:05.293561435Z",
+  "model": "glm-5.3"
+}

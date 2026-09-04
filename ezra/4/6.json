@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezra 4:6",
+  "book": "ezra",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "mpe na bokonzi ya Achashverosh, na ebandeli ya bokonzi na ye, bakomaki mokanda ya mabe likolo ya bato ya Yehuda mpe Yerushalaim.",
+  "tokens": [
+    {
+      "surface": "ובמלכות",
+      "gloss": "mpe na bokonzi"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Achashverosh"
+    },
+    {
+      "surface": "בתחלת",
+      "gloss": "na ebandeli"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "bokonzi na ye"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "bakomaki"
+    },
+    {
+      "surface": "שטנה",
+      "gloss": "mokanda ya mabe"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "bato ya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "mpe Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-09-03T22:30:00.025681411Z",
+  "model": "glm-5.3"
+}

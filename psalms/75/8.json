@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 75:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 75,
+  "translation": "Mpo Elohim azali mosambisi: oyo akitisaka ⟨na nsé⟩, mpe oyo wana atombwaka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "azali mosambisi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ישפיל",
+      "gloss": "akitisaka"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "mpe oyo wana"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "atombwaka"
+    }
+  ],
+  "timestamp": "2026-09-03T21:19:25.481058425Z",
+  "model": "glm-5.3"
+}

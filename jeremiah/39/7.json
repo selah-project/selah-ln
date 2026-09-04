@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 39:7",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 39,
+  "translation": "Mpe ⟨את⟩ miso ya Tsidkiyahu amemaki molili, mpe bakangaki ye na bakanga ya kube, mpo na komema ⟨את⟩ ye na Bavel.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Mpe ⟨את⟩",
+      "marks": "miso ya Tsidkiyahu"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "miso"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu"
+    },
+    {
+      "surface": "עור",
+      "gloss": "amemaki molili"
+    },
+    {
+      "surface": "ויאסרהו",
+      "gloss": "mpe bakangaki ye"
+    },
+    {
+      "surface": "בנחשתים",
+      "gloss": "na bakanga ya kube"
+    },
+    {
+      "surface": "לביא",
+      "gloss": "mpo na komema"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ye"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "na Bavel"
+    }
+  ],
+  "timestamp": "2026-09-03T20:01:12.034029115Z",
+  "model": "glm-5.3"
+}

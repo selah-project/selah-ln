@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 30:10",
+  "book": "job",
+  "lang": "ln",
+  "chapter": 30,
+  "translation": "Baboyaka ngai, bamatisaki na ngai, mpe na liboso ya ngai babateli te likau.",
+  "tokens": [
+    {
+      "surface": "תעבוני",
+      "gloss": "Baboyaka ngai"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "bamatisaki"
+    },
+    {
+      "surface": "מני",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "mpe na liboso ya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "babateli"
+    },
+    {
+      "surface": "רק",
+      "gloss": "likau"
+    }
+  ],
+  "timestamp": "2026-09-03T22:00:35.274625506Z",
+  "model": "glm-5.3"
+}

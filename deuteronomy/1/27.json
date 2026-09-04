@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 1:27",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe bokatikaki na bitente na bino, mpe bolobaki: Na bolingo mabe ya Yawe epai na ⟨את⟩ biso, abimisaki biso na mabele ya Mitsraim, mpo na kopesa ⟨את⟩ biso na maboko ya Baemori, mpo abomisa biso.",
+  "tokens": [
+    {
+      "surface": "ותרגנו",
+      "gloss": "mpe bokatikaki"
+    },
+    {
+      "surface": "באהליכם",
+      "gloss": "na bitente na bino"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "mpe bolobaki"
+    },
+    {
+      "surface": "בשנאת",
+      "gloss": "na bolingo mabe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "biso"
+    },
+    {
+      "surface": "הוציאנו",
+      "gloss": "abimisaki biso"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Mitsraim"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "mpo na kopesa"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "biso"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "na maboko"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ya Baemori"
+    },
+    {
+      "surface": "להשמידנו",
+      "gloss": "mpo abomisa biso"
+    }
+  ],
+  "timestamp": "2026-09-03T17:23:54.189633720Z",
+  "model": "glm-5.3"
+}

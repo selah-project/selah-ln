@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 26:11",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "Yawe, loboko na yo elembaki, bamonaki te; bakomona kwenya ya bato mpe bakotya nsoni; ata moto ya banganzi na yo ekolia bango.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "elembaki"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "loboko na yo"
+    },
+    {
+      "surface": "בל",
+      "gloss": "te"
+    },
+    {
+      "surface": "יחזיון",
+      "gloss": "bamonaki"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "bakomona"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "mpe bakotya nsoni"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "kwenya"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ya bato"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ata"
+    },
+    {
+      "surface": "אש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "צריך",
+      "gloss": "ya banganzi na yo"
+    },
+    {
+      "surface": "תאכלם",
+      "gloss": "ekolia bango"
+    }
+  ],
+  "timestamp": "2026-09-03T19:22:02.584876511Z",
+  "model": "glm-5.3"
+}

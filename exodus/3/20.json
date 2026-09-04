@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 3:20",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe nakotinda ⟨את⟩ loboko na ngai, mpe nakobeta ⟨את⟩ Mitsraim na makita na ngai nyonso oyo nakosala kati na yango; mpe nsima ya yango akotinda ⟨את⟩ bino.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Mpe nakotinda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "loboko na ngai"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "loboko na ngai"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "mpe nakobeta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsraim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "נפלאתי",
+      "gloss": "makita na ngai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "nakosala"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "kati na yango"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "mpe nsima"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ya yango"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "akotinda"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ bino",
+      "marks": "bino"
+    }
+  ],
+  "timestamp": "2026-09-03T16:16:25.394292587Z",
+  "model": "glm-5.3"
+}

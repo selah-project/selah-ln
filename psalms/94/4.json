@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 94:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 94,
+  "translation": "Babimisaka maloba, balobaka kikuku; bato nyonso oyo basalaka mabe bakolakisa nguya na bango.",
+  "tokens": [
+    {
+      "surface": "יביעו",
+      "gloss": "Babimisaka maloba"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "balobaka"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "kikuku"
+    },
+    {
+      "surface": "יתאמרו",
+      "gloss": "bakolakisa nguya na bango"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "oyo basalaka"
+    },
+    {
+      "surface": "און",
+      "gloss": "mabe"
+    }
+  ],
+  "timestamp": "2026-09-03T21:25:01.066452906Z",
+  "model": "glm-5.3"
+}

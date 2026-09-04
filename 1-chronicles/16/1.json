@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 16:1",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Mpe bayisaki ⟨את⟩ sanduku ya Elohim, mpe batyaki ⟨את⟩ yango na kati ya ndambo oyo David asalaki na yango, mpe batambwisaki bikabo ya moto mpe bikabo ya kimia liboso ya Elohim.",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "bayisaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanduku ya Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sanduku"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "ויציגו",
+      "gloss": "mpe batyaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yango",
+      "marks": "sanduku ya Elohim"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "na kati ya"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "ndambo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "asalaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "David"
+    },
+    {
+      "surface": "ויקריבו",
+      "gloss": "mpe batambwisaki"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "bikabo ya moto"
+    },
+    {
+      "surface": "ושלמים",
+      "gloss": "mpe bikabo ya kimia"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-03T22:47:18.739301894Z",
+  "model": "glm-5.3"
+}

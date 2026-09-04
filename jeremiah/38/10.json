@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 38:10",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 38,
+  "translation": "Mpe mokonzi apesaki motindo ⟨את⟩ Ebed-Melek Mobushi, na koloba: Zwá na maboko na yo awa bato ntuku misato, mpe olendisi ⟨את⟩ Yirmeyahu navi na libulu, liboso yo akufa.",
+  "tokens": [
+    {
+      "surface": "ויצוה",
+      "gloss": "apesaki motindo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ebed-Melek"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Ebed"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Melek"
+    },
+    {
+      "surface": "הכושי",
+      "gloss": "Mobushi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na koloba"
+    },
+    {
+      "surface": "קח",
+      "gloss": "zwá"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "na maboko na yo"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "awa"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ntuku misato"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "bato"
+    },
+    {
+      "surface": "והעלית",
+      "gloss": "mpe olendisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yirmeyahu"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirmeyahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "navi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "na"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "libulu"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "liboso yo"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "akufa"
+    }
+  ],
+  "timestamp": "2026-09-03T20:01:08.182666904Z",
+  "model": "glm-5.3"
+}

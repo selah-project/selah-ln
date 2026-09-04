@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 105:22",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 105,
+  "translation": "Mpɔ na kokangola bakonzi na yango na mokolo na yango, mpe bankoko na yango atangisaka bango bwanya.",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "mpɔ na kokangola"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "bakonzi na yango"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "na mokolo na yango"
+    },
+    {
+      "surface": "וזקניו",
+      "gloss": "mpe bankoko na yango"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "atangisaka bango bwanya"
+    }
+  ],
+  "timestamp": "2026-09-03T21:27:12.969995585Z",
+  "model": "glm-5.3"
+}

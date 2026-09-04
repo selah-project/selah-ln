@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 74:20",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 74,
+  "translation": "Tala na boyokani; mpo ete bisika ya molili ya mabele emalisami na bandako ya bobomi.",
+  "tokens": [
+    {
+      "surface": "הבט",
+      "gloss": "Tala"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "na boyokani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "emalisami"
+    },
+    {
+      "surface": "מחשכי",
+      "gloss": "bisika ya molili"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ya mabele"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "bandako"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ya bobomi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:19:18.480465071Z",
+  "model": "glm-5.3"
+}

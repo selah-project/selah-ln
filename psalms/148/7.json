@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 148:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 148,
+  "translation": "Bobongi ⟨את⟩ Yawe uta mabele, baniami ya mai mpe bambombo nyonso.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "bobongi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uta"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "baniami ya mai"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe nyonso"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "bambombo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:36:56.714200051Z",
+  "model": "glm-5.3"
+}

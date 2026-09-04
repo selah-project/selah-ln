@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 25:36",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Kanga kozwa ⟨את⟩ epai na ye ntalo ya kobakisa mpe kobakisa, mpe kobanga Elohim na yo, mpe ndeko na yo avanda na yo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "kanga"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "kozwa"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩ epai na ye",
+      "marks": "ntalo ya kobakisa mpe kobakisa"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "ntalo ya kobakisa"
+    },
+    {
+      "surface": "ותרבית",
+      "gloss": "mpe kobakisa"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "mpe kobanga"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "Elohim na yo"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "mpe avanda"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ndeko na yo"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T16:54:37.107283882Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 10:20",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Moshe ayokaki, mpe yango emalaki na miso na ye.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ayokaki"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "emalaki"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "na miso na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T16:45:45.235763909Z",
+  "model": "glm-5.3"
+}

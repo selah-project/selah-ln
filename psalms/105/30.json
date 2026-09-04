@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 105:30",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 105,
+  "translation": "Mabele na bango etondaki na batondoki, ata na bambi ya bakonzi na bango.",
+  "tokens": [
+    {
+      "surface": "שרץ",
+      "gloss": "etondaki"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "mabele na bango"
+    },
+    {
+      "surface": "צפרדעים",
+      "gloss": "batondoki"
+    },
+    {
+      "surface": "בחדרי",
+      "gloss": "na bambi ya"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "bakonzi na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:28:04.591100287Z",
+  "model": "glm-5.3"
+}

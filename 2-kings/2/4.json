@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 2:4",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mpe Eliyahu alobaki na ye: Elisha, fanda awa, nasengi yo, mpo Yawe atindaki ngai na Yeriho. Mpe alobaki: Ndenge Yawe azali na bomoi mpe ndenge molimo na yo ezali na bomoi, soki nakotika yo ⟨te⟩. Mpe bakotaki na Yeriho.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "שב",
+      "gloss": "fanda"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nasengi"
+    },
+    {
+      "surface": "פה",
+      "gloss": "awa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "atindaki ngai"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Yeriho"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "חי",
+      "gloss": "azali na bomoi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "mpe azali na bomoi"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "molimo na yo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "soki"
+    },
+    {
+      "surface": "אעזבך",
+      "gloss": "nakotika yo"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "mpe bakotaki"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Yeriho"
+    }
+  ],
+  "timestamp": "2026-09-03T18:59:34.227939537Z",
+  "model": "glm-5.3"
+}

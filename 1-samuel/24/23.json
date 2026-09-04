@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 24:23",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "Mpe David alapaki epai ya Shaul, mpe Shaul akendaki na ndako na ye, mpe David mpe mibali na ye bakweyaki na bodingbiseli.",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "alapaki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "epai ya Shaul"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "akendaki"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ndako na ye"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "mpe David"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "mpe mibali na ye"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "bakweyaki"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "המצודה",
+      "gloss": "bodingbiseli"
+    }
+  ],
+  "timestamp": "2026-09-03T18:20:25.807317958Z",
+  "model": "glm-5.3"
+}

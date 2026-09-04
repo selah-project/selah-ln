@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 106:20",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 106,
+  "translation": "Mpe babongolaki ⟨את⟩ nkembo na bango na ndenge ya mbasi oyo aliaka gude.",
+  "tokens": [
+    {
+      "surface": "ומירו",
+      "gloss": "mpe babongolaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkembo na bango"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "nkembo na bango"
+    },
+    {
+      "surface": "בתבנית",
+      "gloss": "na ndenge ya"
+    },
+    {
+      "surface": "שור",
+      "gloss": "mbasi"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "oyo aliaka"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "gude"
+    }
+  ],
+  "timestamp": "2026-09-03T21:28:14.057090199Z",
+  "model": "glm-5.3"
+}

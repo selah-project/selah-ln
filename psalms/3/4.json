@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 3:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Kasi yo, Yawe, ozali ekuke mpo na ngai; nkembo na ngai, mpe olimolisi motó na ngai.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Kasi yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ozali ekuke"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "mpo na ngai"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "nkembo na ngai"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "mpe olimolisi"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "motó na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T20:59:54.075091840Z",
+  "model": "glm-5.3"
+}

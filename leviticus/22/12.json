@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 22:12",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Mpe mwana mwasi ya kohen, soki ⟨azali⟩ na mobali moto ya paya, ye moko akolia te teruma ya biloko ya bosantu.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "mpe mwana mwasi"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "soki"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "azali"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "na mobali"
+    },
+    {
+      "surface": "זר",
+      "gloss": "moto ya paya"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ye moko"
+    },
+    {
+      "surface": "בתרומת",
+      "gloss": "teruma"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "biloko ya bosantu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "akolia"
+    }
+  ],
+  "timestamp": "2026-09-03T16:52:28.745616540Z",
+  "model": "glm-5.3"
+}

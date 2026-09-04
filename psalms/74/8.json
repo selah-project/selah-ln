@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 74:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 74,
+  "translation": "Balobaki na motema na bango: Toboma bango elongo moko; batumbaki bisika nyonso ya kokutana ya El na mabele.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Balobaki"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "na motema na bango"
+    },
+    {
+      "surface": "נינם",
+      "gloss": "Toboma bango"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "elongo moko"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "batumbaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "bisika ya kokutana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T21:19:07.724530705Z",
+  "model": "glm-5.3"
+}

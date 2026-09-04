@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 21:5",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Bakosala motokolo te na motó na bango, mpe nsé ya minzoto na bango bakokata te, mpe na nzoto na bango bakokata mpaku te.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יקרחה",
+      "gloss": "bakosala"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "motokolo"
+    },
+    {
+      "surface": "בראשם",
+      "gloss": "na motó na bango"
+    },
+    {
+      "surface": "ופאת",
+      "gloss": "mpe nsé ya"
+    },
+    {
+      "surface": "זקנם",
+      "gloss": "minzoto na bango"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יגלחו",
+      "gloss": "bakokata"
+    },
+    {
+      "surface": "ובבשרם",
+      "gloss": "mpe na nzoto na bango"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ישרטו",
+      "gloss": "bakokata"
+    },
+    {
+      "surface": "שרטת",
+      "gloss": "mpaku"
+    }
+  ],
+  "timestamp": "2026-09-03T16:53:46.520489449Z",
+  "model": "glm-5.3"
+}

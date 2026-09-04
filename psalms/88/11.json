@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 88:11",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 88,
+  "translation": "Ozali kosala liloboya na bakufi? Soki Refaim bayebisi bokufi mpe batombelaka, bakokumisa yo? Sela.",
+  "tokens": [
+    {
+      "surface": "הלמתים",
+      "gloss": "na bakufi"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ozali kosala"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "liloboya"
+    },
+    {
+      "surface": "אם",
+      "gloss": "soki"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "Refaim"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "batombelaka"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "bakokumisa yo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-03T21:22:02.139869800Z",
+  "model": "glm-5.3"
+}

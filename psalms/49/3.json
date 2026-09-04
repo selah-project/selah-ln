@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 49,
+  "translation": "Ata bana ya moto, ata bana ya mibali, elongo; moloba mpe mompwa.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ata"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "moto"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ata"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mibali"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "elongo"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "moloba"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "mpe mompwa"
+    }
+  ],
+  "timestamp": "2026-09-03T21:12:13.246650896Z",
+  "model": "glm-5.3"
+}

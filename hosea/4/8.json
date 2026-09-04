@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 4:8",
+  "book": "hosea",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Masumu ya bato na ngai balyaka, mpe epai ya mabe na bango batomboli bomoi na bango.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "masumu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ya bato na ngai"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "balyaka"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mpe epai ya"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "mabe na bango"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "batomboli"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "bomoi na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T20:37:55.968549089Z",
+  "model": "glm-5.3"
+}

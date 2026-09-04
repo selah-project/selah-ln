@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 8:4",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe teba etikalaki na sanza ya nsambo, mokolo ya zomi na sambo ya sanza, likolo ya bangomba ya Ararat.",
+  "tokens": [
+    {
+      "surface": "ותנח",
+      "gloss": "etikalaki"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "teba"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "na sanza"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ya nsambo"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "sambo"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "na zomi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mokolo"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ya sanza"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "bangomba"
+    },
+    {
+      "surface": "אררט",
+      "gloss": "Ararat"
+    }
+  ],
+  "timestamp": "2026-09-03T15:47:44.168064058Z",
+  "model": "glm-5.3"
+}

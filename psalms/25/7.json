@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 25:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Masumu ya bule na ngai mpe bonsungi na ngai okanisa te; na hesed na yo kanisaka ngai yo, mpo na bolamu na yo, Yawe.",
+  "tokens": [
+    {
+      "surface": "חטאות",
+      "gloss": "masumu"
+    },
+    {
+      "surface": "נעורי",
+      "gloss": "ya bule na ngai"
+    },
+    {
+      "surface": "ופשעי",
+      "gloss": "mpe bonsungi na ngai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "okanisa"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "na hesed na yo"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "kanisaka"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "mpo na"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "bolamu na yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T21:06:00.368205196Z",
+  "model": "glm-5.3"
+}

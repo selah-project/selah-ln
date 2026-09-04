@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 20:17",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 20,
+  "translation": "Mpe Avraham asengaki epai ya Elohim, mpe Elohim abikisaki ⟨את⟩ Avimelekh mpe ⟨את⟩ mwasi na yango mpe bamatumbe na yango, mpe babotaki.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "mpe asengaki"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "mpe abikisaki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avimelekh"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Avimelekh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mwasi na yango"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mwasi na yango"
+    },
+    {
+      "surface": "ואמהתיו",
+      "gloss": "mpe bamatumbe na yango"
+    },
+    {
+      "surface": "וילדו",
+      "gloss": "mpe babotaki"
+    }
+  ],
+  "timestamp": "2026-09-03T15:53:33.013024721Z",
+  "model": "glm-5.3"
+}

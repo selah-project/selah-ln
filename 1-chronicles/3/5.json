@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 3:5",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe bana oyo balakaki epai na ye na Yerushalaim: Shimea, mpe Shovav, mpe Natan, mpe Shelomo — minei — na Batshua mwana ya Amiel.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Mpe bana oyo"
+    },
+    {
+      "surface": "נולדו",
+      "gloss": "balakaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "epai na ye"
+    },
+    {
+      "surface": "בירושלים",
+      "gloss": "na Yerushalaim"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "Shimea"
+    },
+    {
+      "surface": "ושובב",
+      "gloss": "mpe Shovav"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "mpe Natan"
+    },
+    {
+      "surface": "ושלמה",
+      "gloss": "mpe Shelomo"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "minei"
+    },
+    {
+      "surface": "לבת",
+      "gloss": "na"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "Batshua"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana ya"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Amiel"
+    }
+  ],
+  "timestamp": "2026-09-03T22:41:09.214028771Z",
+  "model": "glm-5.3"
+}

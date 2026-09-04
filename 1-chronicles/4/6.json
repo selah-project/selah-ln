@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 4:6",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Naarah abotaki na ye ⟨את⟩ Akhuzzam, mpe ⟨את⟩ Hefere, mpe ⟨את⟩ Temeni, mpe ⟨את⟩ Haahashtari; bango oyo bazali bana ya Naarah.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "Mpe abotaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "Naarah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Akhuzzam"
+    },
+    {
+      "surface": "אחזם",
+      "gloss": "Akhuzzam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Hefere"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "Hefere"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Temeni"
+    },
+    {
+      "surface": "תימני",
+      "gloss": "Temeni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Haahashtari"
+    },
+    {
+      "surface": "האחשתרי",
+      "gloss": "Haahashtari"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bango oyo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ya"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "Naarah"
+    }
+  ],
+  "timestamp": "2026-09-03T22:41:24.091138171Z",
+  "model": "glm-5.3"
+}

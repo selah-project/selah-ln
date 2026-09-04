@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 21:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Lobɔku na yo ekomona banguna na yo banso; lobɔku na yo ya monyeko ekomona bayo babɔngi yo.",
+  "tokens": [
+    {
+      "surface": "תמצא",
+      "gloss": "ekomona"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "lobɔku na yo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "banso"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "banguna na yo"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "lobɔku na yo ya monyeko"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "ekomona"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "bayo babɔngi yo"
+    }
+  ],
+  "timestamp": "2026-09-03T23:33:29.253793874Z",
+  "model": "glm-5.3"
+}

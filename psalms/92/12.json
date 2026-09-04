@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 92:12",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 92,
+  "translation": "Miso na ngai etalaki batali ngai na mabe, bayukanaki likolo na ngai — basalaki mabe; matoyi na ngai mayokaki bango.",
+  "tokens": [
+    {
+      "surface": "ותבט",
+      "gloss": "Miso na ngai etalaki"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "miso na ngai"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "batali ngai na mabe"
+    },
+    {
+      "surface": "בקמים",
+      "gloss": "bayukanaki likolo na ngai"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "likolo na ngai"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "basalaki mabe"
+    },
+    {
+      "surface": "תשמענה",
+      "gloss": "mayokaki"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "matoyi na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:23:54.551691368Z",
+  "model": "glm-5.3"
+}

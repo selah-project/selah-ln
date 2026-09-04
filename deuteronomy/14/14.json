@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 14:14",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "mpe ⟨את⟩ sankoko nyonso, ya ndenge na yango",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "sankoko nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "sankoko"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "ya ndenge na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T17:29:29.841223390Z",
+  "model": "glm-5.3"
+}

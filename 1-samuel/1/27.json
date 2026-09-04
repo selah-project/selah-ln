@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-samuel 1:27",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpo na mwana oyo napelaki, mpe Yawe apesaki ngai ⟨את⟩ nsenga na ngai oyo nasengaki epai naye.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "mpo na"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mwana oyo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "התפללתי",
+      "gloss": "napelaki"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "mpe apesaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nsenga na ngai"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "nsenga na ngai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "nasengaki"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "epai naye"
+    }
+  ],
+  "timestamp": "2026-09-03T18:09:54.031458422Z",
+  "model": "glm-5.3"
+}

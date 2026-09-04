@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Mpe ⟨את⟩ mosolo mpe ⟨את⟩ lipau atumbisaki na moto, libanda ya kaa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mosolo"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "mosolo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "lipau"
+    },
+    {
+      "surface": "העור",
+      "gloss": "lipau"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "atumbisaki"
+    },
+    {
+      "surface": "באש",
+      "gloss": "na moto"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "libanda"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ya kaa"
+    }
+  ],
+  "timestamp": "2026-09-03T16:43:48.760780067Z",
+  "model": "glm-5.3"
+}

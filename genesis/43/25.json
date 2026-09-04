@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 43:25",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 43,
+  "translation": "Mpe bateyaki ⟨את⟩ ofele kino Yosef ayaki na midi, mpo bayaki koyoka ete kuna bakoliala boledi.",
+  "tokens": [
+    {
+      "surface": "ויכינו",
+      "gloss": "bateyaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ofele"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "ofele"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "ayaki"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "na midi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "bayaki koyoka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "bakoliala"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "boledi"
+    }
+  ],
+  "timestamp": "2026-09-03T16:08:13.065057084Z",
+  "model": "glm-5.3"
+}

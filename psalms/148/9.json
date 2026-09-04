@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 148:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 148,
+  "translation": "Bangomba mpe bisika nyonso ya likolo ya mike, banzete ya mabota mpe sedre nyonso.",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "bangomba"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe nyonso"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "bisika ya likolo ya mike"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "banzete"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ya mabota"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe nyonso"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "sedre"
+    }
+  ],
+  "timestamp": "2026-09-03T21:36:18.071213341Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 7:17",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mabe na ye ekozonga na motue na ye, mpe likama na ye ekokita na likumu ya motue na ye.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "ekozonga"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "mabe na ye"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "na motue na ye"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "mpe na"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "likumu ya motue na ye"
+    },
+    {
+      "surface": "חמסו",
+      "gloss": "likama na ye"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ekokita"
+    }
+  ],
+  "timestamp": "2026-09-03T20:59:11.447163601Z",
+  "model": "glm-5.3"
+}

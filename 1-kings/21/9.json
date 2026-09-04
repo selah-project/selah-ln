@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 21:9",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Mpe akomaki olo na mikanda, ati: Bobengani bofula, mpe botia ⟨את⟩ Navot na liboso ya bato.",
+  "tokens": [
+    {
+      "surface": "ותכתב",
+      "gloss": "mpe akomaki"
+    },
+    {
+      "surface": "בספרים",
+      "gloss": "olo na mikanda"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ati"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "bobengani"
+    },
+    {
+      "surface": "צום",
+      "gloss": "bofula"
+    },
+    {
+      "surface": "והושיבו",
+      "gloss": "mpe botia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Navot"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Navot"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "na liboso"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ya bato"
+    }
+  ],
+  "timestamp": "2026-09-03T18:55:34.372120109Z",
+  "model": "glm-5.3"
+}

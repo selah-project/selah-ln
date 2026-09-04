@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 42:33",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 42,
+  "translation": "Moto oyo, nkolo ya mabele, alobaki na biso: Na yango nakoyeba ete bato ya sembo bozali; ndeko na bino moko botika ⟨את⟩ epai na ngai, mpe ⟨את⟩ biloko ya nzala ya bandako na bino bozá mpe bokende.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "na biso"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "nkolo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ya mabele"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "nakoyeba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "bato ya sembo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "bo"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "ndeko na bino"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "moko"
+    },
+    {
+      "surface": "הניחו",
+      "gloss": "botika"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ epai na ngai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "biloko ya nzala"
+    },
+    {
+      "surface": "רעבון",
+      "gloss": "biloko ya nzala"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "ya bandako na bino"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "bozá"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "mpe bokende"
+    }
+  ],
+  "timestamp": "2026-09-03T16:08:48.547593430Z",
+  "model": "glm-5.3"
+}

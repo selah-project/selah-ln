@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 13:2",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Mpe nasombi ⟨את⟩ sando lokola liloba ya Yawe, mpe natyi yango na libumu na ngai.",
+  "tokens": [
+    {
+      "surface": "ואקנה",
+      "gloss": "mpe nasombi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sando"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "sando"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "lokola liloba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "mpe natyi"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "libumu na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T19:49:13.884518195Z",
+  "model": "glm-5.3"
+}

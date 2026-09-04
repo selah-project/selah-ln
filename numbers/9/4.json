@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 9:4",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Mpe Moshe alobaki na bana ya Israel mpo na kosala ⟨את⟩ Paka.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "mpo na kosala"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Paka"
+    }
+  ],
+  "timestamp": "2026-09-03T17:05:54.360184698Z",
+  "model": "glm-5.3"
+}

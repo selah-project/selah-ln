@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 129:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 129,
+  "translation": "Bekwa na ntembe mpe bazongaka na nsima, nyonso bayo bazali na bopela na Tsion.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "Bekwa na ntembe"
+    },
+    {
+      "surface": "ויסגו",
+      "gloss": "mpe bazongaka na nsima"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "na nsima"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "bayo bazali na bopela"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsion"
+    }
+  ],
+  "timestamp": "2026-09-03T21:33:29.468854491Z",
+  "model": "glm-5.3"
+}

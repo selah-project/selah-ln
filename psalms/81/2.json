@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 81:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 81,
+  "translation": "Longola yimbo epai ya Elohim, nguya na biso; bokangisa mongongo epai ya Elohim ya Yaakov.",
+  "tokens": [
+    {
+      "surface": "הרנינו",
+      "gloss": "Longola yimbo"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "epai ya Elohim"
+    },
+    {
+      "surface": "עוזנו",
+      "gloss": "nguya na biso"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "bokangisa mongongo"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "epai ya Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ya Yaakov"
+    }
+  ],
+  "timestamp": "2026-09-03T21:21:07.854222045Z",
+  "model": "glm-5.3"
+}

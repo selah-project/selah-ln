@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 55:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 55,
+  "translation": "Mpe nalobaki: Nani akopesa na ngai libanja lokola ya yenje? Nakofanda mbala mpe nakozala na bobemi.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Mpe nalobaki"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Nani"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "akopesa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "אבר",
+      "gloss": "libanja"
+    },
+    {
+      "surface": "כיונה",
+      "gloss": "lokola ya yenje"
+    },
+    {
+      "surface": "אעופה",
+      "gloss": "Nakofanda mbala"
+    },
+    {
+      "surface": "ואשכנה",
+      "gloss": "mpe nakozala na bobemi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:13:28.451816447Z",
+  "model": "glm-5.3"
+}

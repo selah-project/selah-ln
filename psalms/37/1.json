@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 37:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 37,
+  "translation": "Sanzo ya David. Kozala na mawa te na babebi, kozala na njisi te na basalaki mabe.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Sanzo ya David"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "kozala na mawa"
+    },
+    {
+      "surface": "במרעים",
+      "gloss": "na babebi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "kozala na njisi"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "na basalaki"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "mabe"
+    }
+  ],
+  "timestamp": "2026-09-03T21:09:16.270507455Z",
+  "model": "glm-5.3"
+}

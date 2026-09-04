@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 29:5",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 29,
+  "translation": "Mkate boyei te, mpe vin na masanga bo mekaki te, mpo boyeba ete ngai nazali Yawe Elohim ⟨na bino⟩.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "mkate"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "boyei"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "mpe vin"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "na masanga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "שתיתם",
+      "gloss": "bo mekaki"
+    },
+    {
+      "surface": "למען",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "boyeba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ⟨na bino⟩"
+    }
+  ],
+  "timestamp": "2026-09-03T17:38:11.054807917Z",
+  "model": "glm-5.3"
+}

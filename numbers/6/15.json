@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 6:15",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpe sanduku ya matsa: magate ya farine balolaki na mange, mpe bakeke ya matsa basulaki na mange, elongo na mincha na bango mpe ofandra na bango ya komela.",
+  "tokens": [
+    {
+      "surface": "וסל",
+      "gloss": "mpe sanduku"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ya matsa"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "farine"
+    },
+    {
+      "surface": "חלת",
+      "gloss": "magate"
+    },
+    {
+      "surface": "בלולת",
+      "gloss": "balolaki"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "na mange"
+    },
+    {
+      "surface": "ורקיקי",
+      "gloss": "mpe bakeke"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ya matsa"
+    },
+    {
+      "surface": "משחים",
+      "gloss": "basulaki"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "na mange"
+    },
+    {
+      "surface": "ומנחתם",
+      "gloss": "mpe mincha na bango"
+    },
+    {
+      "surface": "ונסכיהם",
+      "gloss": "mpe ofandra ya bango ya komela"
+    }
+  ],
+  "timestamp": "2026-09-03T17:02:16.366178832Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 6:25",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpe Elazara, mwana ya Aharon, azwaki ye mwana mwasi moko ya bana mwasi ya Putiel mwasi na ye, mpe abotaki na ye ⟨את⟩ Pinhas. Oyo nde matwi ya babatata ya Balevi, na mabota na bango.",
+  "tokens": [
+    {
+      "surface": "ואלעזר",
+      "gloss": "Mpe Elazara"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ya Aharon"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "azwaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "mwana mwasi moko ya bana mwasi"
+    },
+    {
+      "surface": "פוטיאל",
+      "gloss": "ya Putiel"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "mwasi"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "mpe abotaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pinhas"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinhas"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "matwi"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "ya babatata"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ya Balevi"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "na mabota na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:14:42.837020208Z",
+  "model": "glm-5.3"
+}

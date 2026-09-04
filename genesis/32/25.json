@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 32:25",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 32,
+  "translation": "Yaakov atikalaki yandi yango moko, mpe moto azalaki kobunda na yandi kino ntango tongo ezalaki kobimella.",
+  "tokens": [
+    {
+      "surface": "ויותר",
+      "gloss": "atikalaki"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "yandi yango moko"
+    },
+    {
+      "surface": "ויאבק",
+      "gloss": "mpe azalaki kobunda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "na yandi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino ntango"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "ezalaki kobimella"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "tongo"
+    }
+  ],
+  "timestamp": "2026-09-03T16:00:41.505999456Z",
+  "model": "glm-5.3"
+}

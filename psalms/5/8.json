@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 5:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Ngai, na mingi ya hesed na yo (bolingo ya solo mpe ngolu) nakokota na ndako na yo; na bobangi na yo nakipusama epai ya tempelo ya bosantu na yo.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ngai"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "na mingi"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesed na yo"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "nakokota"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "na ndako na yo"
+    },
+    {
+      "surface": "אשתחוה",
+      "gloss": "nakipusama"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "tempelo"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "bosantu na yo"
+    },
+    {
+      "surface": "ביראתך",
+      "gloss": "na bobangi na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T20:59:53.001980004Z",
+  "model": "glm-5.3"
+}

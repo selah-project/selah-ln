@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 14:7",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Ye akubaki ⟨את⟩ Edom na libulu ya mungwa, zomi ya nkoto, mpe azwaki ⟨את⟩ Sela na etumba; mpe abengaki ⟨את⟩ nkombo na yango Yokteel, taka mokolo oyo.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Ye"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "akubaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "na libulu"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "ya mungwa"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "zomi ya"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "nkoto"
+    },
+    {
+      "surface": "ותפש",
+      "gloss": "mpe azwaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sela"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "Sela"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "na etumba"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "mpe abengaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkombo na yango"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "nkombo na yango"
+    },
+    {
+      "surface": "יקתאל",
+      "gloss": "Yokteel"
+    },
+    {
+      "surface": "עד",
+      "gloss": "taka"
+    },
+    {
+      "surface": "היום",
+      "gloss": "mokolo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    }
+  ],
+  "timestamp": "2026-09-03T19:05:52.323441074Z",
+  "model": "glm-5.3"
+}

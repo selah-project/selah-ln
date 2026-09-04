@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 109:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 109,
+  "translation": "Tya moto mabe likolo ya ye, mpe satan ateleme na loboko ya ye ya mobali.",
+  "tokens": [
+    {
+      "surface": "הפקד",
+      "gloss": "Tya"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "likolo ya ye"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "moto mabe"
+    },
+    {
+      "surface": "ושטן",
+      "gloss": "mpe satan"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ateleme"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "loboko ya ye ya mobali"
+    }
+  ],
+  "timestamp": "2026-09-03T21:29:06.660760266Z",
+  "model": "glm-5.3"
+}

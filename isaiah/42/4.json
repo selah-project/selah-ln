@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 42:4",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 42,
+  "translation": "Akolema te mpe akobukama te, kino atya bosiko na mabele; mpe bisanga bizali kozela na Tora na yandi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יכהה",
+      "gloss": "akolema"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe ... te"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "akobukama"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "atya"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "bosiko"
+    },
+    {
+      "surface": "ולתורתו",
+      "gloss": "mpe na Tora na yandi"
+    },
+    {
+      "surface": "איים",
+      "gloss": "bisanga"
+    },
+    {
+      "surface": "ייחילו",
+      "gloss": "bizali kozela"
+    }
+  ],
+  "timestamp": "2026-09-03T19:31:28.471826011Z",
+  "model": "glm-5.3"
+}

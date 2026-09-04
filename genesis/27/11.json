@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 27:11",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 27,
+  "translation": "Mpe Yaakov alobaki epai ya Rivka mama na ye ete: Tala, Esau ndeko na ngai azali moto ya siao, mpe ngai nazali moto ya pete.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe Yaakov alobaki"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivka"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mama na ye"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Tala"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esau"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ndeko na ngai"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ya siao"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "mpe ngai"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "ya pete"
+    }
+  ],
+  "timestamp": "2026-09-03T15:59:25.527036300Z",
+  "model": "glm-5.3"
+}

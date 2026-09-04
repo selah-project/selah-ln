@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 25:23",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Mpe ⟨את⟩ Dedan, mpe ⟨את⟩ Tema, mpe ⟨את⟩ Buz, mpe ⟨את⟩ baye bakataki ngala nyonso.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Dedan"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Tema"
+    },
+    {
+      "surface": "תימא",
+      "gloss": "Tema"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Buz"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "Buz"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "baye bakataki ngala nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "קצוצי",
+      "gloss": "baye bakataki"
+    },
+    {
+      "surface": "פאה",
+      "gloss": "ngala"
+    }
+  ],
+  "timestamp": "2026-09-03T19:52:45.027602827Z",
+  "model": "glm-5.3"
+}

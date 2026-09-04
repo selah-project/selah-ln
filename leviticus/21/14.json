@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 21:14",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Mwasi mokufa, mpe oyo atikamaki, mpe mwasi ya mabe, mwasi ya bola — ⟨את⟩ oyo akozwa te; kasi mwana mwasi ya bonyele kati na bato na ye azwa mwasi.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "mwasi mokufa"
+    },
+    {
+      "surface": "וגרושה",
+      "gloss": "mpe oyo atikamaki"
+    },
+    {
+      "surface": "וחללה",
+      "gloss": "mpe mwasi ya mabe"
+    },
+    {
+      "surface": "זנה",
+      "gloss": "mwasi ya bola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oyo (banzambe ya mwasi oyo ekotangamaki)"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "akozwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kasi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kasi"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "mwana mwasi ya bonyele"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "kati na bato na ye"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "azwa"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mwasi"
+    }
+  ],
+  "timestamp": "2026-09-03T16:51:57.305197209Z",
+  "model": "glm-5.3"
+}

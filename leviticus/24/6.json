@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 24:6",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "Mpe okotia bango ⟨את⟩ milayini mibale, motoba na layini moko, likolo ya mesa ya sembo, liboso ya Yawe.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "mpe okotia bango"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "milayini mibale"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "milayini"
+    },
+    {
+      "surface": "שש",
+      "gloss": "motoba"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "layini moko"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "mesa"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "ya sembo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T23:15:25.769168224Z",
+  "model": "glm-5.3"
+}

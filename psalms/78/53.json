@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 78:53",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 78,
+  "translation": "Mpe akambaki bango na libateli, mpe bazalaki na bobangi te, mpe mai ebombaki ⟨את⟩ banguna na bango.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "mpe akambaki"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "na libateli"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "bazalaki na bobangi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "banguna na bango"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "banguna na bango"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "ebombaki"
+    },
+    {
+      "surface": "הים",
+      "gloss": "mai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:20:38.886600852Z",
+  "model": "glm-5.3"
+}

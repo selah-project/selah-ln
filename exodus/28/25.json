@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 28:25",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 28,
+  "translation": "mpe ⟨את⟩ bansuka mibale ya bapeke mibale okotya na bibande mibale, mpe okotya yango na bakepi ya epode, na elongo na monjoli na yango.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bansuka mibale"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "bansuka"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "העבתת",
+      "gloss": "bapeke"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "okotya"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "המשבצות",
+      "gloss": "bibande"
+    },
+    {
+      "surface": "וונתתה",
+      "gloss": "mpe okotya"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כתפות",
+      "gloss": "bakepi"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ya epode"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kati"
+    },
+    {
+      "surface": "מול",
+      "gloss": "elongo na"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "monjoli na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:31:18.451353697Z",
+  "model": "glm-5.3"
+}

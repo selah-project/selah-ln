@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 25:15",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Mpe bato yango ⟨bazalaki⟩ malamu mpo na biso makasi, mpe batyaki biso nsoni te, mpe tolekaki eloko te, na mikolo nyonso toyambaki ⟨את⟩ na bango, tango tozalaki na shamba.",
+  "tokens": [
+    {
+      "surface": "והאנשים",
+      "gloss": "Mpe bato"
+    },
+    {
+      "surface": "טבים",
+      "gloss": "malamu"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "mpo na biso"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "makasi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "הכלמנו",
+      "gloss": "batyaki biso nsoni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "פקדנו",
+      "gloss": "tolekaki"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "eloko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mikolo"
+    },
+    {
+      "surface": "התהלכנו",
+      "gloss": "toyambaki"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ na bango",
+      "marks": "na bango"
+    },
+    {
+      "surface": "בהיותנו",
+      "gloss": "tango tozalaki"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "na shamba"
+    }
+  ],
+  "timestamp": "2026-09-03T23:21:25.042347303Z",
+  "model": "glm-5.3"
+}

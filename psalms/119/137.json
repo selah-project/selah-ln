@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 137,
+  "ref": "psalms 119:137",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Yo ozali bosembo, Yawe, mpe bakuzi na yo ezali bondemi.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "ozali bosembo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "mpe ezali bondemi"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "bakuzi na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:32:26.815544058Z",
+  "model": "glm-5.3"
+}

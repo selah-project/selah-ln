@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 26:12",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "Bana ya Shimon, na banzoku na bango: ya Nemuel, bonzoku bwa Banemueli; ya Yamin, bonzoku bwa Bayamini; ya Yakin, bonzoku bwa Bayakini.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "bana ya"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimon"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "na banzoku na bango"
+    },
+    {
+      "surface": "לנמואל",
+      "gloss": "ya Nemuel"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "bonzoku"
+    },
+    {
+      "surface": "הנמואלי",
+      "gloss": "Banemueli"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "ya Yamin"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "bonzoku"
+    },
+    {
+      "surface": "הימיני",
+      "gloss": "Bayamini"
+    },
+    {
+      "surface": "ליכין",
+      "gloss": "ya Yakin"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "bonzoku"
+    },
+    {
+      "surface": "היכיני",
+      "gloss": "Bayakini"
+    }
+  ],
+  "timestamp": "2026-09-03T17:15:21.395935781Z",
+  "model": "glm-5.3"
+}

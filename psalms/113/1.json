@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 113:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 113,
+  "translation": "Bosanza, Ya! Bosanza, basaleli ya Yawe, bosanza ⟨את⟩ nkombo ya Yawe.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "bosanza"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "bosanza"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "basaleli ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "bosanza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkombo ya Yawe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "nkombo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T21:29:09.507271296Z",
+  "model": "glm-5.3"
+}

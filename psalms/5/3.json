@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 5:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Tala malamu mongongo ya boyei na ngai, mokonzi na ngai mpe Elohim na ngai, mpo ete epai na yo nazali kosenga.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "tala malamu"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "mongongo ya"
+    },
+    {
+      "surface": "שועי",
+      "gloss": "boyei na ngai"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "mokonzi na ngai"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "mpe Elohim na ngai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "epai na yo"
+    },
+    {
+      "surface": "אתפלל",
+      "gloss": "nazali kosenga"
+    }
+  ],
+  "timestamp": "2026-09-03T21:00:04.492249430Z",
+  "model": "glm-5.3"
+}

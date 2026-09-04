@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 70:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 70,
+  "translation": "Elohim, mpo na kobikisa ngai; Yawe, mpo na lisalisi na ngai, kanga noki ⟨mpo na kosala⟩.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "mpo na kobikisa ngai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "mpo na lisalisi na ngai"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "kanga noki"
+    }
+  ],
+  "timestamp": "2026-09-03T21:17:08.087740949Z",
+  "model": "glm-5.3"
+}

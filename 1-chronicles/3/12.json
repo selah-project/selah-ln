@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 3:12",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Amatsia mwana na ye, Azarya mwana na ye, Yotam mwana na ye.",
+  "tokens": [
+    {
+      "surface": "אמציהו",
+      "gloss": "Amatsia"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana na ye"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarya"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana na ye"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Yotam"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mwana na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T22:41:14.778432672Z",
+  "model": "glm-5.3"
+}

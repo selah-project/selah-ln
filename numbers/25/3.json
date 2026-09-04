@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 25:3",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Mpe Israel ekangamaki na Baal Peor, mpe munganga ya Yawe ekotaki na Israel.",
+  "tokens": [
+    {
+      "surface": "ויצמד",
+      "gloss": "Mpe ekangamaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "na Baal"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Peor"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "mpe ekotaki"
+    },
+    {
+      "surface": "אף",
+      "gloss": "munganga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "na Israel"
+    }
+  ],
+  "timestamp": "2026-09-03T17:15:22.626905411Z",
+  "model": "glm-5.3"
+}

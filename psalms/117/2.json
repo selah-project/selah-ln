@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 117:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 117,
+  "translation": "Mpo hesed na ye ekangi makasi likolo na biso, mpe bosolo ya Yawe ⟨ezali⟩ libela nyonso; bokumisa Ya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ekangi makasi"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "likolo na biso"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesed na ye"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "mpe bosolo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "libela nyonso"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "bokumisa"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    }
+  ],
+  "timestamp": "2026-09-03T21:29:59.749244899Z",
+  "model": "glm-5.3"
+}

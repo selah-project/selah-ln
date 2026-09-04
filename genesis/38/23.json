@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 38:23",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 38,
+  "translation": "Yehuda alobaki: Akanga yango mpo na ye, mpo te tokoma lokobo; talá, natindaki mwana ya mbizi oyo, mpe yo olukaki ye te.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "akanga"
+    },
+    {
+      "surface": "לה",
+      "gloss": "mpo na ye"
+    },
+    {
+      "surface": "פן",
+      "gloss": "mpo te ete"
+    },
+    {
+      "surface": "נהיה",
+      "gloss": "tokoma"
+    },
+    {
+      "surface": "לבוז",
+      "gloss": "lokobo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "talá"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "natindaki"
+    },
+    {
+      "surface": "הגדי",
+      "gloss": "mwana ya mbizi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "mpe yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "מצאתה",
+      "gloss": "olukaki ye"
+    }
+  ],
+  "timestamp": "2026-09-03T16:06:51.474421149Z",
+  "model": "glm-5.3"
+}

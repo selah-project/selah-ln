@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 14:24",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Mpe kohen azwa ⟨את⟩ elamba ya ashem mpe ⟨את⟩ log ya mafuta, mpe kohen akosesa ⟨את⟩ yango tenupha liboso ya Yawe.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "mpe azwa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elamba"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "elamba"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "ya ashem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "log"
+    },
+    {
+      "surface": "לג",
+      "gloss": "log"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "ya mafuta"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "mpe akosesa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "yango (elamba mpe log)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "tenupha"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T23:15:43.837946766Z",
+  "model": "glm-5.3"
+}

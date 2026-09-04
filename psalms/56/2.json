@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 56:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 56,
+  "translation": "Changela ngai Elohim, mpo ete moto aliukaka ngai; mokolo mobimba azali kobundisa ngai, aniamisa ngai.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Changela ngai"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "שאפני",
+      "gloss": "aliukaka ngai"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mobimba"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ya mokolo"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "azali kobundisa"
+    },
+    {
+      "surface": "ילחצני",
+      "gloss": "aniamisa ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:14:13.130823662Z",
+  "model": "glm-5.3"
+}

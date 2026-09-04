@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 106:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 106,
+  "translation": "Kasi Yawe abikisaki bango mpo na nkombo na ye, mpo na komonisa ⟨את⟩ nguya na ye.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "Kasi Yawe abikisaki bango"
+    },
+    {
+      "surface": "למען",
+      "gloss": "mpo na"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nkombo na ye"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "mpo na komonisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nguya na ye"
+    },
+    {
+      "surface": "גבורתו",
+      "gloss": "nguya na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:27:41.368569966Z",
+  "model": "glm-5.3"
+}

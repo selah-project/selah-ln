@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 30:29",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 30,
+  "translation": "Mpe alobaki epai na ye: Yo oyebi ⟨את⟩ oyo nasalaki yo na bomeseni, mpe ⟨את⟩ oyo bikelamu na yo ezalaki ⟨את⟩ elongo na ngai.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "epai na ye"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "oyebi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oyo nasalaki yo na bomeseni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "עבדתיך",
+      "gloss": "nasalaki yo na bomeseni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "oyo bikelamu na yo ezalaki elongo na ngai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ezalaki"
+    },
+    {
+      "surface": "מקנך",
+      "gloss": "bikelamu na yo"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ elongo na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T16:01:12.554498835Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 3:32",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpo moto oyo abungi nzela azali mokoso epai ya Yawe, kasi likonzi na ye ya mbombi ezali na babongi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "azali mokoso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "נלוז",
+      "gloss": "moto oyo abungi nzela"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ezali elongo na"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "babongi"
+    },
+    {
+      "surface": "סודו",
+      "gloss": "likonzi na ye ya mbombi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:38:31.258145758Z",
+  "model": "glm-5.3"
+}

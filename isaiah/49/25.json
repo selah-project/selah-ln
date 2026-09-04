@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 49:25",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 49,
+  "translation": "Mpo Yawe alobaki boye: ata bopekami ya mobwana ekangamamaka, mpe yambo ya mosembwi ekomatamaka; mpe ⟨את⟩ molwanisi na yo ngai nakolwana ⟨na ye⟩, mpe ⟨את⟩ bana na yo ngai nakobikisa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "כה",
+      "gloss": "boye"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ata"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "bopekami"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "mobwana"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ekangamamaka"
+    },
+    {
+      "surface": "ומלקוח",
+      "gloss": "mpe yambo"
+    },
+    {
+      "surface": "עריץ",
+      "gloss": "mosembwi"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "ekomatamaka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "molwanisi na yo"
+    },
+    {
+      "surface": "יריבך",
+      "gloss": "molwanisi na yo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "nakolwana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bana na yo"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "bana na yo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "אושיע",
+      "gloss": "nakobikisa"
+    }
+  ],
+  "timestamp": "2026-09-03T19:34:35.914054595Z",
+  "model": "glm-5.3"
+}

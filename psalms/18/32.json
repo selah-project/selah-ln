@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 18:32",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Mpo nani azali Eloa libanda ya Yawe? Mpe nani azali libanga longola Elohim na biso?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nani"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "azali Eloa"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "libanda ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "Mpe nani"
+    },
+    {
+      "surface": "צור",
+      "gloss": "azali libanga"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "longola"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim na biso"
+    }
+  ],
+  "timestamp": "2026-09-03T21:04:30.594501736Z",
+  "model": "glm-5.3"
+}

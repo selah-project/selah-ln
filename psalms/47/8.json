@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 47,
+  "translation": "Mpo Elohim ⟨azali⟩ mokonzi ya mabele mobimba; yembela na mayele.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mobimba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ya mabele"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "yembela"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "na mayele"
+    }
+  ],
+  "timestamp": "2026-09-03T21:11:58.307493062Z",
+  "model": "glm-5.3"
+}

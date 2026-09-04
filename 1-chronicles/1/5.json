@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 1:5",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Bana ya Yefet: Gomer, mpe Magog, mpe Madai, mpe Yavan, mpe Tuval, mpe Meshek, mpe Tiras.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Bana"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "ya Yefet"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomer"
+    },
+    {
+      "surface": "ומגוג",
+      "gloss": "mpe Magog"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "mpe Madai"
+    },
+    {
+      "surface": "ויון",
+      "gloss": "mpe Yavan"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "mpe Tuval"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "mpe Meshek"
+    },
+    {
+      "surface": "ותירס",
+      "gloss": "mpe Tiras"
+    }
+  ],
+  "timestamp": "2026-09-03T22:39:23.495275141Z",
+  "model": "glm-5.3"
+}

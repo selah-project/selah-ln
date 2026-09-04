@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 16:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Natyelaki Yawe liboso na ngai ntango nyonso; mpamte ⟨azali⟩ na loboko ya mobali na ngai, nakokweya te.",
+  "tokens": [
+    {
+      "surface": "שויתי",
+      "gloss": "Natyelaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "liboso na ngai"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ntango nyonso"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpamte"
+    },
+    {
+      "surface": "מימיני",
+      "gloss": "na loboko ya mobali na ngai"
+    },
+    {
+      "surface": "בל",
+      "gloss": "te"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "nakokweya"
+    }
+  ],
+  "timestamp": "2026-09-03T21:02:29.866121691Z",
+  "model": "glm-5.3"
+}

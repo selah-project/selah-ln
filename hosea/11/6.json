@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 11:6",
+  "book": "hosea",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpe ekangau ezwaki mibanga na ye, mpe esilisaki bakangisi na ye, mpe eliaki ⟨bango⟩ na mayemi na bango moko.",
+  "tokens": [
+    {
+      "surface": "וחלה",
+      "gloss": "mpe ezwaki"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ekangau"
+    },
+    {
+      "surface": "בעריו",
+      "gloss": "mibanga na ye"
+    },
+    {
+      "surface": "וכלתה",
+      "gloss": "mpe esilisaki"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "bakangisi na ye"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "mpe eliaki"
+    },
+    {
+      "surface": "ממעצותיהם",
+      "gloss": "na mayemi na bango moko"
+    }
+  ],
+  "timestamp": "2026-09-03T20:40:06.950719347Z",
+  "model": "glm-5.3"
+}

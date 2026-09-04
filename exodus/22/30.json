@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 22:30",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Mpe bato ya bokasi bobongo bato ya ngai; mpe eloku ya nyama oyo ekangamaki na esobe bokolia yango te; bokobwaka ⟨את⟩ yango epai ya mbwa.",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "mpe bato ya"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "bokasi"
+    },
+    {
+      "surface": "תהיון",
+      "gloss": "bobongo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bato ya ngai"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "mpe eloku ya nyama"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "na esobe"
+    },
+    {
+      "surface": "טרפה",
+      "gloss": "ekangamaki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "bokolia"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "epai ya mbwa"
+    },
+    {
+      "surface": "תשלכון",
+      "gloss": "bokobwaka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yango (eloku ya nyama)"
+    }
+  ],
+  "timestamp": "2026-09-03T16:24:38.438939849Z",
+  "model": "glm-5.3"
+}

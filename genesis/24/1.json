@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 24:1",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "Mpe Avraham azekaki, akotaki na mikolo mingi, mpe Yawe atombolaki ⟨את⟩ Avraham na nyonso.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "Mpe Avraham"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "azekaki"
+    },
+    {
+      "surface": "בא",
+      "gloss": "akotaki"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "na mikolo mingi"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "mpe Yawe"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "atombolaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na nyonso"
+    }
+  ],
+  "timestamp": "2026-09-03T15:55:42.660917585Z",
+  "model": "glm-5.3"
+}

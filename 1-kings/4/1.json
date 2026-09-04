@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 4:1",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Azalaki mokonzi Shelomo mokonzi likolo ya Israel nyonso.",
+  "tokens": [
+    {
+      "surface": "וַֽיְהִי",
+      "gloss": "Azalaki"
+    },
+    {
+      "surface": "הַמֶּ֣לֶךְ",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "שְׁלֹמֹ֔ה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "מֶ֖לֶךְ",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "יִשְׂרָאֵֽל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-09-03T18:44:07.085036430Z",
+  "model": "glm-5.3"
+}

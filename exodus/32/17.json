@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 32:17",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 32,
+  "translation": "Yehoshua ayokaki ⟨את⟩ mongongo ya bato na kobinga, mpe alobaki epai ya Moshe: mongongo ya etumba o kampinga!",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ayokaki"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mongongo"
+    },
+    {
+      "surface": "קול",
+      "gloss": "mongongo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ya bato"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "na kobinga"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "mongongo"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ya etumba"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "o kampinga"
+    }
+  ],
+  "timestamp": "2026-09-03T16:34:34.430763375Z",
+  "model": "glm-5.3"
+}

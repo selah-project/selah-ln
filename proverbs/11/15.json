@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 11:15",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Moto moko akokweya na mabe soki aponi ⟨את⟩ ndelo mpo na mopaya, kasi oyo aboyaka ⟨את⟩ bokangami ya maboko azali na libateli.",
+  "tokens": [
+    {
+      "surface": "רע",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "akokweya-na"
+    },
+    {
+      "surface": "כי",
+      "gloss": "soki"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "aponi-ndelo"
+    },
+    {
+      "surface": "זר",
+      "gloss": "mopaya"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "kasi oyo-aboyaka"
+    },
+    {
+      "surface": "תקעים",
+      "gloss": "bokangami-ya-maboko"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "azali-na-libateli"
+    }
+  ],
+  "timestamp": "2026-09-03T21:42:03.398305798Z",
+  "model": "glm-5.3"
+}

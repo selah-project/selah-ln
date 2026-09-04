@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 25:17",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Bokanga ⟨את⟩ baMidiani, mpe boboma ⟨את⟩ bango.",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "bokanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baMidiani"
+    },
+    {
+      "surface": "המדינים",
+      "gloss": "baMidiani"
+    },
+    {
+      "surface": "והכיתם",
+      "gloss": "mpe boboma"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ bango"
+    }
+  ],
+  "timestamp": "2026-09-03T17:13:53.390415670Z",
+  "model": "glm-5.3"
+}

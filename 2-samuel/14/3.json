@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 14:3",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Mpe okokota epai ya mokonzi, mpe okoloba epai na ye liloba ndenge oyo. Mpe Yoav atyaki ⟨את⟩ maloba na monoko na ye.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "mpe okokota"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "mpe okoloba"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "epai na ye"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "liloba ndenge"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "mpe atyaki"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maloba"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "maloba"
+    },
+    {
+      "surface": "בפיה",
+      "gloss": "na monoko na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T18:34:17.913990652Z",
+  "model": "glm-5.3"
+}

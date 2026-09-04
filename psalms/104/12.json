@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 104:12",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 104,
+  "translation": "Likolo na yango ndeke ya likolo bafandaka; kati ya mateke bapesaka mongongo.",
+  "tokens": [
+    {
+      "surface": "עליהם",
+      "gloss": "Likolo na yango"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ndeke"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ya likolo"
+    },
+    {
+      "surface": "ישכון",
+      "gloss": "bafandaka"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "kati"
+    },
+    {
+      "surface": "עפאים",
+      "gloss": "mateke"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "bapesaka"
+    },
+    {
+      "surface": "קול",
+      "gloss": "mongongo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:25:50.197247719Z",
+  "model": "glm-5.3"
+}

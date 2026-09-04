@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 89:11",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 89,
+  "translation": "Yo obukaki Rahab lokola oyo bakangi bomoi; na loboko ya nguya na yo osekwisaki banguna na yo.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "דכאת",
+      "gloss": "obukaki"
+    },
+    {
+      "surface": "כחלל",
+      "gloss": "lokola oyo bakangi bomoi"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "Rahab"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "na loboko"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "ya nguya na yo"
+    },
+    {
+      "surface": "פזרת",
+      "gloss": "osekwisaki"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "banguna na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:22:34.422633020Z",
+  "model": "glm-5.3"
+}

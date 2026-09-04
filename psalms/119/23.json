@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 119:23",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Ata bakonzi bafandaki, na ngai balobaki mabe; mosaleli na yo akanisaki na mibeko na yo.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ata"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "bafandaki"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "bakonzi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "נדברו",
+      "gloss": "balobaki mabe"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mosaleli na yo"
+    },
+    {
+      "surface": "ישיח",
+      "gloss": "akanisaki"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "na mibeko na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:31:18.246221704Z",
+  "model": "glm-5.3"
+}

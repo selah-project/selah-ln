@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "joshua 19:37",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "mpe Kedesh, mpe Edrei, mpe En-Chatsor",
+  "tokens": [
+    {
+      "surface": "וקדש",
+      "gloss": "mpe Kedesh"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "mpe Edrei"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "mpe En"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Chatsor"
+    }
+  ],
+  "timestamp": "2026-09-03T17:52:15.571736563Z",
+  "model": "glm-5.3"
+}

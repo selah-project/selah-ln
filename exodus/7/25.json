@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mikolo sambo emalaki, sima ya Yawe kokoutela ⟨את⟩ ebale.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "emalaki"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sambo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mikolo"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sima ya"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "kokoutela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ebale"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "ebale"
+    }
+  ],
+  "timestamp": "2026-09-03T16:17:14.235334794Z",
+  "model": "glm-5.3"
+}

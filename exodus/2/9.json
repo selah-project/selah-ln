@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 2:9",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Mwana mwasi ya Parao alobaki na ye: Mema ⟨את⟩ mwana oyo, mpe mela ye mpo na ngai, mpe ngai nakopesa ⟨את⟩ mbongo ya misala na yo. Mwasi azwaki ⟨את⟩ mwana, mpe amelaki ye.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "לה",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana mwasi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Parao"
+    },
+    {
+      "surface": "היליכי",
+      "gloss": "Mema"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwana"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "והינקהו",
+      "gloss": "mpe mela ye"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mpo na ngai"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "mpe ngai"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "nakopesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbongo ya misala na yo"
+    },
+    {
+      "surface": "שכרך",
+      "gloss": "mbongo ya misala na yo"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "azwaki"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mwasi"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "ותניקהו",
+      "gloss": "mpe amelaki ye"
+    }
+  ],
+  "timestamp": "2026-09-03T23:12:34.527160036Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 3:14",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpo mombongo na yango malamu koleka mombongo ya bele, mpe mosolo na yango koleka sole ya malamu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "malamu"
+    },
+    {
+      "surface": "סחרה",
+      "gloss": "mombongo na yango"
+    },
+    {
+      "surface": "מסחר",
+      "gloss": "mombongo ya"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "bele"
+    },
+    {
+      "surface": "ומחרוץ",
+      "gloss": "mpe ... sole ya malamu"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "mosolo na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:38:09.446744150Z",
+  "model": "glm-5.3"
+}

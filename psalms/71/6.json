@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 71:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 71,
+  "translation": "Epai na yo nakangamaki uta na libumu, uta na kati ya mama na ngai yo onyoli ngai; na yo bokumisi na ngai ezali ntango nyonso.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "Epai na yo"
+    },
+    {
+      "surface": "נסמכתי",
+      "gloss": "nakangamaki"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "uta na libumu"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "uta na kati ya"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mama na ngai"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "גוזי",
+      "gloss": "onyoli ngai"
+    },
+    {
+      "surface": "בך",
+      "gloss": "na yo"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "bokumisi na ngai"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ntango nyonso"
+    }
+  ],
+  "timestamp": "2026-09-03T21:16:48.295062351Z",
+  "model": "glm-5.3"
+}

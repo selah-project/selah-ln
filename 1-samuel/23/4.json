@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 23:4",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "David abakisaki lisusu kosenga epai ya Yawe, mpe Yawe ayanaki ye mpe alobaki: Lamuka, kita na Kela, mpo ete ngai nazali kopesa ⟨את⟩ Bapelisiti na maboko na yo.",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "abakisaki"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lisusu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לשאל",
+      "gloss": "kosenga"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "epai ya Yawe"
+    },
+    {
+      "surface": "ויענהו",
+      "gloss": "ayanaki ye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Lamuka"
+    },
+    {
+      "surface": "רד",
+      "gloss": "kita"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "na Kela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nazali kopesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bapelisiti"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Bapelisiti"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "na maboko na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T18:21:34.171825741Z",
+  "model": "glm-5.3"
+}

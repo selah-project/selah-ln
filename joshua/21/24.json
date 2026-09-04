@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 21:24",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "⟨את⟩ Ayalon mpe ⟨את⟩ esika-bolamba na yango, ⟨את⟩ Gat-Rimon mpe ⟨את⟩ esika-bolamba na yango; mboka minei.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ayalon"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ayalon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "esika-bolamba na yango"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gat-Rimon"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Rimon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "esika-bolamba na yango"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "mboka"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "minei"
+    }
+  ],
+  "timestamp": "2026-09-03T17:52:53.756832652Z",
+  "model": "glm-5.3"
+}

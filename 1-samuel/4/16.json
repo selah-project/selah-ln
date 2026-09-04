@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 4:16",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Moto alobaki na Eli: Ngai nde nayaki uta na mampinga, mpe lelo nakimaki na mampinga. Mpe alobaki: Likambo nini esalamaki, mwana na ngai?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "nayaki"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uta na"
+    },
+    {
+      "surface": "המערכה",
+      "gloss": "mampinga"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "mpe ngai"
+    },
+    {
+      "surface": "מן",
+      "gloss": "na"
+    },
+    {
+      "surface": "המערכה",
+      "gloss": "mampinga"
+    },
+    {
+      "surface": "נסתי",
+      "gloss": "nakimaki"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lelo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "היה",
+      "gloss": "esalamaki"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "likambo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mwana na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T18:11:53.460414014Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 37:1",
+  "book": "ezekiel",
+  "lang": "ln",
+  "chapter": 37,
+  "translation": "Maboko ya Yawe ezalaki na ngai, mpe Yawe abimisaki ngai na elimo, mpe atyaki ngai katikati ya libwaka, mpe yango ezalaki etondi na miku.",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "ezalaki"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "יד",
+      "gloss": "maboko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויוצאני",
+      "gloss": "mpe abimisaki ngai"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "na elimo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ויניחני",
+      "gloss": "mpe atyaki ngai"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "katikati ya"
+    },
+    {
+      "surface": "הבקעה",
+      "gloss": "libwaka"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "mpe yango"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "etondi"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "miku"
+    }
+  ],
+  "timestamp": "2026-09-03T20:30:25.334647621Z",
+  "model": "glm-5.3"
+}

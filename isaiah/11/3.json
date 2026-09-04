@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 11:3",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "Mpe bobangi ya Yawe esali ye esengo; mpe akoteka te na ndenge misu na ye emonaka, mpe akososa te na ndenge matoyi na ye moyokaka.",
+  "tokens": [
+    {
+      "surface": "והריחו",
+      "gloss": "esali ye esengo"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "bobangi ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "למראה",
+      "gloss": "na ndenge"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "misu na ye emonaka"
+    },
+    {
+      "surface": "ישפוט",
+      "gloss": "akoteka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "למשמע",
+      "gloss": "na ndenge"
+    },
+    {
+      "surface": "אזניו",
+      "gloss": "matoyi na ye moyokaka"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "akososa"
+    }
+  ],
+  "timestamp": "2026-09-03T19:18:47.705368804Z",
+  "model": "glm-5.3"
+}

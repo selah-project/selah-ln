@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 8:20",
+  "book": "judges",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe alobaki na Yeter, mwana na ye ya liboso: Talama, boma ⟨את⟩ bango. Mpe mosankuru abimaki te lilomba na ye, mpo azalaki kobanga, mpo akaki kaka mosankuru.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "ליתר",
+      "gloss": "na Yeter"
+    },
+    {
+      "surface": "בכורו",
+      "gloss": "mwana ya liboso"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Talama"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "boma"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ bango",
+      "marks": "bango"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "te"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "abimaki"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mosankuru"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "lilomba na ye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "azalaki kobanga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "akaki kaka"
+    },
+    {
+      "surface": "נער",
+      "gloss": "mosankuru"
+    }
+  ],
+  "timestamp": "2026-09-03T18:01:08.670659743Z",
+  "model": "glm-5.3"
+}

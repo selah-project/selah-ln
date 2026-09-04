@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 9:15",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Mpe ayambisaki ⟨את⟩ ofelo ya bato, mpe azwaki ⟨את⟩ mbuci ya mobali, ofelo ya libebe oyo ezalaki mpo na bato, mpe abomaki yango, mpe asalaki yango lokola ofelo ya libebe, lokola ya liboso.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "ayambisaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ofelo"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "ofelo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ya bato"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "azwaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbuci ya mobali"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "mbuci ya mobali"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ofelo ya libebe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "mpo na bato"
+    },
+    {
+      "surface": "וישחטהו",
+      "gloss": "abomaki yango"
+    },
+    {
+      "surface": "ויחטאהו",
+      "gloss": "asalaki yango lokola ofelo ya libebe"
+    },
+    {
+      "surface": "כראשון",
+      "gloss": "lokola ya liboso"
+    }
+  ],
+  "timestamp": "2026-09-03T16:43:33.531312790Z",
+  "model": "glm-5.3"
+}

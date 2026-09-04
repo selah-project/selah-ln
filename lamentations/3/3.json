@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 3:3",
+  "book": "lamentations",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Ya solo, azongaka epai na ngai; akabolaka maboko na ye mokolo nyonso.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Ya solo"
+    },
+    {
+      "surface": "בי",
+      "gloss": "epai na ngai"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "azongaka"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "akabolaka"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "maboko na ye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "היום",
+      "gloss": "mokolo"
+    }
+  ],
+  "timestamp": "2026-09-03T22:10:50.194473748Z",
+  "model": "glm-5.3"
+}

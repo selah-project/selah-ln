@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 4:17",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe Yehoshua atindaki ⟨את⟩ bakohen, aloba: Bimani na Yarden.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Mpe atindaki"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bakohen"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "bakohen"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "aloba"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "Bimani"
+    },
+    {
+      "surface": "מן",
+      "gloss": "na"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yarden"
+    }
+  ],
+  "timestamp": "2026-09-03T17:43:22.849754265Z",
+  "model": "glm-5.3"
+}

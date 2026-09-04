@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 46:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 46,
+  "translation": "Bikolo basalaki bubu, bamaminga mibongwanaki; alobaki na mongongo na yango, mabele sanzelemaki.",
+  "tokens": [
+    {
+      "surface": "המו",
+      "gloss": "basalaki bubu"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bikolo"
+    },
+    {
+      "surface": "מטו",
+      "gloss": "mibongwanaki"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "bamaminga"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "בקולו",
+      "gloss": "na mongongo na yango"
+    },
+    {
+      "surface": "תמוג",
+      "gloss": "sanzelemaki"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T21:11:56.870997425Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 4:16",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe Kayin abimaki uta liboso ya Yawe, mpe afandaki na mabele ya Nod, na moniŋɛ ya Edene.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "abimaki"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kayin"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "uta liboso ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "afandaki"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "נוד",
+      "gloss": "Nod"
+    },
+    {
+      "surface": "קדמת",
+      "gloss": "na moniŋɛ ya"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "Edene"
+    }
+  ],
+  "timestamp": "2026-09-03T15:45:17.407120188Z",
+  "model": "glm-5.3"
+}

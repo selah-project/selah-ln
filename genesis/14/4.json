@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 14:4",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Mikola zomi na mibale basalaki mosala na ⟨את⟩ Kedarlaomer, mpe na mbula zomi na misato babundaki ⟨na ye⟩.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "Mikola zomi na mibale"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": ""
+    },
+    {
+      "surface": "שנה",
+      "gloss": "basalaki mosala"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "na"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedarlaomer"
+    },
+    {
+      "surface": "כדרלעמר",
+      "gloss": "Kedarlaomer"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "mpe na mbula zomi na misato"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": ""
+    },
+    {
+      "surface": "שנה",
+      "gloss": ""
+    },
+    {
+      "surface": "מרדו",
+      "gloss": "babundaki"
+    }
+  ],
+  "timestamp": "2026-09-03T15:50:36.184704810Z",
+  "model": "glm-5.3"
+}

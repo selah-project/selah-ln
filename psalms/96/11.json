@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 96:11",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 96,
+  "translation": "Likolo esepela, mpe mabele esanka; ebale ekwakwa mpe bosoi na yango.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "esepela"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "Likolo"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "mpe esanka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "ekwakwa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ebale"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "mpe bosoi na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:24:21.519030213Z",
+  "model": "glm-5.3"
+}

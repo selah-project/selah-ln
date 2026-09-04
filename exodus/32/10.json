@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 32:10",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 32,
+  "translation": "Mpe sikoyo tika ngai, mpe kanda na ngai ekofuka na bango, mpe nakolawa bango, mpe nakosala ⟨את⟩ yo mboka monene.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Mpe sikoyo"
+    },
+    {
+      "surface": "הניחה",
+      "gloss": "tika"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "ekofuka"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "kanda na ngai"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "ואכלם",
+      "gloss": "mpe nakolawa bango"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "mpe nakosala"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "yo (Moshe)"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "mboka"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "monene"
+    }
+  ],
+  "timestamp": "2026-09-03T16:33:07.337928225Z",
+  "model": "glm-5.3"
+}

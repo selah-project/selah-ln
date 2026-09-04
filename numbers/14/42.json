@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 14:42",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 14,
+  "translation": "Bokwama te, mpo Yawe azali te kati na bino, mpe bokofa te liboso ya banguna na bino.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "bokwama"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "azali te"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "kati na bino"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "תנגפו",
+      "gloss": "bokofa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "banguna na bino"
+    }
+  ],
+  "timestamp": "2026-09-03T17:08:20.349726437Z",
+  "model": "glm-5.3"
+}

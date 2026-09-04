@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 10:12",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Mibali ya nguya nyonso batandaki, bamaki ⟨את⟩ nzoto ya Shaul mpe ⟨את⟩ nzoto ya bana na ye, bamemaki yango na Yavesh, mpe bakundaki ⟨את⟩ mikuwa na bango na nse ya nzete na Yavesh, mpe bafelaki mikolo sambo.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "batandaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mibali"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ya nguya"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "bamaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nzoto ya Shaul"
+    },
+    {
+      "surface": "גופת",
+      "gloss": "nzoto"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ya Shaul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "nzoto ya bana na ye"
+    },
+    {
+      "surface": "גופת",
+      "gloss": "nzoto"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ya bana na ye"
+    },
+    {
+      "surface": "ויביאום",
+      "gloss": "bamemaki yango"
+    },
+    {
+      "surface": "יבישה",
+      "gloss": "na Yavesh"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "bakundaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mikuwa na bango"
+    },
+    {
+      "surface": "עצמותיהם",
+      "gloss": "mikuwa na bango"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "na nse ya"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "nzete"
+    },
+    {
+      "surface": "ביבש",
+      "gloss": "na Yavesh"
+    },
+    {
+      "surface": "ויצומו",
+      "gloss": "bafelaki"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sambo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mikolo"
+    }
+  ],
+  "timestamp": "2026-09-03T22:44:35.363365688Z",
+  "model": "glm-5.3"
+}

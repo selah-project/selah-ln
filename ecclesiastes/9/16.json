@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 9:16",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Mpe ngai nalobaki: boyebi eleki nguya; kasi boyebi ya moto ya mawa eboyami, mpe maloba na ye bayokaka yango te.",
+  "tokens": [
+    {
+      "surface": "ואמרתי",
+      "gloss": "mpe nalobaki"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "eleki"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "boyebi"
+    },
+    {
+      "surface": "מגבורה",
+      "gloss": "nguya"
+    },
+    {
+      "surface": "וחכמת",
+      "gloss": "kasi boyebi"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "ya moto ya mawa"
+    },
+    {
+      "surface": "בזויה",
+      "gloss": "eboyami"
+    },
+    {
+      "surface": "ודבריו",
+      "gloss": "mpe maloba na ye"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "te"
+    },
+    {
+      "surface": "נשמעים",
+      "gloss": "bayokaka yango"
+    }
+  ],
+  "timestamp": "2026-09-03T23:39:27.950408366Z",
+  "model": "glm-5.3"
+}

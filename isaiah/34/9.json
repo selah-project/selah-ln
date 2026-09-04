@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 34:9",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 34,
+  "translation": "Balongo na yango ekobalusama zefe, mpe mpute na yango sufele; mabele na yango ekokoma zefe elaka moto.",
+  "tokens": [
+    {
+      "surface": "וְנֶהֶפְכוּ",
+      "gloss": "ekobalusama"
+    },
+    {
+      "surface": "נְחָלֶיהָ",
+      "gloss": "balongo na yango"
+    },
+    {
+      "surface": "לְזֶפֶת",
+      "gloss": "zefe"
+    },
+    {
+      "surface": "וַעֲפָרָהּ",
+      "gloss": "mpe mpute na yango"
+    },
+    {
+      "surface": "לְגָפְרִית",
+      "gloss": "sufele"
+    },
+    {
+      "surface": "וְהָיְתָה",
+      "gloss": "mpe ekokoma"
+    },
+    {
+      "surface": "אַרְצָהּ",
+      "gloss": "mabele na yango"
+    },
+    {
+      "surface": "לְזֶפֶת",
+      "gloss": "zefe"
+    },
+    {
+      "surface": "בֹּעֵרָה",
+      "gloss": "elaka moto"
+    }
+  ],
+  "timestamp": "2026-09-03T19:27:07.713575282Z",
+  "model": "glm-5.3"
+}

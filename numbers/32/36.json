@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 32:36",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 32,
+  "translation": "mpe ⟨את⟩ Bet-Nimra, mpe ⟨את⟩ Bet-Haran, bamboka ya makasi, mpe bibonge ya bituku.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Bet-Nimra"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "נמרה",
+      "gloss": "Nimra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Bet-Haran"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Haran"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "bamboka"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "ya makasi"
+    },
+    {
+      "surface": "וגדרת",
+      "gloss": "mpe bibonge ya"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "bituku"
+    }
+  ],
+  "timestamp": "2026-09-03T17:19:08.706990945Z",
+  "model": "glm-5.3"
+}

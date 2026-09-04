@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 9:7",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Mpe bino, botana mpe bokita; bolanda mingi na mabele, mpe bokita na yango.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Mpe bino"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "botana"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "mpe bokita"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "bolanda mingi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "mpe bokita"
+    },
+    {
+      "surface": "בה",
+      "gloss": "na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T15:46:41.187490653Z",
+  "model": "glm-5.3"
+}

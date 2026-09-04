@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 5:9",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Mosala ekokoma mungongo likolo ya bato, mpe bakosalaka yango, mpe batalaka te na maloba ya lokuta.",
+  "tokens": [
+    {
+      "surface": "תכבד",
+      "gloss": "ekokoma mungongo"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "mosala"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "bato"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "mpe bakosalaka"
+    },
+    {
+      "surface": "בה",
+      "gloss": "yango"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mpe batalaka te"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "batalaka"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "na maloba"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ya lokuta"
+    }
+  ],
+  "timestamp": "2026-09-03T16:14:20.746812014Z",
+  "model": "glm-5.3"
+}

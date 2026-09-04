@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "joshua 8:32",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe akomaki kuna na mabanga ⟨את⟩ mokemoke ya Tora ya Moshe, oyo akomaki liboso ya bana ya Israel.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "mpe akomaki"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "mabanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mokemoke ya Tora"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "mokemoke"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "ya Tora"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ya Moshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "akomaki"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    }
+  ],
+  "timestamp": "2026-09-03T17:47:28.968822594Z",
+  "model": "glm-5.3"
+}

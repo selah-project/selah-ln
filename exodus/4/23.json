@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 4:23",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe natangaki na yo: Bimisa ⟨את⟩ mwana na ngai mpo asalela ngai; mpe olingaki te kobimisa ye; talá, ngai nakoloma ⟨את⟩ mwana na yo, mwana-liboso na yo.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Mpe natangaki"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "na yo"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Bimisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwana na ngai"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mwana na ngai"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "mpo asalela ngai"
+    },
+    {
+      "surface": "ותמאן",
+      "gloss": "mpe olingaki te"
+    },
+    {
+      "surface": "לשלחו",
+      "gloss": "kobimisa ye"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "talá"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "nakoloma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwana na yo"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "mwana na yo"
+    },
+    {
+      "surface": "בכרך",
+      "gloss": "mwana-liboso na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T16:14:50.786085816Z",
+  "model": "glm-5.3"
+}

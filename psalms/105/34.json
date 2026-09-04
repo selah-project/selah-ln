@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 105:34",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 105,
+  "translation": "Alobaki, mpe bwakisi yaki, mpe yelek (lolenge ya bwakisi) yaki, mpe motango ezalaki te.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Alobaki"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "mpe ... yaki"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "bwakisi"
+    },
+    {
+      "surface": "וילק",
+      "gloss": "mpe yelek ... yaki"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mpe ... ezalaki te"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "motango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:27:39.889443207Z",
+  "model": "glm-5.3"
+}

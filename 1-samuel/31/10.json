@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 31:10",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 31,
+  "translation": "Batyaki ⟨את⟩ bizenga bya ye na ndako ya Ashtarot, mpe ⟨את⟩ nzoto na ye bakanaki na eloŋgo ya Bet-Shan.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "batyaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bizenga bya ye"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "bizenga bya ye"
+    },
+    {
+      "surface": "בית",
+      "gloss": "na ndako"
+    },
+    {
+      "surface": "עשתרות",
+      "gloss": "ya Ashtarot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "nzoto na ye"
+    },
+    {
+      "surface": "גויתו",
+      "gloss": "nzoto na ye"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "bakanaki"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "na eloŋgo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "שן",
+      "gloss": "Shan"
+    }
+  ],
+  "timestamp": "2026-09-03T18:25:56.864755255Z",
+  "model": "glm-5.3"
+}

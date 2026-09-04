@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 17:2",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 17,
+  "translation": "Mpe liloba ya Yawe eutaki epai na Eliyahu, kolobaka:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mpe eutaki"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "liloba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "epai na ye"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "kolobaka"
+    }
+  ],
+  "timestamp": "2026-09-03T18:54:32.069239130Z",
+  "model": "glm-5.3"
+}

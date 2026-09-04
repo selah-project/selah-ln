@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 15:32",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 15,
+  "translation": "Mpe etumba ezalaki kati na Asa mpe kati na Basha, mokonzi ya Israel, miku na bango nyonso.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "Mpe etumba"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ezalaki"
+    },
+    {
+      "surface": "בין",
+      "gloss": "kati na"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "mpe kati na"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Basha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "miku na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T18:53:29.829724167Z",
+  "model": "glm-5.3"
+}

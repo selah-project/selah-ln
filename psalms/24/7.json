@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 24:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "Bobola mitu na bino, banzela, mpe bolongolama, bilipa ya ntango ya milele, mpe akokota mokonzi wa nkembo.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Bobola"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "banzela"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "mitu na bino"
+    },
+    {
+      "surface": "והנשאו",
+      "gloss": "mpe bolongolama"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "bilipa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ya ntango ya milele"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "mpe akokota"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "wa nkembo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:06:38.538660438Z",
+  "model": "glm-5.3"
+}

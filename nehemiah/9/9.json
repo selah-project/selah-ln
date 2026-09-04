@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 9:9",
+  "book": "nehemiah",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Omonaki ⟨את⟩ mpasi ya bankoko na biso na Mitsraim, mpe ⟨את⟩ bondeli na bango oyokaki na likolo ya mbu Suf.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "omonaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mpasi ya bankoko na biso"
+    },
+    {
+      "surface": "עני",
+      "gloss": "mpasi"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "bankoko na biso"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "na Mitsraim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bondeli na bango"
+    },
+    {
+      "surface": "זעקתם",
+      "gloss": "bondeli na bango"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "oyokaki"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "ים",
+      "gloss": "mbu"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Suf"
+    }
+  ],
+  "timestamp": "2026-09-03T22:37:05.939448382Z",
+  "model": "glm-5.3"
+}

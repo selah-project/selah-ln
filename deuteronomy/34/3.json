@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 34:3",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 34,
+  "translation": "mpe ⟨את⟩ Negev, mpe ⟨את⟩ bonene — etando ya Yericho, engumba ya banzete ya tende — kino na Tsoar.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Negev"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "Negev"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bonene"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "bonene"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "etando"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Yericho"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "engumba"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "banzete ya tende"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "צער",
+      "gloss": "Tsoar"
+    }
+  ],
+  "timestamp": "2026-09-03T17:42:00.121383883Z",
+  "model": "glm-5.3"
+}

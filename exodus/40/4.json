@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 40:4",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 40,
+  "translation": "Mpe omingela ⟨את⟩ mesa, mpe otya etando na yango; mpe omingela ⟨את⟩ menola, mpe otyaka ⟨את⟩ banele na yango.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "Mpe omingela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mesa"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "mesa"
+    },
+    {
+      "surface": "וערכת",
+      "gloss": "mpe otya etando"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "etando na yango"
+    },
+    {
+      "surface": "ערכו",
+      "gloss": "etando na yango"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "mpe omingela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "menola"
+    },
+    {
+      "surface": "המנורה",
+      "gloss": "menola"
+    },
+    {
+      "surface": "והעלית",
+      "gloss": "mpe otyaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "banele na yango"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "banele na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:39:22.799424541Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 37:22",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 37,
+  "translation": "Bokapo na yango na bakana na yango na yango ⟨moko⟩ ezalaki; mobimba na yango ezalaki mosala moko ya kofunda, na wolo ya pete.",
+  "tokens": [
+    {
+      "surface": "כפתריהם",
+      "gloss": "bokapo na yango"
+    },
+    {
+      "surface": "וקנתם",
+      "gloss": "mpe bakana na yango"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ezalaki"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "mobimba na yango"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "mosala ya kofunda"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "moko"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "wolo"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ya pete"
+    }
+  ],
+  "timestamp": "2026-09-03T16:35:45.909922218Z",
+  "model": "glm-5.3"
+}

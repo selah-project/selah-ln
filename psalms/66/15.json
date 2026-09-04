@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 66:15",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 66,
+  "translation": "Nsemba ya kokaka ya mafuta nakopesa yo, elongo na nkangwa ya babele; nasali bantole elongo na bapiti. Selah.",
+  "tokens": [
+    {
+      "surface": "עלות",
+      "gloss": "nsemba ya kokaka"
+    },
+    {
+      "surface": "מחים",
+      "gloss": "ya mafuta"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "nakopesa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "elongo na"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "nkangwa"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "ya babele"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "nasali"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "bantole"
+    },
+    {
+      "surface": "עם",
+      "gloss": "elongo na"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "bapiti"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-03T21:15:39.918671885Z",
+  "model": "glm-5.3"
+}

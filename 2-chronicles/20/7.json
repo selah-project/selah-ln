@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 20:7",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 20,
+  "translation": "Soki te yo ozali Elohim na biso, olongwisi ⟨את⟩ bato oyo bafandi mabele oyo liboso ya bato na yo Israel, mpe opeki yango na libota ya Avraham, oyo alingaka yo, seko.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Soki te"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ozali Elohim na biso"
+    },
+    {
+      "surface": "הורשת",
+      "gloss": "olongwisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bato oyo bafandi mabele oyo"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "bato oyo bafandi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bato na yo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ותתנה",
+      "gloss": "mpe opeki yango"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "na libota ya"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אהבך",
+      "gloss": "oyo alingaka yo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "seko"
+    }
+  ],
+  "timestamp": "2026-09-03T23:02:01.157905508Z",
+  "model": "glm-5.3"
+}

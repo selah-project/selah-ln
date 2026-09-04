@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 28:6",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 28,
+  "translation": "mpe lokola mpema ya bosolo, ya moto oyo azali likolo ya bosolo, mpe lokola nguya ya bayanolaka bitumba kino na moniele.",
+  "tokens": [
+    {
+      "surface": "ולרוח",
+      "gloss": "mpe lokola mpema"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ya bosolo"
+    },
+    {
+      "surface": "ליושב",
+      "gloss": "ya moto oyo azali"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "bosolo"
+    },
+    {
+      "surface": "ולגבורה",
+      "gloss": "mpe lokola nguya"
+    },
+    {
+      "surface": "משיבי",
+      "gloss": "ya bayanolaka"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "bitumba"
+    },
+    {
+      "surface": "שערה",
+      "gloss": "kino na moniele"
+    }
+  ],
+  "timestamp": "2026-09-03T19:23:25.593453105Z",
+  "model": "glm-5.3"
+}

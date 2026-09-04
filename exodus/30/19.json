@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 30:19",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 30,
+  "translation": "Mpe Aharon mpe bana na ye bakosukola na yango ⟨את⟩ maboko na bango mpe ⟨את⟩ makolo na bango.",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "Mpe bakosukola"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "mpe bana na ye"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maboko na bango"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "maboko na bango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "makolo na bango"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "makolo na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:31:32.396245559Z",
+  "model": "glm-5.3"
+}

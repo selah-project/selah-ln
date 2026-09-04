@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 5:10",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 5,
+  "translation": "Mpe Enosh abandaki kovela, sima ya kobota ⟨את⟩ Kenan, zomi na mitano mibula mpe nkama mwambe mibula, mpe abotaki bana mibali mpe bana basi.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "abandaki kovela"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enosh"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "sima ya"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "kobota"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenan"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Kenan"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "mitano"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "zomi na"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mibula"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "mpe nkama mwambe"
+    },
+    {
+      "surface": "מאות",
+      "gloss": ""
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mibula"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "mpe abotaki"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bana mibali"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "mpe bana basi"
+    }
+  ],
+  "timestamp": "2026-09-03T15:45:07.259244181Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 16:16",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Mpe Avram azalaki mwana ya mbula ntuku mwambe na motoba tango Hagar abotaki ⟨את⟩ Yishmael na Avram.",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "mpe Avram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "ya mbula ntuku mwambe"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mbula"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "mpe motoba"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mbula"
+    },
+    {
+      "surface": "בלדת",
+      "gloss": "tango abotaki"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Hagar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yishmael"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yishmael"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "na Avram"
+    }
+  ],
+  "timestamp": "2026-09-03T15:51:17.165440895Z",
+  "model": "glm-5.3"
+}

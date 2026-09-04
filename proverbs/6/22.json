@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 6:22",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Ntango ozali kotambola, yango ekambaka ⟨את⟩ yo; ntango ozali kolala, yango ebatelaka yo; mpe ntango osubuki, yango elobela yo.",
+  "tokens": [
+    {
+      "surface": "בהתהלכך",
+      "gloss": "Ntango ozali kotambola"
+    },
+    {
+      "surface": "תנחה",
+      "gloss": "ekambaka"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "yo"
+    },
+    {
+      "surface": "בשכבך",
+      "gloss": "ntango ozali kolala"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "ebatelaka"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "yo"
+    },
+    {
+      "surface": "והקיצות",
+      "gloss": "mpe ntango osubuki"
+    },
+    {
+      "surface": "היא",
+      "gloss": "yango"
+    },
+    {
+      "surface": "תשיחך",
+      "gloss": "elobela yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:39:06.174099502Z",
+  "model": "glm-5.3"
+}

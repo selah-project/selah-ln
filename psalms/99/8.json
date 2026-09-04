@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 99:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 99,
+  "translation": "Yawe Elohim na biso, yo oyanolaki bango; El molangi ozalaki na bango, mpe mopesi etumbu na misala na bango.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim na biso"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "עניתם",
+      "gloss": "oyanolaki bango"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "molangi"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ozalaki"
+    },
+    {
+      "surface": "להם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "ונקם",
+      "gloss": "mpe mopesi etumbu"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "עלילותם",
+      "gloss": "misala na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:26:29.839468745Z",
+  "model": "glm-5.3"
+}

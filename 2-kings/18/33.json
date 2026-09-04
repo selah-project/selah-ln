@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 18:33",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Babombaki banga? Banzambe ya bikolo, moto na moto, babombi ⟨את⟩ mabele na ye na loboko ya mokonzi wa Ashur?",
+  "tokens": [
+    {
+      "surface": "ההצל",
+      "gloss": "Babombaki banga?"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "babombi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "banzambe"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ya bikolo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "moto na moto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mabele na ye"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "mabele na ye"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "na loboko"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ya mokonzi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "wa Ashur"
+    }
+  ],
+  "timestamp": "2026-09-03T19:07:08.298602971Z",
+  "model": "glm-5.3"
+}

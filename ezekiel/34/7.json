@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 34:7",
+  "book": "ezekiel",
+  "lang": "ln",
+  "chapter": 34,
+  "translation": "Mpo na yango, bamilisi ya bampanzo, boyoka ⟨את⟩ liloba ya Yawe.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "mpo na yango"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "bamilisi ya bampanzo"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "boyoka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "liloba"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "liloba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T20:27:50.943268686Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 12:10",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Mpe botiki te na yango kino tongo; mpe oyo etikali na yango kino tongo, bomaka na moto.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "botiki"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "tongo"
+    },
+    {
+      "surface": "והנתר",
+      "gloss": "mpe oyo etikali"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "tongo"
+    },
+    {
+      "surface": "באש",
+      "gloss": "na moto"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "bomaka"
+    }
+  ],
+  "timestamp": "2026-09-03T16:18:59.631493263Z",
+  "model": "glm-5.3"
+}

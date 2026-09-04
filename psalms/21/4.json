@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 21:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Mpo ete osanganaki na ye na mapamboli ya bolamu, otyi na motoku na ye kurone ya wolo ya mokebi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo ete"
+    },
+    {
+      "surface": "תקדמנו",
+      "gloss": "osanganaki na ye"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "na mapamboli"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ya bolamu"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "otyi"
+    },
+    {
+      "surface": "לראשו",
+      "gloss": "na motoku na ye"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "kurone"
+    },
+    {
+      "surface": "פז",
+      "gloss": "ya wolo ya mokebi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:04:59.530270559Z",
+  "model": "glm-5.3"
+}

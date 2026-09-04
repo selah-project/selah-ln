@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 4:42",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe bamo ya mabota ya bana ya Merari, na mabota na bango, na ndako ya batata na bango.",
+  "tokens": [
+    {
+      "surface": "ופקודי",
+      "gloss": "Mpe bamo ya"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "mabota"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ya bana ya"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "na mabota na bango"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "na ndako"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "ya batata na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T17:00:05.406799413Z",
+  "model": "glm-5.3"
+}

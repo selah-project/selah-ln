@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 69:25",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 69,
+  "translation": "Tunda likoloto na yo likolo na bango, mpe mbuma ya eliko na yo ekoki bango.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "Tunda"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "likolo na bango"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "likoloto na yo"
+    },
+    {
+      "surface": "וחרון",
+      "gloss": "mpe mbuma ya"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "eliko na yo"
+    },
+    {
+      "surface": "ישיגם",
+      "gloss": "ekoki bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:17:17.210713942Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 23:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Ya solo, bolamu mpe hesed (bomoko ya solo) ekolanda ngai mikolo nyonso ya bomoi na ngai; mpe nakofanda na ndako ya Yawe mpo na molai ya mikolo.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Ya solo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "bolamu"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "mpe hesed"
+    },
+    {
+      "surface": "ירדפוני",
+      "gloss": "ekolanda ngai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mikolo"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ya bomoi na ngai"
+    },
+    {
+      "surface": "ושבתי",
+      "gloss": "mpe nakofanda"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "na ndako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "mpo na molai"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ya mikolo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:05:27.473510481Z",
+  "model": "glm-5.3"
+}

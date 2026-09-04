@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 4:7",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe alobaki: Zongisa maboko na yo na libongai na yo. Mpe azongisaki maboko na ye na libongai na ye, mpe abimaki yango na libongai na ye, mpe talá, ezongisamaki lokola masolo na ye.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "השב",
+      "gloss": "Zongisa"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "maboko na yo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "חיקך",
+      "gloss": "libongai na yo"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "Mpe azongisaki"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "maboko na ye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "חיקו",
+      "gloss": "libongai na ye"
+    },
+    {
+      "surface": "ויוצאה",
+      "gloss": "mpe abimaki yango"
+    },
+    {
+      "surface": "מחיקו",
+      "gloss": "na libongai na ye"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mpe talá"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "ezongisamaki"
+    },
+    {
+      "surface": "כבשרו",
+      "gloss": "lokola masolo na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T16:15:11.051385283Z",
+  "model": "glm-5.3"
+}

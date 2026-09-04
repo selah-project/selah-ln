@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 105:27",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 105,
+  "translation": "Batyaki kati na bango maloba ya bilembo na ye, mpe makamwa na mabele ya Ham.",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "batyaki"
+    },
+    {
+      "surface": "בם",
+      "gloss": "kati na bango"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "maloba"
+    },
+    {
+      "surface": "אתותיו",
+      "gloss": "bilembo na ye"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "mpe makamwa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Ham"
+    }
+  ],
+  "timestamp": "2026-09-03T23:35:17.244097889Z",
+  "model": "glm-5.3"
+}

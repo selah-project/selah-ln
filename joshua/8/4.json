@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 8:4",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe atesaki ⟨את⟩ bango alobi: Talá, bino bozali babombi mpo na mboka, na nsima ya mboka; eteke mosika te na mboka mingi, mpe bokozala bino nyonso parata.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "Mpe atesaki"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bango",
+      "marks": "bango"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "alobi"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "Talá"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "bino"
+    },
+    {
+      "surface": "ארבים",
+      "gloss": "babombi"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "mpo na mboka"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "na nsima ya"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mboka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תרחיקו",
+      "gloss": "eteke mosika"
+    },
+    {
+      "surface": "מן",
+      "gloss": "na"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mboka"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mingi"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "mpe bokozala"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "bino nyonso"
+    },
+    {
+      "surface": "נכנים",
+      "gloss": "parata"
+    }
+  ],
+  "timestamp": "2026-09-03T17:48:00.036677813Z",
+  "model": "glm-5.3"
+}

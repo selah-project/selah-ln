@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezekiel 16:32",
+  "book": "ezekiel",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Mwasi mosungi! Na esika ya mobali na ye azwaka ⟨את⟩ bapaya.",
+  "tokens": [
+    {
+      "surface": "האשה",
+      "gloss": "mwasi"
+    },
+    {
+      "surface": "המנאפת",
+      "gloss": "mosungi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "na esika ya"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "mobali na ye"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "azwaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bapaya"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "bapaya"
+    }
+  ],
+  "timestamp": "2026-09-03T23:30:54.604644953Z",
+  "model": "glm-5.3"
+}

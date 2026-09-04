@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 24:12",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "Mpe Yawe alobaki epai ya Moshe: kima epai ya ngai, na ngomba, mpe kanda kuna; mpe nakopesa yo ⟨את⟩ bilamba ya libanga, mpe Tora, mpe etindo, oyo nakomaki, mpo na kolakisa bango.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "kima"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "epai ya ngai"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "na ngomba"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "mpe kanda"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "mpe nakopesa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bilamba ya libanga"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "bilamba"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "ya libanga"
+    },
+    {
+      "surface": "והתורה",
+      "gloss": "mpe Tora"
+    },
+    {
+      "surface": "והמצוה",
+      "gloss": "mpe etindo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "כתבתי",
+      "gloss": "nakomaki"
+    },
+    {
+      "surface": "להורתם",
+      "gloss": "mpo na kolakisa bango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:26:00.676945021Z",
+  "model": "glm-5.3"
+}

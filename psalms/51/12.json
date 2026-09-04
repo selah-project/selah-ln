@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 51:12",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 51,
+  "translation": "Elohim, salá na ngai motema mope, mpe elimo ya kolanda kokoka bongisá lisusu na kati na ngai.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "motema"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "mope"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "salá"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "mpe elimo"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "ya kolanda kokoka"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "bongisá lisusu"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "na kati na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:13:32.409816622Z",
+  "model": "glm-5.3"
+}

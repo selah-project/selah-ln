@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 13:4",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Mpe Yehoahaz alobelaki elongi ⟨את⟩ ya Yawe, mpe Yawe nayoki ye; mpo amonaki ⟨את⟩ mpasi ya Israel, mpo mokonzi ya Aram azalaki kokangaka ⟨את⟩ bango.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "Mpe alobelaki"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Yehoahaz"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elongi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "elongi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yawe"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "Mpe nayoki"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "amonaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mpasi ya Israel"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "mpasi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "azalaki kokangaka"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bango",
+      "marks": "mokonzi ya Aram"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ya Aram"
+    }
+  ],
+  "timestamp": "2026-09-03T19:06:17.468844249Z",
+  "model": "glm-5.3"
+}

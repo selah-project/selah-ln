@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 10:25",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Lokola koleka ya supa, mpe mabe azali te; kasi moyembe azali motema ya libela.",
+  "tokens": [
+    {
+      "surface": "כעבור",
+      "gloss": "lokola koleka"
+    },
+    {
+      "surface": "סופה",
+      "gloss": "supa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "mpe azali te"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "kasi moyembe"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "motema"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ya libela"
+    }
+  ],
+  "timestamp": "2026-09-03T21:40:53.028967926Z",
+  "model": "glm-5.3"
+}

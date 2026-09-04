@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 25:9",
+  "book": "proverbs",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Likambo na yo tubela ⟨את⟩ moninga na yo, mpe likundu ya mosusu kolakisa te.",
+  "tokens": [
+    {
+      "surface": "ריבך",
+      "gloss": "likambo na yo"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "tubela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moninga na yo"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "moninga na yo"
+    },
+    {
+      "surface": "וסוד",
+      "gloss": "mpe likundu"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ya mosusu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "kolakisa"
+    }
+  ],
+  "timestamp": "2026-09-03T21:46:22.915502778Z",
+  "model": "glm-5.3"
+}

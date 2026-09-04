@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 4:9",
+  "book": "ecclesiastes",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Malamu babale koleka moko, mpamba te baza na sakara malamu na mosala na bango.",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "Malamu"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "babale"
+    },
+    {
+      "surface": "מן",
+      "gloss": "koleka"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "moko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "mpamba te"
+    },
+    {
+      "surface": "יש",
+      "gloss": "baza"
+    },
+    {
+      "surface": "להם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "sakara"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "malamu"
+    },
+    {
+      "surface": "בעמלם",
+      "gloss": "na mosala na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T22:12:49.568777526Z",
+  "model": "glm-5.3"
+}

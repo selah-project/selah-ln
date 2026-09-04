@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "esther 9:14",
+  "book": "esther",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Mokonzi alobaki básala bongo, mpe dat epesamaki na Shushan, mpe ⟨את⟩ bana zomi ya Haman bakangaki.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Mokonzi"
+    },
+    {
+      "surface": "להעשות",
+      "gloss": "básala"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bongo"
+    },
+    {
+      "surface": "ותנתן",
+      "gloss": "mpe epesamaki"
+    },
+    {
+      "surface": "דת",
+      "gloss": "dat"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "na Shushan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bana zomi ya Haman"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "zomi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "תלו",
+      "gloss": "bakangaki"
+    }
+  ],
+  "timestamp": "2026-09-03T22:21:03.626251264Z",
+  "model": "glm-5.3"
+}

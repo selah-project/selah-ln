@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 115:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 115,
+  "translation": "Maboko na bango ⟨ezali⟩, kasi bakangaka te; minokolo na bango ⟨ezali⟩, kasi batambolaka te; balobaka eloko te na kikuku na bango.",
+  "tokens": [
+    {
+      "surface": "ידיהם",
+      "gloss": "maboko na bango"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ימישון",
+      "gloss": "bakangaka"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "minokolo na bango"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "batambolaka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "balobaka"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "na kikuku na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:30:04.266315754Z",
+  "model": "glm-5.3"
+}

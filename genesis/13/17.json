@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 13:17",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Telama, zala na nzela na mabele, na boleai na yango mpe na bonene na yango, mpo ete na yo nakopesa ⟨את⟩ yango.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Telama"
+    },
+    {
+      "surface": "התהלך",
+      "gloss": "zala na nzela"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "לארכה",
+      "gloss": "na boleai na yango"
+    },
+    {
+      "surface": "ולרחבה",
+      "gloss": "mpe na bonene na yango"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "לך",
+      "gloss": "na yo"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "nakopesa yango",
+      "marks": "yango (mabele)"
+    }
+  ],
+  "timestamp": "2026-09-04T00:29:01.782300598Z",
+  "model": "glm-5.3"
+}

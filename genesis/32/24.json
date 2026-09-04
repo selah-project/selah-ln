@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 32:24",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 32,
+  "translation": "Mpe azwaki bango, mpe akatisaki bango ⟨את⟩ ebale, mpe akatisaki ⟨את⟩ nyonso oyo azalaki na ye.",
+  "tokens": [
+    {
+      "surface": "ויקחם",
+      "gloss": "mpe azwaki bango"
+    },
+    {
+      "surface": "ויעברם",
+      "gloss": "mpe akatisaki bango"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ebale"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "ebale"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "mpe akatisaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nyonso oyo azalaki na ye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T16:01:26.860768161Z",
+  "model": "glm-5.3"
+}

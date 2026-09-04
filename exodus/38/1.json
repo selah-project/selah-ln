@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 38:1",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 38,
+  "translation": "Mpe asalaki ⟨את⟩ etanda ya ntalo na mapata ya bozi; molayi na yango amote mitano, mpe bolombi na yango amote mitano — karre; mpe likolo na yango amote misato.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Mpe asalaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "etanda ya ntalo"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "etanda"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ya ntalo"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "na mapata"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ya bozi"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "mitano"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "amote"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "molayi na yango"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "mpe mitano"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "amote"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "bolombi na yango"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "karre"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "mpe misato"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "amote"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "likolo na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:37:18.189754307Z",
+  "model": "glm-5.3"
+}

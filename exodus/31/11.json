@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 31:11",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 31,
+  "translation": "mpe ⟨את⟩ mafuta ya botombi mpe ⟨את⟩ fumbo ya nkunza mpo na esika santo; ndenge nyonso oyo Nakeiaki na yo, bakosala yango.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mafuta"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "ya botombi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "fumbo"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "fumbo"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "ya nkunza"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "mpo na esika santo"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ndenge nyonso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "צויתך",
+      "gloss": "Nakeiaki na yo"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "bakosala"
+    }
+  ],
+  "timestamp": "2026-09-03T16:30:58.197532330Z",
+  "model": "glm-5.3"
+}

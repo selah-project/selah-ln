@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 6:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Liso na ngai ekomitaki na mawa; ekomaki mokolo na bango nyonso banguna na ngai.",
+  "tokens": [
+    {
+      "surface": "עששה",
+      "gloss": "ekomitaki"
+    },
+    {
+      "surface": "מכעס",
+      "gloss": "na mawa"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "liso na ngai"
+    },
+    {
+      "surface": "עתקה",
+      "gloss": "ekomaki mokolo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na nyonso"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "banguna na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T20:59:32.705186133Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 6:30",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpe Moshe alobaki liboso ya Yawe ⟨ete⟩: Talá, ngai nazali na milomo ya mapanzo, mpe ndenge nini Parao akoyoka ngai?",
+  "tokens": [
+    {
+      "surface": "וַיֹּאמֶר",
+      "gloss": "Mpe alobaki"
+    },
+    {
+      "surface": "מֹשֶׁה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לִפְנֵי",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "הֵן",
+      "gloss": "Talá"
+    },
+    {
+      "surface": "אֲנִי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "עֲרַל",
+      "gloss": "ya mapanzo"
+    },
+    {
+      "surface": "שְׂפָתַיִם",
+      "gloss": "milomo"
+    },
+    {
+      "surface": "וְאֵיךְ",
+      "gloss": "mpe ndenge nini"
+    },
+    {
+      "surface": "יִשְׁמַע",
+      "gloss": "akoyoka"
+    },
+    {
+      "surface": "אֵלַי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "פַּרְעֹה",
+      "gloss": "Parao"
+    }
+  ],
+  "timestamp": "2026-09-03T16:14:08.453037821Z",
+  "model": "glm-5.3"
+}

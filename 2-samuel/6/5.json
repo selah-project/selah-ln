@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 6:5",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpe David mpe ndako mobimba ya Israel bazalaki kosakana liboso ya Yawe na bisaleli nyonso ya nzete ya beroshi, mpe na bakinaro, mpe na banabala, mpe na batupa, mpe na bamenyanyi, mpe na baselseli.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "Mpe David"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe mobimba"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "משחקים",
+      "gloss": "bazalaki kosakana"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na nyonso"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ya nzete"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "ya beroshi"
+    },
+    {
+      "surface": "ובכנרות",
+      "gloss": "mpe na bakinaro"
+    },
+    {
+      "surface": "ובנבלים",
+      "gloss": "mpe na banabala"
+    },
+    {
+      "surface": "ובתפים",
+      "gloss": "mpe na batupa"
+    },
+    {
+      "surface": "ובמנענעים",
+      "gloss": "mpe na bamenyanyi"
+    },
+    {
+      "surface": "ובצלצלים",
+      "gloss": "mpe na baselseli"
+    }
+  ],
+  "timestamp": "2026-09-03T18:30:52.991107820Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 24:2",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "Mokonzi alobaki epai ya Yoab, mokambi ya mampinga oyo azali na ye: zinga na boboto na mabota nyonso ya Israel, uta Dan kino Bersheba, mpe bokanga motango ya ⟨את⟩ bato, mpe nayebi ⟨את⟩ motango ya bato.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoab"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mokambi ya"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "mampinga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ azali na ye"
+    },
+    {
+      "surface": "שוט",
+      "gloss": "zinga"
+    },
+    {
+      "surface": "נא",
+      "gloss": "na boboto"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na nyonso ya"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "mabota"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "uta Dan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Ber"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sheba"
+    },
+    {
+      "surface": "ופקדו",
+      "gloss": "mpe bokanga motango ya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bato"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "וידעתי",
+      "gloss": "mpe nayebi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motango"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "motango ya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    }
+  ],
+  "timestamp": "2026-09-03T18:42:02.867108631Z",
+  "model": "glm-5.3"
+}

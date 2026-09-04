@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 72:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 72,
+  "translation": "Bangomba ememaka kimia na bato, mpe bankolokolo na bosembo.",
+  "tokens": [
+    {
+      "surface": "ישאו",
+      "gloss": "ememaka"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "bangomba"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kimia"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "na bato"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "mpe bankolokolo"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "na bosembo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:18:02.103162782Z",
+  "model": "glm-5.3"
+}

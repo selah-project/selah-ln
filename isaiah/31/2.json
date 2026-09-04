@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 31:2",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 31,
+  "translation": "Mpe ata ye moko azali moto mayele, mpe amemaki mabe, mpe ⟨את⟩ maloba na ye alongolaki te; mpe atombaki likolo ya ndako ya babubi, mpe likolo ya lisalisi ya basali mabe.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "mpe ata"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ye moko"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "azali moto mayele"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "mpe amemaki"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "maloba na ye"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "maloba na ye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "alongolaki"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "mpe atombaki"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "ya babubi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "mpe likolo ya"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "ya lisalisi"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ya basali"
+    },
+    {
+      "surface": "און",
+      "gloss": "mabe"
+    }
+  ],
+  "timestamp": "2026-09-03T23:26:47.326653878Z",
+  "model": "glm-5.3"
+}

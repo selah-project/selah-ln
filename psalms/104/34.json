@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 104:34",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 104,
+  "translation": "Kanisi na ngai ekomela ⟨na⟩ Yawe; ngai moko, nakosepela na Yawe.",
+  "tokens": [
+    {
+      "surface": "יערב",
+      "gloss": "ekomela"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "na Yawe"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "kanisi na ngai"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ngai moko"
+    },
+    {
+      "surface": "אשמח",
+      "gloss": "nakosepela"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "na Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T21:27:13.049551602Z",
+  "model": "glm-5.3"
+}

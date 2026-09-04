@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 2:1",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 2,
+  "translation": "Moto ⟨moko⟩ ya ndako ya Levi akendaki, mpe azwaki ⟨את⟩ mwana mwasi ya Levi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "akendaki"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Moto"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ya ndako ya"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "azwaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwana mwasi ya Levi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "mwana mwasi"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    }
+  ],
+  "timestamp": "2026-09-03T16:14:00.565050193Z",
+  "model": "glm-5.3"
+}

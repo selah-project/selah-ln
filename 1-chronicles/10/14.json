@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 10:14",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "mpe atunaki te na Yawe; yango wana ⟨⟨Yawe⟩⟩ abomaki ye, mpe azongisaki ⟨את⟩ bokonzi epai ya David, mwana ya Yishai.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "mpe ... te"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "atunaki"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "na Yawe"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "abomaki ye"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "azongisaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bokonzi"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "bokonzi"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "epai ya David"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishai"
+    }
+  ],
+  "timestamp": "2026-09-03T22:43:48.489095690Z",
+  "model": "glm-5.3"
+}

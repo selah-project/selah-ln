@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 115:14",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 115,
+  "translation": "Yawe abakisela bino, bino, mpe bana na bino.",
+  "tokens": [
+    {
+      "surface": "יסף",
+      "gloss": "abakisela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "bino"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "bino"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "bana na bino"
+    }
+  ],
+  "timestamp": "2026-09-03T21:29:58.888397097Z",
+  "model": "glm-5.3"
+}

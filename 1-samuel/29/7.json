@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 29:7",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 29,
+  "translation": "Mpe sikoyo zonga mpe kende na kimya, mpe okosala mabe te na miso ya bankolo ya Bafilisiti.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "mpe sikoyo"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "zonga"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "mpe kende"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "na kimya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "okosala"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "na miso ya"
+    },
+    {
+      "surface": "סרני",
+      "gloss": "bankolo"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ya Bafilisiti"
+    }
+  ],
+  "timestamp": "2026-09-03T18:25:28.755589971Z",
+  "model": "glm-5.3"
+}

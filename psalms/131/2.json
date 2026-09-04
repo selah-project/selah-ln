@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 131:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 131,
+  "translation": "Soki te, nayokisi motuya molimo na ngai, mpe nasilisaki yango kokanisa: molimo na ngai ezali lokola mwana ya kanyaka epai ya mama na ye; lokola mwana ya kanyaka nde molimo na ngai ezali epai na ngai.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "soki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "nayokisi motuya"
+    },
+    {
+      "surface": "ודוממתי",
+      "gloss": "mpe nasilisaki yango kokanisa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "molimo na ngai"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "lokola mwana ya kanyaka"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mama na ye"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "lokola mwana ya kanyaka"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "epai na ngai"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "molimo na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:33:08.886338214Z",
+  "model": "glm-5.3"
+}

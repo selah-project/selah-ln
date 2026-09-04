@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 53:8",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 53,
+  "translation": "Na bokangi mpe na lipa bamwamaki, mpe ⟨את⟩ molongo na yè nani akotalelaki? Mpo akatamaki na mabele ya bimozi; na bolekisi ya bato na ngai etumbu emwamaki bango.",
+  "tokens": [
+    {
+      "surface": "מעצר",
+      "gloss": "na bokangi"
+    },
+    {
+      "surface": "וממשפט",
+      "gloss": "mpe na lipa"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "bamwamaki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "molongo na yè"
+    },
+    {
+      "surface": "דורו",
+      "gloss": "molongo na yè"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nani"
+    },
+    {
+      "surface": "ישוחח",
+      "gloss": "akotalelaki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "akatamaki"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ya bimozi"
+    },
+    {
+      "surface": "מפשע",
+      "gloss": "na bolekisi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ya bato na ngai"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "etumbu"
+    },
+    {
+      "surface": "למו",
+      "gloss": "bango"
+    }
+  ],
+  "timestamp": "2026-09-03T19:36:00.722085038Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 63:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 63,
+  "translation": "Mpo yo ozalaki lisalisi na ngai, mpe na mopui ya mapapa na yo nakoyemba.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ozalaki"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "lisalisi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "mpe na mopui"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "ya mapapa na yo"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "nakoyemba"
+    }
+  ],
+  "timestamp": "2026-09-03T21:16:21.405550355Z",
+  "model": "glm-5.3"
+}

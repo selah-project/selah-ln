@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 20:14",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 20,
+  "translation": "Mpe moto oyo akozwá ⟨את⟩ mwasi mpe ⟨את⟩ mama na yango, mokano mabe yango ezali; na moto bakotumba ⟨את⟩ ye mpe ⟨את⟩ bango, mpe mokano mabe ekokí kozala te kati na bino.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Mpe moto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "akozwá"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mwasi"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mwasi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mama na yango"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "mama na yango"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "mokano mabe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yango"
+    },
+    {
+      "surface": "באש",
+      "gloss": "na moto"
+    },
+    {
+      "surface": "ישרפו",
+      "gloss": "bakotumba"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ye"
+    },
+    {
+      "surface": "ואתהן",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bango"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ekokí kozala"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "mokano mabe"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "kati na bino"
+    }
+  ],
+  "timestamp": "2026-09-03T16:53:23.144910167Z",
+  "model": "glm-5.3"
+}

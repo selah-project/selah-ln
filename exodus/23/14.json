@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 23:14",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Mbala misato okokanda fete na ngai na mbula.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "misato"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "mbala"
+    },
+    {
+      "surface": "תחג",
+      "gloss": "okokanda fete"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "na mbula"
+    }
+  ],
+  "timestamp": "2026-09-03T16:25:43.360332275Z",
+  "model": "glm-5.3"
+}

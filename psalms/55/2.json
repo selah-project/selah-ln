@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 55:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 55,
+  "translation": "Kanisa, Elohim, losambo na ngai, mpe kaka obombisa yo moko te na bosenga na ngai.",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "Kanisa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "losambo na ngai"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mpe kaka"
+    },
+    {
+      "surface": "תתעלם",
+      "gloss": "obombisa yo moko te"
+    },
+    {
+      "surface": "מתחנתי",
+      "gloss": "na bosenga na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:14:19.525022694Z",
+  "model": "glm-5.3"
+}

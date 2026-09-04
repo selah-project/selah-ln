@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 97:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 97,
+  "translation": "Likolu mpe moindo ya makasi ezali pembeni na ye; bosémbo mpe mbongo ezali mokonzo ya kiti na ye.",
+  "tokens": [
+    {
+      "surface": "ענן",
+      "gloss": "likolu"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "mpe moindo ya makasi"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "pembeni na ye"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "bosémbo"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "mpe mbongo"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "mokonzo"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "kiti na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:24:50.288204127Z",
+  "model": "glm-5.3"
+}

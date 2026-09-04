@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 4:12",
+  "book": "song-of-songs",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Elanga ekangami, ndeko mwasi na ngai, mwasi ya libala; sanzu ya mai ekangami, ebale ekangami na lilembo.",
+  "tokens": [
+    {
+      "surface": "גן",
+      "gloss": "elanga"
+    },
+    {
+      "surface": "נעול",
+      "gloss": "ekangami"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "ndeko mwasi na ngai"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "mwasi ya libala"
+    },
+    {
+      "surface": "גל",
+      "gloss": "sanzu ya mai"
+    },
+    {
+      "surface": "נעול",
+      "gloss": "ekangami"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "ebale"
+    },
+    {
+      "surface": "חתום",
+      "gloss": "ekangami na lilembo"
+    }
+  ],
+  "timestamp": "2026-09-03T22:05:56.987443149Z",
+  "model": "glm-5.3"
+}

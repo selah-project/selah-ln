@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 27:10",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 27,
+  "translation": "Mpe bankiti na yango zomi na mibale, mpe maboko na bango zomi na mibale ya kungo; mangu ya bankiti mpe bikekulu na bango ezali ya fenta.",
+  "tokens": [
+    {
+      "surface": "ועמדיו",
+      "gloss": "Mpe bankiti na yango"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "zomi na mibale"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "mpe maboko na bango"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "zomi na mibale"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ya kungo"
+    },
+    {
+      "surface": "וזי",
+      "gloss": "mangu ya"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "bankiti"
+    },
+    {
+      "surface": "וחשקיהם",
+      "gloss": "mpe bikekulu na bango"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ya fenta"
+    }
+  ],
+  "timestamp": "2026-09-03T16:27:22.679609659Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 1:5",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe Adoniyah mwana wa Hagit atombaki yango moko, na koloba: Ngai nakokonza. Mpe asalaki na ye relibe mpe baconzi ba farasi, mpe batoi makomi MITANO uta liboso na ye.",
+  "tokens": [
+    {
+      "surface": "ואדניה",
+      "gloss": "Mpe Adoniyah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana wa"
+    },
+    {
+      "surface": "חגית",
+      "gloss": "Hagit"
+    },
+    {
+      "surface": "מתנשא",
+      "gloss": "atombaki yango moko"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "na koloba"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ngai"
+    },
+    {
+      "surface": "אמלך",
+      "gloss": "nakokonza"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "Mpe asalaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "relibe"
+    },
+    {
+      "surface": "ופרשים",
+      "gloss": "mpe baconzi ba farasi"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "mpe makomi MITANO"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bato"
+    },
+    {
+      "surface": "רצים",
+      "gloss": "batoi"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "liboso na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T18:41:58.324131362Z",
+  "model": "glm-5.3"
+}

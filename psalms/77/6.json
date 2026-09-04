@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 77:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 77,
+  "translation": "Nakanisaki mikolo ya kala, bimonyi ya mapamboli.",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "Nakanisaki"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mikolo"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "ya kala"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "bimonyi"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "ya mapamboli"
+    }
+  ],
+  "timestamp": "2026-09-03T21:18:27.923058773Z",
+  "model": "glm-5.3"
+}

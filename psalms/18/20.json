@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 18:20",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Mpe abimisaki ngai na esika ya bolai, asalisaki ngai kolonga, mpo alingaki ngai.",
+  "tokens": [
+    {
+      "surface": "ויוציאני",
+      "gloss": "mpe abimisaki ngai"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "na esika ya bolai"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "asalisaki ngai kolonga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "alingaki"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:04:06.314017496Z",
+  "model": "glm-5.3"
+}

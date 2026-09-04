@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 34:19",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 34,
+  "translation": "bakambi ya Yehuda, mpe bakambi ya Yerushalaim, basarisi, mpe bakohene, mpe bato nyonso ya mabele, oyo batambolaki na kati ya biteni ya ndembo.",
+  "tokens": [
+    {
+      "surface": "שרי",
+      "gloss": "bakambi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ya Yehuda"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "mpe bakambi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ya Yerushalaim"
+    },
+    {
+      "surface": "הסרסים",
+      "gloss": "basarisi"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "mpe bakohene"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe … nyonso"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ya mabele"
+    },
+    {
+      "surface": "העוברים",
+      "gloss": "oyo batambolaki"
+    },
+    {
+      "surface": "בין",
+      "gloss": "na kati ya"
+    },
+    {
+      "surface": "בתרי",
+      "gloss": "biteni"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "ya ndembo"
+    }
+  ],
+  "timestamp": "2026-09-03T20:00:06.031487754Z",
+  "model": "glm-5.3"
+}

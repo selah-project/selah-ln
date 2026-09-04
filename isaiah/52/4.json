@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 52:4",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 52,
+  "translation": "Mpo ndenge wana Adonai Yawe alobaki: ekolo na ngai ekitalaki na ebandeli na Mitsraim mpo ezala bapaya kuna, mpe Ashur asopaki yango na pwelele.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ndenge wana"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ekitalaki na"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ekolo na ngai"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "na ebandeli"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "mpo ezala bapaya"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "mpe Ashur"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "na pwelele"
+    },
+    {
+      "surface": "עשקו",
+      "gloss": "asopaki yango"
+    }
+  ],
+  "timestamp": "2026-09-03T19:35:24.097849315Z",
+  "model": "glm-5.3"
+}

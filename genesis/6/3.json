@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 6:3",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Yawe alobaki: Molimo na ngai akokanisa te na moto libela, ⟨ete⟩ ye mpe ezali elibambu; mpe mikolo na ye mikokaka nkama moko mpe zomi na mibale ya mbula.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ידון",
+      "gloss": "akokanisa"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "Molimo na ngai"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "na moto"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "libela"
+    },
+    {
+      "surface": "בשגם",
+      "gloss": "⟨ete⟩"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ye mpe"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "elibambu"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "mikokaka"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "mikolo na ye"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "nkama moko"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "mpe zomi na mibale"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ya mbula"
+    }
+  ],
+  "timestamp": "2026-09-03T23:12:16.369491027Z",
+  "model": "glm-5.3"
+}

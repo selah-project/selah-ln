@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 27:21",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 27,
+  "translation": "Na ehema ya bokutani, libanda ya ntela oyo ezali likolo ya bomoi, Aharon mpe bana na ye bakolata ⟨את⟩ yo, uta mpokwa kino tongo, liboso ya Yawe; eteleke ya ntango nyonso mpo na bondeko na bango, utaka ⟨את⟩ bana ya Israel.",
+  "tokens": [
+    {
+      "surface": "באהל",
+      "gloss": "na ehema"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya bokutani"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "libanda"
+    },
+    {
+      "surface": "לפרכת",
+      "gloss": "ya ntela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ya bomoi"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "bakolata"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yo",
+      "marks": "yo (dikie ya nyongo, naSuffixe -o)"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "mpe bana na ye"
+    },
+    {
+      "surface": "מערב",
+      "gloss": "uta mpokwa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "tongo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yawe"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "eteleke"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ya ntango nyonso"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "mpo na bondeko na bango"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "utaka ⟨את⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    }
+  ],
+  "timestamp": "2026-09-03T16:26:55.443721774Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 109:23",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 109,
+  "translation": "Nakendeaki lokola lilimingi ntango elongolami, nakundamaki lokola nzenze.",
+  "tokens": [
+    {
+      "surface": "כצל",
+      "gloss": "lokola lilimingi"
+    },
+    {
+      "surface": "כנטותו",
+      "gloss": "ntango elongolami"
+    },
+    {
+      "surface": "נהלכתי",
+      "gloss": "nakendeaki"
+    },
+    {
+      "surface": "ננערתי",
+      "gloss": "nakundamaki"
+    },
+    {
+      "surface": "כארבה",
+      "gloss": "lokola nzenze"
+    }
+  ],
+  "timestamp": "2026-09-03T21:28:57.492513659Z",
+  "model": "glm-5.3"
+}

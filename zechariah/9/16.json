@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zechariah 9:16",
+  "book": "zechariah",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Mpe Yawe Elohim na bango abikisaki bango na mokolo yango, lokola banyama ya bato na ye, mpo bazali lokola mabanga ya londe, mizali kolakana likolo ya mabele na ye.",
+  "tokens": [
+    {
+      "surface": "והושיעם",
+      "gloss": "mpe abikisaki bango"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim na bango"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na mokolo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yango"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "lokola banyama"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ya bato na ye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "mabanga"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "ya londe"
+    },
+    {
+      "surface": "מתנוססות",
+      "gloss": "mizali kolakana"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "mabele na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T20:57:24.321249590Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 44:3",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 44,
+  "translation": "Tongo emonisaki ⟨polele⟩, mpe bato batindamaki, bango mpe bangondo na bango.",
+  "tokens": [
+    {
+      "surface": "הבקר",
+      "gloss": "tongo"
+    },
+    {
+      "surface": "אור",
+      "gloss": "emonisaki polele"
+    },
+    {
+      "surface": "והאנשים",
+      "gloss": "mpe bato"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "batindamaki"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bango"
+    },
+    {
+      "surface": "וחמריהם",
+      "gloss": "mpe bangondo na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:09:34.046515905Z",
+  "model": "glm-5.3"
+}

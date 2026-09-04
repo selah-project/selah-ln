@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 11:9",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 11,
+  "translation": "⟨את⟩ oyo bokolía, kati na nyonso oyo ezali na mai: nyonso oyo ezali na lipa mpe makwakwa na mai, na mbu mpe na bansanga, ⟨את⟩ yango bokolía.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oyo bokolía"
+    },
+    {
+      "surface": "זה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "bokolía"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kati na nyonso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "במים",
+      "gloss": "na mai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "lipa"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "mpe makwakwa"
+    },
+    {
+      "surface": "במים",
+      "gloss": "na mai"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "na mbu"
+    },
+    {
+      "surface": "ובנחלים",
+      "gloss": "mpe na bansanga"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ yango",
+      "marks": "nyonso oyo ezali na lipa mpe makwakwa"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "bokolía"
+    }
+  ],
+  "timestamp": "2026-09-03T16:43:52.966437682Z",
+  "model": "glm-5.3"
+}

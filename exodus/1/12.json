@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 1:12",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe ndenge bakangamisaka ⟨את⟩ bango, ndenge wana bakobakisamaka mpe ndenge wana bakopanzanaka; mpe bamokaki mawa na miso ya bana ya Israel.",
+  "tokens": [
+    {
+      "surface": "וכאשר",
+      "gloss": "mpe ndenge"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "bakangamisaka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ bango",
+      "marks": "bango"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ndenge wana"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "bakobakisamaka"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "mpe ndenge wana"
+    },
+    {
+      "surface": "יפרץ",
+      "gloss": "bakopanzanaka"
+    },
+    {
+      "surface": "ויקצו",
+      "gloss": "mpe bamokaki mawa"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "na miso ya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    }
+  ],
+  "timestamp": "2026-09-03T16:12:29.478578670Z",
+  "model": "glm-5.3"
+}

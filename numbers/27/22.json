@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 27:22",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 27,
+  "translation": "Mpe Moshe asalaki ndenge Yawe atindaki ⟨את⟩ yě; mpe azwaki ⟨את⟩ Yehoshua, mpe ayelesangi ye atelema liboso ya Elazar kohen mpe liboso ya lisangani nyonso.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Mpe ... asalaki"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ndenge"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "atindaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yě",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "mpe azwaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoshua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "ויעמדהו",
+      "gloss": "mpe ayelesangi ye atelema"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "mpe liboso ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "lisangani"
+    }
+  ],
+  "timestamp": "2026-09-03T17:17:00.407733535Z",
+  "model": "glm-5.3"
+}

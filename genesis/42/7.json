@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 42:7",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 42,
+  "translation": "Mpe Yosefe amonaki ⟨את⟩ bandeko na ye, mpe ayebaki bango, kasi amimonaki lokola moyingi na bango, mpe alobaki na ⟨את⟩ bango maloba ya makasi, mpe alobaki na bango: Boyaki wapi? Mpe balobaki: Na mabele ya Kenaan, tokoya kosomba biloko.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "amonaki"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bandeko na ye"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "bandeko na ye"
+    },
+    {
+      "surface": "ויכרם",
+      "gloss": "ayebaki bango"
+    },
+    {
+      "surface": "ויתנכר",
+      "gloss": "amimonaki lokola moyingi"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bango",
+      "marks": "bango"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "maloba ya makasi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "wapi"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "boyaki"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "balobaki"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "kosomba"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "biloko"
+    }
+  ],
+  "timestamp": "2026-09-03T16:08:45.276145678Z",
+  "model": "glm-5.3"
+}

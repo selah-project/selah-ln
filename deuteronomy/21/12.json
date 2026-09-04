@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 21:12",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "mpe okomema ye na kati ya ndako na yo, mpe akokata ⟨את⟩ motó na ye, mpe akosala ⟨את⟩ minzoki na ye.",
+  "tokens": [
+    {
+      "surface": "והבאתה",
+      "gloss": "mpe okomema ye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "kati"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ya ndako na yo"
+    },
+    {
+      "surface": "וגלחה",
+      "gloss": "mpe akokata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motó na ye"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "motó na ye"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "mpe akosala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "minzoki na ye"
+    },
+    {
+      "surface": "צפרניה",
+      "gloss": "minzoki na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T17:33:03.126343744Z",
+  "model": "glm-5.3"
+}

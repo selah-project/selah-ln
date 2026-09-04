@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 6:30",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpe ⟨את⟩ mabele ya ndako akangaki na waure, na kati mpe na libanda.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mabele"
+    },
+    {
+      "surface": "קרקע",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ya ndako"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "akangaki na"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "waure"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "na kati"
+    },
+    {
+      "surface": "ולחיצון",
+      "gloss": "mpe na libanda"
+    }
+  ],
+  "timestamp": "2026-09-03T18:45:49.420436983Z",
+  "model": "glm-5.3"
+}

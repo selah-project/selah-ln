@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 3:4",
+  "book": "ezra",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe basalaki ⟨את⟩ fete ya Sukot ndenge ekomami, mpe banyama ya kotumbwa ya mokolo na mokolo, na motango, ndenge mibeko ebengi, mutuya ya mokolo na mokolo na yango.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Mpe basalaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "fete"
+    },
+    {
+      "surface": "חג",
+      "gloss": "fete"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "ya Sukot"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "ndenge ekomami"
+    },
+    {
+      "surface": "ועלת",
+      "gloss": "mpe banyama ya kotumbwa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ya mokolo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na mokolo"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "na motango"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "ndenge mibeko ebengi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "mutuya"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ya mokolo"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "na mokolo na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T22:30:04.852026106Z",
+  "model": "glm-5.3"
+}

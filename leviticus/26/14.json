@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 26:14",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "Kasi soki boyokaka ngai te, mpe bosalaka ⟨את⟩ bonso mibeko oyo te;",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Kasi soki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "boyokaka"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe bosalaka"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "te"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bonso mibeko oyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonso"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "mibeko"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "oyo"
+    }
+  ],
+  "timestamp": "2026-09-03T16:56:26.983007925Z",
+  "model": "glm-5.3"
+}

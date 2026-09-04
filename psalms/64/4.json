@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 64:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 64,
+  "translation": "Oyo bamokisaki lokola epepelo monoko na bango; babongisaki bakita na bango — liloba mawa.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Oyo"
+    },
+    {
+      "surface": "שננו",
+      "gloss": "bamokisaki"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "lokola epepelo"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "monoko na bango"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "babongisaki"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "bakita na bango"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "liloba"
+    },
+    {
+      "surface": "מר",
+      "gloss": "mawa"
+    }
+  ],
+  "timestamp": "2026-09-03T21:15:58.568608054Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 119:19",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Mombangi ngai nazali na mabele; kobanga malako na yo ixo na ngai te.",
+  "tokens": [
+    {
+      "surface": "גר",
+      "gloss": "Mombangi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ngai nazali"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na mabele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "te"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "kobanga"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ixo na ngai"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "malako na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:30:56.350345019Z",
+  "model": "glm-5.3"
+}

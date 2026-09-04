@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 13:8",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Mpe kohen amona, mpe talá, kokobe epanzi na lokolo, kohen atombola ye mabe; tsaraat yango ezali.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "mpe amona"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mpe talá"
+    },
+    {
+      "surface": "פשתה",
+      "gloss": "epanzi"
+    },
+    {
+      "surface": "המספחת",
+      "gloss": "kokobe"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "na lokolo"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "mpe atombola ye mabe"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "tsaraat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yango ezali"
+    }
+  ],
+  "timestamp": "2026-09-03T16:46:47.861314494Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 20,
+  "translation": "Banzambe mosusu bakokoka te kozala na yo liboso ya ngai.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kozala"
+    },
+    {
+      "surface": "לך",
+      "gloss": "na yo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "banzambe"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "mosusu"
+    },
+    {
+      "surface": "על",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T16:23:36.401358138Z",
+  "model": "glm-5.3"
+}

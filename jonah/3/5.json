@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jonah 3:5",
+  "book": "jonah",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mibali ya Nineve bayokaki Elohim, mpe babenganaki yolo, mpe bakitikaki saka, uta bamonene na bango kino bamike na bango.",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "bayokaki"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "mibali ya"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Nineve"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "mpe babenganaki"
+    },
+    {
+      "surface": "צום",
+      "gloss": "yolo"
+    },
+    {
+      "surface": "וילבשו",
+      "gloss": "mpe bakitikaki"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "saka"
+    },
+    {
+      "surface": "מגדולם",
+      "gloss": "uta bamonene na bango"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "קטנם",
+      "gloss": "bamike na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T20:48:17.107994954Z",
+  "model": "glm-5.3"
+}

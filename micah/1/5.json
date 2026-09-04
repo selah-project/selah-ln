@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 1:5",
+  "book": "micah",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Na bopanya ya Yaakov ⟨ezali⟩ makambo nyonso oyo, mpe na masumu ya ndako ya Israel. Nini ezali bopanya ya Yaakov? Shomron boye te? Mpe nini ezali bamama ya Yehuda? Yerushalaim boye te?",
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "na bopanya"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ya Yaakov"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "makambo oyo"
+    },
+    {
+      "surface": "ובחטאות",
+      "gloss": "mpe na masumu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ya ndako"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nini"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "bopanya"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ya Yaakov"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "boye te"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomron"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "mpe nini"
+    },
+    {
+      "surface": "במות",
+      "gloss": "bamama"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ya Yehuda"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "boye te"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    }
+  ],
+  "timestamp": "2026-09-03T20:48:48.446557179Z",
+  "model": "glm-5.3"
+}

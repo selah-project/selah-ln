@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 8:4",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpo ete liboso mwana akanaka kobenga tata na mama, akemata ⟨את⟩ bokasi ya Damasheki mpe ⟨את⟩ shalal ya Shomeron liboso ya mokonzi ya Ashur.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "liboso"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "akanaka"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "kobenga"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tata"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "mpe mama"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "akemata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bokasi ya Damasheki"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "bokasi"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damasheki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "shalal ya Shomeron"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "shalal"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeron"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    }
+  ],
+  "timestamp": "2026-09-03T19:14:55.581151237Z",
+  "model": "glm-5.3"
+}

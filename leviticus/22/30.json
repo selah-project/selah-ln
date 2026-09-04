@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 22:30",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Mokolo yango bakolia yango; bokotika eloko te na yango kino tongo; ngai nazali Yawe.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Mokolo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yango"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "bakolia yango"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "bokotika"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "eloko na yango"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "tongo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "nazali Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T16:52:18.012149714Z",
+  "model": "glm-5.3"
+}

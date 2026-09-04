@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 41:8",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 41,
+  "translation": "Kasi yo, Israel, mosali na ngai, Yaakov oyo naloni yo, libota ya Avraham moninga na ngai —",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Kasi yo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mosali na ngai"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "naloni yo"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "libota"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "moninga na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T19:30:14.022274290Z",
+  "model": "glm-5.3"
+}

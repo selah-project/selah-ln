@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 27:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 27,
+  "translation": "Mpo abombaka ngai na suka na ye, na mokolo ya mabe; abombaka ngai na bobombi ya tente na ye; na libanga atombolaka ngai.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "יצצפנני",
+      "gloss": "abombaka ngai"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "na suka na ye"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na mokolo"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ya mabe"
+    },
+    {
+      "surface": "יסתרני",
+      "gloss": "abombaka ngai"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "na bobombi"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "ya tente na ye"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "na libanga"
+    },
+    {
+      "surface": "ירוממני",
+      "gloss": "atombolaka ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:06:50.436492911Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 25:5",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Mpe mingando ya bandombo mibali miyaboyabu, mpe mingando ya banyama tehash, mpe nzete ya shitim.",
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "mpe mingando"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "ya bandombo mibali"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "miyaboyabu"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "mpe mingando"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "ya banyama tehash"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "mpe nzete ya"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "shitim"
+    }
+  ],
+  "timestamp": "2026-09-03T16:27:14.018616945Z",
+  "model": "glm-5.3"
+}

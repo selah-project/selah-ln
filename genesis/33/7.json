@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 33:7",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 33,
+  "translation": "Mpe Lea mpe, ye mpe bana na ye, bakundolaki; mpe nsima Yosef mpe Raheli bakangaki pene mpe bakundolaki.",
+  "tokens": [
+    {
+      "surface": "ותגש",
+      "gloss": "mpe bakangaki pene"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "וילדיה",
+      "gloss": "mpe bana na ye"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "mpe bakundolaki"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "mpe nsima"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "bakangaki pene"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ורחל",
+      "gloss": "mpe Raheli"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "mpe bakundolaki"
+    }
+  ],
+  "timestamp": "2026-09-03T16:01:31.105531422Z",
+  "model": "glm-5.3"
+}

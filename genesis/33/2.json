@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 33:2",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 33,
+  "translation": "Mpe atyaki ⟨את⟩ basombami mpe ⟨את⟩ bana na bango liboso, mpe ⟨את⟩ Lea mpe bana na ye na nsima, mpe ⟨את⟩ Rahel mpe ⟨את⟩ Yosef na nsuka.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "atyaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "basombami"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "basombami"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bana na bango"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "bana na bango"
+    },
+    {
+      "surface": "ראשנה",
+      "gloss": "liboso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Lea"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "וילדיה",
+      "gloss": "mpe bana na ye"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "na nsima"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Rahel"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Rahel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "Yosef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "na nsuka"
+    }
+  ],
+  "timestamp": "2026-09-03T16:02:50.652576630Z",
+  "model": "glm-5.3"
+}

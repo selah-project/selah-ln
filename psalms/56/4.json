@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 56,
+  "translation": "Mokolo nazali kobanga, ngai nazali kondimela ⟨epai na yo⟩.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "Mokolo"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "nazali kobanga"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "epai na yo"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "nazali kondimela"
+    }
+  ],
+  "timestamp": "2026-09-03T21:14:13.131065543Z",
+  "model": "glm-5.3"
+}

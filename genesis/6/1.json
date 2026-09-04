@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 6:1",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Mpe ekamwaki, ntango moto abandaki kokola bonene likolo ya mabele, mpe bana mwasi butwamaki na bango.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mpe ekamwaki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ntango"
+    },
+    {
+      "surface": "החל",
+      "gloss": "abandaki"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "moto"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "kokola bonene"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ya"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "mpe bana mwasi"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "butwamaki"
+    },
+    {
+      "surface": "להם",
+      "gloss": "na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T23:11:57.632593609Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 15:8",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 15,
+  "translation": "Mpo ete bokangi bozali kozinga ⟨את⟩ mpeto ya Moab; kino Eglaim kaneli na yango ekokokoma, mpe na Bour-Elim kaneli na yango ekokokoma.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "הקיפה",
+      "gloss": "bozali kozinga"
+    },
+    {
+      "surface": "הזעקה",
+      "gloss": "bokangi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mpeto ya Moab"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "mpeto"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ya Moab"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "אגלים",
+      "gloss": "Eglaim"
+    },
+    {
+      "surface": "יללתה",
+      "gloss": "kaneli na yango"
+    },
+    {
+      "surface": "ובאר",
+      "gloss": "mpe na Bour"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "Elim"
+    },
+    {
+      "surface": "יללתה",
+      "gloss": "kaneli na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T19:20:00.806279803Z",
+  "model": "glm-5.3"
+}

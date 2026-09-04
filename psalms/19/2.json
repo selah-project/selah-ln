@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 19:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Likolo etangaka nkembo ya El, mpe etando elobaka mosala ya maboko na ye.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "Likolo"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "etangaka"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "nkembo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ya El"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "mpe mosala"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ya maboko na ye"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "elobaka"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "etando"
+    }
+  ],
+  "timestamp": "2026-09-03T21:04:49.640179140Z",
+  "model": "glm-5.3"
+}

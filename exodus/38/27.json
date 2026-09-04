@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 38:27",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 38,
+  "translation": "Mpe nkama moko kikar ya féro ekamwaki mpo na kokundola ⟨את⟩ bankoko ya esantu mpe ⟨את⟩ bankoko ya paroket; nkama moko bankoko mpo na nkama moko kikar, kikar moko mpo na lokoko.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "nkama moko"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "kikar"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ya féro"
+    },
+    {
+      "surface": "לצקת",
+      "gloss": "mpo na kokundola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bankoko ya esantu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "bankoko"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ya esantu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bankoko ya paroket"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "bankoko"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "ya paroket"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "nkama moko"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "bankoko"
+    },
+    {
+      "surface": "למאת",
+      "gloss": "mpo na nkama moko"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "ya kikar"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "kikar moko"
+    },
+    {
+      "surface": "לאדן",
+      "gloss": "mpo na lokoko"
+    }
+  ],
+  "timestamp": "2026-09-03T16:37:05.538899680Z",
+  "model": "glm-5.3"
+}

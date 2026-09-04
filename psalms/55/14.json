@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 55:14",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 55,
+  "translation": "Kasi yo, moto lokola ngai, moninga na ngai mpe moyebi na ngai.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Kasi yo"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "כערכי",
+      "gloss": "lokola ngai"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "moninga na ngai"
+    },
+    {
+      "surface": "ומידעי",
+      "gloss": "mpe moyebi na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:13:54.429366239Z",
+  "model": "glm-5.3"
+}

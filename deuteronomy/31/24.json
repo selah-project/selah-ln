@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 31:24",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 31,
+  "translation": "Mpe esalemaki, ntango Moshe asilisaki kokoma ⟨את⟩ maloba ya Tora oyo na buku, kino suka na yango.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mpe esalemaki"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "ntango asilisaki"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לכתב",
+      "gloss": "kokoma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maloba ya Tora oyo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "maloba"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "ya Tora"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "buku"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "suka na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T17:41:42.600416559Z",
+  "model": "glm-5.3"
+}

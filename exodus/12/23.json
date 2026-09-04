@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 12:23",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Mpe Yawe akotambola mpo na koboma ⟨את⟩ Mitsraim; mpe tango amona ⟨את⟩ makila na lokoso ya ekulu mpe na mapote mibale ya ekulu, Yawe akoleka likolo ya ekulu, mpe akopekisa te Mobomi yakokota na bandako na bino mpo na koboma.",
+  "tokens": [
+    {
+      "surface": "ועבר",
+      "gloss": "akotambola"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לנגף",
+      "gloss": "mpo na koboma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsraim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsraim"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "mpe amona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "makila"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "makila"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "המשקוף",
+      "gloss": "lokoso ya ekulu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "mpe na"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "המזוזת",
+      "gloss": "mapote ya ekulu"
+    },
+    {
+      "surface": "ופסח",
+      "gloss": "akoleka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "ekulu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "akopekisa"
+    },
+    {
+      "surface": "המשחית",
+      "gloss": "Mobomi"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "yakokota"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "bandako na bino"
+    },
+    {
+      "surface": "לנגף",
+      "gloss": "mpo na koboma"
+    }
+  ],
+  "timestamp": "2026-09-03T16:19:55.384700796Z",
+  "model": "glm-5.3"
+}

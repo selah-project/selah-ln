@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 15:22",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 15,
+  "translation": "Mpe Moshe atambwisaki ⟨את⟩ Israel uta na mbu ya mafuka, mpe babimaki na etanda ya Shur; mpe bakendaki mikolo misato na etanda, mpe bazuaki mai te.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "mpe atambwisaki"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מים",
+      "gloss": "uta na mbu"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "ya mafuka"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "mpe babimaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "etanda"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Shur"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "mpe bakendaki"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "misato"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mikolo"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "na etanda"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "bazuaki"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mai"
+    }
+  ],
+  "timestamp": "2026-09-03T23:14:17.275654199Z",
+  "model": "glm-5.3"
+}

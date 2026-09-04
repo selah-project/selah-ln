@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 73:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 73,
+  "translation": "Na mawa ya banto bazali te, mpe na kati ya bato banyokami te.",
+  "tokens": [
+    {
+      "surface": "בעמל",
+      "gloss": "na mawa"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ya banto"
+    },
+    {
+      "surface": "אינמו",
+      "gloss": "bazali te"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "mpe na kati"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ya bato"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ינגעו",
+      "gloss": "banyokami te"
+    }
+  ],
+  "timestamp": "2026-09-03T21:18:28.562421509Z",
+  "model": "glm-5.3"
+}

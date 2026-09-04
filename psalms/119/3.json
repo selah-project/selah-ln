@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 119:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Ate te basalaki mabe, na banzela na ye batambolaki.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "ate"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "basalaki"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "na banzela na ye"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "batambolaki"
+    }
+  ],
+  "timestamp": "2026-09-03T21:30:57.711010273Z",
+  "model": "glm-5.3"
+}

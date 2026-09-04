@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 31:27",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 31,
+  "translation": "Talá, mikolo ezali koya, liloba ya Yawe: nakolona ⟨את⟩ ndako ya Israel mpe ⟨את⟩ ndako ya Yehuda bokeseni ya moto mpe bokeseni ya nyama.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Talá"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mikolo"
+    },
+    {
+      "surface": "באים",
+      "gloss": "ezali koya"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "liloba ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "וזרעתי",
+      "gloss": "mpe nakolona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndako ya Israel"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "ndako ya Yehuda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ya Yehuda"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "bokeseni"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ya moto"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "mpe bokeseni"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "ya nyama"
+    }
+  ],
+  "timestamp": "2026-09-03T19:55:55.097022353Z",
+  "model": "glm-5.3"
+}

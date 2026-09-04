@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 3:4",
+  "book": "micah",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Wana bakobenga epai ya Yawe, mpe akoyanola ⟨את⟩ bango te; mpe abombaki elongi na ye uto na bango na ntango wana, mpo basalaki mabe misala na bango.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Wana"
+    },
+    {
+      "surface": "יזעקו",
+      "gloss": "bakobenga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "akoyanola"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ bango",
+      "marks": "bango (bakabuli)"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "mpe abombaki"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "elongi na ye"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "uto na bango"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "na ntango"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "wana"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "הרעו",
+      "gloss": "basalaki mabe"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "misala na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T20:48:09.369799827Z",
+  "model": "glm-5.3"
+}

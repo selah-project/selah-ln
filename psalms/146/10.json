@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 146:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 146,
+  "translation": "Yawe akokonza na ntango nyonso — Elohim na yo, Tsion — libota na libota. Lobaka Ya!",
+  "tokens": [
+    {
+      "surface": "ימלך",
+      "gloss": "akokonza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "na ntango nyonso"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim na yo"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsion"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "libota"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "na libota"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Lobaka"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    }
+  ],
+  "timestamp": "2026-09-03T21:35:48.434703255Z",
+  "model": "glm-5.3"
+}

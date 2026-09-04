@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 109:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 109,
+  "translation": "Mikolo na ye ezala mike, mosala na ye ya bokambi mosusu azwa.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ezala"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "mikolo na ye"
+    },
+    {
+      "surface": "מעטים",
+      "gloss": "mike"
+    },
+    {
+      "surface": "פקדתו",
+      "gloss": "mosala na ye ya bokambi"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "azwa"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "mosusu"
+    }
+  ],
+  "timestamp": "2026-09-03T21:29:06.661108942Z",
+  "model": "glm-5.3"
+}

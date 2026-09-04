@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 18:15",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Mpe bazoomaki bankoto zomi, babikaka bibende ya Yoabi, mpe babetaki ⟨את⟩ Abishalomu mpe babomaki ye.",
+  "tokens": [
+    {
+      "surface": "ויסבו",
+      "gloss": "Mpe bazoomaki"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "zomi"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "bankoto"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "babikaka"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "bibende"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ya Yoabi"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "mpe babetaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abishalomu"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abishalomu"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "mpe babomaki ye"
+    }
+  ],
+  "timestamp": "2026-09-03T18:38:19.754676172Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 26:5",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "Mpo ete Avraham ayokaki molimo na ngai, mpe atikali kozela malako na ngai, matoyi na ngai, mibeko ya ntoto na ngai, mpe Tora na ngai.",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "Mpo ete"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ete"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ayokaki"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "molimo na ngai"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "mpe atikali kozela"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "malako na ngai"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "matoyi na ngai"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "mibeko ya ntoto na ngai"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "mpe Tora na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T15:57:32.459403805Z",
+  "model": "glm-5.3"
+}

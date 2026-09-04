@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 79:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 79,
+  "translation": "Kimemo ya Asaf. Elohim, bikolo boyaki na lokabo na yo, bomaki ⟨את⟩ heikalo ya bomosantu na yo, mpe batyaki Yerushalaim ekomi matombolo.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Kimemo"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ya Asaf"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באו",
+      "gloss": "boyaki"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bikolo"
+    },
+    {
+      "surface": "בנחלתך",
+      "gloss": "na lokabo na yo"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "bomaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "heikalo ya bomosantu na yo"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "heikalo"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "ya bomosantu na yo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "batyaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalaim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "לעיים",
+      "gloss": "ekomi matombolo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:21:37.481988500Z",
+  "model": "glm-5.3"
+}

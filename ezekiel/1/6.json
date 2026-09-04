@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 1:6",
+  "book": "ezekiel",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe balongi minei na moko ⟨na bango⟩, mpe mapapu minei na moko na bango.",
+  "tokens": [
+    {
+      "surface": "וארבעה",
+      "gloss": "Mpe minei"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "balongi"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "na moko"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "mpe minei"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "mapapu"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "na moko"
+    },
+    {
+      "surface": "להם",
+      "gloss": "na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T20:09:14.573491970Z",
+  "model": "glm-5.3"
+}

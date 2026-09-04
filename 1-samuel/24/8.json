@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 24:8",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 24,
+  "translation": "Mpe David asekoli ⟨את⟩ bato na yeye na maloba, mpe atikaki bango te bokumela na Shaul; mpe Shaul atombwaki na monzende mpe akendaki na nzela.",
+  "tokens": [
+    {
+      "surface": "וישסע",
+      "gloss": "mpe asekoli"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bato na yeye"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "bato na yeye"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "na maloba"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "atikaki bango"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "bokumela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "mpe Shaul"
+    },
+    {
+      "surface": "קם",
+      "gloss": "atombwaki"
+    },
+    {
+      "surface": "מהמערה",
+      "gloss": "na monzende"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "mpe akendaki"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "na nzela"
+    }
+  ],
+  "timestamp": "2026-09-03T18:21:11.518550114Z",
+  "model": "glm-5.3"
+}

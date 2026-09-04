@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 45:16",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 45,
+  "translation": "Bamemami na esengo mpe na elaka; bakota na tembo ya mokonzi.",
+  "tokens": [
+    {
+      "surface": "תובלנה",
+      "gloss": "bamemami"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "na esengo"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "mpe na elaka"
+    },
+    {
+      "surface": "תבאינה",
+      "gloss": "bakota"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "na tembo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ya mokonzi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:12:12.077613497Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 39:8",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 39,
+  "translation": "Mpe ⟨את⟩ ndako ya mokonzi mpe ⟨את⟩ ndako ya bato Bakasdi balakaki na moto; mpe ⟨את⟩ mapanda ya Yerushalaim babukaki.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Mpe ⟨את⟩",
+      "marks": "ndako ya mokonzi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya mokonzi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "ndako ya bato"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ya bato"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "balakaki"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "Bakasdi"
+    },
+    {
+      "surface": "באש",
+      "gloss": "na moto"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mapanda ya Yerushalaim"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "mapanda"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "babukaki"
+    }
+  ],
+  "timestamp": "2026-09-03T20:01:12.034211276Z",
+  "model": "glm-5.3"
+}

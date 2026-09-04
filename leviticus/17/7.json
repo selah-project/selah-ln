@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 17:7",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 17,
+  "translation": "Mpe bakobeka lisusu te ⟨את⟩ mbeka na bango epai ya bapima ya mbasi, oyo bango bazali kosala bosato na bango; mobeko ya ntango nyonso oyo ekotikala mpo na bango, na mabota na bango.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Mpe ... te"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "bakobeka"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lisusu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mbeka na bango"
+    },
+    {
+      "surface": "זבחיהם",
+      "gloss": "mbeka na bango"
+    },
+    {
+      "surface": "לשעירם",
+      "gloss": "epai ya bapima ya mbasi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "הם",
+      "gloss": "bango"
+    },
+    {
+      "surface": "זנים",
+      "gloss": "bazali kosala bosato"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "na bango"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "mobeko"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ya ntango nyonso"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ekotikala"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "mpo na bango"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "na mabota na bango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:51:22.171601776Z",
+  "model": "glm-5.3"
+}

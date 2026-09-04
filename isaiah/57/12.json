@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 57:12",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 57,
+  "translation": "Ngai nakolakisa bobele na yo, mpe ⟨את⟩ misala na yo, mpe te ekosalisa yo.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ngai"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "nakolakisa"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "bobele na yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "misala na yo"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "misala na yo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "יועילוך",
+      "gloss": "ekosalisa yo"
+    }
+  ],
+  "timestamp": "2026-09-03T19:36:42.673944695Z",
+  "model": "glm-5.3"
+}

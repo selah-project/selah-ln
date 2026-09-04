@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 48:8",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 48,
+  "translation": "Mpe Israel amonaki ⟨את⟩ bana ya Yosef, mpe alobaki: Bango nani bazali bango?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Mpe amonaki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bana ya Yosef"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ya"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nani"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bango bazali bango"
+    }
+  ],
+  "timestamp": "2026-09-03T16:11:35.470455532Z",
+  "model": "glm-5.3"
+}

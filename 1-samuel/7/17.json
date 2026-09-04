@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 7:17",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mpe kozonga na yango ezalaki Ramata, mpo ndako na yango ezalaki kuna, mpe kuna azuelaki ⟨את⟩ Israel, mpe akangaki kuna autelo mpo na Yawe.",
+  "tokens": [
+    {
+      "surface": "ותשבתו",
+      "gloss": "Mpe kozonga na yango"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "Ramata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ndako na yango"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "mpe kuna"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "azuelaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "mpe akangaki"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kuna"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "autelo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "mpo na Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T18:09:55.668113880Z",
+  "model": "glm-5.3"
+}

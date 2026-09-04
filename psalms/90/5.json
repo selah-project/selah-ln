@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 90:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 90,
+  "translation": "Ozramaki bango lokola bule, bazali lokola buto; na tongo bakolaki lokola nsese.",
+  "tokens": [
+    {
+      "surface": "זרמתם",
+      "gloss": "Ozramaki bango"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "buto"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bazali"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "na tongo"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "lokola nsese"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "bakolaki"
+    }
+  ],
+  "timestamp": "2026-09-03T21:24:46.723911970Z",
+  "model": "glm-5.3"
+}

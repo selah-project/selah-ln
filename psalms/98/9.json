@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 98:9",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 98,
+  "translation": "Liboso ya Yawe, mpo ayei kosamba mabele; akosamba tebel na bosolo, mpe bikolo na bosembo.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "Liboso ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ayei"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "kosamba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "akosamba"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "tebel"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "na bosolo"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "mpe bikolo"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "na bosembo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:25:21.690313298Z",
+  "model": "glm-5.3"
+}

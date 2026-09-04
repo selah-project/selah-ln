@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 59:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 59,
+  "translation": "Tala, bakufaka maloba na monoko na bango, bankonzi ezali na pembeni ya minoko na bango; mpo nani akoyoka?",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "tala"
+    },
+    {
+      "surface": "יביעון",
+      "gloss": "bakufaka maloba"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "na monoko na bango"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "bankonzi"
+    },
+    {
+      "surface": "בשפתותיהם",
+      "gloss": "na pembeni ya minoko na bango"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nani"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "akoyoka"
+    }
+  ],
+  "timestamp": "2026-09-03T21:14:52.910478133Z",
+  "model": "glm-5.3"
+}

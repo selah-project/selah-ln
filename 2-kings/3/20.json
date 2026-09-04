@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 3:20",
+  "book": "2-kings",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe esalemaki na tongo, ntango mbeka ezalaki kolakwa, mpe tala, mai ezalaki koya na nzela ya Edom, mpe mabele etondaki na ⟨את⟩ mai.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Mpe esalemaki"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "na tongo"
+    },
+    {
+      "surface": "כעלות",
+      "gloss": "ntango"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "mbeka ezalaki kolakwa"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mpe tala"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mai"
+    },
+    {
+      "surface": "באים",
+      "gloss": "ezalaki koya"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "na nzela ya"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "mpe etondaki"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mai"
+    },
+    {
+      "surface": "המים",
+      "gloss": "mai"
+    }
+  ],
+  "timestamp": "2026-09-03T18:59:35.248722099Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 26:12",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "Lokolo na ngai etelemi na esika pete; na makita nakumisa Yawe.",
+  "tokens": [
+    {
+      "surface": "רגלי",
+      "gloss": "lokolo na ngai"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "etelemi"
+    },
+    {
+      "surface": "במישור",
+      "gloss": "na esika pete"
+    },
+    {
+      "surface": "במקהלים",
+      "gloss": "na makita"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "nakumisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T21:05:38.450755829Z",
+  "model": "glm-5.3"
+}

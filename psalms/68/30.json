@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 68:30",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 68,
+  "translation": "Utuka na ndako na yo likolo ya Yerushalaim, bakonzi bakomema bikituma epai na yo.",
+  "tokens": [
+    {
+      "surface": "מהיכלך",
+      "gloss": "utuka na ndako na yo"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalaim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "epai na yo"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "bakomema"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "bakonzi"
+    },
+    {
+      "surface": "שי",
+      "gloss": "bikituma"
+    }
+  ],
+  "timestamp": "2026-09-03T21:18:00.383562945Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 6:19",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 6,
+  "translation": "Kohen oyo atielaka yango lokola ofela ya masumu akolia ⟨את⟩ yango; na esika mosantu ekoliama; na lakiri ya tente ya bokutana.",
+  "tokens": [
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "המחטא",
+      "gloss": "oyo atielaka yango lokola ofela ya masumu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "yango"
+    },
+    {
+      "surface": "יאכלנה",
+      "gloss": "akolia yango"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "na esika"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "mosantu"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ekoliama"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "na lakiri"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tente"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya bokutana"
+    }
+  ],
+  "timestamp": "2026-09-03T16:40:50.282401770Z",
+  "model": "glm-5.3"
+}

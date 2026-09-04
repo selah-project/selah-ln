@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 19:8",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Bato nyonso bayanolaki elongo moko mpe balobaki: Nyonso oyo Yawe alobaki, tosali yango. Mpe Moshe azongisaki ⟨את⟩ maloba ya bato epai ya Yawe.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "bayanolaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "elongo moko"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "mpe balobaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Nyonso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "tosali yango"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "Mpe azongisaki"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maloba ya bato"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "maloba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ya bato"
+    },
+    {
+      "surface": "אל",
+      "gloss": "epai ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T16:22:30.128525658Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 4:10",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Lokela ebongwanaka uta na ngulu ya mbeka ya shelamim, mpe kohen akotumba yango likolo ya autelo ya mbeka ya kokaka na moto",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "lokela"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "ebongwanaka"
+    },
+    {
+      "surface": "משור",
+      "gloss": "ngulu"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "mbeka"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "shelamim"
+    },
+    {
+      "surface": "והקטירם",
+      "gloss": "akotumba yango"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "autelo"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ya kokaka na moto"
+    }
+  ],
+  "timestamp": "2026-09-03T16:40:58.849672230Z",
+  "model": "glm-5.3"
+}

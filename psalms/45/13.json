@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 45:13",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 45,
+  "translation": "Mpe mwana ya Tsor na mbongo ya likita; bato ya misato ya bato basengaka elongi na yo.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "Mpe mwana"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ya Tsor"
+    },
+    {
+      "surface": "במנחה",
+      "gloss": "na mbongo ya likita"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "elongi na yo"
+    },
+    {
+      "surface": "יחלו",
+      "gloss": "basengaka"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "bato ya misato"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ya bato"
+    }
+  ],
+  "timestamp": "2026-09-03T21:12:12.077155928Z",
+  "model": "glm-5.3"
+}

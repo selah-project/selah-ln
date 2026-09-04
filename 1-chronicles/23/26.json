@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 23:26",
+  "book": "1-chronicles",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Mpe mpe epai ya Balevi, ezali te komema ⟨את⟩ Mishkan mpe ⟨את⟩ biloko na yango nyonso mpo na mosala na yango.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Mpe mpe"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "epai ya Balevi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ezali te"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "komema"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "biloko na yango nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "biloko na yango"
+    },
+    {
+      "surface": "לעבדתו",
+      "gloss": "mpo na mosala na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T22:50:18.864097310Z",
+  "model": "glm-5.3"
+}

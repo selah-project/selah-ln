@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 1:12",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Ndenge nini nakoki kotombola na ngai moko motundo na bino, mpe mokanda na bino, mpe bokangani na bino?",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "Ndenge nini"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "nakoki kotombola"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "na ngai moko"
+    },
+    {
+      "surface": "טרחכם",
+      "gloss": "motundo na bino"
+    },
+    {
+      "surface": "ומשאכם",
+      "gloss": "mpe mokanda na bino"
+    },
+    {
+      "surface": "וריבכם",
+      "gloss": "mpe bokangani na bino"
+    }
+  ],
+  "timestamp": "2026-09-03T17:22:32.557264509Z",
+  "model": "glm-5.3"
+}

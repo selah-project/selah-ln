@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "deuteronomy 4:37",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe mpo ⟨ye⟩ azalaki kolinga ⟨את⟩ bankoko na yo, mpe aponaki libota na bango sima na bango, mpe abimisaki yo na liboso na ye, na nguya na ye ya minene, uta na Mitsraim.",
+  "tokens": [
+    {
+      "surface": "ותחת",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "azalaki kolinga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bankoko na yo"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "bankoko na yo"
+    },
+    {
+      "surface": "ויבחר",
+      "gloss": "aponaki"
+    },
+    {
+      "surface": "בזרעו",
+      "gloss": "libota na bango"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "sima na bango"
+    },
+    {
+      "surface": "ויוצאך",
+      "gloss": "abimisaki yo"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "na liboso na ye"
+    },
+    {
+      "surface": "בכחו",
+      "gloss": "na nguya na ye"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "ya minene"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "uta na Mitsraim"
+    }
+  ],
+  "timestamp": "2026-09-03T17:25:38.475953048Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 84,
+  "ref": "psalms 119:84",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 119,
+  "translation": "Mokolo ya mokombo na ngai ezali tango boni? Tango nini okosala bosolo na oyo balandi ngai?",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "tango boni"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mokolo"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ya mokombo na ngai"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "tango nini"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "okosala"
+    },
+    {
+      "surface": "ברדפי",
+      "gloss": "na oyo balandi ngai"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "bosolo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:32:01.036834975Z",
+  "model": "glm-5.3"
+}

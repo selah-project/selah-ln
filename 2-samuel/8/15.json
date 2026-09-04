@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 8:15",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe David akotaki na bokonzi na likolo ya Israel mobimba, mpe David azalaki kosala bosambisi mpe bosolo na bato na ye banso.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "akotaki na bokonzi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "על",
+      "gloss": "na likolo ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mobimba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mpe azalaki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kosala"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "bosambisi"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "mpe bosolo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "na"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bato na ye banso"
+    }
+  ],
+  "timestamp": "2026-09-03T18:30:31.888104503Z",
+  "model": "glm-5.3"
+}

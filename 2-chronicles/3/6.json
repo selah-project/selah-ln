@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 3:6",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe akangaki ⟨את⟩ ndako na mabanga ya ntalo mpo na bokembi, mpe zahabu ezalaki ⟨ezali⟩ zahabu ya Parvaim.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "mpe akangaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ndako"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "na mabanga"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "ya ntalo"
+    },
+    {
+      "surface": "לתפארת",
+      "gloss": "mpo na bokembi"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "mpe zahabu"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zahabu"
+    },
+    {
+      "surface": "פרוים",
+      "gloss": "ya Parvaim"
+    }
+  ],
+  "timestamp": "2026-09-03T22:55:20.222742543Z",
+  "model": "glm-5.3"
+}

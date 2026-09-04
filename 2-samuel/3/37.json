@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-samuel 3:37",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe bato nyonso mpe Israel nyonso bayebaki na mokolo yango ete ezalaki te kowuta epai ya mokonzi koboma ⟨את⟩ Avner mwana Ner.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "bayebaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe ... nyonso"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "na mokolo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yango"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ezalaki"
+    },
+    {
+      "surface": "מהמלך",
+      "gloss": "kowuta epai ya mokonzi"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "koboma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avner"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "נר",
+      "gloss": "Ner"
+    }
+  ],
+  "timestamp": "2026-09-03T18:25:39.153959607Z",
+  "model": "glm-5.3"
+}

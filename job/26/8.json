@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 26:8",
+  "book": "job",
+  "lang": "ln",
+  "chapter": 26,
+  "translation": "Akangaka mai na bilipata na ye, mpe lipata ebukaka te na nse na yango.",
+  "tokens": [
+    {
+      "surface": "צרר",
+      "gloss": "akangaka"
+    },
+    {
+      "surface": "מים",
+      "gloss": "mai"
+    },
+    {
+      "surface": "בעביו",
+      "gloss": "na bilipata na ye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mpe ... te"
+    },
+    {
+      "surface": "נבקע",
+      "gloss": "ebukaka"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "lipata"
+    },
+    {
+      "surface": "תחתם",
+      "gloss": "na nse na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T21:59:29.359120454Z",
+  "model": "glm-5.3"
+}

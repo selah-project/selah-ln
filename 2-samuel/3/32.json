@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 3:32",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe bakundaki ⟨את⟩ Avner na Hebron, mpe mokonzi atombolaki ⟨את⟩ mongongo na ye mpe alelaki na lilomba ya Avner, mpe bato nyonso balilaki.",
+  "tokens": [
+    {
+      "surface": "ויקברו",
+      "gloss": "Mpe bakundaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Avner"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "na Hebron"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "mpe atombolaki"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mongongo na ye"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "mongongo na ye"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "mpe alelaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "lilomba"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Avner"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "mpe balilaki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    }
+  ],
+  "timestamp": "2026-09-03T18:27:55.367996861Z",
+  "model": "glm-5.3"
+}

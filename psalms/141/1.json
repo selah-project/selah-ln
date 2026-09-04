@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 141:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 141,
+  "translation": "Mizmor ya David. Yawe, nabengi yo; fusa epai na ngai; kanisa monoko na ngai, tango nabengi yo.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya David"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "nabengi yo"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "fusa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "epai na ngai"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "kanisa"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "monoko na ngai"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "tango nabengi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:35:18.253977671Z",
+  "model": "glm-5.3"
+}

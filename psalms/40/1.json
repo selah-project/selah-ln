@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 40:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 40,
+  "translation": "Mokambi ya miziki, ya David, nzembo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Mokambi ya miziki"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya David"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "nzembo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:10:18.938911283Z",
+  "model": "glm-5.3"
+}

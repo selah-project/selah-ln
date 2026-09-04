@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 17:2",
+  "book": "jeremiah",
+  "lang": "ln",
+  "chapter": 17,
+  "translation": "Bakanisi bana na bango bamazare na bango, mpe baashera na bango na nzete ya bomoi, na bangomba ya minene.",
+  "tokens": [
+    {
+      "surface": "כזכר",
+      "gloss": "Bakanisi"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "bana na bango"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "bamazare na bango"
+    },
+    {
+      "surface": "ואשריהם",
+      "gloss": "mpe baashera na bango"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "nzete"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "ya bomoi"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "bangomba"
+    },
+    {
+      "surface": "הגבהות",
+      "gloss": "ya minene"
+    }
+  ],
+  "timestamp": "2026-09-03T19:50:01.148131860Z",
+  "model": "glm-5.3"
+}

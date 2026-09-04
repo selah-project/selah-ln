@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 16:31",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Mpe ndako ya Israel ebengaki ⟨את⟩ nkombo na yango Man; mpe yango ezali lokola nsinga ya gad, ya pembe, mpe bolei na yango ezali lokola keke oyo esalemi na asuku.",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "ebengaki"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndako"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nkombo na yango"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "nkombo na yango"
+    },
+    {
+      "surface": "מן",
+      "gloss": "Man"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "mpe yango"
+    },
+    {
+      "surface": "כזרע",
+      "gloss": "lokola nsinga"
+    },
+    {
+      "surface": "גד",
+      "gloss": "gad"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "pembe"
+    },
+    {
+      "surface": "וטעמו",
+      "gloss": "mpe bolei na yango"
+    },
+    {
+      "surface": "כצפיחת",
+      "gloss": "lokola keke"
+    },
+    {
+      "surface": "בדבש",
+      "gloss": "ya asuku"
+    }
+  ],
+  "timestamp": "2026-09-03T16:22:32.376639222Z",
+  "model": "glm-5.3"
+}

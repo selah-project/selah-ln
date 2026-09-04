@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 40:8",
+  "book": "ezekiel",
+  "lang": "ln",
+  "chapter": 40,
+  "translation": "Mpe akomeki ⟨את⟩ porshe ya moninga oyo ezali kati, kane moko.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "Mpe akomeki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "porshe"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "porshe"
+    },
+    {
+      "surface": "השער",
+      "gloss": "ya moninga"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "oyo ezali kati"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "kane"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "moko"
+    }
+  ],
+  "timestamp": "2026-09-03T20:33:27.528374908Z",
+  "model": "glm-5.3"
+}

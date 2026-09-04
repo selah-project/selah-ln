@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 32:8",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 32,
+  "translation": "Mpe Yaakov abangaki mingi, mpe mawa minene ekweaki ye; mpe abatolaki ⟨את⟩ bato oyo ⟨את⟩ bazalaki na ye, mpe ⟨את⟩ bitoyo, mpe ⟨את⟩ ngombe, mpe bakamelali, na makambi mibale.",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "abangaki mingi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mingi"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "mpe mawa minene ekweaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "ויחץ",
+      "gloss": "abatolaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bato"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ bazalaki na ye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bitoyo"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "bitoyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "ngombe"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ngombe"
+    },
+    {
+      "surface": "והגמלים",
+      "gloss": "mpe bakamelali"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "mibale"
+    },
+    {
+      "surface": "מחנות",
+      "gloss": "makambi"
+    }
+  ],
+  "timestamp": "2026-09-03T16:02:52.244186183Z",
+  "model": "glm-5.3"
+}

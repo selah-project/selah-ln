@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 1:14",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe David alobaki na ye: Ndenge nini okokaki kobanga te kobomba maboko na yo mpo na kolimwisa ⟨את⟩ Mashiah ya Yawe?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "איך",
+      "gloss": "Ndenge nini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "okokaki kobanga"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "kobomba"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "maboko na yo"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "mpo na kolimwisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mashiah ya Yawe"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "Mashiah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T18:25:59.533523453Z",
+  "model": "glm-5.3"
+}

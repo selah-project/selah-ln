@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 1:7",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe bana ya Aharon mopriste batyaki moto likolo ya autelo, mpe batondisaki bankiti likolo ya moto.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "mpe batyaki"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "mopriste"
+    },
+    {
+      "surface": "אש",
+      "gloss": "moto"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "autelo"
+    },
+    {
+      "surface": "וערכו",
+      "gloss": "mpe batondisaki"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "bankiti"
+    },
+    {
+      "surface": "על",
+      "gloss": "likolo ya"
+    },
+    {
+      "surface": "האש",
+      "gloss": "moto"
+    }
+  ],
+  "timestamp": "2026-09-03T16:39:25.454144495Z",
+  "model": "glm-5.3"
+}

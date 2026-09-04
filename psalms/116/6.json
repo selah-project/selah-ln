@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 116:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 116,
+  "translation": "Yawe azali kobatela bapetai; namiki, mpe ⟨azali⟩ kobikisa ngai.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "azali kobatela"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "bapetai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "דלותי",
+      "gloss": "namiki"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "mpe ngai"
+    },
+    {
+      "surface": "יהושיע",
+      "gloss": "azali kobikisa"
+    }
+  ],
+  "timestamp": "2026-09-03T21:30:37.332615019Z",
+  "model": "glm-5.3"
+}

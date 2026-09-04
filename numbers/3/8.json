@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 3:8",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 3,
+  "translation": "Mpe bakobatela ⟨את⟩ bisaleli nyonso ya Ohel Moed, mpe ⟨את⟩ libateli ya bana ya Israel, mpo na kosala ⟨את⟩ mosala ya Mishkan.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "Mpe bakobatela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bisaleli nyonso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "bisaleli"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ya Ohel"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Moed"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "libateli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ya bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "mpo na kosala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mosala ya Mishkan"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "mosala ya"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkan"
+    }
+  ],
+  "timestamp": "2026-09-03T16:59:44.310193798Z",
+  "model": "glm-5.3"
+}

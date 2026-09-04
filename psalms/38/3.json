@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 38:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 38,
+  "translation": "Mpo mipinda na yo emikaki na ngai, mpe otauaki loboko na yo likolo na ngai.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "mipinda na yo"
+    },
+    {
+      "surface": "נחתו",
+      "gloss": "emikaki"
+    },
+    {
+      "surface": "בי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "ותנחת",
+      "gloss": "mpe otauaki"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "likolo na ngai"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "loboko na yo"
+    }
+  ],
+  "timestamp": "2026-09-03T23:35:07.956742536Z",
+  "model": "glm-5.3"
+}

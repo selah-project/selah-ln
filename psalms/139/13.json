@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 139:13",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 139,
+  "translation": "Mpo yo okelaki mimema na ngai, otungisaki ngai na libumu ya mama na ngai.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "okelaki"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "mimema na ngai"
+    },
+    {
+      "surface": "תסכני",
+      "gloss": "otungisaki ngai"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "na libumu"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ya mama na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:35:02.083991347Z",
+  "model": "glm-5.3"
+}

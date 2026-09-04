@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 37:13",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 37,
+  "translation": "Mokonzi ya Hamat azali wapi, mpe mokonzi ya Arpad, mpe mokonzi ya mboka ya Sefarvaim, Hena mpe Iva?",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "azali wapi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "mpe mokonzi"
+    },
+    {
+      "surface": "ארפד",
+      "gloss": "Arpad"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "mpe mokonzi"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "ya mboka"
+    },
+    {
+      "surface": "ספרוים",
+      "gloss": "Sefarvaim"
+    },
+    {
+      "surface": "הנע",
+      "gloss": "Hena"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "mpe Iva"
+    }
+  ],
+  "timestamp": "2026-09-03T19:28:11.190459374Z",
+  "model": "glm-5.3"
+}

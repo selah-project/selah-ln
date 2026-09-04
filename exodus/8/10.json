@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 8:10",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe basakolaki ⟨את⟩ bango na bitulu bitulu, mpe mabele ebotosaki.",
+  "tokens": [
+    {
+      "surface": "ויצברו",
+      "gloss": "mpe basakolaki"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bango (bangwanya oyo bakufaki)"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "na bitulu"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "bitulu"
+    },
+    {
+      "surface": "ויתבאש",
+      "gloss": "mpe mabele ebotosaki"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T16:17:20.480157880Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 23:2",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Bozala kimya, bafandi ya esanga; mosali ya mombongo Tsidon, akotaka mbu, abombaki ⟨yo⟩.",
+  "tokens": [
+    {
+      "surface": "דמו",
+      "gloss": "Bozala kimya"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "bafandi"
+    },
+    {
+      "surface": "אי",
+      "gloss": "ya esanga"
+    },
+    {
+      "surface": "סחר",
+      "gloss": "mosali ya mombongo"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsidon"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "akotaka"
+    },
+    {
+      "surface": "ים",
+      "gloss": "mbu"
+    },
+    {
+      "surface": "מלאוך",
+      "gloss": "abombaki ⟨yo⟩"
+    }
+  ],
+  "timestamp": "2026-09-03T19:22:56.329028840Z",
+  "model": "glm-5.3"
+}

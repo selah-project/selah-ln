@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 32:7",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 32,
+  "translation": "Yo ozali esika ya bobombi na ngai; na mawa obataki ngai, na bayembo ya libikisi olingaki ngai. Sela.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "esika ya bobombi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na ngai"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "mawa"
+    },
+    {
+      "surface": "תצרני",
+      "gloss": "obataki ngai"
+    },
+    {
+      "surface": "רני",
+      "gloss": "bayembo"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "ya libikisi"
+    },
+    {
+      "surface": "תסובבני",
+      "gloss": "olingaki ngai"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-03T21:09:04.573378746Z",
+  "model": "glm-5.3"
+}

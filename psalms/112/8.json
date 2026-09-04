@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 112:8",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 112,
+  "translation": "Motema na ye esimbami, akoyika te, kino tango amona banguna na ye.",
+  "tokens": [
+    {
+      "surface": "סמוך",
+      "gloss": "esimbami"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "Motema na ye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "akoyika"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tango"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "amona"
+    },
+    {
+      "surface": "בצריו",
+      "gloss": "banguna na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:29:30.902349467Z",
+  "model": "glm-5.3"
+}

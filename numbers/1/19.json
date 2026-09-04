@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 1:19",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Ndenge Yawe atindaki ⟨את⟩ Moshe, ⟨bongo⟩ abangoli bango na etuka ya Sinai.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Ndenge"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "atindaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויפקדם",
+      "gloss": "mpe abangoli bango"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "na etuka"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "ya Sinai"
+    }
+  ],
+  "timestamp": "2026-09-04T00:01:33.518499871Z",
+  "model": "glm-5.3"
+}

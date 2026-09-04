@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 17:11",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 17,
+  "translation": "Mpe Shaul mpe Israel nyonso bayokaki ⟨את⟩ maloba oyo ya Mopelishti, mpe bokebi ezwaki bango mpe babangaki mingi.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "bayokaki"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe nyonso"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maloba"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "maloba"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "ya Mopelishti"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ויחתו",
+      "gloss": "bokebi ezwaki bango"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "babangaki"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mingi"
+    }
+  ],
+  "timestamp": "2026-09-03T18:17:10.326035045Z",
+  "model": "glm-5.3"
+}

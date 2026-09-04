@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 21:22",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 21,
+  "translation": "Bomeli ya Elohim na ye — ya bopeto ya bipeto mpe ya bopeto — akolia.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "Bomeli"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "ya Elohim na ye"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "ya bopeto"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "ya bipeto"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "mpe ya"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "bopeto"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "akolia"
+    }
+  ],
+  "timestamp": "2026-09-03T16:52:33.226249397Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 149:1",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 149,
+  "translation": "Bosembolaka Ya, bobambelaka Yawe liambo ya sika; sembo na ye na lisanga ya basantu.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Bosembolaka"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "bobambelaka"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "liambo"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ya sika"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "sembo na ye"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "na lisanga"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "ya basantu"
+    }
+  ],
+  "timestamp": "2026-09-03T21:36:12.966976232Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 38:6",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 38,
+  "translation": "Mpe nakolimbisa yo mpe ⟨את⟩ mboka oyo na maboko ya mokonzi ya Ashur, mpe nakobatela mboka oyo.",
+  "tokens": [
+    {
+      "surface": "ומכף",
+      "gloss": "mpe na maboko ya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashur"
+    },
+    {
+      "surface": "אצילך",
+      "gloss": "nakolimbisa yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mboka oyo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mboka"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "וגנותי",
+      "gloss": "mpe nakobatela"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "mboka"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "oyo"
+    }
+  ],
+  "timestamp": "2026-09-03T19:27:32.182049380Z",
+  "model": "glm-5.3"
+}

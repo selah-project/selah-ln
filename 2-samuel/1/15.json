@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 1:15",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpe David abengaki moko kati ya bangweta, mpe alobaki: Pema, bunda ye. Mpe asuwaki ye, mpe akufaki.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "abengaki"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "moko"
+    },
+    {
+      "surface": "מהנערים",
+      "gloss": "zati ya bangweta"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "גש",
+      "gloss": "Pema"
+    },
+    {
+      "surface": "פגע",
+      "gloss": "bunda"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "asuwaki ye"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "akufaki"
+    }
+  ],
+  "timestamp": "2026-09-03T18:25:59.533692902Z",
+  "model": "glm-5.3"
+}

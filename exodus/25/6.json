@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 25:6",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 25,
+  "translation": "Mafuta mpo na bokasi, bilomba mpo na mafuta ya botomonisi, mpe mpo na likau ya bilomba.",
+  "tokens": [
+    {
+      "surface": "שמן",
+      "gloss": "mafuta"
+    },
+    {
+      "surface": "למאר",
+      "gloss": "mpo na bokasi"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "bilomba"
+    },
+    {
+      "surface": "לשמן",
+      "gloss": "mpo na mafuta"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "ya botomonisi"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "mpe mpo na likau"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "ya bilomba"
+    }
+  ],
+  "timestamp": "2026-09-03T16:27:14.018878942Z",
+  "model": "glm-5.3"
+}

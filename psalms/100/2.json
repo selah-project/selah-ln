@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 100:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 100,
+  "translation": "Bokangi ⟨את⟩ Yawe na esengo; boyei liboso na ye na loyi.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "Bokangi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yawe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "na esengo"
+    },
+    {
+      "surface": "באו",
+      "gloss": "boyei"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "liboso na ye"
+    },
+    {
+      "surface": "ברננה",
+      "gloss": "na loyi"
+    }
+  ],
+  "timestamp": "2026-09-03T21:26:35.937174674Z",
+  "model": "glm-5.3"
+}

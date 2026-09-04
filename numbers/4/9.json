@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 4:9",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Bakomata elamba ya tekhelet, mpe bakanisa ⟨את⟩ menora ya monga, mpe ⟨את⟩ banyanga na yango, mpe ⟨את⟩ bindimba na yango, mpe ⟨את⟩ bateya na yango, mpe ⟨את⟩ biloko nyonso ya mafuta oyo basalelaka na yango na yango.",
+  "tokens": [
+    {
+      "surface": "וְלָקְחוּ",
+      "gloss": "Bakomata"
+    },
+    {
+      "surface": "בֶּגֶד",
+      "gloss": "elamba"
+    },
+    {
+      "surface": "תְּכֵלֶת",
+      "gloss": "ya tekhelet"
+    },
+    {
+      "surface": "וְכִסּוּ",
+      "gloss": "mpe bakanisa"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "menora ya monga"
+    },
+    {
+      "surface": "מְנֹרַת",
+      "gloss": "menora"
+    },
+    {
+      "surface": "הַמָּאוֹר",
+      "gloss": "ya monga"
+    },
+    {
+      "surface": "וְאֵת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "banyanga na yango"
+    },
+    {
+      "surface": "נֵרֹתֶיהָ",
+      "gloss": "banyanga na yango"
+    },
+    {
+      "surface": "וְאֵת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bindimba na yango"
+    },
+    {
+      "surface": "מַלְקָחֶיהָ",
+      "gloss": "bindimba na yango"
+    },
+    {
+      "surface": "וְאֵת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bateya na yango"
+    },
+    {
+      "surface": "מַחְתֹּתֶיהָ",
+      "gloss": "bateya na yango"
+    },
+    {
+      "surface": "וְאֵת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "biloko nyonso ya mafuta"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "כְּלֵי",
+      "gloss": "biloko"
+    },
+    {
+      "surface": "שַׁמְנָהּ",
+      "gloss": "ya mafuta"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "יְשָׁרְתוּ",
+      "gloss": "basalelaka"
+    },
+    {
+      "surface": "לָהּ",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "בָּהֶם",
+      "gloss": "na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T23:17:54.815150707Z",
+  "model": "glm-5.3"
+}

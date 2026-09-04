@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 105:20",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 105,
+  "translation": "Mokonzi atindaki mpe akangolaki ye; mokonzi ya bikolo, mpe apekaki ye.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "atindaki"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Mokonzi"
+    },
+    {
+      "surface": "ויתירהו",
+      "gloss": "mpe akangolaki ye"
+    },
+    {
+      "surface": "משל",
+      "gloss": "mokonzi"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ya bikolo"
+    },
+    {
+      "surface": "ויפתחהו",
+      "gloss": "mpe apekaki ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:27:35.320966867Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 130,
+  "translation": "Soki okenza mabebe, Ya, Adonai, nani akokama?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Soki"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "mabebe"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "okenza"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ya"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מי",
+      "gloss": "nani"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "akokama"
+    }
+  ],
+  "timestamp": "2026-09-03T21:33:32.175632692Z",
+  "model": "glm-5.3"
+}

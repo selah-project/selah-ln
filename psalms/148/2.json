@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 148:2",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 148,
+  "translation": "Bokumisa-yé banjumula na yé nyonso; bokumisa-yé mampinga na yé nyonso.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Bokumisa-yé"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "banjumula na yé"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "bokumisa-yé"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "mampinga na yé"
+    }
+  ],
+  "timestamp": "2026-09-03T21:36:57.899290746Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "exodus 28:40",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 28,
+  "translation": "Mpe mpo na bana ya Aharon osalaka bitono, mpe osalaka mpo na bango makangi, mpe bikubi ya moto osalaka mpo na bango, mpo na nkembo mpe mpo na kitoko.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "Mpe mpo na bana"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "osalaka"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "bitono"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "mpe osalaka"
+    },
+    {
+      "surface": "להם",
+      "gloss": "mpo na bango"
+    },
+    {
+      "surface": "אבנטים",
+      "gloss": "makangi"
+    },
+    {
+      "surface": "ומגבעות",
+      "gloss": "mpe bikubi ya moto"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "osalaka"
+    },
+    {
+      "surface": "להם",
+      "gloss": "mpo na bango"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "mpo na nkembo"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "mpe mpo na kitoko"
+    }
+  ],
+  "timestamp": "2026-09-03T16:30:28.087855614Z",
+  "model": "glm-5.3"
+}

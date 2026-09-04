@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 20:20",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 20,
+  "translation": "Mpe ⟨alo⟩ alobaki: Okopasa te. Mpe Edom abimaki kolukana na ye, na bato ebele mpe na loboko ya makasi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "okopasa"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "abimaki"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "kolukana na ye"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "na bato"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ebele"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "mpe na loboko"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "ya makasi"
+    }
+  ],
+  "timestamp": "2026-09-03T17:13:13.220324867Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 10:42",
+  "book": "joshua",
+  "lang": "ln",
+  "chapter": 10,
+  "translation": "Mpe ⟨את⟩ bakonzi nyonso oyo, mpe ⟨את⟩ mboka na bango, Yehoshua ezwaki na mbala moko, mpo Yawe Elohim ya Israel etumbelaki mpo na Israel.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "bakonzi nyonso oyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "bakonzi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "mboka na bango"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "mboka na bango"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "ezwaki"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "mbala"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "moko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Israel"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "etumbelaki"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "mpo na Israel"
+    }
+  ],
+  "timestamp": "2026-09-03T17:48:22.236029854Z",
+  "model": "glm-5.3"
+}

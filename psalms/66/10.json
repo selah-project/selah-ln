@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 66:10",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 66,
+  "translation": "Mpo ete omekaki biso, Elohim; osukoli biso lokola bosukoli ya mbongo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Mpo ete"
+    },
+    {
+      "surface": "בחנתנו",
+      "gloss": "omekaki biso"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צרפתנו",
+      "gloss": "osukoli biso"
+    },
+    {
+      "surface": "כצרף",
+      "gloss": "lokola bosukoli"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ya mbongo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:15:16.670961914Z",
+  "model": "glm-5.3"
+}

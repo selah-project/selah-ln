@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 19:5",
+  "book": "1-kings",
+  "lang": "ln",
+  "chapter": 19,
+  "translation": "Akolaki mpe atolaki na nse ya retama moko, mpe talá, oyo ezali malaika asolaki ⟨na⟩ ye, mpe alobaki na ye: Lamuka, lia.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "akolaki"
+    },
+    {
+      "surface": "ויישן",
+      "gloss": "atolaki"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "na nse ya"
+    },
+    {
+      "surface": "רתם",
+      "gloss": "retama"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "moko"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mpe talá"
+    },
+    {
+      "surface": "זה",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "malaika"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "asolaki"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Lamuka"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "lia"
+    }
+  ],
+  "timestamp": "2026-09-03T18:54:56.919746298Z",
+  "model": "glm-5.3"
+}

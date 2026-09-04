@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 9:12",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 9,
+  "translation": "Bakotika na yango te kino tongo, mpe seke bakobuka te na yango; na likabo nyonso ya Pesa bakosala ⟨את⟩ yango.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ישאירו",
+      "gloss": "bakotika"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kino"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "tongo"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "mpe seke"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "bakobuka"
+    },
+    {
+      "surface": "בו",
+      "gloss": "na yango"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "lokola"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "likabo"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesa"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "bakosala"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yango"
+    }
+  ],
+  "timestamp": "2026-09-04T00:18:57.842846795Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 18:12",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Bwambe ya ndeko mwasi ya tata na yo okolakisa te; nzoto ya tata na yo ye moko ⟨ezali⟩.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "bwambe"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "ndeko mwasi"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tata na yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "okolakisa"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "nzoto"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tata na yo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ye moko"
+    }
+  ],
+  "timestamp": "2026-09-03T16:49:02.011473770Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 28:5",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 28,
+  "translation": "Mpe bango bakokumba ⟨את⟩ sanda mpe ⟨את⟩ buluu mpe ⟨את⟩ violeti mpe ⟨את⟩ nkoko ya shani mpe ⟨את⟩ lini.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "Mpe bango"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "bakokumba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sanda"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "sanda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "buluu"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "buluu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "violeti"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "violeti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "nkoko ya shani"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "nkoko"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ya shani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "lini"
+    },
+    {
+      "surface": "השש",
+      "gloss": "lini"
+    }
+  ],
+  "timestamp": "2026-09-03T16:29:17.632990313Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 12:6",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 12,
+  "translation": "Mpo na bonyokeli ya baklasi, mpo na mabanzii ya babunda, sikoyo nagoluka, Yawe alobaki; nakotya ⟨ye⟩ na libateli mpo na oyo akopofa na ye.",
+  "tokens": [
+    {
+      "surface": "משד",
+      "gloss": "mpo na bonyokeli"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "ya baklasi"
+    },
+    {
+      "surface": "מאנקת",
+      "gloss": "mpo na mabanzii"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "ya babunda"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "sikoyo"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "nagoluka"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "alobaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "nakotya"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "na libateli"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "akopofa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T21:02:20.855071765Z",
+  "model": "glm-5.3"
+}

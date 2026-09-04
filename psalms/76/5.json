@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 76:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 76,
+  "translation": "Yo ozali ya bongengi, monene koleka bangomba ya bokwama.",
+  "tokens": [
+    {
+      "surface": "נאור",
+      "gloss": "ozali ya bongengi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "monene"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "koleka bangomba"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "ya bokwama"
+    }
+  ],
+  "timestamp": "2026-09-03T21:19:10.572874397Z",
+  "model": "glm-5.3"
+}

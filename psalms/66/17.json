@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 66:17",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 66,
+  "translation": "Epai na yandi nabengaki na monoko na ngai, mpe lokumu na nse ya ntolo na ngai.",
+  "tokens": [
+    {
+      "surface": "אליו",
+      "gloss": "Epai na yandi"
+    },
+    {
+      "surface": "פי",
+      "gloss": "monoko na ngai"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "nabengaki"
+    },
+    {
+      "surface": "ורומם",
+      "gloss": "mpe lokumu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "na nse ya"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "ntolo na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:15:20.832487385Z",
+  "model": "glm-5.3"
+}

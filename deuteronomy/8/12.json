@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 8:12",
+  "book": "deuteronomy",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpo ete okolia te mpe okosatola, mpe okotonga bandako malamu, mpe okofanda.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "Mpo ete ... te"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "okolia"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "mpe okosatola"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "mpe bandako"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "malamu"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "okotonga"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "mpe okofanda"
+    }
+  ],
+  "timestamp": "2026-09-03T17:27:04.031377194Z",
+  "model": "glm-5.3"
+}

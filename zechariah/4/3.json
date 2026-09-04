@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 4:3",
+  "book": "zechariah",
+  "lang": "ln",
+  "chapter": 4,
+  "translation": "Mpe nzete ya oliva mibale pene na yango, moko na loboko ya mobali ya gula, mpe moko na loboko ya mwasi na yango.",
+  "tokens": [
+    {
+      "surface": "ושנים",
+      "gloss": "mpe mibale"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "nzete ya oliva"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "pene na yango"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "moko"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "na loboko ya mobali"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "ya gula"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "mpe moko"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "שמאלה",
+      "gloss": "loboko ya mwasi na yango"
+    }
+  ],
+  "timestamp": "2026-09-03T20:55:45.612069111Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 104:13",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 104,
+  "translation": "Omelisaka bangomba uta na bituluke na ye na likolo; mabele esukumaka na mboto ya misala na yo.",
+  "tokens": [
+    {
+      "surface": "משקה",
+      "gloss": "Omelisaka"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "bangomba"
+    },
+    {
+      "surface": "מעליותיו",
+      "gloss": "uta na bituluke na ye"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "na mboto"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "ya misala na yo"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "esukumaka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mabele"
+    }
+  ],
+  "timestamp": "2026-09-03T21:26:50.924962748Z",
+  "model": "glm-5.3"
+}

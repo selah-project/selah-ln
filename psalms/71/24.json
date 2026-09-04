@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 71:24",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 71,
+  "translation": "Ata monoko na ngai, mokolo nyonso, ekosolola bosembo na yo; mpo bakangamaki, mpo bazwaki mawa, balingi mabe na ngai.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Ata"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "monoko na ngai"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "היום",
+      "gloss": "mokolo"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "ekosolola"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "bosembo na yo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "בשו",
+      "gloss": "bakangamaki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "bazwaki mawa"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "balingi"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "mabe na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:17:35.275634402Z",
+  "model": "glm-5.3"
+}

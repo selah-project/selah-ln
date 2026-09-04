@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 86:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 86,
+  "translation": "Pesa ngai ngolu, Adonai, mpo na yo nakolaka mobimba ya mokolo.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Pesa ngai ngolu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "na yo"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "nakolaka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mobimba ya"
+    },
+    {
+      "surface": "היום",
+      "gloss": "mokolo"
+    }
+  ],
+  "timestamp": "2026-09-03T21:23:14.756757344Z",
+  "model": "glm-5.3"
+}

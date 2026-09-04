@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 8:17",
+  "book": "judges",
+  "lang": "ln",
+  "chapter": 8,
+  "translation": "Mpe abukaki ⟨את⟩ miginga ya Penuel, mpe abomaki ⟨את⟩ bato ya mboka.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "mpe ⟨את⟩",
+      "marks": "miginga"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "miginga"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penuel"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "abukaki"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "mpe abomaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bato"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "bato"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ya mboka"
+    }
+  ],
+  "timestamp": "2026-09-03T18:01:08.670110326Z",
+  "model": "glm-5.3"
+}

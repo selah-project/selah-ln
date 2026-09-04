@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 18:21",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Yawe abongiselaki ngai na bosembo na ngai; na bosolo ya maboko na ngai azongiselaki ngai.",
+  "tokens": [
+    {
+      "surface": "יגמלני",
+      "gloss": "abongiselaki ngai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "na bosembo na ngai"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "na bosolo ya"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "maboko na ngai"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "azongiselaki"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:03:52.501078223Z",
+  "model": "glm-5.3"
+}

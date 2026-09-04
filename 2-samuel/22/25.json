@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 22:25",
+  "book": "2-samuel",
+  "lang": "ln",
+  "chapter": 22,
+  "translation": "Yawe azongisaki epai na ngai lokola bosembo na ngai, lokola boboi na ngai na bomoni ya miso na ye.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "azongisaki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "epai na ngai"
+    },
+    {
+      "surface": "כצדקתי",
+      "gloss": "lokola bosembo na ngai"
+    },
+    {
+      "surface": "כברי",
+      "gloss": "lokola boboi na ngai"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "na bomoni ya"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "miso na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T18:40:59.620424582Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 1:8",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 1,
+  "translation": "Mpo na Yisaskar, Netanel mwana ya Tsuar.",
+  "tokens": [
+    {
+      "surface": "ליששכר",
+      "gloss": "Mpo na Yisaskar"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "Netanel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mwana"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "ya Tsuar"
+    }
+  ],
+  "timestamp": "2026-09-03T16:56:18.888038638Z",
+  "model": "glm-5.3"
+}

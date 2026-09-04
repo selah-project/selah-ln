@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 120:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 120,
+  "translation": "Mase ya mobundi ya makasi, elongo na mabanga ya moto ya retama.",
+  "tokens": [
+    {
+      "surface": "חצי",
+      "gloss": "Mase"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ya mobundi"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "ya makasi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "elongo na"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "mabanga ya moto"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "ya retama"
+    }
+  ],
+  "timestamp": "2026-09-03T21:32:33.361921037Z",
+  "model": "glm-5.3"
+}

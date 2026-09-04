@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 18:35",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 18,
+  "translation": "Atangisaka maboko na ngai mpo na bitumba, mpe nsinga ya mabende ekokamaki na nkolo na ngai.",
+  "tokens": [
+    {
+      "surface": "מלמד",
+      "gloss": "atangisaka"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "maboko na ngai"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "mpo na bitumba"
+    },
+    {
+      "surface": "ונחתה",
+      "gloss": "mpe ekokamaki"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "nsinga"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "ya mabende"
+    },
+    {
+      "surface": "זרועותי",
+      "gloss": "na nkolo na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:04:35.839048653Z",
+  "model": "glm-5.3"
+}

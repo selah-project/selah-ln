@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 63:8",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 63,
+  "translation": "Mpe alobaki: ya solo, bango bato na ngai, bana bakoloba lokuta te; mpe akomaki mpo na bango mosungi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ya solo"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "bato na ngai"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bango"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "te"
+    },
+    {
+      "surface": "ישקרו",
+      "gloss": "bakoloba lokuta"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "mpe akomaki"
+    },
+    {
+      "surface": "להם",
+      "gloss": "mpo na bango"
+    },
+    {
+      "surface": "למושיע",
+      "gloss": "mosungi"
+    }
+  ],
+  "timestamp": "2026-09-03T19:39:09.298347560Z",
+  "model": "glm-5.3"
+}

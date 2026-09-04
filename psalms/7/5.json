@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 7:5",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Soki namelaki mabe moto oyo azalaki na kimya na ngai, mpe namatisaki monguna na ngai pamba,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "soki"
+    },
+    {
+      "surface": "גמלתי",
+      "gloss": "namelaki"
+    },
+    {
+      "surface": "שולמי",
+      "gloss": "oyo azalaki na kimya na ngai"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "ואחלצה",
+      "gloss": "mpe namatisaki"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "monguna na ngai"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "pamba"
+    }
+  ],
+  "timestamp": "2026-09-03T21:00:41.151127264Z",
+  "model": "glm-5.3"
+}

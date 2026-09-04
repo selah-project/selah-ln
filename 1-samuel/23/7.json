@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 23:7",
+  "book": "1-samuel",
+  "lang": "ln",
+  "chapter": 23,
+  "translation": "Bayebisaki Shaul ete David ako na Kela, mpe Shaul alobaki: Elohim amokaki ⟨את⟩ ye na maboko na ngai, mpo ete asengoki na kokota na mboka ya bibenge mpe bikangi.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Bayebisaki"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ete"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ako"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "David"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Kela"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "amokaki"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ye",
+      "marks": "ye (David)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "na maboko na ngai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo ete"
+    },
+    {
+      "surface": "נסגר",
+      "gloss": "asengoki"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "kokota"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "na mboka"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "bibenge"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "mpe bikangi"
+    }
+  ],
+  "timestamp": "2026-09-03T18:20:59.038122231Z",
+  "model": "glm-5.3"
+}

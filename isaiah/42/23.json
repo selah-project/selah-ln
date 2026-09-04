@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 42:23",
+  "book": "isaiah",
+  "lang": "ln",
+  "chapter": 42,
+  "translation": "Nani na kati na bino akoyoka oyo? Nani akotalela mpe akoyoka na nsima?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Nani"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "na kati na bino"
+    },
+    {
+      "surface": "יאזין",
+      "gloss": "akoyoka"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "יקשב",
+      "gloss": "akotalela"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "mpe akoyoka"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "na nsima"
+    }
+  ],
+  "timestamp": "2026-09-03T19:30:22.863784047Z",
+  "model": "glm-5.3"
+}

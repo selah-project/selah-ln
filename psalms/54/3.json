@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 54:3",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 54,
+  "translation": "Elohim, na nkombo na yo bobika ngai, mpe na nguya na yo kondimisa ngai.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "na nkombo na yo"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "bobika ngai"
+    },
+    {
+      "surface": "ובגבורתך",
+      "gloss": "mpe na nguya na yo"
+    },
+    {
+      "surface": "תדינני",
+      "gloss": "kondimisa ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:13:51.542863242Z",
+  "model": "glm-5.3"
+}

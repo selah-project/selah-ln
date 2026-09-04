@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 55:4",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 55,
+  "translation": "Na mongongo ya banguna, mpo na bokangi ya mabe — mpo bazongisaka mabe epai na ngai, mpe na mposa balukaka ngai.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "Na mongongo ya"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "banguna"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "mpo na"
+    },
+    {
+      "surface": "עקת",
+      "gloss": "bokangi"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ya mabe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mpo"
+    },
+    {
+      "surface": "ימיטו",
+      "gloss": "bazongisaka"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "epai na ngai"
+    },
+    {
+      "surface": "און",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "mpe na mposa"
+    },
+    {
+      "surface": "ישטמוני",
+      "gloss": "balukaka ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:14:19.525315702Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 27:34",
+  "book": "genesis",
+  "lang": "ln",
+  "chapter": 27,
+  "translation": "Ntango Esav amwaki ⟨את⟩ maloba ya tata na ye, mpe atomboki kolilia monene mpe mawa mpenza mingi, mpe alobaki na tata na ye: Yomba ngai mpe ngai, tata.",
+  "tokens": [
+    {
+      "surface": "כשמע",
+      "gloss": "Ntango amwaki"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maloba"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "maloba"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ya tata na ye"
+    },
+    {
+      "surface": "ויצעק",
+      "gloss": "mpe atomboki"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "kolilia"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "monene"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "mpe mawa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mpenza"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mingi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "mpe alobaki"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "na tata na ye"
+    },
+    {
+      "surface": "ברכני",
+      "gloss": "Yomba ngai"
+    },
+    {
+      "surface": "גם",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngai"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tata"
+    }
+  ],
+  "timestamp": "2026-09-03T15:59:23.547011745Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 35:24",
+  "book": "psalms",
+  "lang": "ln",
+  "chapter": 35,
+  "translation": "Bokanisa ngai na bosembo na yo, Yawe Elohim na ngai, mpe bakanisaka mpasi na ngai te.",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "Bokanisa ngai"
+    },
+    {
+      "surface": "כצדקך",
+      "gloss": "na bosembo na yo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim na ngai"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "mpe te"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "basepela"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na ngai"
+    }
+  ],
+  "timestamp": "2026-09-03T21:07:55.984110960Z",
+  "model": "glm-5.3"
+}

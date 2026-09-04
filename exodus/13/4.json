@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 13:4",
+  "book": "exodus",
+  "lang": "ln",
+  "chapter": 13,
+  "translation": "Mokolo oyo bino bokimaka, na sanza ya Abib.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "Mokolo oyo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "bino"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "bokimaka"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "na sanza ya"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "Abib"
+    }
+  ],
+  "timestamp": "2026-09-03T16:21:21.197299335Z",
+  "model": "glm-5.3"
+}

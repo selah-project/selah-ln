@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 16:6",
+  "book": "leviticus",
+  "lang": "ln",
+  "chapter": 16,
+  "translation": "Mpe Aharon atolaki ⟨את⟩ ngombe ya masumu oyo ezali ya ye, mpe apolaki masumu mpo na ye moko mpe mpo na ndako na ye.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "mppe atolaki"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngombe ya masumu"
+    },
+    {
+      "surface": "פר",
+      "gloss": "ngombe"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ya masumu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ezali ya ye"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "mpe apolaki masumu"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "mpo na ye moko"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "mpe mpo na"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ndako na ye"
+    }
+  ],
+  "timestamp": "2026-09-03T16:49:43.264045030Z",
+  "model": "glm-5.3"
+}

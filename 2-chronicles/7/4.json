@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 7:4",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 7,
+  "translation": "Mpe mokonzi mpe bato nyonso bazalaki kopesa sacrifice liboso ya Yawe.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "mpe mokonzi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "mpe nyonso"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bato"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "bazalaki kopesa"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sacrifice"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "liboso ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yawe"
+    }
+  ],
+  "timestamp": "2026-09-03T22:56:36.571690050Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 31:51",
+  "book": "numbers",
+  "lang": "ln",
+  "chapter": 31,
+  "translation": "Mpe Moshe mpe Elazara kohen azwaki ⟨את⟩ wolo kati na ⟨את⟩ bango — biloko nyonso ya mosala.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "azwaki"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואלעזר",
+      "gloss": "mpe Elazara"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "kohen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wolo"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "wolo"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "kati na ⟨את⟩ bango"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nyonso"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "biloko"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ya mosala"
+    }
+  ],
+  "timestamp": "2026-09-03T17:19:03.125266915Z",
+  "model": "glm-5.3"
+}

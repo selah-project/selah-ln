@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 32:3",
+  "book": "2-chronicles",
+  "lang": "ln",
+  "chapter": 32,
+  "translation": "Mpe akangaki likebi na bakambi na ye mpe bato ya nguya na ye mpo na kopinga ⟨את⟩ mai ya balulu oyo ezali libanda ya vile, mpe basalakisaki ye.",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "mpe akangaki likebi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "bakambi na ye"
+    },
+    {
+      "surface": "וגבריו",
+      "gloss": "mpe bato ya nguya na ye"
+    },
+    {
+      "surface": "לסתום",
+      "gloss": "mpo na kopinga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mai ya balulu"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "mai"
+    },
+    {
+      "surface": "העינות",
+      "gloss": "ya balulu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyo"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ezali libanda"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "ya vile"
+    },
+    {
+      "surface": "ויעזרוהו",
+      "gloss": "mpe basalakisaki ye"
+    }
+  ],
+  "timestamp": "2026-09-03T23:08:15.828107197Z",
+  "model": "glm-5.3"
+}
