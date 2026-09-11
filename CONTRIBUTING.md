@@ -53,3 +53,8 @@ Readers, students of Hebrew, translators, and every native Lingala speaker are w
 - **Orthography**: standard practical Lingala (Latin, no tone marks, e/o for ɛ/ɔ); no bare English or French in the text.
 - **Principles**: letter-faithfulness outranks readability; add no doctrine, weaken nothing the text says; each verse in its first reader's light.
 - The first pass was AI-rendered on the discipline rails and human-checked; errors remain — that is why this door is open. By contributing you agree your work is licensed under the repository license (CC BY-SA 4.0). Every correction is judged against the Hebrew; the Hebrew decides.
+
+## Conduct
+
+Be honest, be kind, show your evidence. Distinguish certainty from
+suggestion. The maintainers weigh and decide.
