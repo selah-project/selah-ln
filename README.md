@@ -77,3 +77,9 @@ Liboso ya koyebisa mbeba to kopesa bosembolami, tanga liboso [CONTRIBUTING.md](C
 ## In English, briefly
 
 A word-by-word rendering of the Hebrew Bible (the Tanakh) into Lingala — the fifty-sixth chair of the Selah project, the first chair of the Congo basin. Where the four-letter Name stands, we write **Yawe** — never the title *Nkolo*, never the hybrid *Yehova*. **Elohim** is transliterated; *Nzambe* stands in the witness column, not ours. Every direct-object את surfaces as ⟨את⟩. Supplied words sit in ⟨brackets⟩. Accuracy outranks readability; the Hebrew is the truth, the Lingala column is a window. Errors remain — come and check: issues and pull requests are welcome, and CONTRIBUTING.md explains the rules. Licensed CC BY-SA 4.0.
+
+## Selah
+
+- The languages of Selah — every chair, native name and status: https://selahproject.com/learn/languages/index.md
+- How the renderings are made — the process, the discipline, the receipts: https://selahproject.com/learn/data-sources/selah-renderings.md
+- The source text — OSHB / WLC 4.20, the record every rendering stands on: https://selahproject.com/learn/data-sources/oshb-wlc.md
